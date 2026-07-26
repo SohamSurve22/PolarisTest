@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "document_id": "DOC_10ec96ce",
+    "filename": "tmp8jzphasf.txt",
+    "format": "txt",
+    "title": null,
+    "uploaded_at": null,
+    "source_path": "C:\\Users\\soham\\AppData\\Local\\Temp\\tmp8jzphasf.txt",
+    "extra": {}
+  },
+  "raw_text": "1. Scope\r\n\r\nFirst sentence. Second sentence.",
+  "page_count": null,
+  "extraction_notes": [],
+  "cleaned_text": "1. Scope\n\nFirst sentence. Second sentence.",
+  "cleaning_notes": [
+    "Normalized line endings to LF"
+  ],
+  "full_text": "1. Scope\n\nFirst sentence. Second sentence.",
+  "sections": [
+    {
+      "section_id": "S001",
+      "title": "1. Scope",
+      "text": "1. Scope\n\nFirst sentence. Second sentence.",
+      "span": {
+        "start": 0,
+        "end": 42
+      },
+      "level": 1,
+      "parent_section_id": null
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "S001_C001",
+      "section_id": "S001",
+      "section_title": "1. Scope",
+      "document_id": "DOC_10ec96ce",
+      "document_type": "txt",
+      "clause_text": "First sentence.",
+      "span": {
+        "start": 0,
+        "end": 15
+      },
+      "clause_number": null
+    },
+    {
+      "clause_id": "S001_C002",
+      "section_id": "S001",
+      "section_title": "1. Scope",
+      "document_id": "DOC_10ec96ce",
+      "document_type": "txt",
+      "clause_text": "Second sentence.",
+      "span": {
+        "start": 16,
+        "end": 32
+      },
+      "clause_number": null
+    }
+  ]
+}

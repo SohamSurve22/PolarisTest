@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "document_id": "DOC_c38ed31d",
+    "filename": "privacy_policy.txt",
+    "format": "txt",
+    "title": null,
+    "uploaded_at": null,
+    "source_path": "C:\\Users\\soham\\AppData\\Local\\Temp\\pytest-of-soham\\pytest-21\\test_preview_from_file_path0\\privacy_policy.txt",
+    "extra": {}
+  },
+  "raw_text": "Privacy Policy\r\n\r\nWe collect data.\r\n",
+  "page_count": null,
+  "extraction_notes": [],
+  "cleaned_text": "Privacy Policy\n\nWe collect data.\n",
+  "cleaning_notes": [
+    "Normalized line endings to LF"
+  ],
+  "full_text": "Privacy Policy\n\nWe collect data.\n",
+  "sections": [
+    {
+      "section_id": "S001",
+      "title": null,
+      "text": "Privacy Policy\n\nWe collect data.\n",
+      "span": {
+        "start": 0,
+        "end": 33
+      },
+      "level": 1,
+      "parent_section_id": null
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "S001_C001",
+      "section_id": "S001",
+      "section_title": null,
+      "document_id": "DOC_c38ed31d",
+      "document_type": "txt",
+      "clause_text": "We collect data.",
+      "span": {
+        "start": 0,
+        "end": 16
+      },
+      "clause_number": null
+    }
+  ]
+}

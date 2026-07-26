@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "document_id": "DOC_2eed5b25",
+    "filename": "policy.txt",
+    "format": "txt",
+    "title": null,
+    "uploaded_at": null,
+    "source_path": "C:\\Users\\soham\\AppData\\Local\\Temp\\pytest-of-soham\\pytest-20\\test_preview_writes_output_fil0\\policy.txt",
+    "extra": {}
+  },
+  "raw_text": "ARTICLE I\r\n\r\nThe Partner shall comply.\r\n",
+  "page_count": null,
+  "extraction_notes": [],
+  "cleaned_text": "ARTICLE I\n\nThe Partner shall comply.\n",
+  "cleaning_notes": [
+    "Normalized line endings to LF"
+  ],
+  "full_text": "ARTICLE I\n\nThe Partner shall comply.\n",
+  "sections": [
+    {
+      "section_id": "S001",
+      "title": "ARTICLE I",
+      "text": "ARTICLE I\n\nThe Partner shall comply.\n",
+      "span": {
+        "start": 0,
+        "end": 37
+      },
+      "level": 1,
+      "parent_section_id": null
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "S001_C001",
+      "section_id": "S001",
+      "section_title": "ARTICLE I",
+      "document_id": "DOC_2eed5b25",
+      "document_type": "txt",
+      "clause_text": "The Partner shall comply.",
+      "span": {
+        "start": 0,
+        "end": 25
+      },
+      "clause_number": null
+    }
+  ]
+}

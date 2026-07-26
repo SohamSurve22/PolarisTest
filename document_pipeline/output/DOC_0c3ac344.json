@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "document_id": "DOC_0c3ac344",
+    "filename": "tmp_6a8c0zp.txt",
+    "format": "txt",
+    "title": null,
+    "uploaded_at": null,
+    "source_path": "C:\\Users\\soham\\AppData\\Local\\Temp\\tmp_6a8c0zp.txt",
+    "extra": {}
+  },
+  "raw_text": "1. Scope\r\n\r\nThe Partner shall comply.",
+  "page_count": null,
+  "extraction_notes": [],
+  "cleaned_text": "1. Scope\n\nThe Partner shall comply.",
+  "cleaning_notes": [
+    "Normalized line endings to LF"
+  ],
+  "full_text": "1. Scope\n\nThe Partner shall comply.",
+  "sections": [
+    {
+      "section_id": "S001",
+      "title": "1. Scope",
+      "text": "1. Scope\n\nThe Partner shall comply.",
+      "span": {
+        "start": 0,
+        "end": 35
+      },
+      "level": 1,
+      "parent_section_id": null
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "S001_C001",
+      "section_id": "S001",
+      "section_title": "1. Scope",
+      "document_id": "DOC_0c3ac344",
+      "document_type": "txt",
+      "clause_text": "The Partner shall comply.",
+      "span": {
+        "start": 0,
+        "end": 25
+      },
+      "clause_number": null
+    }
+  ]
+}
