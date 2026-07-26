@@ -15,6 +15,15 @@ _COLON_HEADING = re.compile(r"^(?P<title>[^\n:]{1,80}):\s*$")
 _TITLE_CASE_HEADING = re.compile(
   r"^(?P<title>[A-Z][A-Za-z0-9'&()/\-]+(?:\s+[A-Z][A-Za-z0-9'&()/\-]+){0,8})\s*$",
 )
+# Sentence-case headings are extremely common in real-world policies
+# ("To provide you with the Firefox browser", "How is your data used?") —
+# only the first word is capitalized, unlike _TITLE_CASE_HEADING above which
+# requires every word capitalized. Capped at a modest word count so this
+# doesn't start matching ordinary paragraph-length sentences.
+_SENTENCE_CASE_HEADING = re.compile(
+  r"^[A-Z][A-Za-z0-9'&()/\-]*(?:\s+[A-Za-z0-9'&()/\-]+){0,11}[?]?\s*$",
+)
+_MAX_STANDALONE_WORDS = 12
 
 _MAX_HEADING_LENGTH = 120
 _MIN_STANDALONE_LENGTH = 3
@@ -192,7 +201,12 @@ def _is_standalone_heading(
   if line.endswith("."):
     return False
 
-  if not _TITLE_CASE_HEADING.match(line):
+  if len(line.split()) > _MAX_STANDALONE_WORDS:
+    return False
+
+  is_title_case = _TITLE_CASE_HEADING.match(line) is not None
+  is_sentence_case = _SENTENCE_CASE_HEADING.match(line) is not None
+  if not is_title_case and not is_sentence_case:
     return False
 
   previous_blank = previous_line is not None and previous_line.strip() == ""

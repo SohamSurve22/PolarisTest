@@ -12,14 +12,10 @@ _OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent.parent / "output"
 from document_pipeline.core.exceptions import DocumentPipelineError
 from document_pipeline.models.document import DocumentSource
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
-from document_pipeline.pipeline.stages.block_extractor import DocumentBlockExtractor
-from document_pipeline.pipeline.stages.clause_builder import ClauseBuilder
-from document_pipeline.pipeline.stages.clause_extractor import ClauseExtractor
-from document_pipeline.pipeline.stages.cleaner import DocumentCleaner
-from document_pipeline.pipeline.stages.loader import DocumentLoader
-from document_pipeline.pipeline.stages.section_extractor import SectionExtractor
+from document_pipeline.pipeline.orchestrator import create_default_orchestrator
 from document_pipeline.serializers.pipeline_preview import (
   PipelinePreviewArtifact,
+  build_pipeline_preview,
   save_pipeline_preview,
   serialize_pipeline_preview,
 )
@@ -140,28 +136,6 @@ def _format_from_extension(extension: str) -> DocumentFormat:
 
 
 def _run_pipeline(source: DocumentSource) -> PipelinePreviewArtifact:
-  loader = DocumentLoader()
-  cleaner = DocumentCleaner()
-  section_extractor = SectionExtractor()
-  block_extractor = DocumentBlockExtractor()
-  clause_builder = ClauseBuilder()
-  clause_extractor = ClauseExtractor()
-
-  loaded = loader.process(source)
-  cleaned = cleaner.process(loaded)
-  sectioned = section_extractor.process(cleaned)
-  blocked = block_extractor.process(sectioned)
-  candidate_doc = clause_builder.process(blocked)
-  segmented = clause_extractor.process(candidate_doc)
-
-  return PipelinePreviewArtifact(
-    metadata=segmented.metadata,
-    raw_text=loaded.raw_text,
-    page_count=loaded.page_count,
-    extraction_notes=list(loaded.extraction_notes),
-    cleaned_text=cleaned.cleaned_text,
-    cleaning_notes=list(cleaned.cleaning_notes),
-    full_text=sectioned.full_text,
-    sections=sectioned.sections,
-    clauses=segmented.clauses,
-  )
+  orchestrator = create_default_orchestrator()
+  outputs = orchestrator.run(source)
+  return build_pipeline_preview(outputs)
