@@ -1,0 +1,48 @@
+Metadata-Version: 2.4
+Name: graph-builder
+Version: 0.1.0
+Summary: Offline knowledge graph ingestion pipeline for PolarisLex
+Author: PolarisLex Team
+License: Proprietary
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: neo4j>=5.0.0
+Requires-Dist: pydantic>=2.6.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.1.0; extra == "dev"
+Requires-Dist: mypy>=1.8.0; extra == "dev"
+Requires-Dist: ruff>=0.3.0; extra == "dev"
+Requires-Dist: types-neo4j>=5.0.0; extra == "dev"
+
+# Graph Builder
+
+Offline knowledge graph ingestion pipeline for PolarisLex.
+
+Converts structured legal document output (`EntityDocument`) into a validated
+Neo4j knowledge graph. This module never makes compliance decisions.
+
+## Pipeline
+
+```
+EntityDocument → LLM Graph Builder → Graph IR → Validator → Cypher Generator → Neo4j
+```
+
+## Install
+
+```bash
+pip install -e ../document_pipeline
+pip install -e ".[dev]"
+```
+
+## Usage
+
+```python
+from graph_builder import GraphBuilderPipeline, LLMGraphBuilder, Neo4jConfig, Neo4jLoader
+
+pipeline = GraphBuilderPipeline(
+    llm_builder=LLMGraphBuilder(my_llm_client),
+    neo4j_loader=Neo4jLoader(Neo4jConfig(uri="bolt://localhost:7687", username="neo4j", password="...")),
+)
+stats = pipeline.build(entity_document)
+```
