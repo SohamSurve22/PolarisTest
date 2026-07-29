@@ -11,8 +11,12 @@ requires-python = ">=3.12"
 license = { text = "Proprietary" }
 authors = [{ name = "PolarisLex Team" }]
 dependencies = [
+    "neo4j>=5.0.0",
     "pydantic>=2.6.0",
 ]
+
+[project.scripts]
+semantic-graph = "semantic_graph.cli.main:main"
 
 [project.optional-dependencies]
 dev = [
@@ -20,6 +24,7 @@ dev = [
     "pytest-cov>=4.1.0",
     "mypy>=1.8.0",
     "ruff>=0.3.0",
+    "types-neo4j>=5.0.0",
 ]
 
 [tool.setuptools.packages.find]
