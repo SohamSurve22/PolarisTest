@@ -366,3 +366,26 @@ class TestEntityExtractor:
     result = extractor.process(doc)
     for ent in result.entity_clauses[0].entities:
       assert ent.detection_method in ("actor_dict", "document_dict", "object_dict", "time_duration", "time_adverb", "time_event", "date_explicit", "date_iso", "reference_detector")
+
+
+class TestEntityMerger:
+
+  def test_overlapping_entities_do_not_double_count(self) -> None:
+    merger = EntityMerger()
+    overlapping = [
+      Entity(entity_id="e1", entity_text="Data Fiduciary", entity_type=EntityType.LEGAL_ACTOR, start_offset=4, end_offset=18),
+      Entity(entity_id="e2", entity_text="Fiduciary", entity_type=EntityType.LEGAL_ACTOR, start_offset=9, end_offset=18),
+    ]
+    merged = merger.merge(overlapping)
+    # Longest match wins; the contained entity is dropped.
+    assert len(merged) == 1
+    assert merged[0].entity_id == "e1"
+
+  def test_adjacent_entities_are_both_kept(self) -> None:
+    merger = EntityMerger()
+    adjacent = [
+      Entity(entity_id="e1", entity_text="Court", entity_type=EntityType.LEGAL_ACTOR, start_offset=0, end_offset=5),
+      Entity(entity_id="e2", entity_text="Tribunal", entity_type=EntityType.LEGAL_ACTOR, start_offset=10, end_offset=17),
+    ]
+    merged = merger.merge(adjacent)
+    assert len(merged) == 2

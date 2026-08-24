@@ -40,6 +40,19 @@ class TestGraphValidator:
     with pytest.raises(GraphValidationError, match="Unknown relationship type"):
       self.validator.validate(graph)
 
+  def test_accepts_has_obligation_relationship(self) -> None:
+    """HAS_OBLIGATION is emitted by semantic enrichment and must validate."""
+    graph = GraphIR(
+      nodes=[
+        GraphNode(id="c1", label="Clause", properties={"name": "C1"}),
+        GraphNode(id="o1", label="Obligation", properties={"subject": "x"}),
+      ],
+      relationships=[
+        GraphRelationship(source="c1", target="o1", type="HAS_OBLIGATION"),
+      ],
+    )
+    assert self.validator.validate(graph) == []
+
   def test_rejects_duplicate_node_ids(self) -> None:
     graph = GraphIR(
       nodes=[

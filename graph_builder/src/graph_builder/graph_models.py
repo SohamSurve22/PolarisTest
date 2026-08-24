@@ -53,5 +53,6 @@ ALLOWED_RELATIONSHIP_TYPES: frozenset[str] = frozenset(
     "REFERENCES",
     "DERIVED_FROM",
     "UNRESOLVED_REFERENCE",
+    "HAS_OBLIGATION",
   }
 )

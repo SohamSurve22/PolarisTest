@@ -481,8 +481,11 @@ def _collect_implicit_list_items(
     _offset, line = lines[i]
     stripped = line.strip()
     if not stripped:
+      # Items in an implicit (unmarked) list are sometimes separated by blank
+      # lines; skip the blanks and keep collecting short items so the whole
+      # list (e.g. a vertical country list) is captured as one block.
       i += 1
-      break
+      continue
     if not _is_implicit_list_item(stripped):
       break
     items.append((_offset, line, stripped))

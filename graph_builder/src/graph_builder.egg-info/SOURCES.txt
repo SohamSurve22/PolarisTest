@@ -10,6 +10,7 @@ src/graph_builder/graph_prompt.py
 src/graph_builder/graph_validator.py
 src/graph_builder/llm_graph_builder.py
 src/graph_builder/neo4j_loader.py
+src/graph_builder/py.typed
 src/graph_builder.egg-info/PKG-INFO
 src/graph_builder.egg-info/SOURCES.txt
 src/graph_builder.egg-info/dependency_links.txt

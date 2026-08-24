@@ -272,10 +272,9 @@ class EntityMerger:
         merged.append(ent)
         continue
 
-      prev = merged[-1]
-      if ent.start_offset >= prev.end_offset:
-        merged.append(ent)
-      elif ent.end_offset > prev.end_offset:
+      # Drop any entity that overlaps the previously accepted one — overlapping
+      # but longer-extending spans are ambiguous and would double-count.
+      if ent.start_offset >= merged[-1].end_offset:
         merged.append(ent)
 
     return merged

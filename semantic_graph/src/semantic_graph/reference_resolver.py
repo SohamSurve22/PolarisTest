@@ -256,6 +256,14 @@ def _build_node_index(graph: GraphIR) -> dict[str, dict[str, str]]:
             if ident:
                 idx["subsection"][ident.lower()] = node.id
         elif label == "Clause":
+            cid = props.get("clause_id", "")
+            if cid:
+                # Clause nodes carry clause_id like "S001_C005"; index both the
+                # trailing number and the full id so "clause 5" can be resolved.
+                idx["clause"][cid.lower()] = node.id
+                num_match = re.search(r"C(\d+)$", cid)
+                if num_match:
+                    idx["clause"][num_match.group(1)] = node.id
             cnum = props.get("clause_number", "")
             if cnum:
                 idx["clause"][cnum.lower()] = node.id

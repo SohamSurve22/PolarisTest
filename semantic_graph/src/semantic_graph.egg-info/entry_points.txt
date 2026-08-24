@@ -1,0 +1,2 @@
+[console_scripts]
+semantic-graph = semantic_graph.cli.main:main

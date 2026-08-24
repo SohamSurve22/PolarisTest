@@ -187,8 +187,20 @@ class ClauseBuilder(BaseProcessor[BlockDocument, ClauseCandidateDocument]):
       # LIST
       # ------------------------------------------------------------------
       if block.type == BlockType.LIST:
-        # Rule 5: Country lists / implicit lists without verbs → skip
+        # Rule 5: Implicit (unmarked) lists -- e.g. a vertical country/region
+        # list -- are preserved as clause content.  Merge the items into the
+        # preceding candidate (so the whole list stays in one clause), or, if
+        # there is no preceding candidate, create a standalone clause from the
+        # items.  This keeps a list of names/terms inside its section instead
+        # of discarding it, so the section's clause contains every entry.
         if _is_implicit_list(block):
+          list_text = _format_list_text(block)
+          if list_text:
+            if candidates and _is_adjacent(candidates[-1], block):
+              candidates[-1].text = candidates[-1].text.rstrip() + "\n" + list_text
+              candidates[-1].block_ids.append(block.block_id)
+            else:
+              candidates.append(_start_candidate(block, text=list_text))
           i += 1
           continue
 
@@ -309,6 +321,10 @@ def _is_continuation(candidate: ClauseCandidate, block: DocumentBlock) -> bool:
 
 def _is_implicit_list(block: DocumentBlock) -> bool:
   """Check if a LIST block is an implicit (unmarked) list (Rule 5).
+
+  Used to decide how the list is preserved as clause content: implicit lists
+  (e.g. a vertical country/region list) are merged into the enclosing clause
+  rather than treated as a bullet list with an introductory paragraph.
 
   Relies on the ``is_implicit`` metadata flag set by DocumentBlockExtractor.
   Falls back to heuristic if the flag is absent.

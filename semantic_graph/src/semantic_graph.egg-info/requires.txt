@@ -1,0 +1,9 @@
+neo4j>=5.0.0
+pydantic>=2.6.0
+
+[dev]
+pytest>=8.0.0
+pytest-cov>=4.1.0
+mypy>=1.8.0
+ruff>=0.3.0
+types-neo4j>=5.0.0

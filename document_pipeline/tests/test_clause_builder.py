@@ -173,14 +173,14 @@ def test_bullet_list_with_intro_paragraph_merged(
 
 
 # ---------------------------------------------------------------------------
-# Rule 5: Country lists / implicit lists
+# Rule 5: Implicit (unmarked) lists are preserved as clause content
 # ---------------------------------------------------------------------------
 
 
-def test_implicit_list_skipped(
+def test_implicit_list_preserved_as_clause(
   clause_builder: ClauseBuilder,
 ) -> None:
-  """Unmarked short-item list → no candidate."""
+  """Unmarked short-item list → one clause containing every item."""
   items = [
     _make_block("Australia", block_type=BlockType.LIST_ITEM, order=0),
     _make_block("Brazil", block_type=BlockType.LIST_ITEM, order=1),
@@ -193,7 +193,11 @@ def test_implicit_list_skipped(
 
   result = clause_builder.process(block_doc)
 
-  assert len(result.candidates) == 0
+  assert len(result.candidates) == 1
+  c = result.candidates[0]
+  assert "Australia" in c.text
+  assert "Brazil" in c.text
+  assert "Canada" in c.text
 
 
 # ---------------------------------------------------------------------------

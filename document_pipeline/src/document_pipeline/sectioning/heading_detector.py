@@ -29,6 +29,10 @@ _MAX_HEADING_LENGTH = 120
 _MIN_STANDALONE_LENGTH = 3
 _MAX_STANDALONE_LENGTH = 80
 
+# A "list item" heading is a short, standalone-style line (e.g. a single country
+# name in a vertical list). Runs of such headings are collapsed into one section.
+_LIST_ITEM_MAX_WORDS = 2
+
 
 class HeadingDetector:
   """Detects structural headings using deterministic pattern rules."""
@@ -48,7 +52,69 @@ class HeadingDetector:
       if detected is not None:
         headings.append(detected)
 
-    return headings
+    return self._collapse_list_runs(text, headings)
+
+  def _collapse_list_runs(
+    self,
+    text: str,
+    headings: list[DetectedHeading],
+  ) -> list[DetectedHeading]:
+    """Collapse runs of consecutive list-style headings into a single section.
+
+    A vertical list of countries (one name per line) is detected as several
+    standalone/uppercase headings.  Such runs have no body text between them,
+    so they are collapsed into one section.
+
+    * If the run follows another (kept) section heading, every item -- including
+      the first -- is demoted to body text, so the list stays part of its
+      enclosing section and inherits that section's real title (e.g.
+      "Region Specific Information") instead of being titled with a country name.
+    * If the run starts at the top of the document (no preceding kept heading),
+      the first item is kept as the section title and the rest become body text.
+
+    Headings separated by real body paragraphs are not adjacent and are left
+    untouched, so genuine headings (e.g. FAQ questions followed by answers) are
+    preserved.
+    """
+    if len(headings) < 2:
+      return headings
+
+    keep = [True] * len(headings)
+    i = 0
+    while i < len(headings):
+      if not self._is_list_run_candidate(headings[i]):
+        i += 1
+        continue
+
+      run_end = i
+      while (
+        run_end + 1 < len(headings)
+        and self._is_list_run_candidate(headings[run_end + 1])
+        and _only_blank_lines_between(text, headings[run_end], headings[run_end + 1])
+      ):
+        run_end += 1
+
+      if run_end > i:
+        # If the run follows another (kept) section heading, the whole list
+        # belongs to that enclosing section: demote every item, including the
+        # first, to body text so the list keeps its real contextual title
+        # (e.g. "Region Specific Information") rather than a country name.
+        # Only when the run starts at the top of the document (no preceding
+        # kept heading) do we keep the first item as the section title.
+        preceded_by_kept = any(keep[k] for k in range(i - 1, -1, -1))
+        drop_from = i if preceded_by_kept else i + 1
+        for k in range(drop_from, run_end + 1):
+          keep[k] = False
+
+      i = run_end + 1
+
+    return [heading for heading, kept in zip(headings, keep) if kept]
+
+  def _is_list_run_candidate(self, heading: DetectedHeading) -> bool:
+    """Return True if *heading* looks like a single item in a vertical list."""
+    if heading.heading_style not in (HeadingStyle.STANDALONE, HeadingStyle.UPPERCASE):
+      return False
+    return len(heading.title.split()) <= _LIST_ITEM_MAX_WORDS
 
   def _detect_line(
     self,
@@ -136,6 +202,18 @@ def _iter_line_entries(text: str) -> list[tuple[int, str]]:
     offset += len(line) + 1
 
   return entries
+
+
+def _only_blank_lines_between(
+  text: str,
+  first: DetectedHeading,
+  second: DetectedHeading,
+) -> bool:
+  """Return True if only blank lines lie between two adjacent headings."""
+  line_end = text.find("\n", first.start_char)
+  if line_end == -1:
+    line_end = len(text)
+  return text[line_end:second.start_char].strip() == ""
 
 
 def _looks_like_numbered_heading(title: str) -> bool:
