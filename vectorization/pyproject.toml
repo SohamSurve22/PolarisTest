@@ -25,6 +25,9 @@ dev = [
     "mypy>=1.8.0",
     "ruff>=0.3.0",
 ]
+st = [
+    "sentence-transformers>=3.0.0",
+]
 
 [project.scripts]
 vectorization = "vectorization.cli:main"

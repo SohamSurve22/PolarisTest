@@ -32,6 +32,11 @@ class VectorizationSettings(BaseSettings):
   ollama_url: str = Field(default="http://localhost:11434/api/embeddings")
   embedding_model: str = Field(default="nomic-embed-text")
   embedding_dim: int = Field(default=768)
+  embedding_backend: str = Field(default="ollama")
+  embed_batch_size: int = Field(default=32)
+  # nomic-embed-text task prefixes. Set both to empty to disable.
+  document_embed_prefix: str = Field(default="search_document: ")
+  query_embed_prefix: str = Field(default="search_query: ")
 
   # --- Source data ---
   # Where document_pipeline writes its DOC_*.json preview files.
@@ -41,6 +46,15 @@ class VectorizationSettings(BaseSettings):
   # --- Batching / resilience ---
   batch_size: int = Field(default=50)
   request_timeout_seconds: float = Field(default=30.0)
+
+  # --- Search ---
+  search_top_k: int = Field(default=10)
+  search_min_score: float = Field(default=0.55)
+
+  # --- Ingest quality (PRD §14.2) ---
+  min_clause_tokens: int = Field(default=5)
+  max_clause_tokens: int = Field(default=512)
+  chunk_overlap_tokens: int = Field(default=50)
 
 
 @lru_cache

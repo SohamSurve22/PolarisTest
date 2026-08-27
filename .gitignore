@@ -48,8 +48,5 @@ document_pipeline/output/
 document_pipeline/data/uploads/
 document_pipeline/data/processed/
 
-# Cursor local plans (keep .cursor/rules)
-.cursor/plan/
-
 # Logs
 *.log

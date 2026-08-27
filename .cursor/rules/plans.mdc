@@ -1,0 +1,13 @@
+---
+description: Keep plans previewable and stored in the repo
+alwaysApply: true
+---
+
+# Plans
+
+Use workspace `.cursor/plans/` (plural). Never use `.cursor/plan/`.
+
+- **Repo copy (git):** `.cursor/plans/<topic>.plan.md`
+- **Preview copy:** leave Cursor’s file under `~/.cursor/plans/` in place. Do not delete it.
+- After CreatePlan, copy the same content into `.cursor/plans/` in this repo.
+- Do not write plans to `.cursor/plan/` or `docs/superpowers/specs/`.
