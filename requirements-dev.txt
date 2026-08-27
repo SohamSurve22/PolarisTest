@@ -1,0 +1,2 @@
+# Dev tooling for PolarisLex (not runtime deps for document_pipeline packages)
+graphifyy[pdf,office,neo4j]==0.9.41

@@ -1,0 +1,575 @@
+[
+  {
+    "doc_id": "DOC_SPDI_2011",
+    "node_label": "LegalDocument",
+    "chunk_type": null,
+    "section_number": null,
+    "subsection_number": null,
+    "title": "Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+    "clause_text": null,
+    "plain_english_summary": "Rules made under section 43A and section 87(2)(ob) of the IT Act 2000 governing handling of sensitive personal data by body corporates.",
+    "parent_document": null,
+    "relationships": [
+      { "type": "GOVERNED_BY", "target_id": "DOC_IT_ACT_2000", "target_label": "LegalDocument", "properties": { "enabling_section": "ITACT_SEC_43A" } }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": "2011-04-11", "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_1_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "1",
+    "subsection_number": "1",
+    "title": "Short Title",
+    "clause_text": "These rules may be called the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011.",
+    "plain_english_summary": "These rules are officially titled the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "REGULATES", "target_id": "ENTITY_CENTRAL_GOVERNMENT", "target_label": "LegalEntity", "properties": { "regulation_type": "rule_making_authority" } },
+      { "type": "CITES", "target_id": "ITACT_SEC_43A", "target_label": "Section", "properties": { "reference_type": "enabling_provision" } },
+      { "type": "CITES", "target_id": "ITACT_SEC_87_SUB_2", "target_label": "Section", "properties": { "reference_type": "enabling_provision" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_1_SUB_2",
+    "node_label": "Section",
+    "chunk_type": "procedure",
+    "section_number": "1",
+    "subsection_number": "2",
+    "title": "Commencement",
+    "clause_text": "They shall come into force on the date of their publication in the Official Gazette.",
+    "plain_english_summary": "The SPDI Rules 2011 came into force on the date of their publication in the Official Gazette, i.e. 11th April 2011.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": "2011-04-11", "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_ACT",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(a)",
+    "title": "Definition - Act",
+    "clause_text": "\"Act\" means the Information Technology Act, 2000 (21 of 2000).",
+    "plain_english_summary": "The term 'Act' in the SPDI Rules refers to the Information Technology Act, 2000.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "ITACT_SEC_1_SUB_1", "target_label": "Section", "properties": { "reference_type": "defines_parent_act" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_BIOMETRICS",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(b)",
+    "title": "Definition - Biometrics",
+    "clause_text": "\"Biometrics\" means the technologies that measure and analyse human body characteristics, such as 'fingerprints', 'eye retinas and irises', 'voice patterns', 'facial patterns', 'hand measurements' and 'DNA' for authentication purposes.",
+    "plain_english_summary": "Biometrics refers to technologies that measure and analyse human body characteristics such as fingerprints, iris scans, voice patterns, facial patterns, hand measurements, and DNA for authentication purposes.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "SPDI_RULE_3", "target_label": "Section", "properties": { "reference_type": "component_of_spdi_definition" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_BODY_CORPORATE",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(c)",
+    "title": "Definition - Body Corporate",
+    "clause_text": "\"Body corporate\" means the body corporate as defined in clause (i) of explanation to section 43A of the Act.",
+    "plain_english_summary": "Body corporate has the same meaning as in the explanation to section 43A of the IT Act 2000, which includes any company, firm, sole proprietorship or other association of individuals engaged in commercial or professional activities.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "DEFINES", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "defined_in": "SPDI_DEF_BODY_CORPORATE" } },
+      { "type": "CITES", "target_id": "ITACT_SEC_43A", "target_label": "Section", "properties": { "reference_type": "adopts_definition_from" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_CYBER_INCIDENTS",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(d)",
+    "title": "Definition - Cyber Incidents",
+    "clause_text": "\"Cyber incidents\" means any real or suspected adverse event in relation to cyber security that violates an explicitly or implicitly applicable security policy resulting in unauthorised access, denial of service or disruption, unauthorised use of a computer resource for processing or storage of information or changes to data, information without authorisation.",
+    "plain_english_summary": "A cyber incident is any real or suspected adverse event that violates a security policy, resulting in unauthorised access, denial of service, disruption, unauthorised use of computer resources, or unauthorised data changes.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CYBER_SECURITY", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_PASSWORD",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(h)",
+    "title": "Definition - Password",
+    "clause_text": "\"Password\" means a secret word or phrase or code or passphrase or secret key, or encryption or decryption keys that one uses to gain admittance or access to information.",
+    "plain_english_summary": "A password is any secret word, phrase, code, passphrase, secret key, or encryption or decryption key used to gain access to information.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "SPDI_RULE_3", "target_label": "Section", "properties": { "reference_type": "component_of_spdi_definition" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_DEF_PERSONAL_INFORMATION",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "1(i)",
+    "title": "Definition - Personal Information",
+    "clause_text": "\"Personal information\" means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.",
+    "plain_english_summary": "Personal information is any information relating to a natural person that can directly or indirectly identify that person, including when combined with other information available to a body corporate.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "REGULATES", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "regulation_type": "definition_scope" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_2_SUB_2",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "2",
+    "subsection_number": "2",
+    "title": "Interpretation - Words Defined in the Act",
+    "clause_text": "All other words and expressions used and not defined in these rules but defined in the Act shall have the meanings respectively assigned to them in the Act.",
+    "plain_english_summary": "Any term used in the SPDI Rules that is not defined in these Rules but is defined in the IT Act 2000 shall carry the meaning assigned in the IT Act.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "ITACT_DEF_ACCESS", "target_label": "Section", "properties": { "reference_type": "incorporates_by_reference" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_3",
+    "node_label": "Section",
+    "chunk_type": "definition",
+    "section_number": "3",
+    "subsection_number": null,
+    "title": "Sensitive Personal Data or Information - Definition",
+    "clause_text": "Sensitive personal data or information of a person means such personal information which consists of information relating to;— (i) password; (ii) financial information such as Bank account or credit card or debit card or other payment instrument details; (iii) physical, physiological and mental health condition; (iv) sexual orientation; (v) medical records and history; (vi) Biometric information; (vii) any detail relating to the above clauses as provided to body corporate for providing service; and (viii) any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise: provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules.",
+    "plain_english_summary": "Sensitive personal data or information includes passwords, financial details, health conditions, sexual orientation, medical records, biometric information, and any related details provided to a body corporate. Publicly available information or information disclosed under the RTI Act is excluded.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "REGULATES", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "regulation_type": "defines_subject_matter" } },
+      { "type": "CITES", "target_id": "SPDI_DEF_BIOMETRICS", "target_label": "Section", "properties": { "reference_type": "incorporates_component" } },
+      { "type": "CITES", "target_id": "SPDI_DEF_PASSWORD", "target_label": "Section", "properties": { "reference_type": "incorporates_component" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_4_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "4",
+    "subsection_number": "1",
+    "title": "Privacy Policy - Obligation to Publish",
+    "clause_text": "The body corporate or any person who on behalf of body corporate collects, receives, possess, stores, deals or handle information of provider of information, shall provide a privacy policy for handling of or dealing in personal information including sensitive personal data or information and ensure that the same are available for view by such providers of information who has provided such information under lawful contract. Such policy shall be published on website of body corporate or any person on its behalf and shall provide for— (i) Clear and easily accessible statements of its practices and policies; (ii) type of personal or sensitive personal data or information collected under rule 3; (iii) purpose of collection and usage of such information; (iv) disclosure of information including sensitive personal data or information as provided in rule 6; (v) reasonable security practices and procedures as provided under rule 8.",
+    "plain_english_summary": "A body corporate that collects, stores, or handles personal information must publish a privacy policy on its website. The policy must clearly state its practices, types of data collected, purpose of collection, disclosure practices, and security measures.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "publish_privacy_policy", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "SPDI_RULE_3", "target_label": "Section", "properties": { "reference_type": "defines_data_types_covered" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_6_SUB_1", "target_label": "Section", "properties": { "reference_type": "policy_must_disclose" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_1", "target_label": "Section", "properties": { "reference_type": "policy_must_disclose" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_PRIVACY_POLICY", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "1",
+    "title": "Collection of Information - Written Consent Requirement",
+    "clause_text": "Body corporate or any person on its behalf shall obtain consent in writing through letter or Fax or email from the provider of the sensitive personal data or information regarding purpose of usage before collection of such information.",
+    "plain_english_summary": "A body corporate must obtain written consent — by letter, fax, or email — from the person providing sensitive personal data or information, regarding the purpose of use, before collecting it.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "written_consent_before_collection", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "SPDI_RULE_3", "target_label": "Section", "properties": { "reference_type": "defines_subject_matter" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COLLECTION_OF_INFORMATION", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_2",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "2",
+    "title": "Collection of Information - Lawful Purpose and Necessity",
+    "clause_text": "Body corporate or any person on its behalf shall not collect sensitive personal data or information unless — (a) the information is collected for a lawful purpose connected with a function or activity of the body corporate or any person on its behalf; and (b) the collection of the sensitive personal data or information is considered necessary for that purpose.",
+    "plain_english_summary": "A body corporate may only collect sensitive personal data or information if the collection is for a lawful purpose connected with its functions or activities and is considered necessary for that purpose.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "lawful_purpose_and_necessity_test", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COLLECTION_OF_INFORMATION", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_LAWFUL_PROCESSING", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_3",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "3",
+    "title": "Collection of Information - Notice Requirements",
+    "clause_text": "While collecting information directly from the person concerned, the body corporate or any person on its behalf shall take such steps as are, in the circumstances, reasonable to ensure that the person concerned is having the knowledge of — (a) the fact that the information is being collected; (b) the purpose for which the information is being collected; (c) the intended recipients of the information; and (d) the name and address of — (i) the agency that is collecting the information; and (ii) the agency that will retain the information.",
+    "plain_english_summary": "When collecting information directly from a person, the body corporate must take reasonable steps to ensure the person knows that their data is being collected, the purpose, the intended recipients, and the identity and address of both the collecting and retaining agencies.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "collection_notice_disclosure", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COLLECTION_OF_INFORMATION", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_4",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "4",
+    "title": "Collection of Information - Retention Limitation",
+    "clause_text": "Body corporate or any person on its behalf holding sensitive personal data or information shall not retain that information for longer than is required for the purposes for which the information may lawfully be used or is otherwise required under any other law for the time being in force.",
+    "plain_english_summary": "A body corporate must not retain sensitive personal data or information for longer than is required for the lawful purposes for which it was collected, unless another law requires retention.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "retention_limitation", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DATA_RETENTION", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_5",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "5",
+    "title": "Collection of Information - Purpose Limitation",
+    "clause_text": "The information collected shall be used for the purpose for which it has been collected.",
+    "plain_english_summary": "Information collected by a body corporate must only be used for the purpose for which it was collected.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "purpose_limitation", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COLLECTION_OF_INFORMATION", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_LAWFUL_PROCESSING", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_6",
+    "node_label": "Section",
+    "chunk_type": "right",
+    "section_number": "5",
+    "subsection_number": "6",
+    "title": "Collection of Information - Right to Review and Correct",
+    "clause_text": "Body corporate or any person on its behalf permit the providers of information, as and when requested by them, to review the information they had provided and ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible: Provided that a body corporate shall not be responsible for the authenticity of the personal information or sensitive personal data or information supplied by the provider of information to such body corporate or any other person acting on behalf of such body corporate.",
+    "plain_english_summary": "Information providers have the right to review their data held by a body corporate and have inaccurate or deficient information corrected or amended. However, the body corporate is not responsible for the authenticity of information originally supplied by the provider.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "provide_review_and_correction_mechanism", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CORRECTION", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_7",
+    "node_label": "Section",
+    "chunk_type": "right",
+    "section_number": "5",
+    "subsection_number": "7",
+    "title": "Collection of Information - Opt-Out and Withdrawal of Consent",
+    "clause_text": "Body corporate or any person on its behalf shall, prior to the collection of information including sensitive personal data or information, provide an option to the provider of the information to not to provide the data or information sought to be collected. The provider of information shall, at any time while availing the services or otherwise, also have an option to withdraw its consent given earlier to the body corporate. Such withdrawal of the consent shall be sent in writing to the body corporate. In the case of provider of information not providing or later on withdrawing his consent, the body corporate shall have the option not to provide goods or services for which the said information was sought.",
+    "plain_english_summary": "Before collecting sensitive personal data, the body corporate must offer an opt-out option. Individuals may also withdraw previously given consent at any time in writing. If consent is not given or is withdrawn, the body corporate may choose not to provide the goods or services that required that information.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "provide_opt_out_before_collection", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "SPDI_RULE_5_SUB_1", "target_label": "Section", "properties": { "reference_type": "related_consent_provision" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_WITHDRAWAL_OF_CONSENT", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_8",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "8",
+    "title": "Collection of Information - Security Obligation",
+    "clause_text": "Body corporate or any person on its behalf shall keep the information secure as provided in rule 8.",
+    "plain_english_summary": "A body corporate must keep all collected information secure in accordance with the reasonable security practices and procedures set out in Rule 8.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "keep_information_secure", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_1", "target_label": "Section", "properties": { "reference_type": "defines_security_standard" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_5_SUB_9",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "5",
+    "subsection_number": "9",
+    "title": "Collection of Information - Grievance Officer",
+    "clause_text": "Body corporate shall address any discrepancies and grievances of their provider of the information with respect to processing of information in a time bound manner. For this purpose, the body corporate shall designate a Grievance Officer and publish his name and contact details on its website. The Grievance Officer shall redress the grievances of provider of information expeditiously but within one month from the date of receipt of grievance.",
+    "plain_english_summary": "Every body corporate must designate a Grievance Officer and publish their name and contact details on its website. The Grievance Officer must resolve grievances relating to processing of information within one month of receipt.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "designate_grievance_officer", "is_mandatory": true, "compliance_deadline": "1 month from grievance receipt" } },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_GRIEVANCE_OFFICER_SPDI", "target_label": "LegalEntity", "properties": { "duty_nature": "redress_grievances_within_one_month", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_GRIEVANCE_REDRESSAL", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": "1 month from grievance receipt", "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_6_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "6",
+    "subsection_number": "1",
+    "title": "Disclosure of Information - Prior Consent Requirement",
+    "clause_text": "Disclosure of sensitive personal data or information by body corporate to any third party shall require prior permission from the provider of such information, who has provided such information under lawful contract or otherwise, unless such disclosure has been agreed to in the contract between the body corporate and provider of information, or where the disclosure is necessary for compliance of a legal obligation: Provided that the information shall be shared, without obtaining prior consent from provider of information, with Government agencies mandated under the law to obtain information including sensitive personal data or information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences. The Government agency shall send a request in writing to the body corporate possessing the sensitive personal data or information stating clearly the purpose of seeking such information. The Government agency shall also state that the information so obtained shall not be published or shared with any other person.",
+    "plain_english_summary": "Disclosing sensitive personal data to a third party requires prior consent from the information provider, unless agreed in contract or required by legal obligation. Government agencies may obtain such data without prior consent for identity verification, investigation, or prosecution, but must submit a written request stating the purpose and undertaking not to publish or further share the information.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "prior_consent_for_disclosure", "is_mandatory": true } },
+      { "type": "REGULATES", "target_id": "ENTITY_GOVERNMENT_AGENCY", "target_label": "LegalEntity", "properties": { "regulation_type": "consent_exempt_disclosure_recipient" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_3", "target_label": "Section", "properties": { "reference_type": "defines_subject_matter" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DISCLOSURE", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_6_SUB_2",
+    "node_label": "Section",
+    "chunk_type": "procedure",
+    "section_number": "6",
+    "subsection_number": "2",
+    "title": "Disclosure of Information - Disclosure by Court Order",
+    "clause_text": "Notwithstanding anything contain in sub-rule (1), any sensitive personal data or information shall be disclosed to any third party by an order under the law for the time being in force.",
+    "plain_english_summary": "Sensitive personal data or information may be disclosed to a third party pursuant to an order made under any law in force, overriding the consent requirement in sub-rule (1).",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "SPDI_RULE_6_SUB_1", "target_label": "Section", "properties": { "reference_type": "overrides_consent_requirement" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DISCLOSURE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_6_SUB_3",
+    "node_label": "Section",
+    "chunk_type": "restriction",
+    "section_number": "6",
+    "subsection_number": "3",
+    "title": "Disclosure of Information - Prohibition on Publication",
+    "clause_text": "The body corporate or any person on its behalf shall not publish the sensitive personal data or information.",
+    "plain_english_summary": "A body corporate or anyone acting on its behalf is prohibited from publishing sensitive personal data or information.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "prohibition_on_publication", "is_mandatory": true } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DISCLOSURE", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SENSITIVE_PERSONAL_DATA", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_6_SUB_4",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "6",
+    "subsection_number": "4",
+    "title": "Disclosure of Information - Onward Disclosure Prohibition",
+    "clause_text": "The third party receiving the sensitive personal data or information from body corporate or any person on its behalf under sub-rule (1) shall not disclose it further.",
+    "plain_english_summary": "A third party that receives sensitive personal data from a body corporate is prohibited from disclosing it to any other party.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "SPDI_RULE_6_SUB_1", "target_label": "Section", "properties": { "reference_type": "restricts_recipient_of" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DISCLOSURE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_7",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "7",
+    "subsection_number": null,
+    "title": "Transfer of Information - Cross-Border Transfer Conditions",
+    "clause_text": "A body corporate or any person on its behalf may transfer sensitive personal data or information including any information, to any other body corporate or a person in India, or located in any other country, that ensures the same level of data protection that is adhered to by the body corporate as provided for under these Rules. The transfer may be allowed only if it is necessary for the performance of the lawful contract between the body corporate or any person on its behalf and provider of information or where such person has consented to data transfer.",
+    "plain_english_summary": "A body corporate may transfer sensitive personal data to another body corporate or person in India or abroad only if the recipient ensures an equivalent level of data protection, and the transfer is necessary for performance of a lawful contract or the information provider has consented to the transfer.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "cross_border_transfer_conditions", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "SPDI_RULE_5_SUB_1", "target_label": "Section", "properties": { "reference_type": "related_consent_provision" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CROSS_BORDER_TRANSFER", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_8_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "compliance_requirement",
+    "section_number": "8",
+    "subsection_number": "1",
+    "title": "Reasonable Security Practices - Compliance Standard",
+    "clause_text": "A body corporate or a person on its behalf shall be considered to have complied with reasonable security practices and procedures, if they have implemented such security practices and standards and have a comprehensive documented information security programme and information security policies that contain managerial, technical, operational and physical security control measures that are commensurate with the information assets being protected with the nature of business. In the event of an information security breach, the body corporate or a person on its behalf shall be required to demonstrate, as and when called upon to do so by the agency mandated under the law, that they have implemented security control measures as per their documented information security programme and information security policies.",
+    "plain_english_summary": "A body corporate complies with reasonable security practices by implementing a comprehensive documented information security programme with managerial, technical, operational and physical controls appropriate to the information assets and nature of business. In the event of a breach, the body corporate must be able to demonstrate implementation of these controls to the mandated agency.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "implement_documented_security_programme", "is_mandatory": true } },
+      { "type": "CITES", "target_id": "ITACT_SEC_43A", "target_label": "Section", "properties": { "reference_type": "enabling_provision" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_8_SUB_2",
+    "node_label": "Section",
+    "chunk_type": "compliance_requirement",
+    "section_number": "8",
+    "subsection_number": "2",
+    "title": "Reasonable Security Practices - ISO/IEC 27001 Standard",
+    "clause_text": "The international Standard IS/ISO/IEC 27001 on \"Information Technology - Security Techniques - Information Security Management System - Requirements\" is one such standard referred to in sub-rule (1).",
+    "plain_english_summary": "The international standard IS/ISO/IEC 27001 on Information Security Management Systems is recognised as one of the standards satisfying the reasonable security practices requirement under Rule 8(1).",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_1", "target_label": "Section", "properties": { "reference_type": "specifies_standard_for" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_ISO_27001", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_8_SUB_3",
+    "node_label": "Section",
+    "chunk_type": "procedure",
+    "section_number": "8",
+    "subsection_number": "3",
+    "title": "Reasonable Security Practices - Industry Self-Regulation Approval",
+    "clause_text": "Any industry association or an entity formed by such an association, whose members are self-regulating by following other than IS/ISO/IEC codes of best practices for data protection as per sub-rule(1), shall get its codes of best practices duly approved and notified by the Central Government for effective implementation.",
+    "plain_english_summary": "Industry associations or entities using self-regulatory codes of best practices for data protection that are different from ISO/IEC standards must get their codes approved and notified by the Central Government.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "REGULATES", "target_id": "ENTITY_CENTRAL_GOVERNMENT", "target_label": "LegalEntity", "properties": { "regulation_type": "approval_authority_for_industry_codes" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_1", "target_label": "Section", "properties": { "reference_type": "alternative_to_standard" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_COMPLIANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": null, "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  },
+  {
+    "doc_id": "SPDI_RULE_8_SUB_4",
+    "node_label": "Section",
+    "chunk_type": "compliance_requirement",
+    "section_number": "8",
+    "subsection_number": "4",
+    "title": "Reasonable Security Practices - Audit Requirement",
+    "clause_text": "The body corporate or a person on its behalf who have implemented either IS/ISO/IEC 27001 standard or the codes of best practices for data protection as approved and notified under sub-rule (3) shall be deemed to have complied with reasonable security practices and procedures provided that such standard or the codes of best practices have been certified or audited on a regular basis by entities through independent auditor, duly approved by the Central Government. The audit of reasonable security practices and procedures shall be carried out by an auditor at least once a year or as and when the body corporate or a person on its behalf undertake significant upgradation of its process and computer resource.",
+    "plain_english_summary": "A body corporate that implements ISO/IEC 27001 or approved industry codes of best practices is deemed compliant with reasonable security practices, provided the standard or code is regularly certified or audited by an independent auditor approved by the Central Government. The audit must be conducted at least once a year or whenever a significant upgrade of processes or computer resources takes place.",
+    "parent_document": "DOC_SPDI_2011",
+    "relationships": [
+      { "type": "BELONGS_TO", "target_id": "DOC_SPDI_2011", "target_label": "LegalDocument", "properties": {} },
+      { "type": "IMPOSES_DUTY_ON", "target_id": "ENTITY_BODY_CORPORATE", "target_label": "LegalEntity", "properties": { "duty_nature": "annual_independent_audit", "is_mandatory": true } },
+      { "type": "REGULATES", "target_id": "ENTITY_CENTRAL_GOVERNMENT", "target_label": "LegalEntity", "properties": { "regulation_type": "auditor_approval_authority" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_1", "target_label": "Section", "properties": { "reference_type": "deemed_compliance_basis" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_2", "target_label": "Section", "properties": { "reference_type": "deemed_compliance_basis" } },
+      { "type": "CITES", "target_id": "SPDI_RULE_8_SUB_3", "target_label": "Section", "properties": { "reference_type": "deemed_compliance_basis" } },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_AUDIT", "target_label": "Topic", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": null, "imprisonment_years": null, "effective_date": null, "compliance_deadline": "annual, or upon significant process/resource upgrade", "reporting_window_hours": null, "retention_period_days": null, "retention_period_years": null },
+    "metadata": { "jurisdiction": "India", "act": "SPDI_RULES_2011", "year": 2011 }
+  }
+]

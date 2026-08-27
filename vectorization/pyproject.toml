@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=69.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vectorization"
+version = "0.1.0"
+description = "Embedding pipeline for PolarisLex — embeds document_pipeline clauses into pgvector"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "Proprietary" }
+authors = [{ name = "PolarisLex Team" }]
+dependencies = [
+    "pydantic>=2.6.0",
+    "pydantic-settings>=2.2.0",
+    "psycopg2-binary>=2.9.9",
+    "pgvector>=0.2.5",
+    "httpx>=0.27.0",
+    "tqdm>=4.66.0",
+    "document-pipeline",
+    "semantic-graph",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.1.0",
+    "mypy>=1.8.0",
+    "ruff>=0.3.0",
+]
+
+[project.scripts]
+vectorization = "vectorization.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["vectorization"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
