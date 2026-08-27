@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "vectorization"
 version = "0.1.0"
-description = "Embedding pipeline for PolarisLex — embeds document_pipeline clauses into pgvector"
+description = "Embedding pipeline for PolarisLex — embeds document_pipeline clauses into Qdrant"
 readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "Proprietary" }
@@ -13,12 +13,9 @@ authors = [{ name = "PolarisLex Team" }]
 dependencies = [
     "pydantic>=2.6.0",
     "pydantic-settings>=2.2.0",
-    "psycopg2-binary>=2.9.9",
-    "pgvector>=0.2.5",
+    "qdrant-client>=1.9.0",
     "httpx>=0.27.0",
     "tqdm>=4.66.0",
-    "document-pipeline",
-    "semantic-graph",
 ]
 
 [project.optional-dependencies]
@@ -37,7 +34,7 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-pythonpath = ["src"]
+pythonpath = ["src", ".", "../document_pipeline/src"]
 addopts = "-ra"
 
 [tool.mypy]

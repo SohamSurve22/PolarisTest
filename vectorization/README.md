@@ -1,50 +1,42 @@
 # vectorization
 
-Embeds clauses produced by `document_pipeline` into a pgvector table, using
-a local Ollama model.
-
-## What changed from the old `PolarisMain/vectorization/vectorization.py`
-
-- **Config**: nothing is hardcoded. All DB/Ollama settings come from env
-  vars prefixed `VECTORIZATION_` (see `.env.example`), following the same
-  pattern as `document_pipeline`'s `PipelineSettings`.
-- **Input**: reads `document_pipeline`'s actual `SegmentedDocument` JSON
-  output (`clause_id`, `clause_text`, etc.) instead of the old hand-curated
-  `IT_ACT_POLARISLEX_MERGED.json`, which had fields (`retrieval_text`,
-  `topics`, `plain_english_summary`, ...) that no longer exist upstream.
-  `models.clause_to_embeddable()` is the one place that decides what text
-  gets embedded — swap it if/when semantic_graph's clause enrichment gets
-  wired in as a richer source.
-- **Batching**: commits every `VECTORIZATION_BATCH_SIZE` records (default
-  50) instead of one commit at the very end, so a crash partway through
-  doesn't lose the whole run.
-- **Idempotent reruns**: `ON CONFLICT (clause_id) DO UPDATE`, so re-running
-  after a partial failure or a document_pipeline re-export doesn't create
-  duplicates.
-- **Schema vs data**: `db/schema.sql` is an actual `CREATE TABLE` migration.
-  The old `mydb.sql` was a raw data dump of rows (including embedding
-  vectors) — that shouldn't be committed to the repo at all.
+Embeds clauses produced by `document_pipeline` into a Qdrant collection, using
+a local Ollama embedding model.
 
 ## Setup
 
 ```bash
+# Qdrant (from repo root)
+docker compose up -d qdrant
+
 cd vectorization
-pip install -e .
+pip install -e ../document_pipeline -e .[dev]
 cp .env.example .env   # fill in real values
-psql -f db/schema.sql
 vectorization           # runs the embedding pipeline
 ```
+
+Run from this directory so the default `VECTORIZATION_CLAUSES_DIR` of
+`../document_pipeline/output` resolves correctly.
 
 ## Environment variables
 
 | Variable | Default | Notes |
 |---|---|---|
-| `VECTORIZATION_PG_HOST` | `localhost` | |
-| `VECTORIZATION_PG_PORT` | `5432` | |
-| `VECTORIZATION_PG_DATABASE` | `polarislex` | |
-| `VECTORIZATION_PG_USER` | `polarislex` | |
-| `VECTORIZATION_PG_PASSWORD` | *(empty)* | set this, don't hardcode it |
+| `VECTORIZATION_QDRANT_URL` | `http://localhost:6333` | |
+| `VECTORIZATION_QDRANT_COLLECTION` | `document_clauses` | Created on first run if missing |
 | `VECTORIZATION_OLLAMA_URL` | `http://localhost:11434/api/embeddings` | |
-| `VECTORIZATION_EMBEDDING_MODEL` | `nomic-embed-text` | |
-| `VECTORIZATION_CLAUSES_DIR` | `../document_pipeline/output` | where `document_pipeline` writes its `DOC_*.json` files |
+| `VECTORIZATION_EMBEDDING_MODEL` | `nomic-embed-text` | Stored as `embedding_model_version` on each point |
+| `VECTORIZATION_EMBEDDING_DIM` | `768` | Must match the model and collection vector size |
+| `VECTORIZATION_CLAUSES_DIR` | `../document_pipeline/output` | `DOC_*.json` files from `document-pipeline preview` |
 | `VECTORIZATION_BATCH_SIZE` | `50` | |
+
+## What gets embedded
+
+Each clause is embedded as `section_title — clause_text`. LLM-generated
+`retrieval_text` rewrites are not wired yet.
+
+Qdrant point payload follows PRD §14.4 for document clauses (`source_type`,
+`document_id`, `clause_id`, `section_id`, `embedding_model_version`, `language`).
+`retrieval_text` is also stored so you can see what was actually embedded.
+Points are upserted by a stable UUID of `(document_id, clause_id)`, so reruns
+overwrite rather than duplicate.

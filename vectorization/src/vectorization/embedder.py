@@ -45,7 +45,7 @@ class OllamaEmbedder:
     if len(embedding) != self._settings.embedding_dim:
       logger.warning(
         "embedding dim %d does not match configured dim %d — check "
-        "VECTORIZATION_EMBEDDING_DIM and the pgvector column definition",
+        "VECTORIZATION_EMBEDDING_DIM and the Qdrant collection vector size",
         len(embedding),
         self._settings.embedding_dim,
       )
