@@ -71,6 +71,7 @@ Packages: `graph_builder/`, `semantic_graph/`.
 
 ## Phase 4 — Compliance engine
 
+- [x] Policy overlay UI (`policy_compare` + Docker `web`/`api`) — topic coverage, not full gap/penalty analysis
 - [ ] API: document ID + optional jurisdiction → analysis
 - [ ] Pull parsed JSON, Qdrant, Neo4j
 - [ ] Steps: applicable law → obligations → missing clauses → penalties → compliance context (not `context_builder.py`)

@@ -1,8 +1,8 @@
 # PolarisLex architecture (current state)
 
-PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, and **builds a graph** for structure and (optionally) law obligations. It does **not** yet run compliance analysis, generate reports, or expose product APIs.
+PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, and can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act. It does **not** yet run a full compliance engine, generate reports, or compute penalties.
 
-Three independently installable Python packages. Vector search and the graph do **not** import each other. The join is files (`kg_export/*.json`), not a live Neo4j read.
+Packages are independently installable. Vector search and Neo4j do **not** import each other. The product UI does **not** use Neo4j Browser. The join for law overlay is the four `*_graph.json` files at the repo root.
 
 Interactive walkthrough: open the Cursor canvas beside chat (`polarislex-architecture.canvas.tsx`).
 
@@ -14,8 +14,10 @@ Interactive walkthrough: open the Cursor canvas beside chat (`polarislex-archite
 | Embed | `vectorization/` | JSON → Qdrant vectors + search |
 | Graph IR | `graph_builder/` | GraphIR schema, LLM builder, kg_export dump |
 | Graph CLI | `semantic_graph/` | Hierarchy builder, `dump-ir`, Neo4j export |
+| Compare | `policy_compare/` | Ideal topic graph + overlay match |
+| UI | `web/` + `docker/` | Upload policy, side-by-side graphs (`localhost:8080`) |
 
-**Stores:** JSON files, Qdrant (`localhost:6333`), Neo4j (`localhost:7474` / Bolt `7687`). Embeddings: local Ollama (`localhost:11434`), default `nomic-embed-text`. No SQLite, no Postgres, no FastAPI.
+**Stores:** JSON files, Qdrant (`localhost:6333`), Neo4j (`localhost:7474` / Bolt `7687`). Embeddings: local Ollama (`localhost:11434`), default `nomic-embed-text`. Product compare API is FastAPI in Docker (`localhost:8000`). No SQLite, no Postgres.
 
 ## End-to-end (built)
 
@@ -168,15 +170,27 @@ graph-builder-export-kg ir.json -o ../kg_export/LAW.json --law-code LAW
 docker compose up -d neo4j
 semantic-graph export statute.txt
 semantic-graph export statute.txt --ir-output ir.json
+
+# Product UI (policy overlay)
+docker compose up --build web api
+# open http://localhost:8080
 ```
 
 Qdrant dashboard: `http://localhost:6333/dashboard`. Neo4j Browser: `http://localhost:7474` (credentials are in root `docker-compose.yml`, not repeated here).
+
+## Product UI (Docker)
+
+```bash
+docker compose up --build web api
+# UI: http://localhost:8080   API: http://localhost:8000/health
+```
+
+`POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. Matching is lexical topic keywords (no Ollama required for this path).
 
 ## Not in this build
 
 - Compliance engine (applicable law → obligations → gaps → penalties)
 - Report generation and a reports database
-- Product REST APIs and an application database
 - Hybrid graph+vector fusion at query time
 - LLM `retrieval_text` rewrite (Spec 4, parked)
 

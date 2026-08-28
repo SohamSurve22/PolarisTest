@@ -50,3 +50,7 @@ document_pipeline/data/processed/
 
 # Logs
 *.log
+
+# Frontend
+node_modules/
+web/dist/

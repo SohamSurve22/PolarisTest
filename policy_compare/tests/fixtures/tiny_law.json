@@ -1,0 +1,66 @@
+[
+  {
+    "doc_id": "DOC_TINY",
+    "node_label": "LegalDocument",
+    "chunk_type": null,
+    "section_number": null,
+    "subsection_number": null,
+    "title": "Tiny Test Act",
+    "clause_text": null,
+    "plain_english_summary": "Root document.",
+    "parent_document": null,
+    "relationships": [],
+    "node_properties": {
+      "is_mandatory": null
+    },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_CONSENT",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "1",
+    "subsection_number": null,
+    "title": "Consent required",
+    "clause_text": "The company shall obtain consent before processing personal data.",
+    "plain_english_summary": "A company must get user consent before processing personal data.",
+    "parent_document": "DOC_TINY",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_GOVERNANCE",
+    "node_label": "Section",
+    "chunk_type": "governance",
+    "section_number": "2",
+    "subsection_number": null,
+    "title": "Board establishment",
+    "clause_text": "There shall be a Board.",
+    "plain_english_summary": "Establishes a Board.",
+    "parent_document": "DOC_TINY",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_GOVERNANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": null },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_SIGNATURE",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "section_number": "3",
+    "subsection_number": null,
+    "title": "Digital signature",
+    "clause_text": "Digital signatures shall be valid.",
+    "plain_english_summary": "Digital signatures are valid.",
+    "parent_document": "DOC_TINY",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_DIGITAL_SIGNATURE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true },
+    "metadata": { "jurisdiction": "India", "act": "IT_ACT_2000", "year": 2000 }
+  }
+]
