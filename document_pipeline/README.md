@@ -4,15 +4,17 @@ Preprocessing pipeline for **PolarisLex** — prepares uploaded legal documents 
 
 ## Scope
 
-This package implements stages 1–5 of document intelligence:
+This package implements document intelligence through LLM preparation:
 
-1. Document Loading
+1. Document Loading (txt, pdf, docx, html)
 2. Document Cleaning
 3. Section Extraction
 4. Clause Extraction
-5. LLM Preparation → `SemanticExtractionInput`
+5. Document understanding, context, entities, then LLM preparation → `SemanticExtractionInput`
 
-Out of scope (implemented later): Compliance Engine, Knowledge Graph, Neo4j, vector search, embeddings, LLM calls, APIs, and database integration.
+`document-pipeline preview <file>` runs the orchestrator end-to-end and writes `output/DOC_*.json`.
+
+Out of scope in this package: compliance engine, APIs, and an app database. Embeddings/Qdrant live in `vectorization/`; GraphIR/Neo4j live in `graph_builder/` and `semantic_graph/`.
 
 ## Project layout
 
@@ -23,12 +25,7 @@ document_pipeline/
 │   ├── constants/     # Shared constants
 │   ├── core/          # Base abstractions and shared exceptions
 │   ├── models/        # Domain-specific pipeline data models
-│   │   ├── document.py
-│   │   ├── section.py
-│   │   ├── clause.py
-│   │   ├── metadata.py
-│   │   └── semantic.py
-│   ├── parsers/       # Format-specific document parsers
+│   ├── parsers/       # txt, pdf, docx, html
 │   ├── validators/    # Input/output validators
 │   ├── serializers/   # Artifact serialization
 │   ├── semantic/      # Semantic extraction services (future)
@@ -50,16 +47,18 @@ document_pipeline/
 ```bash
 cd document_pipeline
 python -m venv .venv
-.venv\Scripts\activate   # Windows
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 ```
 
 ## Running tests
 
 ```bash
-pytest
+pytest --ignore=tests/test_loader.py   # test_loader needs reportlab (in [dev])
 ```
+
+Heading regression fixtures live in `tests/fixtures/policies/` (`.txt` + `.expected.json`).
 
 ## Status
 
-**Architecture skeleton only** — processing logic is not yet implemented.
+Orchestrator runs end-to-end from load through `DefaultLLMPreparer`. Preview CLI writes JSON with clauses, classifications, and entities. Formats: `.txt`, `.pdf`, `.docx`, `.html` / `.htm`. Parsed artifacts are JSON files under `output/` — there is no SQLite store in this package.

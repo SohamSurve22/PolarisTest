@@ -1,4 +1,4 @@
-"""CLI command: run document pipeline → build graph → export to Neo4j."""
+"""CLI commands: build GraphIR from a document; optionally export to Neo4j."""
 
 from __future__ import annotations
 
@@ -30,11 +30,17 @@ def register_export_command(
     parser.add_argument(
         "path",
         nargs="?",
-        help="Path to a .txt, .pdf, or .docx document.",
+        help="Path to a .txt, .pdf, .docx, .html, or .htm document.",
     )
     parser.add_argument(
         "--text",
         help="Inline plain-text document content to process.",
+    )
+    parser.add_argument(
+        "--ir-output",
+        type=Path,
+        default=None,
+        help="Write GraphIR JSON to this path (in addition to Neo4j).",
     )
     parser.add_argument(
         "--uri",
@@ -54,7 +60,34 @@ def register_export_command(
     parser.set_defaults(handler=_handle_export)
 
 
-def _handle_export(args: argparse.Namespace) -> int:
+def register_dump_ir_command(
+    subparsers: argparse._SubParsersAction[argparse.ArgumentParser],
+) -> None:
+    """Register the ``dump-ir`` subcommand on *subparsers*."""
+    parser = subparsers.add_parser(
+        "dump-ir",
+        help="Build GraphIR from a document and write JSON (no Neo4j).",
+    )
+    parser.add_argument(
+        "path",
+        nargs="?",
+        help="Path to a .txt, .pdf, .docx, .html, or .htm document.",
+    )
+    parser.add_argument(
+        "--text",
+        help="Inline plain-text document content to process.",
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        type=Path,
+        required=True,
+        help="Output GraphIR JSON path (e.g. ir.json).",
+    )
+    parser.set_defaults(handler=_handle_dump_ir)
+
+
+def _require_source(args: argparse.Namespace) -> int | None:
     if args.text and args.path:
         print("error: provide either a file path or --text, not both.", file=sys.stderr)
         return 2
@@ -63,12 +96,35 @@ def _handle_export(args: argparse.Namespace) -> int:
         print("error: provide a file path or --text.", file=sys.stderr)
         return 2
 
+    return None
+
+
+def _handle_export(args: argparse.Namespace) -> int:
+    error = _require_source(args)
+    if error is not None:
+        return error
+
     try:
-        if args.text is not None:
-            return _export_from_text(args.text, args.uri, args.user, args.password)
+        graph = _graph_from_args(args)
+        if args.ir_output is not None:
+            written = graph.write_json(args.ir_output)
+            print(f"Wrote GraphIR: {written}", file=sys.stderr)
+        return _push_neo4j(graph, args.uri, args.user, args.password)
+    except Exception as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
 
-        return _export_from_path(Path(args.path), args.uri, args.user, args.password)
 
+def _handle_dump_ir(args: argparse.Namespace) -> int:
+    error = _require_source(args)
+    if error is not None:
+        return error
+
+    try:
+        graph = _graph_from_args(args)
+        written = graph.write_json(args.output)
+        print(f"Wrote GraphIR: {written}", file=sys.stderr)
+        return 0
     except Exception as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 1
@@ -78,7 +134,7 @@ def _handle_export(args: argparse.Namespace) -> int:
 # Source helpers
 # ---------------------------------------------------------------------------
 
-_SUPPORTED_EXTENSIONS = {".txt", ".pdf", ".docx"}
+_SUPPORTED_EXTENSIONS = {".txt", ".pdf", ".docx", ".html", ".htm"}
 
 
 def _build_source(path: Path) -> DocumentSource:
@@ -108,6 +164,8 @@ def _format_from_extension(extension: str) -> DocumentFormat:
         ".pdf": DocumentFormat.PDF,
         ".docx": DocumentFormat.DOCX,
         ".txt": DocumentFormat.TXT,
+        ".html": DocumentFormat.HTML,
+        ".htm": DocumentFormat.HTML,
     }
     return mapping.get(extension.lower(), DocumentFormat.UNKNOWN)
 
@@ -117,12 +175,17 @@ def _format_from_extension(extension: str) -> DocumentFormat:
 # ---------------------------------------------------------------------------
 
 
-def _export_from_path(path: Path, uri: str, user: str, password: str) -> int:
-    source = _build_source(path)
-    return _export(source, uri, user, password)
+def _graph_from_args(args: argparse.Namespace) -> GraphIR:
+    if args.text is not None:
+        return _graph_from_text(args.text)
+    return _graph_from_path(Path(args.path))
 
 
-def _export_from_text(text: str, uri: str, user: str, password: str) -> int:
+def _graph_from_path(path: Path) -> GraphIR:
+    return _graph_from_source(_build_source(path))
+
+
+def _graph_from_text(text: str) -> GraphIR:
     with tempfile.NamedTemporaryFile(
         mode="w",
         encoding="utf-8",
@@ -133,13 +196,12 @@ def _export_from_text(text: str, uri: str, user: str, password: str) -> int:
         temp_path = Path(handle.name)
 
     try:
-        source = _build_source(temp_path)
-        return _export(source, uri, user, password)
+        return _graph_from_source(_build_source(temp_path))
     finally:
         temp_path.unlink(missing_ok=True)
 
 
-def _export(source: DocumentSource, uri: str, user: str, password: str) -> int:
+def _graph_from_source(source: DocumentSource) -> GraphIR:
     doc_id = source.metadata.document_id
     print(f"Processing document: {doc_id}", file=sys.stderr)
 
@@ -153,7 +215,10 @@ def _export(source: DocumentSource, uri: str, user: str, password: str) -> int:
         f"Graph built: {len(graph.nodes)} nodes, {len(graph.relationships)} relationships",
         file=sys.stderr,
     )
+    return graph
 
+
+def _push_neo4j(graph: GraphIR, uri: str, user: str, password: str) -> int:
     print(f"Connecting to Neo4j at {uri}…", file=sys.stderr)
 
     stats = _export_to_neo4j(graph, uri, user, password)

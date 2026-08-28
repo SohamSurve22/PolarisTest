@@ -1,0 +1,11 @@
+1. Scope
+
+This statute applies to every organization that processes personal data of residents.
+
+1.1 Definitions
+
+Personal data means any information relating to an identified or identifiable person.
+
+2. Duties of the Fiduciary
+
+The fiduciary shall implement reasonable security safeguards and shall notify the authority of a breach.

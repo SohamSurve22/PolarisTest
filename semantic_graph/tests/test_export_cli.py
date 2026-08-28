@@ -2,9 +2,12 @@
 
 from __future__ import annotations
 
+import json
 import os
 from pathlib import Path
 from unittest.mock import MagicMock, patch
+
+import pytest
 
 from semantic_graph.cli.main import build_parser, main
 
@@ -250,3 +253,105 @@ class TestExportFlow:
         assert call_args[0][1] == "bolt://cluster:7687"
         assert call_args[0][2] == "reader"
         assert call_args[0][3] == "pass"
+
+    @patch("semantic_graph.cli.export_graph._export_to_neo4j")
+    def test_export_writes_ir_json_when_requested(
+        self,
+        mock_export: MagicMock,
+        tmp_path: Path,
+    ) -> None:
+        mock_export.return_value = {"nodes_created": 1, "relationships_created": 0}
+        ir_path = tmp_path / "export_ir.json"
+
+        result = main([
+            "export", "--text", self.MOCK_TEXT, "--ir-output", str(ir_path),
+        ])
+
+        assert result == 0
+        mock_export.assert_called_once()
+        payload = json.loads(ir_path.read_text(encoding="utf-8"))
+        assert payload["nodes"]
+        assert payload["relationships"]
+
+
+# ---------------------------------------------------------------------------
+# dump-ir (GraphIR JSON, no Neo4j)
+# ---------------------------------------------------------------------------
+
+
+class TestDumpIrParser:
+    def test_dump_ir_subcommand_registered(self) -> None:
+        parser = build_parser()
+        args = parser.parse_args(["dump-ir", "dummy.txt", "-o", "out.json"])
+        assert args.command == "dump-ir"
+        assert hasattr(args, "handler")
+        assert args.output == Path("out.json")
+
+    def test_dump_ir_with_text_flag(self) -> None:
+        parser = build_parser()
+        args = parser.parse_args(["dump-ir", "--text", "some content", "-o", "out.json"])
+        assert args.text == "some content"
+
+    def test_dump_ir_requires_output(self) -> None:
+        parser = build_parser()
+        with pytest.raises(SystemExit):
+            parser.parse_args(["dump-ir", "--text", "some content"])
+
+    def test_dump_ir_both_path_and_text_fails(self) -> None:
+        result = main(["dump-ir", "path.txt", "--text", "content", "-o", "out.json"])
+        assert result == 2
+
+    def test_dump_ir_neither_path_nor_text_fails(self) -> None:
+        result = main(["dump-ir", "-o", "out.json"])
+        assert result == 2
+
+
+class TestDumpIrFlow:
+    MOCK_TEXT = TestExportFlow.MOCK_TEXT
+
+    @patch("semantic_graph.cli.export_graph._export_to_neo4j")
+    def test_dump_ir_writes_graph_json_without_neo4j(
+        self,
+        mock_export: MagicMock,
+        tmp_path: Path,
+    ) -> None:
+        ir_path = tmp_path / "ir.json"
+
+        result = main(["dump-ir", "--text", self.MOCK_TEXT, "-o", str(ir_path)])
+
+        assert result == 0
+        mock_export.assert_not_called()
+        payload = json.loads(ir_path.read_text(encoding="utf-8"))
+        labels = {node["label"] for node in payload["nodes"]}
+        assert "LawVersion" in labels
+        assert "Clause" in labels
+        assert payload["relationships"]
+
+    def test_dump_ir_round_trips_through_graph_ir(self, tmp_path: Path) -> None:
+        from graph_builder.graph_ir import GraphIR
+
+        ir_path = tmp_path / "ir.json"
+        result = main(["dump-ir", "--text", self.MOCK_TEXT, "-o", str(ir_path)])
+        assert result == 0
+        graph = GraphIR.from_json(ir_path.read_text(encoding="utf-8"))
+        assert graph.nodes
+        assert graph.relationships
+
+    def test_dump_ir_from_file_path(self, tmp_path: Path) -> None:
+        src = tmp_path / "policy.txt"
+        src.write_text(self.MOCK_TEXT, encoding="utf-8")
+        ir_path = tmp_path / "ir.json"
+
+        result = main(["dump-ir", str(src), "-o", str(ir_path)])
+
+        assert result == 0
+        assert ir_path.is_file()
+
+    def test_dump_ir_from_missing_file(self, tmp_path: Path) -> None:
+        result = main([
+            "dump-ir",
+            str(tmp_path / "missing.txt"),
+            "-o",
+            str(tmp_path / "ir.json"),
+        ])
+        assert result == 1

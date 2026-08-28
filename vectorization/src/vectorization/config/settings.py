@@ -42,6 +42,9 @@ class VectorizationSettings(BaseSettings):
   # Where document_pipeline writes its DOC_*.json preview files.
   # Relative paths are resolved from the process working directory.
   clauses_dir: str = Field(default="../document_pipeline/output")
+  # KG obligation/section JSON (not GraphIR, not live Neo4j).
+  kg_dir: str = Field(default="../kg_export")
+  kg_max_tokens: int = Field(default=300)
 
   # --- Batching / resilience ---
   batch_size: int = Field(default=50)

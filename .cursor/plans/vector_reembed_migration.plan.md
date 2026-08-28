@@ -4,16 +4,16 @@ overview: "When the embedding model or backend changes, re-upsert all document_c
 todos:
   - id: cli-reembed
     content: Add vectorization reembed that re-runs ingest with current settings
-    status: pending
+    status: completed
   - id: orphan-docs
     content: Document that point overwrite uses current point_id; leftover other-model points are invisible to search
-    status: pending
+    status: completed
   - id: tests
     content: Test reembed calls the same run() path; payload model version is current settings
-    status: pending
+    status: completed
   - id: readme
     content: README procedure for backend/model switch
-    status: pending
+    status: completed
 isProject: true
 ---
 

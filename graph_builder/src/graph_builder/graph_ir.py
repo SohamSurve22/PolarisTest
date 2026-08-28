@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Any
 
 from graph_builder.exceptions import LLMGraphBuilderError
@@ -170,3 +171,13 @@ class GraphIR:
     except json.JSONDecodeError as exc:
       raise LLMGraphBuilderError(f"Invalid JSON from LLM: {exc}") from exc
     return cls.from_dict(data)
+
+  def write_json(self, path: Path | str) -> Path:
+    """Write this graph IR as JSON. Creates parent directories if needed."""
+    dest = Path(path)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(
+      json.dumps(self.to_dict(), indent=2, ensure_ascii=False) + "\n",
+      encoding="utf-8",
+    )
+    return dest

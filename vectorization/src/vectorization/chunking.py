@@ -7,6 +7,7 @@ from collections.abc import Iterable
 
 from document_pipeline.models.clause import Clause
 from vectorization.models import EmbeddableRecord, clause_to_embeddable
+from vectorization.sources import EmbeddableSource, decorate_retrieval_text
 
 _SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+")
 
@@ -78,19 +79,43 @@ def clauses_to_embeddable(
   overlap_tokens: int = 50,
 ) -> list[EmbeddableRecord]:
   """Skip short clauses and emit one EmbeddableRecord per chunk."""
+  return sources_to_embeddable(
+    [EmbeddableSource(clause=clause) for clause in clauses],
+    min_tokens=min_tokens,
+    max_tokens=max_tokens,
+    overlap_tokens=overlap_tokens,
+  )
+
+
+def sources_to_embeddable(
+  sources: Iterable[EmbeddableSource],
+  *,
+  min_tokens: int = 5,
+  max_tokens: int = 512,
+  overlap_tokens: int = 50,
+) -> list[EmbeddableRecord]:
+  """Skip/split sources, then append role/entity tags to retrieval_text."""
   records: list[EmbeddableRecord] = []
-  for clause in clauses:
-    if token_count(clause.clause_text) < min_tokens:
+  for source in sources:
+    if token_count(source.clause.clause_text) < min_tokens:
       continue
     chunks = split_text(
-      clause.clause_text,
+      source.clause.clause_text,
       max_tokens=max_tokens,
       overlap_tokens=overlap_tokens,
     )
     for index, chunk in enumerate(chunks):
-      records.append(
-        clause_to_embeddable(clause, chunk_text=chunk, chunk_index=index)
+      record = clause_to_embeddable(
+        source.clause,
+        chunk_text=chunk,
+        chunk_index=index,
       )
+      record.retrieval_text = decorate_retrieval_text(
+        record.retrieval_text,
+        role=source.role,
+        entity_types=source.entity_types,
+      )
+      records.append(record)
   return records
 
 

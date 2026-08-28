@@ -1,7 +1,9 @@
 """CLI entry point for the Semantic Graph pipeline.
 
 Usage:
-    semantic-graph export <path> [--uri <uri>] [--user <user>] [--password <password>]
+    semantic-graph dump-ir <path> -o ir.json
+    semantic-graph dump-ir --text "<content>" -o ir.json
+    semantic-graph export <path> [--ir-output ir.json] [--uri <uri>] [--user <user>] [--password <password>]
     semantic-graph export --text "<content>" [--uri <uri>] [--user <user>] [--password <password>]
 """
 
@@ -10,9 +12,9 @@ from __future__ import annotations
 import argparse
 import sys
 
-from semantic_graph.cli.export_graph import register_export_command
+from semantic_graph.cli.export_graph import register_dump_ir_command, register_export_command
 
-_DESCRIPTION = "PolarisLex Semantic Graph — document ingestion & Neo4j export"
+_DESCRIPTION = "PolarisLex Semantic Graph — document ingestion, GraphIR dump, Neo4j export"
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -28,6 +30,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     subparsers = parser.add_subparsers(dest="command")
     register_export_command(subparsers)
+    register_dump_ir_command(subparsers)
 
     return parser
 

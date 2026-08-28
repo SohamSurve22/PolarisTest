@@ -287,6 +287,20 @@ def _is_standalone_heading(
   if not is_title_case and not is_sentence_case:
     return False
 
-  previous_blank = previous_line is not None and previous_line.strip() == ""
-  next_blank = next_line is not None and next_line.strip() == ""
-  return previous_blank and next_blank
+  previous_blank = previous_line is None or previous_line.strip() == ""
+  next_ok = (
+    next_line is None
+    or next_line.strip() == ""
+    or _looks_like_body_line(next_line)
+  )
+  return previous_blank and next_ok
+
+
+def _looks_like_body_line(line: str) -> bool:
+  """True if *line* is a paragraph, not another short heading."""
+  stripped = line.strip()
+  if not stripped:
+    return False
+  if stripped.endswith((".", "?", "!")) and len(stripped.split()) >= 4:
+    return True
+  return len(stripped.split()) > _MAX_STANDALONE_WORDS

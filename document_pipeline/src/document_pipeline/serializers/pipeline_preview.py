@@ -91,6 +91,14 @@ class PipelinePreviewArtifact(BaseModel):
     default_factory=list,
     description="LLM-ready chunks prepared from enriched clauses.",
   )
+  contextual_clauses: list[dict[str, object]] = Field(
+    default_factory=list,
+    description="Nested context-enriched clauses for downstream vectorization.",
+  )
+  entity_clauses: list[dict[str, object]] = Field(
+    default_factory=list,
+    description="Nested entity-enriched clauses for downstream vectorization.",
+  )
 
 
 def build_pipeline_preview(outputs: PipelineOutputs) -> PipelinePreviewArtifact:
@@ -151,7 +159,64 @@ def build_pipeline_preview(outputs: PipelineOutputs) -> PipelinePreviewArtifact:
     references=references,
     entities=entities,
     semantic_chunks=outputs.semantic.chunks,
+    contextual_clauses=[
+      _dump_contextual_clause(item) for item in outputs.context.contextual_clauses
+    ],
+    entity_clauses=[
+      _dump_entity_clause(item) for item in outputs.entity.entity_clauses
+    ],
   )
+
+
+def _dump_contextual_clause(contextual: object) -> dict[str, object]:
+  classified = getattr(contextual, "classified_clause")
+  clause = classified.clause
+  return {
+    "classified_clause": {
+      "clause": clause.model_dump(mode="json"),
+      "role": classified.role.value,
+      "confidence": classified.confidence,
+      "classification_reason": list(classified.classification_reason),
+    },
+    "previous_clause_id": getattr(contextual, "previous_clause_id"),
+    "next_clause_id": getattr(contextual, "next_clause_id"),
+    "section_position": getattr(contextual, "section_position"),
+    "is_first_in_section": getattr(contextual, "is_first_in_section"),
+    "is_last_in_section": getattr(contextual, "is_last_in_section"),
+    "neighbor_clause_ids": list(getattr(contextual, "neighbor_clause_ids")),
+    "detected_references": [
+      {
+        "reference_text": reference.reference_text,
+        "reference_type": reference.reference_type,
+        "start": reference.start,
+        "end": reference.end,
+        "resolved": reference.resolved,
+        "resolved_clause_id": reference.resolved_clause_id,
+        "resolved_section_id": reference.resolved_section_id,
+      }
+      for reference in getattr(contextual, "detected_references")
+    ],
+  }
+
+
+def _dump_entity_clause(entity_clause: object) -> dict[str, object]:
+  return {
+    "contextual_clause": _dump_contextual_clause(
+      getattr(entity_clause, "contextual_clause")
+    ),
+    "entities": [
+      {
+        "entity_id": entity.entity_id,
+        "entity_text": entity.entity_text,
+        "entity_type": entity.entity_type.value,
+        "start_offset": entity.start_offset,
+        "end_offset": entity.end_offset,
+        "confidence": entity.confidence,
+        "detection_method": entity.detection_method,
+      }
+      for entity in getattr(entity_clause, "entities")
+    ],
+  }
 
 
 def serialize_pipeline_preview(artifact: PipelinePreviewArtifact) -> str:

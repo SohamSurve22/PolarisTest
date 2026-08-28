@@ -12,6 +12,7 @@ from document_pipeline.models.document import DocumentSource, LoadedDocument
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
 from document_pipeline.parsers.base import BaseParser, ParseResult
 from document_pipeline.parsers.docx_parser import DocxParser
+from document_pipeline.parsers.html_parser import HtmlParser
 from document_pipeline.parsers.pdf_parser import PdfParser
 from document_pipeline.parsers.txt_parser import TxtParser
 
@@ -19,6 +20,8 @@ _EXTENSION_TO_FORMAT: dict[str, DocumentFormat] = {
   ".pdf": DocumentFormat.PDF,
   ".docx": DocumentFormat.DOCX,
   ".txt": DocumentFormat.TXT,
+  ".html": DocumentFormat.HTML,
+  ".htm": DocumentFormat.HTML,
 }
 
 
@@ -35,6 +38,7 @@ class DocumentLoader(BaseProcessor[DocumentSource, LoadedDocument]):
       DocumentFormat.PDF: PdfParser(),
       DocumentFormat.DOCX: DocxParser(),
       DocumentFormat.TXT: TxtParser(),
+      DocumentFormat.HTML: HtmlParser(),
     }
 
   def process(self, input_data: DocumentSource) -> LoadedDocument:

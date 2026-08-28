@@ -1,0 +1,11 @@
+# Privacy Statement
+This statement describes how Northwind Labs handles personal data when you use our products.
+
+## What we collect
+We collect account data, device data, and usage data needed to operate the service.
+
+### Cookies
+We use cookies to keep you signed in and to measure product performance.
+
+## Your rights
+You may request access to your personal data or ask us to delete it.

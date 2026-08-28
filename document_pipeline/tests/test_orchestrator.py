@@ -95,6 +95,9 @@ def test_build_pipeline_preview_includes_enriched_fields(tmp_path: Path) -> None
   assert artifact.references
   assert artifact.entities
   assert artifact.semantic_chunks
+  assert artifact.entity_clauses
+  nested_clause = artifact.entity_clauses[0]["contextual_clause"]["classified_clause"]["clause"]
+  assert nested_clause["clause_id"] == artifact.clauses[0].clause_id
   assert artifact.classifications[0].role.value in {
     "HEADING",
     "STATEMENT",

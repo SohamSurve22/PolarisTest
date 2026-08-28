@@ -27,13 +27,24 @@ _POINT_NAMESPACE = uuid.UUID("8c2e6d1a-4f3b-4a9e-9b0c-7d1e2f3a4b5c")
 
 
 def point_id(document_id: str, clause_id: str, chunk_index: int = 0) -> str:
-  """Return a deterministic Qdrant point id for a clause chunk."""
-  return str(
-    uuid.uuid5(
-      _POINT_NAMESPACE,
-      f"document_clause:{document_id}:{clause_id}:{chunk_index}",
-    )
-  )
+  """Return a deterministic Qdrant point id for a document clause chunk."""
+  return _uuid5(f"document_clause:{document_id}:{clause_id}:{chunk_index}")
+
+
+def record_point_id(record: EmbeddableRecord) -> str:
+  """Return a deterministic Qdrant point id from an embeddable record."""
+  chunk_index = int(record.source.get("chunk_index", 0))
+  if record.source_type == "kg_obligation":
+    key = f"kg_obligation:{record.law_code}:{record.obligation_id}:{chunk_index}"
+  elif record.source_type == "kg_section":
+    key = f"kg_section:{record.law_code}:{record.section_id}:{chunk_index}"
+  else:
+    key = f"document_clause:{record.document_id}:{record.clause_id}:{chunk_index}"
+  return _uuid5(key)
+
+
+def _uuid5(key: str) -> str:
+  return str(uuid.uuid5(_POINT_NAMESPACE, key))
 
 
 def l2_normalize(vector: list[float]) -> list[float]:
@@ -97,10 +108,10 @@ class VectorStore:
       chunk_index = int(record.source.get("chunk_index", 0))
       points.append(
         PointStruct(
-          id=point_id(record.document_id, record.clause_id, chunk_index),
+          id=record_point_id(record),
           vector=l2_normalize(embedding),
           payload={
-            "source_type": "document_clause",
+            "source_type": record.source_type,
             "document_id": record.document_id,
             "clause_id": record.clause_id,
             "section_id": record.section_id,
@@ -109,10 +120,11 @@ class VectorStore:
             "clause_text": record.clause_text,
             "retrieval_text": record.retrieval_text,
             "embedding_model_version": self._settings.embedding_model,
-            "language": "en",
-            "law_code": None,
-            "obligation_id": None,
+            "language": record.language,
+            "law_code": record.law_code,
+            "obligation_id": record.obligation_id,
             "chunk_index": chunk_index,
+            "chunk_type": record.source.get("chunk_type"),
           },
         )
       )

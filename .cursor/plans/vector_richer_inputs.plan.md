@@ -4,19 +4,19 @@ overview: "Load EntityDocument / ContextDocument JSON when present; otherwise ke
 todos:
   - id: unwrap
     content: Helpers to get Clause from ContextualClause and EntityClause
-    status: pending
+    status: completed
   - id: loader-shapes
     content: load_segmented_documents detects clauses vs contextual_clauses vs entity_clauses
-    status: pending
+    status: completed
   - id: retrieval-extras
     content: Optional role/entity strings on retrieval_text without dropping the join fallback
-    status: pending
+    status: completed
   - id: tests
     content: Tests for all three JSON shapes and unwrap; skip still uses clause_text
-    status: pending
+    status: completed
   - id: docs
     content: README documents accepted preview JSON keys
-    status: pending
+    status: completed
 isProject: true
 ---
 

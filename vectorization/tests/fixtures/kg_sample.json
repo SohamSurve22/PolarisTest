@@ -1,0 +1,18 @@
+{
+  "law_code": "DPDPA-2023",
+  "language": "en",
+  "sections": [
+    {
+      "section_id": "S8",
+      "title": "Data principal rights",
+      "text": "A Data Principal shall have the right to access personal data."
+    }
+  ],
+  "obligations": [
+    {
+      "obligation_id": "obl_S8_0",
+      "section_id": "S8",
+      "text": "The Data Fiduciary shall allow a Data Principal to access their personal data."
+    }
+  ]
+}

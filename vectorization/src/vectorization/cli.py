@@ -8,7 +8,7 @@ import logging
 import sys
 
 from vectorization.config import get_settings
-from vectorization.pipeline import run, search_text
+from vectorization.pipeline import reembed, run, run_kg, search_text
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -21,10 +21,26 @@ def main(argv: list[str] | None = None) -> int:
   search_parser.add_argument("--min-score", type=float, default=None)
   search_parser.add_argument("--document-id", default=None)
   search_parser.add_argument("--source-type", default="document_clause")
+  subparsers.add_parser(
+    "ingest-kg",
+    help="ingest KG obligation and section JSON into Qdrant",
+  )
+  subparsers.add_parser(
+    "reembed",
+    help="re-embed KG then document clauses under the current model",
+  )
 
   args = parser.parse_args(argv)
   settings = get_settings()
   logging.basicConfig(level=settings.log_level)
+
+  if args.command == "reembed":
+    reembed(settings)
+    return 0
+
+  if args.command == "ingest-kg":
+    run_kg(settings)
+    return 0
 
   if args.command == "search":
     hits = search_text(

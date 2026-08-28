@@ -1,6 +1,8 @@
 # PolarisLex — Project Plan
 
-`document_pipeline/` is the preprocessing layer for PolarisLex: it ingests legal documents, extracts structure and entities, and produces artifacts for downstream compliance analysis. Everything after document intelligence (embeddings, graph, compliance engine, reports) is planned but not yet implemented.
+`document_pipeline/` ingests legal documents and writes parsed JSON. `vectorization/` embeds clauses into Qdrant. `graph_builder/` / `semantic_graph/` build GraphIR and can export to Neo4j. The compliance engine, reports, and APIs are not built.
+
+An older rewrite brief lives at `.cursor/plans/optimize_plan.md_e883823e.plan.md`. It is historical (how this file was first slimmed). Do not execute its Phase 1 list.
 
 ## Architecture
 
@@ -18,72 +20,73 @@ flowchart LR
   ReportGen --> User
 ```
 
+Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdrant. Graph lives in Neo4j when exported. There is no app DB (no SQLite/Postgres).
+
 ## Current state
 
-**Package:** `document_pipeline/` (Python 3.12+, pydantic v2, `pypdf`, `python-docx`; CLI via `document-pipeline preview <file>`).
+| Area | Status |
+|---|---|
+| `document_pipeline` orchestrator | End-to-end: loader (txt/pdf/docx/html) → cleaner → section_extractor → block_extractor → clause_builder → clause_extractor → document_understanding → context_builder → entity_extractor → `DefaultLLMPreparer` |
+| CLI | `document-pipeline preview` calls `create_default_orchestrator()`; JSON includes `clauses`, `contextual_clauses`, `entity_clauses` |
+| Heading regression | Six synthetic policies in `document_pipeline/tests/fixtures/policies/` with gold title lists |
+| `vectorization` | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4) |
+| Graph | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Neo4j via `semantic-graph export`. |
+| Not built | Compliance engine, reports, APIs, app DB |
 
-| Status | Stages | Key files |
-|---|---|---|
-| Wired in orchestrator, tested | loader, cleaner, section_extractor, block_extractor, clause_builder, clause_extractor | `pipeline/stages/*.py`, `sectioning/heading_detector.py` |
-| Built and tested, not wired | document_understanding, context_builder, entity_extractor | same |
-| Interface only | llm_preparer (abstract — no concrete impl) | `pipeline/stages/llm_preparer.py` |
+Entity extraction stays dictionary/regex (`ClassifierFn` already exists). No LLM classifier in this phase.
 
-**Gaps:** orchestrator cannot run end-to-end (abstract `LLMPreparer`); CLI `preview` manually wires stages, stops at `clause_extractor`, and never uses the orchestrator; no HTML parser (`.txt/.pdf/.docx` only); no persistence beyond `output/DOC_*.json`; no LLM/API/DB. README still says "Architecture skeleton only" — update in Phase 1.
+**~205** `document_pipeline` tests excluding `tests/test_loader.py` (needs `reportlab` extra). Vectorization has its own pytest suite.
 
-**Correct wiring order for unwired stages** (by input/output types):
+## Phase 1 — Document intelligence
 
-```
-clause_extractor → document_understanding → context_builder → entity_extractor
-```
-
-`LLMPreparer` currently accepts `SegmentedDocument`; reposition or update it to accept `EntityDocument` so chunks include classification, references, and entities.
-
-**Out of scope today** (per README): compliance engine, knowledge graph, Neo4j, vector search, embeddings, LLM calls, APIs, database integration.
-
-**188 unit tests passing.** Real-document benchmark: GitHub privacy policy → ~18/28 headings detected via `STANDALONE` heuristic in `heading_detector.py`.
-
-## Phase 1 — Complete document intelligence (immediate)
-
-- [ ] Wire `document_understanding` → `context_builder` → `entity_extractor` into orchestrator after `clause_extractor`.
-- [ ] Implement concrete `LLMPreparer` (recommended: after entity extraction); update return type accordingly.
-- [ ] Unify CLI `preview` with orchestrator; extend `PipelinePreviewArtifact` with classifications, references, and entities.
-- [ ] Add real-policy fixture library (5–10 docs); use as regression suite for heading/sectioning.
-- [ ] Patch `heading_detector` gaps found by fixtures (improve on ~18/28 benchmark).
-- [ ] **Decision:** entity extraction strategy — extend dictionary/regex vs. LLM swap-in via existing `ClassifierFn` / detector interface.
-- [ ] Add D1/D2 persistence (SQLite to start); replace one-off JSON preview as canonical parsed store.
-- [ ] Add HTML parser only if needed for scraped policies (`DocumentFormat.HTML` exists in metadata).
-- [ ] Update README status section.
+- [x] Wire `document_understanding` → `context_builder` → `entity_extractor` after `clause_extractor`
+- [x] Concrete `DefaultLLMPreparer` on `EntityDocument`
+- [x] Unify `preview` with orchestrator; nested context/entity in preview JSON
+- [x] Synthetic policy fixture library + heading-detector patches
+- [x] Keep dictionary/regex entities (no LLM swap-in)
+- [x] HTML parser (`.html` / `.htm`)
+- [x] Update `document_pipeline/README.md` status (not a skeleton)
+- SQLite parsed store — **won't do**; JSON files are the store
 
 ## Phase 2 — Embeddings + Qdrant
 
-- [ ] Finalize Phase 1 entity strategy.
-- [ ] Embed at clause level (`ContextualClause` / `EntityClause`).
-- [ ] Default to local embedding model (privacy-sensitive docs).
-- [ ] Stand up Qdrant locally (`docker run -d --name qdrant -p 6333:6333 qdrant/qdrant`).
+Package: `vectorization/`. Local Qdrant via root `docker-compose.yml`; default embedder is Ollama `nomic-embed-text`.
+
+- [x] Embed at clause level (unwrap `entity_clauses` / `contextual_clauses` when present)
+- [x] Local embedding backend (Ollama default; optional Sentence Transformers)
+- [x] Qdrant collection `document_clauses`
+- [ ] Optional Spec 4: LLM `retrieval_text` rewrite (parked; needs a chat model)
+- [ ] Live batch ingest when ready (`vectorization` then `ingest-kg`, or `reembed`)
+- [x] GraphIR → `kg_export` JSON dump so obligation search has law text (not SQLite)
 
 ## Phase 3 — Policy graph + Neo4j
 
-- [ ] Define versioned graph schema first (nodes: `Clause`, `Party`, `Obligation`, `DefinedTerm`; edges: `OBLIGATES`, `REFERENCES`, `DEFINED_IN`). Map from `Reference` model in `models/context.py`.
-- [ ] LLM (if used) outputs schema-validated JSON only; Python owns all `MERGE` writes.
-- [ ] Stand up Neo4j locally; add idempotency tests (re-ingest same doc → no duplicates).
+Packages: `graph_builder/`, `semantic_graph/`.
+
+- [x] GraphIR schema and Neo4j export path
+- [x] Save GraphIR JSON to disk (`semantic-graph dump-ir`, or `export --ir-output`)
+- [x] Exporter into the `kg_export` file shape (`law_code`, `sections`, `obligations`)
+- [ ] Idempotent re-ingest tests against a running Neo4j if not already covered
+- Hybrid graph+vector fusion — later (compliance engine)
 
 ## Phase 4 — Compliance engine
 
-- [ ] API entry point: document ID + optional jurisdiction → trigger analysis.
-- [ ] Orchestrator pulls parsed store, Qdrant, Neo4j.
-- [ ] Steps: applicable law → obligations → missing clauses → penalties → **compliance context** (rename away from structural `context_builder.py` — e.g. `compliance_context_builder.py`).
-- [ ] **Decision:** jurisdiction scope (entity dict is DPDP/India-biased; confirm single-framework MVP vs. pluggable jurisdictions).
+- [ ] API: document ID + optional jurisdiction → analysis
+- [ ] Pull parsed JSON, Qdrant, Neo4j
+- [ ] Steps: applicable law → obligations → missing clauses → penalties → compliance context (not `context_builder.py`)
+- [ ] **Decision:** single-framework MVP vs pluggable jurisdictions (entity dict is DPDP/India-biased)
 
 ## Phase 5 — Report generation + Reports DB
 
-- [ ] LLM report from structured compliance context (not free-form).
-- [ ] Fixed report sections mirror applicable law, obligations, gaps, penalties.
-- [ ] Persist reports keyed by document ID + analysis run.
+- [ ] LLM report from structured compliance context (not free-form)
+- [ ] Fixed sections: applicable law, obligations, gaps, penalties
+- [ ] Persist reports by document ID + analysis run
 
 ## Decisions
 
-- **Privacy posture** before Phase 2: self-hosted vs. third-party LLM/embeddings.
-- **Naming:** structural `ContextBuilder` vs. compliance-level context builder — resolve before Phase 4.
-- **Schema discipline:** all LLM stages validate against pydantic models before downstream use (pattern in `ClassificationResult`, `Entity`, `Reference`).
+- **Privacy:** local Ollama embeddings by default; cloud embedders are a settings swap, not the default.
+- **Naming:** structural `ContextBuilder` vs compliance-level context — resolve before Phase 4.
+- **Schema:** LLM stages validate against pydantic before downstream use (`ClassificationResult`, `Entity`, `Reference`).
+- **Stores:** JSON parsed artifacts, Qdrant vectors, Neo4j graph. No SQLite.
 
-Each phase should end with a real-document regression run before moving on.
+Each phase should end with a real-document run before moving on.

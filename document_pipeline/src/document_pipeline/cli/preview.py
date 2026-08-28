@@ -21,7 +21,7 @@ from document_pipeline.serializers.pipeline_preview import (
 )
 from document_pipeline.utils.document_ids import generate_document_id
 
-_SUPPORTED_EXTENSIONS = {".txt", ".pdf", ".docx"}
+_SUPPORTED_EXTENSIONS = {".txt", ".pdf", ".docx", ".html", ".htm"}
 
 
 def register_preview_command(
@@ -35,7 +35,7 @@ def register_preview_command(
   preview_parser.add_argument(
     "path",
     nargs="?",
-    help="Path to a .txt, .pdf, or .docx document.",
+    help="Path to a .txt, .pdf, .docx, or .html document.",
   )
   preview_parser.add_argument(
     "--text",
@@ -131,6 +131,8 @@ def _format_from_extension(extension: str) -> DocumentFormat:
     ".pdf": DocumentFormat.PDF,
     ".docx": DocumentFormat.DOCX,
     ".txt": DocumentFormat.TXT,
+    ".html": DocumentFormat.HTML,
+    ".htm": DocumentFormat.HTML,
   }
   return mapping.get(extension.lower(), DocumentFormat.UNKNOWN)
 

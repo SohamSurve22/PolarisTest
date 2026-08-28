@@ -20,6 +20,8 @@ def test_preview_from_text_prints_json_to_stdout(capsys: pytest.CaptureFixture[s
   assert payload["metadata"]["filename"].endswith(".txt")
   assert payload["sections"]
   assert payload["clauses"]
+  assert "entity_clauses" in payload
+  assert "contextual_clauses" in payload
 
 
 def test_preview_from_file_path(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
@@ -99,6 +101,23 @@ def test_preview_requires_input(capsys: pytest.CaptureFixture[str]) -> None:
   captured = capsys.readouterr()
   assert exit_code == 2
   assert "provide a file path or --text" in captured.err
+
+
+def test_preview_from_html_file(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
+  file_path = tmp_path / "privacy_policy.html"
+  file_path.write_text(
+    "<html><body><h1>Privacy Policy</h1><p>We collect data.</p></body></html>",
+    encoding="utf-8",
+  )
+
+  exit_code = main(["preview", str(file_path)])
+
+  captured = capsys.readouterr()
+  assert exit_code == 0
+  payload = json.loads(captured.out)
+  assert payload["metadata"]["format"] == "html"
+  assert "Privacy Policy" in payload["raw_text"]
+  assert payload["clauses"]
 
 
 def test_preview_rejects_unsupported_extension(

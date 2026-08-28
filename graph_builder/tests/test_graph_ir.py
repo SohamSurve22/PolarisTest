@@ -1,6 +1,7 @@
 """Tests for GraphIR models."""
 
 import json
+from pathlib import Path
 
 import pytest
 
@@ -69,3 +70,17 @@ class TestGraphIR:
     graph_ir = GraphIR()
     assert graph_ir.nodes == []
     assert graph_ir.relationships == []
+
+  def test_write_json_round_trips(self, tmp_path: Path) -> None:
+    original = sample_graph_ir()
+    path = tmp_path / "nested" / "ir.json"
+
+    written = original.write_json(path)
+
+    assert written == path
+    assert path.is_file()
+    restored = GraphIR.from_json(path.read_text(encoding="utf-8"))
+    assert len(restored.nodes) == len(original.nodes)
+    assert len(restored.relationships) == len(original.relationships)
+    assert restored.nodes[0].id == original.nodes[0].id
+    assert restored.relationships[0].type == original.relationships[0].type

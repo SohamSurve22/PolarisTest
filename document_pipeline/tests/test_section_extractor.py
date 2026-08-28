@@ -146,9 +146,22 @@ def test_heading_detector_identifies_styles() -> None:
   ]
 
 
+def test_heading_detector_detects_standalone_at_start_of_document() -> None:
+  headings = HeadingDetector().detect("How is your data used?\n\nWe use data to operate the product.\n")
+
+  assert [heading.title for heading in headings] == ["How is your data used?"]
+
+
+def test_heading_detector_detects_standalone_followed_by_body() -> None:
+  text = "Who do we share data with\nWe share data with processors under written contracts.\n"
+  headings = HeadingDetector().detect(text)
+
+  assert [heading.title for heading in headings] == ["Who do we share data with"]
+
+
 def test_heading_detector_reports_character_offsets() -> None:
-  text = "Preamble\n\n1. Scope\n\nBody."
-  headings = detector.detect(text) if (detector := HeadingDetector()) else []
+  text = "This policy explains the rules.\n\n1. Scope\n\nBody."
+  headings = HeadingDetector().detect(text)
 
   assert headings[0].start_char == text.index("1. Scope")
   assert text[headings[0].start_char :].startswith("1. Scope")

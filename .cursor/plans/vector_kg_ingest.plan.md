@@ -4,19 +4,19 @@ overview: "Second Qdrant population: obligation and section text as source_type 
 todos:
   - id: kg-json-contract
     content: KgSource pydantic models + loader for VECTORIZATION_KG_DIR JSON files
-    status: pending
+    status: completed
   - id: kg-records
     content: Map obligations/sections to EmbeddableRecord with PRD payload fields; paragraph chunking
-    status: pending
+    status: completed
   - id: generalize-upsert
     content: Upsert source_type, law_code, obligation_id from the record; namespaced point_id
-    status: pending
+    status: completed
   - id: cli-ingest-kg
     content: vectorization ingest-kg CLI; search --source-type kg_obligation works unchanged
-    status: pending
+    status: completed
   - id: tests-docs
     content: Tests with fixture JSON (no Neo4j); README + .env.example
-    status: pending
+    status: completed
 isProject: true
 ---
 

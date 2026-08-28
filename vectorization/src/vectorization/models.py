@@ -18,15 +18,19 @@ from document_pipeline.models.clause import Clause
 class EmbeddableRecord(BaseModel):
   """A single unit of text to embed, plus the metadata to store alongside it."""
 
-  clause_id: str
-  document_id: str
-  section_id: str
+  clause_id: str | None = None
+  document_id: str | None = None
+  section_id: str | None = None
   section_title: str | None = None
   clause_number: str | None = None
   clause_text: str
   retrieval_text: str = Field(
     description="Text actually sent to the embedding model.",
   )
+  source_type: str = "document_clause"
+  law_code: str | None = None
+  obligation_id: str | None = None
+  language: str = "en"
   source: dict = Field(
     default_factory=dict,
     description="Original clause payload, stored in the Qdrant point payload "
