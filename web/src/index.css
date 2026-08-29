@@ -744,6 +744,16 @@ html[data-theme="light"] .tone-conflict {
   color: var(--muted);
 }
 
+.analysis-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text);
+}
+
 .conflict-card {
   border-color: var(--error-container);
   position: relative;

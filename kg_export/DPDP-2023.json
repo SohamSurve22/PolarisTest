@@ -1,0 +1,363 @@
+{
+  "law_code": "DPDP-2023",
+  "language": "en",
+  "sections": [
+    {
+      "section_id": "DPDP_SEC_2_SUB_a",
+      "title": "Definition - Appellate Tribunal",
+      "text": "Definition - Appellate Tribunal\n\n\"Appellate Tribunal\" means the Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_c",
+      "title": "Definition - Board",
+      "text": "Definition - Board\n\n\"Board\" means the Data Protection Board of India established by the Central Government under section 18."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_f",
+      "title": "Definition - Child",
+      "text": "Definition - Child\n\n\"child\" means an individual who has not completed the age of eighteen years."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_g",
+      "title": "Definition - Consent Manager",
+      "text": "Definition - Consent Manager\n\n\"Consent Manager\" means a person registered with the Board, who acts as a single point of contact to enable a Data Principal to give, manage, review and withdraw her consent through an accessible, transparent and interoperable platform."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_i",
+      "title": "Definition - Data Fiduciary",
+      "text": "Definition - Data Fiduciary\n\n\"Data Fiduciary\" means any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_j",
+      "title": "Definition - Data Principal",
+      "text": "Definition - Data Principal\n\n\"Data Principal\" means the individual to whom the personal data relates and where such individual is— (i) a child, includes the parents or lawful guardian of such a child; (ii) a person with disability, includes her lawful guardian, acting on her behalf."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_k",
+      "title": "Definition - Data Processor",
+      "text": "Definition - Data Processor\n\n\"Data Processor\" means any person who processes personal data on behalf of a Data Fiduciary."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_t",
+      "title": "Definition - Personal Data",
+      "text": "Definition - Personal Data\n\n\"personal data\" means any data about an individual who is identifiable by or in relation to such data."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_u",
+      "title": "Definition - Personal Data Breach",
+      "text": "Definition - Personal Data Breach\n\n\"personal data breach\" means any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data."
+    },
+    {
+      "section_id": "DPDP_SEC_2_SUB_z",
+      "title": "Definition - Significant Data Fiduciary",
+      "text": "Definition - Significant Data Fiduciary\n\n\"Significant Data Fiduciary\" means any Data Fiduciary or class of Data Fiduciaries as may be notified by the Central Government under section 10."
+    },
+    {
+      "section_id": "DPDP_SEC_3_SUB_a",
+      "title": "Application - Territorial Scope within India",
+      "text": "Application - Territorial Scope within India\n\nApply to the processing of digital personal data within the territory of India where the personal data is collected in digital form or in non-digital form and digitised subsequently."
+    },
+    {
+      "section_id": "DPDP_SEC_3_SUB_b",
+      "title": "Application - Extra-territorial Scope",
+      "text": "Application - Extra-territorial Scope\n\nAlso apply to processing of digital personal data outside the territory of India, if such processing is in connection with any activity related to offering of goods or services to Data Principals within the territory of India."
+    },
+    {
+      "section_id": "DPDP_SEC_3_SUB_c",
+      "title": "Application - Exclusions",
+      "text": "Application - Exclusions\n\nNot apply to personal data processed by an individual for any personal or domestic purpose; and personal data that is made or caused to be made publicly available by the Data Principal or any person obligated by law to make such personal data publicly available."
+    },
+    {
+      "section_id": "DPDP_SEC_6_SUB_4",
+      "title": "Consent - Right to Withdraw",
+      "text": "Consent - Right to Withdraw\n\nWhere consent given by the Data Principal is the basis of processing, the Data Principal shall have the right to withdraw her consent at any time, with the ease of doing so being comparable to the ease with which such consent was given."
+    },
+    {
+      "section_id": "DPDP_SEC_9_SUB_4",
+      "title": "Processing Children's Data - Exemptions",
+      "text": "Processing Children's Data - Exemptions\n\nThe provisions of sub-sections (1) and (3) shall not be applicable to processing of personal data of a child by such classes of Data Fiduciaries or for such purposes and conditions as may be prescribed."
+    },
+    {
+      "section_id": "DPDP_SEC_11_SUB_1",
+      "title": "Right to Access Information About Personal Data",
+      "text": "Right to Access Information About Personal Data\n\nThe Data Principal shall have the right to obtain from the Data Fiduciary a summary of personal data being processed, identities of other Data Fiduciaries and Data Processors with whom data was shared, and any other prescribed information."
+    },
+    {
+      "section_id": "DPDP_SEC_12_SUB_1",
+      "title": "Right to Correction and Erasure",
+      "text": "Right to Correction and Erasure\n\nA Data Principal shall have the right to correction, completion, updating and erasure of her personal data for which she has previously given consent."
+    },
+    {
+      "section_id": "DPDP_SEC_12_SUB_2",
+      "title": "Right to Correction - Data Fiduciary Obligations",
+      "text": "Right to Correction - Data Fiduciary Obligations\n\nA Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal, correct the inaccurate personal data, complete the incomplete personal data, and update the personal data."
+    },
+    {
+      "section_id": "DPDP_SEC_12_SUB_3",
+      "title": "Right to Erasure - Request Process",
+      "text": "Right to Erasure - Request Process\n\nA Data Principal shall make a request to the Data Fiduciary for erasure of her personal data, and upon receipt, the Data Fiduciary shall erase the data unless retention is necessary for the specified purpose or compliance with any law."
+    },
+    {
+      "section_id": "DPDP_SEC_13_SUB_1",
+      "title": "Right to Grievance Redressal",
+      "text": "Right to Grievance Redressal\n\nA Data Principal shall have the right to have readily available means of grievance redressal provided by a Data Fiduciary or Consent Manager in respect of any act or omission regarding the performance of obligations or exercise of rights under this Act."
+    },
+    {
+      "section_id": "DPDP_SEC_13_SUB_2",
+      "title": "Grievance Redressal - Response Timeline",
+      "text": "Grievance Redressal - Response Timeline\n\nThe Data Fiduciary or Consent Manager shall respond to any grievances within such period as may be prescribed from the date of its receipt."
+    },
+    {
+      "section_id": "DPDP_SEC_13_SUB_3",
+      "title": "Grievance Redressal - Exhaustion Before Board",
+      "text": "Grievance Redressal - Exhaustion Before Board\n\nThe Data Principal shall exhaust the opportunity of redressing her grievance under this section before approaching the Board."
+    },
+    {
+      "section_id": "DPDP_SEC_14_SUB_1",
+      "title": "Right to Nominate",
+      "text": "Right to Nominate\n\nA Data Principal shall have the right to nominate any other individual who shall, in the event of death or incapacity of the Data Principal, exercise the rights of the Data Principal."
+    },
+    {
+      "section_id": "DPDP_SEC_17_SUB_1",
+      "title": "Exemptions - General Grounds",
+      "text": "Exemptions - General Grounds\n\nThe provisions of Chapter II and III and section 16 shall not apply where processing is necessary for enforcing legal rights, by courts or tribunals, for prevention or investigation of offences, for offshore contracts, for corporate restructuring, or for financial default ascertainment."
+    },
+    {
+      "section_id": "DPDP_SEC_17_SUB_2",
+      "title": "Exemptions - State and Research",
+      "text": "Exemptions - State and Research\n\nThe Act shall not apply to processing by notified State instrumentalities for sovereignty, security, and public order; and to processing for research, archiving or statistical purposes where not used for individual decisions."
+    },
+    {
+      "section_id": "DPDP_SEC_17_SUB_3",
+      "title": "Exemptions - Startup Notification",
+      "text": "Exemptions - Startup Notification\n\nThe Central Government may notify certain Data Fiduciaries including startups as exempt from the provisions of section 5, sub-sections (3) and (7) of section 8, and sections 10 and 11."
+    },
+    {
+      "section_id": "DPDP_SEC_18_SUB_1",
+      "title": "Establishment of Data Protection Board of India",
+      "text": "Establishment of Data Protection Board of India\n\nWith effect from such date as the Central Government may appoint, there shall be established a Board to be called the Data Protection Board of India."
+    },
+    {
+      "section_id": "DPDP_SEC_27_SUB_1",
+      "title": "Powers and Functions of Board",
+      "text": "Powers and Functions of Board\n\nThe Board shall inquire into personal data breaches, breaches of Data Fiduciary obligations, Consent Manager breaches, and intermediary violations, and impose penalties as provided in this Act."
+    },
+    {
+      "section_id": "DPDP_SEC_29_SUB_1",
+      "title": "Appeal to Appellate Tribunal",
+      "text": "Appeal to Appellate Tribunal\n\nAny person aggrieved by an order or direction made by the Board under this Act may prefer an appeal before the Appellate Tribunal."
+    },
+    {
+      "section_id": "DPDP_SEC_29_SUB_2",
+      "title": "Appeal - Time Limit and Form",
+      "text": "Appeal - Time Limit and Form\n\nEvery appeal shall be filed within sixty days from the date of receipt of the order or direction appealed against, in such form and manner and accompanied by such fee as may be prescribed."
+    },
+    {
+      "section_id": "DPDP_SEC_33_SUB_1",
+      "title": "Penalties - Imposition",
+      "text": "Penalties - Imposition\n\nIf the Board determines on conclusion of an inquiry that breach of the provisions of this Act by a person is significant, it may, after giving the person an opportunity of being heard, impose such monetary penalty specified in the Schedule."
+    },
+    {
+      "section_id": "DPDP_SEC_33_SUB_2",
+      "title": "Penalties - Determining Factors",
+      "text": "Penalties - Determining Factors\n\nWhile determining the monetary penalty, the Board shall have regard to nature, gravity and duration of breach, type of personal data affected, repetitive nature, gain or loss avoided, mitigation action, proportionality, and likely impact on the person."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_1",
+      "title": "Penalty - Failure to Implement Security Safeguards",
+      "text": "Penalty - Failure to Implement Security Safeguards\n\nBreach in observing the obligation of Data Fiduciary to take reasonable security safeguards to prevent personal data breach under sub-section (5) of section 8. Penalty: May extend to two hundred and fifty crore rupees."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_2",
+      "title": "Penalty - Failure to Notify Breach",
+      "text": "Penalty - Failure to Notify Breach\n\nBreach in observing the obligation to give the Board or affected Data Principal notice of a personal data breach under sub-section (6) of section 8. Penalty: May extend to two hundred crore rupees."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_3",
+      "title": "Penalty - Breach of Children's Data Obligations",
+      "text": "Penalty - Breach of Children's Data Obligations\n\nBreach in observance of additional obligations in relation to children under section 9. Penalty: May extend to two hundred crore rupees."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_4",
+      "title": "Penalty - Breach of Significant Data Fiduciary Obligations",
+      "text": "Penalty - Breach of Significant Data Fiduciary Obligations\n\nBreach in observance of additional obligations of Significant Data Fiduciary under section 10. Penalty: May extend to one hundred and fifty crore rupees."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_5",
+      "title": "Penalty - Breach of Data Principal Duties",
+      "text": "Penalty - Breach of Data Principal Duties\n\nBreach in observance of the duties under section 15. Penalty: May extend to ten thousand rupees."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_6",
+      "title": "Penalty - Breach of Voluntary Undertaking",
+      "text": "Penalty - Breach of Voluntary Undertaking\n\nBreach of any term of voluntary undertaking accepted by the Board under section 32. Penalty: Up to the extent applicable for the breach in respect of which the proceedings under section 28 were instituted."
+    },
+    {
+      "section_id": "DPDP_SCHEDULE_7",
+      "title": "Penalty - Breach of Other Provisions",
+      "text": "Penalty - Breach of Other Provisions\n\nBreach of any other provision of this Act or the rules made thereunder. Penalty: May extend to fifty crore rupees."
+    }
+  ],
+  "obligations": [
+    {
+      "obligation_id": "DPDP_SEC_4_SUB_1",
+      "section_id": "DPDP_SEC_4_SUB_1",
+      "text": "A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose for which the Data Principal has given her consent or for certain legitimate uses."
+    },
+    {
+      "obligation_id": "DPDP_SEC_5_SUB_1",
+      "section_id": "DPDP_SEC_5_SUB_1",
+      "text": "Every request made to a Data Principal under section 6 for consent shall be accompanied or preceded by a notice given by the Data Fiduciary to the Data Principal informing her the personal data and purpose of processing, manner to exercise rights, and manner to make complaint to the Board."
+    },
+    {
+      "obligation_id": "DPDP_SEC_5_SUB_2",
+      "section_id": "DPDP_SEC_5_SUB_2",
+      "text": "Where a Data Principal has given her consent for the processing of her personal data before the date of commencement of this Act, the Data Fiduciary shall, as soon as it is reasonably practicable, give to the Data Principal a notice and may continue to process until consent is withdrawn."
+    },
+    {
+      "obligation_id": "DPDP_SEC_5_SUB_3",
+      "section_id": "DPDP_SEC_5_SUB_3",
+      "text": "The Data Fiduciary shall give the Data Principal the option to access the contents of the notice in English or any language specified in the Eighth Schedule to the Constitution."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_1",
+      "section_id": "DPDP_SEC_6_SUB_1",
+      "text": "The consent given by the Data Principal shall be free, specific, informed, unconditional and unambiguous with a clear affirmative action, limited to personal data necessary for the specified purpose."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_2",
+      "section_id": "DPDP_SEC_6_SUB_2",
+      "text": "Any part of consent which constitutes an infringement of the provisions of this Act or any other law shall be invalid to the extent of such infringement."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_3",
+      "section_id": "DPDP_SEC_6_SUB_3",
+      "text": "Every request for consent shall be presented in clear and plain language, in English or any Eighth Schedule language, and shall provide contact details of the Data Protection Officer or authorised person."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_5",
+      "section_id": "DPDP_SEC_6_SUB_5",
+      "text": "The consequences of withdrawal shall be borne by the Data Principal, and such withdrawal shall not affect the legality of processing before its withdrawal."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_6",
+      "section_id": "DPDP_SEC_6_SUB_6",
+      "text": "If a Data Principal withdraws consent, the Data Fiduciary shall, within a reasonable time, cease and cause its Data Processors to cease processing the personal data unless processing is required or authorised under the Act or any other law."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_7",
+      "section_id": "DPDP_SEC_6_SUB_7",
+      "text": "The Data Principal may give, manage, review or withdraw her consent to the Data Fiduciary through a Consent Manager."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_8",
+      "section_id": "DPDP_SEC_6_SUB_8",
+      "text": "The Consent Manager shall be accountable to the Data Principal and shall act on her behalf in such manner and subject to such obligations as may be prescribed."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_9",
+      "section_id": "DPDP_SEC_6_SUB_9",
+      "text": "Every Consent Manager shall be registered with the Board in such manner and subject to such technical, operational, financial and other conditions as may be prescribed."
+    },
+    {
+      "obligation_id": "DPDP_SEC_6_SUB_10",
+      "section_id": "DPDP_SEC_6_SUB_10",
+      "text": "Where a question of consent arises in a proceeding, the Data Fiduciary shall be obliged to prove that a notice was given and consent was given by the Data Principal in accordance with the provisions of this Act."
+    },
+    {
+      "obligation_id": "DPDP_SEC_7",
+      "section_id": "DPDP_SEC_7",
+      "text": "A Data Fiduciary may process personal data for legitimate uses including: voluntary provision by Data Principal, State functions, legal obligations, court orders, medical emergencies, public health, disaster management, and employment purposes."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_1",
+      "section_id": "DPDP_SEC_8_SUB_1",
+      "text": "A Data Fiduciary shall, irrespective of any agreement to the contrary or failure of a Data Principal to carry out duties, be responsible for complying with this Act in respect of any processing undertaken by it or on its behalf by a Data Processor."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_2",
+      "section_id": "DPDP_SEC_8_SUB_2",
+      "text": "A Data Fiduciary may engage a Data Processor to process personal data on its behalf only under a valid contract."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_3",
+      "section_id": "DPDP_SEC_8_SUB_3",
+      "text": "Where personal data is likely to be used to make a decision affecting the Data Principal or disclosed to another Data Fiduciary, the Data Fiduciary shall ensure its completeness, accuracy and consistency."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_4",
+      "section_id": "DPDP_SEC_8_SUB_4",
+      "text": "A Data Fiduciary shall implement appropriate technical and organisational measures to ensure effective observance of the provisions of this Act."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_5",
+      "section_id": "DPDP_SEC_8_SUB_5",
+      "text": "A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_6",
+      "section_id": "DPDP_SEC_8_SUB_6",
+      "text": "In the event of a personal data breach, the Data Fiduciary shall give the Board and each affected Data Principal, intimation of such breach in such form and manner as may be prescribed."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_7",
+      "section_id": "DPDP_SEC_8_SUB_7",
+      "text": "A Data Fiduciary shall, unless retention is necessary for compliance with any law, erase personal data upon consent withdrawal or when the specified purpose is no longer served, and cause its Data Processor to erase such data."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_8",
+      "section_id": "DPDP_SEC_8_SUB_8",
+      "text": "The purpose shall be deemed to no longer be served if the Data Principal does not approach the Data Fiduciary for the performance of the specified purpose and does not exercise any rights for such time period as may be prescribed."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_9",
+      "section_id": "DPDP_SEC_8_SUB_9",
+      "text": "A Data Fiduciary shall publish the business contact information of a Data Protection Officer, if applicable, or a person able to answer questions raised by the Data Principal about the processing of her personal data."
+    },
+    {
+      "obligation_id": "DPDP_SEC_8_SUB_10",
+      "section_id": "DPDP_SEC_8_SUB_10",
+      "text": "A Data Fiduciary shall establish an effective mechanism to redress the grievances of Data Principals."
+    },
+    {
+      "obligation_id": "DPDP_SEC_9_SUB_1",
+      "section_id": "DPDP_SEC_9_SUB_1",
+      "text": "The Data Fiduciary shall, before processing any personal data of a child or a person with disability who has a lawful guardian, obtain verifiable consent of the parent or lawful guardian."
+    },
+    {
+      "obligation_id": "DPDP_SEC_9_SUB_2",
+      "section_id": "DPDP_SEC_9_SUB_2",
+      "text": "A Data Fiduciary shall not undertake such processing of personal data that is likely to cause any detrimental effect on the well-being of a child."
+    },
+    {
+      "obligation_id": "DPDP_SEC_9_SUB_3",
+      "section_id": "DPDP_SEC_9_SUB_3",
+      "text": "A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children."
+    },
+    {
+      "obligation_id": "DPDP_SEC_10_SUB_1",
+      "section_id": "DPDP_SEC_10_SUB_1",
+      "text": "The Central Government may notify any Data Fiduciary as Significant Data Fiduciary based on volume and sensitivity of data, risk to Data Principal rights, impact on sovereignty and integrity of India, risk to electoral democracy, security of State, and public order."
+    },
+    {
+      "obligation_id": "DPDP_SEC_10_SUB_2",
+      "section_id": "DPDP_SEC_10_SUB_2",
+      "text": "The Significant Data Fiduciary shall appoint a Data Protection Officer based in India, appoint an independent data auditor, and undertake periodic Data Protection Impact Assessments and audits."
+    },
+    {
+      "obligation_id": "DPDP_SEC_15",
+      "section_id": "DPDP_SEC_15",
+      "text": "A Data Principal shall comply with applicable laws, not impersonate another person, not suppress material information when providing personal data to State bodies, not register false or frivolous grievances, and furnish only verifiably authentic information for correction or erasure."
+    },
+    {
+      "obligation_id": "DPDP_SEC_16_SUB_1",
+      "section_id": "DPDP_SEC_16_SUB_1",
+      "text": "The Central Government may, by notification, restrict the transfer of personal data by a Data Fiduciary for processing to such country or territory outside India as may be so notified."
+    },
+    {
+      "obligation_id": "DPDP_SEC_16_SUB_2",
+      "section_id": "DPDP_SEC_16_SUB_2",
+      "text": "Nothing in this section shall restrict the applicability of any law for the time being in force that provides for a higher degree of protection for or restriction on transfer of personal data outside India."
+    }
+  ]
+}

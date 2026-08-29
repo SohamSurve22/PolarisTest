@@ -1,6 +1,6 @@
 # PolarisLex architecture (current state)
 
-PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, and can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act. It does **not** yet run a full compliance engine, generate reports, or compute penalties.
+PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act, and can **analyze** that policy for obligation gaps and linked penalties (India MVP). It does **not** yet generate LLM reports or traverse Neo4j obligations.
 
 Packages are independently installable. Vector search and Neo4j do **not** import each other. The product UI does **not** use Neo4j Browser. The join for law overlay is the four `*_graph.json` files at the repo root.
 
@@ -14,8 +14,9 @@ Interactive walkthrough: open the Cursor canvas beside chat (`polarislex-archite
 | Embed | `vectorization/` | JSON → Qdrant vectors + search |
 | Graph IR | `graph_builder/` | GraphIR schema, LLM builder, kg_export dump |
 | Graph CLI | `semantic_graph/` | Hierarchy builder, `dump-ir`, Neo4j export |
-| Compare | `policy_compare/` | Ideal topic graph + overlay match |
-| UI | `web/` + `docker/` | Upload policy, side-by-side graphs (`localhost:8080`) |
+| Compare | `policy_compare/` | Ideal topic graph + overlay match; FastAPI `/compare` and `/analyze` |
+| Analyze | `compliance/` | Obligation / gap / penalty findings (India) |
+| UI | `web/` + `docker/` | Upload policy, graphs + inspector (`localhost:8080`) |
 
 **Stores:** JSON files, Qdrant (`localhost:6333`), Neo4j (`localhost:7474` / Bolt `7687`). Embeddings: local Ollama (`localhost:11434`), default `nomic-embed-text`. Product compare API is FastAPI in Docker (`localhost:8000`). No SQLite, no Postgres.
 
@@ -171,8 +172,9 @@ docker compose up -d neo4j
 semantic-graph export statute.txt
 semantic-graph export statute.txt --ir-output ir.json
 
-# Product UI (policy overlay)
+# Product UI (policy overlay + analysis)
 docker compose up --build web api
+# Qdrant (compose) + Ollama on the host (embeddings for /analyze)
 # open http://localhost:8080
 ```
 
@@ -185,21 +187,26 @@ docker compose up --build web api
 # UI: http://localhost:8080   API: http://localhost:8000/health
 ```
 
-`POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. Matching is lexical topic keywords (no Ollama required for this path).
+`POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. Matching is **lexical topic keywords**; it does not need Qdrant or Ollama.
+
+`POST /analyze` (same upload, optional form `jurisdiction` default `IN`) scores policy clauses against `kg_obligation` vectors in Qdrant (`vectorization.search_text`) and attaches penalties from the four law JSON files. Response is `AnalysisResult` (findings), not pipeline “context.” The inspector shows applicable laws, covered vs gaps, and penalty lines. Analyze does **not** upsert the uploaded policy into Qdrant. If Qdrant or Ollama is down, `/analyze` returns **503**; `/compare` still works.
+
+Analyze v1 does **not** traverse Neo4j. `semantic-graph dump-ir` still has no Obligation nodes. A later increment can join GraphIR obligations once they exist.
+
+The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star.
 
 ## Not in this build
 
-- Compliance engine (applicable law → obligations → gaps → penalties)
-- Report generation and a reports database
+- Neo4j obligation traversal (Phase 4 increment after GraphIR has Obligation nodes)
+- Report generation and a reports database (Phase 5)
 - Hybrid graph+vector fusion at query time
 - LLM `retrieval_text` rewrite (Spec 4, parked)
 - Smarter overlay matching (embeddings / LLM labels / obligation graph) — parked in `plan.md` (“Later — smarter matching”)
-
-Phase 4 would pull parsed JSON, Qdrant, and Neo4j. Those stores exist; the engine does not.
+- Pluggable jurisdictions beyond India website-privacy MVP
 
 ## Decisions worth stating
 
 - **Privacy:** local Ollama embeddings by default; other embedders are a settings swap.
 - **Stores:** JSON parsed artifacts, Qdrant vectors, Neo4j graph. JSON files are the parsed store (SQLite will not be added).
-- **Naming:** structural `ContextBuilder` is not compliance-level context.
+- **Naming:** structural `ContextBuilder` is document structure only. Engine output is `AnalysisResult`.
 - **Isolation:** `vectorization` never imports `graph_builder` and never opens a Neo4j driver.

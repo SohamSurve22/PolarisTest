@@ -13,7 +13,14 @@ function pct(part, whole) {
   return Math.round((part / whole) * 100);
 }
 
-export default function Inspector({ selected, chunks, summary, onClose }) {
+export default function Inspector({
+  selected,
+  chunks,
+  summary,
+  analysis,
+  analysisError,
+  onClose,
+}) {
   const badge = selected ? BADGE[selected.status] : null;
   const topicCoverage = pct(summary.covered, summary.topics);
   const sectionCoverage = pct(summary.sections - summary.extra, summary.sections);
@@ -35,6 +42,8 @@ export default function Inspector({ selected, chunks, summary, onClose }) {
       </div>
 
       <div className="inspector-body">
+        <AnalysisPanel analysis={analysis} analysisError={analysisError} />
+
         {selected ? (
           <div className="detail-card">
             <div className="detail-card-top">
@@ -141,6 +150,66 @@ export default function Inspector({ selected, chunks, summary, onClose }) {
         </section>
       </div>
     </aside>
+  );
+}
+
+function AnalysisPanel({ analysis, analysisError }) {
+  if (analysisError && !analysis) {
+    return (
+      <section>
+        <h3 className="inspector-section-title">Analysis</h3>
+        <p className="inspector-copy muted">{analysisError}</p>
+      </section>
+    );
+  }
+  if (!analysis) {
+    return (
+      <section>
+        <h3 className="inspector-section-title">Analysis</h3>
+        <p className="inspector-copy muted">Run validation to score obligations against Indian website-privacy law.</p>
+      </section>
+    );
+  }
+  const covered = analysis.obligations.filter((row) => row.status === "covered").length;
+  return (
+    <section>
+      <h3 className="inspector-section-title">Analysis</h3>
+      <p className="inspector-copy">
+        {analysis.jurisdiction}
+        {analysis.applicable_laws?.length ? ` · ${analysis.applicable_laws.join(", ")}` : ""}
+      </p>
+      <p className="inspector-copy muted">
+        {covered}/{analysis.obligations.length} obligations covered · {analysis.gaps.length} gaps
+      </p>
+      {analysis.gaps?.length ? (
+        <ul className="analysis-list">
+          {analysis.gaps.map((gap) => (
+            <li key={gap.obligation_id}>
+              <span className={`mono-badge badge-${gap.status === "partial" ? "partial" : "missing"}`}>
+                {gap.status.toUpperCase()}
+              </span>{" "}
+              {gap.act ? `${gap.act} · ` : ""}
+              {gap.title}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p className="inspector-copy muted">No obligation gaps.</p>
+      )}
+      {analysis.penalties?.length ? (
+        <>
+          <h3 className="inspector-section-title">Penalties</h3>
+          <ul className="analysis-list">
+            {analysis.penalties.map((pen) => (
+              <li key={`${pen.obligation_id}-${pen.title}`}>
+                {pen.title}
+                {pen.amount_crore != null ? ` · ₹${pen.amount_crore} crore` : ""}
+              </li>
+            ))}
+          </ul>
+        </>
+      ) : null}
+    </section>
   );
 }
 

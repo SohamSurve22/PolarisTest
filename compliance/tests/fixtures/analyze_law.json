@@ -1,0 +1,67 @@
+[
+  {
+    "doc_id": "DOC_TINY",
+    "node_label": "LegalDocument",
+    "chunk_type": null,
+    "title": "Tiny Test Act",
+    "clause_text": null,
+    "plain_english_summary": "Root document.",
+    "relationships": [],
+    "node_properties": {},
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_CONSENT",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "title": "Consent required",
+    "clause_text": "The company shall obtain consent before processing personal data.",
+    "plain_english_summary": "A company must get user consent before processing personal data.",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_CONSENT", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_SECURE",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "title": "Security safeguards",
+    "clause_text": "The company shall take reasonable security safeguards.",
+    "plain_english_summary": "Must implement security safeguards.",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} },
+      { "type": "TRIGGERS_PENALTY", "target_id": "TINY_PENALTY_SEC", "target_label": "Section", "properties": {} }
+    ],
+    "node_properties": { "is_mandatory": true, "penalty_amount_crore": 250 },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_PENALTY_SEC",
+    "node_label": "Section",
+    "chunk_type": "penalty",
+    "title": "Penalty for weak security",
+    "clause_text": "Penalty may extend to 250 crore rupees.",
+    "plain_english_summary": "Up to 250 crore for failing security safeguards.",
+    "relationships": [
+      { "type": "CITES", "target_id": "TINY_SECURE", "target_label": "Section", "properties": {} },
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_SECURITY", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": { "penalty_amount_crore": 250 },
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  },
+  {
+    "doc_id": "TINY_GOVERNANCE",
+    "node_label": "Section",
+    "chunk_type": "governance",
+    "title": "Board establishment",
+    "clause_text": "There shall be a Board.",
+    "plain_english_summary": "Establishes a Board.",
+    "relationships": [
+      { "type": "TAGGED_WITH", "target_id": "TOPIC_GOVERNANCE", "target_label": "Topic", "properties": {} }
+    ],
+    "node_properties": {},
+    "metadata": { "jurisdiction": "India", "act": "TINY", "year": 2023 }
+  }
+]

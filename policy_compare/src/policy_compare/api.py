@@ -1,4 +1,4 @@
-"""FastAPI app: upload a company privacy policy and return overlay graphs."""
+"""FastAPI app: overlay compare and India/DPDP compliance analyze."""
 
 from __future__ import annotations
 
@@ -8,11 +8,12 @@ from pathlib import Path
 
 from document_pipeline.models.document import DocumentSource
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
-from document_pipeline.pipeline.orchestrator import create_default_orchestrator
+from document_pipeline.pipeline.orchestrator import PipelineOutputs, create_default_orchestrator
 from document_pipeline.utils.document_ids import generate_document_id
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
+from compliance.service import AnalyzeError, analyze_document
 from policy_compare.service import compare_document, default_law_paths
 
 _EXTENSIONS: dict[str, DocumentFormat] = {
@@ -45,6 +46,22 @@ def _law_paths() -> list[Path]:
   return sorted(root.glob("*.json"))
 
 
+def _parse_upload(raw: bytes, filename: str, suffix: str, fmt: DocumentFormat) -> tuple[PipelineOutputs, Path]:
+  with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as handle:
+    handle.write(raw)
+    temp_path = Path(handle.name)
+  source = DocumentSource(
+    metadata=DocumentMetadata(
+      document_id=generate_document_id(),
+      filename=filename or temp_path.name,
+      format=fmt,
+      source_path=str(temp_path),
+    ),
+  )
+  outputs = create_default_orchestrator().run(source)
+  return outputs, temp_path
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
   return {"status": "ok"}
@@ -52,29 +69,10 @@ def health() -> dict[str, str]:
 
 @app.post("/compare")
 async def compare(file: UploadFile = File(...)) -> dict:
-  suffix = Path(file.filename or "policy.txt").suffix.lower() or ".txt"
-  fmt = _EXTENSIONS.get(suffix)
-  if fmt is None:
-    raise HTTPException(status_code=400, detail=f"Unsupported file type: {suffix}")
-
-  raw = await file.read()
-  if not raw:
-    raise HTTPException(status_code=400, detail="Empty file")
-
-  with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as handle:
-    handle.write(raw)
-    temp_path = Path(handle.name)
-
+  suffix, fmt, raw = await _read_upload(file)
+  temp_path: Path | None = None
   try:
-    source = DocumentSource(
-      metadata=DocumentMetadata(
-        document_id=generate_document_id(),
-        filename=file.filename or temp_path.name,
-        format=fmt,
-        source_path=str(temp_path),
-      ),
-    )
-    outputs = create_default_orchestrator().run(source)
+    outputs, temp_path = _parse_upload(raw, file.filename or "policy.txt", suffix, fmt)
     law_paths = _law_paths()
     missing = [str(path) for path in law_paths if not path.is_file()]
     if missing:
@@ -86,4 +84,47 @@ async def compare(file: UploadFile = File(...)) -> dict:
   except Exception as exc:
     raise HTTPException(status_code=500, detail=str(exc)) from exc
   finally:
-    temp_path.unlink(missing_ok=True)
+    if temp_path is not None:
+      temp_path.unlink(missing_ok=True)
+
+
+@app.post("/analyze")
+async def analyze(
+  file: UploadFile = File(...),
+  jurisdiction: str = Form("IN"),
+) -> dict:
+  suffix, fmt, raw = await _read_upload(file)
+  temp_path: Path | None = None
+  try:
+    outputs, temp_path = _parse_upload(raw, file.filename or "policy.txt", suffix, fmt)
+    law_paths = _law_paths()
+    missing = [str(path) for path in law_paths if not path.is_file()]
+    if missing:
+      raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
+    result = analyze_document(outputs.entity, law_paths, jurisdiction=jurisdiction)
+    return result.model_dump()
+  except HTTPException:
+    raise
+  except AnalyzeError as exc:
+    raise HTTPException(
+      status_code=503,
+      detail="Analysis search backend unavailable (Qdrant or Ollama).",
+    ) from exc
+  except ValueError as exc:
+    raise HTTPException(status_code=400, detail=str(exc)) from exc
+  except Exception as exc:
+    raise HTTPException(status_code=500, detail=str(exc)) from exc
+  finally:
+    if temp_path is not None:
+      temp_path.unlink(missing_ok=True)
+
+
+async def _read_upload(file: UploadFile) -> tuple[str, DocumentFormat, bytes]:
+  suffix = Path(file.filename or "policy.txt").suffix.lower() or ".txt"
+  fmt = _EXTENSIONS.get(suffix)
+  if fmt is None:
+    raise HTTPException(status_code=400, detail=f"Unsupported file type: {suffix}")
+  raw = await file.read()
+  if not raw:
+    raise HTTPException(status_code=400, detail="Empty file")
+  return suffix, fmt, raw

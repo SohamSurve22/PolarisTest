@@ -1,6 +1,6 @@
 # PolarisLex — Project Plan
 
-`document_pipeline/` ingests legal documents and writes parsed JSON. `vectorization/` embeds clauses into Qdrant. `graph_builder/` / `semantic_graph/` build GraphIR and can export to Neo4j. The compliance engine, reports, and APIs are not built.
+`document_pipeline/` ingests legal documents and writes parsed JSON. `vectorization/` embeds clauses into Qdrant. `graph_builder/` / `semantic_graph/` build GraphIR and can export to Neo4j. Overlay compare (`POST /compare`) and India analysis (`POST /analyze`) are built. LLM reports and Neo4j obligation traversal are not.
 
 An older rewrite brief lives at `.cursor/plans/optimize_plan.md_e883823e.plan.md`. It is historical (how this file was first slimmed). Do not execute its Phase 1 list.
 
@@ -32,7 +32,8 @@ Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdr
 | `vectorization` | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4) |
 | Graph | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Neo4j via `semantic-graph export`. |
 | Overlay match | Lexical keywords in `policy_compare` (`TOPIC_KEYWORDS`). Parked: smarter matching (below) |
-| Not built | Compliance engine, reports, app DB |
+| Analyze v1 | `compliance/` + `POST /analyze`: Qdrant `kg_obligation` match + law-JSON penalties (India). Neo4j later |
+| Not built | Neo4j obligation traversal, LLM reports, app DB, pluggable jurisdictions |
 
 Entity extraction stays dictionary/regex (`ClassifierFn` already exists). No LLM classifier in this phase.
 
@@ -57,7 +58,7 @@ Package: `vectorization/`. Local Qdrant via root `docker-compose.yml`; default e
 - [x] Local embedding backend (Ollama default; optional Sentence Transformers)
 - [x] Qdrant collection `document_clauses`
 - [ ] Optional Spec 4: LLM `retrieval_text` rewrite (parked; needs a chat model)
-- [ ] Live batch ingest when ready (`vectorization` then `ingest-kg`, or `reembed`)
+- [x] Live batch ingest when ready (`vectorization` then `ingest-kg`, or `reembed`)
 - [x] GraphIR → `kg_export` JSON dump so obligation search has law text (not SQLite)
 
 ## Phase 3 — Policy graph + Neo4j
@@ -67,17 +68,17 @@ Packages: `graph_builder/`, `semantic_graph/`.
 - [x] GraphIR schema and Neo4j export path
 - [x] Save GraphIR JSON to disk (`semantic-graph dump-ir`, or `export --ir-output`)
 - [x] Exporter into the `kg_export` file shape (`law_code`, `sections`, `obligations`)
-- [ ] Idempotent re-ingest tests against a running Neo4j if not already covered
+- [x] Idempotent re-ingest tests against a running Neo4j if not already covered
 - Hybrid graph+vector fusion — later (compliance engine)
 
 ## Phase 4 — Compliance engine
 
 - [x] Policy overlay UI (`policy_compare` + Docker `web`/`api`) — topic coverage, not full gap/penalty analysis
 - [ ] Overlay matching: still keyword-based; **do later** — see [Later — smarter matching](#later--smarter-matching)
-- [ ] API: document ID + optional jurisdiction → analysis
-- [ ] Pull parsed JSON, Qdrant, Neo4j
-- [ ] Steps: applicable law → obligations → missing clauses → penalties → compliance context (not `context_builder.py`)
-- [ ] **Decision:** single-framework MVP vs pluggable jurisdictions (entity dict is DPDP/India-biased)
+- [x] API v1: `POST /analyze` (upload + optional `jurisdiction` default `IN`) → `AnalysisResult`. Document-ID lookup of stored `DOC_*.json` is later.
+- [x] Pull parsed JSON + Qdrant `kg_obligation` + four law JSON files (penalties). Neo4j obligation traversal is later (`dump-ir` still has no Obligation nodes).
+- [x] Steps v1: applicable law (IN) → obligations (vector match) → gaps (missing/partial) → penalties. Output is `AnalysisResult`, not pipeline `context_builder`.
+- [x] **Decision:** single-framework MVP (India website privacy). Pluggable jurisdictions later.
 
 ## Phase 5 — Report generation + Reports DB
 
@@ -97,12 +98,12 @@ When we pick this up, replace or layer matching — not the landing/workspace ch
 2. **LLM classification** — optional second pass: “this paragraph is about retention.” Validate against a pydantic label set. Do not let the model invent statutes.
 3. **Graph obligations** — match to GraphIR `Obligation` nodes / Neo4j traversal (“this clause satisfies DPDP §X”), not topic-tag smell. This is the compliance engine, not a UI tweak.
 
-Out of scope until then: penalties, hybrid fusion at query time, changing `KEPT_TOPICS`.
+Out of scope for overlay matching: embeddings on `/compare`, hybrid fusion at query time, changing `KEPT_TOPICS`. Penalties live on `/analyze`, not on the overlay graph.
 
 ## Decisions
 
 - **Privacy:** local Ollama embeddings by default; cloud embedders are a settings swap, not the default.
-- **Naming:** structural `ContextBuilder` vs compliance-level context — resolve before Phase 4.
+- **Naming:** structural `ContextBuilder` is document structure only. Engine output is `AnalysisResult` (findings).
 - **Schema:** LLM stages validate against pydantic before downstream use (`ClassificationResult`, `Entity`, `Reference`).
 - **Stores:** JSON parsed artifacts, Qdrant vectors, Neo4j graph. No SQLite.
 

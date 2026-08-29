@@ -1,0 +1,17 @@
+{
+  "law_code": "SAMPLE-STATUTE",
+  "language": "en",
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "1. Scope",
+      "text": "1. Scope"
+    },
+    {
+      "section_id": "2",
+      "title": "2. Duties of the Fiduciary",
+      "text": "2. Duties of the Fiduciary"
+    }
+  ],
+  "obligations": []
+}

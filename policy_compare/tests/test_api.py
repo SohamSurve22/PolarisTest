@@ -44,3 +44,49 @@ def test_compare_rejects_bad_type() -> None:
     files={"file": ("notes.csv", b"a,b", "text/csv")},
   )
   assert response.status_code == 400
+
+
+def test_analyze_txt(monkeypatch: object) -> None:
+  monkeypatch.setenv("POLARIS_LAW_DIR", str(FIXTURE_DIR))  # type: ignore[attr-defined]
+
+  from compliance.models import AnalysisResult
+
+  def fake_analyze(document, law_paths, *, jurisdiction="IN", search=None):
+    _ = law_paths, search
+    return AnalysisResult(
+      document_id=document.metadata.document_id,
+      jurisdiction=jurisdiction,
+      applicable_laws=["TINY"],
+      obligations=[],
+      gaps=[],
+      penalties=[],
+    )
+
+  monkeypatch.setattr("policy_compare.api.analyze_document", fake_analyze)  # type: ignore[attr-defined]
+  client = TestClient(app)
+  response = client.post(
+    "/analyze",
+    files={"file": ("policy.txt", b"We obtain consent.\n", "text/plain")},
+    data={"jurisdiction": "IN"},
+  )
+  assert response.status_code == 200, response.text
+  body = response.json()
+  assert body["jurisdiction"] == "IN"
+  assert body["document_id"].startswith("DOC_")
+  assert body["applicable_laws"] == ["TINY"]
+
+
+def test_analyze_503_when_search_backend_down(monkeypatch: object) -> None:
+  monkeypatch.setenv("POLARIS_LAW_DIR", str(FIXTURE_DIR))  # type: ignore[attr-defined]
+  from compliance.service import AnalyzeError
+
+  def boom(*_args, **_kwargs):
+    raise AnalyzeError("qdrant down")
+
+  monkeypatch.setattr("policy_compare.api.analyze_document", boom)  # type: ignore[attr-defined]
+  client = TestClient(app)
+  response = client.post(
+    "/analyze",
+    files={"file": ("policy.txt", b"consent\n", "text/plain")},
+  )
+  assert response.status_code == 503

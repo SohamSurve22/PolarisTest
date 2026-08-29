@@ -23,10 +23,16 @@ services:
     build:
       context: .
       dockerfile: docker/api.Dockerfile
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     environment:
       POLARIS_LAW_DIR: /app/laws
+      VECTORIZATION_QDRANT_URL: http://qdrant:6333
+      VECTORIZATION_OLLAMA_URL: http://host.docker.internal:11434/api/embeddings
     ports:
       - "8000:8000"
+    depends_on:
+      - qdrant
     restart: unless-stopped
 
   web:

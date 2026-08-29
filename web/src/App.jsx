@@ -30,6 +30,8 @@ export default function App() {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [result, setResult] = useState(null);
+  const [analysis, setAnalysis] = useState(null);
+  const [analysisError, setAnalysisError] = useState("");
   const [selected, setSelected] = useState(null);
   const [loadOpen, setLoadOpen] = useState(false);
 
@@ -64,6 +66,8 @@ export default function App() {
     setBusy(true);
     setError("");
     setSelected(null);
+    setAnalysis(null);
+    setAnalysisError("");
     const body = new FormData();
     body.append("file", chosen);
     try {
@@ -78,6 +82,20 @@ export default function App() {
       if (!file) {
         setFile(chosen);
       }
+      const analyzeBody = new FormData();
+      analyzeBody.append("file", chosen);
+      analyzeBody.append("jurisdiction", "IN");
+      try {
+        const analyzeResponse = await fetch("/api/analyze", { method: "POST", body: analyzeBody });
+        const analyzePayload = await analyzeResponse.json();
+        if (!analyzeResponse.ok) {
+          const detail = analyzePayload.detail;
+          throw new Error(typeof detail === "string" ? detail : "Analyze failed");
+        }
+        setAnalysis(analyzePayload);
+      } catch (analyzeErr) {
+        setAnalysisError(analyzeErr.message);
+      }
     } catch (err) {
       setError(err.message);
     } finally {
@@ -90,6 +108,8 @@ export default function App() {
     setFile(null);
     setError("");
     setResult(null);
+    setAnalysis(null);
+    setAnalysisError("");
     setSelected(null);
     setLoadOpen(false);
   }
@@ -160,6 +180,8 @@ export default function App() {
               selected={selected}
               chunks={chunksForTopic}
               summary={summary}
+              analysis={analysis}
+              analysisError={analysisError}
               onClose={() => setSelected(null)}
             />
           </div>

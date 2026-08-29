@@ -34,6 +34,9 @@ where = ["src"]
 testpaths = ["tests"]
 pythonpath = ["src", "../graph_builder/src", "../document_pipeline/src"]
 addopts = "-ra"
+markers = [
+    "neo4j: tests that need a running Neo4j (skip if unreachable)",
+]
 
 [tool.mypy]
 python_version = "3.12"
