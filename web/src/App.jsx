@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
 import CoverageStrip from "./CoverageStrip.jsx";
+import Findings, { policyNodeForClause } from "./Findings.jsx";
 import GraphBoard from "./GraphBoard.jsx";
 import Header from "./Header.jsx";
-import Inspector from "./Inspector.jsx";
 import LoadCard from "./LoadCard.jsx";
 import PageHead from "./PageHead.jsx";
+import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
 function counts(result) {
   const topics = result?.ideal?.nodes?.filter((node) => node.kind === "topic") || [];
@@ -33,6 +34,9 @@ export default function App() {
   const [analysis, setAnalysis] = useState(null);
   const [analysisError, setAnalysisError] = useState("");
   const [selected, setSelected] = useState(null);
+  const [focusIdealId, setFocusIdealId] = useState(null);
+  const [focusPolicyId, setFocusPolicyId] = useState(null);
+  const [panToken, setPanToken] = useState(0);
   const [loadOpen, setLoadOpen] = useState(false);
 
   useEffect(() => {
@@ -66,6 +70,9 @@ export default function App() {
     setBusy(true);
     setError("");
     setSelected(null);
+    setFocusIdealId(null);
+    setFocusPolicyId(null);
+    setPanToken(0);
     setAnalysis(null);
     setAnalysisError("");
     const body = new FormData();
@@ -111,21 +118,47 @@ export default function App() {
     setAnalysis(null);
     setAnalysisError("");
     setSelected(null);
+    setFocusIdealId(null);
+    setFocusPolicyId(null);
+    setPanToken(0);
     setLoadOpen(false);
   }
 
   const summary = counts(result);
-  const chunksForTopic =
-    selected?.kind === "topic" && result
-      ? result.ideal.nodes.filter(
-          (node) =>
-            node.kind === "law_chunk" &&
-            result.ideal.edges.some(
-              (edge) => edge.source === selected.id && edge.target === node.id,
-            ),
-        )
-      : [];
+  const paintedPolicy =
+    result && analysis ? paintPolicyFromAnalysis(result.policy, analysis) : result?.policy;
+  const paintedIdeal =
+    result && analysis ? paintIdealFromAnalysis(result.ideal, analysis) : result?.ideal;
   const workspace = result != null;
+
+  function selectFromPolicy(node) {
+    setSelected(node);
+    setFocusPolicyId(node.id);
+    setFocusIdealId(null);
+  }
+
+  function selectFromIdeal(node) {
+    setSelected(node);
+    setFocusIdealId(node.id);
+    setFocusPolicyId(null);
+  }
+
+  function selectFinding(row) {
+    const lawNode = paintedIdeal?.nodes?.find((node) => node.id === row.obligation_id);
+    setSelected(
+      lawNode || {
+        id: row.obligation_id,
+        kind: "law_chunk",
+        title: row.title,
+        status: row.status === "partial" ? "weak" : row.status,
+        summary: row.summary,
+      },
+    );
+    setFocusIdealId(row.obligation_id);
+    const clauseId = row.matched_clauses?.[0]?.clause_id || row.matched_clause_ids?.[0];
+    setFocusPolicyId(policyNodeForClause(paintedPolicy, clauseId)?.id || null);
+    setPanToken((value) => value + 1);
+  }
 
   return (
     <div className={`app${workspace ? " is-workspace" : " is-landing"}`}>
@@ -158,31 +191,34 @@ export default function App() {
         </main>
       ) : (
         <>
-          <CoverageStrip summary={summary} />
+          <CoverageStrip summary={summary} analysis={analysis} />
           <div className="workspace">
             <div className="graph-column">
               <GraphBoard
                 title="User Graph (Generated)"
-                hint="Clusters then nested sections. Use − / + on a node to collapse its branch."
+                hint="Green = section helped cover an obligation. Orange = partial. Red = only matched a gap."
                 tone="user"
-                graph={result.policy}
-                onSelect={setSelected}
+                graph={paintedPolicy}
+                selectedId={focusPolicyId}
+                panToken={panToken}
+                onSelect={selectFromPolicy}
               />
               <GraphBoard
                 title="Ideal Graph (Target)"
-                hint="Statute → theme → topic → clause. Use − / + on a node to collapse its branch."
+                hint="Green = covered obligation. Orange = partial. Red = missing. Matches the Analysis counts."
                 tone="ideal"
-                graph={result.ideal}
-                onSelect={setSelected}
+                graph={paintedIdeal}
+                selectedId={focusIdealId}
+                panToken={panToken}
+                onSelect={selectFromIdeal}
               />
             </div>
-            <Inspector
-              selected={selected}
-              chunks={chunksForTopic}
-              summary={summary}
+            <Findings
               analysis={analysis}
               analysisError={analysisError}
-              onClose={() => setSelected(null)}
+              busy={busy}
+              selected={selected}
+              onSelectFinding={selectFinding}
             />
           </div>
         </>

@@ -8,6 +8,7 @@ import {
   Position,
   ReactFlow,
   ReactFlowProvider,
+  useReactFlow,
 } from "@xyflow/react";
 
 const SIZE = {
@@ -33,6 +34,14 @@ function childMap(edges) {
   return map;
 }
 
+function parentMap(edges) {
+  const map = new Map();
+  for (const edge of edges) {
+    map.set(edge.target, edge.source);
+  }
+  return map;
+}
+
 function hiddenIds(collapsed, edges) {
   const children = childMap(edges);
   const hidden = new Set();
@@ -46,10 +55,22 @@ function hiddenIds(collapsed, edges) {
   return hidden;
 }
 
+function ancestorsOf(id, edges) {
+  const parents = parentMap(edges);
+  const chain = [];
+  let current = id;
+  while (parents.has(current)) {
+    current = parents.get(current);
+    chain.push(current);
+  }
+  return chain;
+}
+
 function OrbitNode({ data }) {
   const sizeClass = data.hub ? " is-hub" : data.cluster ? " is-cluster" : data.chunk ? " is-chunk" : "";
+  const selectedClass = data.selected ? " is-selected" : "";
   return (
-    <div className={`orbit${sizeClass} orbit--${data.status || "neutral"}`}>
+    <div className={`orbit${sizeClass}${selectedClass} orbit--${data.status || "neutral"}`}>
       <Handle type="target" position={Position.Top} id="t-top" />
       <Handle type="source" position={Position.Bottom} id="s-bottom" />
       <span className="orbit-label">{data.label}</span>
@@ -73,7 +94,32 @@ function OrbitNode({ data }) {
 
 const nodeTypes = { orbit: OrbitNode };
 
-function treeLayout(graph, collapsed, onToggle) {
+function FitSelected({ selectedId, panToken }) {
+  const { fitView, getNode } = useReactFlow();
+  useEffect(() => {
+    if (!selectedId || !panToken) {
+      return undefined;
+    }
+    let attempts = 0;
+    let timer = 0;
+    function tryFit() {
+      const node = getNode(selectedId);
+      if (node) {
+        fitView({ nodes: [node], padding: 0.75, duration: 280 });
+        return;
+      }
+      if (attempts < 8) {
+        attempts += 1;
+        timer = window.setTimeout(tryFit, 40);
+      }
+    }
+    tryFit();
+    return () => window.clearTimeout(timer);
+  }, [selectedId, panToken, fitView, getNode]);
+  return null;
+}
+
+function treeLayout(graph, collapsed, onToggle, selectedId) {
   const rawNodes = graph?.nodes || [];
   const rawEdges = graph?.edges || [];
   if (!rawNodes.length) {
@@ -107,6 +153,7 @@ function treeLayout(graph, collapsed, onToggle) {
     return {
       id: node.id,
       type: "orbit",
+      selected: node.id === selectedId,
       position: { x: (placed?.x || 0) - size / 2, y: (placed?.y || 0) - size / 2 },
       data: {
         label: node.title || node.id,
@@ -114,6 +161,7 @@ function treeLayout(graph, collapsed, onToggle) {
         hub,
         cluster: node.kind === "cluster" && !hub,
         chunk: node.kind === "law_chunk",
+        selected: node.id === selectedId,
         raw: node,
         hasChildren: kids.length > 0,
         collapsed: collapsed.has(node.id),
@@ -133,13 +181,39 @@ function treeLayout(graph, collapsed, onToggle) {
   return { nodes, edges };
 }
 
-export default function GraphBoard({ title, hint, tone = "user", graph, onSelect }) {
+export default function GraphBoard({
+  title,
+  hint,
+  tone = "user",
+  graph,
+  selectedId,
+  panToken = 0,
+  onSelect,
+}) {
   const [collapsed, setCollapsed] = useState(() => new Set());
   const graphKey = (graph?.nodes || []).map((node) => node.id).join("|");
 
   useEffect(() => {
     setCollapsed(new Set());
   }, [graphKey]);
+
+  useEffect(() => {
+    if (!selectedId || !graph?.edges?.length) {
+      return;
+    }
+    const toOpen = ancestorsOf(selectedId, graph.edges);
+    if (!toOpen.length) {
+      return;
+    }
+    setCollapsed((current) => {
+      if (toOpen.every((id) => !current.has(id))) {
+        return current;
+      }
+      const next = new Set(current);
+      toOpen.forEach((id) => next.delete(id));
+      return next;
+    });
+  }, [selectedId, graphKey]);
 
   function onToggle(id) {
     setCollapsed((current) => {
@@ -154,8 +228,8 @@ export default function GraphBoard({ title, hint, tone = "user", graph, onSelect
   }
 
   const { nodes, edges } = useMemo(
-    () => treeLayout(graph, collapsed, onToggle),
-    [graph, collapsed],
+    () => treeLayout(graph, collapsed, onToggle, selectedId),
+    [graph, collapsed, selectedId],
   );
   const empty = !graph?.nodes?.length;
   return (
@@ -178,10 +252,14 @@ export default function GraphBoard({ title, hint, tone = "user", graph, onSelect
               fitView
               fitViewOptions={{ padding: 0.18 }}
               minZoom={0.15}
+              zoomOnScroll={false}
+              preventScrolling={false}
+              panOnScroll={false}
               onNodeClick={(_, node) => onSelect(node.data.raw)}
               nodesConnectable={false}
               proOptions={{ hideAttribution: true }}
             >
+              <FitSelected selectedId={selectedId} panToken={panToken} />
               <Background color="var(--grid)" gap={16} size={1} />
               <Controls position="top-right" showInteractive={false} />
             </ReactFlow>

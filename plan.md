@@ -1,6 +1,6 @@
 # PolarisLex — Project Plan
 
-`document_pipeline/` ingests legal documents and writes parsed JSON. `vectorization/` embeds clauses into Qdrant. `graph_builder/` / `semantic_graph/` build GraphIR and can export to Neo4j. Overlay compare (`POST /compare`) and India analysis (`POST /analyze`) are built. LLM reports and Neo4j obligation traversal are not.
+`document_pipeline/` ingests legal documents and writes parsed JSON. `vectorization/` embeds clauses into Qdrant. `graph_builder/` / `semantic_graph/` build GraphIR and can export to Neo4j. Overlay compare (`POST /compare`) and India analysis (`POST /analyze`) are built. **Next is Phase 5** (LLM reports from `AnalysisResult`). Hybrid graph+vector fusion waits until GraphIR has Obligation nodes.
 
 An older rewrite brief lives at `.cursor/plans/optimize_plan.md_e883823e.plan.md`. It is historical (how this file was first slimmed). Do not execute its Phase 1 list.
 
@@ -31,9 +31,10 @@ Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdr
 | Heading regression | Six synthetic policies in `document_pipeline/tests/fixtures/policies/` with gold title lists |
 | `vectorization` | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4) |
 | Graph | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Neo4j via `semantic-graph export`. |
-| Overlay match | Lexical keywords in `policy_compare` (`TOPIC_KEYWORDS`). Parked: smarter matching (below) |
-| Analyze v1 | `compliance/` + `POST /analyze`: Qdrant `kg_obligation` match + law-JSON penalties (India). Neo4j later |
-| Not built | Neo4j obligation traversal, LLM reports, app DB, pluggable jurisdictions |
+| Overlay match | Keywords still group User Graph clusters (`TOPIC_KEYWORDS`). Not used for scores or graph colors. |
+| Analyze v1 | `compliance/` + `POST /analyze`: Qdrant `kg_obligation`, top-1 hit + title-token gate, law-JSON penalties (India). UI stats and Ideal/User graph colors come from this result. |
+| Next | Phase 5 reports from `AnalysisResult`. Then GraphIR Obligation nodes, then hybrid graph+vector fusion. |
+| Not built | Statute-level legal match (GraphIR Obligation / Neo4j), hybrid fusion, LLM reports, app DB, pluggable jurisdictions |
 
 Entity extraction stays dictionary/regex (`ClassifierFn` already exists). No LLM classifier in this phase.
 
@@ -69,36 +70,37 @@ Packages: `graph_builder/`, `semantic_graph/`.
 - [x] Save GraphIR JSON to disk (`semantic-graph dump-ir`, or `export --ir-output`)
 - [x] Exporter into the `kg_export` file shape (`law_code`, `sections`, `obligations`)
 - [x] Idempotent re-ingest tests against a running Neo4j if not already covered
-- Hybrid graph+vector fusion — later (compliance engine)
+- Hybrid graph+vector fusion — **after Phase 5**, and only after GraphIR has Obligation nodes (`dump-ir` is still Document/Section/Clause). Same work as statute-level legal match; blocked today.
 
 ## Phase 4 — Compliance engine
 
-- [x] Policy overlay UI (`policy_compare` + Docker `web`/`api`) — topic coverage, not full gap/penalty analysis
-- [ ] Overlay matching: still keyword-based; **do later** — see [Later — smarter matching](#later--smarter-matching)
+- [x] Policy overlay UI (`policy_compare` + Docker `web`/`api`)
+- [x] Overlay keywords kept only for User Graph clustering (Consent vs Extra). **Not** the coverage score. Do **not** add overlay embeddings unless clustering looks wrong — see [Later — matching](#later--matching).
 - [x] API v1: `POST /analyze` (upload + optional `jurisdiction` default `IN`) → `AnalysisResult`. Document-ID lookup of stored `DOC_*.json` is later.
 - [x] Pull parsed JSON + Qdrant `kg_obligation` + four law JSON files (penalties). Neo4j obligation traversal is later (`dump-ir` still has no Obligation nodes).
-- [x] Steps v1: applicable law (IN) → obligations (vector match) → gaps (missing/partial) → penalties. Output is `AnalysisResult`, not pipeline `context_builder`.
+- [x] Match v1: each policy clause credits only its best catalog hit; **covered** also needs title-token overlap (generic privacy jargon cannot cover unrelated duties). Gaps = missing + partial. Output is `AnalysisResult`, not pipeline `context_builder`.
+- [x] Inspector + metric strip + graph node colors follow analyze (green covered, orange partial, red missing), not keyword overlay.
 - [x] **Decision:** single-framework MVP (India website privacy). Pluggable jurisdictions later.
 
 ## Phase 5 — Report generation + Reports DB
 
-- [ ] LLM report from structured compliance context (not free-form)
-- [ ] Fixed sections: applicable law, obligations, gaps, penalties
-- [ ] Persist reports by document ID + analysis run
+**Do this next.** Reports consume the existing `AnalysisResult` (no Neo4j required).
 
-## Later — smarter matching
+- [ ] LLM report from structured `AnalysisResult` (not free-form): applicable law, obligations, gaps, penalties
+- [ ] Show the report in the existing Validation inspector (or a report panel), not a new product
+- [ ] Persist reports by document ID + analysis run (still no SQLite unless we explicitly add a reports store)
 
-**Do not do this in the current UI pass.** Overlay colors stay keyword-based so Docker compare does not need Ollama/Qdrant.
+## Later — matching
 
-Today: `policy_compare/src/policy_compare/topics.py` `TOPIC_KEYWORDS` + `matcher.py`. A policy section maps to a topic if enough keywords hit. Cheap and demo-able. False positives are expected (e.g. “access” in “access logs” looking like a user-rights hit).
+**Skip overlay embeddings and hybrid fusion for now.** Analyze already uses Qdrant. The UI paints graphs from `AnalysisResult`. Keywords still group User Graph clusters only.
 
-When we pick this up, replace or layer matching — not the landing/workspace chrome. Candidate steps, in order:
+Order after Phase 5:
 
-1. **Embeddings (likely first)** — embed law-chunk summaries and policy section text (Qdrant already exists; `vectorization/` already filters by `source_type`). Vote sections onto topics by similarity instead of (or as a vote with) keywords. Needs running Qdrant + Ollama for `/compare`, which the UI path currently avoids.
-2. **LLM classification** — optional second pass: “this paragraph is about retention.” Validate against a pydantic label set. Do not let the model invent statutes.
-3. **Graph obligations** — match to GraphIR `Obligation` nodes / Neo4j traversal (“this clause satisfies DPDP §X”), not topic-tag smell. This is the compliance engine, not a UI tweak.
+1. **User Graph clustering (optional)** — embeddings or LLM labels so sections land in the right topic folder. Only if Extra/Consent grouping looks wrong. Needs Qdrant + Ollama on `/compare`.
+2. **GraphIR Obligation nodes** — LLM GraphBuilder / enrichment so `dump-ir` has obligations, not just Section/Clause. Required before Neo4j traversal.
+3. **Hybrid graph+vector fusion** — Cypher (citations, penalties, Obligation nodes) plus Qdrant. “This clause satisfies DPDP §X” (child under 18, DPO, consent manager). Strict vector+title cannot do that.
 
-Out of scope for overlay matching: embeddings on `/compare`, hybrid fusion at query time, changing `KEPT_TOPICS`. Penalties live on `/analyze`, not on the overlay graph.
+Out of scope until Obligation nodes exist: Neo4j join at analyze time, changing `KEPT_TOPICS`, ingest-on-analyze, pluggable jurisdictions.
 
 ## Decisions
 

@@ -74,3 +74,36 @@ def test_unrelated_section_is_extra() -> None:
   assert section.status == "extra"
   consent = next(node for node in result.ideal.nodes if node.kind == "topic")
   assert consent.status == "missing"
+
+
+def test_security_section_covers_cyber_security_topic() -> None:
+  from policy_compare.models import LawChunk, ViewGraph, ViewNode
+
+  chunks = [
+    LawChunk(
+      doc_id="IT_CYBER",
+      title="Reasonable security practices",
+      summary="Body corporates must use reasonable security practices.",
+      topic_ids=["TOPIC_CYBER_SECURITY"],
+      chunk_type="obligation",
+    )
+  ]
+  policy = ViewGraph(
+    nodes=[
+      ViewNode(id="doc:1", kind="document", title="Policy"),
+      ViewNode(
+        id="sec:s15",
+        kind="section",
+        title="Security",
+        summary="We encrypt personal data and take safeguards.",
+      ),
+    ],
+    edges=[],
+  )
+  ideal = ViewGraph(
+    nodes=[ViewNode(id="TOPIC_CYBER_SECURITY@IT", kind="topic", title="Cyber Security")],
+    edges=[],
+  )
+  result = match_graphs(policy, ideal, chunks)
+  topic = next(node for node in result.ideal.nodes if node.kind == "topic")
+  assert topic.status == "covered"

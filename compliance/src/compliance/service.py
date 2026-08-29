@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from collections.abc import Callable
 from pathlib import Path
 
@@ -11,17 +12,25 @@ from document_pipeline.models.semantic import StructuralRole
 from vectorization.models import SearchHit
 from vectorization.sources import clause_from_entity
 
-from compliance.catalog import LawCatalog, load_catalog
+from compliance.catalog import load_catalog
 from compliance.models import (
   AnalysisResult,
   GapFinding,
+  MatchedClause,
   ObligationFinding,
   PenaltyFinding,
 )
+from policy_compare.models import LawChunk
 
 COVERED_SCORE = 0.55
 PARTIAL_SCORE = 0.30
 SUPPORTED_JURISDICTIONS = frozenset({"IN", "INDIA", "IN-DPDP"})
+_TOKEN_RE = re.compile(r"[a-z0-9]+")
+_STOP = frozenset({
+  "a", "an", "and", "as", "at", "be", "by", "for", "from", "general",
+  "in", "into", "is", "mandatory", "must", "no", "not", "obligation",
+  "obligations", "of", "on", "or", "shall", "the", "this", "to", "with",
+})
 
 SearchFn = Callable[[str], list[SearchHit]]
 
@@ -52,25 +61,35 @@ def analyze_document(
   catalog = load_catalog(law_paths)
   search_fn = search or default_search
   clauses = _policy_clauses(document)
-  best: dict[str, tuple[float, list[str]]] = {
+  best: dict[str, tuple[float, list[MatchedClause]]] = {
     chunk.doc_id: (0.0, []) for chunk in catalog.obligations
   }
 
   try:
     for clause in clauses:
-      hits = search_fn(clause.clause_text)
-      for hit in hits:
-        oid = _hit_obligation_id(hit)
-        if oid not in best:
-          continue
-        score, matched = best[oid]
-        ids = list(matched)
-        if clause.clause_id not in ids:
-          ids.append(clause.clause_id)
-        if hit.score > score:
-          best[oid] = (hit.score, ids)
-        else:
-          best[oid] = (score, ids)
+      hits = [
+        hit
+        for hit in search_fn(clause.clause_text)
+        if _hit_obligation_id(hit) in best
+      ]
+      if not hits:
+        continue
+      hit = max(hits, key=lambda item: item.score)
+      oid = _hit_obligation_id(hit)
+      score, matches = best[oid]
+      found = list(matches)
+      if clause.clause_id not in {row.clause_id for row in found}:
+        found.append(
+          MatchedClause(
+            clause_id=clause.clause_id,
+            section_title=clause.section_title or "",
+            text=clause.clause_text,
+          )
+        )
+      if hit.score > score:
+        best[oid] = (hit.score, found)
+      else:
+        best[oid] = (score, found)
   except ValueError:
     raise
   except Exception as exc:
@@ -78,8 +97,8 @@ def analyze_document(
 
   obligations: list[ObligationFinding] = []
   for chunk in catalog.obligations:
-    score, matched_ids = best[chunk.doc_id]
-    status = _status(score)
+    score, matches = best[chunk.doc_id]
+    status = _status(score, [row.text for row in matches], chunk)
     obligations.append(
       ObligationFinding(
         obligation_id=chunk.doc_id,
@@ -88,7 +107,8 @@ def analyze_document(
         act=chunk.act,
         status=status,
         score=score,
-        matched_clause_ids=matched_ids,
+        matched_clause_ids=[row.clause_id for row in matches],
+        matched_clauses=matches,
       )
     )
 
@@ -136,12 +156,25 @@ def analyze_document(
   )
 
 
-def _status(score: float) -> str:
-  if score >= COVERED_SCORE:
+def _status(score: float, clause_texts: list[str], chunk: LawChunk) -> str:
+  if score >= COVERED_SCORE and _title_overlap(clause_texts, chunk):
     return "covered"
   if score >= PARTIAL_SCORE:
     return "partial"
   return "missing"
+
+
+def _title_overlap(clause_texts: list[str], chunk: LawChunk) -> bool:
+  needles = _tokens(chunk.title)
+  if not needles:
+    return True
+  haystack = _tokens(" ".join(clause_texts))
+  needed = 1 if len(needles) <= 2 else 2
+  return len(needles & haystack) >= needed
+
+
+def _tokens(text: str) -> set[str]:
+  return {word for word in _TOKEN_RE.findall(text.lower()) if len(word) >= 4 and word not in _STOP}
 
 
 def _hit_obligation_id(hit: SearchHit) -> str:

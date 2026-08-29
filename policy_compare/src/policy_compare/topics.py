@@ -95,10 +95,12 @@ TOPIC_KEYWORDS: dict[str, tuple[str, ...]] = {
     "logs", "log retention", "180 days",
   ),
   "TOPIC_CYBERSECURITY": (
-    "cyber", "information security", "incident",
+    "cyber", "cybersecurity", "information security", "incident",
+    "security", "safeguard", "encrypt",
   ),
   "TOPIC_CYBER_SECURITY": (
-    "cyber", "information security",
+    "cyber", "cybersecurity", "information security",
+    "security", "safeguard", "encrypt",
   ),
   "TOPIC_REGULATORY_REPORTING": (
     "report", "regulator", "cert-in",

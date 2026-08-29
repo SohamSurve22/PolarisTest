@@ -189,7 +189,7 @@ docker compose up --build web api
 
 `POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. Matching is **lexical topic keywords**; it does not need Qdrant or Ollama.
 
-`POST /analyze` (same upload, optional form `jurisdiction` default `IN`) scores policy clauses against `kg_obligation` vectors in Qdrant (`vectorization.search_text`) and attaches penalties from the four law JSON files. Response is `AnalysisResult` (findings), not pipeline “context.” The inspector shows applicable laws, covered vs gaps, and penalty lines. Analyze does **not** upsert the uploaded policy into Qdrant. If Qdrant or Ollama is down, `/analyze` returns **503**; `/compare` still works.
+`POST /analyze` (same upload, optional form `jurisdiction` default `IN`) scores policy clauses against `kg_obligation` vectors in Qdrant (`vectorization.search_text`) and attaches penalties from the four law JSON files. A clause credits only its best catalog hit; **covered** also requires title-token overlap with that obligation (generic privacy language cannot cover unrelated duties). Response is `AnalysisResult` (findings), not pipeline “context.” The inspector shows applicable laws, covered vs gaps, and penalty lines. Analyze does **not** upsert the uploaded policy into Qdrant. If Qdrant or Ollama is down, `/analyze` returns **503**; `/compare` still works.
 
 Analyze v1 does **not** traverse Neo4j. `semantic-graph dump-ir` still has no Obligation nodes. A later increment can join GraphIR obligations once they exist.
 

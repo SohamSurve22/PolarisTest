@@ -22,9 +22,19 @@ export default function Inspector({
   onClose,
 }) {
   const badge = selected ? BADGE[selected.status] : null;
+  const obligationTotal = analysis?.obligations?.length || 0;
+  const obligationCovered = analysis
+    ? analysis.obligations.filter((row) => row.status === "covered").length
+    : 0;
+  const obligationPartial = analysis
+    ? analysis.obligations.filter((row) => row.status === "partial").length
+    : 0;
   const topicCoverage = pct(summary.covered, summary.topics);
   const sectionCoverage = pct(summary.sections - summary.extra, summary.sections);
   const hitRate = pct(summary.covered + summary.weak, summary.topics);
+  const obligationCoverage = pct(obligationCovered, obligationTotal);
+  const obligationPartialRate = pct(obligationPartial, obligationTotal);
+  const obligationGapRate = pct(analysis?.gaps?.length || 0, obligationTotal);
   const conflict = selected && (selected.status === "weak" || selected.status === "missing");
 
   return (
@@ -137,15 +147,31 @@ export default function Inspector({
         ))}
 
         <section>
-          <h3 className="inspector-section-title">Graph Fidelity</h3>
+          <h3 className="inspector-section-title">
+            {analysis ? "Obligation match" : "Keyword overlay"}
+          </h3>
           <div className="fidelity">
-            <FidelityRow label="Topic coverage" value={topicCoverage} tone="primary" />
-            <FidelityRow label="Section mapping" value={sectionCoverage} tone="primary" />
-            <FidelityRow
-              label="Hit rate (incl. partial)"
-              value={hitRate}
-              tone={hitRate < 80 ? "error" : "primary"}
-            />
+            {analysis ? (
+              <>
+                <FidelityRow label="Covered" value={obligationCoverage} tone="primary" />
+                <FidelityRow label="Partial" value={obligationPartialRate} tone="primary" />
+                <FidelityRow
+                  label="Gaps"
+                  value={obligationGapRate}
+                  tone={obligationGapRate > 20 ? "error" : "primary"}
+                />
+              </>
+            ) : (
+              <>
+                <FidelityRow label="Topic coverage" value={topicCoverage} tone="primary" />
+                <FidelityRow label="Section mapping" value={sectionCoverage} tone="primary" />
+                <FidelityRow
+                  label="Hit rate (incl. partial)"
+                  value={hitRate}
+                  tone={hitRate < 80 ? "error" : "primary"}
+                />
+              </>
+            )}
           </div>
         </section>
       </div>

@@ -18,6 +18,12 @@ class PenaltyFinding(BaseModel):
   act: str = ""
 
 
+class MatchedClause(BaseModel):
+  clause_id: str
+  section_title: str = ""
+  text: str = ""
+
+
 class ObligationFinding(BaseModel):
   obligation_id: str
   title: str
@@ -26,6 +32,7 @@ class ObligationFinding(BaseModel):
   status: ObligationStatus
   score: float = 0.0
   matched_clause_ids: list[str] = Field(default_factory=list)
+  matched_clauses: list[MatchedClause] = Field(default_factory=list)
 
 
 class GapFinding(BaseModel):
