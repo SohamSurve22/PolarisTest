@@ -57,7 +57,10 @@ export default function LoadCard({
               <span className="spinner" /> Comparing…
             </>
           ) : (
-            "Compare"
+            <>
+              <span className="material-symbols-outlined">play_arrow</span>
+              Run Validation
+            </>
           )}
         </button>
         <button className="btn-secondary" type="button" onClick={onClear}>

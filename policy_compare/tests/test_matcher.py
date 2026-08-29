@@ -57,10 +57,11 @@ def test_consent_section_covers_consent_topic() -> None:
     _document(_clause("We obtain consent before we process personal data. You may withdraw consent.")),
   )
   result = match_graphs(policy, project_ideal_graph(chunks), chunks)
-  consent = next(node for node in result.ideal.nodes if node.id == "TOPIC_CONSENT")
+  consent = next(node for node in result.ideal.nodes if node.kind == "topic")
+  assert consent.id.startswith("TOPIC_CONSENT@")
   assert consent.status in {"covered", "weak"}
   assert result.links
-  assert any(link.topic_id == "TOPIC_CONSENT" for link in result.links)
+  assert any(link.topic_id.startswith("TOPIC_CONSENT@") for link in result.links)
 
 
 def test_unrelated_section_is_extra() -> None:
@@ -71,5 +72,5 @@ def test_unrelated_section_is_extra() -> None:
   result = match_graphs(policy, project_ideal_graph(chunks), chunks)
   section = next(node for node in result.policy.nodes if node.kind == "section")
   assert section.status == "extra"
-  consent = next(node for node in result.ideal.nodes if node.id == "TOPIC_CONSENT")
+  consent = next(node for node in result.ideal.nodes if node.kind == "topic")
   assert consent.status == "missing"

@@ -1,39 +1,46 @@
-export default function Header({
-  theme,
-  onToggleTheme,
-  workspace,
-  fileName,
-  onLoadPolicy,
-}) {
+const NAV = [
+  { id: "dashboard", label: "Dashboard" },
+  { id: "documents", label: "Documents" },
+  { id: "parser", label: "Parser" },
+  { id: "graph", label: "Knowledge Graph" },
+  { id: "validation", label: "Validation", current: true },
+  { id: "queries", label: "Queries" },
+];
+
+export default function Header({ theme, onToggleTheme }) {
   return (
-    <header className="site-header">
-      <div className="brand">
+    <nav className="top-nav" aria-label="Primary">
+      <div className="top-nav-left">
         <p className="wordmark">PolarisLex</p>
-        {workspace ? (
-          <p className="subtitle">{fileName || "pasted.txt"}</p>
-        ) : (
-          <p className="subtitle">Privacy policy overlay</p>
-        )}
+        <div className="top-nav-links">
+          {NAV.map((item) =>
+            item.current ? (
+              <span key={item.id} className="nav-link is-current">
+                {item.label}
+              </span>
+            ) : (
+              <span key={item.id} className="nav-link is-idle">
+                {item.label}
+              </span>
+            ),
+          )}
+        </div>
       </div>
-      <div className="header-actions">
-        {workspace ? (
-          <button className="btn-secondary" type="button" onClick={onLoadPolicy}>
-            Load policy
-          </button>
-        ) : null}
+      <div className="top-nav-right">
         <button
-          className="theme-toggle"
+          className="icon-btn"
           type="button"
-          role="switch"
-          aria-checked={theme === "light"}
-          aria-label="Toggle light mode"
+          aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
           onClick={onToggleTheme}
         >
-          Dark
-          <span className="switch" />
-          Light
+          <span className="material-symbols-outlined">
+            {theme === "dark" ? "light_mode" : "dark_mode"}
+          </span>
         </button>
+        <div className="avatar" aria-hidden="true">
+          P
+        </div>
       </div>
-    </header>
+    </nav>
   );
 }

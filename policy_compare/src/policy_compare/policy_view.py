@@ -5,6 +5,7 @@ from __future__ import annotations
 from collections import defaultdict
 
 from document_pipeline.models.entity import EntityDocument
+from document_pipeline.models.section import SectionedDocument
 
 from policy_compare.models import ViewEdge, ViewGraph, ViewNode
 
@@ -16,10 +17,17 @@ def _clause_of(entity_clause: object) -> object:
   return contextual.classified_clause.clause
 
 
-def policy_view_graph(document: EntityDocument) -> ViewGraph:
+def policy_view_graph(
+  document: EntityDocument,
+  sectioned: SectionedDocument | None = None,
+) -> ViewGraph:
   """Turn an EntityDocument into a small document→section graph."""
   doc_id = document.metadata.document_id
   doc_title = document.metadata.title or document.metadata.filename or doc_id
+  parents = {
+    section.section_id: section.parent_section_id or ""
+    for section in (sectioned.sections if sectioned is not None else [])
+  }
 
   nodes: list[ViewNode] = [
     ViewNode(id=f"doc:{doc_id}", kind="document", title=doc_title),
@@ -38,13 +46,19 @@ def policy_view_graph(document: EntityDocument) -> ViewGraph:
     texts = [str(getattr(c, "clause_text", "")).strip() for c in clauses]
     summary = " ".join(text for text in texts if text)
     node_id = f"section:{section_id}"
+    parent_id = parents.get(section_id, "")
+    extra = {
+      "section_id": section_id,
+      "clause_count": str(len(clauses)),
+      "parent_section_id": parent_id,
+    }
     nodes.append(
       ViewNode(
         id=node_id,
         kind="section",
         title=title,
         summary=summary,
-        extra={"section_id": section_id, "clause_count": str(len(clauses))},
+        extra=extra,
       )
     )
     edges.append(ViewEdge(source=f"doc:{doc_id}", target=node_id, type="CONTAINS"))

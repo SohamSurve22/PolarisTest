@@ -30,6 +30,11 @@ def test_compare_txt(monkeypatch: object) -> None:
   kinds = {node["kind"] for node in body["policy"]["nodes"]}
   assert "section" in kinds
   assert "document" in kinds
+  assert "cluster" in kinds
+  ideal_kinds = {node["kind"] for node in body["ideal"]["nodes"]}
+  assert "cluster" in ideal_kinds
+  assert "topic" in ideal_kinds
+  assert "law_chunk" in ideal_kinds
 
 
 def test_compare_rejects_bad_type() -> None:

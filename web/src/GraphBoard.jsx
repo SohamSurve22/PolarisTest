@@ -1,4 +1,5 @@
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
+import dagre from "@dagrejs/dagre";
 import {
   Background,
   Controls,
@@ -9,106 +10,161 @@ import {
   ReactFlowProvider,
 } from "@xyflow/react";
 
+const SIZE = {
+  document: 128,
+  cluster: 108,
+  topic: 92,
+  section: 92,
+  law_chunk: 72,
+};
+
+function sizeFor(kind) {
+  return SIZE[kind] || 92;
+}
+
+function childMap(edges) {
+  const map = new Map();
+  for (const edge of edges) {
+    if (!map.has(edge.source)) {
+      map.set(edge.source, []);
+    }
+    map.get(edge.source).push(edge.target);
+  }
+  return map;
+}
+
+function hiddenIds(collapsed, edges) {
+  const children = childMap(edges);
+  const hidden = new Set();
+  function walk(id) {
+    for (const child of children.get(id) || []) {
+      hidden.add(child);
+      walk(child);
+    }
+  }
+  collapsed.forEach(walk);
+  return hidden;
+}
+
 function OrbitNode({ data }) {
+  const sizeClass = data.hub ? " is-hub" : data.cluster ? " is-cluster" : data.chunk ? " is-chunk" : "";
   return (
-    <div className={`orbit${data.hub ? " is-hub" : ""} orbit--${data.status || "neutral"}`}>
+    <div className={`orbit${sizeClass} orbit--${data.status || "neutral"}`}>
       <Handle type="target" position={Position.Top} id="t-top" />
-      <Handle type="target" position={Position.Right} id="t-right" />
-      <Handle type="target" position={Position.Bottom} id="t-bottom" />
-      <Handle type="target" position={Position.Left} id="t-left" />
-      <Handle type="source" position={Position.Top} id="s-top" />
-      <Handle type="source" position={Position.Right} id="s-right" />
       <Handle type="source" position={Position.Bottom} id="s-bottom" />
-      <Handle type="source" position={Position.Left} id="s-left" />
       <span className="orbit-label">{data.label}</span>
+      {data.hasChildren ? (
+        <button
+          className="orbit-toggle nodrag nopan"
+          type="button"
+          aria-expanded={!data.collapsed}
+          aria-label={data.collapsed ? "Expand children" : "Collapse children"}
+          onClick={(event) => {
+            event.stopPropagation();
+            data.onToggle();
+          }}
+        >
+          {data.collapsed ? "+" : "−"}
+        </button>
+      ) : null}
     </div>
   );
 }
 
 const nodeTypes = { orbit: OrbitNode };
 
-function spokeHandle(index, total) {
-  const angle = -Math.PI / 2 + (2 * Math.PI * index) / Math.max(total, 1);
-  const deg = ((angle * 180) / Math.PI + 360) % 360;
-  if (deg >= 315 || deg < 45) return { source: "s-right", target: "t-left" };
-  if (deg < 135) return { source: "s-bottom", target: "t-top" };
-  if (deg < 225) return { source: "s-left", target: "t-right" };
-  return { source: "s-top", target: "t-bottom" };
-}
-
-function starLayout(hub, spokes) {
-  const hubSize = 128;
-  const spokeSize = 92;
-  const cx = 420;
-  const cy = 340;
-  const radius = Math.max(230, 90 + spokes.length * 9);
-  const placed = [];
-  if (hub) {
-    placed.push({
-      id: hub.id,
-      type: "orbit",
-      position: { x: cx - hubSize / 2, y: cy - hubSize / 2 },
-      data: { label: hub.title || hub.id, status: hub.status, hub: true, raw: hub },
-    });
+function treeLayout(graph, collapsed, onToggle) {
+  const rawNodes = graph?.nodes || [];
+  const rawEdges = graph?.edges || [];
+  if (!rawNodes.length) {
+    return { nodes: [], edges: [] };
   }
-  spokes.forEach((spoke, index) => {
-    const angle = -Math.PI / 2 + (2 * Math.PI * index) / Math.max(spokes.length, 1);
-    placed.push({
-      id: spoke.id,
-      type: "orbit",
-      position: {
-        x: cx + radius * Math.cos(angle) - spokeSize / 2,
-        y: cy + radius * Math.sin(angle) - spokeSize / 2,
-      },
-      data: { label: spoke.title || spoke.id, status: spoke.status, hub: false, raw: spoke },
-    });
+  const hidden = hiddenIds(collapsed, rawEdges);
+  const visible = rawNodes.filter((node) => !hidden.has(node.id));
+  const visibleIds = new Set(visible.map((node) => node.id));
+  const visibleEdges = rawEdges.filter(
+    (edge) => visibleIds.has(edge.source) && visibleIds.has(edge.target),
+  );
+  const children = childMap(rawEdges);
+
+  const dag = new dagre.graphlib.Graph();
+  dag.setGraph({ rankdir: "TB", nodesep: 28, ranksep: 72, marginx: 24, marginy: 24 });
+  dag.setDefaultEdgeLabel(() => ({}));
+  visible.forEach((node) => {
+    const size = sizeFor(node.kind);
+    dag.setNode(node.id, { width: size, height: size });
   });
-  const edges = spokes.map((spoke, index) => {
-    const handles = spokeHandle(index, spokes.length);
+  visibleEdges.forEach((edge) => {
+    dag.setEdge(edge.source, edge.target);
+  });
+  dagre.layout(dag);
+
+  const nodes = visible.map((node) => {
+    const placed = dag.node(node.id);
+    const size = sizeFor(node.kind);
+    const hub = node.kind === "document" || node.extra?.role === "ideal_hub";
+    const kids = children.get(node.id) || [];
     return {
-      id: `${hub.id}-${spoke.id}`,
-      source: hub.id,
-      target: spoke.id,
-      sourceHandle: handles.source,
-      targetHandle: handles.target,
-      markerEnd: { type: MarkerType.ArrowClosed, width: 14, height: 14, color: "#8b949e" },
-      style: { stroke: "#8b949e", strokeWidth: 1.4 },
+      id: node.id,
+      type: "orbit",
+      position: { x: (placed?.x || 0) - size / 2, y: (placed?.y || 0) - size / 2 },
+      data: {
+        label: node.title || node.id,
+        status: node.status,
+        hub,
+        cluster: node.kind === "cluster" && !hub,
+        chunk: node.kind === "law_chunk",
+        raw: node,
+        hasChildren: kids.length > 0,
+        collapsed: collapsed.has(node.id),
+        onToggle: () => onToggle(node.id),
+      },
     };
   });
-  return { nodes: placed, edges };
+  const edges = visibleEdges.map((edge) => ({
+    id: `${edge.source}-${edge.target}-${edge.type}`,
+    source: edge.source,
+    target: edge.target,
+    sourceHandle: "s-bottom",
+    targetHandle: "t-top",
+    markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 7, color: "#424754" },
+    style: { stroke: "#424754", strokeWidth: 1.2 },
+  }));
+  return { nodes, edges };
 }
 
-function layoutPolicy(graph) {
-  const nodes = graph?.nodes || [];
-  const hub = nodes.find((node) => node.kind === "document") || nodes[0];
-  const spokes = nodes.filter((node) => node.kind === "section");
-  if (!hub) return { nodes: [], edges: [] };
-  return starLayout(hub, spokes);
-}
+export default function GraphBoard({ title, hint, tone = "user", graph, onSelect }) {
+  const [collapsed, setCollapsed] = useState(() => new Set());
+  const graphKey = (graph?.nodes || []).map((node) => node.id).join("|");
 
-function layoutIdeal(graph) {
-  const topics = (graph?.nodes || []).filter((node) => node.kind === "topic");
-  const hub = {
-    id: "__ideal_hub",
-    kind: "hub",
-    title: "Ideal policy",
-    summary: "Topics a private-company website privacy policy should cover.",
-    status: "neutral",
-  };
-  return starLayout(hub, topics);
-}
+  useEffect(() => {
+    setCollapsed(new Set());
+  }, [graphKey]);
 
-export default function GraphBoard({ title, hint, graph, mode, onSelect }) {
+  function onToggle(id) {
+    setCollapsed((current) => {
+      const next = new Set(current);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
+      return next;
+    });
+  }
+
   const { nodes, edges } = useMemo(
-    () => (mode === "ideal" ? layoutIdeal(graph) : layoutPolicy(graph)),
-    [graph, mode],
+    () => treeLayout(graph, collapsed, onToggle),
+    [graph, collapsed],
   );
   const empty = !graph?.nodes?.length;
   return (
-    <section className="board">
-      <div className="board-head">
-        <h2>{title}</h2>
-        <p>{hint}</p>
+    <section className={`board tone-${tone}`}>
+      <div className="board-overlay">
+        <div className="board-badge" title={hint}>
+          <span className="pulse-dot" />
+          {title}
+        </div>
       </div>
       <div className="flow">
         {empty ? (
@@ -120,13 +176,14 @@ export default function GraphBoard({ title, hint, graph, mode, onSelect }) {
               edges={edges}
               nodeTypes={nodeTypes}
               fitView
-              minZoom={0.25}
+              fitViewOptions={{ padding: 0.18 }}
+              minZoom={0.15}
               onNodeClick={(_, node) => onSelect(node.data.raw)}
               nodesConnectable={false}
               proOptions={{ hideAttribution: true }}
             >
-              <Background color="var(--grid)" gap={22} />
-              <Controls showInteractive={false} />
+              <Background color="var(--grid)" gap={16} size={1} />
+              <Controls position="top-right" showInteractive={false} />
             </ReactFlow>
           </ReactFlowProvider>
         )}

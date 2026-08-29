@@ -4,6 +4,7 @@ import GraphBoard from "./GraphBoard.jsx";
 import Header from "./Header.jsx";
 import Inspector from "./Inspector.jsx";
 import LoadCard from "./LoadCard.jsx";
+import PageHead from "./PageHead.jsx";
 
 function counts(result) {
   const topics = result?.ideal?.nodes?.filter((node) => node.kind === "topic") || [];
@@ -17,6 +18,8 @@ function counts(result) {
       ).length || 0,
     sections: result?.policy?.nodes?.filter((node) => node.kind === "section").length || 0,
     topics: topics.length,
+    nodes: result?.policy?.nodes?.length || 0,
+    edges: result?.policy?.edges?.length || 0,
   };
 }
 
@@ -109,8 +112,10 @@ export default function App() {
       <Header
         theme={theme}
         onToggleTheme={() => setTheme(theme === "dark" ? "light" : "dark")}
-        workspace={workspace}
+      />
+      <PageHead
         fileName={file?.name}
+        workspace={workspace}
         onLoadPolicy={() => {
           setError("");
           setLoadOpen(true);
@@ -132,26 +137,33 @@ export default function App() {
           />
         </main>
       ) : (
-        <main className="workspace">
+        <>
           <CoverageStrip summary={summary} />
-          <div className="graph-row">
-            <GraphBoard
-              title="This policy"
-              hint="Document at the center, sections on the ring"
-              graph={result.policy}
-              mode="policy"
-              onSelect={setSelected}
-            />
-            <GraphBoard
-              title="Ideal coverage"
-              hint="Ideal hub at the center, law topics on the ring"
-              graph={result.ideal}
-              mode="ideal"
-              onSelect={setSelected}
+          <div className="workspace">
+            <div className="graph-column">
+              <GraphBoard
+                title="User Graph (Generated)"
+                hint="Clusters then nested sections. Use − / + on a node to collapse its branch."
+                tone="user"
+                graph={result.policy}
+                onSelect={setSelected}
+              />
+              <GraphBoard
+                title="Ideal Graph (Target)"
+                hint="Statute → theme → topic → clause. Use − / + on a node to collapse its branch."
+                tone="ideal"
+                graph={result.ideal}
+                onSelect={setSelected}
+              />
+            </div>
+            <Inspector
+              selected={selected}
+              chunks={chunksForTopic}
+              summary={summary}
+              onClose={() => setSelected(null)}
             />
           </div>
-          <Inspector selected={selected} chunks={chunksForTopic} onClose={() => setSelected(null)} />
-        </main>
+        </>
       )}
 
       {loadOpen ? (
@@ -172,7 +184,7 @@ export default function App() {
             onClick={(event) => event.stopPropagation()}
           >
             <div className="modal-head">
-              <h2 id="load-title">Load policy</h2>
+              <h2 id="load-title">Run Validation</h2>
               <button
                 className="btn-ghost"
                 type="button"

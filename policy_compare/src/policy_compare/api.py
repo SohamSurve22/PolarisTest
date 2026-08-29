@@ -79,7 +79,7 @@ async def compare(file: UploadFile = File(...)) -> dict:
     missing = [str(path) for path in law_paths if not path.is_file()]
     if missing:
       raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
-    result = compare_document(outputs.entity, law_paths)
+    result = compare_document(outputs.entity, law_paths, outputs.sectioned)
     return result.model_dump()
   except HTTPException:
     raise

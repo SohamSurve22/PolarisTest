@@ -112,6 +112,74 @@ TOPIC_KEYWORDS: dict[str, tuple[str, ...]] = {
 }
 
 
+TOPIC_THEME: dict[str, str] = {
+  "TOPIC_PRIVACY_POLICY": "notice",
+  "TOPIC_LAWFUL_PROCESSING": "notice",
+  "TOPIC_COLLECTION_OF_INFORMATION": "collection",
+  "TOPIC_SENSITIVE_PERSONAL_DATA": "collection",
+  "TOPIC_DISCLOSURE": "collection",
+  "TOPIC_DATA_PROCESSING": "collection",
+  "TOPIC_CONSENT": "consent",
+  "TOPIC_WITHDRAWAL_OF_CONSENT": "consent",
+  "TOPIC_USER_RIGHTS": "rights",
+  "TOPIC_CORRECTION": "rights",
+  "TOPIC_CHILDREN_DATA": "rights",
+  "TOPIC_GRIEVANCE_REDRESSAL": "rights",
+  "TOPIC_DATA_RETENTION": "retention",
+  "TOPIC_RECORD_RETENTION": "retention",
+  "TOPIC_LOG_RETENTION": "retention",
+  "TOPIC_SECURITY": "security",
+  "TOPIC_CYBERSECURITY": "security",
+  "TOPIC_CYBER_SECURITY": "security",
+  "TOPIC_AUDIT": "security",
+  "TOPIC_ISO_27001": "security",
+  "TOPIC_CROSS_BORDER_TRANSFER": "transfers",
+  "TOPIC_BREACH_REPORTING": "incidents",
+  "TOPIC_INCIDENT_REPORTING": "incidents",
+  "TOPIC_REGULATORY_REPORTING": "incidents",
+}
+
+_STATUTE_TITLES: dict[str, str] = {
+  "DPDP": "DPDP",
+  "SPDI_RULES_2011": "SPDI",
+  "SPDI": "SPDI",
+  "CERTIN_DIRECTIONS_2022": "CERT-In",
+  "CERTIN": "CERT-In",
+  "IT_ACT_2000": "IT Act",
+  "TINY": "Tiny",
+}
+
+
 def topic_title(topic_id: str) -> str:
-  """Human label for a TOPIC_* id."""
-  return topic_id.removeprefix("TOPIC_").replace("_", " ").title()
+  """Human label for a TOPIC_* id (strips @act suffix)."""
+  base = base_topic_id(topic_id)
+  return base.removeprefix("TOPIC_").replace("_", " ").title()
+
+
+def base_topic_id(topic_id: str) -> str:
+  """TOPIC_CONSENT@DPDP → TOPIC_CONSENT."""
+  return topic_id.split("@", 1)[0]
+
+
+def theme_for_topic(topic_id: str) -> str:
+  """Theme bucket id for a kept topic."""
+  return TOPIC_THEME.get(base_topic_id(topic_id), "other")
+
+
+def theme_title(theme_id: str) -> str:
+  """Human label for a theme bucket."""
+  return theme_id.replace("_", " ").title()
+
+
+def statute_key(act: str) -> str:
+  """Stable cluster id fragment for a statute act string."""
+  cleaned = (act or "").strip() or "OTHER"
+  return cleaned
+
+
+def statute_title(act: str) -> str:
+  """Display name for a statute cluster."""
+  key = statute_key(act)
+  if key in _STATUTE_TITLES:
+    return _STATUTE_TITLES[key]
+  return key.replace("_", " ").title()

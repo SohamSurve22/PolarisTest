@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from policy_compare.models import LawChunk, MatchLink, MatchResult, ViewGraph, ViewNode
-from policy_compare.topics import TOPIC_KEYWORDS
+from policy_compare.topics import TOPIC_KEYWORDS, base_topic_id
 
 COVERED_MIN = 0.55
 WEAK_MIN = 0.30
@@ -11,7 +11,7 @@ WEAK_MIN = 0.30
 
 def _score(text: str, topic_id: str, chunks: list[LawChunk]) -> float:
   haystack = text.lower()
-  keywords = list(TOPIC_KEYWORDS.get(topic_id, ()))
+  keywords = list(TOPIC_KEYWORDS.get(base_topic_id(topic_id), ()))
   for chunk in chunks:
     keywords.extend(chunk.title.lower().split()[:6])
   unique = {key.strip() for key in keywords if len(key.strip()) >= 4}
@@ -42,7 +42,7 @@ def match_graphs(
   for section in section_nodes:
     text = f"{section.title} {section.summary}"
     for topic in topic_nodes:
-      score = _score(text, topic.id, chunks_by_topic.get(topic.id, []))
+      score = _score(text, topic.id, chunks_by_topic.get(base_topic_id(topic.id), []))
       if score >= WEAK_MIN:
         links.append(
           MatchLink(
