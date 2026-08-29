@@ -43,6 +43,9 @@ dist/
 # Graphify generated output (root and package copies)
 graphify-out/
 
+# Visual brainstorming companion
+.superpowers/
+
 # Pipeline artifacts
 document_pipeline/output/
 document_pipeline/data/uploads/

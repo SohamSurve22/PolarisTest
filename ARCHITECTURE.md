@@ -185,7 +185,7 @@ docker compose up --build web api
 # UI: http://localhost:8080   API: http://localhost:8000/health
 ```
 
-`POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. Matching is lexical topic keywords (no Ollama required for this path).
+`POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. Matching is lexical topic keywords (no Ollama required for this path).
 
 ## Not in this build
 
@@ -193,6 +193,7 @@ docker compose up --build web api
 - Report generation and a reports database
 - Hybrid graph+vector fusion at query time
 - LLM `retrieval_text` rewrite (Spec 4, parked)
+- Smarter overlay matching (embeddings / LLM labels / obligation graph) — parked in `plan.md` (“Later — smarter matching”)
 
 Phase 4 would pull parsed JSON, Qdrant, and Neo4j. Those stores exist; the engine does not.
 

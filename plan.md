@@ -31,7 +31,8 @@ Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdr
 | Heading regression | Six synthetic policies in `document_pipeline/tests/fixtures/policies/` with gold title lists |
 | `vectorization` | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4) |
 | Graph | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Neo4j via `semantic-graph export`. |
-| Not built | Compliance engine, reports, APIs, app DB |
+| Overlay match | Lexical keywords in `policy_compare` (`TOPIC_KEYWORDS`). Parked: smarter matching (below) |
+| Not built | Compliance engine, reports, app DB |
 
 Entity extraction stays dictionary/regex (`ClassifierFn` already exists). No LLM classifier in this phase.
 
@@ -72,6 +73,7 @@ Packages: `graph_builder/`, `semantic_graph/`.
 ## Phase 4 — Compliance engine
 
 - [x] Policy overlay UI (`policy_compare` + Docker `web`/`api`) — topic coverage, not full gap/penalty analysis
+- [ ] Overlay matching: still keyword-based; **do later** — see [Later — smarter matching](#later--smarter-matching)
 - [ ] API: document ID + optional jurisdiction → analysis
 - [ ] Pull parsed JSON, Qdrant, Neo4j
 - [ ] Steps: applicable law → obligations → missing clauses → penalties → compliance context (not `context_builder.py`)
@@ -82,6 +84,20 @@ Packages: `graph_builder/`, `semantic_graph/`.
 - [ ] LLM report from structured compliance context (not free-form)
 - [ ] Fixed sections: applicable law, obligations, gaps, penalties
 - [ ] Persist reports by document ID + analysis run
+
+## Later — smarter matching
+
+**Do not do this in the current UI pass.** Overlay colors stay keyword-based so Docker compare does not need Ollama/Qdrant.
+
+Today: `policy_compare/src/policy_compare/topics.py` `TOPIC_KEYWORDS` + `matcher.py`. A policy section maps to a topic if enough keywords hit. Cheap and demo-able. False positives are expected (e.g. “access” in “access logs” looking like a user-rights hit).
+
+When we pick this up, replace or layer matching — not the landing/workspace chrome. Candidate steps, in order:
+
+1. **Embeddings (likely first)** — embed law-chunk summaries and policy section text (Qdrant already exists; `vectorization/` already filters by `source_type`). Vote sections onto topics by similarity instead of (or as a vote with) keywords. Needs running Qdrant + Ollama for `/compare`, which the UI path currently avoids.
+2. **LLM classification** — optional second pass: “this paragraph is about retention.” Validate against a pydantic label set. Do not let the model invent statutes.
+3. **Graph obligations** — match to GraphIR `Obligation` nodes / Neo4j traversal (“this clause satisfies DPDP §X”), not topic-tag smell. This is the compliance engine, not a UI tweak.
+
+Out of scope until then: penalties, hybrid fusion at query time, changing `KEPT_TOPICS`.
 
 ## Decisions
 
