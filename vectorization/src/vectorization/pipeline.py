@@ -13,6 +13,7 @@ from vectorization.config import VectorizationSettings, get_settings
 from vectorization.embedder import provider_from_settings, resolve_embedding_settings
 from vectorization.kg import load_kg_records
 from vectorization.models import EmbeddableRecord, SearchHit
+from vectorization.rag_corpus import load_rag_records
 from vectorization.sources import load_embeddable_sources
 from vectorization.store import VectorStore
 
@@ -71,6 +72,20 @@ def run_kg(settings: VectorizationSettings | None = None) -> None:
   )
   logger.info("prepared %d KG records from %s", len(records), kg_dir)
   _embed_and_upsert(records, settings, desc="embedding kg")
+  logger.info("done")
+
+
+def run_rag(
+  settings: VectorizationSettings | None = None,
+  *,
+  path: Path | None = None,
+) -> None:
+  """Embed merged statute JSON as rag_section points (not kg_obligation)."""
+  settings = settings or get_settings()
+  rag_path = path or Path(settings.rag_path)
+  records = load_rag_records(rag_path)
+  logger.info("prepared %d rag_section records from %s", len(records), rag_path)
+  _embed_and_upsert(records, settings, desc="embedding rag")
   logger.info("done")
 
 

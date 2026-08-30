@@ -38,6 +38,8 @@ def record_point_id(record: EmbeddableRecord) -> str:
     key = f"kg_obligation:{record.law_code}:{record.obligation_id}:{chunk_index}"
   elif record.source_type == "kg_section":
     key = f"kg_section:{record.law_code}:{record.section_id}:{chunk_index}"
+  elif record.source_type == "rag_section":
+    key = f"rag_section:{record.law_code}:{record.clause_id}:{chunk_index}"
   else:
     key = f"document_clause:{record.document_id}:{record.clause_id}:{chunk_index}"
   return _uuid5(key)
@@ -125,6 +127,8 @@ class VectorStore:
             "obligation_id": record.obligation_id,
             "chunk_index": chunk_index,
             "chunk_type": record.source.get("chunk_type"),
+            "title": record.source.get("title"),
+            "topics": record.source.get("topics"),
           },
         )
       )

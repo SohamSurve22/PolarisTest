@@ -1,0 +1,30 @@
+{
+  "dataset_name": "IT_ACT_POLARISLEX_MERGED",
+  "version": "1.0",
+  "sections": [
+    {
+      "doc_id": "DPDP_SEC_6_SUB_5",
+      "act": "DPDP",
+      "title": "Consent - Consequences of Withdrawal",
+      "clause_text": "The consequences of the withdrawal shall be borne by the Data Principal.",
+      "retrieval_text": "Section 6 subsection 5 of the DPDP Act. Withdrawal of consent does not retroactively invalidate previous processing.",
+      "topics": ["consent", "user_rights"]
+    },
+    {
+      "doc_id": "ITACT_SEC_43A",
+      "act": "IT_ACT_2000",
+      "title": "Compensation for Failure to Protect Data",
+      "clause_text": "A body corporate negligent in reasonable security practices shall pay compensation.",
+      "retrieval_text": "",
+      "topics": ["security"]
+    },
+    {
+      "doc_id": "EMPTY_SKIP",
+      "act": "DPDP",
+      "title": "Empty",
+      "clause_text": "   ",
+      "retrieval_text": "  ",
+      "topics": []
+    }
+  ]
+}

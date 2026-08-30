@@ -21,6 +21,10 @@ flowchart LR
   Assemble --> MemoPDF
   Assemble -.->|optional sentences| QwenOptional
   MemoPDF --> User
+  Question -.-> RagQA
+  Qdrant -.-> RagQA
+  GraphIR -.-> RagQA
+  RagQA -.->|does not feed memo| User
 ```
 
 Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdrant. GraphIR for `/analyze` is built in-process from the four law JSON files; Neo4j is optional export only (unused on compare/analyze/report). There is no app DB (no SQLite/Postgres). Optional `POLARIS_REPORT_DIR` JSON files only.
@@ -36,10 +40,11 @@ Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdr
 | `vectorization`                  | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4)                                                                                                                                           |
 | Graph                            | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Catalog duties: `semantic-graph from-catalog`. Neo4j via `semantic-graph export` / `from-catalog --to-neo4j`.                                                                              |
 | Overlay match                    | Keywords still group User Graph clusters (`TOPIC_KEYWORDS`). Not used for scores or graph colors.                                                                                                                                                                                    |
-| Analyze v1                       | `compliance/` + `POST /analyze`: in-process GraphIR Obligation nodes, Qdrant `kg_obligation` scores (multi-credit + title/element gate), `PENALIZES` after status (India). N/A duties skip scoring. UI stats, graph colors, and the report-page coverage strip come from this result. |
+| Analyze v1                       | `compliance/` + `POST /analyze`: in-process GraphIR Obligation nodes, Qdrant `kg_obligation` scores (multi-credit + title/element gate), `PENALIZES` after status (India). N/A duties skip scoring. UI stats, graph colors, and the report-page coverage strip come from this result. **`/analyze` is not Q&A RAG.** |
 | Report                           | `POST /report` + `POST /report.pdf`. Engine owns duty rows, per-law Themes, scoreboard (applicable duties only; missing ≠ violation), `source_filename`, and `priority_gaps` (cap 5). Qwen may append extra summary sentences. Chat down: scoreboard still shows (`narrative_available: false`). |
+| Q&A RAG                          | `rag/` + `POST /rag`: dense (`rag_section` from merged JSON) vs GraphRAG (`kg_obligation` seed + GraphIR 1-hop). Local Qwen. **Queries** tab is statute Q&A (no policy required). **`/analyze` is not Q&A RAG** and the memo does not use `/rag`. Not chat-with-PDF.                                                                                 |
 | Next                             | Cloud chat is still [Later B](#b--report-polish). Cypher at analyze time and `applies_if` are still later.                                                                                                                                                                         |
-| Not built                        | Neo4j Cypher at `/analyze`, `applies_if` / NOT_APPLICABLE, app DB, pluggable jurisdictions, cloud chat                                                                                                                                                                               |
+| Not built                        | Chat-with-PDF RAG, Neo4j Cypher at `/analyze`, `applies_if` / NOT_APPLICABLE, app DB, pluggable jurisdictions, cloud chat                                                                                                                                                     |
 
 
 Entity extraction stays dictionary/regex (`ClassifierFn` already exists). No LLM classifier in this phase.
@@ -101,6 +106,19 @@ Reports consume the existing `AnalysisResult` (no Neo4j required). Hybrid memo: 
 - [x] Persist reports by document ID + analysis run (still no SQLite unless we explicitly add a reports store)
 - [x] Per-law notes start with engine counts (`N covered, N partial, N missing`) plus engine Themes. Remaining Later B item is [cloud chat](#b--report-polish) only, not more Phase 5.
 
+## Phase 6 — RAG comparison
+
+Q&A only. Same local Qwen generator, two retrievers, measured **latency** and **citation recall**. Does **not** change `/analyze`, does not ingest uploads, and does not feed the memo. Web **Queries** tab is statute Q&A (`POST /rag`), not chat-with-PDF.
+
+- [x] Dense ingest: `dataset/IT_ACT_POLARISLEX_MERGED.json` → Qdrant `source_type=rag_section` (`vectorization ingest-rag`). Not `kg_obligation`.
+- [x] Dense retrieve: `search_text(..., source_type="rag_section", top_k=5)` then generate from excerpts.
+- [x] Graph retrieve: seed `kg_obligation` (fallback `kg_section`) + in-process GraphIR 1-hop (`PENALIZES`, same `section_id` / act). No Bolt.
+- [x] `POST /rag` `{question, mode: dense|graph}`. 503 if Qdrant or Ollama is down.
+- [x] Queries tab: statute Q&A panel (`/api/rag`), Dense default, Graph toggle. No policy upload.
+- [x] Bench: `gold_rag.json` recall@k + retrieve/generate ms for both modes (`rag-bench` / pytest `-m live`). Skip live when Ollama is down.
+
+**Decisions:** dense corpus is the merged JSON (cite `doc_id`). GraphRAG uses catalog GraphIR + existing `kg_export` vectors. Chat is local Qwen with the same privacy rules as the memo (no raw policy upload in this slice).
+
 ## Later
 
 Same checkbox style as Phases 1–5. Mark items `[x]` when done. **A** matching is done at GraphIR-in-process. **B** memo polish is done except optional cloud chat.
@@ -127,7 +145,8 @@ Mostly done. Memo + PDF are sendable. Do not fine-tune Qwen. Remaining item is o
 
 ## Decisions
 
-- **Privacy:** local Ollama embeddings **and** local Qwen chat by default. Cloud embedders or cloud chat (DeepSeek, etc.) are a Later settings swap, default off — compact report JSON is still sensitive.
+- **Privacy:** local Ollama embeddings **and** local Qwen chat by default. Cloud embedders or cloud chat (DeepSeek, etc.) are a Later settings swap, default off — compact report JSON is still sensitive. `POST /rag` uses the same local Qwen path and does not accept a policy upload.
+- **RAG corpora:** dense Q&A embeds `dataset/IT_ACT_POLARISLEX_MERGED.json` as `rag_section` only. GraphRAG uses catalog GraphIR + `kg_obligation` / `kg_section`. Do not ingest the merged file as `kg_obligation` (that would mix with `/analyze`).
 - **Naming:** structural `ContextBuilder` is document structure only. Engine output is `AnalysisResult` (findings).
 - **Schema:** LLM stages validate against pydantic before downstream use (`ClassificationResult`, `Entity`, `Reference`).
 - **Stores:** JSON parsed artifacts, Qdrant vectors, Neo4j graph. No SQLite.

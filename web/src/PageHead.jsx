@@ -1,4 +1,17 @@
-export default function PageHead({ fileName, workspace, analysis, onLoadPolicy }) {
+export default function PageHead({ tab, fileName, workspace, analysis, onLoadPolicy }) {
+  if (tab === "queries") {
+    return (
+      <div className="page-head">
+        <div>
+          <h1 className="page-title">Statute Q&A</h1>
+          <p className="page-meta">
+            Ask the statute corpus. This is law text, not a policy score.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
   const version = analysis ? "engine" : "overlay";
   return (
     <div className="page-head">

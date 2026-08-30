@@ -4,9 +4,10 @@ from __future__ import annotations
 
 import os
 import tempfile
+from datetime import date, datetime
 from pathlib import Path
 
-from datetime import date, datetime
+from pydantic import BaseModel, Field
 
 from document_pipeline.models.document import DocumentSource
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
@@ -21,6 +22,8 @@ from compliance.pdf import pdf_download_name, render_pdf
 from compliance.report import ReportError, generate_report
 from compliance.service import AnalyzeError, analyze_document
 from policy_compare.service import compare_document, default_law_paths
+from rag.models import RagError
+from rag.service import answer_question
 
 _EXTENSIONS: dict[str, DocumentFormat] = {
   ".txt": DocumentFormat.TXT,
@@ -152,6 +155,26 @@ def report_pdf(body: ComplianceReport) -> Response:
     media_type="application/pdf",
     headers={"Content-Disposition": f'attachment; filename="{filename}"'},
   )
+
+
+class RagRequest(BaseModel):
+  question: str
+  mode: str = Field(default="dense")
+
+
+@app.post("/rag")
+def rag(body: RagRequest) -> dict:
+  if body.mode not in {"dense", "graph"}:
+    raise HTTPException(status_code=400, detail="mode must be dense or graph")
+  try:
+    return answer_question(body.question, mode=body.mode, law_paths=_law_paths()).model_dump()
+  except RagError as exc:
+    raise HTTPException(
+      status_code=503,
+      detail="Q&A backend unavailable (Qdrant or Ollama).",
+    ) from exc
+  except ValueError as exc:
+    raise HTTPException(status_code=400, detail=str(exc)) from exc
 
 
 def _parse_analysis_date(raw: str) -> date | None:

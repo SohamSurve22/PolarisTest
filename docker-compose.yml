@@ -27,6 +27,7 @@ services:
       - "host.docker.internal:host-gateway"
     environment:
       POLARIS_LAW_DIR: /app/laws
+      VECTORIZATION_RAG_PATH: /app/laws/IT_ACT_POLARISLEX_MERGED.json
       VECTORIZATION_QDRANT_URL: http://qdrant:6333
       VECTORIZATION_OLLAMA_URL: http://host.docker.internal:11434/api/embeddings
       POLARIS_OLLAMA_URL: http://host.docker.internal:11434

@@ -6,9 +6,10 @@ import argparse
 import json
 import logging
 import sys
+from pathlib import Path
 
 from vectorization.config import get_settings
-from vectorization.pipeline import reembed, run, run_kg, search_text
+from vectorization.pipeline import reembed, run, run_kg, run_rag, search_text
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -25,6 +26,15 @@ def main(argv: list[str] | None = None) -> int:
     "ingest-kg",
     help="ingest KG obligation and section JSON into Qdrant",
   )
+  ingest_rag = subparsers.add_parser(
+    "ingest-rag",
+    help="ingest merged statute JSON as rag_section (not kg_obligation)",
+  )
+  ingest_rag.add_argument(
+    "--path",
+    default=None,
+    help="merged JSON path (default VECTORIZATION_RAG_PATH)",
+  )
   subparsers.add_parser(
     "reembed",
     help="re-embed KG then document clauses under the current model",
@@ -40,6 +50,10 @@ def main(argv: list[str] | None = None) -> int:
 
   if args.command == "ingest-kg":
     run_kg(settings)
+    return 0
+
+  if args.command == "ingest-rag":
+    run_rag(settings, path=Path(args.path) if args.path else None)
     return 0
 
   if args.command == "search":

@@ -82,7 +82,7 @@ def _gold(name: str) -> dict:
 
 
 def _live_analyze_pdf(filename: str, document_id: str):
-  pdf = ROOT / filename
+  pdf = ROOT / "test_policy" / filename
   if not pdf.exists():
     pytest.skip(f"{filename} is not in the repo")
   temp_path: Path | None = None

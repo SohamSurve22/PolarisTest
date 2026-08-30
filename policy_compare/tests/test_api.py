@@ -209,3 +209,65 @@ def test_analyze_503_when_search_backend_down(monkeypatch: object) -> None:
     files={"file": ("policy.txt", b"consent\n", "text/plain")},
   )
   assert response.status_code == 503
+
+
+def test_rag_dense_returns_answer(monkeypatch: object) -> None:
+  from rag.models import RagAnswer, RagCitation
+
+  def fake_answer(question: str, mode: str, **_kwargs):
+    assert question == "What is section 43A?"
+    assert mode == "dense"
+    return RagAnswer(
+      mode="dense",
+      answer="Compensation for negligent security. Cited: ITACT_SEC_43A",
+      citations=[
+        RagCitation(id="ITACT_SEC_43A", title="Compensation", text="pay damages", score=0.9)
+      ],
+      retrieve_ms=1.0,
+      generate_ms=2.0,
+    )
+
+  monkeypatch.setattr("policy_compare.api.answer_question", fake_answer)
+  client = TestClient(app)
+  response = client.post("/rag", json={"question": "What is section 43A?", "mode": "dense"})
+  assert response.status_code == 200, response.text
+  body = response.json()
+  assert body["mode"] == "dense"
+  assert body["citations"][0]["id"] == "ITACT_SEC_43A"
+  assert "retrieve_ms" in body
+  assert "generate_ms" in body
+
+
+def test_rag_503_when_backend_down(monkeypatch: object) -> None:
+  from rag.models import RagError
+
+  def boom(*_args, **_kwargs):
+    raise RagError("qdrant down")
+
+  monkeypatch.setattr("policy_compare.api.answer_question", boom)
+  client = TestClient(app)
+  response = client.post("/rag", json={"question": "consent?", "mode": "dense"})
+  assert response.status_code == 503
+
+
+def test_rag_graph_returns_answer(monkeypatch: object) -> None:
+  from rag.models import RagAnswer, RagCitation
+
+  def fake_answer(question: str, mode: str, **_kwargs):
+    assert mode == "graph"
+    return RagAnswer(
+      mode="graph",
+      answer="Report within 6 hours. Cited: CERTIN_DIR_2",
+      citations=[
+        RagCitation(id="CERTIN_DIR_2", title="6 hours", text="report within 6 hours", score=0.8)
+      ],
+      retrieve_ms=3.0,
+      generate_ms=4.0,
+    )
+
+  monkeypatch.setattr("policy_compare.api.answer_question", fake_answer)
+  client = TestClient(app)
+  response = client.post("/rag", json={"question": "CERT-In 6 hours?", "mode": "graph"})
+  assert response.status_code == 200, response.text
+  assert response.json()["mode"] == "graph"
+  assert response.json()["citations"][0]["id"] == "CERTIN_DIR_2"

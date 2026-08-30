@@ -1,0 +1,77 @@
+{
+  "k": 5,
+  "questions": [
+    {
+      "id": "dpdp_withdraw",
+      "question": "Can a Data Principal withdraw consent under the DPDP Act?",
+      "gold_dense_ids": ["DPDP_SEC_6_SUB_4"],
+      "gold_graph_ids": ["DPDP_SEC_6_SUB_4"]
+    },
+    {
+      "id": "dpdp_withdraw_consequences",
+      "question": "What happens after a Data Principal withdraws consent under DPDP?",
+      "gold_dense_ids": ["DPDP_SEC_6_SUB_5", "DPDP_SEC_6_SUB_6"],
+      "gold_graph_ids": ["DPDP_SEC_6_SUB_5", "DPDP_SEC_6_SUB_6"]
+    },
+    {
+      "id": "dpdp_consent_free",
+      "question": "Must DPDP consent be free, specific, informed and unambiguous?",
+      "gold_dense_ids": ["DPDP_SEC_6_SUB_1"],
+      "gold_graph_ids": ["DPDP_SEC_6_SUB_1"]
+    },
+    {
+      "id": "itact_43a",
+      "question": "What is section 43A of the Information Technology Act about compensation for failure to protect data?",
+      "gold_dense_ids": ["ITACT_SEC_43A"],
+      "gold_graph_ids": ["ITACT_SEC_43A"]
+    },
+    {
+      "id": "certin_6_hours",
+      "question": "How quickly must cyber incidents be reported to CERT-In?",
+      "gold_dense_ids": ["CERTIN_DIR_2"],
+      "gold_graph_ids": ["CERTIN_DIR_2"]
+    },
+    {
+      "id": "spdi_grievance",
+      "question": "What is the SPDI Rules duty to designate a Grievance Officer?",
+      "gold_dense_ids": ["SPDI_RULE_5_SUB_9"],
+      "gold_graph_ids": ["SPDI_RULE_5_SUB_9"]
+    },
+    {
+      "id": "spdi_withdraw",
+      "question": "Can an information provider withdraw consent under the SPDI Rules?",
+      "gold_dense_ids": ["SPDI_RULE_5_SUB_7"],
+      "gold_graph_ids": ["SPDI_RULE_5_SUB_7"]
+    },
+    {
+      "id": "dpdp_children_consent",
+      "question": "What consent is required before processing a child's personal data under DPDP?",
+      "gold_dense_ids": ["DPDP_SEC_9_SUB_1"],
+      "gold_graph_ids": ["DPDP_SEC_9_SUB_1"]
+    },
+    {
+      "id": "dpdp_children_tracking",
+      "question": "May a Data Fiduciary track children or target advertising at them under DPDP?",
+      "gold_dense_ids": ["DPDP_SEC_9_SUB_3"],
+      "gold_graph_ids": ["DPDP_SEC_9_SUB_3"]
+    },
+    {
+      "id": "dpdp_security",
+      "question": "What reasonable security safeguards does DPDP require of a Data Fiduciary?",
+      "gold_dense_ids": ["DPDP_SEC_8_SUB_5"],
+      "gold_graph_ids": ["DPDP_SEC_8_SUB_5"]
+    },
+    {
+      "id": "dpdp_breach",
+      "question": "Must a Data Fiduciary notify the Board of a personal data breach?",
+      "gold_dense_ids": ["DPDP_SEC_8_SUB_6"],
+      "gold_graph_ids": ["DPDP_SEC_8_SUB_6"]
+    },
+    {
+      "id": "dpdp_purpose",
+      "question": "What is lawful purpose limitation under DPDP section 4?",
+      "gold_dense_ids": ["DPDP_SEC_4_SUB_1"],
+      "gold_graph_ids": ["DPDP_SEC_4_SUB_1"]
+    }
+  ]
+}

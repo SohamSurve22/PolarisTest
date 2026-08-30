@@ -45,6 +45,7 @@ class VectorizationSettings(BaseSettings):
   # KG obligation/section JSON (not GraphIR, not live Neo4j).
   kg_dir: str = Field(default="../kg_export")
   kg_max_tokens: int = Field(default=300)
+  rag_path: str = Field(default="../dataset/IT_ACT_POLARISLEX_MERGED.json")
 
   # --- Batching / resilience ---
   batch_size: int = Field(default=50)

@@ -54,6 +54,9 @@ document_pipeline/data/processed/
 # Logs
 *.log
 
+# Live RAG eval dump (rag/scripts/live_eval.py)
+rag_live_eval.json
+
 # Frontend
 node_modules/
 web/dist/

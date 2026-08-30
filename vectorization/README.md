@@ -15,6 +15,7 @@ pip install -e ../document_pipeline -e .[dev]
 cp .env.example .env   # fill in real values
 vectorization                                 # ingest document clauses
 vectorization ingest-kg                       # ingest KG obligations/sections
+vectorization ingest-rag --path ../dataset/IT_ACT_POLARISLEX_MERGED.json
 vectorization reembed                         # KG first, then document clauses
 vectorization search "personal data" --top-k 5
 vectorization search "access personal data" --source-type kg_obligation --top-k 5
@@ -38,6 +39,7 @@ Run from this directory so the default `VECTORIZATION_CLAUSES_DIR` of
 | `VECTORIZATION_QUERY_EMBED_PREFIX` | `search_query: ` | Prepended to search queries at embed time only |
 | `VECTORIZATION_CLAUSES_DIR` | `../document_pipeline/output` | `DOC_*.json` files from `document-pipeline preview` |
 | `VECTORIZATION_KG_DIR` | `../kg_export` | `*.json` law files for `vectorization ingest-kg` (not GraphIR) |
+| `VECTORIZATION_RAG_PATH` | `../dataset/IT_ACT_POLARISLEX_MERGED.json` | Merged statute JSON for `vectorization ingest-rag` (`rag_section`, not `kg_obligation`) |
 | `VECTORIZATION_KG_MAX_TOKENS` | `300` | Longer KG paragraphs are split with `CHUNK_OVERLAP_TOKENS` |
 | `VECTORIZATION_BATCH_SIZE` | `50` | |
 | `VECTORIZATION_SEARCH_TOP_K` | `10` | kNN result cap before the score floor |
@@ -76,7 +78,8 @@ Points are upserted by a stable UUID of
 `document_clause:{document_id}:{clause_id}:{chunk_index}`, so reruns overwrite
 rather than duplicate. KG points use the same collection with keys
 `kg_obligation:{law_code}:{obligation_id}:{chunk_index}` and
-`kg_section:{law_code}:{section_id}:{chunk_index}`.
+`kg_section:{law_code}:{section_id}:{chunk_index}`. Dense RAG points use
+`rag_section:{law_code}:{doc_id}:{chunk_index}`.
 
 After this point-id change, delete the existing `document_clauses` collection
 (or `docker compose down -v` from the repo root) and re-ingest. Old point ids
@@ -106,6 +109,15 @@ reuse the document sentence/token splitter. This path does not open Neo4j or
 import `graph_builder`. Produce GraphIR with `semantic-graph dump-ir statute.txt -o ir.json`,
 then `graph-builder-export-kg ir.json -o ../kg_export/LAW.json --law-code LAW`.
 Search with `--source-type kg_obligation` or `kg_section`.
+
+## Dense RAG ingest
+
+`vectorization ingest-rag` reads merged statute JSON (`VECTORIZATION_RAG_PATH` or
+`--path`). Each `sections[]` entry becomes one `rag_section` point. Embed
+`retrieval_text` (fallback `clause_text`). Cite `doc_id`. This is **not**
+`kg_obligation` ingest — `/analyze` must keep catalog duties separate.
+
+## Re-embed (model / backend switch)
 
 ## Re-embed (model / backend switch)
 

@@ -5,6 +5,7 @@ import GraphBoard from "./GraphBoard.jsx";
 import Header from "./Header.jsx";
 import LoadCard from "./LoadCard.jsx";
 import PageHead from "./PageHead.jsx";
+import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
 import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
@@ -42,6 +43,7 @@ export default function App() {
   const [focusPolicyId, setFocusPolicyId] = useState(null);
   const [panToken, setPanToken] = useState(0);
   const [loadOpen, setLoadOpen] = useState(false);
+  const [tab, setTab] = useState(() => (window.location.hash === "#queries" ? "queries" : "validation"));
   const [reportPage, setReportPage] = useState(() => window.location.hash === "#report");
 
   useEffect(() => {
@@ -64,32 +66,38 @@ export default function App() {
 
   useEffect(() => {
     function onHash() {
-      setReportPage(window.location.hash === "#report");
+      const hash = window.location.hash;
+      if (hash === "#queries") {
+        setTab("queries");
+        return;
+      }
+      setTab("validation");
+      setReportPage(hash === "#report");
     }
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
 
   useEffect(() => {
-    if (!report) {
-      if (reportPage) {
-        setReportPage(false);
-      }
-      if (window.location.hash === "#report") {
-        window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+    if (tab === "queries") {
+      if (window.location.hash !== "#queries") {
+        window.location.hash = "queries";
       }
       return;
     }
-    if (reportPage) {
+    if (report && reportPage) {
       if (window.location.hash !== "#report") {
         window.location.hash = "report";
       }
       return;
     }
-    if (window.location.hash === "#report") {
+    if (!report && reportPage) {
+      setReportPage(false);
+    }
+    if (window.location.hash === "#queries" || window.location.hash === "#report") {
       window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
     }
-  }, [report, reportPage]);
+  }, [report, reportPage, tab]);
 
   async function compare(event) {
     event?.preventDefault();
@@ -206,6 +214,13 @@ export default function App() {
     setFocusPolicyId(null);
   }
 
+  function goTab(next) {
+    setTab(next);
+    if (next === "queries") {
+      setLoadOpen(false);
+    }
+  }
+
   function selectFinding(row) {
     const lawNode = paintedIdeal?.nodes?.find((node) => node.id === row.obligation_id);
     setSelected(
@@ -223,13 +238,19 @@ export default function App() {
     setPanToken((value) => value + 1);
   }
 
+  const shellClass =
+    tab === "queries" ? "app is-queries" : workspace ? "app is-workspace" : "app is-landing";
+
   return (
-    <div className={`app${workspace ? " is-workspace" : " is-landing"}`}>
+    <div className={shellClass}>
       <Header
         theme={theme}
+        tab={tab}
+        onTab={goTab}
         onToggleTheme={() => setTheme(theme === "dark" ? "light" : "dark")}
       />
       <PageHead
+        tab={tab}
         fileName={file?.name}
         workspace={workspace}
         analysis={analysis}
@@ -239,7 +260,9 @@ export default function App() {
         }}
       />
 
-      {!workspace ? (
+      {tab === "queries" ? (
+        <QueriesPanel />
+      ) : !workspace ? (
         <main className="landing">
           <LoadCard
             idPrefix="landing"
@@ -303,7 +326,7 @@ export default function App() {
         </>
       )}
 
-      {loadOpen ? (
+      {loadOpen && tab === "validation" ? (
         <div
           className="modal-backdrop"
           role="presentation"

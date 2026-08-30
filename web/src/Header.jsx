@@ -3,21 +3,27 @@ const NAV = [
   { id: "documents", label: "Documents" },
   { id: "parser", label: "Parser" },
   { id: "graph", label: "Knowledge Graph" },
-  { id: "validation", label: "Validation", current: true },
-  { id: "queries", label: "Queries" },
+  { id: "validation", label: "Validation", tab: true },
+  { id: "queries", label: "Queries", tab: true },
 ];
 
-export default function Header({ theme, onToggleTheme }) {
+export default function Header({ theme, onToggleTheme, tab, onTab }) {
   return (
     <nav className="top-nav" aria-label="Primary">
       <div className="top-nav-left">
         <p className="wordmark">PolarisLex</p>
         <div className="top-nav-links">
           {NAV.map((item) =>
-            item.current ? (
-              <span key={item.id} className="nav-link is-current">
+            item.tab ? (
+              <button
+                key={item.id}
+                type="button"
+                className={`nav-link${tab === item.id ? " is-current" : ""}`}
+                aria-current={tab === item.id ? "page" : undefined}
+                onClick={() => onTab(item.id)}
+              >
                 {item.label}
-              </span>
+              </button>
             ) : (
               <span key={item.id} className="nav-link is-idle">
                 {item.label}

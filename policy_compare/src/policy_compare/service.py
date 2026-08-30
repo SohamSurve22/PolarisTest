@@ -22,8 +22,10 @@ DEFAULT_LAW_FILES = (
 )
 
 
-def default_law_paths(repo_root: Path) -> list[Path]:
-  return [repo_root / name for name in DEFAULT_LAW_FILES]
+def default_law_paths(repo_or_law_dir: Path) -> list[Path]:
+  nested = repo_or_law_dir / "dataset"
+  base = nested if (nested / DEFAULT_LAW_FILES[0]).is_file() else repo_or_law_dir
+  return [base / name for name in DEFAULT_LAW_FILES]
 
 
 def compare_document(
