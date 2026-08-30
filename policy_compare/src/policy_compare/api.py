@@ -12,7 +12,11 @@ from document_pipeline.pipeline.orchestrator import PipelineOutputs, create_defa
 from document_pipeline.utils.document_ids import generate_document_id
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import Response
 
+from compliance.models import AnalysisResult, ComplianceReport
+from compliance.pdf import render_pdf
+from compliance.report import generate_report
 from compliance.service import AnalyzeError, analyze_document
 from policy_compare.service import compare_document, default_law_paths
 
@@ -117,6 +121,22 @@ async def analyze(
   finally:
     if temp_path is not None:
       temp_path.unlink(missing_ok=True)
+
+
+@app.post("/report")
+def report(body: AnalysisResult) -> dict:
+  return generate_report(body).model_dump()
+
+
+@app.post("/report.pdf")
+def report_pdf(body: ComplianceReport) -> Response:
+  pdf = render_pdf(body)
+  filename = f"polarislex-{body.document_id}.pdf"
+  return Response(
+    content=pdf,
+    media_type="application/pdf",
+    headers={"Content-Disposition": f'attachment; filename="{filename}"'},
+  )
 
 
 async def _read_upload(file: UploadFile) -> tuple[str, DocumentFormat, bytes]:

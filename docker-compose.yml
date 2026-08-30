@@ -29,6 +29,8 @@ services:
       POLARIS_LAW_DIR: /app/laws
       VECTORIZATION_QDRANT_URL: http://qdrant:6333
       VECTORIZATION_OLLAMA_URL: http://host.docker.internal:11434/api/embeddings
+      POLARIS_OLLAMA_URL: http://host.docker.internal:11434
+      POLARIS_CHAT_MODEL: qwen2.5:7b-instruct-q4_K_M
     ports:
       - "8000:8000"
     depends_on:

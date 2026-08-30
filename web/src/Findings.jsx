@@ -1,4 +1,5 @@
 import { useState } from "react";
+import ReportPanel from "./ReportPanel.jsx";
 
 const FILTERS = [
   { id: "gaps", label: "Gaps" },
@@ -112,6 +113,9 @@ export default function Findings({
   busy,
   selected,
   onSelectFinding,
+  report,
+  reportError,
+  reportBusy,
 }) {
   const [filter, setFilter] = useState("gaps");
   const obligations = analysis?.obligations || [];
@@ -159,6 +163,7 @@ export default function Findings({
         </p>
       ) : (
         <>
+          <ReportPanel report={report} reportError={reportError} busy={reportBusy} />
           <div className="findings-filters" role="tablist" aria-label="Filter findings">
             {FILTERS.map((item) => (
               <button

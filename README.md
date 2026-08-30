@@ -2,7 +2,7 @@
 
 Legal-document intelligence for Indian website-privacy law. Upload a private-company privacy policy; the app builds two graphs and scores the text against DPDP, SPDI Rules, CERT-In directions, and the IT Act.
 
-The stack **parses** documents, **embeds** clauses for search, can **export** a graph to Neo4j, **compares** a policy to those statutes, and **analyzes** obligation gaps with linked penalties (India MVP). It does **not** yet generate LLM reports or traverse Neo4j obligations.
+The stack **parses** documents, **embeds** clauses for search, can **export** a graph to Neo4j, **compares** a policy to those statutes, **analyzes** obligation gaps with linked penalties, and can **write a local LLM report** from those findings (India MVP). It does **not** traverse Neo4j obligations.
 
 ## Quick start (product UI)
 
@@ -15,7 +15,7 @@ Same two models on every laptop:
 | Model | Used for |
 |---|---|
 | `nomic-embed-text` | `/analyze` embeddings (~270MB) |
-| `qwen2.5:7b-instruct-q4_K_M` | Upcoming Phase 5 reports (~5GB). Pull it now so teammates are ready. |
+| `qwen2.5:7b-instruct-q4_K_M` | Phase 5 report narrative (~5GB). Optional; the memo table and PDF still work without it. |
 
 **macOS**
 
@@ -57,9 +57,10 @@ Open [http://localhost:8080](http://localhost:8080). Drop or paste a policy (`.t
 
 1. **Coverage strip** — covered / partial / missing / gaps from analysis (not keyword overlay).
 2. **User Graph** and **Ideal Graph** — node colors follow the same result (green covered, orange partial, red missing).
-3. **Findings** — table under the graphs. Each row is a law duty plus the closest policy section/clause. Click a row to highlight those nodes.
+3. **Report** — client memo: counts, optional Qwen summary, every duty grouped by law. **Download PDF** saves the same document. Statuses come from analysis, not the model.
+4. **Findings** — table under the graphs. Each row is a law duty plus the closest policy section/clause. Click a row to highlight those nodes.
 
-**Load policy** in the header replaces the current file. The API is [http://localhost:8000](http://localhost:8000) (`GET /health`, `POST /compare`, `POST /analyze`).
+**Load policy** in the header replaces the current file. The API is [http://localhost:8000](http://localhost:8000) (`GET /health`, `POST /compare`, `POST /analyze`, `POST /report`, `POST /report.pdf`).
 
 `--build` is only needed after you change `web/`, `policy_compare/`, `compliance/`, `document_pipeline/`, `vectorization/`, or the Dockerfiles. Stop with `docker compose down`.
 
@@ -70,7 +71,7 @@ Open [http://localhost:8080](http://localhost:8080). Drop or paste a policy (`.t
 | `POST /compare` | No | Parse the file, draw both graphs. Topic **keywords** only group User Graph folders (Consent vs Extra). Not the coverage score or node colors. |
 | `POST /analyze` | Yes | Score each policy clause against indexed `kg_obligation` vectors. A clause credits only its **best** catalog hit. **Covered** also needs title-token overlap so generic privacy wording cannot cover an unrelated duty. Gaps = partial + missing. Penalties come from the four law JSON files. |
 
-The UI calls `/compare`, then `/analyze` on the same file. If search is down, `/analyze` returns **503**; graphs from `/compare` still load and Findings shows the error.
+The UI calls `/compare`, then `/analyze` on the same file, then `POST /report` with the analysis JSON. Findings show first; the memo narrative can take up to about a minute (local Qwen). **Download PDF** posts the assembled report to `/report.pdf` (no second chat call). If search is down, `/analyze` returns **503**; graphs still load. If chat is down, `/report` still returns **200** with `narrative_available: false`; the duty table and PDF still work.
 
 Qdrant starts with `api`. The collection must already contain `kg_obligation` points (`vectorization ingest-kg` / `reembed`). The API reaches Ollama at `http://host.docker.internal:11434`. Analyze does **not** upsert the uploaded policy into Qdrant.
 
@@ -80,7 +81,7 @@ Qdrant starts with `api`. The collection must already contain `kg_obligation` po
 |---|---|
 | `document_pipeline/` | File → structured `DOC_*.json` (sections, clauses, entities) |
 | `policy_compare/` | Ideal topic graph + overlay; FastAPI `POST /compare` and `POST /analyze` |
-| `compliance/` | India obligation / gap / penalty findings (`AnalysisResult`, including matched clause snippets) |
+| `compliance/` | India obligation / gap / penalty findings (`AnalysisResult`) and client memo + PDF (`ComplianceReport`) |
 | `web/` | React UI: landing, graphs, coverage strip, findings table |
 | `vectorization/` | Embed clauses into Qdrant (local Ollama by default) |
 | `graph_builder/` | GraphIR schema, Cypher, optional Neo4j load, `kg_export` dump |
@@ -152,14 +153,14 @@ Package READMEs have setup, env vars, and tests:
 - [`graph_builder/README.md`](graph_builder/README.md)
 - [`compliance/`](compliance/) (India analyze; hosted by `policy_compare` FastAPI)
 
-How the pieces join: [`ARCHITECTURE.md`](ARCHITECTURE.md). Roadmap: [`plan.md`](plan.md) (**next: Phase 5** LLM reports from `AnalysisResult`).
+How the pieces join: [`ARCHITECTURE.md`](ARCHITECTURE.md). Roadmap: [`plan.md`](plan.md) (next: GraphIR Obligation nodes).
 
 ## Not in this build
 
-- LLM reports and a reports store (Phase 5)
 - Neo4j obligation traversal (GraphIR dump still has no Obligation nodes)
 - Hybrid graph + vector fusion at query time
 - LLM rewrite of retrieval text
 - Pluggable jurisdictions beyond India website-privacy MVP
+- Durable reports store (optional `POLARIS_REPORT_DIR` JSON files only; no SQLite)
 
 `/analyze` is a retrieval score against the catalog, not a legal opinion. Statute-level claims (“this clause satisfies DPDP §X”) wait until GraphIR has Obligation nodes.

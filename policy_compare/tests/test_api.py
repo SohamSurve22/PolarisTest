@@ -76,6 +76,99 @@ def test_analyze_txt(monkeypatch: object) -> None:
   assert body["applicable_laws"] == ["TINY"]
 
 
+def test_report_from_analysis_json(monkeypatch: object) -> None:
+  from compliance.models import ComplianceReport, ReportCounts
+
+  def fake_report(analysis, **_kwargs):
+    return ComplianceReport(
+      document_id=analysis.document_id,
+      jurisdiction=analysis.jurisdiction,
+      applicable_laws=analysis.applicable_laws,
+      generated_at="2026-08-30T05:00:00Z",
+      counts=ReportCounts(total=0),
+      narrative_available=True,
+      executive_summary="One gap remains.",
+      findings=[],
+    )
+
+  monkeypatch.setattr("policy_compare.api.generate_report", fake_report)
+  client = TestClient(app)
+  response = client.post(
+    "/report",
+    json={
+      "document_id": "DOC_x",
+      "jurisdiction": "IN",
+      "applicable_laws": ["TINY"],
+      "obligations": [],
+      "gaps": [],
+      "penalties": [],
+    },
+  )
+  assert response.status_code == 200, response.text
+  body = response.json()
+  assert body["document_id"] == "DOC_x"
+  assert body["executive_summary"] == "One gap remains."
+  assert body["narrative_available"] is True
+  assert "highlights" not in body
+
+
+def test_report_200_when_generate_report_has_no_narrative(monkeypatch: object) -> None:
+  from compliance.models import ComplianceReport, ReportCounts
+
+  def fake_report(analysis, **_kwargs):
+    return ComplianceReport(
+      document_id=analysis.document_id,
+      generated_at="2026-08-30T05:00:00Z",
+      counts=ReportCounts(),
+      narrative_available=False,
+      findings=[],
+    )
+
+  monkeypatch.setattr("policy_compare.api.generate_report", fake_report)
+  client = TestClient(app)
+  response = client.post(
+    "/report",
+    json={
+      "document_id": "DOC_x",
+      "jurisdiction": "IN",
+      "obligations": [],
+      "gaps": [],
+      "penalties": [],
+    },
+  )
+  assert response.status_code == 200
+  assert response.json()["narrative_available"] is False
+
+
+def test_report_pdf_returns_pdf_bytes() -> None:
+  client = TestClient(app)
+  response = client.post(
+    "/report.pdf",
+    json={
+      "document_id": "DOC_x",
+      "jurisdiction": "IN",
+      "applicable_laws": ["TINY"],
+      "generated_at": "2026-08-30T05:00:00Z",
+      "counts": {"covered": 0, "partial": 0, "missing": 1, "total": 1},
+      "narrative_available": False,
+      "findings": [
+        {
+          "obligation_id": "TINY_SECURE",
+          "title": "Secure personal data",
+          "act": "TINY",
+          "status": "missing",
+        }
+      ],
+      "penalties": [],
+    },
+  )
+  assert response.status_code == 200, response.text
+  assert response.headers["content-type"].startswith("application/pdf")
+  assert "polarislex-DOC_x.pdf" in response.headers.get("content-disposition", "")
+  assert response.content.startswith(b"%PDF")
+  assert b"TINY_SECURE" in response.content
+
+
 def test_analyze_503_when_search_backend_down(monkeypatch: object) -> None:
   monkeypatch.setenv("POLARIS_LAW_DIR", str(FIXTURE_DIR))  # type: ignore[attr-defined]
   from compliance.service import AnalyzeError

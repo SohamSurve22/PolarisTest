@@ -1,6 +1,6 @@
 # PolarisLex architecture (current state)
 
-PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act, and can **analyze** that policy for obligation gaps and linked penalties (India MVP). It does **not** yet generate LLM reports or traverse Neo4j obligations.
+PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act, can **analyze** that policy for obligation gaps and linked penalties, and can **write a client memo + PDF** from those findings (India MVP). It does **not** traverse Neo4j obligations.
 
 Packages are independently installable. Vector search and Neo4j do **not** import each other. The product UI does **not** use Neo4j Browser. The join for law overlay is the four `*_graph.json` files at the repo root.
 
@@ -193,12 +193,12 @@ docker compose up --build web api
 
 Analyze v1 does **not** traverse Neo4j. `semantic-graph dump-ir` still has no Obligation nodes. A later increment can join GraphIR obligations once they exist.
 
-The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star.
+The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. After analyze, `POST /report` assembles every duty into a client memo (Qwen writes only the summary and per-law notes). `POST /report.pdf` renders that JSON with ReportLab; download does not call the chat model again. If chat is down, the memo table and PDF still work (`narrative_available: false`).
 
 ## Not in this build
 
 - Neo4j obligation traversal (Phase 4 increment after GraphIR has Obligation nodes)
-- Report generation and a reports database (Phase 5)
+- Durable reports database (optional `POLARIS_REPORT_DIR` JSON only; no SQLite)
 - Hybrid graph+vector fusion at query time
 - LLM `retrieval_text` rewrite (Spec 4, parked)
 - Smarter overlay matching (embeddings / LLM labels / obligation graph) — parked in `plan.md` (“Later — smarter matching”)

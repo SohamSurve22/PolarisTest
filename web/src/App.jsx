@@ -33,6 +33,9 @@ export default function App() {
   const [result, setResult] = useState(null);
   const [analysis, setAnalysis] = useState(null);
   const [analysisError, setAnalysisError] = useState("");
+  const [report, setReport] = useState(null);
+  const [reportError, setReportError] = useState("");
+  const [reportBusy, setReportBusy] = useState(false);
   const [selected, setSelected] = useState(null);
   const [focusIdealId, setFocusIdealId] = useState(null);
   const [focusPolicyId, setFocusPolicyId] = useState(null);
@@ -75,6 +78,9 @@ export default function App() {
     setPanToken(0);
     setAnalysis(null);
     setAnalysisError("");
+    setReport(null);
+    setReportError("");
+    setReportBusy(false);
     const body = new FormData();
     body.append("file", chosen);
     try {
@@ -100,6 +106,27 @@ export default function App() {
           throw new Error(typeof detail === "string" ? detail : "Analyze failed");
         }
         setAnalysis(analyzePayload);
+        setBusy(false);
+        setReportBusy(true);
+        setReport(null);
+        setReportError("");
+        try {
+          const reportResponse = await fetch("/api/report", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(analyzePayload),
+          });
+          const reportPayload = await reportResponse.json();
+          if (!reportResponse.ok) {
+            const detail = reportPayload.detail;
+            throw new Error(typeof detail === "string" ? detail : "Report failed");
+          }
+          setReport(reportPayload);
+        } catch (reportErr) {
+          setReportError(reportErr.message);
+        } finally {
+          setReportBusy(false);
+        }
       } catch (analyzeErr) {
         setAnalysisError(analyzeErr.message);
       }
@@ -117,6 +144,9 @@ export default function App() {
     setResult(null);
     setAnalysis(null);
     setAnalysisError("");
+    setReport(null);
+    setReportError("");
+    setReportBusy(false);
     setSelected(null);
     setFocusIdealId(null);
     setFocusPolicyId(null);
@@ -219,6 +249,9 @@ export default function App() {
               busy={busy}
               selected={selected}
               onSelectFinding={selectFinding}
+              report={report}
+              reportError={reportError}
+              reportBusy={reportBusy}
             />
           </div>
         </>

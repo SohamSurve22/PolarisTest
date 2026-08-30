@@ -412,6 +412,11 @@ input[type="file"]::file-selector-button {
   background: var(--pane-highest);
 }
 
+.btn-secondary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 .btn-ghost {
   background: none;
   border: 0;
@@ -647,6 +652,93 @@ html[data-theme="light"] .tone-conflict {
   padding: 0 16px 10px;
   flex-shrink: 0;
   flex-wrap: wrap;
+}
+
+.report-panel {
+  margin: 0 16px 12px;
+  padding: 12px;
+  background: var(--pane-low);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.report-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.report-panel h3 {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.report-counts {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.report-summary {
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.report-law {
+  margin-top: 14px;
+}
+
+.report-law h4 {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.report-law-note {
+  font-size: 13px;
+  line-height: 1.4;
+  margin-bottom: 8px;
+  color: var(--muted);
+}
+
+.report-duty {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  gap: 8px;
+  padding: 8px 0;
+  border-top: 1px solid var(--border-soft);
+  align-items: start;
+}
+
+.report-duty-title {
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.report-duty-id {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.report-duty-clause {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.report-caveat {
+  margin-top: 10px;
+  font-size: 11px;
+  color: var(--muted);
 }
 
 .findings-filter {
