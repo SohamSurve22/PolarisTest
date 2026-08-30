@@ -1,0 +1,14 @@
+[
+  {
+    "id": "grievance_redressal",
+    "obligation_ids": ["DPDP_SEC_8_SUB_10", "SPDI_RULE_5_SUB_9"]
+  },
+  {
+    "id": "disclosure_consent",
+    "obligation_ids": ["SPDI_RULE_6_SUB_1", "SPDI_RULE_6_SUB_4"]
+  },
+  {
+    "id": "erasure_retention",
+    "obligation_ids": ["DPDP_SEC_8_SUB_7", "DPDP_SEC_8_SUB_8"]
+  }
+]

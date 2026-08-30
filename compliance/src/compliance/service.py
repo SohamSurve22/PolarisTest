@@ -14,13 +14,14 @@ from vectorization.sources import clause_from_entity
 
 from compliance.applicability import EntityProfile, apply_duty, default_entity_profile
 from compliance.classify import classify_duty
-from compliance.duty_rules import load_duty_rules, load_law_versions, resolve_duty_rule
+from compliance.duty_rules import load_duty_rules, load_equivalence_clusters, load_law_versions, resolve_duty_rule
 from compliance.explain import explain_finding
 from compliance.graph_scope import ir_from_paths, obligation_nodes, penalties_for
-from compliance.matching import PARTIAL_SCORE, collect_credits, gather_evidence
+from compliance.matching import PARTIAL_SCORE, actor_filtered_text, best_sentence, collect_credits, gather_evidence
 from compliance.models import (
   AnalysisResult,
   GapFinding,
+  MatchedClause,
   ObligationFinding,
   PenaltyFinding,
 )
@@ -29,8 +30,14 @@ from compliance.report import _weighted_pct
 
 SUPPORTED_JURISDICTIONS = frozenset({"IN", "INDIA", "IN-DPDP"})
 _GAP_STATUSES = frozenset({"missing", "partial", "undetermined", "conflict", "violation"})
-
-SearchFn = Callable[[str], list[SearchHit]]
+_ADVERSE_RANK = {
+  "violation": 5,
+  "conflict": 4,
+  "missing": 3,
+  "undetermined": 2,
+  "partial": 1,
+  "covered": 0,
+}
 
 SearchFn = Callable[[str], list[SearchHit]]
 
@@ -124,24 +131,23 @@ def analyze_document(
       evidence=evidence,
       rule=rule,
     )
-    row = ObligationFinding(
-      obligation_id=node.id,
-      title=title,
-      summary=summary,
-      act=act,
-      status=status,
-      score=evidence.score,
-      matched_clause_ids=[item.clause_id for item in evidence.matched_clauses],
-      matched_clauses=evidence.matched_clauses,
-      applicability_reason=decision.reason,
-      law_status=law_status,
-      confidence=confidence,
-      evidence_quality=evidence.quality,
-      elements=elements,
-      severity=rule.severity,
+    obligations.append(
+      _obligation_finding(
+        node_id=node.id,
+        title=title,
+        summary=summary,
+        act=act,
+        law_status=law_status,
+        applicability_reason=decision.reason,
+        rule=rule,
+        evidence=evidence,
+        status=status,
+        confidence=confidence,
+        elements=elements,
+      )
     )
-    row.reason = explain_finding(row, evidence)
-    obligations.append(row)
+
+  _reconcile_equivalent_duties(obligations, decisions, clauses, credited)
 
   gaps = [
     GapFinding(
@@ -178,6 +184,133 @@ def analyze_document(
     penalties=penalties,
     weighted_pct=_weighted_pct([row for row in obligations if row.status != "not_applicable"]),
   )
+
+
+def _obligation_finding(
+  *,
+  node_id: str,
+  title: str,
+  summary: str,
+  act: str,
+  law_status: str,
+  applicability_reason: str,
+  rule,
+  evidence,
+  status: str,
+  confidence: float,
+  elements,
+  extra_cues: list[str] | None = None,
+) -> ObligationFinding:
+  row = ObligationFinding(
+    obligation_id=node_id,
+    title=title,
+    summary=summary,
+    act=act,
+    status=status,
+    score=evidence.score,
+    matched_clause_ids=[item.clause_id for item in evidence.matched_clauses],
+    matched_clauses=evidence.matched_clauses,
+    counter_evidence=[
+      MatchedClause(
+        clause_id=item.clause_id,
+        section_title=item.section_title or "",
+        text=best_sentence(
+          actor_filtered_text(item.clause_text, rule) or item.clause_text,
+          rule,
+          extra_cues=extra_cues,
+        ),
+      )
+      for item in evidence.contradiction_clauses
+    ],
+    applicability_reason=applicability_reason,
+    law_status=law_status,
+    confidence=confidence,
+    evidence_quality=evidence.quality,
+    elements=elements,
+    severity=rule.severity,
+  )
+  row.reason = explain_finding(row, evidence)
+  return row
+
+
+def _union_credited(
+  credited: dict[str, list[tuple[Clause, float]]],
+  obligation_ids: list[str],
+) -> list[tuple[Clause, float]]:
+  by_id: dict[str, tuple[Clause, float]] = {}
+  for oid in obligation_ids:
+    for clause, score in credited.get(oid, []):
+      prev = by_id.get(clause.clause_id)
+      if prev is None or score > prev[1]:
+        by_id[clause.clause_id] = (clause, score)
+  return list(by_id.values())
+
+
+def _reconcile_equivalent_duties(
+  obligations: list[ObligationFinding],
+  decisions: dict,
+  clauses: list[Clause],
+  credited: dict[str, list[tuple[Clause, float]]],
+) -> None:
+  index = {row.obligation_id: i for i, row in enumerate(obligations)}
+  for cluster in load_equivalence_clusters():
+    members = [
+      oid
+      for oid in cluster.obligation_ids
+      if oid in index and obligations[index[oid]].status != "not_applicable"
+    ]
+    if len(members) < 2:
+      continue
+    if len({obligations[index[oid]].status for oid in members}) <= 1:
+      continue
+    extra_cues: list[str] = []
+    for oid in members:
+      extra_cues.extend(decisions[oid][3].contradiction_cues)
+    union = _union_credited(credited, members)
+    rebuilt: list[ObligationFinding] = []
+    for oid in members:
+      row = obligations[index[oid]]
+      _decision, law_status, act, rule = decisions[oid]
+      evidence = gather_evidence(
+        oid,
+        row.title,
+        rule,
+        clauses,
+        union,
+        extra_cues=extra_cues,
+      )
+      status, confidence, elements = classify_duty(
+        applicable=True,
+        evidence=evidence,
+        rule=rule,
+      )
+      rebuilt.append(
+        _obligation_finding(
+          node_id=oid,
+          title=row.title,
+          summary=row.summary,
+          act=act,
+          law_status=law_status,
+          applicability_reason=row.applicability_reason,
+          rule=rule,
+          evidence=evidence,
+          status=status,
+          confidence=confidence,
+          elements=elements,
+          extra_cues=extra_cues,
+        )
+      )
+    if len({item.status for item in rebuilt}) > 1:
+      worst = max(rebuilt, key=lambda item: _ADVERSE_RANK.get(item.status, 0))
+      for item in rebuilt:
+        if item.status != worst.status:
+          item.status = worst.status
+          item.counter_evidence = worst.counter_evidence
+          item.matched_clauses = worst.matched_clauses
+          item.matched_clause_ids = worst.matched_clause_ids
+          item.reason = explain_finding(item)
+    for item in rebuilt:
+      obligations[index[item.obligation_id]] = item
 
 
 def _policy_clauses(document: EntityDocument) -> list[Clause]:

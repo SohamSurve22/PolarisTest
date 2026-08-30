@@ -197,6 +197,13 @@ function AnalysisPanel({ analysis, analysisError }) {
     );
   }
   const covered = analysis.obligations.filter((row) => row.status === "covered").length;
+  const violation = analysis.obligations.filter((row) => row.status === "violation").length;
+  const conflict = analysis.obligations.filter((row) => row.status === "conflict").length;
+  const applicable = analysis.obligations.filter((row) => row.status !== "not_applicable").length;
+  const mix =
+    violation + conflict > 0
+      ? `${violation} violation · ${conflict} conflict · ${covered}/${applicable} applicable covered`
+      : `${covered}/${applicable} applicable covered · ${analysis.gaps.length} gaps`;
   return (
     <section>
       <h3 className="inspector-section-title">Analysis</h3>
@@ -204,14 +211,22 @@ function AnalysisPanel({ analysis, analysisError }) {
         {analysis.jurisdiction}
         {analysis.applicable_laws?.length ? ` · ${analysis.applicable_laws.join(", ")}` : ""}
       </p>
-      <p className="inspector-copy muted">
-        {covered}/{analysis.obligations.length} obligations covered · {analysis.gaps.length} gaps
-      </p>
+      <p className="inspector-copy muted">{mix}</p>
       {analysis.gaps?.length ? (
         <ul className="analysis-list">
           {analysis.gaps.map((gap) => (
             <li key={gap.obligation_id}>
-              <span className={`mono-badge badge-${gap.status === "partial" ? "partial" : "missing"}`}>
+              <span
+                className={`mono-badge badge-${
+                  gap.status === "partial"
+                    ? "partial"
+                    : gap.status === "violation"
+                      ? "violation"
+                      : gap.status === "conflict"
+                        ? "conflict"
+                        : "missing"
+                }`}
+              >
                 {gap.status.toUpperCase()}
               </span>{" "}
               {gap.act ? `${gap.act} · ` : ""}

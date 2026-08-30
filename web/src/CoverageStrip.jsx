@@ -67,10 +67,19 @@ function engineCards(summary, analysis) {
   const partial = obligations.filter((row) => row.status === "partial").length;
   const missing = obligations.filter((row) => row.status === "missing").length;
   const na = obligations.filter((row) => row.status === "not_applicable").length;
+  const violation = obligations.filter((row) => row.status === "violation").length;
+  const conflict = obligations.filter((row) => row.status === "conflict").length;
+  const undetermined = obligations.filter((row) => row.status === "undetermined").length;
+  const catalog = obligations.length;
   const total = applicable.length;
   const coverage = total > 0 ? ((covered / total) * 100).toFixed(1) : "0.0";
   const weighted = analysis.weighted_pct;
-  const gaps = analysis.gaps?.length ?? partial + missing;
+  const gaps = analysis.gaps?.length ?? partial + missing + violation + conflict + undetermined;
+  const adverse = violation + conflict;
+  const coverageHint =
+    adverse > 0
+      ? `${violation} violation + ${conflict} conflict among ${total} applicable (${na} N/A of ${catalog} catalog)`
+      : `${covered}/${total} applicable (${na} N/A of ${catalog} catalog)`;
   return [
     {
       key: "nodes",
@@ -86,10 +95,10 @@ function engineCards(summary, analysis) {
     },
     {
       key: "coverage",
-      label: "Coverage",
-      value: `${coverage}%`,
-      hint: `${covered}/${total} applicable duties`,
-      tone: "primary",
+      label: adverse > 0 ? "Adverse" : "Coverage",
+      value: adverse > 0 ? fmt(adverse) : `${coverage}%`,
+      hint: coverageHint,
+      tone: adverse > 0 ? "error" : "primary",
     },
     {
       key: "weighted",
@@ -97,6 +106,22 @@ function engineCards(summary, analysis) {
       value: `${weighted != null ? Number(weighted).toFixed(1) : coverage}%`,
       hint: "Severity-weighted applicable coverage",
       tone: "primary",
+    },
+    {
+      key: "violation",
+      label: "Violations",
+      value: fmt(violation),
+      hint: "Adverse policy language",
+      tone: "error",
+      icon: "report",
+    },
+    {
+      key: "conflict",
+      label: "Conflict",
+      value: fmt(conflict),
+      hint: "Supportive clause and a contradiction cue",
+      tone: "conflict",
+      icon: "warning",
     },
     {
       key: "correct",
@@ -126,13 +151,13 @@ function engineCards(summary, analysis) {
       key: "na",
       label: "N/A",
       value: fmt(na),
-      hint: "Not applicable to this document",
+      hint: `${na} not applicable of ${catalog} catalog duties`,
     },
     {
       key: "gaps",
       label: "Gaps",
       value: fmt(gaps),
-      hint: "Partial + missing + other gaps",
+      hint: "Partial + missing + violation + conflict",
       tone: "error",
       icon: "report",
     },

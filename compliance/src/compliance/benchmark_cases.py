@@ -20,6 +20,14 @@ FAIL_TEXTS = [
   "We do not encrypt personal data and we do not implement security safeguards.",
   "We do not notify anyone of a breach. We will not report a breach.",
   "We track children for targeted advertising.",
+  "Once provided, consent cannot be withdrawn. By using the Services, you provide broad, continuing and irrevocable consent.",
+  "QuickBazaar may deny a request to delete, erase, anonymise, correct, access, retrieve or otherwise manage Personal Data under all circumstances. Personal Data may be retained indefinitely, permanently or for unspecified future purposes.",
+  "QuickBazaar does not provide a dedicated privacy grievance officer, Data Protection Officer, complaint portal, telephone line, postal channel, email address or other grievance redressal mechanism.",
+  "QuickBazaar may collect, use, disclose, profile, retain and otherwise process Personal Data relating to children without obtaining verifiable consent from a parent or lawful guardian and without applying any additional safeguards.",
+  "Notwithstanding anything else in this Privacy Policy, users waive all privacy-related rights, claims, requests and remedies simply by accessing or using the Services.",
+  "QuickBazaar may sell, rent, license, exchange, monetise or otherwise commercially exploit Personal Data.",
+  "QuickBazaar may transfer Personal Data to any country without regard to restrictions, prohibitions, conditions or requirements imposed under Applicable Indian Law.",
+  "QuickBazaar accepts no responsibility or liability for any security incident, data breach, unauthorised access, loss, disclosure or misuse caused by the acts or omissions of its employees, agents, contractors or service providers.",
 ]
 PARTIAL_TEXTS = [
   "We obtain consent for some processing activities.",

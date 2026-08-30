@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { countsBanner } from "./countsBanner";
+import { primaryMatch } from "./closestCitation";
 
 const NARRATIVE_UNAVAILABLE = "Narrative unavailable. The table below is from automated analysis only.";
 
@@ -12,26 +14,25 @@ const BADGE = {
   conflict: "badge-conflict",
 };
 
-function clip(text, limit = 180) {
-  const value = String(text || "").replace(/\s+/g, " ").trim();
-  if (value.length <= limit) {
-    return value;
-  }
-  return `${value.slice(0, limit).trim()}…`;
-}
-
 function closest(row) {
-  if (row.evidence_quality === "NO_RELIABLE_MATCH") {
-    return { heading: "No reliable evidence found", text: "" };
+  const first = primaryMatch(row);
+  if (!first) {
+    return {
+      heading: row.evidence_quality === "NO_RELIABLE_MATCH" ? "No reliable evidence found" : "No matching clause",
+      text: "",
+      counter: "",
+    };
   }
-  const matches = row.matched_clauses || [];
-  if (!matches.length) {
-    return { heading: "No matching clause", text: "" };
-  }
-  const first = matches[0];
+  const extra =
+    row.status === "violation" || row.status === "conflict"
+      ? ""
+      : (row.counter_evidence || [])[0] && (row.counter_evidence || [])[0] !== first
+        ? (row.counter_evidence || [])[0].text || ""
+        : "";
   return {
     heading: first.section_title || first.clause_id || "Clause",
-    text: clip(first.text),
+    text: first.text || "",
+    counter: extra,
   };
 }
 
@@ -67,6 +68,7 @@ function groupFindings(report) {
   const findings = report.findings || [];
   const laws = [...(report.applicable_laws || [])];
   const byAct = new Map();
+  const rank = { violation: 0, conflict: 1, missing: 2, undetermined: 3, partial: 4, covered: 5, not_applicable: 6 };
   for (const row of findings) {
     const act = row.act || "Other";
     if (!byAct.has(act)) {
@@ -78,6 +80,7 @@ function groupFindings(report) {
     if (!laws.includes(act)) {
       laws.push(act);
     }
+    byAct.get(act).sort((a, b) => (rank[a.status] ?? 9) - (rank[b.status] ?? 9));
   }
   const notes = Object.fromEntries((report.law_notes || []).map((item) => [item.act, item.note]));
   return laws.map((act) => ({
@@ -146,6 +149,7 @@ export default function ReportPanel({ report, reportError, busy }) {
         <h3>Report</h3>
       </div>
       {displaySourceName(report) ? <p className="report-file">{displaySourceName(report)}</p> : null}
+      {report.counts ? <p className="report-counts">{countsBanner(report.counts)}</p> : null}
       <p className="report-summary">{summary}</p>
       {gaps.length ? (
         <section className="report-gaps" aria-label="Priority gaps">
@@ -181,6 +185,9 @@ export default function ReportPanel({ report, reportError, busy }) {
                     {match.heading}
                     {match.text ? ` — ${match.text}` : ""}
                   </p>
+                  {match.counter ? (
+                    <p className="report-duty-counter">Counter-evidence: {match.counter}</p>
+                  ) : null}
                 </div>
               </div>
             );

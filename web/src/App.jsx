@@ -232,6 +232,7 @@ export default function App() {
       <PageHead
         fileName={file?.name}
         workspace={workspace}
+        analysis={analysis}
         onLoadPolicy={() => {
           setError("");
           setLoadOpen(true);

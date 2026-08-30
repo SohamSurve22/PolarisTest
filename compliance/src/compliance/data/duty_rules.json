@@ -29,7 +29,11 @@
     ],
     "severity": "critical",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "irrevocable consent",
+      "consent cannot be withdrawn",
+      "waive all privacy-related rights"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -178,7 +182,11 @@
     ],
     "severity": "critical",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "irrevocable consent",
+      "consent cannot be withdrawn",
+      "waive all privacy-related rights"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -305,7 +313,12 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "consent cannot be withdrawn",
+      "irrevocable consent",
+      "will not revoke consent",
+      "waive all privacy-related rights"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -345,7 +358,12 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "consent cannot be withdrawn",
+      "irrevocable consent",
+      "will not revoke consent",
+      "waive all privacy-related rights"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -490,7 +508,10 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "accepts no responsibility or liability",
+      "no responsibility or liability for any security incident"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -697,7 +718,9 @@
     "contradiction_cues": [
       "do not implement security",
       "no security safeguards",
-      "we do not encrypt"
+      "we do not encrypt",
+      "accepts no responsibility or liability for any security incident",
+      "no responsibility or liability for any security incident"
     ],
     "generic_phrases": [
       "applicable law",
@@ -741,7 +764,8 @@
     "exact_terms": [],
     "contradiction_cues": [
       "we do not notify",
-      "we will not report a breach"
+      "we will not report a breach",
+      "only where it considers notification appropriate"
     ],
     "generic_phrases": [
       "applicable law",
@@ -782,7 +806,15 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "denied under all circumstances",
+      "deny a request to delete",
+      "retain indefinitely",
+      "retained indefinitely",
+      "retain permanently",
+      "retained permanently",
+      "waive all privacy-related rights"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -821,7 +853,14 @@
     ],
     "severity": "medium",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "denied under all circumstances",
+      "deny a request to delete",
+      "retain indefinitely",
+      "retained indefinitely",
+      "retain permanently",
+      "retained permanently"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -860,7 +899,11 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "does not provide a dedicated privacy grievance",
+      "does not provide a dedicated privacy grievance officer",
+      "no dedicated privacy grievance"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -899,7 +942,11 @@
     ],
     "severity": "critical",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "without obtaining verifiable consent",
+      "without obtaining verifiable consent from a parent",
+      "without applying any additional safeguards"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -938,7 +985,11 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "without obtaining verifiable consent",
+      "without applying any additional safeguards",
+      "advertising, targeted marketing"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -979,7 +1030,9 @@
     "exact_terms": [],
     "contradiction_cues": [
       "we track children",
-      "targeted advertising to children"
+      "targeted advertising to children",
+      "without obtaining verifiable consent",
+      "without applying any additional safeguards"
     ],
     "generic_phrases": [
       "applicable law",
@@ -1075,7 +1128,11 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "without regard to restrictions",
+      "without regard to restrictions, prohibitions, conditions",
+      "unrestricted transfer"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -1471,7 +1528,11 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "sell, rent, license, exchange, monetise",
+      "sell, rent, license",
+      "monetise or otherwise commercially exploit"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -1501,7 +1562,11 @@
     ],
     "severity": "medium",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "sell, rent, license, exchange, monetise",
+      "sell, rent, license",
+      "monetise or otherwise commercially exploit"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -1531,7 +1596,10 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "without regard to restrictions",
+      "without regard to restrictions, prohibitions, conditions"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",
@@ -2187,7 +2255,11 @@
     ],
     "severity": "high",
     "exact_terms": [],
-    "contradiction_cues": [],
+    "contradiction_cues": [
+      "accepts no responsibility or liability",
+      "no responsibility or liability for any security incident",
+      "no responsibility or liability for any security incident, data breach"
+    ],
     "generic_phrases": [
       "applicable law",
       "as required by law",

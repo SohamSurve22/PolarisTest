@@ -45,6 +45,18 @@ def test_dpdp_security_has_encryption_access_logging_elements() -> None:
   assert "log" in labels
 
 
+def test_quickbazaar_contradiction_cues_cover_fail_policy_phrases() -> None:
+  rules = load_duty_rules()
+  assert "consent cannot be withdrawn" in rules["DPDP_SEC_6_SUB_5"].contradiction_cues
+  assert "deny a request to delete" in rules["DPDP_SEC_8_SUB_7"].contradiction_cues
+  assert any("dedicated privacy grievance" in cue for cue in rules["DPDP_SEC_8_SUB_10"].contradiction_cues)
+  assert any("verifiable consent" in cue for cue in rules["DPDP_SEC_9_SUB_1"].contradiction_cues)
+  assert any("waive all privacy-related rights" in cue for cue in rules["DPDP_SEC_6_SUB_5"].contradiction_cues)
+  assert any("sell, rent, license" in cue for cue in rules["SPDI_RULE_6_SUB_1"].contradiction_cues)
+  assert any("without regard to restrictions" in cue for cue in rules["DPDP_SEC_16_SUB_1"].contradiction_cues)
+  assert any("no responsibility" in cue for cue in rules["ITACT_SEC_43A"].contradiction_cues)
+
+
 def test_itact_sec_30_is_certifying_authority_only() -> None:
   rule = load_duty_rules()["ITACT_SEC_30"]
   assert rule.roles_any == ["ENTITY_CERTIFYING_AUTHORITY"]
@@ -65,3 +77,10 @@ def test_missing_rule_without_catalog_roles_defaults_to_data_fiduciary() -> None
   rule = resolve_duty_rule("TINY_UNKNOWN", rules={}, catalog_roles=())
   assert rule.roles_any == ["ENTITY_DATA_FIDUCIARY"]
   assert rule.document_types == ["privacy_policy"]
+  assert rule.bound_actor == "fiduciary"
+
+
+def test_catalog_duties_default_bound_actor_fiduciary() -> None:
+  rules = load_duty_rules()
+  assert rules["SPDI_RULE_6_SUB_1"].bound_actor == "fiduciary"
+  assert rules["DPDP_SEC_9_SUB_3"].bound_actor == "fiduciary"

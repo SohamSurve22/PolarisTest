@@ -18,7 +18,7 @@ from fastapi.responses import Response
 
 from compliance.models import AnalysisResult, ComplianceReport
 from compliance.pdf import pdf_download_name, render_pdf
-from compliance.report import generate_report
+from compliance.report import ReportError, generate_report
 from compliance.service import AnalyzeError, analyze_document
 from policy_compare.service import compare_document, default_law_paths
 
@@ -137,7 +137,10 @@ async def analyze(
 
 @app.post("/report")
 def report(body: AnalysisResult) -> dict:
-  return generate_report(body).model_dump()
+  try:
+    return generate_report(body).model_dump()
+  except ReportError as exc:
+    raise HTTPException(status_code=500, detail=str(exc)) from exc
 
 
 @app.post("/report.pdf")

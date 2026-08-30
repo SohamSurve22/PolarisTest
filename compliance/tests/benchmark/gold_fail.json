@@ -1,6 +1,16 @@
 {
   "name": "FAIL",
-  "min_violation": 1,
-  "violation_ids": ["DPDP_SEC_8_SUB_5", "DPDP_SEC_8_SUB_6", "DPDP_SEC_9_SUB_3"],
+  "min_violation": 5,
+  "violation_ids": [
+    "DPDP_SEC_8_SUB_5",
+    "DPDP_SEC_8_SUB_6",
+    "DPDP_SEC_9_SUB_3",
+    "DPDP_SEC_6_SUB_5",
+    "DPDP_SEC_8_SUB_7",
+    "DPDP_SEC_8_SUB_10",
+    "DPDP_SEC_9_SUB_1",
+    "DPDP_SEC_16_SUB_1",
+    "ITACT_SEC_43A"
+  ],
   "not_all_gaps_are_violations": true
 }

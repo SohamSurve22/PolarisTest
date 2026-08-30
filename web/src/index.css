@@ -728,6 +728,13 @@ html[data-theme="light"] .tone-conflict {
   margin-bottom: 8px;
 }
 
+.report-counts {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12px;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
 .report-summary {
   font-size: 14px;
   line-height: 1.45;
@@ -803,6 +810,13 @@ html[data-theme="light"] .tone-conflict {
   font-size: 12px;
   line-height: 1.4;
   color: var(--muted);
+  margin-top: 4px;
+}
+
+.report-duty-counter {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--error, #b42318);
   margin-top: 4px;
 }
 
@@ -944,6 +958,10 @@ html[data-theme="light"] .tone-conflict {
   color: var(--covered);
 }
 
+.findings-elements .el-contra {
+  color: var(--error, #b42318);
+}
+
 .findings-elements .el-no {
   color: var(--muted);
 }
@@ -957,6 +975,14 @@ html[data-theme="light"] .tone-conflict {
 .findings-why {
   margin-top: 4px;
   color: var(--muted);
+  white-space: pre-wrap;
+}
+
+.findings-counter {
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--error, #b42318);
+}
   line-height: 1.4;
 }
 

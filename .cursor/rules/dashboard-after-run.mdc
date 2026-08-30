@@ -1,0 +1,26 @@
+---
+description: After every analyze or engine change, refresh Graph Validation from AnalysisResult
+alwaysApply: true
+---
+
+# Validation dashboard after every run
+
+After `/analyze`, `analyze_document`, matching/classify/report changes, or **Run Validation**:
+
+1. **Scoreboard source is `AnalysisResult`.** `CoverageStrip`, `PageHead`, `Inspector`, and `Findings` must use obligation statuses. Overlay topic counts (`summary.covered` / keyword compare) are not the Validation mix.
+2. **`PageHead` version** is `engine` when `analysis` is set. Never leave `Version: overlay` hardcoded after a successful analyze.
+3. **When `violation + conflict > 0`**, Adverse is that sum. Show a Conflict card. Do not headline “N covered” or “Coverage 80%”. Name both denominators: applicable duties and catalog (63). Live Fail_Policy.pdf is **8 violation + 10 conflict = 18 adverse**, not 18 violation / 0 covered (that mix is frozen FAIL_TEXTS with stub search).
+4. **Stale process.** Restart the API that serves `POST /analyze` and refresh `web/` (Vite/Docker) so the strip is not an old bundle. Evidence-grounding Fail_Policy is **not** 36 covered / 8 partial / 1 missing.
+5. **Verify** strip counts against `analyze_document` (covered, partial, missing, violation, conflict, N/A). PASS: `DPDP_SEC_8_SUB_5` not missing, CA duties N/A, 0 violations.
+
+```jsx
+// BAD — overlay leftover after analyze
+<span>Version: overlay</span>
+hint={`${covered}/${total} applicable duties`}  // when violation > 0
+
+// GOOD
+<span>Version: {analysis ? "engine" : "overlay"}</span>
+adverse > 0
+  ? `${violation} violation + ${conflict} conflict among ${total} applicable`
+  : `${covered}/${total} applicable`
+```

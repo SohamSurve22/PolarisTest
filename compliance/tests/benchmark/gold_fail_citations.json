@@ -1,0 +1,389 @@
+{
+  "name": "FAIL_CITATIONS",
+  "applicable_identity": {
+    "covered": 15,
+    "partial": 9,
+    "missing": 2,
+    "violation": 6,
+    "conflict": 13,
+    "not_applicable": 18,
+    "total": 45,
+    "catalog": 63
+  },
+  "duties": {
+    "DPDP_SEC_4_SUB_1": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "DPDP_SEC_5_SUB_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_5_SUB_2": {
+      "status": [
+        "partial"
+      ]
+    },
+    "DPDP_SEC_5_SUB_3": {
+      "status": [
+        "partial"
+      ]
+    },
+    "DPDP_SEC_6_SUB_1": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "DPDP_SEC_6_SUB_2": {
+      "status": [
+        "missing"
+      ]
+    },
+    "DPDP_SEC_6_SUB_3": {
+      "status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_6_SUB_5": {
+      "status": [
+        "violation"
+      ],
+      "citation_must_include": [
+        "cannot be withdrawn"
+      ]
+    },
+    "DPDP_SEC_6_SUB_6": {
+      "status": [
+        "violation"
+      ]
+    },
+    "DPDP_SEC_6_SUB_7": {
+      "status": [
+        "partial"
+      ]
+    },
+    "DPDP_SEC_6_SUB_8": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "DPDP_SEC_6_SUB_10": {
+      "status": [
+        "partial"
+      ]
+    },
+    "DPDP_SEC_7": {
+      "status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_8_SUB_1": {
+      "status": [
+        "violation"
+      ]
+    },
+    "DPDP_SEC_8_SUB_2": {
+      "status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_8_SUB_3": {
+      "status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_8_SUB_4": {
+      "status": [
+        "partial"
+      ]
+    },
+    "DPDP_SEC_8_SUB_5": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "DPDP_SEC_8_SUB_6": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_8_SUB_7": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_8_SUB_8": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "DPDP_SEC_8_SUB_10": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "citation_must_include": [
+        "dedicated privacy grievance"
+      ],
+      "citation_must_not": [
+        "Accuracy and User Responsibilities",
+        "Purposes of Processing"
+      ]
+    },
+    "DPDP_SEC_9_SUB_1": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_9_SUB_2": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_9_SUB_3": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "citation_must_include_any": [
+        "advertising, targeted marketing, profiling",
+        "without obtaining verifiable consent"
+      ],
+      "citation_must_not": [
+        "Parents are responsible",
+        "Parents and guardians are responsible"
+      ]
+    },
+    "DPDP_SEC_10_SUB_2": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "DPDP_SEC_15": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "DPDP_SEC_16_SUB_1": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "DPDP_SEC_16_SUB_2": {
+      "status": [
+        "partial"
+      ]
+    },
+    "SPDI_RULE_4_SUB_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_2": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_3": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_4": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_5": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_8": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_5_SUB_9": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "citation_must_include": [
+        "dedicated privacy grievance"
+      ],
+      "citation_must_not": [
+        "Accuracy and User Responsibilities",
+        "Purposes of Processing"
+      ]
+    },
+    "SPDI_RULE_6_SUB_1": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "citation_must_include": [
+        "sell"
+      ],
+      "citation_must_not": [
+        "Accuracy and User Responsibilities"
+      ]
+    },
+    "SPDI_RULE_6_SUB_4": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "SPDI_RULE_7": {
+      "status": [
+        "conflict"
+      ]
+    },
+    "SPDI_RULE_8_SUB_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "SPDI_RULE_8_SUB_2": {
+      "status": [
+        "missing"
+      ]
+    },
+    "SPDI_RULE_8_SUB_4": {
+      "status": [
+        "partial"
+      ]
+    },
+    "CERTIN_DIR_1": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "CERTIN_DIR_2": {
+      "status": [
+        "partial"
+      ]
+    },
+    "CERTIN_DIR_3": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "CERTIN_DIR_4": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "CERTIN_DIR_5": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "CERTIN_DIR_6": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "CERTIN_ANNEXURE_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "CERTIN_ANNEXURE_3": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_7_SUB_1": {
+      "status": [
+        "covered"
+      ]
+    },
+    "ITACT_SEC_7A": {
+      "status": [
+        "partial"
+      ]
+    },
+    "ITACT_SEC_15": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_30": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_34": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_42_SUB_1": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_42_SUB_2": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_43A": {
+      "status": [
+        "violation",
+        "conflict"
+      ],
+      "forbidden_status": [
+        "covered"
+      ]
+    },
+    "ITACT_SEC_67C": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_26": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_70_SUB_4": {
+      "status": [
+        "not_applicable"
+      ]
+    },
+    "ITACT_SEC_70B_SUB_6": {
+      "status": [
+        "not_applicable"
+      ]
+    }
+  }
+}

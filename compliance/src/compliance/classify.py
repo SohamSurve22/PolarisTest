@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
-from compliance.duty_rules import DutyRule
-from compliance.matching import EvidenceBundle
+from compliance.duty_rules import DutyRule, RequirementElementSpec
+from compliance.matching import EvidenceBundle, clause_has_denial_polarity, _norm
 from compliance.models import ObligationStatus, RequirementElementFinding
 
 ELEMENT_COVERED_RATIO = 0.60
@@ -19,17 +19,18 @@ def classify_duty(
     RequirementElementFinding(
       id=spec.id,
       label=spec.label,
+      result=_element_result(spec, evidence),
       satisfied=spec.id in evidence.element_hits,
     )
     for spec in rule.requirement_elements
   ]
+  for item in elements:
+    item.satisfied = item.result == "supported"
   if not applicable:
     return "not_applicable", 1.0, elements
 
-  blob = " ".join(evidence.expanded_texts).lower()
-  if _contradiction(blob, rule.contradiction_cues):
-    positive = any(item.satisfied for item in elements) or evidence.title_overlap
-    if positive and _has_positive_clause(evidence, rule):
+  if _material_contradiction(evidence, rule):
+    if evidence.has_credited_support and _has_positive_clause(evidence, rule):
       return "conflict", 0.7, elements
     return "violation", 0.9, elements
 
@@ -55,21 +56,68 @@ def classify_duty(
   return "missing", 0.8, elements
 
 
+def _element_result(spec: RequirementElementSpec, evidence: EvidenceBundle) -> str:
+  if spec.id in evidence.element_hits:
+    return "supported"
+  blob = _norm(" ".join(item.clause_text for item in evidence.contradiction_clauses))
+  if blob and any(_norm(keyword) in blob for keyword in spec.keywords if keyword):
+    return "contradicted"
+  return "absent"
+
+
+def _material_contradiction(evidence: EvidenceBundle, rule: DutyRule) -> bool:
+  if evidence.contradiction_clauses:
+    return True
+  blob = " ".join(evidence.expanded_texts).lower()
+  return _contradiction(blob, rule.contradiction_cues)
+
+
 def _contradiction(blob: str, cues: list[str]) -> bool:
-  return any(cue.lower() in blob for cue in cues if cue)
+  lowered = _norm(blob) if blob else ""
+  return any(_norm(cue) in lowered for cue in cues if cue)
+
+
+_WEAK_ALONE = frozenset({"contact", "officer", "email", "dpo"})
+
+
+def _keyword_hits(text: str, keywords: list[str]) -> list[str]:
+  lowered = text.lower()
+  return [keyword for keyword in keywords if keyword in lowered]
+
+
+def _has_keyword_support(text: str, keywords: list[str]) -> bool:
+  hits = set(_keyword_hits(text, keywords))
+  if not hits:
+    return False
+  if hits <= _WEAK_ALONE:
+    return False
+  return True
 
 
 def _has_positive_clause(evidence: EvidenceBundle, rule: DutyRule) -> bool:
+  cues = [cue.lower() for cue in rule.contradiction_cues if cue]
+  keywords = [keyword.lower() for spec in rule.requirement_elements for keyword in spec.keywords if keyword]
+  cue_ids = {item.clause_id for item in evidence.contradiction_clauses}
+  if evidence.matched_clauses:
+    for item in evidence.matched_clauses:
+      if item.clause_id in cue_ids:
+        continue
+      lowered = item.text.lower()
+      if any(cue in lowered for cue in cues):
+        continue
+      if clause_has_denial_polarity(item.text, rule):
+        continue
+      if _has_keyword_support(lowered, keywords):
+        return True
+    return False
   if len(evidence.expanded_texts) < 2:
     return False
-  cues = [cue.lower() for cue in rule.contradiction_cues if cue]
-  keywords = [kw.lower() for spec in rule.requirement_elements for keyword in spec.keywords if keyword]
   has_cue = False
   has_pos = False
   for text in evidence.expanded_texts:
     lowered = text.lower()
     if any(cue in lowered for cue in cues):
       has_cue = True
-    if any(keyword in lowered for keyword in keywords):
+    elif _has_keyword_support(lowered, keywords) and not clause_has_denial_polarity(text, rule):
       has_pos = True
   return has_cue and has_pos

@@ -13,6 +13,7 @@ _DATA = Path(__file__).parent / "data"
 
 Severity = Literal["critical", "high", "medium", "low"]
 LawStatus = Literal["ACTIVE", "PARTIALLY_COMMENCED", "REPEALED", "SUPERSEDED", "HISTORICAL"]
+BoundActor = Literal["fiduciary", "user"]
 
 
 class RequirementElementSpec(BaseModel):
@@ -29,6 +30,7 @@ class DutyRule(BaseModel):
   exact_terms: list[str] = Field(default_factory=list)
   contradiction_cues: list[str] = Field(default_factory=list)
   generic_phrases: list[str] = Field(default_factory=list)
+  bound_actor: BoundActor = "fiduciary"
 
 
 class LawVersionMeta(BaseModel):
@@ -51,6 +53,18 @@ def load_law_versions(path: Path | None = None) -> dict[str, LawVersionMeta]:
   payload = (path or _data_path("law_versions.json")).read_text(encoding="utf-8")
   raw = json.loads(payload)
   return {act: LawVersionMeta.model_validate(row) for act, row in raw.items()}
+
+
+class EquivalenceCluster(BaseModel):
+  id: str
+  obligation_ids: list[str] = Field(default_factory=list)
+
+
+@lru_cache(maxsize=1)
+def load_equivalence_clusters(path: Path | None = None) -> tuple[EquivalenceCluster, ...]:
+  payload = (path or _data_path("duty_equivalence.json")).read_text(encoding="utf-8")
+  raw = json.loads(payload)
+  return tuple(EquivalenceCluster.model_validate(row) for row in raw)
 
 
 @lru_cache(maxsize=1)

@@ -15,3 +15,5 @@ Optional live marker (skipped unless Qdrant is up):
 ```bash
 ../.venv/bin/python -m pytest tests/test_benchmark.py -m live
 ```
+
+Live `Fail_Policy.pdf` (QuickBazaar) must mark withdrawal, erasure, grievance, and children duties `violation` or `conflict`, and must not mark `DPDP_SEC_8_SUB_5` `covered`. Per-duty citations: `gold_fail_citations.json`.

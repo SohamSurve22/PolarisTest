@@ -37,9 +37,13 @@ class MatchedClause(BaseModel):
   text: str = ""
 
 
+ElementResult = Literal["supported", "contradicted", "absent"]
+
+
 class RequirementElementFinding(BaseModel):
   id: str
   label: str
+  result: ElementResult = "absent"
   satisfied: bool = False
 
 
@@ -52,6 +56,7 @@ class ObligationFinding(BaseModel):
   score: float = 0.0
   matched_clause_ids: list[str] = Field(default_factory=list)
   matched_clauses: list[MatchedClause] = Field(default_factory=list)
+  counter_evidence: list[MatchedClause] = Field(default_factory=list)
   applicability_reason: str = ""
   law_status: str = ""
   confidence: float = 0.0

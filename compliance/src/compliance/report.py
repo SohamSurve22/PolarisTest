@@ -37,6 +37,7 @@ from covered titles, then remaining gap topics. Do not quote covered/partial/mis
 
 THEME_LIMIT = 3
 PRIORITY_GAPS_CAP = 5
+INDIA_CATALOG_N = 63
 _FRAMEWORK = re.compile(r"the compliance framework|compliance framework", re.IGNORECASE)
 _HOWEVER = re.compile(r"^however,?\s+", re.IGNORECASE)
 _SENTENCE = re.compile(r"(?<=[.!?])\s+")
@@ -69,13 +70,61 @@ def verdict_sentence(act: str, counts: ReportCounts) -> str:
   return f"{act}: {counts.covered} covered, {counts.partial} partial, {counts.missing} missing."
 
 
-def scoreboard_sentence(counts: ReportCounts) -> str:
-  return (
-    f"This policy covers {counts.covered} of {counts.total} applicable duties, "
-    f"with {counts.partial} partial, {counts.missing} missing, "
-    f"{counts.undetermined} undetermined. {counts.not_applicable} duties were not applicable. "
+def counts_banner(counts: ReportCounts) -> str:
+  parts = [
+    f"Covered {counts.covered}",
+    f"Partial {counts.partial}",
+    f"Missing {counts.missing}",
+    f"Violation {counts.violation}",
+    f"Conflict {counts.conflict}",
+    f"N/A {counts.not_applicable}",
+  ]
+  if counts.undetermined:
+    parts.append(f"Undetermined {counts.undetermined}")
+  return " · ".join(parts)
+
+
+def scoreboard_sentence(counts: ReportCounts, catalog_n: int | None = None) -> str:
+  catalog = catalog_n if catalog_n is not None else counts.total + counts.not_applicable
+  denom = (
+    f"{counts.not_applicable} not applicable of {catalog} catalog duties. "
     "Missing policy language is not a finding of legal violation."
   )
+  mix = (
+    f"{counts.partial} partial, {counts.missing} missing, "
+    f"{counts.undetermined} undetermined, {counts.violation} violation(s), "
+    f"{counts.conflict} conflict"
+  )
+  if counts.violation > 0:
+    return (
+      f"This policy has {counts.violation} violation(s) among {counts.total} applicable duties, "
+      f"{counts.covered} covered, {counts.partial} partial, {counts.missing} missing, "
+      f"{counts.undetermined} undetermined, {counts.conflict} conflict. {denom}"
+    )
+  return (
+    f"This policy covers {counts.covered} of {counts.total} applicable duties, "
+    f"with {mix}. {denom}"
+  )
+
+
+def assert_counts_reconcile(counts: ReportCounts, catalog_n: int = INDIA_CATALOG_N) -> None:
+  mix = (
+    counts.covered
+    + counts.partial
+    + counts.missing
+    + counts.undetermined
+    + counts.conflict
+    + counts.violation
+  )
+  if mix != counts.total:
+    raise ReportError(
+      f"Applicable mix {mix} does not equal total {counts.total}."
+    )
+  if counts.total + counts.not_applicable != catalog_n:
+    raise ReportError(
+      f"total {counts.total} + not_applicable {counts.not_applicable} "
+      f"does not equal catalog_n {catalog_n}."
+    )
 
 
 def engine_themes(analysis: AnalysisResult, act: str) -> str:
@@ -129,6 +178,7 @@ def assemble_report(
   model: str = "",
 ) -> ComplianceReport:
   counts = _counts(analysis)
+  assert_counts_reconcile(counts, catalog_n=len(analysis.obligations))
   allowed = {row.obligation_id for row in analysis.obligations}
   penalties = [
     row
@@ -144,7 +194,7 @@ def assemble_report(
     generated_at=generated_at,
     model=model,
     counts=counts,
-    executive_summary=scoreboard_sentence(counts),
+    executive_summary=scoreboard_sentence(counts, catalog_n=len(analysis.obligations)),
     findings=list(analysis.obligations),
     penalties=penalties,
     priority_gaps=_priority_gaps(analysis.obligations, penalties),
@@ -175,7 +225,12 @@ def generate_report(
     _persist(report, analysis.document_id, report_dir)
     return report
 
-  report.executive_summary = _compose_summary(scoreboard_sentence(report.counts), summary, report.counts)
+  catalog_n = len(analysis.obligations)
+  report.executive_summary = _compose_summary(
+    scoreboard_sentence(report.counts, catalog_n=catalog_n),
+    summary,
+    report.counts,
+  )
   report.narrative_available = True
   report.model = model_name
   _persist(report, analysis.document_id, report_dir)
@@ -300,28 +355,55 @@ def _ordered_acts(analysis: AnalysisResult) -> list[str]:
   return [act for act in seen + extras if act]
 
 
+_GAP_STATUSES = frozenset({"violation", "conflict", "missing", "partial"})
+_GAP_TIER = {"violation": 4, "conflict": 3, "missing": 2, "partial": 1}
+
+
+def _priority_gaps_cap() -> int:
+  raw = os.environ.get("POLARIS_PRIORITY_GAPS_CAP", "").strip()
+  if not raw:
+    return PRIORITY_GAPS_CAP
+  try:
+    n = int(raw)
+  except ValueError:
+    return PRIORITY_GAPS_CAP
+  return max(1, n)
+
+
 def _priority_gaps(
   obligations: list[ObligationFinding],
   penalties: list[PenaltyFinding],
 ) -> list[ObligationFinding]:
+  """Rank applicable gaps for the memo (cap 5, or POLARIS_PRIORITY_GAPS_CAP).
+
+  Candidates: status in {violation, conflict, missing, partial}.
+  Sort (all descending):
+    1. status tier: violation=4, conflict=3, missing=2, partial=1
+    2. amount_crore if the penalty row has a figure, else -1
+    3. imprisonment_years if set, else -1
+    4. theme frequency: count of other candidate gaps with the same act
+  Violations with an amount still beat any partial (tier before crore).
+  """
   scored = {row.obligation_id: row for row in penalties}
   ranked = [
     row
     for row in obligations
-    if row.status in {"violation", "missing"}
-    and row.status != "not_applicable"
-    and (row.status == "violation" or row.obligation_id in scored)
+    if row.status in _GAP_STATUSES and row.status != "not_applicable"
   ]
+  act_counts: dict[str, int] = {}
+  for row in ranked:
+    act_counts[row.act or ""] = act_counts.get(row.act or "", 0) + 1
 
-  def sort_key(row: ObligationFinding) -> tuple[int, float, float]:
+  def sort_key(row: ObligationFinding) -> tuple[int, float, float, int]:
     pen = scored.get(row.obligation_id)
     amount = pen.amount_crore if pen is not None and pen.amount_crore is not None else -1.0
     years = pen.imprisonment_years if pen is not None and pen.imprisonment_years is not None else -1.0
-    tier = 2 if row.status == "violation" else 1
-    return (tier, amount, years)
+    tier = _GAP_TIER.get(row.status, 0)
+    theme = max(0, act_counts.get(row.act or "", 0) - 1)
+    return (tier, amount, years, theme)
 
   ranked.sort(key=sort_key, reverse=True)
-  return ranked[:PRIORITY_GAPS_CAP]
+  return ranked[:_priority_gaps_cap()]
 
 
 def _verdict_notes(analysis: AnalysisResult) -> list[LawNote]:

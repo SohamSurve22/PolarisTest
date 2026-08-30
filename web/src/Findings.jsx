@@ -1,13 +1,15 @@
 import { useState } from "react";
+import { countsBanner } from "./countsBanner";
+import { primaryMatch } from "./closestCitation";
 
 const FILTERS = [
   { id: "gaps", label: "Gaps" },
+  { id: "violation", label: "Violation" },
   { id: "missing", label: "Missing" },
   { id: "partial", label: "Partial" },
   { id: "covered", label: "Covered" },
   { id: "not_applicable", label: "N/A" },
   { id: "undetermined", label: "Undetermined" },
-  { id: "violation", label: "Violation" },
   { id: "conflict", label: "Conflict" },
   { id: "all", label: "All" },
 ];
@@ -22,14 +24,6 @@ const BADGE = {
   conflict: { label: "CONFLICT", className: "badge-conflict" },
 };
 
-function clip(text, limit = 180) {
-  const value = String(text || "").replace(/\s+/g, " ").trim();
-  if (value.length <= limit) {
-    return value;
-  }
-  return `${value.slice(0, limit).trim()}…`;
-}
-
 function matchesFilter(row, filter) {
   if (filter === "all") {
     return true;
@@ -41,36 +35,50 @@ function matchesFilter(row, filter) {
 }
 
 function policyMap(row) {
-  if (row.evidence_quality === "NO_RELIABLE_MATCH") {
-    return {
-      heading: "No reliable evidence found",
-      text: "The closest clause was below the relevance threshold.",
-      extra: 0,
-    };
-  }
+  const first = primaryMatch(row);
+  const counter = (row.counter_evidence || [])[0];
   const matches = row.matched_clauses || [];
-  if (!matches.length) {
-    const ids = row.matched_clause_ids || [];
-    if (ids.length) {
+  if (!first) {
+    if (row.evidence_quality === "NO_RELIABLE_MATCH") {
       return {
-        heading: ids[0],
-        text: "Closest policy clause is linked, but the snippet was not returned.",
-        extra: ids.length - 1,
+        heading: "No reliable evidence found",
+        text: "The closest clause was below the relevance threshold.",
+        extra: 0,
+        counter: "",
       };
     }
     return {
       heading: "No matching clause",
       text: "Nothing in this policy maps to this duty.",
       extra: 0,
+      counter: "",
     };
   }
-  const first = matches[0];
   return {
     heading: first.section_title || first.clause_id,
-    text: clip(first.text),
-    extra: matches.length - 1,
+    text: first.text,
+    extra: Math.max(0, matches.length - (row.status === "violation" || row.status === "conflict" ? 0 : 1)),
+    counter:
+      row.status === "violation" || row.status === "conflict"
+        ? ""
+        : counter && counter !== first
+          ? counter.text
+          : "",
   };
 }
+
+function elementMark(item) {
+  const result = item.result || (item.satisfied ? "supported" : "absent");
+  if (result === "supported") {
+    return { className: "el-yes", mark: "✓" };
+  }
+  if (result === "contradicted") {
+    return { className: "el-contra", mark: "✗" };
+  }
+  return { className: "el-no", mark: "○" };
+}
+
+const GAP_RANK = { violation: 0, conflict: 1, missing: 2, undetermined: 3, partial: 4 };
 
 function statute(row) {
   const act = String(row.act || "").trim();
@@ -162,7 +170,11 @@ export default function Findings({
     conflict: obligations.filter((row) => row.status === "conflict").length,
     all: obligations.length,
   };
-  const rows = obligations.filter((row) => matchesFilter(row, filter));
+  const rows = obligations
+    .filter((row) => matchesFilter(row, filter))
+    .slice()
+    .sort((a, b) => (GAP_RANK[a.status] ?? 9) - (GAP_RANK[b.status] ?? 9));
+  const applicable = counts.all - counts.not_applicable;
   const active = activeFindingIds(selected, analysis);
   const penaltiesByOid = new Map();
   for (const pen of analysis?.penalties || []) {
@@ -186,7 +198,15 @@ export default function Findings({
         </div>
         {analysis ? (
           <p className="findings-stat">
-            {counts.covered}/{counts.all} covered · {counts.gaps} gaps
+            {countsBanner({
+              covered: counts.covered,
+              partial: counts.partial,
+              missing: counts.missing,
+              violation: counts.violation,
+              conflict: counts.conflict,
+              not_applicable: counts.not_applicable,
+              undetermined: counts.undetermined,
+            })}
           </p>
         ) : null}
       </div>
@@ -267,17 +287,25 @@ export default function Findings({
                         ) : null}
                         {(row.elements || []).length ? (
                           <div className="findings-elements">
-                            {(row.elements || []).map((item) => (
-                              <span key={item.id} className={item.satisfied ? "el-yes" : "el-no"}>
-                                {item.satisfied ? "✓" : "○"} {item.label}
-                              </span>
-                            ))}
+                            {(row.elements || []).map((item) => {
+                              const mark = elementMark(item);
+                              return (
+                                <span key={item.id} className={mark.className}>
+                                  {mark.mark} {item.label}
+                                </span>
+                              );
+                            })}
                           </div>
                         ) : null}
                       </div>
                       <div role="cell">
                         <div className="findings-clause">{mapped.heading}</div>
                         <div className="findings-snippet">{mapped.text}</div>
+                        {mapped.counter ? (
+                          <div className="findings-counter">
+                            Counter-evidence: {mapped.counter}
+                          </div>
+                        ) : null}
                         {mapped.extra > 0 ? (
                           <div className="findings-more">
                             +{mapped.extra} more clause{mapped.extra === 1 ? "" : "s"}

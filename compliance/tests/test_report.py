@@ -3,6 +3,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+import pytest
+
 from compliance.models import (
   AnalysisResult,
   ComplianceReport,
@@ -14,10 +16,13 @@ from compliance.models import (
 )
 from compliance.report import (
   assemble_report,
+  assert_counts_reconcile,
   compact_payload,
+  counts_banner,
   generate_report,
   scoreboard_sentence,
   verdict_sentence,
+  ReportError,
 )
 
 
@@ -108,7 +113,7 @@ def test_compact_payload_sends_titles_not_snippets() -> None:
 
 SCOREBOARD = (
   "This policy covers 1 of 2 applicable duties, with 0 partial, 1 missing, "
-  "0 undetermined. 0 duties were not applicable. "
+  "0 undetermined, 0 violation(s), 0 conflict. 0 not applicable of 2 catalog duties. "
   "Missing policy language is not a finding of legal violation."
 )
 TINY_NOTE = "TINY: 1 covered, 0 partial, 1 missing. Themes: Secure personal data."
@@ -125,6 +130,71 @@ def test_verdict_sentence_and_assemble_fills_law_notes() -> None:
   assert notes["DPDP"] == DPDP_NOTE
   assert report.executive_summary == SCOREBOARD
   assert report.narrative_available is False
+
+
+def test_assert_counts_reconcile_accepts_balanced_mix() -> None:
+  counts = ReportCounts(covered=1, missing=1, total=2, not_applicable=0)
+  assert_counts_reconcile(counts, catalog_n=2)
+
+
+def test_assert_counts_reconcile_rejects_mismatch() -> None:
+  with pytest.raises(ReportError, match="Applicable mix"):
+    assert_counts_reconcile(ReportCounts(covered=1, total=2, missing=0), catalog_n=2)
+  with pytest.raises(ReportError, match="catalog_n"):
+    assert_counts_reconcile(ReportCounts(covered=1, missing=1, total=2), catalog_n=63)
+
+
+def test_scoreboard_leads_with_violations() -> None:
+  counts = ReportCounts(
+    covered=12,
+    partial=8,
+    missing=1,
+    undetermined=0,
+    violation=3,
+    conflict=0,
+    not_applicable=18,
+    total=24,
+  )
+  text = scoreboard_sentence(counts, catalog_n=42)
+  assert text.startswith("This policy has 3 violation(s) among 24 applicable duties")
+  assert "18 not applicable of 42 catalog duties" in text
+  assert not text.startswith("This policy covers")
+
+
+def test_counts_banner_includes_conflict_and_sums_to_applicable() -> None:
+  counts = ReportCounts(
+    covered=16,
+    partial=9,
+    missing=2,
+    undetermined=0,
+    violation=8,
+    conflict=10,
+    not_applicable=18,
+    total=45,
+  )
+  banner = counts_banner(counts)
+  assert "Conflict 10" in banner
+  assert "Covered 16" in banner
+  assert "Partial 9" in banner
+  assert "Missing 2" in banner
+  assert "Violation 8" in banner
+  assert "N/A 18" in banner
+  assert "Undetermined" not in banner
+  assert counts.covered + counts.partial + counts.missing + counts.violation + counts.conflict == 45
+  counts.undetermined = 1
+  counts.total = 46
+  assert "Undetermined 1" in counts_banner(counts)
+
+
+def test_assemble_report_refuses_unreconciled_counts(monkeypatch) -> None:
+  from compliance import report as report_mod
+
+  def _bad(_analysis):
+    return ReportCounts(covered=1, total=99, missing=0)
+
+  monkeypatch.setattr(report_mod, "_counts", _bad)
+  with pytest.raises(ReportError):
+    assemble_report(_analysis(), generated_at="2026-08-30T05:00:00Z")
 
 
 def test_assemble_report_copies_all_findings_and_scored_penalties() -> None:
@@ -171,9 +241,34 @@ def test_priority_gaps_missing_with_scored_penalty_only() -> None:
   )
   report = assemble_report(analysis, generated_at="2026-08-30T05:00:00Z")
   ids = [row.obligation_id for row in report.priority_gaps]
-  assert ids == ["TINY_SECURE"]
+  assert ids[0] == "TINY_SECURE"
   assert "TINY_CONSENT" not in ids
-  assert "TINY_OTHER" not in ids
+
+
+def test_priority_gaps_violation_with_amount_before_partial() -> None:
+  obligations = [
+    ObligationFinding(obligation_id="V_AMT", title="IT 43A", act="IT_ACT_2000", status="violation"),
+    ObligationFinding(obligation_id="V_NONE", title="Grievance", act="DPDP", status="violation"),
+    ObligationFinding(obligation_id="C1", title="Conflict", act="DPDP", status="conflict"),
+    ObligationFinding(obligation_id="P_HUGE", title="Partial", act="DPDP", status="partial"),
+  ]
+  penalties = [
+    PenaltyFinding(obligation_id="V_AMT", title="Comp", amount_crore=5, act="IT_ACT_2000"),
+    PenaltyFinding(obligation_id="P_HUGE", title="Huge", amount_crore=250, act="DPDP"),
+  ]
+  analysis = AnalysisResult(
+    document_id="DOC_x",
+    jurisdiction="IN",
+    applicable_laws=["IT_ACT_2000", "DPDP"],
+    obligations=obligations,
+    penalties=penalties,
+  )
+  report = assemble_report(analysis, generated_at="2026-08-30T05:00:00Z")
+  ids = [row.obligation_id for row in report.priority_gaps]
+  assert ids.index("V_AMT") < ids.index("P_HUGE")
+  assert ids.index("V_NONE") < ids.index("P_HUGE")
+  covered_or_na = [row.obligation_id for row in report.priority_gaps if row.status in {"covered", "not_applicable"}]
+  assert covered_or_na == []
 
 
 def test_priority_gaps_sorted_and_capped_at_five() -> None:

@@ -13,8 +13,9 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
+from compliance.citations import closest_citation
 from compliance.models import ComplianceReport, ObligationFinding
-from compliance.report import NARRATIVE_UNAVAILABLE
+from compliance.report import NARRATIVE_UNAVAILABLE, counts_banner
 
 FOOTER = (
   "Not a legal opinion. Coverage statuses are from automated analysis, not the language model. "
@@ -72,15 +73,7 @@ def render_pdf(report: ComplianceReport) -> bytes:
   if report.applicable_laws:
     story.append(Paragraph(_esc("Laws: " + ", ".join(report.applicable_laws)), styles["body"]))
   counts = report.counts
-  story.append(
-    Paragraph(
-      _esc(
-        f"Covered {counts.covered} · Partial {counts.partial} · "
-        f"Missing {counts.missing} · N/A {counts.not_applicable} · Total {counts.total}"
-      ),
-      styles["counts"],
-    )
-  )
+  story.append(Paragraph(_esc(counts_banner(counts)), styles["counts"]))
   story.append(Spacer(1, 4 * mm))
   story.append(Paragraph("Executive summary", styles["h"]))
   summary = (report.executive_summary or "").strip()
@@ -195,18 +188,7 @@ def _duty_table(rows: list[ObligationFinding], styles: dict) -> Table:
 
 
 def _closest(row: ObligationFinding) -> str:
-  if row.evidence_quality == "NO_RELIABLE_MATCH" or not row.matched_clauses:
-    if row.evidence_quality == "NO_RELIABLE_MATCH":
-      return "No reliable evidence found"
-    return "No matching clause"
-  first = row.matched_clauses[0]
-  heading = first.section_title or first.clause_id
-  text = " ".join(str(first.text or "").split())
-  if len(text) > _SNIPPET:
-    text = f"{text[:_SNIPPET].rstrip()}..."
-  if heading and text:
-    return f"{heading}: {text}"
-  return heading or text or "No matching clause"
+  return closest_citation(row, snippet=_SNIPPET)
 
 
 def _styles() -> dict:

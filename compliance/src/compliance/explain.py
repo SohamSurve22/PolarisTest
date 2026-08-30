@@ -11,6 +11,9 @@ def explain_finding(row: ObligationFinding, evidence: EvidenceBundle | None = No
   if row.status == "not_applicable":
     return row.applicability_reason or "This obligation does not apply to this entity, role, or document."
   if row.status == "violation":
+    snippet = _counter_snippet(row, evidence)
+    if snippet:
+      return f"Policy text directly conflicts with {statute}: {snippet}"
     return f"Policy text directly conflicts with {statute}."
   if row.status == "conflict":
     return f"This policy contains contradictory clauses about {statute}."
@@ -33,3 +36,12 @@ def explain_finding(row: ObligationFinding, evidence: EvidenceBundle | None = No
   if evidence is not None and evidence.quality == "NO_RELIABLE_MATCH":
     return "No reliable evidence found."
   return "No sufficient policy evidence maps to this duty. Missing policy language is not a finding of legal violation."
+
+
+def _counter_snippet(row: ObligationFinding, evidence: EvidenceBundle | None) -> str:
+  text = ""
+  if evidence is not None and evidence.contradiction_clauses:
+    text = evidence.contradiction_clauses[0].clause_text or ""
+  elif row.counter_evidence:
+    text = row.counter_evidence[0].text or ""
+  return " ".join(text.split())

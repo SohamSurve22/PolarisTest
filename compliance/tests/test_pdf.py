@@ -101,3 +101,20 @@ def test_render_pdf_includes_source_filename() -> None:
   report.source_filename = "policy.txt"
   pdf = render_pdf(report)
   assert b"policy.txt" in pdf
+
+
+def test_render_pdf_banner_includes_conflict() -> None:
+  report = _report()
+  report.counts = ReportCounts(
+    covered=16,
+    partial=9,
+    missing=2,
+    violation=8,
+    conflict=10,
+    not_applicable=18,
+    total=45,
+  )
+  pdf = render_pdf(report)
+  assert b"Conflict 10" in pdf
+  assert b"Covered 16" in pdf
+  assert b"N/A 18" in pdf

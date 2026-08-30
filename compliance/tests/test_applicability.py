@@ -111,5 +111,24 @@ def test_analyze_default_profile_marks_six_ca_duties_not_applicable() -> None:
     assert "role" in by_id[oid].applicability_reason
     assert not any(gap.obligation_id == oid for gap in result.gaps)
   assert by_id["DPDP_SEC_8_SUB_5"].status != "not_applicable"
+  assert "role" in by_id["ITACT_SEC_15"].applicability_reason or "document type" in by_id["ITACT_SEC_15"].applicability_reason
   assert "DPDP" in result.applicable_laws
   assert "IT_ACT_2000" in result.applicable_laws  # 43A still applies
+
+
+def test_not_applicable_requires_role_or_document_reason_not_missing_text() -> None:
+  from policy_compare.service import default_law_paths
+
+  result = analyze_document(
+    _document(_clause("Personal Data means any data about an identifiable individual.")),
+    default_law_paths(ROOT),
+    search=lambda _: [],
+  )
+  by_id = {row.obligation_id: row for row in result.obligations}
+  na = [row for row in result.obligations if row.status == "not_applicable"]
+  assert na
+  for row in na:
+    reason = (row.applicability_reason or "").lower()
+    assert "role" in reason or "document type" in reason or "repealed" in reason or "not yet effective" in reason
+  assert by_id["DPDP_SEC_8_SUB_5"].status != "not_applicable"
+  assert by_id["DPDP_SEC_8_SUB_5"].status in {"missing", "partial", "undetermined", "covered"}

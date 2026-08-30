@@ -1,4 +1,5 @@
-export default function PageHead({ fileName, workspace, onLoadPolicy }) {
+export default function PageHead({ fileName, workspace, analysis, onLoadPolicy }) {
+  const version = analysis ? "engine" : "overlay";
   return (
     <div className="page-head">
       <div>
@@ -11,7 +12,7 @@ export default function PageHead({ fileName, workspace, onLoadPolicy }) {
                 Policy: <span className="meta-value">{fileName || "pasted.txt"}</span>
               </span>
               <span className="meta-dot" />
-              <span className="meta-mono">Version: overlay</span>
+              <span className="meta-mono">Version: {version}</span>
             </>
           ) : (
             <span className="page-meta-item">Load a policy to overlay against the ideal graph</span>
