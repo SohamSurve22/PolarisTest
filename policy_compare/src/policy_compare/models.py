@@ -51,3 +51,4 @@ class LawChunk(BaseModel):
   act: str = ""
   is_mandatory: bool = False
   topic_ids: list[str] = Field(default_factory=list)
+  entity_ids: list[str] = Field(default_factory=list)

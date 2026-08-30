@@ -16,9 +16,20 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, Tabl
 from compliance.models import ComplianceReport, ObligationFinding
 from compliance.report import NARRATIVE_UNAVAILABLE
 
-FOOTER = "Not a legal opinion. Coverage statuses are from automated analysis, not the language model."
+FOOTER = (
+  "Not a legal opinion. Coverage statuses are from automated analysis, not the language model. "
+  "Missing policy language is not a finding of legal violation."
+)
 _SNIPPET = 180
-_STATUS = {"covered": "COVERED", "partial": "PARTIAL", "missing": "MISSING"}
+_STATUS = {
+  "covered": "COVERED",
+  "partial": "PARTIAL",
+  "missing": "MISSING",
+  "not_applicable": "NOT APPLICABLE",
+  "undetermined": "UNDETERMINED",
+  "conflict": "CONFLICT",
+  "violation": "VIOLATION",
+}
 _UNSAFE = re.compile(r'[/\\"\r\n]+')
 
 
@@ -65,7 +76,7 @@ def render_pdf(report: ComplianceReport) -> bytes:
     Paragraph(
       _esc(
         f"Covered {counts.covered} · Partial {counts.partial} · "
-        f"Missing {counts.missing} · Total {counts.total}"
+        f"Missing {counts.missing} · N/A {counts.not_applicable} · Total {counts.total}"
       ),
       styles["counts"],
     )
@@ -97,7 +108,7 @@ def render_pdf(report: ComplianceReport) -> bytes:
 
   if report.penalties:
     story.append(Spacer(1, 4 * mm))
-    story.append(Paragraph("Penalties", styles["h"]))
+    story.append(Paragraph("Potential statutory exposure", styles["h"]))
     for row in report.penalties:
       amount = f"{row.amount_crore} crore" if row.amount_crore is not None else ""
       years = f"{row.imprisonment_years} years" if row.imprisonment_years is not None else ""
@@ -105,6 +116,10 @@ def render_pdf(report: ComplianceReport) -> bytes:
       label = f"{row.obligation_id}: {row.title}"
       if extra:
         label = f"{label} ({extra})"
+      if row.eligibility:
+        label = f"{label} [{row.eligibility}]"
+      if row.reason:
+        label = f"{label} — {row.reason}"
       story.append(Paragraph(_esc(label), styles["body"]))
 
   story.append(Spacer(1, 6 * mm))
@@ -180,7 +195,9 @@ def _duty_table(rows: list[ObligationFinding], styles: dict) -> Table:
 
 
 def _closest(row: ObligationFinding) -> str:
-  if not row.matched_clauses:
+  if row.evidence_quality == "NO_RELIABLE_MATCH" or not row.matched_clauses:
+    if row.evidence_quality == "NO_RELIABLE_MATCH":
+      return "No reliable evidence found"
     return "No matching clause"
   first = row.matched_clauses[0]
   heading = first.section_title or first.clause_id

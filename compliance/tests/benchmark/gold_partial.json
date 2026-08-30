@@ -1,0 +1,5 @@
+{
+  "name": "PARTIAL",
+  "certin_dir_2": ["partial", "undetermined"],
+  "require_mixed_statuses": ["covered", "partial", "missing"]
+}

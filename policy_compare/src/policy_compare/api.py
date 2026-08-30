@@ -6,6 +6,8 @@ import os
 import tempfile
 from pathlib import Path
 
+from datetime import date, datetime
+
 from document_pipeline.models.document import DocumentSource
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
 from document_pipeline.pipeline.orchestrator import PipelineOutputs, create_default_orchestrator
@@ -96,6 +98,8 @@ async def compare(file: UploadFile = File(...)) -> dict:
 async def analyze(
   file: UploadFile = File(...),
   jurisdiction: str = Form("IN"),
+  analysis_date: str = Form(""),
+  roles: str = Form(""),
 ) -> dict:
   suffix, fmt, raw = await _read_upload(file)
   temp_path: Path | None = None
@@ -105,7 +109,15 @@ async def analyze(
     missing = [str(path) for path in law_paths if not path.is_file()]
     if missing:
       raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
-    result = analyze_document(outputs.entity, law_paths, jurisdiction=jurisdiction)
+    parsed_date = _parse_analysis_date(analysis_date)
+    parsed_roles = [item.strip() for item in roles.split(",") if item.strip()] or None
+    result = analyze_document(
+      outputs.entity,
+      law_paths,
+      jurisdiction=jurisdiction,
+      analysis_date=parsed_date,
+      roles=parsed_roles,
+    )
     return result.model_dump()
   except HTTPException:
     raise
@@ -137,6 +149,16 @@ def report_pdf(body: ComplianceReport) -> Response:
     media_type="application/pdf",
     headers={"Content-Disposition": f'attachment; filename="{filename}"'},
   )
+
+
+def _parse_analysis_date(raw: str) -> date | None:
+  text = (raw or "").strip()
+  if not text:
+    return None
+  try:
+    return datetime.strptime(text, "%Y-%m-%d").date()
+  except ValueError:
+    return None
 
 
 async def _read_upload(file: UploadFile) -> tuple[str, DocumentFormat, bytes]:

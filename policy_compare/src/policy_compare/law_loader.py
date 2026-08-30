@@ -31,13 +31,19 @@ def _maybe_chunk(raw: dict[str, Any]) -> LawChunk | None:
   if raw.get("node_label") != "Section":
     return None
 
+  rels = raw.get("relationships") or []
   topic_ids = [
     rel["target_id"]
-    for rel in raw.get("relationships") or []
+    for rel in rels
     if rel.get("type") == "TAGGED_WITH" and rel.get("target_id") in KEPT_TOPICS
   ]
   if not topic_ids:
     return None
+  entity_ids = sorted({
+    str(rel["target_id"])
+    for rel in rels
+    if rel.get("type") == "IMPOSES_DUTY_ON" and rel.get("target_id")
+  })
 
   chunk_type = raw.get("chunk_type")
   props = raw.get("node_properties") or {}
@@ -64,4 +70,5 @@ def _maybe_chunk(raw: dict[str, Any]) -> LawChunk | None:
     act=act,
     is_mandatory=is_mandatory,
     topic_ids=sorted(set(topic_ids)),
+    entity_ids=entity_ids,
   )

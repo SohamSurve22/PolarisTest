@@ -71,8 +71,10 @@ def verdict_sentence(act: str, counts: ReportCounts) -> str:
 
 def scoreboard_sentence(counts: ReportCounts) -> str:
   return (
-    f"This policy covers {counts.covered} of {counts.total} scored duties, "
-    f"with {counts.partial} partial and {counts.missing} missing."
+    f"This policy covers {counts.covered} of {counts.total} applicable duties, "
+    f"with {counts.partial} partial, {counts.missing} missing, "
+    f"{counts.undetermined} undetermined. {counts.not_applicable} duties were not applicable. "
+    "Missing policy language is not a finding of legal violation."
   )
 
 
@@ -208,16 +210,42 @@ def default_chat(system_prompt: str, user_prompt: str) -> str:
   return content
 
 
+_SEV_WEIGHT = {"critical": 5, "high": 4, "medium": 3, "low": 1}
+_STATUS_WEIGHT = {"covered": 1.0, "partial": 0.5, "undetermined": 0.25}
+
+
 def _counts(analysis: AnalysisResult) -> ReportCounts:
   covered = sum(1 for row in analysis.obligations if row.status == "covered")
   partial = sum(1 for row in analysis.obligations if row.status == "partial")
   missing = sum(1 for row in analysis.obligations if row.status == "missing")
+  undetermined = sum(1 for row in analysis.obligations if row.status == "undetermined")
+  conflict = sum(1 for row in analysis.obligations if row.status == "conflict")
+  violation = sum(1 for row in analysis.obligations if row.status == "violation")
+  not_applicable = sum(1 for row in analysis.obligations if row.status == "not_applicable")
+  applicable = [row for row in analysis.obligations if row.status != "not_applicable"]
   return ReportCounts(
     covered=covered,
     partial=partial,
     missing=missing,
-    total=len(analysis.obligations),
+    undetermined=undetermined,
+    conflict=conflict,
+    violation=violation,
+    not_applicable=not_applicable,
+    total=len(applicable),
+    weighted_pct=_weighted_pct(applicable),
   )
+
+
+def _weighted_pct(rows: list[ObligationFinding]) -> float:
+  denom = 0.0
+  numer = 0.0
+  for row in rows:
+    weight = _SEV_WEIGHT.get(row.severity or "medium", 3)
+    denom += weight
+    numer += weight * _STATUS_WEIGHT.get(row.status, 0.0)
+  if denom <= 0:
+    return 0.0
+  return round(100.0 * numer / denom, 1)
 
 
 def _by_law_counts(analysis: AnalysisResult) -> dict[str, ReportCounts]:
@@ -225,10 +253,19 @@ def _by_law_counts(analysis: AnalysisResult) -> dict[str, ReportCounts]:
   for row in analysis.obligations:
     act = row.act or ""
     counts = buckets.setdefault(act, ReportCounts())
+    if row.status == "not_applicable":
+      counts.not_applicable += 1
+      continue
     if row.status == "covered":
       counts.covered += 1
     elif row.status == "partial":
       counts.partial += 1
+    elif row.status == "undetermined":
+      counts.undetermined += 1
+    elif row.status == "conflict":
+      counts.conflict += 1
+    elif row.status == "violation":
+      counts.violation += 1
     else:
       counts.missing += 1
     counts.total += 1
@@ -239,8 +276,19 @@ def _by_law_titles(analysis: AnalysisResult) -> dict[str, dict[str, list[str]]]:
   titles: dict[str, dict[str, list[str]]] = {}
   for row in analysis.obligations:
     act = row.act or ""
-    bucket = titles.setdefault(act, {"covered": [], "partial": [], "missing": []})
-    bucket[row.status].append(row.title)
+    bucket = titles.setdefault(
+      act,
+      {
+        "covered": [],
+        "partial": [],
+        "missing": [],
+        "undetermined": [],
+        "conflict": [],
+        "violation": [],
+        "not_applicable": [],
+      },
+    )
+    bucket.setdefault(row.status, []).append(row.title)
   return titles
 
 
@@ -257,20 +305,23 @@ def _priority_gaps(
   penalties: list[PenaltyFinding],
 ) -> list[ObligationFinding]:
   scored = {row.obligation_id: row for row in penalties}
-  missing = [
+  ranked = [
     row
     for row in obligations
-    if row.status == "missing" and row.obligation_id in scored
+    if row.status in {"violation", "missing"}
+    and row.status != "not_applicable"
+    and (row.status == "violation" or row.obligation_id in scored)
   ]
 
-  def sort_key(row: ObligationFinding) -> tuple[float, float]:
-    pen = scored[row.obligation_id]
-    amount = pen.amount_crore if pen.amount_crore is not None else -1.0
-    years = pen.imprisonment_years if pen.imprisonment_years is not None else -1.0
-    return (amount, years)
+  def sort_key(row: ObligationFinding) -> tuple[int, float, float]:
+    pen = scored.get(row.obligation_id)
+    amount = pen.amount_crore if pen is not None and pen.amount_crore is not None else -1.0
+    years = pen.imprisonment_years if pen is not None and pen.imprisonment_years is not None else -1.0
+    tier = 2 if row.status == "violation" else 1
+    return (tier, amount, years)
 
-  missing.sort(key=sort_key, reverse=True)
-  return missing[:PRIORITY_GAPS_CAP]
+  ranked.sort(key=sort_key, reverse=True)
+  return ranked[:PRIORITY_GAPS_CAP]
 
 
 def _verdict_notes(analysis: AnalysisResult) -> list[LawNote]:

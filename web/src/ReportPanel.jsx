@@ -6,6 +6,10 @@ const BADGE = {
   covered: "badge-match",
   partial: "badge-partial",
   missing: "badge-missing",
+  not_applicable: "badge-na",
+  undetermined: "badge-undetermined",
+  violation: "badge-violation",
+  conflict: "badge-conflict",
 };
 
 function clip(text, limit = 180) {
@@ -17,6 +21,9 @@ function clip(text, limit = 180) {
 }
 
 function closest(row) {
+  if (row.evidence_quality === "NO_RELIABLE_MATCH") {
+    return { heading: "No reliable evidence found", text: "" };
+  }
   const matches = row.matched_clauses || [];
   if (!matches.length) {
     return { heading: "No matching clause", text: "" };
@@ -149,7 +156,7 @@ export default function ReportPanel({ report, reportError, busy }) {
                 <span className="report-gap-title">{row.title}</span>
                 {row.act ? <span className="report-gap-act"> {row.act}</span> : null}
                 {exposure(row, report.penalties) ? (
-                  <span className="report-gap-exposure"> — {exposure(row, report.penalties)}</span>
+                  <span className="report-gap-exposure"> — {exposure(row, report.penalties)} (potential exposure)</span>
                 ) : null}
               </li>
             ))}

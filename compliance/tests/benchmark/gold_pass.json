@@ -1,0 +1,14 @@
+{
+  "name": "PASS",
+  "must_status": {
+    "DPDP_SEC_8_SUB_5": ["covered", "partial"],
+    "ITACT_SEC_15": ["not_applicable"],
+    "ITACT_SEC_30": ["not_applicable"],
+    "ITACT_SEC_34": ["not_applicable"],
+    "ITACT_SEC_26": ["not_applicable"],
+    "ITACT_SEC_42_SUB_1": ["not_applicable"],
+    "ITACT_SEC_42_SUB_2": ["not_applicable"]
+  },
+  "max_violation": 0,
+  "max_dpdp_applicable_missing": 8
+}

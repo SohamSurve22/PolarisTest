@@ -19,6 +19,7 @@ class CatalogObligation:
   chunk_type: str | None = None
   summary: str = ""
   section_id: str | None = None
+  entity_ids: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -32,9 +33,17 @@ class CatalogPenalty:
   imprisonment_years: float | None = None
 
 
+@dataclass(frozen=True)
+class CatalogRequirement:
+  obligation_id: str
+  element_id: str
+  label: str
+
+
 def catalog_to_graph_ir(
   obligations: list[CatalogObligation],
   penalties: list[CatalogPenalty] | None = None,
+  requirements: list[CatalogRequirement] | None = None,
 ) -> GraphIR:
   """Build LawVersion → Obligation (+ Penalty -PENALIZES-> Obligation) GraphIR."""
   nodes: list[GraphNode] = []
@@ -67,6 +76,8 @@ def catalog_to_graph_ir(
       props["chunk_type"] = duty.chunk_type
     if duty.section_id:
       props["section_id"] = duty.section_id
+    if duty.entity_ids:
+      props["entity_ids"] = list(duty.entity_ids)
     nodes.append(GraphNode(id=oid, label="Obligation", properties=props))
     duty_ids.add(oid)
     if act:
@@ -96,5 +107,19 @@ def catalog_to_graph_ir(
     )
     for oid in targets:
       relationships.append(GraphRelationship(source=pid, target=oid, type="PENALIZES"))
+
+  for req in requirements or []:
+    oid = req.obligation_id.strip()
+    if oid not in duty_ids or not req.element_id:
+      continue
+    eid = f"{oid}::{req.element_id}"
+    nodes.append(
+      GraphNode(
+        id=eid,
+        label="RequirementElement",
+        properties={"label": req.label, "obligation_id": oid, "element_id": req.element_id},
+      )
+    )
+    relationships.append(GraphRelationship(source=oid, target=eid, type="HAS_REQUIREMENT"))
 
   return GraphIR(nodes=nodes, relationships=relationships)

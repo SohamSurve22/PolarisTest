@@ -1,0 +1,6 @@
+{
+  "name": "NOT_APPLICABLE",
+  "roles": ["ENTITY_BODY_CORPORATE"],
+  "dpdp_fiduciary_ids": ["DPDP_SEC_8_SUB_5", "DPDP_SEC_6_SUB_1"],
+  "expected_status": "not_applicable"
+}

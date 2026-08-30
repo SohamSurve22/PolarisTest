@@ -62,11 +62,14 @@ function overlayCards(summary) {
 
 function engineCards(summary, analysis) {
   const obligations = analysis.obligations || [];
+  const applicable = obligations.filter((row) => row.status !== "not_applicable");
   const covered = obligations.filter((row) => row.status === "covered").length;
   const partial = obligations.filter((row) => row.status === "partial").length;
   const missing = obligations.filter((row) => row.status === "missing").length;
-  const total = obligations.length;
+  const na = obligations.filter((row) => row.status === "not_applicable").length;
+  const total = applicable.length;
   const coverage = total > 0 ? ((covered / total) * 100).toFixed(1) : "0.0";
+  const weighted = analysis.weighted_pct;
   const gaps = analysis.gaps?.length ?? partial + missing;
   return [
     {
@@ -85,7 +88,14 @@ function engineCards(summary, analysis) {
       key: "coverage",
       label: "Coverage",
       value: `${coverage}%`,
-      hint: `${covered}/${total} obligations`,
+      hint: `${covered}/${total} applicable duties`,
+      tone: "primary",
+    },
+    {
+      key: "weighted",
+      label: "Weighted",
+      value: `${weighted != null ? Number(weighted).toFixed(1) : coverage}%`,
+      hint: "Severity-weighted applicable coverage",
       tone: "primary",
     },
     {
@@ -100,7 +110,7 @@ function engineCards(summary, analysis) {
       key: "partial",
       label: "Partial",
       value: fmt(partial),
-      hint: "Weak or title-mismatch",
+      hint: "Weak or incomplete evidence",
       tone: "conflict",
       icon: "warning",
     },
@@ -108,15 +118,21 @@ function engineCards(summary, analysis) {
       key: "missing",
       label: "Missing",
       value: fmt(missing),
-      hint: "No matching clause",
+      hint: "No policy evidence (not a violation)",
       tone: "error",
       icon: "cancel",
+    },
+    {
+      key: "na",
+      label: "N/A",
+      value: fmt(na),
+      hint: "Not applicable to this document",
     },
     {
       key: "gaps",
       label: "Gaps",
       value: fmt(gaps),
-      hint: "Partial + missing",
+      hint: "Partial + missing + other gaps",
       tone: "error",
       icon: "report",
     },

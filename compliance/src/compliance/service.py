@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
-import re
-from collections.abc import Callable
+from collections.abc import Callable, Iterable
+from datetime import date
 from pathlib import Path
 
 from document_pipeline.models.clause import Clause
@@ -12,24 +12,25 @@ from document_pipeline.models.semantic import StructuralRole
 from vectorization.models import SearchHit
 from vectorization.sources import clause_from_entity
 
+from compliance.applicability import EntityProfile, apply_duty, default_entity_profile
+from compliance.classify import classify_duty
+from compliance.duty_rules import load_duty_rules, load_law_versions, resolve_duty_rule
+from compliance.explain import explain_finding
 from compliance.graph_scope import ir_from_paths, obligation_nodes, penalties_for
+from compliance.matching import PARTIAL_SCORE, collect_credits, gather_evidence
 from compliance.models import (
   AnalysisResult,
   GapFinding,
-  MatchedClause,
   ObligationFinding,
   PenaltyFinding,
 )
+from compliance.penalty_stage import penalty_rows
+from compliance.report import _weighted_pct
 
-COVERED_SCORE = 0.55
-PARTIAL_SCORE = 0.30
 SUPPORTED_JURISDICTIONS = frozenset({"IN", "INDIA", "IN-DPDP"})
-_TOKEN_RE = re.compile(r"[a-z0-9]+")
-_STOP = frozenset({
-  "a", "an", "and", "as", "at", "be", "by", "for", "from", "general",
-  "in", "into", "is", "mandatory", "must", "no", "not", "obligation",
-  "obligations", "of", "on", "or", "shall", "the", "this", "to", "with",
-})
+_GAP_STATUSES = frozenset({"missing", "partial", "undetermined", "conflict", "violation"})
+
+SearchFn = Callable[[str], list[SearchHit]]
 
 SearchFn = Callable[[str], list[SearchHit]]
 
@@ -51,45 +52,45 @@ def analyze_document(
   *,
   jurisdiction: str = "IN",
   search: SearchFn | None = None,
+  profile: EntityProfile | None = None,
+  analysis_date: date | None = None,
+  roles: Iterable[str] | None = None,
 ) -> AnalysisResult:
   code = (jurisdiction or "IN").strip().upper()
   if code not in SUPPORTED_JURISDICTIONS:
     msg = f"Unsupported jurisdiction: {jurisdiction}"
     raise ValueError(msg)
 
+  entity_profile = profile or default_entity_profile(
+    jurisdiction=code,
+    analysis_date=analysis_date,
+    roles=roles,
+  )
   ir = ir_from_paths(law_paths)
   duties = obligation_nodes(ir)
+  rules = load_duty_rules()
+  versions = load_law_versions()
+  decisions: dict[str, tuple[object, str, str, object]] = {}
+  scored: list[object] = []
+  for node in duties:
+    props = node.properties or {}
+    act = str(props.get("act") or "")
+    raw_entities = props.get("entity_ids") or ()
+    catalog_roles = tuple(str(item) for item in raw_entities)
+    rule = resolve_duty_rule(node.id, rules=rules, catalog_roles=catalog_roles)
+    version = versions.get(act)
+    decision = apply_duty(rule, version, entity_profile)
+    law_status = version.status if version is not None else ""
+    decisions[node.id] = (decision, law_status, act, rule)
+    if decision.applicable:
+      scored.append(node)
+
   search_fn = search or default_search
   clauses = _policy_clauses(document)
-  best: dict[str, tuple[float, list[MatchedClause]]] = {
-    node.id: (0.0, []) for node in duties
-  }
+  scored_ids = {node.id for node in scored}
 
   try:
-    for clause in clauses:
-      hits = [
-        hit
-        for hit in search_fn(clause.clause_text)
-        if _hit_obligation_id(hit) in best
-      ]
-      if not hits:
-        continue
-      hit = max(hits, key=lambda item: item.score)
-      oid = _hit_obligation_id(hit)
-      score, matches = best[oid]
-      found = list(matches)
-      if clause.clause_id not in {row.clause_id for row in found}:
-        found.append(
-          MatchedClause(
-            clause_id=clause.clause_id,
-            section_title=clause.section_title or "",
-            text=clause.clause_text,
-          )
-        )
-      if hit.score > score:
-        best[oid] = (hit.score, found)
-      else:
-        best[oid] = (score, found)
+    credited = collect_credits(clauses, search_fn, scored_ids)
   except ValueError:
     raise
   except Exception as exc:
@@ -97,24 +98,50 @@ def analyze_document(
 
   obligations: list[ObligationFinding] = []
   for node in duties:
-    score, matches = best[node.id]
+    decision, law_status, act, rule = decisions[node.id]
     props = node.properties or {}
     title = str(props.get("title") or node.id)
     summary = str(props.get("summary") or "")
-    act = str(props.get("act") or "")
-    status = _status(score, [row.text for row in matches], title)
-    obligations.append(
-      ObligationFinding(
+    if not decision.applicable:
+      row = ObligationFinding(
         obligation_id=node.id,
         title=title,
         summary=summary,
         act=act,
-        status=status,
-        score=score,
-        matched_clause_ids=[row.clause_id for row in matches],
-        matched_clauses=matches,
+        status="not_applicable",
+        applicability_reason=decision.reason,
+        law_status=law_status,
+        confidence=1.0,
+        reason=decision.reason,
+        severity=rule.severity,
       )
+      row.reason = explain_finding(row)
+      obligations.append(row)
+      continue
+    evidence = gather_evidence(node.id, title, rule, clauses, credited.get(node.id, []))
+    status, confidence, elements = classify_duty(
+      applicable=True,
+      evidence=evidence,
+      rule=rule,
     )
+    row = ObligationFinding(
+      obligation_id=node.id,
+      title=title,
+      summary=summary,
+      act=act,
+      status=status,
+      score=evidence.score,
+      matched_clause_ids=[item.clause_id for item in evidence.matched_clauses],
+      matched_clauses=evidence.matched_clauses,
+      applicability_reason=decision.reason,
+      law_status=law_status,
+      confidence=confidence,
+      evidence_quality=evidence.quality,
+      elements=elements,
+      severity=rule.severity,
+    )
+    row.reason = explain_finding(row, evidence)
+    obligations.append(row)
 
   gaps = [
     GapFinding(
@@ -125,31 +152,22 @@ def analyze_document(
       summary=row.summary,
     )
     for row in obligations
-    if row.status != "covered"
+    if row.status in _GAP_STATUSES
   ]
 
   penalties: list[PenaltyFinding] = []
   seen: set[tuple[str, str]] = set()
   for row in obligations:
-    if row.status == "covered":
-      continue
-    for link in penalties_for(ir, row.obligation_id):
-      key = (link.penalty_id, row.obligation_id)
+    for item in penalty_rows(row, penalties_for(ir, row.obligation_id)):
+      key = (item.title, row.obligation_id, item.eligibility)
       if key in seen:
         continue
       seen.add(key)
-      penalties.append(
-        PenaltyFinding(
-          obligation_id=row.obligation_id,
-          title=link.title,
-          amount_crore=link.amount_crore,
-          imprisonment_years=link.imprisonment_years,
-          summary=link.summary,
-          act=link.act,
-        )
-      )
+      penalties.append(item)
 
-  laws = sorted({row.act for row in obligations if row.act})
+  laws = sorted({
+    row.act for row in obligations if row.act and row.status != "not_applicable"
+  })
   return AnalysisResult(
     document_id=document.metadata.document_id,
     source_filename=str(document.metadata.filename or ""),
@@ -158,33 +176,8 @@ def analyze_document(
     obligations=obligations,
     gaps=gaps,
     penalties=penalties,
+    weighted_pct=_weighted_pct([row for row in obligations if row.status != "not_applicable"]),
   )
-
-
-def _status(score: float, clause_texts: list[str], title: str) -> str:
-  if score >= COVERED_SCORE and _title_overlap(clause_texts, title):
-    return "covered"
-  if score >= PARTIAL_SCORE:
-    return "partial"
-  return "missing"
-
-
-def _title_overlap(clause_texts: list[str], title: str) -> bool:
-  needles = _tokens(title)
-  if not needles:
-    return True
-  haystack = _tokens(" ".join(clause_texts))
-  needed = 1 if len(needles) <= 2 else 2
-  return len(needles & haystack) >= needed
-
-
-def _tokens(text: str) -> set[str]:
-  return {word for word in _TOKEN_RE.findall(text.lower()) if len(word) >= 4 and word not in _STOP}
-
-
-def _hit_obligation_id(hit: SearchHit) -> str:
-  payload = hit.payload or {}
-  return str(payload.get("obligation_id") or hit.clause_id or "")
 
 
 def _policy_clauses(document: EntityDocument) -> list[Clause]:

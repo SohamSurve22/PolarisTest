@@ -1,0 +1,6 @@
+{
+  "name": "FAIL",
+  "min_violation": 1,
+  "violation_ids": ["DPDP_SEC_8_SUB_5", "DPDP_SEC_8_SUB_6", "DPDP_SEC_9_SUB_3"],
+  "not_all_gaps_are_violations": true
+}

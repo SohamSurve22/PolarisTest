@@ -92,16 +92,25 @@ def test_compliance_report_holds_engine_findings() -> None:
 def test_compact_payload_sends_titles_not_snippets() -> None:
   payload = compact_payload(_analysis())
   blob = json.dumps(payload)
-  assert payload["counts"] == {"covered": 1, "partial": 0, "missing": 1, "total": 2}
+  assert payload["counts"]["covered"] == 1
+  assert payload["counts"]["partial"] == 0
+  assert payload["counts"]["missing"] == 1
+  assert payload["counts"]["total"] == 2
   assert "We obtain consent" not in blob
   acts = {row["act"]: row for row in payload["by_law"]}
   assert acts["TINY"]["titles"]["covered"] == ["Obtain consent"]
   assert acts["TINY"]["titles"]["missing"] == ["Secure personal data"]
-  assert acts["TINY"]["counts"] == {"covered": 1, "partial": 0, "missing": 1, "total": 2}
+  assert acts["TINY"]["counts"]["covered"] == 1
+  assert acts["TINY"]["counts"]["missing"] == 1
+  assert acts["TINY"]["counts"]["total"] == 2
   assert "penalties" not in payload
 
 
-SCOREBOARD = "This policy covers 1 of 2 scored duties, with 0 partial and 1 missing."
+SCOREBOARD = (
+  "This policy covers 1 of 2 applicable duties, with 0 partial, 1 missing, "
+  "0 undetermined. 0 duties were not applicable. "
+  "Missing policy language is not a finding of legal violation."
+)
 TINY_NOTE = "TINY: 1 covered, 0 partial, 1 missing. Themes: Secure personal data."
 DPDP_NOTE = "DPDP: 0 covered, 0 partial, 0 missing."
 

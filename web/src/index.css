@@ -926,6 +926,28 @@ html[data-theme="light"] .tone-conflict {
   color: var(--weak);
 }
 
+.findings-disclaimer {
+  margin-top: 2px;
+  font-size: 10px;
+  color: var(--muted);
+}
+
+.findings-elements {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+  font-size: 11px;
+}
+
+.findings-elements .el-yes {
+  color: var(--covered);
+}
+
+.findings-elements .el-no {
+  color: var(--muted);
+}
+
 .findings-clause {
   font-weight: 600;
   line-height: 1.35;
@@ -1053,9 +1075,28 @@ html[data-theme="light"] .tone-conflict {
 }
 
 .badge-missing {
-  background: color-mix(in srgb, var(--error) 12%, transparent);
-  color: var(--error);
-  border-color: color-mix(in srgb, var(--error) 28%, transparent);
+  background: color-mix(in srgb, var(--missing) 18%, transparent);
+  color: var(--missing);
+}
+
+.badge-na {
+  background: color-mix(in srgb, #8a8e96 18%, transparent);
+  color: #8a8e96;
+}
+
+.badge-undetermined {
+  background: color-mix(in srgb, #8b7355 18%, transparent);
+  color: #c4a574;
+}
+
+.badge-violation {
+  background: color-mix(in srgb, #c0392b 18%, transparent);
+  color: #e74c3c;
+}
+
+.badge-conflict {
+  background: color-mix(in srgb, #8e44ad 18%, transparent);
+  color: #bb8fce;
 }
 
 .badge-extra {
@@ -1427,6 +1468,25 @@ html[data-theme="light"] .tone-conflict {
 .orbit.is-hub.orbit--missing,
 .orbit.is-cluster.orbit--missing {
   border-color: var(--missing);
+}
+
+.orbit--na,
+.orbit.is-hub.orbit--na,
+.orbit.is-cluster.orbit--na {
+  border-color: #8a8e96;
+}
+
+.orbit--undetermined {
+  border-color: #c4a574;
+}
+
+.orbit--violation,
+.orbit.is-hub.orbit--violation {
+  border-color: #e74c3c;
+}
+
+.orbit--conflict {
+  border-color: #bb8fce;
 }
 
 .orbit--mapped { border-color: var(--mapped); }

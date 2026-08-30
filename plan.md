@@ -36,8 +36,8 @@ Parsed store today is `document_pipeline/output/DOC_*.json`. Vectors live in Qdr
 | `vectorization`                  | Ingest, search, skip/split, EmbeddingProvider, richer JSON, KG JSON ingest (`ingest-kg`), `reembed`. Parked: LLM `retrieval_text` (Spec 4)                                                                                                                                           |
 | Graph                            | GraphIR dump (`semantic-graph dump-ir`) → `graph-builder-export-kg` → `kg_export/*.json`. Catalog duties: `semantic-graph from-catalog`. Neo4j via `semantic-graph export` / `from-catalog --to-neo4j`.                                                                              |
 | Overlay match                    | Keywords still group User Graph clusters (`TOPIC_KEYWORDS`). Not used for scores or graph colors.                                                                                                                                                                                    |
-| Analyze v1                       | `compliance/` + `POST /analyze`: in-process GraphIR Obligation nodes, Qdrant `kg_obligation` scores (top-1 + title-token gate), `PENALIZES` walk (India). UI stats, graph colors, and the report-page coverage strip come from this result. |
-| Report                           | `POST /report` + `POST /report.pdf`. Engine owns duty rows, per-law Themes (2–3 missing/partial titles), scoreboard first sentence, `source_filename`, and `priority_gaps` (cap 5). Qwen may append extra summary sentences. Chat down: scoreboard still shows (`narrative_available: false`). |
+| Analyze v1                       | `compliance/` + `POST /analyze`: in-process GraphIR Obligation nodes, Qdrant `kg_obligation` scores (multi-credit + title/element gate), `PENALIZES` after status (India). N/A duties skip scoring. UI stats, graph colors, and the report-page coverage strip come from this result. |
+| Report                           | `POST /report` + `POST /report.pdf`. Engine owns duty rows, per-law Themes, scoreboard (applicable duties only; missing ≠ violation), `source_filename`, and `priority_gaps` (cap 5). Qwen may append extra summary sentences. Chat down: scoreboard still shows (`narrative_available: false`). |
 | Next                             | Cloud chat is still [Later B](#b--report-polish). Cypher at analyze time and `applies_if` are still later.                                                                                                                                                                         |
 | Not built                        | Neo4j Cypher at `/analyze`, `applies_if` / NOT_APPLICABLE, app DB, pluggable jurisdictions, cloud chat                                                                                                                                                                               |
 
@@ -86,7 +86,7 @@ Packages: `graph_builder/`, `semantic_graph/`.
 - [x] Overlay keywords kept only for User Graph clustering (Consent vs Extra). **Not** the coverage score. Overlay embeddings for folders — **won't do**; skip [Later A clustering](#a--matching).
 - [x] API v1: `POST /analyze` (upload + optional `jurisdiction` default `IN`) → `AnalysisResult`. Document-ID lookup of stored `DOC_*.json` is later.
 - [x] Pull parsed JSON + in-process GraphIR (Obligation nodes from the four law JSON files) + Qdrant `kg_obligation` scores. Penalties walk `PENALIZES`. Neo4j / Cypher at analyze time is still later.
-- [x] Match v1: each policy clause credits only its best catalog hit; **covered** also needs title-token overlap (generic privacy jargon cannot cover unrelated duties). Gaps = missing + partial. Output is `AnalysisResult`, not pipeline `context_builder`.
+- [x] Match v1: each policy clause may credit multiple catalog hits; **covered** needs HIGH evidence plus title or requirement-element overlap. Gaps = missing + partial + undetermined + conflict + violation. N/A is excluded from the denominator. Output is `AnalysisResult`, not pipeline `context_builder`.
 - [x] Inspector + metric strip + graph node colors follow analyze (green covered, orange partial, red missing), not keyword overlay. The Report page shows the same coverage strip.
 - [x] **Decision:** single-framework MVP (India website privacy). Pluggable jurisdictions later.
 
@@ -111,9 +111,9 @@ Priority. Done at GraphIR-in-process. Analyze uses GraphIR Obligation nodes as t
 
 - **User Graph clustering (optional)** — **won't do.** Extra/Consent folders do not change coverage scores. Skip overlay embeddings / LLM labels on `/compare`.
 - [x] **GraphIR Obligation nodes** — `semantic-graph from-catalog` lifts tagged law JSON into GraphIR (`Obligation` ids match `/analyze`; `Penalty` + `PENALIZES`). Opt-in `dump-ir --enrich` extracts slot obligations from clause text (local Ollama; ids are `obl_<clause>_n`, not catalog ids). Default dump-ir stays Section/Clause only. `/analyze` still does not query Neo4j.
-- [x] **Hybrid graph+vector fusion** — `/analyze` builds GraphIR in-process (`catalog_to_graph_ir`). Obligation nodes are the duty set; Qdrant scores those ids (top-1 + title gate); penalties walk `PENALIZES`. Findings copy names `{act}: {title}`. No Bolt. Cypher at analyze time and `applies_if` (child-under-18 / DPO / consent manager) still later.
+- [x] **Hybrid graph+vector fusion** — `/analyze` builds GraphIR in-process (`catalog_to_graph_ir`). Obligation nodes are the duty set; Qdrant scores those ids (multi-credit + title/element gate); penalties walk `PENALIZES` after status. Findings copy names `{act}: {title}`. No Bolt. Cypher is export-only (`compliance.cypher_export`). `applies_if` is role/document-type `not_applicable` via `duty_rules.json`.
 
-Still later (not this slice): Neo4j join at analyze time, changing `KEPT_TOPICS`, ingest-on-analyze, pluggable jurisdictions, `applies_if`.
+Still later: Neo4j join at analyze time, changing `KEPT_TOPICS`, ingest-on-analyze, pluggable jurisdictions.
 
 ### B — Report polish
 

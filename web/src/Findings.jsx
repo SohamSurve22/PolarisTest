@@ -5,6 +5,10 @@ const FILTERS = [
   { id: "missing", label: "Missing" },
   { id: "partial", label: "Partial" },
   { id: "covered", label: "Covered" },
+  { id: "not_applicable", label: "N/A" },
+  { id: "undetermined", label: "Undetermined" },
+  { id: "violation", label: "Violation" },
+  { id: "conflict", label: "Conflict" },
   { id: "all", label: "All" },
 ];
 
@@ -12,6 +16,10 @@ const BADGE = {
   covered: { label: "COVERED", className: "badge-match" },
   partial: { label: "PARTIAL", className: "badge-partial" },
   missing: { label: "MISSING", className: "badge-missing" },
+  not_applicable: { label: "N/A", className: "badge-na" },
+  undetermined: { label: "UNDETERMINED", className: "badge-undetermined" },
+  violation: { label: "VIOLATION", className: "badge-violation" },
+  conflict: { label: "CONFLICT", className: "badge-conflict" },
 };
 
 function clip(text, limit = 180) {
@@ -27,12 +35,19 @@ function matchesFilter(row, filter) {
     return true;
   }
   if (filter === "gaps") {
-    return row.status !== "covered";
+    return ["missing", "partial", "undetermined", "conflict", "violation"].includes(row.status);
   }
   return row.status === filter;
 }
 
 function policyMap(row) {
+  if (row.evidence_quality === "NO_RELIABLE_MATCH") {
+    return {
+      heading: "No reliable evidence found",
+      text: "The closest clause was below the relevance threshold.",
+      extra: 0,
+    };
+  }
   const matches = row.matched_clauses || [];
   if (!matches.length) {
     const ids = row.matched_clause_ids || [];
@@ -67,13 +82,19 @@ function statute(row) {
 }
 
 function why(row) {
+  if (row.reason) {
+    return row.reason;
+  }
   if (row.status === "covered") {
     return `This clause satisfies ${statute(row)}.`;
   }
   if (row.status === "partial") {
     return `Closest policy text is related, but it does not clearly cover ${statute(row)}.`;
   }
-  return "No clause in this policy maps to this duty.";
+  if (row.status === "not_applicable") {
+    return row.applicability_reason || "This obligation does not apply.";
+  }
+  return "No clause in this policy maps to this duty. Missing policy language is not a finding of legal violation.";
 }
 
 export function policyNodeForClause(policyGraph, clauseId) {
@@ -129,10 +150,16 @@ export default function Findings({
   const [filter, setFilter] = useState("gaps");
   const obligations = analysis?.obligations || [];
   const counts = {
-    gaps: obligations.filter((row) => row.status !== "covered").length,
+    gaps: obligations.filter((row) =>
+      ["missing", "partial", "undetermined", "conflict", "violation"].includes(row.status),
+    ).length,
     missing: obligations.filter((row) => row.status === "missing").length,
     partial: obligations.filter((row) => row.status === "partial").length,
     covered: obligations.filter((row) => row.status === "covered").length,
+    not_applicable: obligations.filter((row) => row.status === "not_applicable").length,
+    undetermined: obligations.filter((row) => row.status === "undetermined").length,
+    violation: obligations.filter((row) => row.status === "violation").length,
+    conflict: obligations.filter((row) => row.status === "conflict").length,
     all: obligations.length,
   };
   const rows = obligations.filter((row) => matchesFilter(row, filter));
@@ -226,12 +253,25 @@ export default function Findings({
                         {pens.length ? (
                           <div className="findings-risk">
                             {pens
-                              .map((pen) =>
-                                pen.amount_crore != null
-                                  ? `${pen.title} · ₹${pen.amount_crore} crore`
-                                  : pen.title,
-                              )
+                              .map((pen) => {
+                                const amount =
+                                  pen.amount_crore != null ? `₹${pen.amount_crore} crore` : "";
+                                const eligibility = pen.eligibility || "potential_exposure";
+                                return `${pen.title}${amount ? ` · ${amount}` : ""} · ${eligibility}`;
+                              })
                               .join(" · ")}
+                            <div className="findings-disclaimer">
+                              Not a determination of liability.
+                            </div>
+                          </div>
+                        ) : null}
+                        {(row.elements || []).length ? (
+                          <div className="findings-elements">
+                            {(row.elements || []).map((item) => (
+                              <span key={item.id} className={item.satisfied ? "el-yes" : "el-no"}>
+                                {item.satisfied ? "✓" : "○"} {item.label}
+                              </span>
+                            ))}
                           </div>
                         ) : null}
                       </div>

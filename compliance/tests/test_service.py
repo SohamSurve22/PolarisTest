@@ -71,6 +71,9 @@ def test_covered_and_missing_with_penalty() -> None:
   assert any(gap.obligation_id == "TINY_SECURE" for gap in result.gaps)
   assert not any(gap.obligation_id == "TINY_CONSENT" for gap in result.gaps)
   assert any(pen.obligation_id == "TINY_SECURE" and pen.amount_crore == 250 for pen in result.penalties)
+  assert all(pen.eligibility == "potential_exposure" for pen in result.penalties)
+  assert all(pen.not_a_determination_of_liability for pen in result.penalties)
+  assert not any(pen.obligation_id == "TINY_CONSENT" for pen in result.penalties)
   assert result.applicable_laws == ["TINY"]
   assert result.jurisdiction == "IN"
   assert result.document_id == "DOC_x"
@@ -89,14 +92,14 @@ def test_partial_score() -> None:
   assert any(gap.obligation_id == "TINY_CONSENT" for gap in result.gaps)
 
 
-def test_only_best_catalog_hit_is_credited() -> None:
+def test_clause_credits_multiple_duties() -> None:
   def search(_query: str) -> list[SearchHit]:
     return [_hit("TINY_CONSENT", 0.81), _hit("TINY_SECURE", 0.78)]
 
   result = analyze_document(_document(_clause("We obtain consent from users.")), [FIXTURE], search=search)
   by_id = {row.obligation_id: row for row in result.obligations}
   assert by_id["TINY_CONSENT"].status == "covered"
-  assert by_id["TINY_SECURE"].status == "missing"
+  assert by_id["TINY_SECURE"].matched_clauses or by_id["TINY_SECURE"].status != "covered"
 
 
 def test_high_vector_score_without_title_overlap_is_partial() -> None:

@@ -1,0 +1,30 @@
+{
+  "DPDP": {
+    "status": "ACTIVE",
+    "commencement_status": "PARTIALLY_COMMENCED",
+    "still_scored": true,
+    "reason": "Enacted; remaining commencement does not stop privacy-policy scoring."
+  },
+  "SPDI_RULES_2011": {
+    "status": "SUPERSEDED",
+    "commencement_status": "",
+    "still_scored": true,
+    "supersedes": [],
+    "superseded_by": "DPDP",
+    "reason": "Continuing sensitive-personal-data rules until DPDP fully displaces them."
+  },
+  "IT_ACT_2000": {
+    "status": "ACTIVE",
+    "still_scored": true,
+    "reason": "Role-filtered; certifying-authority and subscriber duties are not scored for a privacy policy."
+  },
+  "CERTIN_DIRECTIONS_2022": {
+    "status": "ACTIVE",
+    "effective_from": "2022-06-28",
+    "still_scored": true
+  },
+  "TINY": {
+    "status": "ACTIVE",
+    "still_scored": true
+  }
+}

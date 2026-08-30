@@ -51,7 +51,7 @@ def test_analyze_txt(monkeypatch: object) -> None:
 
   from compliance.models import AnalysisResult
 
-  def fake_analyze(document, law_paths, *, jurisdiction="IN", search=None):
+  def fake_analyze(document, law_paths, *, jurisdiction="IN", search=None, **_kwargs):
     _ = law_paths, search
     return AnalysisResult(
       document_id=document.metadata.document_id,

@@ -2,6 +2,10 @@ const TO_VIEW = {
   covered: "covered",
   partial: "weak",
   missing: "missing",
+  not_applicable: "na",
+  undetermined: "undetermined",
+  violation: "violation",
+  conflict: "conflict",
 };
 
 function childrenOf(edges) {
@@ -22,6 +26,9 @@ function rollup(statuses) {
   }
   if (set.size === 1) {
     return [...set][0];
+  }
+  if (set.has("violation") || set.has("conflict")) {
+    return set.has("violation") ? "violation" : "conflict";
   }
   if (set.has("weak") || (set.has("covered") && set.has("missing"))) {
     return "weak";

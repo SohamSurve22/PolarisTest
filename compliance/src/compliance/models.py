@@ -6,7 +6,15 @@ from typing import Literal
 
 from pydantic import BaseModel, Field
 
-ObligationStatus = Literal["covered", "partial", "missing"]
+ObligationStatus = Literal[
+  "covered",
+  "partial",
+  "missing",
+  "not_applicable",
+  "undetermined",
+  "conflict",
+  "violation",
+]
 
 
 class PenaltyFinding(BaseModel):
@@ -16,12 +24,23 @@ class PenaltyFinding(BaseModel):
   imprisonment_years: float | None = None
   summary: str = ""
   act: str = ""
+  eligibility: str = ""
+  trigger_condition: str = ""
+  confidence: float = 0.0
+  reason: str = ""
+  not_a_determination_of_liability: bool = True
 
 
 class MatchedClause(BaseModel):
   clause_id: str
   section_title: str = ""
   text: str = ""
+
+
+class RequirementElementFinding(BaseModel):
+  id: str
+  label: str
+  satisfied: bool = False
 
 
 class ObligationFinding(BaseModel):
@@ -33,6 +52,13 @@ class ObligationFinding(BaseModel):
   score: float = 0.0
   matched_clause_ids: list[str] = Field(default_factory=list)
   matched_clauses: list[MatchedClause] = Field(default_factory=list)
+  applicability_reason: str = ""
+  law_status: str = ""
+  confidence: float = 0.0
+  evidence_quality: str = ""
+  reason: str = ""
+  elements: list[RequirementElementFinding] = Field(default_factory=list)
+  severity: str = "medium"
 
 
 class GapFinding(BaseModel):
@@ -51,13 +77,19 @@ class AnalysisResult(BaseModel):
   obligations: list[ObligationFinding] = Field(default_factory=list)
   gaps: list[GapFinding] = Field(default_factory=list)
   penalties: list[PenaltyFinding] = Field(default_factory=list)
+  weighted_pct: float = 0.0
 
 
 class ReportCounts(BaseModel):
   covered: int = 0
   partial: int = 0
   missing: int = 0
+  not_applicable: int = 0
+  undetermined: int = 0
+  conflict: int = 0
+  violation: int = 0
   total: int = 0
+  weighted_pct: float = 0.0
 
 
 class LawNote(BaseModel):
@@ -79,4 +111,7 @@ class ComplianceReport(BaseModel):
   findings: list[ObligationFinding] = Field(default_factory=list)
   penalties: list[PenaltyFinding] = Field(default_factory=list)
   priority_gaps: list[ObligationFinding] = Field(default_factory=list)
-  caveats: str = "Not a legal opinion. Statuses come from analysis, not the language model."
+  caveats: str = (
+    "Not a legal opinion. Statuses come from analysis, not the language model. "
+    "Missing policy language is not a finding of legal violation."
+  )

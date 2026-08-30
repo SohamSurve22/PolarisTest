@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from graph_builder.catalog_ir import CatalogObligation, CatalogPenalty, catalog_to_graph_ir
+from graph_builder.catalog_ir import CatalogObligation, CatalogPenalty, CatalogRequirement, catalog_to_graph_ir
 from graph_builder.kg_export import graph_ir_to_kg_dict
 
 
@@ -102,6 +102,33 @@ def test_penalty_skipped_when_no_matching_obligation() -> None:
     ],
   )
   assert not any(n.label == "Penalty" for n in ir.nodes)
+
+
+def test_requirement_element_has_requirement_edge() -> None:
+  ir = catalog_to_graph_ir(
+    [
+      CatalogObligation(
+        obligation_id="DPDP_SEC_8_SUB_5",
+        title="Safeguards",
+        text="Implement safeguards.",
+        act="DPDP",
+      )
+    ],
+    requirements=[
+      CatalogRequirement(
+        obligation_id="DPDP_SEC_8_SUB_5",
+        element_id="technical_measures",
+        label="Technical measures",
+      )
+    ],
+  )
+  eid = "DPDP_SEC_8_SUB_5::technical_measures"
+  node = next(n for n in ir.nodes if n.id == eid)
+  assert node.label == "RequirementElement"
+  assert any(
+    rel.source == "DPDP_SEC_8_SUB_5" and rel.target == eid and rel.type == "HAS_REQUIREMENT"
+    for rel in ir.relationships
+  )
 
 
 def test_empty_duties_is_empty_graph() -> None:

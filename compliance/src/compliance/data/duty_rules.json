@@ -1,0 +1,2315 @@
+{
+  "DPDP_SEC_4_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_5_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "notice",
+        "label": "Notice to the individual",
+        "keywords": [
+          "notice",
+          "inform",
+          "we tell",
+          "privacy notice"
+        ]
+      },
+      {
+        "id": "language",
+        "label": "Accessible language",
+        "keywords": [
+          "language",
+          "plain",
+          "clear",
+          "understand"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_5_SUB_2": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "notice",
+        "label": "Notice to the individual",
+        "keywords": [
+          "notice",
+          "inform",
+          "we tell",
+          "privacy notice"
+        ]
+      },
+      {
+        "id": "language",
+        "label": "Accessible language",
+        "keywords": [
+          "language",
+          "plain",
+          "clear",
+          "understand"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_5_SUB_3": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "language",
+        "label": "Notice in an accessible language",
+        "keywords": [
+          "language",
+          "hindi",
+          "english",
+          "eighth schedule"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_2": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_3": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "notice",
+        "label": "Notice to the individual",
+        "keywords": [
+          "notice",
+          "inform",
+          "we tell",
+          "privacy notice"
+        ]
+      },
+      {
+        "id": "language",
+        "label": "Accessible language",
+        "keywords": [
+          "language",
+          "plain",
+          "clear",
+          "understand"
+        ]
+      },
+      {
+        "id": "dpo_contact",
+        "label": "DPO or consent contact",
+        "keywords": [
+          "dpo",
+          "data protection officer",
+          "contact"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_5": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "withdraw",
+        "label": "Withdrawal of consent",
+        "keywords": [
+          "withdraw",
+          "withdrawal",
+          "opt out",
+          "opt-out"
+        ]
+      },
+      {
+        "id": "cessation",
+        "label": "Stop processing after withdrawal",
+        "keywords": [
+          "cease",
+          "stop processing",
+          "no longer process"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_6": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY",
+      "ENTITY_DATA_PROCESSOR"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "withdraw",
+        "label": "Withdrawal of consent",
+        "keywords": [
+          "withdraw",
+          "withdrawal",
+          "opt out",
+          "opt-out"
+        ]
+      },
+      {
+        "id": "cessation",
+        "label": "Stop processing after withdrawal",
+        "keywords": [
+          "cease",
+          "stop processing",
+          "no longer process"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_7": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "consent_manager",
+        "label": "Consent manager channel",
+        "keywords": [
+          "consent manager",
+          "registered consent"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_8": {
+    "roles_any": [
+      "ENTITY_CONSENT_MANAGER"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "consent_manager",
+        "label": "Consent manager channel",
+        "keywords": [
+          "consent manager",
+          "registered consent"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_6_SUB_10": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "proof",
+        "label": "Burden of proving consent",
+        "keywords": [
+          "proof",
+          "demonstrate",
+          "record of consent",
+          "evidence"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_7": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "legitimate_use",
+        "label": "Legitimate use grounds",
+        "keywords": [
+          "legitimate",
+          "employment",
+          "medical",
+          "state"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "responsibility",
+        "label": "Fiduciary responsibility",
+        "keywords": [
+          "data fiduciary",
+          "responsible",
+          "comply"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_2": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "contract",
+        "label": "Processor contract",
+        "keywords": [
+          "processor",
+          "vendor",
+          "contract",
+          "written agreement"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_3": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "accuracy",
+        "label": "Data accuracy",
+        "keywords": [
+          "accurate",
+          "accuracy",
+          "up to date",
+          "complete"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_4": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "appropriate_safeguards",
+        "label": "Appropriate safeguards",
+        "keywords": [
+          "safeguard",
+          "reasonable security",
+          "protect"
+        ]
+      },
+      {
+        "id": "technical_measures",
+        "label": "Technical measures",
+        "keywords": [
+          "encryption",
+          "encrypt",
+          "tokenis",
+          "masking",
+          "tokenisation"
+        ]
+      },
+      {
+        "id": "access_controls",
+        "label": "Access controls",
+        "keywords": [
+          "access control",
+          "least privilege",
+          "mfa",
+          "multi-factor",
+          "least-privilege"
+        ]
+      },
+      {
+        "id": "logging",
+        "label": "Logging and monitoring",
+        "keywords": [
+          "log",
+          "monitor",
+          "logging",
+          "audit"
+        ]
+      },
+      {
+        "id": "organisational",
+        "label": "Organisational measures",
+        "keywords": [
+          "vendor",
+          "due diligence",
+          "risk assessment",
+          "organisational",
+          "organizational"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_5": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "appropriate_safeguards",
+        "label": "Appropriate safeguards",
+        "keywords": [
+          "safeguard",
+          "reasonable security",
+          "protect"
+        ]
+      },
+      {
+        "id": "technical_measures",
+        "label": "Technical measures",
+        "keywords": [
+          "encryption",
+          "encrypt",
+          "tokenis",
+          "masking",
+          "tokenisation"
+        ]
+      },
+      {
+        "id": "access_controls",
+        "label": "Access controls",
+        "keywords": [
+          "access control",
+          "least privilege",
+          "mfa",
+          "multi-factor",
+          "least-privilege"
+        ]
+      },
+      {
+        "id": "logging",
+        "label": "Logging and monitoring",
+        "keywords": [
+          "log",
+          "monitor",
+          "logging",
+          "audit"
+        ]
+      },
+      {
+        "id": "organisational",
+        "label": "Organisational measures",
+        "keywords": [
+          "vendor",
+          "due diligence",
+          "risk assessment",
+          "organisational",
+          "organizational"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [
+      "do not implement security",
+      "no security safeguards",
+      "we do not encrypt"
+    ],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_6": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "notify_authority",
+        "label": "Notify the authority",
+        "keywords": [
+          "breach",
+          "incident",
+          "notify",
+          "cert-in",
+          "board"
+        ]
+      },
+      {
+        "id": "notify_individual",
+        "label": "Notify affected persons",
+        "keywords": [
+          "notify",
+          "affected",
+          "data principal",
+          "inform you"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [
+      "we do not notify",
+      "we will not report a breach"
+    ],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_7": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY",
+      "ENTITY_DATA_PROCESSOR"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "retention_limit",
+        "label": "Retention limitation",
+        "keywords": [
+          "retain",
+          "retention",
+          "how long",
+          "storage period"
+        ]
+      },
+      {
+        "id": "deletion",
+        "label": "Deletion when purpose ends",
+        "keywords": [
+          "delet",
+          "eras",
+          "no longer"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_8": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "retention_limit",
+        "label": "Retention limitation",
+        "keywords": [
+          "retain",
+          "retention",
+          "how long",
+          "storage period"
+        ]
+      },
+      {
+        "id": "deletion",
+        "label": "Deletion when purpose ends",
+        "keywords": [
+          "delet",
+          "eras",
+          "no longer"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_8_SUB_10": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "mechanism",
+        "label": "Grievance mechanism",
+        "keywords": [
+          "grievance",
+          "complaint",
+          "redress"
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "Contact point",
+        "keywords": [
+          "contact",
+          "officer",
+          "email",
+          "dpo"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_9_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "parental_consent",
+        "label": "Parental consent",
+        "keywords": [
+          "parent",
+          "guardian",
+          "verifiable"
+        ]
+      },
+      {
+        "id": "no_tracking",
+        "label": "No tracking or targeting children",
+        "keywords": [
+          "track",
+          "advertis",
+          "target",
+          "child"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_9_SUB_2": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "parental_consent",
+        "label": "Parental consent",
+        "keywords": [
+          "parent",
+          "guardian",
+          "verifiable"
+        ]
+      },
+      {
+        "id": "no_tracking",
+        "label": "No tracking or targeting children",
+        "keywords": [
+          "track",
+          "advertis",
+          "target",
+          "child"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_9_SUB_3": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "parental_consent",
+        "label": "Parental consent",
+        "keywords": [
+          "parent",
+          "guardian",
+          "verifiable"
+        ]
+      },
+      {
+        "id": "no_tracking",
+        "label": "No tracking or targeting children",
+        "keywords": [
+          "track",
+          "advertis",
+          "target",
+          "child"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [
+      "we track children",
+      "targeted advertising to children"
+    ],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_10_SUB_2": {
+    "roles_any": [
+      "ENTITY_SIGNIFICANT_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "dpo",
+        "label": "Data protection officer",
+        "keywords": [
+          "data protection officer",
+          "dpo"
+        ]
+      },
+      {
+        "id": "audit",
+        "label": "Independent audit",
+        "keywords": [
+          "audit",
+          "data auditor"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_15": {
+    "roles_any": [
+      "ENTITY_DATA_PRINCIPAL"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "duties",
+        "label": "Data principal duties",
+        "keywords": [
+          "accurate",
+          "not impersonat",
+          "not suppress"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_16_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "transfer_conditions",
+        "label": "Transfer conditions",
+        "keywords": [
+          "transfer",
+          "outside india",
+          "cross-border",
+          "international"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "DPDP_SEC_16_SUB_2": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "other_law",
+        "label": "Other law restrictions still apply",
+        "keywords": [
+          "other law",
+          "sectoral",
+          "existing law"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_4_SUB_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "publish",
+        "label": "Publish a privacy policy",
+        "keywords": [
+          "privacy policy",
+          "publish",
+          "available"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_2": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_3": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "notice",
+        "label": "Notice to the individual",
+        "keywords": [
+          "notice",
+          "inform",
+          "we tell",
+          "privacy notice"
+        ]
+      },
+      {
+        "id": "language",
+        "label": "Accessible language",
+        "keywords": [
+          "language",
+          "plain",
+          "clear",
+          "understand"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_4": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "retention_limit",
+        "label": "Retention limitation",
+        "keywords": [
+          "retain",
+          "retention",
+          "how long",
+          "storage period"
+        ]
+      },
+      {
+        "id": "deletion",
+        "label": "Deletion when purpose ends",
+        "keywords": [
+          "delet",
+          "eras",
+          "no longer"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_5": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "informed_consent",
+        "label": "Informed consent",
+        "keywords": [
+          "consent",
+          "opt-in",
+          "agree",
+          "permission"
+        ]
+      },
+      {
+        "id": "purpose",
+        "label": "Specified purpose",
+        "keywords": [
+          "purpose",
+          "why we",
+          "how we use"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_8": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "appropriate_safeguards",
+        "label": "Appropriate safeguards",
+        "keywords": [
+          "safeguard",
+          "reasonable security",
+          "protect"
+        ]
+      },
+      {
+        "id": "technical_measures",
+        "label": "Technical measures",
+        "keywords": [
+          "encryption",
+          "encrypt",
+          "tokenis",
+          "masking",
+          "tokenisation"
+        ]
+      },
+      {
+        "id": "access_controls",
+        "label": "Access controls",
+        "keywords": [
+          "access control",
+          "least privilege",
+          "mfa",
+          "multi-factor",
+          "least-privilege"
+        ]
+      },
+      {
+        "id": "logging",
+        "label": "Logging and monitoring",
+        "keywords": [
+          "log",
+          "monitor",
+          "logging",
+          "audit"
+        ]
+      },
+      {
+        "id": "organisational",
+        "label": "Organisational measures",
+        "keywords": [
+          "vendor",
+          "due diligence",
+          "risk assessment",
+          "organisational",
+          "organizational"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_5_SUB_9": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE",
+      "ENTITY_GRIEVANCE_OFFICER_SPDI"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "mechanism",
+        "label": "Grievance mechanism",
+        "keywords": [
+          "grievance",
+          "complaint",
+          "redress"
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "Contact point",
+        "keywords": [
+          "contact",
+          "officer",
+          "email",
+          "dpo"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_6_SUB_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "prior_consent",
+        "label": "Prior consent for disclosure",
+        "keywords": [
+          "share",
+          "disclos",
+          "third part",
+          "consent"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_6_SUB_4": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "prior_consent",
+        "label": "Prior consent for disclosure",
+        "keywords": [
+          "share",
+          "disclos",
+          "third part",
+          "consent"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_7": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "transfer_conditions",
+        "label": "Transfer conditions",
+        "keywords": [
+          "transfer",
+          "outside india",
+          "cross-border",
+          "international"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_8_SUB_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "appropriate_safeguards",
+        "label": "Appropriate safeguards",
+        "keywords": [
+          "safeguard",
+          "reasonable security",
+          "protect"
+        ]
+      },
+      {
+        "id": "technical_measures",
+        "label": "Technical measures",
+        "keywords": [
+          "encryption",
+          "encrypt",
+          "tokenis",
+          "masking",
+          "tokenisation"
+        ]
+      },
+      {
+        "id": "access_controls",
+        "label": "Access controls",
+        "keywords": [
+          "access control",
+          "least privilege",
+          "mfa",
+          "multi-factor",
+          "least-privilege"
+        ]
+      },
+      {
+        "id": "logging",
+        "label": "Logging and monitoring",
+        "keywords": [
+          "log",
+          "monitor",
+          "logging",
+          "audit"
+        ]
+      },
+      {
+        "id": "organisational",
+        "label": "Organisational measures",
+        "keywords": [
+          "vendor",
+          "due diligence",
+          "risk assessment",
+          "organisational",
+          "organizational"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_8_SUB_2": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "iso_standard",
+        "label": "Documented security standard",
+        "keywords": [
+          "iso",
+          "27001",
+          "isms",
+          "standard"
+        ]
+      },
+      {
+        "id": "audit",
+        "label": "Audit",
+        "keywords": [
+          "audit",
+          "audit trail",
+          "tested"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "SPDI_RULE_8_SUB_4": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "iso_standard",
+        "label": "Documented security standard",
+        "keywords": [
+          "iso",
+          "27001",
+          "isms",
+          "standard"
+        ]
+      },
+      {
+        "id": "audit",
+        "label": "Audit",
+        "keywords": [
+          "audit",
+          "audit trail",
+          "tested"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE",
+      "ENTITY_SERVICE_PROVIDER",
+      "ENTITY_INTERMEDIARY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "ntp",
+        "label": "NTP / clock synchronisation",
+        "keywords": [
+          "ntp",
+          "synchronis",
+          "clock",
+          "time server"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_2": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE",
+      "ENTITY_INTERMEDIARY",
+      "ENTITY_SERVICE_PROVIDER"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "report_incident",
+        "label": "Report cyber incidents",
+        "keywords": [
+          "incident",
+          "breach",
+          "report",
+          "cert-in",
+          "notify"
+        ]
+      },
+      {
+        "id": "six_hour",
+        "label": "Six-hour reporting window",
+        "keywords": [
+          "6 hour",
+          "six hour",
+          "six-hour",
+          "within 6"
+        ]
+      }
+    ],
+    "severity": "critical",
+    "exact_terms": [
+      "6 hour",
+      "six hour",
+      "six-hour"
+    ],
+    "contradiction_cues": [
+      "we do not report incidents"
+    ],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_3": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE",
+      "ENTITY_INTERMEDIARY",
+      "ENTITY_SERVICE_PROVIDER"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "point_of_contact",
+        "label": "Point of contact",
+        "keywords": [
+          "point of contact",
+          "poc",
+          "contact",
+          "officer"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_4": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE",
+      "ENTITY_INTERMEDIARY",
+      "ENTITY_SERVICE_PROVIDER"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "log_180",
+        "label": "Retain logs 180 days in India",
+        "keywords": [
+          "180 day",
+          "log retention",
+          "logs for"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [
+      "180 day"
+    ],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_5": {
+    "roles_any": [
+      "ENTITY_DATA_CENTRE",
+      "ENTITY_VPS_PROVIDER",
+      "ENTITY_CLOUD_PROVIDER",
+      "ENTITY_VPN_PROVIDER"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "subscriber_kyc",
+        "label": "Subscriber registration records",
+        "keywords": [
+          "subscriber",
+          "kyc",
+          "registration",
+          "vpn",
+          "cloud"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_DIR_6": {
+    "roles_any": [
+      "ENTITY_VIRTUAL_ASSET_SP",
+      "ENTITY_VIRTUAL_ASSET_EXCHANGE",
+      "ENTITY_CUSTODIAN_WALLET"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "kyc_tx",
+        "label": "KYC and transaction records",
+        "keywords": [
+          "kyc",
+          "transaction",
+          "virtual asset",
+          "wallet"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_ANNEXURE_1": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "reportable_types",
+        "label": "Reportable incident types",
+        "keywords": [
+          "incident",
+          "unauthorised",
+          "malware",
+          "phishing",
+          "breach"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "CERTIN_ANNEXURE_3": {
+    "roles_any": [
+      "ENTITY_VIRTUAL_ASSET_SP"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "kyc_docs",
+        "label": "Officially valid KYC documents",
+        "keywords": [
+          "kyc",
+          "passport",
+          "aadhaar",
+          "officially valid"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_7_SUB_1": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "retain_electronic",
+        "label": "Retain electronic records",
+        "keywords": [
+          "retain",
+          "electronic record",
+          "retention"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_7A": {
+    "roles_any": [
+      "ENTITY_DATA_FIDUCIARY"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "audit_electronic",
+        "label": "Audit electronic documents",
+        "keywords": [
+          "audit",
+          "electronic form"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_15": {
+    "roles_any": [
+      "ENTITY_SIGNATORY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "secure_signature",
+        "label": "Secure electronic signature",
+        "keywords": [
+          "electronic signature",
+          "digital signature",
+          "signatory"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_30": {
+    "roles_any": [
+      "ENTITY_CERTIFYING_AUTHORITY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "ca_procedures",
+        "label": "Certifying-authority procedures",
+        "keywords": [
+          "certifying authority",
+          "licence",
+          "certificate"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_34": {
+    "roles_any": [
+      "ENTITY_CERTIFYING_AUTHORITY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "ca_procedures",
+        "label": "Certifying-authority procedures",
+        "keywords": [
+          "certifying authority",
+          "licence",
+          "certificate"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_42_SUB_1": {
+    "roles_any": [
+      "ENTITY_SUBSCRIBER"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "private_key",
+        "label": "Control of private key",
+        "keywords": [
+          "private key",
+          "compromise",
+          "subscriber"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_42_SUB_2": {
+    "roles_any": [
+      "ENTITY_SUBSCRIBER",
+      "ENTITY_CERTIFYING_AUTHORITY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "private_key",
+        "label": "Control of private key",
+        "keywords": [
+          "private key",
+          "compromise",
+          "subscriber"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_43A": {
+    "roles_any": [
+      "ENTITY_BODY_CORPORATE"
+    ],
+    "document_types": [
+      "privacy_policy"
+    ],
+    "requirement_elements": [
+      {
+        "id": "protect_data",
+        "label": "Protect data in possession",
+        "keywords": [
+          "reasonable security",
+          "sensitive personal",
+          "negligen",
+          "protect"
+        ]
+      }
+    ],
+    "severity": "high",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_67C": {
+    "roles_any": [
+      "ENTITY_INTERMEDIARY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "preserve",
+        "label": "Preserve information as directed",
+        "keywords": [
+          "preserv",
+          "retain",
+          "intermediary"
+        ]
+      }
+    ],
+    "severity": "medium",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_26": {
+    "roles_any": [
+      "ENTITY_CONTROLLER",
+      "ENTITY_CERTIFYING_AUTHORITY"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "ca_procedures",
+        "label": "Certifying-authority procedures",
+        "keywords": [
+          "certifying authority",
+          "licence",
+          "certificate"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_70_SUB_4": {
+    "roles_any": [
+      "ENTITY_CENTRAL_GOVERNMENT"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "protected_system",
+        "label": "Protected-system security practices",
+        "keywords": [
+          "protected system",
+          "information security"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  },
+  "ITACT_SEC_70B_SUB_6": {
+    "roles_any": [
+      "ENTITY_CERTIN"
+    ],
+    "document_types": [
+      "operational_security"
+    ],
+    "requirement_elements": [
+      {
+        "id": "comply_directions",
+        "label": "Comply with CERT-In directions",
+        "keywords": [
+          "cert-in",
+          "direction",
+          "call for information"
+        ]
+      }
+    ],
+    "severity": "low",
+    "exact_terms": [],
+    "contradiction_cues": [],
+    "generic_phrases": [
+      "applicable law",
+      "as required by law",
+      "applicable legal requirements",
+      "all applicable laws",
+      "applicable laws and timelines"
+    ]
+  }
+}
