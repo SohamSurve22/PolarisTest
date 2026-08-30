@@ -345,11 +345,15 @@ class TestSchemaConstants:
         assert NodeLabel.SECTION == "Section"
         assert NodeLabel.CLAUSE == "Clause"
         assert NodeLabel.ENTITY == "Entity"
+        assert NodeLabel.OBLIGATION == "Obligation"
+        assert NodeLabel.PENALTY == "Penalty"
         assert NodeLabel.UNRESOLVED_REFERENCE == "UnresolvedReference"
 
     def test_schema_rel_types_defined(self) -> None:
         assert RelType.CONTAINS == "CONTAINS"
         assert RelType.HAS_CLAUSE == "HAS_CLAUSE"
+        assert RelType.HAS_OBLIGATION == "HAS_OBLIGATION"
+        assert RelType.PENALIZES == "PENALIZES"
         assert RelType.REFERENCES == "REFERENCES"
         assert RelType.MENTIONS == "MENTIONS"
         assert RelType.REFERS_TO == "REFERS_TO"
@@ -362,6 +366,48 @@ class TestSchemaConstants:
         assert "SubSection" in _DEFAULT_LABEL_MAP
         assert "Clause" in _DEFAULT_LABEL_MAP
         assert "UnresolvedReference" in _DEFAULT_LABEL_MAP
+
+    def test_default_map_covers_obligation_and_penalty(self) -> None:
+        from semantic_graph.neo4j_exporter import _DEFAULT_LABEL_MAP, _DEFAULT_REL_MAP
+
+        assert _DEFAULT_LABEL_MAP["Obligation"] == NodeLabel.OBLIGATION
+        assert _DEFAULT_LABEL_MAP["Penalty"] == NodeLabel.PENALTY
+        assert _DEFAULT_REL_MAP["HAS_OBLIGATION"] == RelType.HAS_OBLIGATION
+        assert _DEFAULT_REL_MAP["PENALIZES"] == RelType.PENALIZES
+
+    def test_catalog_lift_merges_obligation_nodes(self) -> None:
+        from graph_builder.catalog_ir import CatalogObligation, CatalogPenalty, catalog_to_graph_ir
+
+        mock_driver, mock_session = _mock_driver_and_session()
+        _configure_session(mock_session)
+        exporter = Neo4jExporter(driver=mock_driver)
+        graph = catalog_to_graph_ir(
+            [
+                CatalogObligation(
+                    obligation_id="DPDP_SEC_8",
+                    title="Safeguards",
+                    text="Implement safeguards.",
+                    act="DPDP",
+                )
+            ],
+            [
+                CatalogPenalty(
+                    penalty_id="DPDP_PEN_8",
+                    title="Fine",
+                    obligation_ids=("DPDP_SEC_8",),
+                    amount_crore=250.0,
+                )
+            ],
+        )
+        exporter.export(graph)
+        queries = [
+            c.args[0]
+            for c in mock_session.run.call_args_list
+            if not c.args[0].startswith("EXPLAIN")
+        ]
+        assert any("MERGE (n:Obligation" in q for q in queries)
+        assert any("MERGE (n:Penalty" in q for q in queries)
+        assert any("PENALIZES" in q for q in queries)
 
     def test_default_map_covers_known_rels(self) -> None:
         from semantic_graph.neo4j_exporter import _DEFAULT_REL_MAP

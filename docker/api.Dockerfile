@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY document_pipeline /app/document_pipeline
 COPY vectorization /app/vectorization
+COPY graph_builder /app/graph_builder
 COPY policy_compare /app/policy_compare
 COPY compliance /app/compliance
 COPY dpdp_graph.json spdi_graph.json certin_graph.json itact_graph.json /app/laws/
@@ -11,6 +12,7 @@ COPY dpdp_graph.json spdi_graph.json certin_graph.json itact_graph.json /app/law
 RUN pip install --no-cache-dir \
   -e /app/document_pipeline \
   -e /app/vectorization \
+  -e /app/graph_builder \
   -e /app/policy_compare[api] \
   -e /app/compliance
 

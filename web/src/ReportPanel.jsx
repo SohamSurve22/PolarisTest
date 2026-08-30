@@ -28,6 +28,34 @@ function closest(row) {
   };
 }
 
+function displaySourceName(report) {
+  const raw = String(report.source_filename || "").trim().replace(/\\/g, "/");
+  const base = (raw.split("/").pop() || "").replace(/[/\\"]/g, "_").trim();
+  return base || report.document_id || "";
+}
+
+function pdfDownloadName(report) {
+  const shown = displaySourceName(report);
+  const stem = shown.replace(/\.[^.]+$/, "") || report.document_id || "report";
+  const safe = String(stem).replace(/[/\\"]/g, "_").trim() || report.document_id || "report";
+  return `polarislex-${safe}.pdf`;
+}
+
+function exposure(row, penalties) {
+  const pen = (penalties || []).find((item) => item.obligation_id === row.obligation_id);
+  if (!pen) {
+    return "";
+  }
+  const parts = [];
+  if (pen.amount_crore != null && pen.amount_crore !== "") {
+    parts.push(`₹${pen.amount_crore} crore`);
+  }
+  if (pen.imprisonment_years != null && pen.imprisonment_years !== "") {
+    parts.push(`${pen.imprisonment_years} years`);
+  }
+  return parts.join(", ");
+}
+
 function groupFindings(report) {
   const findings = report.findings || [];
   const laws = [...(report.applicable_laws || [])];
@@ -76,10 +104,8 @@ export default function ReportPanel({ report, reportError, busy }) {
     return null;
   }
 
-  const counts = report.counts || {};
-  const summary = report.narrative_available
-    ? report.executive_summary
-    : NARRATIVE_UNAVAILABLE;
+  const summary = String(report.executive_summary || "").trim() || NARRATIVE_UNAVAILABLE;
+  const gaps = report.priority_gaps || [];
 
   async function downloadPdf() {
     setDlError("");
@@ -97,7 +123,7 @@ export default function ReportPanel({ report, reportError, busy }) {
       const url = URL.createObjectURL(blob);
       const link = document.createElement("a");
       link.href = url;
-      link.download = `polarislex-${report.document_id}.pdf`;
+      link.download = pdfDownloadName(report);
       link.click();
       URL.revokeObjectURL(url);
     } catch (err) {
@@ -111,15 +137,25 @@ export default function ReportPanel({ report, reportError, busy }) {
     <section className="report-panel" aria-label="Compliance report">
       <div className="report-head">
         <h3>Report</h3>
-        <button type="button" className="btn-secondary" onClick={downloadPdf} disabled={downloading}>
-          {downloading ? "Preparing PDF…" : "Download PDF"}
-        </button>
       </div>
-      <p className="report-counts">
-        Covered {counts.covered ?? 0} · Partial {counts.partial ?? 0} · Missing {counts.missing ?? 0} · Total{" "}
-        {counts.total ?? 0}
-      </p>
+      {displaySourceName(report) ? <p className="report-file">{displaySourceName(report)}</p> : null}
       <p className="report-summary">{summary}</p>
+      {gaps.length ? (
+        <section className="report-gaps" aria-label="Priority gaps">
+          <h4>Priority gaps</h4>
+          <ul>
+            {gaps.map((row) => (
+              <li key={row.obligation_id}>
+                <span className="report-gap-title">{row.title}</span>
+                {row.act ? <span className="report-gap-act"> {row.act}</span> : null}
+                {exposure(row, report.penalties) ? (
+                  <span className="report-gap-exposure"> — {exposure(row, report.penalties)}</span>
+                ) : null}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
       {groupFindings(report).map((section) => (
         <section key={section.act} className="report-law">
           <h4>{section.act}</h4>
@@ -144,8 +180,13 @@ export default function ReportPanel({ report, reportError, busy }) {
           })}
         </section>
       ))}
-      {dlError ? <p className="findings-empty">{dlError}</p> : null}
       <p className="report-caveat">{report.caveats}</p>
+      <div className="report-actions">
+        <button type="button" className="btn-secondary" onClick={downloadPdf} disabled={downloading}>
+          {downloading ? "Preparing PDF…" : "Download PDF"}
+        </button>
+        {dlError ? <p className="findings-empty">{dlError}</p> : null}
+      </div>
     </section>
   );
 }

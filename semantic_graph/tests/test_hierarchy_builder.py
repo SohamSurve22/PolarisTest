@@ -721,3 +721,31 @@ class TestSemanticGraphBuilder:
 
         assert len(ir.nodes) == 1
         assert ir.nodes[0].id == "custom"
+
+    def test_enrichment_stage_runs_when_injected(self) -> None:
+        from semantic_graph.semantic_enrichment.enrichment_models import ClauseMeaning, Obligation
+        from semantic_graph.semantic_enrichment.semantic_enrichment_stage import (
+            SemanticEnrichmentStage,
+        )
+        from semantic_graph.semantic_graph_builder import SemanticGraphBuilder
+
+        class StubAnalyzer:
+            def analyze(self, clause_text: str, clause_id: str) -> ClauseMeaning:
+                _ = clause_text
+                return ClauseMeaning(
+                    clause_id=clause_id,
+                    obligations=[Obligation(subject="s", action="a", object="o")],
+                )
+
+        builder = SemanticGraphBuilder(
+            enrichment_stage=SemanticEnrichmentStage(analyzer=StubAnalyzer()),
+        )
+        clauses = [
+            _make_clause(
+                clause_id="S001_C001", section_id="S001",
+                section_title="CHAPTER 1", text="Fiduciary must give notice.",
+            ),
+        ]
+        ir = builder.build(_make_document(clauses))
+        assert any(node.label == "Obligation" for node in ir.nodes)
+        assert any(rel.type == "HAS_OBLIGATION" for rel in ir.relationships)

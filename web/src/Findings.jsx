@@ -1,5 +1,4 @@
 import { useState } from "react";
-import ReportPanel from "./ReportPanel.jsx";
 
 const FILTERS = [
   { id: "gaps", label: "Gaps" },
@@ -58,12 +57,21 @@ function policyMap(row) {
   };
 }
 
+function statute(row) {
+  const act = String(row.act || "").trim();
+  const title = String(row.title || "").trim();
+  if (act && title) {
+    return `${act}: ${title}`;
+  }
+  return title || act || row.obligation_id;
+}
+
 function why(row) {
   if (row.status === "covered") {
-    return "This policy section covers the duty.";
+    return `This clause satisfies ${statute(row)}.`;
   }
   if (row.status === "partial") {
-    return "Closest policy text is related, but it does not clearly cover this duty.";
+    return `Closest policy text is related, but it does not clearly cover ${statute(row)}.`;
   }
   return "No clause in this policy maps to this duty.";
 }
@@ -116,6 +124,7 @@ export default function Findings({
   report,
   reportError,
   reportBusy,
+  onViewReport,
 }) {
   const [filter, setFilter] = useState("gaps");
   const obligations = analysis?.obligations || [];
@@ -163,7 +172,6 @@ export default function Findings({
         </p>
       ) : (
         <>
-          <ReportPanel report={report} reportError={reportError} busy={reportBusy} />
           <div className="findings-filters" role="tablist" aria-label="Filter findings">
             {FILTERS.map((item) => (
               <button
@@ -247,6 +255,19 @@ export default function Findings({
           ) : (
             <p className="findings-empty">No obligations in this filter.</p>
           )}
+          {reportBusy || reportError || report ? (
+            <div className="findings-foot">
+              {reportBusy ? (
+                <p className="findings-memo-status">Writing memo (local Qwen)…</p>
+              ) : null}
+              {reportError && !report ? <p className="findings-memo-status">{reportError}</p> : null}
+              {report ? (
+                <button className="btn-secondary" type="button" onClick={onViewReport}>
+                  View Report
+                </button>
+              ) : null}
+            </div>
+          ) : null}
         </>
       )}
     </section>

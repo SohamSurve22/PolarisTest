@@ -22,6 +22,7 @@ class NodeLabel:
     CLAUSE = "Clause"
     ENTITY = "Entity"
     OBLIGATION = "Obligation"
+    PENALTY = "Penalty"
     UNRESOLVED_REFERENCE = "UnresolvedReference"
 
 
@@ -35,6 +36,7 @@ class RelType:
     CONTAINS = "CONTAINS"
     HAS_CLAUSE = "HAS_CLAUSE"
     HAS_OBLIGATION = "HAS_OBLIGATION"
+    PENALIZES = "PENALIZES"
     REFERENCES = "REFERENCES"
     MENTIONS = "MENTIONS"
     REFERS_TO = "REFERS_TO"

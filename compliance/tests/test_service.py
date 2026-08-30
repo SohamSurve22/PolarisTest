@@ -74,6 +74,7 @@ def test_covered_and_missing_with_penalty() -> None:
   assert result.applicable_laws == ["TINY"]
   assert result.jurisdiction == "IN"
   assert result.document_id == "DOC_x"
+  assert result.source_filename == "policy.txt"
   assert by_id["TINY_CONSENT"].matched_clauses
   assert "consent" in by_id["TINY_CONSENT"].matched_clauses[0].text.lower()
 
@@ -106,6 +107,48 @@ def test_high_vector_score_without_title_overlap_is_partial() -> None:
   secure = next(row for row in result.obligations if row.obligation_id == "TINY_SECURE")
   assert secure.status == "partial"
   assert any(gap.obligation_id == "TINY_SECURE" for gap in result.gaps)
+
+
+def test_unknown_qdrant_id_is_not_an_obligation() -> None:
+  def search(_query: str) -> list[SearchHit]:
+    return [_hit("NOT_IN_GRAPH", 0.99), _hit("TINY_CONSENT", 0.8)]
+
+  result = analyze_document(
+    _document(_clause("We obtain consent from users.")),
+    [FIXTURE],
+    search=search,
+  )
+  ids = {row.obligation_id for row in result.obligations}
+  assert "NOT_IN_GRAPH" not in ids
+  assert "TINY_CONSENT" in ids
+
+
+def test_duty_set_comes_from_graph_ir(monkeypatch: object) -> None:
+  from graph_builder.catalog_ir import CatalogObligation, catalog_to_graph_ir
+
+  slim = catalog_to_graph_ir(
+    [
+      CatalogObligation(
+        obligation_id="TINY_CONSENT",
+        title="Consent required",
+        act="TINY",
+        summary="Must get consent.",
+      ),
+    ]
+  )
+  monkeypatch.setattr("compliance.service.ir_from_paths", lambda _paths: slim)
+
+  def search(_query: str) -> list[SearchHit]:
+    return [_hit("TINY_SECURE", 0.99)]
+
+  result = analyze_document(
+    _document(_clause("We obtain consent from users.")),
+    [FIXTURE],
+    search=search,
+  )
+  ids = {row.obligation_id for row in result.obligations}
+  assert ids == {"TINY_CONSENT"}
+  assert "TINY_SECURE" not in ids
 
 
 def test_empty_catalog(tmp_path: Path) -> None:

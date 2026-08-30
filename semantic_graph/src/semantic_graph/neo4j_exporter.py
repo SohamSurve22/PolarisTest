@@ -29,6 +29,8 @@ _DEFAULT_LABEL_MAP: dict[str, str] = {
     "SubSection": NodeLabel.SECTION,
     "Clause": NodeLabel.CLAUSE,
     "Entity": NodeLabel.ENTITY,
+    "Obligation": NodeLabel.OBLIGATION,
+    "Penalty": NodeLabel.PENALTY,
     "UnresolvedReference": NodeLabel.UNRESOLVED_REFERENCE,
 }
 
@@ -39,6 +41,7 @@ _DEFAULT_REL_MAP: dict[str, str] = {
     "HAS_SUBSECTION": RelType.CONTAINS,
     "HAS_CLAUSE": RelType.HAS_CLAUSE,
     "HAS_OBLIGATION": RelType.HAS_OBLIGATION,
+    "PENALIZES": RelType.PENALIZES,
     "REFERENCES": RelType.REFERENCES,
     "UNRESOLVED_REFERENCE": RelType.REFERS_TO,
 }

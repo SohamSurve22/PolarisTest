@@ -16,6 +16,7 @@ dependencies = [
     "document-pipeline",
     "policy-compare",
     "vectorization",
+    "graph-builder",
 ]
 
 [project.optional-dependencies]
@@ -29,7 +30,7 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-pythonpath = ["src", "../document_pipeline/src", "../policy_compare/src", "../vectorization/src"]
+pythonpath = ["src", "../document_pipeline/src", "../policy_compare/src", "../vectorization/src", "../graph_builder/src"]
 addopts = "-ra"
 
 [tool.ruff]

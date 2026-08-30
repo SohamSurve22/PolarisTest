@@ -1,4 +1,4 @@
-"""India/DPDP analysis: match parsed clauses to catalog obligations via Qdrant."""
+"""India/DPDP analysis: GraphIR duties scored against policy clauses via Qdrant."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ from document_pipeline.models.semantic import StructuralRole
 from vectorization.models import SearchHit
 from vectorization.sources import clause_from_entity
 
-from compliance.catalog import load_catalog
+from compliance.graph_scope import ir_from_paths, obligation_nodes, penalties_for
 from compliance.models import (
   AnalysisResult,
   GapFinding,
@@ -20,7 +20,6 @@ from compliance.models import (
   ObligationFinding,
   PenaltyFinding,
 )
-from policy_compare.models import LawChunk
 
 COVERED_SCORE = 0.55
 PARTIAL_SCORE = 0.30
@@ -58,11 +57,12 @@ def analyze_document(
     msg = f"Unsupported jurisdiction: {jurisdiction}"
     raise ValueError(msg)
 
-  catalog = load_catalog(law_paths)
+  ir = ir_from_paths(law_paths)
+  duties = obligation_nodes(ir)
   search_fn = search or default_search
   clauses = _policy_clauses(document)
   best: dict[str, tuple[float, list[MatchedClause]]] = {
-    chunk.doc_id: (0.0, []) for chunk in catalog.obligations
+    node.id: (0.0, []) for node in duties
   }
 
   try:
@@ -96,15 +96,19 @@ def analyze_document(
     raise AnalyzeError(str(exc)) from exc
 
   obligations: list[ObligationFinding] = []
-  for chunk in catalog.obligations:
-    score, matches = best[chunk.doc_id]
-    status = _status(score, [row.text for row in matches], chunk)
+  for node in duties:
+    score, matches = best[node.id]
+    props = node.properties or {}
+    title = str(props.get("title") or node.id)
+    summary = str(props.get("summary") or "")
+    act = str(props.get("act") or "")
+    status = _status(score, [row.text for row in matches], title)
     obligations.append(
       ObligationFinding(
-        obligation_id=chunk.doc_id,
-        title=chunk.title,
-        summary=chunk.summary,
-        act=chunk.act,
+        obligation_id=node.id,
+        title=title,
+        summary=summary,
+        act=act,
         status=status,
         score=score,
         matched_clause_ids=[row.clause_id for row in matches],
@@ -129,7 +133,7 @@ def analyze_document(
   for row in obligations:
     if row.status == "covered":
       continue
-    for link in catalog.penalties_for(row.obligation_id):
+    for link in penalties_for(ir, row.obligation_id):
       key = (link.penalty_id, row.obligation_id)
       if key in seen:
         continue
@@ -145,9 +149,10 @@ def analyze_document(
         )
       )
 
-  laws = sorted({chunk.act for chunk in catalog.obligations if chunk.act})
+  laws = sorted({row.act for row in obligations if row.act})
   return AnalysisResult(
     document_id=document.metadata.document_id,
+    source_filename=str(document.metadata.filename or ""),
     jurisdiction=code,
     applicable_laws=laws,
     obligations=obligations,
@@ -156,16 +161,16 @@ def analyze_document(
   )
 
 
-def _status(score: float, clause_texts: list[str], chunk: LawChunk) -> str:
-  if score >= COVERED_SCORE and _title_overlap(clause_texts, chunk):
+def _status(score: float, clause_texts: list[str], title: str) -> str:
+  if score >= COVERED_SCORE and _title_overlap(clause_texts, title):
     return "covered"
   if score >= PARTIAL_SCORE:
     return "partial"
   return "missing"
 
 
-def _title_overlap(clause_texts: list[str], chunk: LawChunk) -> bool:
-  needles = _tokens(chunk.title)
+def _title_overlap(clause_texts: list[str], title: str) -> bool:
+  needles = _tokens(title)
   if not needles:
     return True
   haystack = _tokens(" ".join(clause_texts))

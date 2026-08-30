@@ -214,6 +214,28 @@ class TestSemanticEnrichmentStage:
         assert ob_node.properties["object"] == "licence"
         assert ob_node.properties["condition"] == "while driving"
         assert ob_node.properties["exception"] == "unless exempt"
+        assert ob_node.properties["text"] == "driver possess licence while driving unless exempt"
+
+    def test_skips_clause_when_analyzer_raises(self) -> None:
+        graph = GraphIR(
+            nodes=[
+                GraphNode(id="cl_bad", label="Clause", properties={"text": "broken"}),
+                GraphNode(id="cl_ok", label="Clause", properties={"text": "Driver must possess licence."}),
+            ],
+            relationships=[],
+        )
+        analyzer = MagicMock()
+        analyzer.analyze.side_effect = [
+            ValueError("bad json"),
+            ClauseMeaning(
+                clause_id="cl_ok",
+                obligations=[Obligation(subject="driver", action="possess", object="licence")],
+            ),
+        ]
+        result = SemanticEnrichmentStage(analyzer=analyzer).process(graph)
+        obl = [n for n in result.nodes if n.label == "Obligation"]
+        assert len(obl) == 1
+        assert obl[0].id.startswith("obl_cl_ok_")
 
     def test_obligation_id_format(self) -> None:
         graph = GraphIR(

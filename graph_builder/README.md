@@ -43,5 +43,7 @@ This does not open Neo4j. `dump-ir` writes the GraphIR file; `export --ir-output
 still talks to Neo4j and also writes the file. Obligation `text` uses
 `properties.text`, or else joins `subject` / `action` / `object` / `condition` /
 `exception`. Sections without title/body and blank obligations are omitted.
-`semantic-graph dump-ir` builds document structure (Section/Clause), not
-LLM `Obligation` nodes — those come from `LLMGraphBuilder` or a curated IR.
+`semantic-graph dump-ir` builds document structure (Section/Clause). Catalog
+`Obligation` nodes (same ids as `/analyze`) come from `semantic-graph from-catalog`.
+`/analyze` builds that same GraphIR in-process; it does not open Neo4j.
+Opt-in `dump-ir --enrich` extracts slot obligations via local Ollama.

@@ -1,6 +1,6 @@
 # PolarisLex architecture (current state)
 
-PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act, can **analyze** that policy for obligation gaps and linked penalties, and can **write a client memo + PDF** from those findings (India MVP). It does **not** traverse Neo4j obligations.
+PolarisLex is a legal-document intelligence stack. Today it **parses** documents, **embeds** clauses for search, **builds a graph** for structure, can **overlay** a private-company website privacy policy against an ideal topic graph from DPDP / SPDI / CERT-In / IT Act, can **analyze** that policy for obligation gaps and linked penalties, and can **write a client memo + PDF** from those findings (India MVP). `/analyze` builds GraphIR in-process (Obligation + `PENALIZES`); it does **not** open Bolt or traverse Neo4j.
 
 Packages are independently installable. Vector search and Neo4j do **not** import each other. The product UI does **not** use Neo4j Browser. The join for law overlay is the four `*_graph.json` files at the repo root.
 
@@ -124,7 +124,7 @@ flowchart TB
 
 ### SemanticGraphBuilder (CLI today)
 
-Used by `semantic-graph dump-ir` and `semantic-graph export`. Hierarchy + reference resolution. No LLM.
+Used by `semantic-graph dump-ir` and `semantic-graph export`. Hierarchy + reference resolution. No LLM unless `dump-ir --enrich`.
 
 Neo4j label map:
 
@@ -132,20 +132,27 @@ Neo4j label map:
 |---|---|
 | `LawVersion` | `Document` |
 | `Section` / `SubSection` | `Section` |
+| `Obligation` | `Obligation` |
+| `Penalty` | `Penalty` |
 | `HAS_SECTION` / `HAS_CHAPTER` / `HAS_SUBSECTION` | `CONTAINS` |
 | `HAS_CLAUSE` | `HAS_CLAUSE` |
+| `HAS_OBLIGATION` | `HAS_OBLIGATION` |
+| `PENALIZES` | `PENALIZES` |
 
 Unnumbered headings become **sibling** Sections under Document. Nesting is parked, not a missing export.
 
+India catalog duties enter GraphIR via `semantic-graph from-catalog` (same `doc_id`s as `/analyze`). `dump-ir --enrich` is a separate LLM slot extract; those ids are not catalog ids.
+
 ### LLMGraphBuilder
 
-`GraphBuilderPipeline`: EntityDocument → LLM JSON → GraphIR → validator → Cypher → optional Neo4j. This is the path that emits **Obligation** nodes (`subject` / `action` / `object` / `condition` / `exception`). `dump-ir` does not run it, so a policy dump often has no obligations for `ingest-kg`.
+`GraphBuilderPipeline`: EntityDocument → LLM JSON → GraphIR → validator → Cypher → optional Neo4j. Still unused by dump-ir (which uses `SemanticEnrichmentStage` only when `--enrich`).
 
 ### File join (no Neo4j)
 
-1. `semantic-graph dump-ir statute.txt -o ir.json`
-2. `graph-builder-export-kg ir.json -o ../kg_export/LAW.json --law-code LAW`
-3. `vectorization ingest-kg`
+1. `semantic-graph from-catalog dpdp_graph.json … -o catalog-ir.json` (India duties)
+2. `semantic-graph dump-ir statute.txt -o ir.json` (outline; add `--enrich` for slot Obligation nodes)
+3. `graph-builder-export-kg ir.json -o ../kg_export/LAW.json --law-code LAW`
+4. `vectorization ingest-kg`
 
 `graph-builder-export-kg` keeps Section/Obligation text. Blank items are omitted.
 
@@ -165,11 +172,14 @@ vectorization reembed
 
 # Graph without Neo4j
 semantic-graph dump-ir statute.txt -o ir.json
+semantic-graph dump-ir --enrich statute.txt -o ir.json
+semantic-graph from-catalog dpdp_graph.json spdi_graph.json certin_graph.json itact_graph.json -o catalog-ir.json
 graph-builder-export-kg ir.json -o ../kg_export/LAW.json --law-code LAW
 
 # Graph into Neo4j
 docker compose up -d neo4j
 semantic-graph export statute.txt
+semantic-graph from-catalog dpdp_graph.json -o catalog-ir.json --to-neo4j
 semantic-graph export statute.txt --ir-output ir.json
 
 # Product UI (policy overlay + analysis)
@@ -189,17 +199,17 @@ docker compose up --build web api
 
 `POST /compare` (multipart file) runs `document_pipeline`, projects the four law JSON files into topic hubs, and returns two view graphs plus match links. Matching is **lexical topic keywords**; it does not need Qdrant or Ollama.
 
-`POST /analyze` (same upload, optional form `jurisdiction` default `IN`) scores policy clauses against `kg_obligation` vectors in Qdrant (`vectorization.search_text`) and attaches penalties from the four law JSON files. A clause credits only its best catalog hit; **covered** also requires title-token overlap with that obligation (generic privacy language cannot cover unrelated duties). Response is `AnalysisResult` (findings), not pipeline “context.” The inspector shows applicable laws, covered vs gaps, and penalty lines. Analyze does **not** upsert the uploaded policy into Qdrant. If Qdrant or Ollama is down, `/analyze` returns **503**; `/compare` still works.
+`POST /analyze` (same upload, optional form `jurisdiction` default `IN`) builds GraphIR from the four law JSON files (`catalog_to_graph_ir` in-process; `compliance` imports `graph_builder`). Obligation node ids are the authoritative duty set. Qdrant `kg_obligation` search only scores those ids (`vectorization.search_text`). A clause credits only its best in-scope hit; **covered** also requires title-token overlap. Penalties come from GraphIR `PENALIZES` edges, not a second JSON walk. Response is `AnalysisResult` (findings), not pipeline “context.” The inspector names `{act}: {title}` for covered/partial rows. Analyze does **not** upsert the uploaded policy into Qdrant and does **not** open Neo4j. If Qdrant or Ollama is down, `/analyze` returns **503**; `/compare` still works.
 
-Analyze v1 does **not** traverse Neo4j. `semantic-graph dump-ir` still has no Obligation nodes. A later increment can join GraphIR obligations once they exist.
+Catalog Obligation nodes can also be written with `semantic-graph from-catalog` (same mapper as `/analyze`). Cypher at analyze time and `applies_if` preconditions are still later.
 
-The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. After analyze, `POST /report` assembles every duty into a client memo (Qwen writes only the summary and per-law notes). `POST /report.pdf` renders that JSON with ReportLab; download does not call the chat model again. If chat is down, the memo table and PDF still work (`narrative_available: false`).
+The UI is landing (load a policy) then a graph-first workspace. Untitled `S001` is labeled **Introduction**. Clauses stay in node summaries (click), not as a 246-node star. After analyze, `POST /report` assembles every duty into a client memo. Per-law Themes (2–3 missing/partial titles) and the first summary sentence (scoreboard) are engine-owned; Qwen may append extra briefing sentences. The Findings page shows **View Report** once that JSON is ready; the memo itself is a separate screen (`#report`). `POST /report.pdf` renders that JSON with ReportLab (upload filename, priority-gaps block); download does not call the chat model again. If chat is down, the scoreboard, duty table, and PDF still work (`narrative_available: false`).
 
 ## Not in this build
 
-- Neo4j obligation traversal (Phase 4 increment after GraphIR has Obligation nodes)
+- Neo4j / Cypher at analyze time (`/analyze` uses in-process GraphIR + Qdrant; Bolt is unused on this path)
+- `applies_if` / NOT_APPLICABLE preconditions on Obligation nodes
 - Durable reports database (optional `POLARIS_REPORT_DIR` JSON only; no SQLite)
-- Hybrid graph+vector fusion at query time
 - LLM `retrieval_text` rewrite (Spec 4, parked)
 - Smarter overlay matching (embeddings / LLM labels / obligation graph) — parked in `plan.md` (“Later — smarter matching”)
 - Pluggable jurisdictions beyond India website-privacy MVP

@@ -13,6 +13,8 @@ from compliance.models import (
   AnalysisResult,
   ComplianceReport,
   LawNote,
+  ObligationFinding,
+  PenaltyFinding,
   ReportCounts,
 )
 
@@ -22,13 +24,22 @@ DEFAULT_MODEL = "qwen2.5:7b-instruct-q4_K_M"
 _FENCE = re.compile(r"^```(?:json)?\s*|\s*```$", re.IGNORECASE)
 NARRATIVE_UNAVAILABLE = "Narrative unavailable. The table below is from automated analysis only."
 
-SYSTEM = """You write a short client-facing compliance memo from structured analysis JSON.
-You must not invent laws, obligation ids, statuses, or penalties.
-Statuses in the JSON are already final. Cover what is in place, what is partial, and what is missing.
+SYSTEM = """You write extra briefing sentences for a client-facing compliance memo.
+The engine already finalized statuses, per-law counts, and Themes.
+You must not invent laws, obligation ids, statuses, penalties, or coverage verdicts.
+Do not write law_notes themes. Do not start with However. Do not say "compliance framework".
+Say "this policy" when you refer to the document.
 Return only this object:
-{"executive_summary": string, "law_notes": [{"act": string, "note": string}]}
-executive_summary under 160 words. Each law note under 60 words. Use only acts listed in applicable_laws.
+{"executive_summary": string, "law_notes": []}
+executive_summary: 2 to 4 sentences after the engine scoreboard. Name what is in place
+from covered titles, then remaining gap topics. Do not quote covered/partial/missing counts.
 """
+
+THEME_LIMIT = 3
+PRIORITY_GAPS_CAP = 5
+_FRAMEWORK = re.compile(r"the compliance framework|compliance framework", re.IGNORECASE)
+_HOWEVER = re.compile(r"^however,?\s+", re.IGNORECASE)
+_SENTENCE = re.compile(r"(?<=[.!?])\s+")
 
 REPORT_SCHEMA = {
   "type": "object",
@@ -40,9 +51,9 @@ REPORT_SCHEMA = {
         "type": "object",
         "properties": {
           "act": {"type": "string"},
-          "note": {"type": "string"},
+          "theme": {"type": "string"},
         },
-        "required": ["act", "note"],
+        "required": ["act", "theme"],
       },
     },
   },
@@ -54,24 +65,50 @@ class ReportError(Exception):
   """Chat model unavailable or returned unusable JSON."""
 
 
+def verdict_sentence(act: str, counts: ReportCounts) -> str:
+  return f"{act}: {counts.covered} covered, {counts.partial} partial, {counts.missing} missing."
+
+
+def scoreboard_sentence(counts: ReportCounts) -> str:
+  return (
+    f"This policy covers {counts.covered} of {counts.total} scored duties, "
+    f"with {counts.partial} partial and {counts.missing} missing."
+  )
+
+
+def engine_themes(analysis: AnalysisResult, act: str) -> str:
+  titles = _by_law_titles(analysis).get(act) or {"missing": [], "partial": []}
+  picked: list[str] = []
+  seen: set[str] = set()
+  for title in list(titles.get("missing") or []) + list(titles.get("partial") or []):
+    text = str(title or "").strip()
+    if not text or text in seen:
+      continue
+    seen.add(text)
+    picked.append(text)
+    if len(picked) >= THEME_LIMIT:
+      break
+  return "; ".join(picked)
+
+
 def compact_payload(analysis: AnalysisResult) -> dict:
   counts = _counts(analysis)
-  by_act: dict[str, dict[str, list[str]]] = {}
-  for row in analysis.obligations:
-    bucket = by_act.setdefault(row.act or "", {"covered": [], "partial": [], "missing": []})
-    bucket[row.status].append(row.title)
-  ordered_acts = list(analysis.applicable_laws)
-  for act in sorted(key for key in by_act if key not in ordered_acts):
-    ordered_acts.append(act)
+  titles = _by_law_titles(analysis)
+  buckets = _by_law_counts(analysis)
   by_law = []
-  for act in ordered_acts:
-    titles = by_act.get(act) or {"covered": [], "partial": [], "missing": []}
+  for act in _ordered_acts(analysis):
+    act_counts = buckets.get(act) or ReportCounts()
+    act_titles = titles.get(act) or {"covered": [], "partial": [], "missing": []}
     by_law.append(
       {
         "act": act,
-        "covered": titles["covered"],
-        "partial": titles["partial"],
-        "missing": titles["missing"],
+        "counts": {
+          "covered": act_counts.covered,
+          "partial": act_counts.partial,
+          "missing": act_counts.missing,
+          "total": act_counts.total,
+        },
+        "titles": act_titles,
       }
     )
   return {
@@ -99,13 +136,17 @@ def assemble_report(
   ]
   return ComplianceReport(
     document_id=analysis.document_id,
+    source_filename=analysis.source_filename,
     jurisdiction=analysis.jurisdiction,
     applicable_laws=list(analysis.applicable_laws),
     generated_at=generated_at,
     model=model,
     counts=counts,
+    executive_summary=scoreboard_sentence(counts),
     findings=list(analysis.obligations),
     penalties=penalties,
+    priority_gaps=_priority_gaps(analysis.obligations, penalties),
+    law_notes=_verdict_notes(analysis),
     narrative_available=False,
   )
 
@@ -132,17 +173,9 @@ def generate_report(
     _persist(report, analysis.document_id, report_dir)
     return report
 
-  allowed_acts = set(analysis.applicable_laws)
-  notes: list[LawNote] = []
-  for item in parsed.get("law_notes") or []:
-    act = str(item.get("act") or "")
-    if act not in allowed_acts:
-      continue
-    notes.append(LawNote(act=act, note=str(item.get("note") or "").strip()))
-  report.executive_summary = summary
+  report.executive_summary = _compose_summary(scoreboard_sentence(report.counts), summary, report.counts)
   report.narrative_available = True
   report.model = model_name
-  report.law_notes = notes
   _persist(report, analysis.document_id, report_dir)
   return report
 
@@ -184,6 +217,97 @@ def _counts(analysis: AnalysisResult) -> ReportCounts:
     partial=partial,
     missing=missing,
     total=len(analysis.obligations),
+  )
+
+
+def _by_law_counts(analysis: AnalysisResult) -> dict[str, ReportCounts]:
+  buckets: dict[str, ReportCounts] = {}
+  for row in analysis.obligations:
+    act = row.act or ""
+    counts = buckets.setdefault(act, ReportCounts())
+    if row.status == "covered":
+      counts.covered += 1
+    elif row.status == "partial":
+      counts.partial += 1
+    else:
+      counts.missing += 1
+    counts.total += 1
+  return buckets
+
+
+def _by_law_titles(analysis: AnalysisResult) -> dict[str, dict[str, list[str]]]:
+  titles: dict[str, dict[str, list[str]]] = {}
+  for row in analysis.obligations:
+    act = row.act or ""
+    bucket = titles.setdefault(act, {"covered": [], "partial": [], "missing": []})
+    bucket[row.status].append(row.title)
+  return titles
+
+
+def _ordered_acts(analysis: AnalysisResult) -> list[str]:
+  seen = list(analysis.applicable_laws)
+  extras = sorted(
+    act for act in {row.act or "" for row in analysis.obligations} if act and act not in seen
+  )
+  return [act for act in seen + extras if act]
+
+
+def _priority_gaps(
+  obligations: list[ObligationFinding],
+  penalties: list[PenaltyFinding],
+) -> list[ObligationFinding]:
+  scored = {row.obligation_id: row for row in penalties}
+  missing = [
+    row
+    for row in obligations
+    if row.status == "missing" and row.obligation_id in scored
+  ]
+
+  def sort_key(row: ObligationFinding) -> tuple[float, float]:
+    pen = scored[row.obligation_id]
+    amount = pen.amount_crore if pen.amount_crore is not None else -1.0
+    years = pen.imprisonment_years if pen.imprisonment_years is not None else -1.0
+    return (amount, years)
+
+  missing.sort(key=sort_key, reverse=True)
+  return missing[:PRIORITY_GAPS_CAP]
+
+
+def _verdict_notes(analysis: AnalysisResult) -> list[LawNote]:
+  buckets = _by_law_counts(analysis)
+  notes: list[LawNote] = []
+  for act in _ordered_acts(analysis):
+    verdict = verdict_sentence(act, buckets.get(act) or ReportCounts())
+    themes = engine_themes(analysis, act)
+    note = f"{verdict} Themes: {themes}." if themes else verdict
+    notes.append(LawNote(act=act, note=note))
+  return notes
+
+
+def _compose_summary(board: str, qwen: str, counts: ReportCounts) -> str:
+  text = _HOWEVER.sub("", qwen.strip(), count=1).strip()
+  text = _FRAMEWORK.sub("this policy", text).strip()
+  if not text:
+    return board
+  first, rest = _first_sentence(text)
+  if _has_scoreboard_counts(first, counts):
+    if "this policy" not in first.lower():
+      first = f"This policy: {first[0].lower() + first[1:]}" if first else board
+    return " ".join(part for part in (first, rest) if part).strip()
+  return f"{board} {text}".strip()
+
+
+def _first_sentence(text: str) -> tuple[str, str]:
+  parts = _SENTENCE.split(text.strip(), maxsplit=1)
+  if len(parts) == 1:
+    return parts[0].strip(), ""
+  return parts[0].strip(), parts[1].strip()
+
+
+def _has_scoreboard_counts(sentence: str, counts: ReportCounts) -> bool:
+  return all(
+    str(value) in sentence
+    for value in (counts.covered, counts.partial, counts.missing, counts.total)
   )
 
 

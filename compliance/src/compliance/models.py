@@ -45,6 +45,7 @@ class GapFinding(BaseModel):
 
 class AnalysisResult(BaseModel):
   document_id: str
+  source_filename: str = ""
   jurisdiction: str
   applicable_laws: list[str] = Field(default_factory=list)
   obligations: list[ObligationFinding] = Field(default_factory=list)
@@ -66,6 +67,7 @@ class LawNote(BaseModel):
 
 class ComplianceReport(BaseModel):
   document_id: str
+  source_filename: str = ""
   jurisdiction: str = ""
   applicable_laws: list[str] = Field(default_factory=list)
   generated_at: str = ""
@@ -76,4 +78,5 @@ class ComplianceReport(BaseModel):
   law_notes: list[LawNote] = Field(default_factory=list)
   findings: list[ObligationFinding] = Field(default_factory=list)
   penalties: list[PenaltyFinding] = Field(default_factory=list)
+  priority_gaps: list[ObligationFinding] = Field(default_factory=list)
   caveats: str = "Not a legal opinion. Statuses come from analysis, not the language model."

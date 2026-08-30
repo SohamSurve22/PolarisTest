@@ -3,6 +3,8 @@
 Usage:
     semantic-graph dump-ir <path> -o ir.json
     semantic-graph dump-ir --text "<content>" -o ir.json
+    semantic-graph dump-ir --enrich <path> -o ir.json
+    semantic-graph from-catalog <law.json> [...] -o ir.json
     semantic-graph export <path> [--ir-output ir.json] [--uri <uri>] [--user <user>] [--password <password>]
     semantic-graph export --text "<content>" [--uri <uri>] [--user <user>] [--password <password>]
 """
@@ -13,6 +15,7 @@ import argparse
 import sys
 
 from semantic_graph.cli.export_graph import register_dump_ir_command, register_export_command
+from semantic_graph.cli.from_catalog import register_from_catalog_command
 
 _DESCRIPTION = "PolarisLex Semantic Graph — document ingestion, GraphIR dump, Neo4j export"
 
@@ -31,6 +34,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command")
     register_export_command(subparsers)
     register_dump_ir_command(subparsers)
+    register_from_catalog_command(subparsers)
 
     return parser
 

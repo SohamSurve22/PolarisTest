@@ -297,6 +297,16 @@ class TestDumpIrParser:
         with pytest.raises(SystemExit):
             parser.parse_args(["dump-ir", "--text", "some content"])
 
+    def test_dump_ir_enrich_flag(self) -> None:
+        parser = build_parser()
+        args = parser.parse_args(["dump-ir", "--text", "x", "-o", "out.json", "--enrich"])
+        assert args.enrich is True
+
+    def test_dump_ir_enrich_default_off(self) -> None:
+        parser = build_parser()
+        args = parser.parse_args(["dump-ir", "--text", "x", "-o", "out.json"])
+        assert args.enrich is False
+
     def test_dump_ir_both_path_and_text_fails(self) -> None:
         result = main(["dump-ir", "path.txt", "--text", "content", "-o", "out.json"])
         assert result == 2
@@ -347,6 +357,44 @@ class TestDumpIrFlow:
         assert result == 0
         assert ir_path.is_file()
 
+    def test_dump_ir_enrich_adds_obligation(self, tmp_path: Path) -> None:
+        from semantic_graph.semantic_enrichment.enrichment_models import ClauseMeaning, Obligation
+        from semantic_graph.semantic_enrichment.semantic_enrichment_stage import (
+            SemanticEnrichmentStage,
+        )
+
+        class StubAnalyzer:
+            def analyze(self, clause_text: str, clause_id: str) -> ClauseMeaning:
+                _ = clause_text
+                return ClauseMeaning(
+                    clause_id=clause_id,
+                    obligations=[Obligation(subject="fiduciary", action="give", object="notice")],
+                )
+
+        ir_path = tmp_path / "ir.json"
+        with patch(
+            "semantic_graph.cli.export_graph._enrichment_stage",
+            return_value=SemanticEnrichmentStage(analyzer=StubAnalyzer()),
+        ):
+            result = main([
+                "dump-ir",
+                "--text",
+                self.MOCK_TEXT,
+                "-o",
+                str(ir_path),
+                "--enrich",
+            ])
+        assert result == 0
+        payload = json.loads(ir_path.read_text(encoding="utf-8"))
+        labels = {node["label"] for node in payload["nodes"]}
+        assert "Obligation" in labels
+        texts = [
+            node["properties"].get("text", "")
+            for node in payload["nodes"]
+            if node["label"] == "Obligation"
+        ]
+        assert any("fiduciary" in text for text in texts)
+
     def test_dump_ir_from_missing_file(self, tmp_path: Path) -> None:
         result = main([
             "dump-ir",
@@ -355,3 +403,65 @@ class TestDumpIrFlow:
             str(tmp_path / "ir.json"),
         ])
         assert result == 1
+
+
+_FIXTURE = Path(__file__).parent / "fixtures" / "catalog_mini.json"
+
+
+class TestFromCatalogParser:
+    def test_from_catalog_subcommand_registered(self) -> None:
+        parser = build_parser()
+        args = parser.parse_args(["from-catalog", "a.json", "-o", "ir.json"])
+        assert args.command == "from-catalog"
+        assert hasattr(args, "handler")
+        assert args.output == Path("ir.json")
+
+    def test_from_catalog_requires_output(self) -> None:
+        parser = build_parser()
+        with pytest.raises(SystemExit):
+            parser.parse_args(["from-catalog", "a.json"])
+
+    def test_from_catalog_requires_files(self) -> None:
+        result = main(["from-catalog", "-o", "ir.json"])
+        assert result == 2
+
+
+class TestFromCatalogFlow:
+    def test_from_catalog_writes_obligation_and_penalty(self, tmp_path: Path) -> None:
+        ir_path = tmp_path / "ir.json"
+        result = main(["from-catalog", str(_FIXTURE), "-o", str(ir_path)])
+        assert result == 0
+        payload = json.loads(ir_path.read_text(encoding="utf-8"))
+        labels = {node["label"] for node in payload["nodes"]}
+        assert labels == {"LawVersion", "Obligation", "Penalty"}
+        ids = {node["id"] for node in payload["nodes"]}
+        assert "DPDP_SEC_4_SUB_1" in ids
+        assert "DPDP_SEC_8" in ids
+        assert "DPDP_PEN_8" in ids
+        types = {rel["type"] for rel in payload["relationships"]}
+        assert "HAS_OBLIGATION" in types
+        assert "PENALIZES" in types
+
+    def test_from_catalog_missing_file(self, tmp_path: Path) -> None:
+        result = main([
+            "from-catalog",
+            str(tmp_path / "missing.json"),
+            "-o",
+            str(tmp_path / "ir.json"),
+        ])
+        assert result == 1
+
+    @patch("semantic_graph.cli.from_catalog._push_neo4j")
+    def test_from_catalog_to_neo4j(self, mock_push: MagicMock, tmp_path: Path) -> None:
+        mock_push.return_value = 0
+        ir_path = tmp_path / "ir.json"
+        result = main([
+            "from-catalog",
+            str(_FIXTURE),
+            "-o",
+            str(ir_path),
+            "--to-neo4j",
+        ])
+        assert result == 0
+        mock_push.assert_called_once()
+

@@ -55,23 +55,30 @@ class SemanticEnrichmentStage:
             clause_id = clause.id
             clause_text = clause.properties.get("text", "")
 
-            meaning = self._analyzer.analyze(clause_text, clause_id)
+            try:
+                meaning = self._analyzer.analyze(clause_text, clause_id)
+            except Exception:
+                continue
             if not meaning.obligations:
                 continue
 
             for ob in meaning.obligations:
                 obligation_id = f"obl_{clause_id}_{obligation_index}"
                 obligation_index += 1
+                slots = {
+                    "subject": ob.subject,
+                    "action": ob.action,
+                    "object": ob.object,
+                    "condition": ob.condition or "",
+                    "exception": ob.exception or "",
+                }
                 obligation_nodes.append(
                     GraphNode(
                         id=obligation_id,
                         label="Obligation",
                         properties={
-                            "subject": ob.subject,
-                            "action": ob.action,
-                            "object": ob.object,
-                            "condition": ob.condition or "",
-                            "exception": ob.exception or "",
+                            **slots,
+                            "text": " ".join(part for part in slots.values() if part),
                         },
                     ),
                 )

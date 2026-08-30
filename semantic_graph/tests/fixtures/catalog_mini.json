@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "DPDP_SEC_4_SUB_1",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "title": "Notice",
+    "clause_text": "Give notice before processing.",
+    "plain_english_summary": "Give notice before processing.",
+    "relationships": [
+      {
+        "type": "TAGGED_WITH",
+        "target_id": "TOPIC_CONSENT",
+        "target_label": "Topic",
+        "properties": {}
+      }
+    ],
+    "node_properties": { "is_mandatory": true },
+    "metadata": { "jurisdiction": "India", "act": "DPDP" }
+  },
+  {
+    "doc_id": "DPDP_SEC_8",
+    "node_label": "Section",
+    "chunk_type": "obligation",
+    "title": "Safeguards",
+    "clause_text": "Implement safeguards.",
+    "plain_english_summary": "Implement safeguards.",
+    "relationships": [
+      {
+        "type": "TAGGED_WITH",
+        "target_id": "TOPIC_SECURITY",
+        "target_label": "Topic",
+        "properties": {}
+      }
+    ],
+    "node_properties": { "is_mandatory": true },
+    "metadata": { "jurisdiction": "India", "act": "DPDP" }
+  },
+  {
+    "doc_id": "DPDP_PEN_8",
+    "node_label": "Section",
+    "chunk_type": "penalty",
+    "title": "Fine",
+    "clause_text": "Up to 250 crore.",
+    "plain_english_summary": "Up to 250 crore.",
+    "relationships": [
+      {
+        "type": "CITES",
+        "target_id": "DPDP_SEC_8",
+        "target_label": "Section",
+        "properties": {}
+      }
+    ],
+    "node_properties": { "penalty_amount_crore": 250, "imprisonment_years": null },
+    "metadata": { "jurisdiction": "India", "act": "DPDP" }
+  }
+]

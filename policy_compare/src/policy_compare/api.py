@@ -15,7 +15,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 
 from compliance.models import AnalysisResult, ComplianceReport
-from compliance.pdf import render_pdf
+from compliance.pdf import pdf_download_name, render_pdf
 from compliance.report import generate_report
 from compliance.service import AnalyzeError, analyze_document
 from policy_compare.service import compare_document, default_law_paths
@@ -131,7 +131,7 @@ def report(body: AnalysisResult) -> dict:
 @app.post("/report.pdf")
 def report_pdf(body: ComplianceReport) -> Response:
   pdf = render_pdf(body)
-  filename = f"polarislex-{body.document_id}.pdf"
+  filename = pdf_download_name(body)
   return Response(
     content=pdf,
     media_type="application/pdf",

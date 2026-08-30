@@ -5,6 +5,7 @@ import GraphBoard from "./GraphBoard.jsx";
 import Header from "./Header.jsx";
 import LoadCard from "./LoadCard.jsx";
 import PageHead from "./PageHead.jsx";
+import ReportPage from "./ReportPage.jsx";
 import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
 function counts(result) {
@@ -41,6 +42,7 @@ export default function App() {
   const [focusPolicyId, setFocusPolicyId] = useState(null);
   const [panToken, setPanToken] = useState(0);
   const [loadOpen, setLoadOpen] = useState(false);
+  const [reportPage, setReportPage] = useState(() => window.location.hash === "#report");
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
@@ -59,6 +61,35 @@ export default function App() {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [loadOpen, busy]);
+
+  useEffect(() => {
+    function onHash() {
+      setReportPage(window.location.hash === "#report");
+    }
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
+
+  useEffect(() => {
+    if (!report) {
+      if (reportPage) {
+        setReportPage(false);
+      }
+      if (window.location.hash === "#report") {
+        window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+      }
+      return;
+    }
+    if (reportPage) {
+      if (window.location.hash !== "#report") {
+        window.location.hash = "report";
+      }
+      return;
+    }
+    if (window.location.hash === "#report") {
+      window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+    }
+  }, [report, reportPage]);
 
   async function compare(event) {
     event?.preventDefault();
@@ -81,6 +112,7 @@ export default function App() {
     setReport(null);
     setReportError("");
     setReportBusy(false);
+    setReportPage(false);
     const body = new FormData();
     body.append("file", chosen);
     try {
@@ -147,6 +179,7 @@ export default function App() {
     setReport(null);
     setReportError("");
     setReportBusy(false);
+    setReportPage(false);
     setSelected(null);
     setFocusIdealId(null);
     setFocusPolicyId(null);
@@ -219,6 +252,17 @@ export default function App() {
             onClear={clearAll}
           />
         </main>
+      ) : reportPage && report ? (
+        <>
+          <CoverageStrip summary={summary} analysis={analysis} />
+          <div className="workspace">
+            <ReportPage
+              report={report}
+              reportError={reportError}
+              onBack={() => setReportPage(false)}
+            />
+          </div>
+        </>
       ) : (
         <>
           <CoverageStrip summary={summary} analysis={analysis} />
@@ -252,6 +296,7 @@ export default function App() {
               report={report}
               reportError={reportError}
               reportBusy={reportBusy}
+              onViewReport={() => setReportPage(true)}
             />
           </div>
         </>

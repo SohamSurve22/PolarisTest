@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import re
 from io import BytesIO
+from pathlib import Path
 
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_LEFT
@@ -17,10 +19,24 @@ from compliance.report import NARRATIVE_UNAVAILABLE
 FOOTER = "Not a legal opinion. Coverage statuses are from automated analysis, not the language model."
 _SNIPPET = 180
 _STATUS = {"covered": "COVERED", "partial": "PARTIAL", "missing": "MISSING"}
+_UNSAFE = re.compile(r'[/\\"\r\n]+')
+
+
+def display_source_name(report: ComplianceReport) -> str:
+  raw = str(report.source_filename or "").strip().replace("\\", "/")
+  name = _UNSAFE.sub("_", Path(raw).name).strip()
+  return name or report.document_id
+
+
+def pdf_download_name(report: ComplianceReport) -> str:
+  display = display_source_name(report)
+  stem = _UNSAFE.sub("_", Path(display).stem).strip() or report.document_id
+  return f"polarislex-{stem}.pdf"
 
 
 def render_pdf(report: ComplianceReport) -> bytes:
   buffer = BytesIO()
+  shown = display_source_name(report)
   doc = SimpleDocTemplate(
     buffer,
     pagesize=A4,
@@ -28,7 +44,7 @@ def render_pdf(report: ComplianceReport) -> bytes:
     rightMargin=18 * mm,
     topMargin=22 * mm,
     bottomMargin=20 * mm,
-    title=f"PolarisLex {report.document_id}",
+    title=f"PolarisLex {shown}",
     author="PolarisLex",
     pageCompression=0,
   )
@@ -37,7 +53,7 @@ def render_pdf(report: ComplianceReport) -> bytes:
   story.append(Paragraph("PolarisLex", styles["title"]))
   story.append(Paragraph("Compliance memorandum", styles["sub"]))
   story.append(Spacer(1, 6 * mm))
-  story.append(Paragraph(_esc(f"Document: {report.document_id}"), styles["body"]))
+  story.append(Paragraph(_esc(f"Document: {shown}"), styles["body"]))
   if report.generated_at:
     story.append(Paragraph(_esc(f"Generated: {report.generated_at}"), styles["body"]))
   if report.jurisdiction:
@@ -56,8 +72,9 @@ def render_pdf(report: ComplianceReport) -> bytes:
   )
   story.append(Spacer(1, 4 * mm))
   story.append(Paragraph("Executive summary", styles["h"]))
-  summary = report.executive_summary.strip() if report.narrative_available else ""
+  summary = (report.executive_summary or "").strip()
   story.append(Paragraph(_esc(summary or NARRATIVE_UNAVAILABLE), styles["body"]))
+  _priority_gap_block(story, report, styles)
 
   notes = {row.act: row.note for row in report.law_notes}
   grouped: dict[str, list[ObligationFinding]] = {}
@@ -96,13 +113,35 @@ def render_pdf(report: ComplianceReport) -> bytes:
   def _chrome(canvas, _doc) -> None:
     canvas.saveState()
     canvas.setFont("Helvetica", 8)
-    canvas.drawString(18 * mm, A4[1] - 14 * mm, f"PolarisLex  {report.document_id}")
+    canvas.drawString(18 * mm, A4[1] - 14 * mm, f"PolarisLex  {shown}")
     canvas.drawString(18 * mm, 10 * mm, FOOTER)
     canvas.drawRightString(A4[0] - 18 * mm, 10 * mm, str(_doc.page))
     canvas.restoreState()
 
   doc.build(story, onFirstPage=_chrome, onLaterPages=_chrome)
   return buffer.getvalue()
+
+
+def _priority_gap_block(story: list, report: ComplianceReport, styles: dict) -> None:
+  if not report.priority_gaps:
+    return
+  by_id = {row.obligation_id: row for row in report.penalties}
+  story.append(Spacer(1, 4 * mm))
+  story.append(Paragraph("Priority gaps", styles["h"]))
+  for row in report.priority_gaps:
+    extra = _exposure(by_id.get(row.obligation_id))
+    label = f"{row.obligation_id}: {row.title} ({row.act or 'Other'})"
+    if extra:
+      label = f"{label} — {extra}"
+    story.append(Paragraph(_esc(label), styles["body"]))
+
+
+def _exposure(penalty) -> str:
+  if penalty is None:
+    return ""
+  amount = f"{penalty.amount_crore} crore" if penalty.amount_crore is not None else ""
+  years = f"{penalty.imprisonment_years} years" if penalty.imprisonment_years is not None else ""
+  return ", ".join(part for part in (amount, years) if part)
 
 
 def _duty_table(rows: list[ObligationFinding], styles: dict) -> Table:

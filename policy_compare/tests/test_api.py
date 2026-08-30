@@ -169,6 +169,32 @@ def test_report_pdf_returns_pdf_bytes() -> None:
   assert b"TINY_SECURE" in response.content
 
 
+def test_report_pdf_filename_from_source_filename() -> None:
+  client = TestClient(app)
+  response = client.post(
+    "/report.pdf",
+    json={
+      "document_id": "DOC_x",
+      "source_filename": "uploads/policy.txt",
+      "jurisdiction": "IN",
+      "applicable_laws": ["TINY"],
+      "generated_at": "2026-08-30T05:00:00Z",
+      "counts": {"covered": 0, "partial": 0, "missing": 1, "total": 1},
+      "findings": [
+        {
+          "obligation_id": "TINY_SECURE",
+          "title": "Secure personal data",
+          "act": "TINY",
+          "status": "missing",
+        }
+      ],
+    },
+  )
+  assert response.status_code == 200, response.text
+  assert "polarislex-policy.pdf" in response.headers.get("content-disposition", "")
+  assert b"policy.txt" in response.content
+
+
 def test_analyze_503_when_search_backend_down(monkeypatch: object) -> None:
   monkeypatch.setenv("POLARIS_LAW_DIR", str(FIXTURE_DIR))  # type: ignore[attr-defined]
   from compliance.service import AnalyzeError

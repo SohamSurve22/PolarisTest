@@ -84,6 +84,11 @@ def register_dump_ir_command(
         required=True,
         help="Output GraphIR JSON path (e.g. ir.json).",
     )
+    parser.add_argument(
+        "--enrich",
+        action="store_true",
+        help="Extract Obligation nodes from clauses via local Ollama (opt-in).",
+    )
     parser.set_defaults(handler=_handle_dump_ir)
 
 
@@ -176,16 +181,17 @@ def _format_from_extension(extension: str) -> DocumentFormat:
 
 
 def _graph_from_args(args: argparse.Namespace) -> GraphIR:
+    enrich = bool(getattr(args, "enrich", False))
     if args.text is not None:
-        return _graph_from_text(args.text)
-    return _graph_from_path(Path(args.path))
+        return _graph_from_text(args.text, enrich=enrich)
+    return _graph_from_path(Path(args.path), enrich=enrich)
 
 
-def _graph_from_path(path: Path) -> GraphIR:
-    return _graph_from_source(_build_source(path))
+def _graph_from_path(path: Path, *, enrich: bool = False) -> GraphIR:
+    return _graph_from_source(_build_source(path), enrich=enrich)
 
 
-def _graph_from_text(text: str) -> GraphIR:
+def _graph_from_text(text: str, *, enrich: bool = False) -> GraphIR:
     with tempfile.NamedTemporaryFile(
         mode="w",
         encoding="utf-8",
@@ -196,12 +202,12 @@ def _graph_from_text(text: str) -> GraphIR:
         temp_path = Path(handle.name)
 
     try:
-        return _graph_from_source(_build_source(temp_path))
+        return _graph_from_source(_build_source(temp_path), enrich=enrich)
     finally:
         temp_path.unlink(missing_ok=True)
 
 
-def _graph_from_source(source: DocumentSource) -> GraphIR:
+def _graph_from_source(source: DocumentSource, *, enrich: bool = False) -> GraphIR:
     doc_id = source.metadata.document_id
     print(f"Processing document: {doc_id}", file=sys.stderr)
 
@@ -209,7 +215,7 @@ def _graph_from_source(source: DocumentSource) -> GraphIR:
 
     print("Building semantic graph…", file=sys.stderr)
 
-    graph = _build_semantic_graph(outputs.entity)
+    graph = _build_semantic_graph(outputs.entity, enrich=enrich)
 
     print(
         f"Graph built: {len(graph.nodes)} nodes, {len(graph.relationships)} relationships",
@@ -239,9 +245,18 @@ def _run_document_pipeline(
     return orchestrator.run(source)
 
 
-def _build_semantic_graph(entity_document: EntityDocument) -> GraphIR:
-    builder = SemanticGraphBuilder()
+def _build_semantic_graph(entity_document: EntityDocument, *, enrich: bool = False) -> GraphIR:
+    stage = _enrichment_stage() if enrich else None
+    builder = SemanticGraphBuilder(enrichment_stage=stage)
     return builder.build(entity_document)
+
+
+def _enrichment_stage():
+    from semantic_graph.semantic_enrichment.llm_clause_analyzer import LLMClauseAnalyzer
+    from semantic_graph.semantic_enrichment.ollama_chat import OllamaChatClient
+    from semantic_graph.semantic_enrichment.semantic_enrichment_stage import SemanticEnrichmentStage
+
+    return SemanticEnrichmentStage(analyzer=LLMClauseAnalyzer(client=OllamaChatClient()))
 
 
 def _export_to_neo4j(graph: GraphIR, uri: str, user: str, password: str) -> dict[str, int]:
