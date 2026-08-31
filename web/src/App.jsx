@@ -201,6 +201,7 @@ export default function App() {
   const paintedIdeal =
     result && analysis ? paintIdealFromAnalysis(result.ideal, analysis) : result?.ideal;
   const workspace = result != null;
+  const validationBusy = busy || reportBusy;
 
   function selectFromPolicy(node) {
     setSelected(node);
@@ -238,17 +239,29 @@ export default function App() {
     setPanToken((value) => value + 1);
   }
 
-  const shellClass =
-    tab === "queries" ? "app is-queries" : workspace ? "app is-workspace" : "app is-landing";
+  const shellClass = [
+    tab === "queries" ? "app is-queries" : workspace ? "app is-workspace" : "app is-landing",
+    validationBusy ? "is-validating" : "",
+  ]
+    .filter(Boolean)
+    .join(" ");
 
   return (
-    <div className={shellClass}>
+    <div className={shellClass} aria-busy={validationBusy}>
       <Header
         theme={theme}
         tab={tab}
         onTab={goTab}
         onToggleTheme={() => setTheme(theme === "dark" ? "light" : "dark")}
       />
+      {validationBusy ? (
+        <div className="validation-overlay" role="status" aria-live="polite">
+          <div className="validation-loader">
+            <span className="validation-spinner" aria-hidden="true" />
+            <span>{busy ? "Validating graph…" : "Finalizing validation…"}</span>
+          </div>
+        </div>
+      ) : null}
       <PageHead
         tab={tab}
         fileName={file?.name}

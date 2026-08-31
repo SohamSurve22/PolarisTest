@@ -117,6 +117,47 @@ input {
   min-height: 100vh;
 }
 
+.app.is-validating > *:not(.validation-overlay) {
+  filter: blur(6px);
+  pointer-events: none;
+  user-select: none;
+}
+
+.validation-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: color-mix(in srgb, var(--bg) 38%, transparent);
+  z-index: 60;
+}
+
+.validation-loader {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 18px;
+  color: var(--text);
+  background: color-mix(in srgb, var(--pane) 94%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.28);
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 13px;
+}
+
+.validation-spinner {
+  width: 22px;
+  height: 22px;
+  flex: 0 0 22px;
+  border: 3px solid color-mix(in srgb, var(--primary) 25%, transparent);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
 .top-nav {
   display: flex;
   justify-content: space-between;
