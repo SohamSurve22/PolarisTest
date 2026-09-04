@@ -15,9 +15,58 @@ Two surfaces in the UI:
 
 Requires [Docker Desktop](https://docs.docker.com/get-docker/) (macOS, Windows, or Linux) and **Ollama on the host** — not inside Compose. Models are too large to put in `pip` or the API image.
 
-### 1. Install Ollama
+Do this in order every time you start the project. Ollama must be up **before** Compose; the API reaches it at `http://host.docker.internal:11434`. Without it, `/analyze` and Queries return **503**.
+
+### 1. Start Ollama (host, not Docker)
+
+If the models are **already installed**, do **not** run `./scripts/setup-ollama.sh` again. Start the Ollama process; it serves whatever is already on disk. Weights load into memory on the first `/analyze` or Queries call.
+
+If the Ollama desktop app is already running, skip `ollama serve`.
+
+**macOS / Linux**
+
+```bash
+ollama serve
+```
+
+Leave that terminal open. In another terminal:
+
+```bash
+ollama list
+curl http://localhost:11434/api/tags
+```
+
+`list` should show `nomic-embed-text` and `qwen2.5:7b-instruct-q4_K_M`. That is enough to “up” the models — they are installed. Ollama loads each one when the API first asks for it. Optional, to load them into RAM now (avoids a slow first Validation/Queries request):
+
+```bash
+curl http://localhost:11434/api/embeddings -d '{"model":"nomic-embed-text","prompt":"ok"}'
+curl http://localhost:11434/api/generate -d '{"model":"qwen2.5:7b-instruct-q4_K_M","prompt":"ok","stream":false}'
+ollama ps    # both should appear as loaded
+```
+
+If `ollama` is missing, or `list` is empty, do **First-time setup** below (install + pull), then come back to this step.
+
+**Windows.** Open the **Ollama app** (do not run it only inside WSL). Confirm with `curl.exe http://localhost:11434/api/tags`. Docker reaches the host at `http://host.docker.internal:11434`. Same rule: if `ollama list` already shows both models, skip the pull script.
+
+### 2. Start the app containers
+
+From the **repo root**:
+
+```bash
+docker compose up --build web api
+```
+
+Qdrant starts with `api`. Open [http://localhost:8080](http://localhost:8080). The API is [http://localhost:8000](http://localhost:8000) (`GET /health`, `POST /compare`, `POST /analyze`, `POST /report`, `POST /report.pdf`, `POST /rag`).
+
+`--build` is needed after you change `web/`, `policy_compare/`, `compliance/`, `document_pipeline/`, `vectorization/`, `graph_builder/`, `rag/`, or the Dockerfiles.
+
+**Stop.** Ctrl+C in the Compose terminal (or `docker compose down`). Then stop Ollama: Ctrl+C in the `ollama serve` terminal, or quit the Ollama app on Windows.
+
+### First-time setup (once per machine)
 
 Ollama is the local runtime. PolarisLex does **not** use Meta Llama weights; the setup script pulls **nomic-embed-text** (embeddings) and **Qwen 2.5 7B** (chat).
+
+#### Install Ollama
 
 **macOS**
 
@@ -33,11 +82,11 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama serve                 # skip if already running as a service
 ```
 
-**Windows** (no Homebrew). Install [Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/) and **Ollama for Windows** (the `.exe` from [ollama.com/download/windows](https://ollama.com/download/windows), **not** inside WSL). Docker reaches the host at `http://host.docker.internal:11434`. If you install Ollama only inside WSL, Compose often cannot see it.
+**Windows** (no Homebrew). Install [Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/) and **Ollama for Windows** (the `.exe` from [ollama.com/download/windows](https://ollama.com/download/windows), **not** inside WSL). If you install Ollama only inside WSL, Compose often cannot see it.
 
-### 2. Pull models (setup script)
+#### Pull models (skip if `ollama list` already shows both)
 
-From the **repo root**, with `ollama` on PATH:
+Only needed the first time, or after you deleted the models. From the **repo root**, with `ollama` on PATH and `ollama serve` (or the app) already running:
 
 **macOS / Linux**
 
@@ -45,7 +94,7 @@ From the **repo root**, with `ollama` on PATH:
 ./scripts/setup-ollama.sh
 ```
 
-That script runs `ollama pull` for both models (~270MB + ~5GB). Keep `ollama serve` (or the Ollama app) running afterward.
+That script runs `ollama pull` for both models (~270MB + ~5GB). Keep Ollama running afterward, then start Compose (step 2 above).
 
 **Windows** (PowerShell, repo root):
 
@@ -61,15 +110,6 @@ The PowerShell script uses `winget install Ollama.Ollama` if `ollama` is not on 
 | `nomic-embed-text` | `/analyze` search, `vectorization` ingest, Queries retrieve |
 | `qwen2.5:7b-instruct-q4_K_M` | Queries answers; optional extra memo sentences after the engine scoreboard. Duty table, Themes, scoreboard, and PDF still work if chat is down. |
 
-Confirm:
-
-```bash
-ollama list
-curl http://localhost:11434/api/tags
-```
-
-On Windows PowerShell, `curl.exe http://localhost:11434/api/tags` (or a browser).
-
 Manual pull (same as the script):
 
 ```bash
@@ -77,19 +117,7 @@ ollama pull nomic-embed-text
 ollama pull qwen2.5:7b-instruct-q4_K_M
 ```
 
-### 3. App containers
-
-From the repo root:
-
-```bash
-docker compose up --build web api
-```
-
-Qdrant starts with `api`. Open [http://localhost:8080](http://localhost:8080). The API is [http://localhost:8000](http://localhost:8000) (`GET /health`, `POST /compare`, `POST /analyze`, `POST /report`, `POST /report.pdf`, `POST /rag`).
-
-`--build` is needed after you change `web/`, `policy_compare/`, `compliance/`, `document_pipeline/`, `vectorization/`, `graph_builder/`, `rag/`, or the Dockerfiles. Stop with `docker compose down`.
-
-### 4. Index law vectors (first machine, once)
+### 3. Index law vectors (first machine, once)
 
 `/analyze` and Queries need Qdrant points. Ollama must be running on the host (`nomic-embed-text`). From the repo root, with a venv:
 
@@ -158,6 +186,7 @@ Law sources (already tagged): `dataset/dpdp_graph.json`, `dataset/spdi_graph.jso
 |---|---|
 | 8080 | Product UI (nginx → `web/`) |
 | 8000 | FastAPI (`policy_compare`) |
+| 11434 | Ollama on the **host** (`ollama serve` — not a Compose service) |
 | 6333 | Qdrant HTTP / dashboard |
 | 6334 | Qdrant gRPC |
 | 7474 | Neo4j Browser (HTTP) |
@@ -169,6 +198,7 @@ Neo4j is **not** used by `/compare`, `/analyze`, or Queries. The UI never opens 
 
 - **UI:** Docker (Compose)
 - **Python packages:** Python 3.12+
+- **Host runtime:** `ollama serve` (or the Ollama app) on `:11434` before Compose
 - **Analyze / ingest / Queries retrieve:** Ollama `nomic-embed-text` (`./scripts/setup-ollama.sh`)
 - **Queries answers / extra memo sentences:** `qwen2.5:7b-instruct-q4_K_M` (same script)
 - Sentence Transformers is an optional embed fallback (`vectorization/`)
