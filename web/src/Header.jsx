@@ -7,12 +7,23 @@ const NAV = [
   { id: "queries", label: "Queries", tab: true },
 ];
 
-export default function Header({ theme, onToggleTheme, tab, onTab }) {
+export default function Header({ theme, onToggleTheme, tab, onTab, onGoLanding }) {
   return (
     <nav className="top-nav" aria-label="Primary">
       <div className="top-nav-left">
-        <p className="wordmark">PolarisLex</p>
+        <p className="wordmark" style={{ cursor: "pointer" }} onClick={onGoLanding}>
+          PolarisLex
+        </p>
         <div className="top-nav-links">
+          {onGoLanding && (
+            <button
+              type="button"
+              className="nav-link"
+              onClick={onGoLanding}
+            >
+              ← Landing Page
+            </button>
+          )}
           {NAV.map((item) =>
             item.tab ? (
               <button

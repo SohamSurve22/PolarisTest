@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 function fmt(value) {
   return Number(value || 0).toLocaleString();
 }
@@ -165,22 +167,68 @@ function engineCards(summary, analysis) {
 }
 
 export default function CoverageStrip({ summary, analysis }) {
+  const [collapsed, setCollapsed] = useState(false);
   const cards = analysis ? engineCards(summary, analysis) : overlayCards(summary);
 
+  const highlightKeys = ["nodes", "edges", "coverage", "correct", "gaps", "violation"];
+  const collapsedChips = cards.filter((c) => highlightKeys.includes(c.key));
+
   return (
-    <div className="metrics-bar">
-      {cards.map((card) => (
-        <div className="metric-card" key={card.key}>
-          <span className={`metric-label${card.tone ? ` tone-${card.tone}` : ""}`}>
-            {card.icon ? (
-              <span className="material-symbols-outlined metric-icon">{card.icon}</span>
-            ) : null}
-            {card.label}
-          </span>
-          <span className={`metric-value${card.tone ? ` tone-${card.tone}` : ""}`}>{card.value}</span>
-          <span className="metric-hint">{card.hint}</span>
+    <div className={`metrics-strip-wrapper${collapsed ? " is-collapsed" : ""}`}>
+      <div
+        className="metrics-toggle-bar"
+        role="button"
+        tabIndex={0}
+        onClick={() => setCollapsed((prev) => !prev)}
+        onKeyDown={(e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            setCollapsed((prev) => !prev);
+          }
+        }}
+        aria-expanded={!collapsed}
+        title={collapsed ? "Click to expand metrics" : "Click to collapse metrics"}
+      >
+        <div className="metrics-toggle-left">
+          <span className="material-symbols-outlined metrics-toggle-icon">analytics</span>
+          <span className="metrics-toggle-title">Metrics Overview</span>
+          {collapsed && (
+            <div className="metrics-collapsed-chips">
+              {collapsedChips.map((chip) => (
+                <span className="metrics-chip" key={chip.key}>
+                  <span className="metrics-chip-label">{chip.label}:</span>
+                  <span className={`metrics-chip-value${chip.tone ? ` tone-${chip.tone}` : ""}`}>
+                    {chip.value}
+                  </span>
+                </span>
+              ))}
+            </div>
+          )}
         </div>
-      ))}
+        <div className="metrics-toggle-right">
+          <span className="metrics-toggle-text">{collapsed ? "Expand" : "Collapse"}</span>
+          <span className="material-symbols-outlined metrics-chevron">
+            {collapsed ? "expand_more" : "expand_less"}
+          </span>
+        </div>
+      </div>
+
+      {!collapsed && (
+        <div className="metrics-bar">
+          {cards.map((card) => (
+            <div className="metric-card" key={card.key}>
+              <span className={`metric-label${card.tone ? ` tone-${card.tone}` : ""}`}>
+                {card.icon ? (
+                  <span className="material-symbols-outlined metric-icon">{card.icon}</span>
+                ) : null}
+                {card.label}
+              </span>
+              <span className={`metric-value${card.tone ? ` tone-${card.tone}` : ""}`}>{card.value}</span>
+              <span className="metric-hint">{card.hint}</span>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 }

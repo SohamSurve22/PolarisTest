@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import dagre from "@dagrejs/dagre";
+import NodeDetailPanel from "./NodeDetailPanel.jsx";
 import {
   Background,
   Controls,
@@ -69,11 +70,23 @@ function ancestorsOf(id, edges) {
 function OrbitNode({ data }) {
   const sizeClass = data.hub ? " is-hub" : data.cluster ? " is-cluster" : data.chunk ? " is-chunk" : "";
   const selectedClass = data.selected ? " is-selected" : "";
+  const status = data.status || "neutral";
   return (
-    <div className={`orbit${sizeClass}${selectedClass} orbit--${data.status || "neutral"}`}>
-      <Handle type="target" position={Position.Top} id="t-top" />
-      <Handle type="source" position={Position.Bottom} id="s-bottom" />
+    <div
+      className={`orbit${sizeClass}${selectedClass} orbit--${status}`}
+      title={data.label}
+    >
+      <Handle type="target" position={Position.Top} id="t-top" className="orbit-handle" />
+      <Handle type="source" position={Position.Bottom} id="s-bottom" className="orbit-handle" />
+
+      {data.hub ? (
+        <span className="orbit-kicker">ROOT</span>
+      ) : data.cluster ? (
+        <span className="orbit-kicker">GROUP</span>
+      ) : null}
+
       <span className="orbit-label">{data.label}</span>
+
       {data.hasChildren ? (
         <button
           className="orbit-toggle nodrag nopan"
@@ -84,6 +97,7 @@ function OrbitNode({ data }) {
             event.stopPropagation();
             data.onToggle();
           }}
+          title={data.collapsed ? "Expand children" : "Collapse children"}
         >
           {data.collapsed ? "+" : "−"}
         </button>
@@ -119,6 +133,17 @@ function FitSelected({ selectedId, panToken }) {
   return null;
 }
 
+function FitOnFullscreen({ isFullscreen }) {
+  const { fitView } = useReactFlow();
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      fitView({ padding: 0.18, duration: 250 });
+    }, 80);
+    return () => window.clearTimeout(timer);
+  }, [isFullscreen, fitView]);
+  return null;
+}
+
 function treeLayout(graph, collapsed, onToggle, selectedId) {
   const rawNodes = graph?.nodes || [];
   const rawEdges = graph?.edges || [];
@@ -134,7 +159,7 @@ function treeLayout(graph, collapsed, onToggle, selectedId) {
   const children = childMap(rawEdges);
 
   const dag = new dagre.graphlib.Graph();
-  dag.setGraph({ rankdir: "TB", nodesep: 28, ranksep: 72, marginx: 24, marginy: 24 });
+  dag.setGraph({ rankdir: "TB", nodesep: 36, ranksep: 84, marginx: 32, marginy: 32 });
   dag.setDefaultEdgeLabel(() => ({}));
   visible.forEach((node) => {
     const size = sizeFor(node.kind);
@@ -175,8 +200,18 @@ function treeLayout(graph, collapsed, onToggle, selectedId) {
     target: edge.target,
     sourceHandle: "s-bottom",
     targetHandle: "t-top",
-    markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 7, color: "#424754" },
-    style: { stroke: "#424754", strokeWidth: 1.2 },
+    type: "smoothstep",
+    animated: edge.type === "governs" || edge.status === "active",
+    markerEnd: {
+      type: MarkerType.ArrowClosed,
+      width: 9,
+      height: 7,
+      color: "color-mix(in srgb, var(--border) 80%, white)",
+    },
+    style: {
+      stroke: "color-mix(in srgb, var(--border) 75%, transparent)",
+      strokeWidth: 1.5,
+    },
   }));
   return { nodes, edges };
 }
@@ -189,13 +224,28 @@ export default function GraphBoard({
   selectedId,
   panToken = 0,
   onSelect,
+  selected,
+  analysis,
+  onClearSelection,
 }) {
   const [collapsed, setCollapsed] = useState(() => new Set());
+  const [isFullscreen, setIsFullscreen] = useState(false);
   const graphKey = (graph?.nodes || []).map((node) => node.id).join("|");
 
   useEffect(() => {
     setCollapsed(new Set());
   }, [graphKey]);
+
+  useEffect(() => {
+    if (!isFullscreen) return;
+    function onKeyDown(e) {
+      if (e.key === "Escape") {
+        setIsFullscreen(false);
+      }
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [isFullscreen]);
 
   useEffect(() => {
     if (!selectedId || !graph?.edges?.length) {
@@ -233,11 +283,25 @@ export default function GraphBoard({
   );
   const empty = !graph?.nodes?.length;
   return (
-    <section className={`board tone-${tone}`}>
+    <section className={`board tone-${tone}${isFullscreen ? " is-fullscreen" : ""}`}>
       <div className="board-overlay">
-        <div className="board-badge" title={hint}>
-          <span className="pulse-dot" />
-          {title}
+        <div className="board-header-left">
+          <div className="board-badge" title={hint}>
+            <span className="pulse-dot" />
+            {title}
+            {isFullscreen ? <span className="fullscreen-badge">FULLSCREEN</span> : null}
+          </div>
+          {isFullscreen ? (
+            <button
+              className="btn-exit-fullscreen"
+              type="button"
+              onClick={() => setIsFullscreen(false)}
+              title="Exit Full Screen (Esc)"
+            >
+              <span className="material-symbols-outlined">fullscreen_exit</span>
+              Exit Full Screen
+            </button>
+          ) : null}
         </div>
       </div>
       <div className="flow">
@@ -251,20 +315,38 @@ export default function GraphBoard({
               nodeTypes={nodeTypes}
               fitView
               fitViewOptions={{ padding: 0.18 }}
-              minZoom={0.15}
-              zoomOnScroll={false}
-              preventScrolling={false}
+              minZoom={0.08}
+              maxZoom={3}
+              zoomOnScroll={true}
+              preventScrolling={true}
               panOnScroll={false}
               onNodeClick={(_, node) => onSelect(node.data.raw)}
               nodesConnectable={false}
               proOptions={{ hideAttribution: true }}
             >
               <FitSelected selectedId={selectedId} panToken={panToken} />
-              <Background color="var(--grid)" gap={16} size={1} />
-              <Controls position="top-right" showInteractive={false} />
+              <FitOnFullscreen isFullscreen={isFullscreen} />
+              <Background
+                variant="dots"
+                gap={22}
+                size={1.2}
+                color="color-mix(in srgb, var(--border) 40%, transparent)"
+              />
+              <Controls
+                position="top-right"
+                showInteractive={false}
+                onFitView={() => setIsFullscreen((prev) => !prev)}
+              />
             </ReactFlow>
           </ReactFlowProvider>
         )}
+        {selected ? (
+          <NodeDetailPanel
+            selected={selected}
+            analysis={analysis}
+            onClose={onClearSelection}
+          />
+        ) : null}
       </div>
     </section>
   );

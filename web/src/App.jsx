@@ -4,9 +4,11 @@ import Findings, { policyNodeForClause } from "./Findings.jsx";
 import GraphBoard from "./GraphBoard.jsx";
 import Header from "./Header.jsx";
 import LoadCard from "./LoadCard.jsx";
+
 import PageHead from "./PageHead.jsx";
 import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
+import LandingPage from "./LandingPage.jsx";
 import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
 function counts(result) {
@@ -43,6 +45,9 @@ export default function App() {
   const [focusPolicyId, setFocusPolicyId] = useState(null);
   const [panToken, setPanToken] = useState(0);
   const [loadOpen, setLoadOpen] = useState(false);
+  const [view, setView] = useState(() => (
+    ["#app", "#queries", "#report", "#validation"].includes(window.location.hash) ? "app" : "landing"
+  ));
   const [tab, setTab] = useState(() => (window.location.hash === "#queries" ? "queries" : "validation"));
   const [reportPage, setReportPage] = useState(() => window.location.hash === "#report");
 
@@ -246,12 +251,25 @@ export default function App() {
     .filter(Boolean)
     .join(" ");
 
+  if (view === "landing") {
+    return (
+      <LandingPage
+        onExplore={() => {
+          setView("app");
+          setLoadOpen(true);
+          window.location.hash = "app";
+        }}
+      />
+    );
+  }
+
   return (
     <div className={shellClass} aria-busy={validationBusy}>
       <Header
         theme={theme}
         tab={tab}
         onTab={goTab}
+        onGoLanding={() => setView("landing")}
         onToggleTheme={() => setTheme(theme === "dark" ? "light" : "dark")}
       />
       {validationBusy ? (
@@ -313,6 +331,13 @@ export default function App() {
                 selectedId={focusPolicyId}
                 panToken={panToken}
                 onSelect={selectFromPolicy}
+                selected={focusPolicyId ? selected : null}
+                analysis={analysis}
+                onClearSelection={() => {
+                  setSelected(null);
+                  setFocusIdealId(null);
+                  setFocusPolicyId(null);
+                }}
               />
               <GraphBoard
                 title="Ideal Graph (Target)"
@@ -322,6 +347,13 @@ export default function App() {
                 selectedId={focusIdealId}
                 panToken={panToken}
                 onSelect={selectFromIdeal}
+                selected={focusIdealId ? selected : null}
+                analysis={analysis}
+                onClearSelection={() => {
+                  setSelected(null);
+                  setFocusIdealId(null);
+                  setFocusPolicyId(null);
+                }}
               />
             </div>
             <Findings
