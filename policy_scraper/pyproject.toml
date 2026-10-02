@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=69.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "policy-scraper"
+version = "0.1.0"
+description = "Scrapling-based scraper for corporate privacy and legal policies (Fortune 500 dataset)"
+requires-python = ">=3.12"
+license = { text = "Proprietary" }
+dependencies = [
+  "scrapling[fetchers]>=0.4",
+  "protego>=0.3",
+  "tld>=0.13",
+  # Reuses the existing PolarisLex PDF parser (sibling package in this repo).
+  "document-pipeline",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+policy-scraper = "policy_scraper.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
