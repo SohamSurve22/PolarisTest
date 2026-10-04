@@ -5,6 +5,7 @@ from __future__ import annotations
 from collections.abc import Callable, Iterable
 from datetime import date
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 from document_pipeline.models.clause import Clause
 from document_pipeline.models.entity import EntityDocument
@@ -27,6 +28,9 @@ from compliance.models import (
 )
 from compliance.penalty_stage import penalty_rows
 from compliance.report import _weighted_pct
+
+if TYPE_CHECKING:
+  from graph_builder.policy_graph_builder import PolicyGraphBuilder
 
 SUPPORTED_JURISDICTIONS = frozenset({"IN", "INDIA", "IN-DPDP"})
 _GAP_STATUSES = frozenset({"missing", "partial", "undetermined", "conflict", "violation"})
@@ -62,6 +66,7 @@ def analyze_document(
   profile: EntityProfile | None = None,
   analysis_date: date | None = None,
   roles: Iterable[str] | None = None,
+  policy_builder: PolicyGraphBuilder | None = None,
 ) -> AnalysisResult:
   code = (jurisdiction or "IN").strip().upper()
   if code not in SUPPORTED_JURISDICTIONS:
@@ -174,6 +179,12 @@ def analyze_document(
   laws = sorted({
     row.act for row in obligations if row.act and row.status != "not_applicable"
   })
+  policy_graph = None
+  mapping_failures: list[dict[str, object]] = []
+  if policy_builder is not None:
+    graph_ir, failures = policy_builder.build(document)
+    policy_graph = graph_ir.to_dict()
+    mapping_failures = [item.to_dict() for item in failures]
   return AnalysisResult(
     document_id=document.metadata.document_id,
     source_filename=str(document.metadata.filename or ""),
@@ -183,6 +194,8 @@ def analyze_document(
     gaps=gaps,
     penalties=penalties,
     weighted_pct=_weighted_pct([row for row in obligations if row.status != "not_applicable"]),
+    policy_graph=policy_graph,
+    mapping_failures=mapping_failures,
   )
 
 

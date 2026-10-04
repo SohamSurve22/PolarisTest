@@ -1,0 +1,21 @@
+{
+  "collect": "COLLECTS",
+  "collects": "COLLECTS",
+  "gather": "COLLECTS",
+  "gathers": "COLLECTS",
+  "obtain": "COLLECTS",
+  "obtains": "COLLECTS",
+  "share": "SHARES",
+  "shares": "SHARES",
+  "disclose": "SHARES",
+  "discloses": "SHARES",
+  "retain": "RETAINS",
+  "retains": "RETAINS",
+  "keep": "RETAINS",
+  "use": "USES",
+  "uses": "USES",
+  "process": "PROCESSES",
+  "processes": "PROCESSES",
+  "return": "RETURNS",
+  "returns": "RETURNS"
+}

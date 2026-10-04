@@ -192,3 +192,34 @@ def test_default_search_keeps_partial_hits(monkeypatch: object) -> None:
   assert captured["query"] == "consent clause"
   assert captured["source_type"] == "kg_obligation"
   assert captured["min_score"] == 0.30
+
+
+def test_policy_graph_sidecar_does_not_change_statuses() -> None:
+  from graph_builder.openie import OpenIEExtractor
+  from graph_builder.policy_graph_builder import PolicyGraphBuilder
+
+  class _Fake:
+    def generate(self, system_prompt: str, user_prompt: str) -> str:
+      return """{"propositions": [
+        {"subject": "we", "predicate": "collect", "object": "email",
+         "evidence": "We collect email.", "clause_id": "S002_C001"}
+      ]}"""
+
+  def search(query: str) -> list[SearchHit]:
+    if "consent" in query.lower():
+      return [_hit("TINY_CONSENT", 0.8)]
+    return []
+
+  builder = PolicyGraphBuilder(OpenIEExtractor(_Fake()))
+  result = analyze_document(
+    _document(_clause("We obtain consent from users.")),
+    [FIXTURE],
+    search=search,
+    policy_builder=builder,
+  )
+  by_id = {row.obligation_id: row for row in result.obligations}
+  assert by_id["TINY_CONSENT"].status == "covered"
+  assert by_id["TINY_SECURE"].status == "missing"
+  assert result.policy_graph is not None
+  assert result.policy_graph["relationships"]
+  assert result.mapping_failures == []

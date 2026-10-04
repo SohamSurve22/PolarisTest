@@ -5,6 +5,7 @@ from __future__ import annotations
 from graph_builder.exceptions import GraphValidationError
 from graph_builder.graph_ir import GraphIR, GraphNode, GraphRelationship
 from graph_builder.graph_models import ALLOWED_NODE_LABELS, ALLOWED_RELATIONSHIP_TYPES
+from graph_builder.ontology import triple_allowed
 
 
 class GraphValidator:
@@ -29,8 +30,19 @@ class GraphValidator:
 
     self._validate_nodes(graph_ir.nodes)
     node_ids = {node.id for node in graph_ir.nodes}
-    self._validate_relationships(graph_ir.relationships, node_ids)
+    self._validate_relationships(graph_ir.relationships, node_ids, graph_ir.nodes)
 
+    return warnings
+
+  def validate_policy(self, graph_ir: GraphIR) -> list[str]:
+    """Validate a policy GraphIR. Empty graphs are allowed (all triples unmapped)."""
+    warnings: list[str] = []
+    if not graph_ir.nodes:
+      warnings.append("Policy graph is empty.")
+      return warnings
+    self._validate_nodes(graph_ir.nodes)
+    node_ids = {node.id for node in graph_ir.nodes}
+    self._validate_relationships(graph_ir.relationships, node_ids, graph_ir.nodes)
     return warnings
 
   def _validate_nodes(self, nodes: list[GraphNode]) -> None:
@@ -54,7 +66,9 @@ class GraphValidator:
     self,
     relationships: list[GraphRelationship],
     node_ids: set[str],
+    nodes: list[GraphNode],
   ) -> None:
+    by_id = {node.id: node for node in nodes}
     for rel in relationships:
       if rel.type not in ALLOWED_RELATIONSHIP_TYPES:
         raise GraphValidationError(
@@ -77,4 +91,12 @@ class GraphValidator:
         raise GraphValidationError(
           f"Self-referencing relationship detected on node '{rel.source}' "
           f"with type '{rel.type}'.",
+        )
+
+      source_node = by_id[rel.source]
+      target_node = by_id[rel.target]
+      if not triple_allowed(source_node.label, rel.type, target_node.label):
+        raise GraphValidationError(
+          f"Invalid triple {source_node.label} -[{rel.type}]-> {target_node.label} "
+          f"from '{rel.source}' to '{rel.target}'.",
         )

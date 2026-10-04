@@ -151,3 +151,39 @@ def build_user_prompt(entity_document: EntityDocument) -> str:
     "Return ONLY the GraphIR JSON object.\n\n"
     f"{structured_json}"
   )
+
+
+OPENIE_SYSTEM_PROMPT = """You extract OpenIE-style propositions from privacy-policy clauses.
+
+Return ONLY valid JSON. No markdown fences. No commentary.
+
+Each proposition is a subject, predicate, and object copied from the clause text.
+Do NOT invent node labels, relationship types, GraphIR, Cypher, or ontology names.
+
+OUTPUT JSON SCHEMA:
+{
+  "propositions": [
+    {
+      "subject": "we",
+      "predicate": "collect",
+      "object": "your email address",
+      "evidence": "the source sentence",
+      "clause_id": "clause id from input",
+      "confidence": 0.0
+    }
+  ]
+}
+"""
+
+
+def build_openie_system_prompt() -> str:
+  return OPENIE_SYSTEM_PROMPT
+
+
+def build_openie_user_prompt(entity_document: EntityDocument) -> str:
+  structured_json = serialize_entity_document(entity_document)
+  return (
+    "Extract subject-predicate-object propositions from these clauses.\n"
+    "Return ONLY the propositions JSON object.\n\n"
+    f"{structured_json}"
+  )

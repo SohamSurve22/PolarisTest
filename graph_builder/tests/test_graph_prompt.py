@@ -7,6 +7,7 @@ from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata, 
 from document_pipeline.models.semantic import ClassifiedClause, StructuralRole
 
 from graph_builder.graph_prompt import (
+  build_openie_system_prompt,
   build_system_prompt,
   build_user_prompt,
   serialize_entity_document,
@@ -71,3 +72,8 @@ class TestGraphPrompt:
     prompt = build_user_prompt(_entity_document())
     assert "Convert the following structured legal document JSON" in prompt
     assert "DOC_prompt" in prompt
+
+  def test_openie_prompt_does_not_list_graphir_schema(self) -> None:
+    prompt = build_openie_system_prompt()
+    assert "propositions" in prompt
+    assert "APPROVED NODE LABELS" not in prompt

@@ -60,3 +60,7 @@ rag_live_eval.json
 # Frontend
 node_modules/
 web/dist/
+
+# Scraped Fortune 500 policy PDFs (local cache before Drive upload)
+data/fortune500_policies/pdfs/
+data/fortune500_policies/scrape.log

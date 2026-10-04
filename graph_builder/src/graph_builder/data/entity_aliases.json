@@ -1,0 +1,12 @@
+{
+  "email": {"canonical_name": "email_address", "label": "PersonalData"},
+  "email address": {"canonical_name": "email_address", "label": "PersonalData"},
+  "user email": {"canonical_name": "email_address", "label": "PersonalData"},
+  "electronic mail address": {"canonical_name": "email_address", "label": "PersonalData"},
+  "personal data": {"canonical_name": "personal_data", "label": "PersonalData"},
+  "personal information": {"canonical_name": "personal_data", "label": "PersonalData"},
+  "we": {"canonical_name": "data_fiduciary", "label": "Actor"},
+  "the company": {"canonical_name": "data_fiduciary", "label": "Actor"},
+  "company": {"canonical_name": "data_fiduciary", "label": "Entity"},
+  "our organization": {"canonical_name": "data_fiduciary", "label": "Entity"}
+}

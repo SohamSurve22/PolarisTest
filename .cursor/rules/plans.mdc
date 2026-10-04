@@ -7,7 +7,7 @@ alwaysApply: true
 
 Use workspace `.cursor/plans/` (plural). Never use `.cursor/plan/`.
 
-- **Repo copy (git):** `.cursor/plans/<topic>.plan.md`
+- **Repo copy (git):** `.cursor/plans/<topic>.plan.md` — do this in the **same turn** as CreatePlan.
 - **Preview copy:** leave Cursor’s file under `~/.cursor/plans/` in place. Do not delete it.
-- After CreatePlan, copy the same content into `.cursor/plans/` in this repo.
-- Do not write plans to `.cursor/plan/` or `docs/superpowers/specs/`.
+- After CreatePlan, copy the same content into `.cursor/plans/` in this repo. A plan that exists only under `~/.cursor/plans/` is not in the project.
+- Do not write plans to `.cursor/plan/` (singular) or `docs/superpowers/specs/`.

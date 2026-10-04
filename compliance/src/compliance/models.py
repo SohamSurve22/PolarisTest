@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Literal
+from typing import Any, Literal
 
 from pydantic import BaseModel, Field
 
@@ -83,6 +83,8 @@ class AnalysisResult(BaseModel):
   gaps: list[GapFinding] = Field(default_factory=list)
   penalties: list[PenaltyFinding] = Field(default_factory=list)
   weighted_pct: float = 0.0
+  policy_graph: dict[str, Any] | None = None
+  mapping_failures: list[dict[str, Any]] = Field(default_factory=list)
 
 
 class ReportCounts(BaseModel):

@@ -10,7 +10,9 @@ from graph_builder.cypher_generator import CypherGenerator, CypherStatement
 from graph_builder.graph_ir import GraphIR
 from graph_builder.graph_validator import GraphValidator
 from graph_builder.llm_graph_builder import LLMGraphBuilder
+from graph_builder.mapping_failures import MappingFailure
 from graph_builder.neo4j_loader import Neo4jLoader
+from graph_builder.policy_graph_builder import PolicyGraphBuilder
 
 if TYPE_CHECKING:
   from document_pipeline.models.entity import EntityDocument
@@ -26,6 +28,7 @@ class GraphBuildStats:
   validation_warnings: list[str] = field(default_factory=list)
   nodes_in_ir: int = 0
   relationships_in_ir: int = 0
+  mapping_failures: list[MappingFailure] = field(default_factory=list)
 
 
 class GraphBuilderPipeline:
@@ -37,6 +40,7 @@ class GraphBuilderPipeline:
     validator: GraphValidator | None = None,
     cypher_generator: CypherGenerator | None = None,
     neo4j_loader: Neo4jLoader | None = None,
+    policy_builder: PolicyGraphBuilder | None = None,
   ) -> None:
     """Initialize the pipeline with injectable stage implementations.
 
@@ -45,11 +49,13 @@ class GraphBuilderPipeline:
       validator: Validates graph IR. Defaults to ``GraphValidator``.
       cypher_generator: Generates Cypher. Defaults to ``CypherGenerator``.
       neo4j_loader: Loads Cypher into Neo4j. Optional — skip load if ``None``.
+      policy_builder: If set, OpenIE policy GraphIR is used instead of the LLM builder.
     """
     self._llm_builder = llm_builder
     self._validator = validator or GraphValidator()
     self._cypher_generator = cypher_generator or CypherGenerator()
     self._neo4j_loader = neo4j_loader
+    self._policy_builder = policy_builder
 
   def build(self, entity_document: EntityDocument) -> GraphBuildStats:
     """Run the full graph build pipeline.
@@ -62,14 +68,22 @@ class GraphBuilderPipeline:
     """
     start = time.perf_counter()
 
-    graph_ir = self._llm_builder.build(entity_document)
-    warnings = self._validator.validate(graph_ir)
-    statements = self._cypher_generator.generate(graph_ir)
+    failures: list[MappingFailure] = []
+    if self._policy_builder is not None:
+      graph_ir, failures = self._policy_builder.build(entity_document)
+      warnings = self._validator.validate_policy(graph_ir)
+      statements: list[CypherStatement] = []
+      if graph_ir.nodes:
+        statements = self._cypher_generator.generate(graph_ir)
+    else:
+      graph_ir = self._llm_builder.build(entity_document)
+      warnings = self._validator.validate(graph_ir)
+      statements = self._cypher_generator.generate(graph_ir)
 
     nodes_created = 0
     relationships_created = 0
 
-    if self._neo4j_loader is not None:
+    if self._neo4j_loader is not None and statements:
       self._neo4j_loader.connect()
       try:
         load_stats = self._neo4j_loader.execute(statements)
@@ -87,6 +101,7 @@ class GraphBuilderPipeline:
       validation_warnings=warnings,
       nodes_in_ir=len(graph_ir.nodes),
       relationships_in_ir=len(graph_ir.relationships),
+      mapping_failures=failures,
     )
 
   def build_from_ir(self, graph_ir: GraphIR) -> GraphBuildStats:

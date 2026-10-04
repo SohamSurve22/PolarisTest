@@ -99,3 +99,20 @@ class TestGraphValidator:
     )
     with pytest.raises(GraphValidationError, match="Self-referencing"):
       self.validator.validate(graph)
+
+  def test_rejects_invalid_triple(self) -> None:
+    graph = GraphIR(
+      nodes=[
+        GraphNode(id="a", label="Actor", properties={"name": "we"}),
+        GraphNode(id="b", label="PersonalData", properties={"name": "email"}),
+      ],
+      relationships=[
+        GraphRelationship(source="a", target="b", type="PENALIZES"),
+      ],
+    )
+    with pytest.raises(GraphValidationError, match="Invalid triple"):
+      self.validator.validate(graph)
+
+  def test_validate_policy_allows_empty(self) -> None:
+    warnings = self.validator.validate_policy(GraphIR())
+    assert warnings

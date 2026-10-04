@@ -7,9 +7,19 @@ Neo4j knowledge graph. This module never makes compliance decisions.
 
 ## Pipeline
 
+Default (law-style GraphIR in one model call):
+
 ```
 EntityDocument → LLM Graph Builder → Graph IR → Validator → Cypher Generator → Neo4j
 ```
+
+Optional policy path (subject–predicate–object, then the existing vocabulary only):
+
+```
+EntityDocument → OpenIE SPO → alias + ALLOWED_TRIPLES → Graph IR → validate_policy → Cypher → Neo4j
+```
+
+Unmapped phrases stay on `MappingFailure`. They are not new labels or relationship types. `LLMGraphBuilder` remains the default when `policy_builder` is omitted.
 
 ## Install
 
@@ -30,6 +40,21 @@ pipeline = GraphBuilderPipeline(
 )
 stats = pipeline.build(entity_document)
 ```
+
+Policy notices can go through OpenIE instead. The model returns propositions only; `PolicyGraphBuilder` maps them onto `graph_models` labels and `ALLOWED_TRIPLES`. `stats.mapping_failures` holds rows that did not map.
+
+```python
+from graph_builder import GraphBuilderPipeline, LLMGraphBuilder, OpenIEExtractor, PolicyGraphBuilder
+
+policy_builder = PolicyGraphBuilder(OpenIEExtractor(my_llm_client))
+pipeline = GraphBuilderPipeline(
+    llm_builder=LLMGraphBuilder(my_llm_client),
+    policy_builder=policy_builder,
+)
+stats = pipeline.build(entity_document)
+```
+
+`analyze_document(..., policy_builder=policy_builder)` attaches `policy_graph` and `mapping_failures` on `AnalysisResult`. Duty statuses stay on the Qdrant match. The HTTP `POST /analyze` route does not pass a builder.
 
 Dump GraphIR to the JSON shape `vectorization ingest-kg` reads (`VECTORIZATION_KG_DIR`, default `../kg_export`):
 

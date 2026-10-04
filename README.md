@@ -154,12 +154,18 @@ Re-run those two commands after law JSON or embed-model changes. Analyze does **
 | Endpoint | Needs Qdrant / Ollama | What it does |
 |---|---|---|
 | `POST /compare` | No | Parse the file, draw both graphs. Topic **keywords** only group User Graph folders (Consent vs Extra). Not the coverage score or node colors. |
-| `POST /analyze` | Yes (`nomic-embed-text`) | Build GraphIR from the law JSON (Obligation nodes). Score policy clauses against `kg_obligation` (multi-credit + title/element gate). N/A duties skip scoring. Penalties walk GraphIR `PENALIZES`. Not statute Q&A. |
+| `POST /analyze` | Yes (`nomic-embed-text`) | Build GraphIR from the law JSON (Obligation nodes). Score policy clauses against `kg_obligation` (multi-credit + title/element gate). N/A duties skip scoring. Penalties walk GraphIR `PENALIZES`. Not statute Q&A. The HTTP handler leaves the optional policy-graph builder unset, so the response has `policy_graph: null`. |
 | `POST /report` | Chat optional | Assemble the client memo from `AnalysisResult`. Themes and the first summary sentence are engine-owned. If Qwen is down: **200** with `narrative_available: false`. |
 | `POST /report.pdf` | No | Render the assembled report (no second chat call). |
 | `POST /rag` | Yes (embed + Qwen) | Statute Q&A. `mode=dense` retrieves `rag_section`; `mode=graph` seeds `kg_obligation` and expands GraphIR. The Queries tab calls this. Does not score a policy and does not feed the memo. |
 
 The Validation UI calls `/compare`, then `/analyze` on the same file, then `POST /report`. Findings show first; the memo narrative can take up to about a minute (local Qwen). If search is down, `/analyze` returns **503**; graphs still load. Queries returns **503** if Qdrant or Ollama is down.
+
+### Policy graph (optional)
+
+`graph_builder` can turn a parsed policy into GraphIR with the existing label and relation vocabulary. `OpenIEExtractor` asks local Ollama (same `LLMClient` as the graph builder, Qwen) for subject–predicate–object JSON only. `PolicyGraphBuilder` maps those phrases through `entity_aliases.json` / `relation_aliases.json` and `ALLOWED_TRIPLES` in `ontology.py`. Phrases that do not map (`owns`, `sells`, unknown entities) stay on `MappingFailure` (`UNMAPPED_ENTITY`, `UNMAPPED_RELATION`, `AMBIGUOUS_*`, `INVALID_RELATION_COMBINATION`).
+
+Pass `policy_builder=` into `GraphBuilderPipeline` to use that path instead of one-shot `LLMGraphBuilder` GraphIR. Pass the same builder into `analyze_document` to fill `AnalysisResult.policy_graph` and `mapping_failures`. Covered, partial, missing, violation, and conflict still come from Qdrant credits and `classify`. The Validation strip does not read those fields.
 
 The API in Docker reaches Ollama at `http://host.docker.internal:11434`.
 
@@ -172,7 +178,7 @@ The API in Docker reaches Ollama at `http://host.docker.internal:11434`.
 | `compliance/` | India obligation / gap / penalty findings (`AnalysisResult`) and client memo + PDF |
 | `rag/` | Statute Q&A: dense vs GraphRAG (`POST /rag`). Not used by `/analyze`. |
 | `vectorization/` | Embed clauses and law JSON into Qdrant (local Ollama by default) |
-| `graph_builder/` | GraphIR schema, Cypher, optional Neo4j load, `kg_export` dump |
+| `graph_builder/` | GraphIR schema, Cypher, optional Neo4j load, `kg_export` dump, optional OpenIE policy graph |
 | `semantic_graph/` | Hierarchy builder, `dump-ir`, Neo4j export |
 | `web/` | Validation workspace + Queries tab (`localhost:8080`) |
 
