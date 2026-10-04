@@ -9,6 +9,7 @@ import PageHead from "./PageHead.jsx";
 import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
 import LandingPage from "./LandingPage.jsx";
+import LoginPage from "./LoginPage.jsx";
 import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
 function counts(result) {
@@ -251,9 +252,23 @@ export default function App() {
     .filter(Boolean)
     .join(" ");
 
+  if (view === "login") {
+    return (
+      <LoginPage
+        onBack={() => setView("landing")}
+        onSuccess={() => {
+          setView("app");
+          setLoadOpen(true);
+          window.location.hash = "app";
+        }}
+      />
+    );
+  }
+
   if (view === "landing") {
     return (
       <LandingPage
+        onLogin={() => setView("login")}
         onExplore={() => {
           setView("app");
           setLoadOpen(true);
