@@ -12,9 +12,11 @@ uri = os.environ.get("MONGODB_URI", "mongodb://localhost:27017")
 users = MongoClient(uri, serverSelectionTimeoutMS=3000)["polarislex"]["users"]
 users.create_index("email", unique=True)
 
+users.delete_one({"email": "officer@test.com"})  # old non-govt test officer
+
 ACCOUNTS = [
   ("user@test.com", "User@123", "user"),
-  ("officer@test.com", "Officer@123", "officer"),
+  ("officer@gov.in", "Officer@123", "officer"),
 ]
 for email, password, role in ACCOUNTS:
   users.update_one(

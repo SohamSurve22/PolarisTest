@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./LoginPage.css";
+import { isGovtEmail, saveSession } from "./auth.js";
 
 const ROLES = {
   user: {
@@ -44,17 +45,18 @@ export default function LoginPage({ onSuccess, onBack }) {
 
   async function submit(event) {
     event.preventDefault();
-    setBusy(true);
     setError("");
+    if (role === "officer" && !isGovtEmail(email)) {
+      setError("Officers must sign in with an official government email (gov.in or nic.in).");
+      return;
+    }
+    setBusy(true);
     try {
       if (registering) {
         await post("register", { email, password, role: "user" });
       }
       const data = await post("login", { email, password, role });
-      sessionStorage.setItem(
-        "polaris-auth",
-        JSON.stringify({ token: data.token, role: data.role, email }),
-      );
+      saveSession({ token: data.token, role: data.role, email });
       onSuccess(data.role);
     } catch (err) {
       setError(err.message);
@@ -122,6 +124,10 @@ export default function LoginPage({ onSuccess, onBack }) {
               onChange={(e) => setEmail(e.target.value)}
               placeholder={role === "officer" ? "officer@gov.in" : "you@example.com"}
             />
+
+            {role === "officer" ? (
+              <p className="lg-hint">Use your official government email (gov.in or nic.in).</p>
+            ) : null}
 
             <label htmlFor="lg-password">Password</label>
             <input

@@ -17,6 +17,17 @@ router = APIRouter(prefix="/auth", tags=["auth"])
 MONGODB_URI = os.environ.get("MONGODB_URI", "mongodb://localhost:27017")
 JWT_SECRET = os.environ.get("JWT_SECRET", "dev-only-change-me")
 ROLES = {"user", "officer"}
+# Officers must use an official government email domain (comma-separated, env-overridable).
+GOVT_DOMAINS = [
+  d.strip().lower()
+  for d in os.environ.get("GOVT_EMAIL_DOMAINS", "gov.in,nic.in").split(",")
+  if d.strip()
+]
+
+
+def is_govt_email(email: str) -> bool:
+  domain = email.rsplit("@", 1)[-1].lower() if "@" in email else ""
+  return any(domain == d or domain.endswith("." + d) for d in GOVT_DOMAINS)
 
 _client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=3000)
 users = _client["polarislex"]["users"]
@@ -70,6 +81,8 @@ def login(c: Creds):
   if c.role not in ROLES:
     raise HTTPException(400, "Invalid role")
   email = c.email.strip().lower()
+  if c.role == "officer" and not is_govt_email(email):
+    raise HTTPException(403, "Officers must use an official government email (gov.in or nic.in)")
   try:
     user = users.find_one({"email": email, "role": c.role})
   except PyMongoError:

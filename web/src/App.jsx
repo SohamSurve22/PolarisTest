@@ -9,8 +9,9 @@ import PageHead from "./PageHead.jsx";
 import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
 import LandingPage from "./LandingPage.jsx";
-import { paintIdealFromAnalysis, paintPolicyFromAnalysis, paintPolicyFromJev } from "./paintAnalysis.js";
 import LoginPage from "./LoginPage.jsx";
+import { clearSession, getSession } from "./auth.js";
+import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
 
 function counts(result) {
   const topics = result?.ideal?.nodes?.filter((node) => node.kind === "topic") || [];
@@ -45,13 +46,27 @@ export default function App() {
   const [focusIdealId, setFocusIdealId] = useState(null);
   const [focusPolicyId, setFocusPolicyId] = useState(null);
   const [panToken, setPanToken] = useState(0);
-  const [userGraphMode, setUserGraphMode] = useState("path-a"); // "path-a" | "jev"
   const [loadOpen, setLoadOpen] = useState(false);
-  const [view, setView] = useState(() => (
-    ["#app", "#queries", "#report", "#validation"].includes(window.location.hash) ? "app" : "landing"
-  ));
+  const [view, setView] = useState(() => {
+    const wantsApp = ["#app", "#queries", "#report", "#validation"].includes(window.location.hash);
+    if (!wantsApp) return "landing";
+    return getSession() ? "app" : "login"; // dashboard only after a valid login
+  });
   const [tab, setTab] = useState(() => (window.location.hash === "#queries" ? "queries" : "validation"));
   const [reportPage, setReportPage] = useState(() => window.location.hash === "#report");
+
+  // Safety net: never show the dashboard without a valid (unexpired) login.
+  useEffect(() => {
+    if (view === "app" && !getSession()) {
+      setView("login");
+    }
+  }, [view]);
+
+  function logout() {
+    clearSession();
+    window.history.replaceState(null, "", window.location.pathname);
+    setView("landing");
+  }
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
@@ -205,12 +220,8 @@ export default function App() {
   const summary = counts(result);
   const paintedPolicy =
     result && analysis ? paintPolicyFromAnalysis(result.policy, analysis) : result?.policy;
-  const jevPaintedPolicy =
-    result && analysis ? paintPolicyFromJev(result.policy, analysis) : result?.policy;
   const paintedIdeal =
     result && analysis ? paintIdealFromAnalysis(result.ideal, analysis) : result?.ideal;
-  const activeUserGraph = userGraphMode === "jev" ? jevPaintedPolicy : paintedPolicy;
-  const hasJevData = !!(analysis?.obligations?.some((o) => o.jev_status));
   const workspace = result != null;
   const validationBusy = busy || reportBusy;
 
@@ -275,9 +286,13 @@ export default function App() {
       <LandingPage
         onLogin={() => setView("login")}
         onExplore={() => {
-          setView("app");
-          setLoadOpen(true);
-          window.location.hash = "app";
+          if (getSession()) {
+            setView("app");
+            setLoadOpen(true);
+            window.location.hash = "app";
+          } else {
+            setView("login"); // not logged in: go to secure login first
+          }
         }}
       />
     );
@@ -290,6 +305,7 @@ export default function App() {
         tab={tab}
         onTab={goTab}
         onGoLanding={() => setView("landing")}
+        onLogout={logout}
         onToggleTheme={() => setTheme(theme === "dark" ? "light" : "dark")}
       />
       {validationBusy ? (
@@ -345,13 +361,9 @@ export default function App() {
             <div className="graph-column">
               <GraphBoard
                 title="User Graph (Generated)"
-                hint={
-                  userGraphMode === "jev"
-                    ? "Jev (Path B) — coloured by second-opinion AI status. Orange/red may differ from Path A."
-                    : "Green = section helped cover an obligation. Orange = partial. Red = only matched a gap."
-                }
+                hint="Green = section helped cover an obligation. Orange = partial. Red = only matched a gap."
                 tone="user"
-                graph={activeUserGraph}
+                graph={paintedPolicy}
                 selectedId={focusPolicyId}
                 panToken={panToken}
                 onSelect={selectFromPolicy}
@@ -362,11 +374,6 @@ export default function App() {
                   setFocusIdealId(null);
                   setFocusPolicyId(null);
                 }}
-                graphMode={userGraphMode}
-                onToggleGraphMode={() =>
-                  setUserGraphMode((m) => (m === "path-a" ? "jev" : "path-a"))
-                }
-                hasJevData={hasJevData}
               />
               <GraphBoard
                 title="Ideal Graph (Target)"

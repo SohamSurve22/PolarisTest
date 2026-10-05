@@ -228,3 +228,5 @@
   .lg-card { padding: 20px; }
   .lg-pill { display: none; }
 }
+
+.lg-hint { margin: 2px 0 0; font-size: 12px; color: #64748b; }

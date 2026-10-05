@@ -7,7 +7,7 @@ const NAV = [
   { id: "queries", label: "Queries", tab: true },
 ];
 
-export default function Header({ theme, onToggleTheme, tab, onTab, onGoLanding }) {
+export default function Header({ theme, onToggleTheme, tab, onTab, onGoLanding, onLogout }) {
   return (
     <nav className="top-nav" aria-label="Primary">
       <div className="top-nav-left">
@@ -54,6 +54,11 @@ export default function Header({ theme, onToggleTheme, tab, onTab, onGoLanding }
             {theme === "dark" ? "light_mode" : "dark_mode"}
           </span>
         </button>
+        {onLogout && (
+          <button type="button" className="nav-link" onClick={onLogout}>
+            Logout
+          </button>
+        )}
         <div className="avatar" aria-hidden="true">
           P
         </div>
