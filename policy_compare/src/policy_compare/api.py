@@ -21,6 +21,11 @@ from compliance.models import AnalysisResult, ComplianceReport
 from compliance.pdf import pdf_download_name, render_pdf
 from compliance.report import ReportError, generate_report
 from compliance.service import AnalyzeError, analyze_document
+from graph_builder.graph_builder_pipeline import GraphBuilderPipeline
+from graph_builder.llm_graph_builder import LLMGraphBuilder
+from graph_builder.openie import OpenIEExtractor
+from graph_builder.policy_graph_builder import PolicyGraphBuilder
+from policy_compare.openie_view import graph_ir_to_view_graph
 from policy_compare.service import compare_document, default_law_paths
 from rag.models import RagError
 from rag.service import answer_question
@@ -114,13 +119,43 @@ async def analyze(
       raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
     parsed_date = _parse_analysis_date(analysis_date)
     parsed_roles = [item.strip() for item in roles.split(",") if item.strip()] or None
+    policy_graph = None
+    mapping_failures = []
+    policy_openie_view = None
+    ollama_client = None
+    try:
+      from semantic_graph.semantic_enrichment.ollama_chat import OllamaChatClient
+
+      ollama_client = OllamaChatClient()
+    except Exception:
+      # Ollama down / not installed: keep Path A, policy_graph stays null.
+      ollama_client = None
+    if ollama_client is not None:
+      try:
+        llm_client = ollama_client  # type: ignore[assignment]
+        policy_builder = PolicyGraphBuilder(OpenIEExtractor(llm_client))
+        graph_builder = GraphBuilderPipeline(llm_builder=LLMGraphBuilder(llm_client), policy_builder=policy_builder)
+        graph_ir, failures = graph_builder.build(outputs.entity)
+        policy_graph = graph_ir.to_dict()
+        mapping_failures = [item.to_dict() for item in failures]
+        policy_openie_view = graph_ir_to_view_graph(policy_graph, outputs.entity.metadata.document_id)
+      except Exception:
+        # OpenIE / GraphIR failure: Path A unchanged, policy_graph stays null.
+        policy_graph = None
+        mapping_failures = []
+        policy_openie_view = None
+
     result = analyze_document(
       outputs.entity,
       law_paths,
       jurisdiction=jurisdiction,
       analysis_date=parsed_date,
       roles=parsed_roles,
+      policy_builder=policy_builder if ollama_client is not None else None,
     )
+    result.policy_graph = policy_graph
+    result.mapping_failures = mapping_failures
+    result.policy_openie_view = policy_openie_view
     return result.model_dump()
   except HTTPException:
     raise

@@ -6,7 +6,7 @@ from typing import Literal
 
 from pydantic import BaseModel, Field
 
-NodeKind = Literal["document", "section", "topic", "law_chunk", "cluster"]
+NodeKind = Literal["document", "section", "topic", "law_chunk", "cluster", "entity", "data", "practice"]
 NodeStatus = Literal["neutral", "covered", "weak", "missing", "mapped", "extra"]
 
 

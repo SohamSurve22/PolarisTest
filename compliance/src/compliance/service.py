@@ -14,6 +14,8 @@ from vectorization.models import SearchHit
 from vectorization.sources import clause_from_entity
 
 from compliance.applicability import EntityProfile, apply_duty, default_entity_profile
+from compliance.jev import JevClient, JevError
+from compliance.jev_wire import AppliedDuty, jev
 from compliance.classify import classify_duty
 from compliance.duty_rules import load_duty_rules, load_equivalence_clusters, load_law_versions, resolve_duty_rule
 from compliance.explain import explain_finding
@@ -24,6 +26,7 @@ from compliance.models import (
   GapFinding,
   MatchedClause,
   ObligationFinding,
+  ObligationStatus,
   PenaltyFinding,
 )
 from compliance.penalty_stage import penalty_rows
@@ -109,6 +112,15 @@ def analyze_document(
     raise AnalyzeError(str(exc)) from exc
 
   obligations: list[ObligationFinding] = []
+  policy_clauses: list[dict[str, object]] = [
+    {
+      "clause_id": clause.clause_id,
+      "section_title": clause.section_title,
+      "text": clause.clause_text,
+      "section_id": clause.section_id,
+    }
+    for clause in clauses
+  ]
   for node in duties:
     decision, law_status, act, rule = decisions[node.id]
     props = node.properties or {}
@@ -136,6 +148,7 @@ def analyze_document(
       evidence=evidence,
       rule=rule,
     )
+    jev_block = _jev_block(node, act, title, summary, rule, policy_clauses)
     obligations.append(
       _obligation_finding(
         node_id=node.id,
@@ -149,6 +162,10 @@ def analyze_document(
         status=status,
         confidence=confidence,
         elements=elements,
+        jev_status=str(jev_block.get("status") or ""),
+        jev_clause_ids=[str(item) for item in jev_block.get("clause_ids", [])],
+        jev_reason=str(jev_block.get("reason") or ""),
+        jev_confidence=float(jev_block.get("confidence") or 0.0),
       )
     )
 
@@ -199,6 +216,33 @@ def analyze_document(
   )
 
 
+
+
+def _jev_block(obligation, act, title, summary, rule, policy_clauses):
+    """Call Path B (Jev) for one applicable catalog duty; never overwrite status."""
+    from compliance.jev import JevError
+
+    try:
+        block = jev.classify_applicable_duty(
+            obligation_id=obligation.id,
+            act=act,
+            title=title,
+            summary=summary,
+            requirement_elements=[{"id": e.id, "label": e.label} for e in rule.requirement_elements],
+            policy_clauses=policy_clauses,
+        )
+    except JevError:
+        return {}
+    status = str(block.get("status") or "").strip().lower()
+    if status not in ObligationStatus.__args__:
+        status = "undetermined"
+    return {
+        "status": status,
+        "clause_ids": [str(c) for c in block.get("clause_ids", []) if c],
+        "reason": str(block.get("reason") or ""),
+        "confidence": float(block.get("confidence") or 0.0),
+    }
+
 def _obligation_finding(
   *,
   node_id: str,
@@ -213,6 +257,10 @@ def _obligation_finding(
   confidence: float,
   elements,
   extra_cues: list[str] | None = None,
+  jev_status: str = "",
+  jev_clause_ids: list[str] = None,
+  jev_reason: str = "",
+  jev_confidence: float = 0.0,
 ) -> ObligationFinding:
   row = ObligationFinding(
     obligation_id=node_id,
@@ -241,6 +289,10 @@ def _obligation_finding(
     evidence_quality=evidence.quality,
     elements=elements,
     severity=rule.severity,
+    jev_status=jev_status,
+    jev_clause_ids=jev_clause_ids or [],
+    jev_reason=jev_reason,
+    jev_confidence=jev_confidence,
   )
   row.reason = explain_finding(row, evidence)
   return row

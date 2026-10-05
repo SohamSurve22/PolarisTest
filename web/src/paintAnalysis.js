@@ -126,3 +126,48 @@ export function paintPolicyFromAnalysis(policy, analysis) {
   });
   return { ...policy, nodes: rollupGraph(leaves, policy.edges, "section") };
 }
+
+/**
+ * Paints the policy graph using Jev (Path B) second-opinion statuses.
+ * Uses jev_status per obligation instead of the Path A status.
+ * Falls back to Path A status when jev_status is absent or empty.
+ */
+export function paintPolicyFromJev(policy, analysis) {
+  if (!policy?.nodes || !analysis?.obligations?.length) {
+    return policy;
+  }
+  const coveredSections = new Set();
+  const gapSections = new Set();
+  for (const row of analysis.obligations) {
+    // Prefer jev_status; fall back to path-A status if jev hasn't run or returned empty.
+    const effectiveStatus = row.jev_status || row.status;
+    const bucket = effectiveStatus === "covered" ? coveredSections : gapSections;
+    // Use jev_clause_ids first, then fall back to matched_clause_ids for section mapping
+    const clauseIds = row.jev_clause_ids?.length ? row.jev_clause_ids : (row.matched_clause_ids || []);
+    for (const clauseId of clauseIds) {
+      const sectionId = String(clauseId).split("_C")[0];
+      if (sectionId) {
+        bucket.add(sectionId);
+      }
+    }
+  }
+
+  const leaves = policy.nodes.map((node) => {
+    if (node.kind !== "section") {
+      return node.kind === "document" ? node : { ...node, status: "neutral" };
+    }
+    const sectionId = node.extra?.section_id || String(node.id).replace(/^section:/, "");
+    const hitCovered = coveredSections.has(sectionId);
+    const hitGap = gapSections.has(sectionId);
+    let status = "extra";
+    if (hitCovered && hitGap) {
+      status = "weak";
+    } else if (hitCovered) {
+      status = "covered";
+    } else if (hitGap) {
+      status = "missing";
+    }
+    return { ...node, status };
+  });
+  return { ...policy, nodes: rollupGraph(leaves, policy.edges, "section") };
+}

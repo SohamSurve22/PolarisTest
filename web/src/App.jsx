@@ -9,7 +9,7 @@ import PageHead from "./PageHead.jsx";
 import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
 import LandingPage from "./LandingPage.jsx";
-import { paintIdealFromAnalysis, paintPolicyFromAnalysis } from "./paintAnalysis.js";
+import { paintIdealFromAnalysis, paintPolicyFromAnalysis, paintPolicyFromJev } from "./paintAnalysis.js";
 
 function counts(result) {
   const topics = result?.ideal?.nodes?.filter((node) => node.kind === "topic") || [];
@@ -44,6 +44,7 @@ export default function App() {
   const [focusIdealId, setFocusIdealId] = useState(null);
   const [focusPolicyId, setFocusPolicyId] = useState(null);
   const [panToken, setPanToken] = useState(0);
+  const [userGraphMode, setUserGraphMode] = useState("path-a"); // "path-a" | "jev"
   const [loadOpen, setLoadOpen] = useState(false);
   const [view, setView] = useState(() => (
     ["#app", "#queries", "#report", "#validation"].includes(window.location.hash) ? "app" : "landing"
@@ -203,8 +204,12 @@ export default function App() {
   const summary = counts(result);
   const paintedPolicy =
     result && analysis ? paintPolicyFromAnalysis(result.policy, analysis) : result?.policy;
+  const jevPaintedPolicy =
+    result && analysis ? paintPolicyFromJev(result.policy, analysis) : result?.policy;
   const paintedIdeal =
     result && analysis ? paintIdealFromAnalysis(result.ideal, analysis) : result?.ideal;
+  const activeUserGraph = userGraphMode === "jev" ? jevPaintedPolicy : paintedPolicy;
+  const hasJevData = !!(analysis?.obligations?.some((o) => o.jev_status));
   const workspace = result != null;
   const validationBusy = busy || reportBusy;
 
@@ -325,9 +330,13 @@ export default function App() {
             <div className="graph-column">
               <GraphBoard
                 title="User Graph (Generated)"
-                hint="Green = section helped cover an obligation. Orange = partial. Red = only matched a gap."
+                hint={
+                  userGraphMode === "jev"
+                    ? "Jev (Path B) — coloured by second-opinion AI status. Orange/red may differ from Path A."
+                    : "Green = section helped cover an obligation. Orange = partial. Red = only matched a gap."
+                }
                 tone="user"
-                graph={paintedPolicy}
+                graph={activeUserGraph}
                 selectedId={focusPolicyId}
                 panToken={panToken}
                 onSelect={selectFromPolicy}
@@ -338,6 +347,11 @@ export default function App() {
                   setFocusIdealId(null);
                   setFocusPolicyId(null);
                 }}
+                graphMode={userGraphMode}
+                onToggleGraphMode={() =>
+                  setUserGraphMode((m) => (m === "path-a" ? "jev" : "path-a"))
+                }
+                hasJevData={hasJevData}
               />
               <GraphBoard
                 title="Ideal Graph (Target)"

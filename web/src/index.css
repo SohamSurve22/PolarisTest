@@ -838,6 +838,58 @@ html[data-theme="light"] .tone-conflict {
   50% { transform: scale(1.15); opacity: 0.7; }
 }
 
+/* ── Graph mode toggle (Path A / Jev) ─────────────────────── */
+.graph-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  background: color-mix(in srgb, var(--pane) 85%, transparent);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px;
+  pointer-events: auto;
+}
+
+.graph-mode-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 11px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+  white-space: nowrap;
+}
+
+.graph-mode-btn:hover {
+  color: var(--text);
+  background: color-mix(in srgb, var(--primary) 10%, transparent);
+}
+
+.graph-mode-btn.is-active {
+  color: var(--primary);
+  background: color-mix(in srgb, var(--primary) 18%, transparent);
+  border-color: color-mix(in srgb, var(--primary) 35%, transparent);
+}
+
+.graph-mode-btn.is-dim {
+  opacity: 0.55;
+}
+
+.graph-mode-badge {
+  font-size: 10px;
+  opacity: 0.7;
+}
+
+
 .flow {
   flex: 1;
   min-height: 0;

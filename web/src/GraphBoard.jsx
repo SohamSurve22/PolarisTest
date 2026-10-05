@@ -18,6 +18,9 @@ const SIZE = {
   topic: 92,
   section: 92,
   law_chunk: 72,
+  entity: 72,
+  data: 64,
+  practice: 64,
 };
 
 function sizeFor(kind) {
@@ -173,26 +176,28 @@ function treeLayout(graph, collapsed, onToggle, selectedId) {
   const nodes = visible.map((node) => {
     const placed = dag.node(node.id);
     const size = sizeFor(node.kind);
-    const hub = node.kind === "document" || node.extra?.role === "ideal_hub";
-    const kids = children.get(node.id) || [];
-    return {
-      id: node.id,
-      type: "orbit",
-      selected: node.id === selectedId,
-      position: { x: (placed?.x || 0) - size / 2, y: (placed?.y || 0) - size / 2 },
-      data: {
-        label: node.title || node.id,
-        status: node.status,
-        hub,
-        cluster: node.kind === "cluster" && !hub,
-        chunk: node.kind === "law_chunk",
-        selected: node.id === selectedId,
-        raw: node,
-        hasChildren: kids.length > 0,
-        collapsed: collapsed.has(node.id),
-        onToggle: () => onToggle(node.id),
-      },
-    };
+  const hub = node.kind === "document" || node.extra?.role === "ideal_hub";
+  const kids = children.get(node.id) || [];
+  return {
+    id: node.id,
+    type: "orbit",
+    selected: node.id === selectedId,
+    position: { x: (placed?.x || 0) - size / 2, y: (placed?.y || 0) - size / 2 },
+    data: {
+      label: node.title || node.id,
+      status: node.status,
+      hub,
+      cluster: node.kind === "cluster" && !hub,
+      chunk: node.kind === "law_chunk",
+      entity: node.kind === "entity",
+      data: node.kind === "data",
+      practice: node.kind === "practice",
+      raw: node,
+      hasChildren: kids.length > 0,
+      collapsed: collapsed.has(node.id),
+      onToggle: () => onToggle(node.id),
+    },
+  };
   });
   const edges = visibleEdges.map((edge) => ({
     id: `${edge.source}-${edge.target}-${edge.type}`,
@@ -227,6 +232,9 @@ export default function GraphBoard({
   selected,
   analysis,
   onClearSelection,
+  graphMode,
+  onToggleGraphMode,
+  hasJevData,
 }) {
   const [collapsed, setCollapsed] = useState(() => new Set());
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -291,6 +299,31 @@ export default function GraphBoard({
             {title}
             {isFullscreen ? <span className="fullscreen-badge">FULLSCREEN</span> : null}
           </div>
+          {onToggleGraphMode ? (
+            <div className="graph-mode-toggle" role="group" aria-label="Graph view mode">
+              <button
+                id="graph-mode-path-a"
+                className={`graph-mode-btn${!graphMode || graphMode === "path-a" ? " is-active" : ""}`}
+                type="button"
+                onClick={() => graphMode !== "path-a" && onToggleGraphMode()}
+                aria-pressed={!graphMode || graphMode === "path-a"}
+                title="Path A — standard compliance analysis"
+              >
+                Path A
+              </button>
+              <button
+                id="graph-mode-jev"
+                className={`graph-mode-btn${graphMode === "jev" ? " is-active" : ""}${!hasJevData ? " is-dim" : ""}`}
+                type="button"
+                onClick={() => graphMode !== "jev" && onToggleGraphMode()}
+                aria-pressed={graphMode === "jev"}
+                title={hasJevData ? "Jev — second-opinion AI view" : "Jev data not yet available"}
+              >
+                Jev
+                {!hasJevData && <span className="graph-mode-badge">–</span>}
+              </button>
+            </div>
+          ) : null}
           {isFullscreen ? (
             <button
               className="btn-exit-fullscreen"

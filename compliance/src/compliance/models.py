@@ -64,6 +64,11 @@ class ObligationFinding(BaseModel):
   reason: str = ""
   elements: list[RequirementElementFinding] = Field(default_factory=list)
   severity: str = "medium"
+  # Path B: Jev second opinion (never overwrites .status).
+  jev_status: str = ""
+  jev_clause_ids: list[str] = Field(default_factory=list)
+  jev_reason: str = ""
+  jev_confidence: float = 0.0
 
 
 class GapFinding(BaseModel):
@@ -85,6 +90,7 @@ class AnalysisResult(BaseModel):
   weighted_pct: float = 0.0
   policy_graph: dict[str, Any] | None = None
   mapping_failures: list[dict[str, Any]] = Field(default_factory=list)
+  policy_openie_view: dict[str, Any] | None = None
 
 
 class ReportCounts(BaseModel):
