@@ -1,0 +1,203 @@
+## Data Protection Policy -body
+
+### Introduction
+
+Avnet is committed to ensure compliance with applicable data protection laws and regulations. This Data Protection Policy complies with the principles and requirements of the EU General Data Protection Regulation This Policy describes how and why we collect, process andyour personal data, as well as your rights with regard to the processing of your personal data.
+
+### Scope and Supplement
+
+This Policy applies to Avnet, Inc., and its subsidiaries world-wide. The companies covered by this Policy are listed here. This Policy applies to the processing of personal data obtained through any channel of communication or by any means, including but not limited to email, file transfer, feeding personal data into applications and tools, websites or mobile apps, social media pages and platforms.
+
+This Policy may be supplemented by specific data protection and privacy notices and statements that relate to specific forms or purposes of data processing. Anonymized data (non-personal data), e.g., for statistical evaluations or studies, is not subject to this Policy.
+
+In countries where the data of legal entities is protected to the same extent as personal data, this Policy applies equally to data of legal entities.
+
+### Application of national laws
+
+While the GDPR is applicable throughout the EU, there may be laws and regulations in some countries that specify further data protection requirements, in particular conditions for lawful data processing. If so, it has to be verified on a case-to-case basis whether these laws can prevail.
+
+### Glossary and definitions
+
+A glossary of specified terms and definitions shall be included in Appendix A to this Policy.
+
+### Personal Data we process, Purposes and Legal Basis
+
+This section of our Policy describes what personal data we collect and process and for what purposes and on what legal basis. The amount of personal data we process depends on the context and circumstances of your interaction with us.
+
+-
+Handling orders and fulfilling contractual obligations
+
+When you place orders to purchase goods or services from us, or if you request information about products and services prior to placing an order, or if you request support regarding the product or services you have ordered, we will process personal data that is necessary to negotiate and execute a contract and to fulfill any contractual obligations, and to exercise our rights under the contract. This also includes advisory services under the contract if this is related to the contractual purpose. Prior to the conclusion of a contract personal data can be processed to prepare bids or tenders or to fulfill other requests of the prospect that relate to contract conclusion.
+
+For this purpose we process personal details (including name, title, email, telephone, postal address, shipping and billing address), order and customer information (including goods and services ordered and provided, instructions regarding the order, customer business activities and interests and order history), financial information (including invoice data, preferred payment options, term of payment, bank account and credit card information).
+
+The legal basis for processing personal data for the purpose of handling orders and fulfilling contractual obligations and exercising contractual rights is Article 6 (1) b) GDPR (contractual necessity). The legal basis for processing personal data for the purposes of understanding customer business activities and interests and order history is Article 6 (1) f) GDPR (legitimate interests). The legal basis for processing and keeping personal data for the purpose of complying with record keeping obligations (including commercial accounting standards and tax and fiscal retention obligations) is Article 6 (1) c) GDPR (legal obligation).
+
+- Browsing or registering on our websites, social media pages or platforms
+
+When you browse our websites, social media pages or platforms, we may use Cookies and other tracking technologies to capture and understand how you use our websites, social media pages and platforms.\
+
+Not all of our websites employ Cookies and tracking technology that collect personal data. Depending on the Cookies and tracking technologies in use, we collect information about your online browsing behavior on our websites, social media page or platform, including information how react to adverts and offers. We may also collect information about the device you have used to access our websites, social media pages or platforms, (including device model and operating system, browser type, IP-address, mobile device identifiers).
+
+Specific information regarding the Cookies and tracking technology in use on our respective websites, social media pages and platforms is being provided in our Cookie Policy. This includes information how to disable Cookies in your browser and how to prevent tracking of your browsing behavior.
+
+When you register on one of our websites, social media pages or platforms we will additionally process personal details (including name, title, email, telephone), and account details (including username, password, login-/logoff data), except where registration under an alias or pseudonym is permitted.
+
+The legal basis for processing information about online browsing behavior, if it contains personal data, is Article 6 (1) a) GDPR (consent), if we ask you to provide consent and to agree to the processing of your personal data. Specific other provisions in laws relating to data processing in an online context may require your consent as well. Under some circumstances e.g. when we process a limited amount of personal data which, by type and nature does not significantly affect your rights and freedoms, the legal basis for processing your personal data in the context of your browsing or registering on our websites, social media pages or platforms is Article 6 (1) f) GDPR (legitimate interests).
+
+- Communication, marketing, taking part in promotions, events and feedback
+
+When you contact us for any sort of inquiry or request, we will process your personal details (including name, title, company or organization you work for, email, telephone, other contact information), as far as this is necessary to deal with your inquiry or request and to respond to.
+
+When you have purchased goods or services from us, or if you have indicated to us that you are interested in certain goods or services, we may process your personal details (including name, title, company or organization you work for, email, telephone, other contact information) to contact you and to send you information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities.
+
+When you take part in promotions or events hosted or sponsored by us, we will process your personal details (including name, title, company or organization you work for, email, telephone, other contact information) to manage your participation in the promotion or event, to provide you with information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities. We will also process your personal details to ask for your feedback regarding the promotion or event, your satisfaction with our or our business partners’ goods or services and performance. We may also ask you for contributions to improve and enhance our goods and services and collaboration with our business partners.
+
+The legal basis for processing personal data for the purpose of communicating with you and to respond to any sort of inquiry or request is Article 6 (1) b) GDPR (contractual necessity), as far as it occurs in the context of preparing or facilitating the conclusion of a contract or to answer to inquiries and requests in connection with a contract. As far as personal data is processed for communicating with you on other matters the legal basis is Article 6 (1) f) GDPR (legitimate interests).
+
+When we process personal data to contact you and to send you information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities the legal basis is Article 6 (1) a) GDPR (consent) if we ask you to provide consent and to agree to the processing of your personal data for that purpose. Under some circumstances e.g. when we process a limited amount of personal data which, by type and nature does not significantly affect your rights and freedoms, the legal basis for processing your personal data to contact you and to send you information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities is Article 6 (1) f) GDPR (legitimate interests).
+
+When we process personal data to manage your participation in a promotion or event, or to provide you with information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities, or to ask for your feedback or for contributions, the legal basis is Article 6 (1) a) GDPR (consent) if we ask you to provide consent and to agree to the processing of your personal data for that purpose. Under some circumstances e.g. when we process a limited amount of personal data which, by type and nature does not significantly affect your rights and freedoms, the legal basis for processing your personal data is Article 6 (1) f) GDPR (legitimate interests).
+
+- Legal obligations and compliance
+
+As a business operating globally we are subject to various laws and regulations that impose legal obligations on us. Some of these laws and regulations may require the collection and processing of personal data (e.g. tax laws, commercial laws, trade and export compliance regulations, customs codes, anti-money-laundering laws). Where such legal obligations are based on EU or EU Member State laws and regulations, the legal basis for processing personal data is Article 6 (1) c) GDPR. Where such legal obligations are based on laws and regulations of third countries (non-EU), compliance with these legal obligations may represent a legitimate interest. If so, the legal basis for processing personal data is Article 6 (1) f) GDPR. The latter applies also to the processing of personal data for the purpose of ensuring compliance with our policies, codes of conduct and regulations.
+
+- Recruitment and application
+
+When we recruit people we will process the personal data that you provide as part of your application. Data processing for the purpose of recruitment and carrying out the application process will generally comprise personal details (including name, title, email, telephone, postal address) and CV and qualification data (including graduation, university degree, training certificates, advanced education certificates, credentials, and skills). After completion of an application process we may continue to process (store) personal data of applicants for a certain period of time where necessary to ensure we are able to exercise rights or defend against claims in the context of the recruitment process.
+
+The legal basis for processing personal data for the purpose of recruitment and handling applications is Article 6 (1) b) GDPR (contractual necessity), as far as the processing is necessary to review and assess the applications and to select applicants and execute an employment contract, and to exercise rights or defend against claims in the context of the applications process.
+
+When applying for a position at Avnet via a careers website, recruitment platform or job portal, or when responding to a job advertisement, applicants should also refer further and more specific privacy information made available on the careers website, recruitment platform, job portal or in the job advertisement.
+
+### Personal Data of Children
+
+Avnet’s operations are focused on business-to-business (B2B). Therefore, we do not intentionally solicit personal data from children or send them requests for personal data. While users of all ages may navigate through our websites, social media pages or platforms, they are for B2B purposes only and are not targeting children. If we notice, following a notification by a parent or guardian, or after discovery by other means, that a child under 16 years has been inappropriately registered on one of our websites, social media pages or platforms, we will cancel the account and registration and delete the child's personal data from our records.
+### Sharing Personal Data with Service Providers and Third Parties
+
+Not all processing of your personal data will be carried out by Avnet itself. Sometime we will make use of service providers and vendors (“processors”) who will process personal data for us, on our behalf and under our instructions. Such processors can be external companies or affiliates of Avnet (group companies). Any such outsourcing of data processing will follow a service provider / vendor due diligence and monitoring protocol, and will be governed by a Data Processing Agreement.
+
+As far as we use service providers and vendors as processors to process personal data on our behalf, your personal data may be shared with the following categories of recipients:
+
+IT service providers, application service providers, Internet service providers, platform and website host service providers, data disposal companies, marketing agencies, market research agencies, advertising partners, order and account management service providers, payment service providers, logistics service providers, customer care service providers.
+
+Apart from sharing personal data with service providers and vendors it may be necessary to share your personal information with third parties, because there is a legal obligation to do so, or because there is a legitimate interest to ensure compliance with polies and regulations, or to facilitate business cooperation and collaboration. In such cases your personal data may be shared with the following categories of recipients:
+
+Public authorities and administrative bodies, law enforcement and fraud prevention agencies, courts, lawyers, tax accountants, accounting and auditing firms, credit reference agencies, payment card and insurance providers, manufacturers and resellers, retailers.
+
+If you use our websites, social media pages or platforms and if you choose to link your social media accounts to us or if you are logged in into your social media account, your personal data may be shared with the operators of those social media pages and platforms.
+
+If we sell or buy any business or assets or transfer an area of our business to a new owner, we will disclose your personal data to the prospective seller or buyer of such business or assets or any third party who acquires our assets or who the business is transferred to.
+
+We may share information with affiliated or unaffiliated third parties on an anonymous, aggregate basis. While this information will not identify you personally and insofar not contain personal data, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they have collected from you or received from third parties, in a manner that allows them to identify you personally. Where we do share such data with third parties, we take steps to ensure that they use appropriate safeguards to protect your data.
+
+### Storing periods for Personal Data
+
+Generally we keep personal data for no longer than is necessary for pursuing or achieving the purposes for which the personal data is processed. However, in most circumstances personal data is processed for more than one purpose, e.g. if the data processing takes place in the context of a purchase we process personal data for the purpose of handing and fulfilling your order, delivering the goods or services, invoicing and payment, and providing customer care afterwards. Yet, as a corporation we also subject to record keeping obligations and have to comply with tax laws and commercial laws that require much longer retention of certain documents and files that may contain personal data.
+
+If we process personal data for the purpose of handling orders and fulfilling contractual obligations we will keep your personal data for as long as you have a customer or business relation with us. Personal data that is included in documents or files that are subject to tax laws will be kept for 10 years (unless statutory provisions or pending lawsuits or tax proceedings require longer retention), personal data that is included in documents or files that are subject to commercial laws will be kept for 6 years (unless statutory provisions or pending lawsuits require longer retention).
+
+If we process personal data for the purpose of understanding your online browsing behavior we will keep personal data only for as long as necessary to create user statistics and analytics reports that use aggregate data (non-personal data). Specific information as to how long such personal data will be kept is being provided in our Cookie Policy.
+
+If we process personal data for the purpose of communication, marketing, promotion, event and feedback purposes, we will keep the data for as long as we need the data to communicate with you, or for as long as we have a legitimate interest to provide you with business, product and service information, or marketing, event and promotion materials, except where you have objected to the processing of your personal data for such purposes.
+
+If we process personal data for the purpose of compliance with laws and regulations that impose legal obligations on Avnet, we keep personal data for as long as such laws and regulations require.
+
+If we process personal data for the purpose of recruitment and carrying out the application process, we keep personal data for as long as necessary to review and assess the applications, to select applicants, to negotiate and execute an employment contract, and to exercise rights or defend against claims in the context of the applications process. If an application is successful, your personal data – as far as necessary for carrying out the employment contract – will be kept for as long as you are employed with Avnet and after termination of your employment, for as long as necessary to comply with retention requirements, or for as long as forthcoming or pending lawsuits require longer retention. If your application is not successful we will keep your personal data for up to six months for the purpose of defending us against potential claims and lawsuits.
+
+If you application was not successful, but you have agreed that we keep your personal data on file for future opportunities, we will keep your personal data for up to two years, unless specified otherwise on our careers websites, recruitment platforms or job portals, or in a job advertisement.
+
+### Transfers of Personal Data to From the European Union to Third Countries
+
+The European Union imposes certain obligations on companies that export personal data about EU residents to countries outside of the EU. Avnet’s subsidiaries in the EU sometimes transfer personal data to recipients in other countries. For example, an Avnet subsidiary in the EU may need to share personal data (i) with its parent company Avnet, Inc. in the U.S., (ii) in the context of international cooperation and collaboration with our business partners, or (iii) when orders are handled, managed and shipped internationally. If and as far as we make use the services of processors, we may also transfer your personal data to processors located in other countries.
+
+As far as such data transfers involve recipients in countries outside the European Union or outside the European Economic Area (“Third Countries”), we will ensure that the transfers will be made in compliance with the data protection provisions that restrict the transfer of personal data outside the European Union or the European Economic Area, and which require that appropriate safeguards are implemented to ensure an adequate level of data protection.
+
+Such safeguards could either be an adequacy decision by which the European Union has deemed the country in which the recipient is located to have adequate data protection laws in place, or the execution of EU Standard Contractual Clauses (also known as EU Model Clauses) with the recipient, or the implementation of Binding Corporate Rules (“BCRs”) by the recipient, or if the recipient has an active EU-U.S. Privacy Shield certification.
+
+If you have a particular concern about the adequate protection of your personal data when transferred to third countries, you may make an inquiry at DataProtection@avnet.eu, Karla Willegems: +32 2 227 20 14, Manuela Boeddeker : +49 8121 774 704
+
+### Security of Personal Data
+
+We have implemented technical and organizational security measures to protect personal data we process against accidental or unlawful manipulation, destruction or loss, alteration, and against unauthorized disclosure or access by third parties. Such security measures include authentication tools, firewalls, monitoring of IT systems and networks, pseudonymization and encryption of personal data.
+
+The technical and organizational security measures are reviewed and adjusted on a regular basis, taking into account the state of the art of technology, the nature, scope, context and purposes of processing and the risks and probability of occurrence. However, given the dynamic context of security measures, state of the art of technology, vulnerabilities, threats and risks, absolute security cannot be guaranteed.
+
+If you have a particular concern about the security of your personal data, you may make an inquiry at DataProtection@avnet.eu, Karla Willegems: +32 2 227 20 14, Manuela Boeddeker : +49 8121 774 704.
+
+### Marketing Preferences
+
+As outlined in Section IV. 3. of this Policy, we may have a legitimate interest to process your personal details (including name, title, company or organization you work for, email, telephone, other contact information) to manage your participation in a promotion or event, or to provide you with information about our or our business partners’ goods and services, new technological developments, special offers and business opportunities. For these purposes may use your personal details, in accordance with any preferences, if expressed, to send you product and service information and marketing messages by email, post, phone and social media, unless you have asked us not to.
+
+Unless consent is required as a legal basis, which would also require an opt-in, you will always have the opportunity to opt-out of receiving product and service information and marketing messages by simply ticking a box or clicking on a button or link, or by changing your preferences in your account settings, as applicable.
+
+You can of course instruct us in the same way to stop sending you product and service information and marketing messages at any time afterwards.
+
+If you instruct us to stop sending you product and service information and marketing messages it might take some time for all our systems and applications to be updated, so you might still get messages from us while we fully process your instruction.
+
+Please note that instructing us to stop sending marketing messages will not stop our other communication with you, such as order conformations, order updates, shipping notices or payment requests.
+
+### Your Rights over your Personal Data
+
+You have many rights over your personal data and how it is used. These rights are summarized below. In order to assert the rights any of these rights you may contact the Avnet legal entity that is indicated as Controller below in Section XIII., or the Data Protection Officer by an Avnet legal entity, if applicable.
+
+- Right to access your Personal Data
+
+You have the right to request a confirmation as to whether or not we process personal data concerning you.
+
+If we process personal data about you, you have the right to request access to the personal data and to obtain further information regarding the purpose of the processing; the categories of personal data concerned; who else outside Avnet might have received the data, including recipients in Third Countries; any available information what the source of the data was, if you did not provide it directly to us; the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period. You may also request a copy of the personal data undergoing processing.
+
+- Right to rectify your Personal Data
+
+You have a right to rectify (correct) the record of your personal data processed by us, if it is inaccurate or incorrect.
+
+- Right to erase your Personal Data
+
+You have the right to request erasure (deletion) of your personal data. However, there may be reasons and legal grounds for keeping your personal data despite your request, e.g. if you still have a business relation with us and we need the data to fulfill orders or other contractual obligations, or if record keeping obligations prevent the erasure, or when we handle an ongoing complaint. If we need to continue to process your personal data we will tell you why we need to do this when we respond to your request.
+
+- Right to object to the processing of your Personal Data
+
+You have the tight to object to the processing of your personal data on grounds relating to your particular situation and circumstances. However, there may be reasons and legal grounds for processing your personal data despite your objection. If we refuse your request we will provide you with information explaining why we have refused your request.
+
+As far as we use your personal data for direct marketing purposes, you have the right to object at any time. This includes any profiling of your personal data that is related to direct marketing.
+
+- Right to restrict the processing of your Personal Data
+
+You have the right to restrict the processing of your personal data. This means that under certain conditions you can limit the way we process and use your personal data. The right to restrict the processing may in particular be exercised if you have issues with the content of the personal data we hold or how it is processed, e.g. if you contest the accuracy of the personal data we hold and we are verifying the accuracy of the data, the processing may be restricted for the time of verification.
+
+- Right to withdraw Consent to process your Personal Data
+
+Where consent is the legal basis for the processing of your personal data, you have the right to withdraw your consent at any time. However, withdrawal of consent takes typically effect for the future only. Any past processing of personal data that was legitimately based on consent may be subject to other provisions or obligations that require and legitimize further processing of the personal data.
+
+- Right to portability of your Personal Data
+
+You have the right to request us to move, transfer or copy personal data you have provided to us so that you can use the personal data in a different service or with a different provider. You can request to receive a copy of the personal data in a commonly used and machine-readable format, so you can store it for further personal use. You can also request that we transmit it directly to another organization.
+
+However, the right to data portability may be subject to limitations due to the technical feasibility of a transmission. The right to data portability does not create an obligation for us to adopt or maintain processing systems which are technically compatible with those of other organizations
+
+- Right to lodge a complaint with the Data Protection Authority
+
+You have the right to lodge a complaint with the relevant Data Protection Authority if you believe that we have not handled your personal data correctly and lawfully or if you believe that we have not dealt appropriately with your requests.
+
+The relevant Data Protection Authority where the complaint should be made is the one that is competent for the place of your habitual residence or place of work, or the one that has jurisdiction over the place where the alleged infringement has occurred. When you have lodged a complaint, the Data Protection Authority will inform you of the progress and outcome of the complaint.
+
+### How to contact us on Data Protection
+
+If you have any questions or concerns about this Data Protection Policy or about the protection of your personal data, please feel free to contact our Data Protection Team at:
+
+DataProtection@avnet.eu
+
+Karla Willegems: +32 2 227 20 14
+
+Manuela Boeddeker : +49 8121 774 704
+
+Some of Avnet’s legal entities have appointed a Data Protection Officer. If applicable, you may also contact the Data Protection Officer directly at the contact details specified by the respective Avnet legal entities.
+
+### Data Controller and Responsibility
+
+Unless indicated otherwise, the Avnet entity that collected your personal information is the Data Controller of your personal data. It determines the purposes and means for processing your personal data and is responsible for compliance with applicable data protection laws and regulations and the requirements of this Policy.
+
+### Amendments to this Policy
+
+We reserve the right to amend this Policy at any time. This Policy can be amended in coordination with the DPT under the defined procedure for amending policies and notifying amendments.

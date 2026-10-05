@@ -1,0 +1,442 @@
+Last revision: June 18, 2026
+
+# Enterprise Online Privacy Statement
+
+## Delivering Excellence
+
+At DXC Technology (DXC), we strive for best-in-class data protection and privacy management. This requires a sound data privacy governance structure and an effective data privacy compliance and best practices program. With these measures, DXC aims to comply with ever-changing and increasingly complex regulatory standards; meet contractual privacy obligations; and build trust with our employees, customers, business partners, and other stakeholders.
+
+## Statement Purpose
+
+This Enterprise Online Privacy Statement (Privacy Statement) describes DXC’s approach, requirements, and expectations in relation to our collection, use, storage and transfer of Personal Data wherever we operate.
+
+Subject to certain exceptions, this Privacy Statement applies to all DXC Sites and Services. A privacy policy or statement specific to a particular DXC service, program or subsidiary may supersede or supplement this Privacy Statement. The Privacy Statement also governs the offline collection and processing of Personal Data concerning DXC and its customers, business partners, job applicants, employees, and former employees (collectively, Data Subjects). Where a contract with a customer defines different requirements, those take precedence.
+
+Operating within the DXC Regulatory & Compliance (R&C) organization, DXC has established a comprehensive set of integrated ethics and compliance as well as privacy and data protection programs and initiatives. Outlined below, these promote and support responsible collection, use, storage, and transfer of Personal Data.
+
+#### Governance
+
+- R&C is chartered by Board resolution which includes Ethics & Compliance and Privacy programs.
+
+- The R&C Charter assigns functional leadership and oversight of programs to the Vice President, Chief Ethics and Compliance Officer. R&C’s mission is to promote a culture of performance with integrity that encourages ethical conduct, reinforces our corporate values, and drives compliance with the Code of Conduct, internal policies, and the law.
+
+- Privacy is led by DXC’s Group Data Protection Officer based in the European Union (EU). Privacy advises DXC businesses on privacy compliance and supports policies, processes, technologies, and controls for the collection, use, storage, and transfer of Personal Data. Privacy also coordinates with ethics and compliance, legal, human resources, information security, physical security, and other functions.
+
+#### Compliance Policies, Standards, and Processes
+
+- DXC has adopted a Global Privacy and Data Protection Policy which reflects the Generally Accepted Privacy Principles (GAPP) applicable to the collection, use, storage, and processing of Personal Data.
+
+- Additionally, comprehensive compliance standards and procedures promote consistent privacy and data protection across all DXC legal entities and businesses.
+
+- Privacy conducts assessments as needed for new or changed services, systems, and processes to identify and address potential privacy issues early.
+
+#### Employee Communications and Training
+
+- Mandatory privacy and data protection training is included within the required annual Code of Conduct training and Security Awareness training.
+
+- Privacy and data protection are incorporated into the new hire onboarding process. Periodic awareness messaging is broadly distributed using a variety of channels.
+
+#### Risk Assessment, Monitoring and Auditing
+
+- DXC conducts periodic risk assessments to identify, assess, prioritize, and mitigate privacy and data protection risks.
+
+- DXC monitors and audits its privacy policies and procedures to manage privacy risks.
+
+#### Incident Handling
+
+- DXC has established robust privacy incident handling procedures and operates a 24/7 incident response center, which will go into effect in the event of a suspected or confirmed privacy breach. These measures supplement regulatory and contractual notification requirements.
+#### Cross-Disciplinary Partnerships
+
+- Privacy works with business units and corporate functions, including Cyber Security, Information Technology, Legal, and Human Resources, to support privacy compliance goals.
+
+#### Flexible Service Delivery Model
+
+- DXC’s global service delivery model is designed to be comprehensive and flexible to meet the privacy requirements of sensitive, regulated, and classified data environments.
+
+#### Formal Dispute Resolution Mechanism
+
+- Employees and customers may contact DXC about privacy-related matters at privacy@dxc.com, regardless of geography, business, or service.
+
+This section defines various terms that are frequently used in this Privacy Statement.
+
+#### Artificial Intelligence (AI)
+
+Any machine-based system that, for explicit or implicit objectives, infers from the inputs it receives how to generate outputs such as predictions, content, recommendations, classifications, scores, or decisions that can influence physical or virtual environments. This includes, but is not limited to, generative artificial intelligence capable of producing content that simulates human-generated outputs.
+
+#### Business Unit
+
+A DXC legal entity or organization, including:
+
+- Corporate support organizations
+
+- Subsidiaries
+
+- Related corporations, partnerships or professional associations, affiliates, divisions or groups and their subsidiary operations and operating units.
+
+#### Cookie
+
+A string of information that a website saves on a visitor’s computer for tracking purposes. The visitor’s internet browser provides this information to the website operator each time the visitor returns to the site.
+
+#### Cross-Context Behavioral Advertising
+
+The targeting of advertising to a consumer based on Personal Data obtained from the consumer's activity across websites, applications, or services other than the website, application, or service with which the consumer is currently interacting.
+
+#### Customer Data
+
+Personal Data that belongs to a DXC customer, which may include information about the organization, their employees, customers, business partners, or suppliers.
+
+#### Data Processing
+
+The collection, use, storage, or transfer of Personal Data by DXC. It is necessary for DXC to process Personal Data to manage its relationship with its customers, employees, business partners and other third parties (Data Subjects); processing is done in compliance with applicable laws.
+
+#### Data Subject
+
+An individual, whether identified or identifiable, whose Personal Data is subject to Data Processing by DXC. Data Subjects include DXC's customers, business partners, job applicants, current and former employees, contractors, and temporary workers.
+
+#### DXC Sites and Services
+
+All DXC-owned websites, domains, and services and those of our wholly owned subsidiaries.
+
+#### Global Privacy Control (GPC)
+
+A browser-based signal that communicates a Data Subject's preference to opt out of the sale or sharing of their Personal Data and the use of their data for targeted advertising. When enabled, GPC automatically transmits this preference to each website the Data Subject visits.
+
+#### Personal Data
+
+Any information relating to an identified or identifiable living human being that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.
+
+#### Sensitive Personal Data
+
+Type of Personal Data that requires more protection because it is sensitive and subject to certain limitations under privacy laws. These may include government identifiers, precise geolocation, racial or ethnic origin, political beliefs, religious beliefs, genetic or biometric data, mental health, or sexual health, sexual orientation, and trade union membership.
+
+#### Pixel Tag
+
+A small, transparent image file embedded in a web page or email that collects information about whether the page or email has been viewed, the viewer's IP address, device type, and the time of interaction. Pixel tags are also known as web beacons, clear GIFs, or tracking pixels.
+
+#### Standard Contractual Clauses (SCCs)
+
+Pre-approved contractual terms adopted by the European Commission that provide appropriate safeguards for the transfer of Personal Data from the European Economic Area to countries that have not received an adequacy decision. References to SCCs in this Privacy Statement include, where applicable, the UK International Data Transfer Agreement (IDTA), which serves a similar function for transfers from the United Kingdom.
+
+#### Technical and Organizational Measures (TOMs)
+
+The administrative, technical, and physical safeguards implemented to protect Personal Data against unauthorized or unlawful processing, accidental loss, destruction, or damage. TOMs may include measures such as encryption, access controls, staff training, and incident response procedures.
+
+DXC may collect and process Personal Data in connection with a variety of interactions that you may have with DXC as a Data Subject. These include access to DXC Sites or Services; ordering channels; hiring and employment administration processes; communications with DXC representatives; or the purchase of goods or services.
+
+DXC is committed to processing Sensitive Personal Data only where we have a lawful basis to do so, such as where processing is necessary for employment administration, to comply with legal obligations, or on instruction of our customers in accordance with applicable customer contracts.
+
+#### The Personal Data We Collect
+
+To the extent required and permitted by law, DXC may collect and use the following information:
+
+- Your name and other contact information
+
+- Communication preferences and details
+
+- Login and authentication information
+
+- Online profile information
+
+- Online activity
+
+- Purchasing information
+
+- Information about the device(s) you use
+
+- Information about the service(s) you use
+
+- Support information
+
+- Cookies
+
+- Social media information
+
+- Date of birth
+
+- Copy of identification document
+
+- Payment information
+
+- Subscription preferences
+
+- Financial and credit history
+
+- Location information
+
+- IP address and online identifiers
+
+- Professional or employment-related information
+
+- Education information
+
+- Audio and electronic recordings of calls, chats, or other interactions
+
+- Inferences drawn from other Personal Data
+
+- Assessment and screening results
+
+#### Personal Data Voluntarily Provided
+
+DXC collects Personal Data you provide when using our services, websites, or webstore, including when you create an account, contact DXC, subscribe to marketing materials, communicate with DXC, or apply for a job. This may include contact details, account information, communications, and payment information where relevant.
+
+#### Personal Data Collected from Other Sources
+
+DXC may also collect information about you from other sources to help us correct or supplement our records, improve the quality or personalization of our services to you, and prevent or detect fraud. These sources fall into the following categories: (a) publicly available sources, such as government databases, public registers, and open internet sources; (b) commercial data providers, such as marketing list providers, credit reporting agencies, and identity verification services; (c) social media platforms, where your profile or activity is publicly visible; (d) DXC alliance partners, resellers, and co-branded service providers; and (e) referrals from other users, customers, or your employer. DXC will only collect Personal Data from such sources where permitted by applicable law.
+
+We will only collect, use, and share your Personal Data where we are satisfied that we have an appropriate legal right to do so. We may have the legal right to do so because:
+
+(1) you have consented to our use of your Personal Data;
+
+(2) our use of your Personal Data is in our legitimate interests as a commercial organization;
+
+(3) our use of your Personal Data is necessary to perform a contract with you or take steps to enter into a contract with you; or
+
+(4) our use of your Personal Data is necessary to comply with a relevant legal or regulatory obligation.
+
+#### Fulfilling your Transaction Request
+
+We will use your Personal Data to fulfill requests you make for DXC’s products or services, marketing materials, or anything else requiring action from DXC. To fulfill your request, we may share information with others, including DXC group companies and business partners involved in fulfillment. In connection with a transaction, we may also contact you as part of customer satisfaction surveys or market research; any such contact will comply with applicable laws and regulations.
+
+#### Personalizing your Experience on our Web Sites
+
+We may use information collected about you to personalize our websites, make navigation easier, provide relevant content, and improve our websites, products, and services.
+
+#### Providing Support
+
+We may use your Personal Data to support DXC products or services you have purchased, including technical support that may involve incidental access to data you provided or that is located on your system. This Privacy Statement does not apply to Customer Data on systems not owned or controlled by DXC; that data is governed by the applicable terms of use or customer contract.
+
+#### Marketing
+
+DXC may use information you provide, and information we lawfully collect about you, for marketing purposes. You may opt in or opt out where required or permitted by law. Each marketing email includes unsubscribe instructions. You may also unsubscribe through the DXC Preference Center, or by contacting DXC directly at privacy@dxc.com.
+
+Some offerings may be co-branded with third parties, such as DXC Alliance Partners. If you sign up for those offerings, your information may be collected by or shared with those third parties, and their privacy policies will apply to their handling of your information.
+
+#### Recruitment
+
+For information about how DXC collects and uses Personal Data in connection with job applications, please refer to the Prospective Applicants Privacy Notice of this Privacy Statement.
+
+#### Recording of Calls, Chats and Other Interactions
+
+Certain online transactions may involve calls or online chats initiated by you or DXC. DXC may record these interactions for training, quality assurance, or evidence of a transaction or interaction.
+
+#### Mobile Applications and Use of Information in Social Media
+
+DXC makes available mobile applications for download from various marketplaces. DXC also employs social media tools on its websites, including forums, wikis, blogs, and other social media platforms. These tools promote collaboration among those who have registered to use them.
+
+When downloading and using these applications or registering to use these social media tools, you may be asked to provide certain Personal Data. These applications and tools may also include supplemental privacy statements with specific information about collection and handling practices. We encourage you to read those supplemental statements to understand how the tools and applications may process your data.
+
+Any other content you post, such as pictures, information, opinions, or any other type of Personal Data that you make available to other participants on these social platforms or applications, is not subject to this Privacy Statement. Rather, such content is subject to the terms of use of those applications or platforms, and any additional guidelines and privacy information provided in relation to their use, as well as the process by which you can remove your content from such tools. You should be aware that the content you post on any such social computing platforms may be made available to others inside and outside DXC.
+
+#### Use of Artificial Intelligence and Automated Processing
+
+DXC may use AI across its business operations, services, and interactions with Data Subjects. DXC may use AI in connection with the following activities:
+
+- Recruitment and talent management, including but not limited to screening and evaluating applications, matching candidates to roles, generating relevancy indicators, conducting or supporting assessments, analyzing interview responses, and workforce planning. All hiring decisions are made by qualified DXC personnel.
+
+- Business operations, including but not limited to optimizing service delivery, detecting anomalies or potential security incidents, supporting IT operations, automating workflows, and analyzing business data.
+
+- Collaboration, communication and content creation, including but not limited to drafting, translating, or summarizing business communications, personalizing website experiences, facilitating meetings, and supporting marketing activities.
+
+- Compliance and risk management, including but not limited to fraud detection, due diligence, sanctions screening, and monitoring adherence to contractual or regulatory obligations and DXC policies.
+
+- Cybersecurity and information security, including but not limited to identifying, analyzing, and prioritizing potential security threats, detecting anomalous activity, supporting vulnerability management, enhancing incident response, and protecting DXC systems, services, and data from unauthorized access, misuse, or disruption.
+
+- Administration of internal business processes, including but not limited to supporting administrative tasks, analyzing operational performance, and informing business planning.
+
+This list is illustrative and may evolve as DXC’s use of AI develops. DXC will update this Privacy Statement or provide supplemental notices where material changes to AI processing occur or as required by applicable laws.
+
+DXC applies a risk-based approach to the safeguards it implements for AI processing. For all AI processing, DXC applies its standard data protection safeguards as described in this Privacy Statement. Where AI processing poses elevated risks to Data Subjects, DXC applies additional safeguards proportionate to the level of risk.
+
+For high-risk AI processing, DXC implements the following controls:
+
+- Human oversight: AI supports, but does not replace, human judgment for final decisions that have a legal or similarly significant effect on individuals. Qualified personnel retain the authority to review, adjust, or override AI-generated outputs.
+
+- Transparency: Where required by applicable law, DXC provides notice to Data Subjects including meaningful information about the legal basis, logic, significance, and envisaged consequences when AI is used in ways that materially affect them.
+
+- Data minimization: DXC limits the Personal Data provided to AI systems to what is necessary for the intended purpose. Where feasible, DXC applies de-identification, pseudonymization, or other privacy-enhancing techniques before AI analysis.
+
+- Fairness and non-discrimination: DXC evaluates its AI tools for potential bias and takes steps to reduce the risk of discriminatory outcomes.
+
+- Impact assessments and audits: Where required by applicable law or where DXC determines it is appropriate, DXC conducts data protection impact assessments and independent audits of its AI systems.
+
+#### Protecting DXC’s Rights and Property
+
+We may also use or share your information to protect the rights or property of DXC, our business partners, suppliers, customers, or others when we have reasonable grounds to believe that such rights or property have been or could be affected. In addition, we reserve the right to disclose your Personal Data as required by law and when we believe that disclosure is necessary to protect our rights, or the rights of others, or to comply with judicial proceedings, court order, law enforcement, or legal process.
+
+DXC will not sell, rent, or lease your Personal Data. DXC does not share Personal Data for cross-context behavioral advertising. As a global organization, DXC may share Personal Data within the DXC group and transfer it to countries where we do business, subject to this Privacy Statement. DXC may also disclose Personal Data to service providers, contractors, alliance partners as required by law. This Privacy Statement and our internal policies are designed to provide a globally consistent level of protection for Personal Data.
+
+#### Service Providers and Alliance Partners
+
+DXC uses service providers, suppliers, and alliance partners in various countries to support business operations, provide professional services, deliver customer solutions, and process information on our behalf. DXC requires them to handle Personal Data and confidential information consistently with this Privacy Statement.
+
+#### Corporate Reorganization
+
+If DXC sells, buys, merges, or reorganizes businesses, Personal Data may be disclosed to prospective or actual purchasers or received from sellers. DXC seeks appropriate protection for information involved in these transactions.
+
+#### Mandatory Disclosures
+
+DXC will disclose Personal Data only as required or permitted by law, including to comply with legal obligations or to establish, exercise, or defend legal rights.
+
+Registration is not required to gain access to DXC websites. However, if you choose to receive certain services, specific material, or information, certain DXC websites require your subscription. In this regard, DXC may
+
+collect Personal Data from you including your name, phone number, email address, or other information you choose to provide at various times; for example, when you complete an online form or request or participate in an online community.
+
+You can manage subscription and communication preferences at the data collection point, in your preference settings, through other methods listed in this Privacy Statement, or by using links at the bottom of DXC emails.
+
+You cannot opt out of non-promotional communications needed to administer business relationships, such as contract, support, administrative, or transactional notices.
+
+When Personal Data is transferred outside a country’s borders, we are committed to ensuring safeguards are in place to protect the data.
+
+#### Compliance with International Standards
+
+DXC’s privacy policies and standards take account of privacy and data protection regulations and frameworks around the world, and amendments to them.
+
+#### EU/UK Personal Data Transfers
+
+DXC uses lawful data transfer mechanisms for Personal Data originating in an EU member state or the UK. These include the EU Standard Contractual Clauses (SCCs) and/or the UK International Data Transfer Agreement (IDTA).
+
+DXC has an Intragroup Data Processing and Transfer Agreement (IGDTA) on the transfer and processing of Personal Data within the DXC group worldwide; this incorporates the EU SCCs and UK IDTA. The IGDTA promotes adequate protection of Personal Data, including that originating in the EU or UK, which is transferred cross-border and processed by other DXC group companies located outside the EU and UK.
+
+Before DXC implemented the IGDTA, DXC implemented properly executed data transfer agreements, including the EU SCCs and UK IDTA, to legitimize our customer Personal Data transfers globally; these include those that are necessary to conduct customer and company business between the USA and EU/UK nations. These agreements continue in full force and effect today.
+
+Information security is a high priority for DXC. To protect Personal Data and other confidential information, and to maintain its accuracy and integrity, we have implemented appropriate administrative, technical, and physical safeguards. These are designed to prevent unauthorized access, use or disclosure of Personal Data. We hold third parties with whom we share Personal Data to the same high information security standards.
+
+We apply the same rigor to maintaining the accuracy of Personal Data. We will retain Personal Data only for as long as legally required or permitted and in accordance with DXC Records and Data Management Policy.
+
+Retention periods are determined based on the nature of the data, the purposes for which it is processed, applicable legal and regulatory requirements, and legitimate business needs.
+
+For more information, please refer to DXC’s overview of Technical and Organizational Measures (TOMs). As indicated by the TOMs, DXC maintains a Privacy Information Management System (PIMS) that has achieved ISO/IEC 27701 certification for strategic global and regional delivery centers.
+
+As required by applicable laws, DXC provides you with reasonable access to Personal Data that you provided to us; we also give you a reasonable ability to review and correct your data or ask for anonymization or deletion.
+
+Depending on your jurisdiction, you may have additional rights under applicable laws, such as the right to opt out of certain processing activities or request data portability. To protect your privacy and security, we may take reasonable steps to verify your identity before responding to a request. To submit a request, please email Privacy at privacy@dxc.com and provide your legal name, relationship with DXC Technology, and country/state of residency.
+
+DXC is committed to resolving any privacy complaints pertaining to DXC's collection and use of your Personal Data. Please send any privacy-related complaints or requests to privacy@dxc.com.
+
+You may also reach out to your relevant national privacy authority and ask for their assistance. DXC is also committed to coordinating and collaborating with regulatory authorities, such as EU and UK data protection authorities.
+
+DXC Sites and Services are not directed at children, and we do not knowingly collect Personal Data from children for our own purposes. If we become aware that we have inadvertently collected Personal Data from a child without appropriate authorization, we will take steps to delete that data. Where DXC processes data on behalf of its customers that may include children’s Personal Data, such processing is governed by the applicable customer contract.
+
+#### Rationale and Controls
+
+By collecting Cookies or making use of an internet browser's storage capabilities, DXC is better able to identify visitors to our websites and their website access preferences. DXC may use information derived from Cookies or local storage to direct you, as a site visitor, to information similar to that which you have visited previously; in this way, we are better able to personalize your visit to our sites and can lead you to information that is likely to be of particular interest to you, based on your prior browsing history. We offer visitors to our websites the opportunity to control Cookie collection and placement. If you do not wish to have Cookies placed on your device, you may configure your browser to refuse Cookies before accessing our websites. Please note that disabling Cookies may affect the functionality of certain website features. To communicate your preference to opt out of the sale or sharing of personal information and the use of certain cookies for targeted advertising, you may enable a Global Privacy Control (GPC) or similar universal opt-out signal supported by your browser.
+
+Please note that our websites are constantly being updated and the Cookies we use will change over time. If you have any additional questions about the use of a particular Cookie, please do not hesitate to email privacy@dxc.com
+
+#### Embedded Third-Party Content
+
+Pages on DXC’s websites will occasionally embed content from third-party sites, such as YouTube for videos. Our websites allow content to be shared through social networks, but only at your request. Embedding and sharing content may result in Cookies being placed by those third-party sites. DXC does not control the dissemination of those Cookies. Please visit these third-party sites if you wish to learn more about their use of Cookies and similar tools.
+
+DXC makes use of third-party advertising systems to promote content on our external website. These services will often make use of Cookies and pixel tags to provide targeted DXC advertisements based on your activities and interests.
+
+This section explains how DXC Technology Inc. (“DXC”) collects and uses personal data when you create an account or apply for jobs with DXC group companies through the DXC Careers website. This section supplements and should be read in conjunction with this Enterprise Online Privacy Statement.
+
+#### Scope of Processing
+
+This section applies when you:
+
+- Create a candidate account on the DXC Careers website; and/or
+
+- Apply for job openings at DXC group companies
+
+If this is your first time applying at DXC, you will be prompted to create an account using a valid email address and account password. The email address you provide will be used for managing your candidate account and administering any job applications you submit.
+
+#### Personal Data Collected During Recruitment
+
+Depending on your interactions with DXC and the role applied for, DXC may collect and process the following categories of Personal Data:
+
+- Required information, such as your resume or CV, first and last name, contact details, city, state/province/department, country of residence, and information regarding how you learned of the position.
+
+- Optional information, such as additional details about your previous work experience, education, skills, and any personal or professional website(s).
+
+- Assessment information, where you are invited to complete skills or suitability assessments relevant to the position.
+
+- Background screening, where permitted by law and relevant to the position applied for, may include identity verification, criminal history checks, employment or education verification, creditworthiness, or drug testing. DXC conducts background checks in accordance with applicable jurisdictional requirements.
+
+#### Purposes for Processing
+
+DXC processes applicants’ Personal Data for the following purposes:
+
+- Reviewing and assessing job applications;
+
+- Managing interviews and recruitment communications;
+
+- Determining suitability for employment and making hiring decisions;
+
+- Conducting pre-employment screening;
+
+- Contacting candidates regarding current or future opportunities;
+
+- Conducting recruitment analytics and supporting workforce planning.
+
+#### Use of Artificial Intelligence in Recruitment
+
+DXC may use AI and automated tools at various stages of the recruitment process to support efficient and consistent candidate evaluation. DXC processes applicant data for this purpose based on its legitimate interest in identifying qualified candidates.
+
+Potential Use Cases
+
+- AI may be used in connection with the following recruitment activities:
+
+- Sourcing and outreach, such as identifying potential candidates, optimizing job postings, and targeting recruitment advertising to relevant audiences.
+
+- Application screening and evaluation, such as analyzing application materials, generating relevancy indicators, scores, or rankings, and comparing qualifications, skills, and experience against job requirements.
+
+- Assessments, such as conducting or supporting skills assessments, suitability evaluations, personality assessments, or technical evaluations.
+
+- Interviews, such as conducting, administering, recording, transcribing, or summarizing video or online interviews and assessments using AI-powered capabilities for review by recruiters and hiring managers. Where legally required, candidates will be informed before any AI-assisted interview, recording, or analysis takes place.
+
+- Selection support, such as building candidate profiles, estimating compatibility with a role, and supporting hiring managers with data-driven insights.
+
+- Pre-employment processes, such as supporting background screening workflows, verifying credentials, generating or reviewing offer materials, and facilitating onboarding activities.
+
+- Recruitment analytics, such as analyzing applicant pools, evaluating the effectiveness of recruitment channels, and supporting workforce planning.
+
+Privacy Safeguards
+
+- DXC applies appropriate safeguards to protect applicant privacy in connection with AI-assisted processing, which may include de-identification or pseudonymization of Personal Data before AI analysis, restricted access controls, and separation of original application materials from data provided to AI and automated systems. The specific safeguards applied depend on the tool, risk, and use case.
+
+- AI tools assist human decision-makers and are used to support, not replace, human judgment. All candidate selection and hiring decisions are made by qualified DXC personnel who have the authority to review, adjust, or override any AI-generated output.
+
+- DXC evaluates its AI recruitment tools to help reduce bias and protect applicant privacy. Where required by applicable law, DXC conducts or commissions independent audits of its automated employment decision tools and makes the results of such audits publicly available.
+
+- Applicants who have questions about AI-assisted processing, or who wish to exercise their rights in connection with such processing, including the right to request human review of an automated assessment, to request an alternative selection process, or to request a reasonable accommodation, may contact Privacy at privacy@dxc.com.
+
+#### Recipients and Transfers
+
+Personal Data relating to prospective applicants may be accessed by:
+
+- DXC employees involved in recruitment, hiring, and management decision-making;
+
+- Service providers who help us with recruiting, skill-match assessments, and background checks.
+
+Personal Data may be transferred within the DXC group and to service providers located in other countries, subject to the safeguards described in this Privacy Statement.
+
+#### Cookies and Career Site Technologies
+
+DXC may use cookies and similar technologies on the DXC Careers website. Information about the use of cookies, available controls, and the DXC Cookie List is provided in the Cookies and Other Technologies section of this Privacy Statement and at https://dxc.com/us/en/cookie-list.
+
+#### Account Management, Retention, and Deletion
+
+At any time, you may update or request deletion of your account:
+
+To edit your account: Log into your candidate account > select Settings > select Change Email to update your email address, or Personal Information to update your legal name, address, and phone number.
+
+To delete your account: use this webform to submit a data subject erasure request . Your account and any personal data associated with it will be deleted in accordance with applicable privacy and data protection legislation. DXC will notify you when the deletion request is complete.
+
+Personal Data relating to job applications is retained in accordance with the retention standards described in the Information Security, Accuracy and Retention section of this Privacy Statement. Where an applicant accepts employment with DXC, applicant data will be retained as part of the employment record in accordance with applicable laws.
+
+#### Applicant Rights
+
+Prospective applicants have the rights described in the Privacy Rights and Dispute Resolution sections of this Privacy Statement.
+
+DXC sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. DXC does not control these third-party sites or their privacy practices, which may differ from DXC's practices. We do not endorse or make representations about third-party sites or their privacy practices. Any Personal Data you choose to provide to these third parties, and that is collected by them, is not covered by this Privacy Statement. We encourage you to review the privacy policy of any site you visit before allowing the collection and use of your Personal Data.
+
+We may provide social media features that enable you to share information with your social networks and to interact with DXC and its group companies on social media sites. Your use of these features may result in the collection or sharing of information about you. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+
+If you have comments or questions about this Privacy Statement, DXC’s handling of your Personal Data, or a possible privacy breach, please email Privacy at privacy@dxc.com.
+
+We will treat requests and complaints confidentially and aim to resolve them in a timely and appropriate manner.
+
+You may also contact your local privacy authority for further information or guidance.
+
+DXC will review this Privacy Statement annually and may update it as necessary to reflect changes in our practices, technologies, legal requirements, or other factors. The "Last Updated" date at the top of this Privacy Statement indicates when it was most recently revised. We encourage you to review this Privacy Statement periodically. Where required by applicable law, or where changes materially affect how we process your Personal Data, we will provide appropriate notice or seek your consent before such changes take effect.

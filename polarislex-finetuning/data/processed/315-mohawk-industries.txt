@@ -1,0 +1,352 @@
+# Privacy Policy
+
+This Privacy Policy explains the privacy and security practices for any website, application, mobile browser, social media account, or service operated by Mohawk Industries, Inc., or any of its U.S. subsidiaries, divisions, affiliates, or related companies (“Mohawk”, “we”, “us”, “our” as appropriate) that links to this Privacy Policy (collectively, our “sites”), and it applies to any individual that uses or accesses any site that provides this Privacy Policy.
+
+We are the world’s largest flooring company with flooring options in over 30 categories. This policy applies to our corporate operations and our businesses that are headquartered in the United States. Our corporate affiliates located outside of the United States maintain their own privacy policies that are subject to local law. Please refer to the policy of the local business whenever you are engaging with a Mohawk affiliate that is headquartered outside of the United States. We want you to understand the terms and conditions surrounding our collection, use, sharing, storage, and retention of your personal information through the sites. By visiting any site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+
+## INFORMATION COLLECTION
+
+### What Types of Information We Collect
+
+While not all information that you provide or that we collect is personal information, this policy includes all information that we collect, that you provide, or that is provided to us by a third party, including personal information.
+
+The types of personal information we may obtain include:
+
+- Your name, address, phone number, email address, social media handles, user name and password for restricted access portions of our sites and those of our partners
+
+- User content, created by you during your use of a site, including information posted on our official social media pages or other public pages and other information you allow to be shared through social media apps, tools, widgets and plug-ins (including social sign on and similar third-party login services)
+
+- Payment information, when purchasing a product or service from us
+
+- Device information, such as your type of device, your IP address, and your Internet service provider information
+
+- Usage information and browsing history while you are accessing any of our sites
+
+- Location data
+
+- Demographic information
+
+While providing some requested information on our sites is completely voluntary (for example, participating in surveys), certain parts of our sites require your personal information to either access the site or to permit the site to process correctly. This policy covers both mandatory information that you provide, as well as any voluntary information that you provide.
+
+### How We Collect Information
+
+We receive and store any information you knowingly enter on a site, whether via computer, mobile phone, or other device, or that you provide to us through a site in any other way. We also receive and store information that our sites automatically collect. In addition, we receive and store information that is provided by third parties. We explain each method for collecting information and the types of information collected through each method in greater detail below. Please note that this policy does not apply to websites, services or practices of companies that we do not own or control.
+
+Mobile phone information will not be shared with third parties for marketing or promotional purposes. All above exclude SMS text messaging originator opt-in data and consent; this information will not be shared with any third parties. To opt-out of SMS text messaging, please respond according to the originator’s SMS text messaging instructions.
+
+### Information That You Provide
+
+You may choose to voluntarily provide us with information about you at various places on the sites. Information, including personal information, may be collected at any point on our sites. You may provide information to us when you engage in any of the following activities:
+
+- Purchase, order, return, exchange, or request information about our products or the sites;
+
+- Create an account;
+
+- Contact customer service;
+
+- Participate in interactive features on the sites;
+
+- Connect, discuss, tag, tweet, post, pin, or otherwise mention us or the sites through a social media service;
+
+- Sign up for emails, mobile messages or social media notifications;
+- Enter a contest or sweepstakes;
+
+- Participate in a survey or a focus group;
+
+- Provide a review, an image, an opinion, or similar content; and
+
+- Make comments, suggestions or provide other input on any of the sites.
+
+We may choose to collect the information that you provide, which we may then use according to this Privacy Policy.
+
+YOU ARE SOLELY RESPONSIBLE FOR THE CONTENT OF THE INFORMATION YOU PROVIDE ON THE SITES AND AGREE TO PERMIT US TO ACCESS, USE OR REUSE SUCH CONTENT AS PERMITTED IN THIS POLICY.
+
+### Automatically Collected Information
+
+The sites automatically log information about you from your browser or mobile device when you visit the sites. The sites may use tracking pixels, web beacons, cookies, third party software development kits (“SDKs”) and other technology to get and store information like your IP addresses, clickstream data, date and time of visits, and browser, operating system and Internet service provider information, as well as other information.
+
+Cookies enable us to offer secure pages to you without asking you to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, and you can also set how you wish the browser to delete cookies. Disabling cookies may affect the functionality of a site or may require that you reenter data each time you visit a site, however.
+
+Web beacons and other technologies like pixels and SDKs allow us and our authorized third parties to monitor and collect certain information about users of the sites, web-based documents, e-mail messages or other communications, such as the type of browser requesting the web beacon, the device identifier of the device that the web beacon is sent to and the time the web beacon was viewed.
+
+### Information Provided by Third Parties
+
+We may receive personal information about you from third parties such as data management or analytics companies, advertising networks, demographics companies, and other third parties that provide us information about you and your devices, and other collaborative third parties. We also receive personal information about you from our family of companies that you have interacted with, including subsidiaries, affiliates, and parent.
+
+### How We Use the Information That We Collect and Store
+
+We and authorized third parties engaged by us to provide services may use the information we collect on the basis of various legal grounds, which are more fully explained in this section. For example, we may use the information for compliance purposes, in situations where you provide consent for its use, as might be required to perform a contract with you, or for other legitimate business purposes. More specifically, legitimate business purposes may include the following:
+
+- Authenticate your identity,
+
+- Associate your data with a unique identifier,
+
+- Send you information,
+
+- Deliver promotional material, including coupons, mobile coupons, newsletters and marketing communications, receipt messages, emails mobile messages, and other electronic forms of communication,
+
+- Process and respond to requests for products, information or services,
+
+- Fulfill and manage purchases, orders, payments, returns, or exchanges,
+
+- Administer contests, sweepstakes and promotions,
+
+- Conduct research and analysis,
+
+- Manage customer service,
+
+- Create aggregate reports that do not identify you personally,
+
+- Customize or tailor your experience on any of our sites,
+
+- Combine the various pieces of information that we have about you,
+
+- Improve the sites,
+
+- Improve or inspire our products,
+
+- Market our products;
+
+- Improve our internal operations (including troubleshooting, testing and analyzing usage),
+
+- Count unique users/browsers, visits and page views;
+
+- Monitor traffic and conversion patterns through our various product and service offerings on the sites,
+
+- Determine whether messages were opened, links were clicked or notifications/offers were acted upon,
+- Other uses consistent with our legitimate business purposes,
+
+- Help prevent fraudulent transactions, and
+
+- Assist law enforcement, monitor against theft or other crime or breach, and respond to subpoenas (such disclosures may be carried out without notice to you.).
+
+### How We Share Information
+
+We may share information about you with third parties as follows:
+
+- to provide services to us;
+
+- to help us market our products (for example, special offers), conduct marketing research, advertising and analysis;
+
+- to receive data analysis and strategy services from such third parties;
+
+- when you consent to disclosure;
+
+- with our parent, subsidiaries, divisions, and affiliates; and
+
+- to enforce or apply our agreements or protect our rights or the rights of others.
+
+We may disclose personal information under special circumstances, such as to comply with subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the sites and applicable laws; to protect the legal rights, interests, or safety of the sites, our users or others and to prevent or protect against fraud or illegality; or when your actions violate our terms. Such disclosures may be carried out without notice to you.
+
+We may transfer personal information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
+
+### How We Secure Information
+
+We take precautions to protect personal information. We have in place a function that is responsible for implementing information security. Please note, however, that third parties may unlawfully intercept or access transmissions or communications sent via the Internet. Therefore, although we work to protect your privacy, we cannot promise, and you should not expect, that personal information or communications you transmit via the Internet are guaranteed to remain secure.
+
+### How We Retain Information
+
+We retain your information for the length of time needed to carry out the purposes described in this Privacy Policy and in accordance with our records retention schedule. Our retention schedule for information will vary based upon the nature of the data and the purposes for which it was collected, as well as any applicable laws, rules, or regulations that require us to retain information for specific time periods. In addition, we may retain information to comply with other legal requirements or as is otherwise described in this Privacy Policy. We regularly review our retention schedules for compliance purposes.
+
+### Online Advertising
+
+Advertisements appearing on the sites may be delivered to you by us or by a third party. We work with third party companies for purposes of advertising online. These purposes may include serving advertisements, including our own, across the various platforms across the Internet; tracking and categorizing your activity and interests over time on our sites and mobile applications and on third party websites and mobile applications; and identifying the different device(s) you use to access the sites and mobile applications. We share information with these companies, and these companies may collect information—including automatically collected information when you use our sites or mobile applications—through the methods described in the “Information Collection” section above. These third party companies also may possess or obtain information about you from other sources, including, for example, your interactions directly with the third party companies; with other websites or mobile applications, with companies that the third party companies work with, or from your interactions with advertisements the third party companies help to display to you. The information that these companies collect or that we share may be used for various purposes, including, for example, to customize or personalize the advertisements that are displayed to you. We do not have access to or control of the information that may be collected by these third parties, nor the tracking or categorization technologies that may be placed by the third party advertising servers, all of which are subject to the privacy policies of those various third parties. Please consult the applicable privacy policy before providing any personal information.
+
+To opt-out of online behavioral advertising, you can use the opt-out tools provided by the Network Advertising Alliance and the Digital Advertising Alliance.
+
+### Social Media Platforms
+
+If you choose to connect to our sites using a social networking or similar service, such as Instagram, Pinterest, Twitter, Google or Facebook, we may receive and store authentication information from that service to enable you to log in. We may also receive other information that you may choose to share when you connect or are connected with these services. For example, if you use functionalities, like plugins or widgets or other available tools from others websites, platforms or networks in connection with our sites, including mobile applications to log into an account or to share content and images (for example, purchases or inspirations) and other content with others on social media, we will collect the information that you share with us, or that those social media platforms or networks share with us. Our use of that information is governed by this Privacy Policy. In addition, these services may collect information, such as the web pages you visited and IP addresses, and may set cookies to enable features to function properly. We are not responsible for the security or privacy of any information collected by these third parties. Your use of these service features is governed by the policies of the social media platform that provides them. Please review the privacy settings and available options on the various social media platforms to understand your choices about the information that is collected, shared, and protected on each social media platform. If you do not want information shared from or with your social media account or other users of a social media service, please do not connect your social media account with your account, participate in social sharing on the sites or otherwise share information via the functionalities.
+
+### International Customers
+
+We store your information in the United States. In addition, we may use or process your information in the United States or any other country in which we or our service providers operate. Because we operate with a technical infrastructure that is located in the United States, we may need to transfer your personal information to the United States for storage and as may be otherwise necessary, consistent with the terms of this Privacy Policy. Our use and storage of your information outside of the country in which you reside may subject your information to laws of other jurisdictions that may be different from the laws of the country in which you reside. You may choose not to access any site and may, with respect to your information, choose to exercise your rights under applicable data protection laws.
+
+### Opting Out of Certain Contact
+
+We may contact you if you have opted in to receive messages from us. If you no longer wish to receive messages, you may opt out of receiving these communications by changing your notification settings in your account or by opting out of a mobile messaging campaign, by unsubscribing via the opt-out link included in each e-mail, by otherwise following the instructions in the applicable technology. You may also manage some third party advertising preferences through third party opt-out and do-not-call programs. In addition, you may choose not to provide your location to us in connection with your use of our mobile applications by declining any prompt requesting location information and by customizing your mobile device settings to prevent sharing of location information.
+### Additional Notice of State-Specific Privacy Information and Rights
+
+This part of our privacy notice applies to consumers who reside in the State of California, Colorado, Connecticut, Utah, or Virginia.
+
+-
+#### Personal Information We Collect
+
+We set forth the personal information we collect in the above section titled “Information Collection”. This information may contain the following categories of personal information collected in the last 12 months:
+
+##### Personal Information Category
+
+- Identifiers such as a name, postal address, online identifier, unique personal or device identifier, Internet Protocol (IP) address, email address, account name, social security number, or other similar identifiers.
+
+- Personal information described in Cal. Civ. Code Section 1798.80(e) (California Customer Records statute). This means any information that identifies, relates to, describes, or is capable of being associated with a particular individual, including, the “identifiers” listed in the preceding bullet point A, and the following: address, telephone number, employment, credit card number, or debit card number.
+
+- Characteristics of Protected classifications under California or federal law, such as the identifiers listed in section (A) above.
+
+- Commercial information, including (1) records of products or services purchased from us, (2) information on actions taken on our sites, including information about our products or services you considered via our sites or otherwise, (3) username, password, or other account information used to gain access to our online services; or (4) information about preferences and behavior that we collect on our sites or purchase from third parties in order to target consumers for digital advertisements or to personalize content we deliver on our sites; or (5) or other purchasing or consuming histories or tendencies.
+
+- Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with our sites, applications, or advertisements. This includes (1) logs of your visits to and use of our sites; (2) data collected by automated means like cookies, web beacons, and similar technologies; (3) data about online activity we may receive from third parties; and (4) connection information associated with calls, text messages, and other communications with you.
+
+- Geolocation data – If you use our mobile app, the app may ask for permission to use your location. If you consent, we may collect geolocation data. You can turn off our ability to collect location information in your mobile device settings at any time.
+
+- Audio information from calls you place to customer service which may be recorded, and electronic information in the form of Internet or other electronic network activity information as described above may also be collected.
+
+- Professional or employment-related information.
+
+- Inferences drawn from the information listed in points (A) through (H) above, as well as any other information described in the above section titled “Information Collection,” in order to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
+
+- Sensitive personal information such as social security numbers, precise geolocation, account log-in in combination with credentials allowing access to an account, in each case as further described above in the relevant categories.
+
+We obtain the above categories of personal information from a variety of sources. As outlined above in the section titled “Information Collection”, the sources from which we collect personal information include: (a) individuals with whom we or our service providers or business partners interact; (b) the devices used to access our sites, emails, or any content we make available; (c) emails, phone calls, or other communications between you and us; and (d) third party partners such as those named above in the section titled “Information Provided by Third Parties”; and others consistent with this Privacy Policy. For more information, please see the above section titled “Information Collection.”
+
+-
+#### How We Use Personal Information
+
+We use the personal information we collect for our operational purposes, including all purposes notified to you in the above section titled “How We Use the Information that We Collect and Store”. In addition to the purposes described above for which we use personal information, we use personal information for the following business purposes:
+
+- Audits and reporting related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions;
+
+- Helping to ensure security and integrity to the extent the use of the personal information is reasonably necessary and proportionate for these purposes
+
+- Detecting and protecting against security incidents, and malicious, deceptive, fraudulent or illegal activity, and prosecuting the same;
+
+- Debugging to identify and repair errors in our systems;
+
+- Short-term, transient use including, but not limited to, nonpersonalized advertising shown as part of a consumer’s current interaction with the business;
+
+- Providing services on our behalf or on behalf of others, including maintaining or servicing accounts, providing customer service, fulfilling transactions, verifying identity information, processing payments, and other services;
+
+- Conducting internal research to develop and demonstrate technology; and
+
+- Conducting activity to verify, enhance, and maintain the quality or safety of services or devices which we may own, control, or provide, or to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for us, or controlled by us.
+
+We may also use the information we collect for our own or our service providers’ other operational purposes, purposes for which we provide you additional notice, or for purposes compatible with the context in which personal information was collected.
+
+We process sensitive information only to perform services requested and reasonably expected by the consumer; to prevent, detect, and investigate security incidents; and for short-term, transient use, including, but not limited to, nonpersonalized advertising shown as part of a consumer’s current interaction with Mohawk. Mohawk does not use or disclose sensitive personal information for purposes that, under applicable law, require us to offer consumers a “Right to Limit” the use or disclosure of sensitive personal information.
+
+-
+#### Disclosure of Personal Information
+
+Within the last 12 months, we have disclosed the categories of personal information identified in the section entitled “Personal Information We Collect” for our business purposes. We list the categories of third parties to whom we may disclose personal information in the above section titled “How We Share Information”.
+
+We do not sell personal information in exchange for monetary or other valuable consideration. We do not knowingly sell the personal information of consumers under 16 years of age.
+
+-
+#### Your Privacy Rights
+
+If you are a resident of California, Colorado, Connecticut, Utah, or Virginia you may have one or more of the following rights related to your personal information. We will honor requests received to the extent required by applicable law and within the time provided by law.
+
+-
+Right to Know and Access Rights. You have the right to request that we disclose the following to you, in each case in the twelve-month period preceding your request:
+
+- Whether we are processing personal information about you;
+
+- Specific pieces of information that we have collected about you;
+
+- Categories of personal information we have collected about you;
+
+- Categories of sources from which the personal information is collected;
+
+- Categories of personal information about you that we have disclosed for a business purpose and the categories of recipients to whom we disclosed the information for a business purpose;
+
+- Categories of personal information about you, if any, that we have sold or shared and the categories of third parties to whom we have sold or shared the information by category or categories of personal information for each category of third party to whom we sold or shared the personal information;
+
+- Categories of third parties to whom the personal information was sold, shared or disclosed for a business purpose; and
+
+- The business or commercial purpose for collecting, selling, or sharing personal information.
+
+- Right to Delete. You have the right to request that we delete personal information that we have collected from or about you. Please note if you have requested a service that requires the use of your personal information, we may not be able to provide that service if you choose to delete your personal information.
+
+- Right to Correct. You have the right to request that we correct inaccurate personal information that we have collected about you.
+
+- Right to Opt Out. You have the right to opt out from targeted advertising to the extent provided by law.
+
+- Right to Appeal. If we decline to take action on a request that you make in accordance with the foregoing to exercise the foregoing privacy rights, then you may appeal our decision by contacting us via privacy_requests [at] mohawkind [dot] com or the channels listed in the “Contact Information” section below.
+
+As required or permitted under applicable law, please note that we may take steps to verify your identity before granting you access to information or acting on your request to exercise your rights. We may limit our response to your exercise of the above rights as permitted under applicable law.
+
+We will process your request within 45 days after receipt of a verifiable request, unless we notify you that we require additional time to respond, in which case we will respond within such additional period of time required by law. If your request involves us providing personal information to you, we may deliver the personal information to you through your account, if you maintain an account with Mohawk, or electronically or by mail at your option. If electronically, then we will deliver the information in a portable and, to the extent technically feasible, in a structured, commonly used, machine-readable format that allows you to transmit the information from one entity to another without hindrance.
+
+You may designate an authorized agent to make a request on your behalf. You may make such a designation by providing the agent with written permission to act on your behalf. We will require the agent to provide proof of that written permission. As permitted by law, we may require you to verify your own identity in response to a request, even if you choose to use an agent.
+
+-
+#### Requests to Exercise Your Rights
+
+To exercise any of these rights, you may contact us via privacy_requests [at] mohawkind [dot] com or as set forth in the below section titled “Contact Information”.
+
+-
+#### Non-Discrimination
+
+Subject to applicable law, we may not discriminate against you because of your exercise of any of the above rights, or any other rights under the applicable law, including by (a) denying you goods or services; (b) charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; or (c) providing you a different level or quality of goods or services for exercising your rights under the applicable law. We may, however, charge different prices or rates, or provide a different level or quality of goods or services, if that difference is reasonably related to the value provided to us by your personal information.
+
+##### Notice of Financial Incentives
+
+This Notice of Financial Incentives applies to Mohawk Edge Rewards, MyMohawk Rewards, Quick Step Rewards and Dal-Tile Rewards (the “Programs”). We reserve the right to add financial incentives to this Notice of Financial Incentives and to terminate the Programs at any time at our sole discretion.
+
+###### Mohawk Programs Details
+
+Summary of the Incentives
+
+Your account receives points on qualifying purchases. Points are accumulated to get rewards that may be redeemed for discounts on future purchases. You may also register to receive coupons, and access insider content or personalized experiences.
+
+Material Terms
+
+Consumers can view the Programs’ full terms and conditions at www.mohawkedgerewards.com, www.mymohawkrewards.com, www.quicksteprewards.com and www.daltilerewards.com, respectively. The categories of personal information collected include:
+
+- Identifiers (e.g., name, email address, password, physical address, phone number, date of birth and/or age, social security number).
+
+- Personal information described in Subdivision (e) of Section 1798.80 (California customer records statute) (e.g., credit card number or other payment information).
+
+- Commercial Information (e.g., products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies).
+
+- Internet/Network Activity (e.g., browsing history or search history on the Mohawk website or app).
+
+- Geolocation Data (e.g., physical location or movements).
+
+- Sensory Data (e.g., electronic, visual, or similar information).
+
+- Inferences from personal information collected (e.g., customer profiles such as shopping preferences).
+
+How to Opt In to the Programs
+
+Register for an account online at the respective web addresses provided in the “Material Terms” section above.
+
+Value of Consumer Data
+
+In our good faith calculation, we consider the value of consumer data collected through the Programs as the equivalent of relevant expenses related to the collection and retention of consumers’ personal information as part of the Programs. The financial incentive we offer to consumers through the Programs is reasonably related to the value of the consumer’s data.
+
+Withdrawal from the Programs
+
+You have the right to withdraw from the Programs at any time. Please note, withdrawing from the Programs will result in the loss of earned points and unredeemed rewards, and will also limit your ability to utilize the full suite of features available in the Programs. You may withdraw by contacting us via the channels listed in the “Contact Information section below.
+
+-
+#### Data Sharing for Direct Marketing Purposes
+
+California Civil Code Section § 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident, you may ask us to refrain from sharing your personal information with certain of our affiliates and other third parties for their marketing purposes. Please tell us your preference by contacting us as set forth in the below section titled “Contact Information”.
+
+-
+#### Do Not Track
+
+Please note that our websites and mobile apps are not designed to respond to “do not track” requests from web browsers.
+
+### Children’s Privacy
+
+If you are not 16 or older, you are not authorized to use the sites. We do not solicit or knowingly collect any personal information from children, and we will delete any information later determined to be from a user younger than 16.
+
+### Accessibility
+
+If you use assistive technology and the format of this Privacy Notice interferes with your ability to access information, please contact us as set forth in the below section titled “Contact Information”.
+
+### Notification of Changes
+We reserve the right to change this Privacy Policy from time to time in our sole discretion. Changes will apply to all information that we possess, including your information already in our possession, unless prohibited by law. We will post changes in this Privacy Policy by posting the updated Privacy Policy on our sites and update the effective date at the end of this Privacy Policy. Your continued use of the sites indicates your agreement to the Privacy Policy as posted. You should periodically check the sites to review changes.
+
+### Contact Information
+
+If you have any questions or concerns regarding this Privacy Policy, please call 800.241.4494 or write to us at the following address:
+
+Mohawk Industries
+160 South Industrial Blvd.
+Calhoun, GA 30701
+
+### Effective Date
+
+This Policy is effective May 15, 2026.

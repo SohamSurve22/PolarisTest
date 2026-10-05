@@ -1,0 +1,207 @@
+# Air Products Online Privacy Notice
+
+Last updated: June 2026
+
+Air Products respects and values your privacy. This Online Privacy Notice is published by Air Products and its various affiliated companies and subsidiaries (collectively, “Air Products”, “we”, “our”, “us”) and describes our policies and practices regarding the collection and use of personal information about you online on our websites, applications, email, customer portals and other digital services (our “Sites”) and sets forth your privacy rights. We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Notice as we undertake new personal data practices or adopt new privacy policies.
+
+- Information We Obtain From You
+
+- How We Use Your Personal Information
+
+- How We Share Your Personal Information
+
+- International Transfers of Personal Information
+
+- Your Privacy Rights
+
+- Storage and Retention of Personal Information
+
+- How We Protect Your Personal Information
+
+- Usage of Personal Information in Other Air Products Websites
+
+- Links to Third-party Websites
+
+- Updates to Our Online Privacy Notice
+
+- How to Contact the Air Products Privacy Office
+
+- How to Contact the Air Products Privacy Office Regarding Data Protection Complaints
+
+##### Information We Obtain From You
+
+When you interact with our Sites, we may obtain certain personal information from you. The types of personal information we obtain from you include, but are not limited to:
+
+- Basic details, whether personal or business related, such as your first and last name, physical address, e-mail address, or telephone number;
+
+- Business information such as your occupation, position and role in the company or organization that you represent, if applicable;
+
+- Purchase and payment information, including records about your orders and details of chosen payment method such as credit card or bank account details; and
+
+- Online identifiers such as IP address, device IDs, browser information, and other data elements that may be collected via cookies or similar technologies as further detailed below.
+
+Unless explained otherwise at the time, the provision of personal information on our Sites is optional and any disclosures are made voluntarily.
+
+Back to top
+
+##### How We Use Your Personal Information
+
+We may use the personal information described above for the following purposes:
+
+- Provide services to you upon your request: you may complete a form or send us an e-mail to purchase a product, download a report or other material, register for a conference, submit a request, respond to an e-mail or blog posting, ask a question, or make a comment. Each form varies in the information required and collected. In most cases, an asterisk (*) indicates the required information on a form. You may choose to provide additional information within fields that are not required.
+
+- Respond to and communicate with you about your request: we process personal information to respond to your inquiry, contact you about your request, ask a question, provide announcements about products and future events, conduct surveys, and contact you for other reasons related to offering and improving our services.
+
+- Register and create an account on our Sites: when you create an account on our Sites or log in as a registered user, we collect and process the personal information details provided during registration.
+
+- Provide you with useful features on our Sites: we may offer visitors to our Sites various features, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with those features.
+
+- Operate, evaluate, and improve our business: we may also use the personal information you provide on our Sites to:
+
+- Developing new products and services
+
+- Managing our communications
+
+- Performing market research
+
+- Advertising and marketing
+
+- Determining the effectiveness of our advertising and marketing campaigns
+
+- Analyzing our products, services, and websites
+
+- Administering our websites
+
+- Protect our business and comply with legal requirements: we may also use the information you provide to us to protect against and prevent fraud, claims, and other liabilities and to comply with or enforce applicable legal requirements, industry standards, and our policies and terms.
+
+In addition, we may use the information we obtain through the Sites in other ways for which we provide specific notice at the time of collection.
+
+Air Products is a global company and in some countries we operate in, we need to identify the legal bases used to process your personal information. In general, your personal information is processed based on the following grounds:
+
+- To enter into or fulfil a contract with you (for example, when you buy a product from us);
+
+- To comply with our legal obligations (for example, in compliance with local tax or labor law);
+
+- When we have a legitimate interest in doing so, in order to pursue one or more of the purposes that we have set out above (for example, for fraud prevention, or protect the integrity of our information systems); and
+
+- When we have requested and received your consent for specific data uses that may be required under local law.
+
+Cookies and Other Tracking Technologies
+
+When you visit our Sites, we may collect certain information by automated means using technologies such as cookies, non-cookie-based tokens, web server logs, tracking pixels, and web beacons. Cookies are files that websites send to your computer or other Internet-connected device to identify your browser uniquely or to store information or settings in your browser. Your browser may tell you when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies, you may not be able to use all of the features of our Sites and may not be able to purchase products that use a “shopping cart”. You can order any product by telephone by calling Customer Service in your specific country. Non-cookie-based tokens are encoded URL-based identifiers that track e-mail click-thru activity or time-sensitive password reset keys and will work in scenarios where cookies are disabled, or a session has not been initiated.
+
+Our web servers may log information such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The web server logs may also record information such as the address of the web page that referred you to our Sites and the IP address of the device you use to connect to the Internet. They may also log information about your interaction with the Sites, such as which pages you visit.
+
+We also use third-party web analytic services on our Sites, such as Google Analytics. The service providers that administer those services may use cookies and web beacons to help us analyze how users use the Sites. The information collected by the cookies and web beacons (including your IP address) is available to the service providers, which use the information to evaluate your use of the Sites. You can opt out of the sharing of your personal information collected via cookies with third parties by adjusting your cookie preferences on our websites or on your browser.
+
+We use information collected online through cookies, non-cookie-based tokens, web beacons, and other automated means for purposes such as customizing and enhancing our visitors’ visits to the Sites, facilitating use of the Sites, collecting statistics about your visits to the Sites, and understanding the manner in which our visitors browse the Sites in order to create a more relevant Web experience. We also use the information to help diagnose technical and service problems, administer the Sites, and identify visitors to the Sites. We use clickstream data to determine how much time visitors spend on web pages of the Sites, how visitors navigate through the Sites, and how we may tailor the Sites to meet the needs of our visitors.
+
+For more information about the cookies we use on our website, namely categories, purpose, duration and to whom they belong, see our Cookies Policy.
+
+Social Media
+
+Our Sites may include certain social media tracking functions for third-party sites such as but not limited to Twitter, LinkedIn, Facebook, YouTube and Instagram. These tracking functions may collect information about which webpages you visited on our Sites and the IP address of the device used to connect to the Internet. They may also use cookies to ensure that certain features are working properly.
+
+Social media tracking functions are hosted either by a third party or directly on the Sites. Your interactions with social media sites are governed by the privacy policies of the companies that provide them. If you use any of the social media functions on our Sites, we strongly suggest you review the privacy policies of the companies that provide those functions and features.
+
+For example:
+
+For those website visitors that are LinkedIn members and who visit our Sites from LinkedIn, our Sites may use tracking pixels — transparent graphic images placed on web pages — which, in combination with cookies, collect information contained within your LinkedIn profile as well as your access of and interaction with the web pages that contain the pixels.
+
+"Do Not Track" Signals
+
+Your browser settings may allow you to transmit a “Do Not Track” signal to websites and online services you visit. Like many other websites and online services, we do not currently process or respond to “Do Not Track” signals from your browser or to other mechanisms that enable choice. Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
+
+Back to top
+
+##### 3. How We Share Your Personal Information
+
+We do not sell or otherwise disclose personal information we collect about you on our Sites except as described in this Online Privacy Notice. We may share personal information with affiliates and service providers that perform services on our behalf and with whom we have appropriate agreements or terms in place. We do not authorize those service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may also share personal information we collect via our Sites within Air Products, which includes our affiliated companies and subsidiaries.
+
+In addition, we may disclose personal information about you (a) if we are required to do so by law or legal process (such as court order or subpoena), (b) to law enforcement authorities or other government officials, (c) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or (d) in connection with an investigation of suspected or actual fraudulent or illegal activity. We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution, or liquidation). Should such a sale or transfer occur, we will make reasonable efforts to direct the transferee to use personal information you have provided to us in a manner consistent with our Online Privacy Notice.
+
+Back to top
+
+##### 4. International Transfers of Personal Information
+
+Air Products is a global company and it has affiliates, service providers and relationships with third parties all over the world. This means that we may transfer your personal information to countries that may not have the same level of data protection laws as your local country. In these cases, we take steps to ensure that your personal information receives an adequate level of protection as described in this Online Privacy Notice and in line with applicable legal requirements.
+
+If you are located in the European Economic Area (“EEA”), UK or Switzerland, we have put in place appropriate transfer mechanisms and safeguards to protect your personal information when transferred outside of these locations, in accordance with applicable legal requirements. You can find out what safeguards we rely upon for such transfers (e.g., Standard Contractual Clauses approved by the EU Commission) by contacting us as detailed below.
+
+Back to top
+
+##### 5. Your Privacy Rights
+
+Subject to applicable law and certain exemptions, you may have the right to access, rectify, delete, oppose or restrict the processing of your personal information, or request a copy of your information in a structured format.
+
+In order to exercise these rights so that updates, corrections and/or deletions can be made in accordance with applicable law, you can:
+
+- either correct or delete your profile on our website
+
+- or contact the Air Products Privacy Office at privacy@airproducts.com
+
+In many countries, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how Air Products processes your personal information.
+
+Back to top
+
+##### 6. Storage and Retention of Personal Information
+
+Your personal information is stored by Air Products on its servers, and on the servers of certain cloud-based database and data storage management services with whom Air Products engages and has a contractual relationship with.
+
+Air Products keeps and maintains personal information for as long as necessary to fulfill the purposes mentioned above. Personal information is generally retained for the duration of our business relationships with customers or other stakeholders, and in compliance with other legal, tax and operational retention obligations.
+
+Back to top
+
+##### 7. How We Protect Your Personal Information
+
+We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. We endeavor to update these measures as new technology becomes available, as appropriate.
+
+Back to top
+
+##### 8. Usage of Personal Information in Other Air Products Websites
+
+Through our Sites, you may be directed to other websites operated by Air Products and its affiliates (together, “Air Products Sites”). Not all the Air Products Sites use this Online Privacy Notice. Individual Air Products Sites may have different Online Privacy Notices that describe their own use and collection practices. To the extent that the Online Privacy Notice of an affiliate is different from the Online Privacy Notice for these Sites, the provisions in the affiliate’s Online Privacy Notice control the practices identified for that Air Products Site.
+
+Back to top
+
+##### 9. Links to Third-party Websites
+
+Our Sites may provide links to other third-party websites that are not owned or operated by Air Products. These third-party websites may have their own privacy policies, which we strongly suggest you review, as we are not responsible for the operation, content or the privacy practices of those third-party websites.
+
+Back to top
+
+##### 10. Updates to Our Online Privacy Notice
+
+We may update our Online Privacy Notice periodically to reflect changes in our personal information practices or relevant laws. We will post the updated version and indicate at the top of the notice when it was most recently updated.
+
+Back to top
+
+##### 11. How to Contact the Air Products Privacy Office
+
+If you have any questions or comments about this Online Privacy Notice or any issue relating to how we collect, use, or disclose personal information, or if you would like us to update any personal information we hold about you or your preferences, please contact us as indicated below.
+
+E-mail us at: privacy@airproducts.com
+
+Write to us at:
+
+Air Products
+
+1940 Air Products Boulevard
+
+Allentown, PA 18106-5500
+
+Attention: Chief Information Security Officer
+
+Back to top
+
+##### 12. How to Contact the Air Products Privacy Office Regarding Data Protection Complaints
+
+If you have concerns about how we handle your personal data, you have the right to raise a complaint with us.
+
+You can contact us at: privacy@airproducts.com or via our contact channels.
+
+We will acknowledge your complaint within 30 days and investigate it without undue delay.
+
+If you are not satisfied with our response, you have the right to lodge a complaint with your local privacy regulator.
+
+Back to top

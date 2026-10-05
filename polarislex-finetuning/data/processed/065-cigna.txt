@@ -1,0 +1,378 @@
+• Information We Collect
+• Health Information
+• GLBA Privacy Notice
+• How We Use Personal Information
+• Our Sharing and Disclosure Practices
+• Do Not Track Signals
+• Cookies and Other Tracking Technologies
+• Anonymous and Aggregate Information
+• Our Online Privacy Notice for Children
+• Our Data Protection and Security Policy
+• Information for Employment Applicants
+• Additional Information for Users of a Cigna Mobile Application
+• Cross Border Transfers
+• Changes to this Privacy Notice
+• Links to Other Websites
+• State-Specific Privacy Information for Residents of California, Colorado, Connecticut,
+Utah, and Virginia
+• Other California Privacy Rights © 2022 Cigna
+• Other Access Requests
+• Contacting Us
+
+Information We Collect
+
+Personal information is information that identifies you as an individual or relates to an identifiable
+person. Examples of personal information we may collect about you through our Services include
+the following:
+
+• Identifiers such as name, contact information, online identifiers, and government- issued
+ID numbers;
+• Commercial Information related to services we provide such as medical information,
+insurance information, and financial information;
+• Characteristics of Protected Classifications under state or federal law such as age and
+medical conditions;
+• Commercial Information such as transaction information and purchase history;
+• Internet or Network Activity Information such as browsing history, interactions with our
+website, Internet Protocol (IP) address, Media Access Control (MAC) address; operating
+system and version; Internet browser type and version (for more information, see the
+Cookies and Similar Technologies section, below);
+• Geolocation Data such as device location;
+• Audio, Electronic, Visual and Similar Information such as call and video recordings;
+and
+• Professional or Employment-Related Information such as place of employment and
+job title.
+
+We may supplement the information we receive through our Services with other personal infor-
+mation we have about you, including information from our affiliates and vendors, as well as infor-
+mation from other sources, such as public and nonpublic records, joint marketing partners, social
+media platforms (including from people with whom you are friends or otherwise connected), and
+from other third parties.
+
+If you provide us or our service providers w ith personal information relating to other people, you
+represent that you have the authority to do so and to permit us to use the information in accor d-
+ance with this Privacy Notice.
+Health Information
+
+In some circumstances, Cigna's collection and use of personal information will be subject to the
+requirements of the Health Insurance Portability and Accountability Act (“HIPAA”). For example,
+if information collected through the Services is identifiable member information, the terms of the
+applicable HIPAA Notice of Privacy Practices will apply and will supersede this notice. If you are
+a member covered by a Cigna insured policy, please review Cigna’s Notice of Privacy Practices.
+If you are covered through a self-funded employer plan, ask your employer for a copy of its Notice
+of Privacy Practices. © 2022 Cigna
+GLBA Privacy Notice
+
+For U.S. customers, we will use and share any information that we collect from or about you in
+accordance with the Gramm-Leach-Bliley Privacy Notice for Cigna Policyholders, which may be
+accessed from our Privacy Notices page.
+How We Use Personal Information
+
+We use personal information received through our Services for various purposes, including the
+following:
+
+• Providing our Services to you, including completing transactions, processing claims, and
+providing quotes;
+• Providing you with information about our Services, including information about health care,
+health related services, resources and benefits that will help you manage your health;
+sending administrative information to you, such as changes to our terms, conditions, and
+policies; sending marketing information we think may be of interest to you; and fulfilling
+any other purpose for which you provide it;
+• Improving our Services;
+• Providing and improving customer services, including through email or text communica-
+tions, or any chat or similar feature available through our services;
+• Conducting our business, such as data analysis; audits; developing new products; en-
+hancing, improving or modifying our services; identifying usage trends; determining the
+effectiveness of our promotional campaigns and operating and expanding our business
+activities; tailoring offers and advertisements to you for products or services that you may
+find helpful on our Services and those on third-party sites;
+• Sending you surveys;
+• To provide certain functionality, such as allowing you to send messages to a friend through
+the Services;
+• Authenticating or confirming your identity;
+• To de-identify it;
+• Taking any action that we believe to be necessary or appropriate:
+o to investigate, prevent and detect illegal activities;
+o to carry out our obligations and enforce our rights arising from any of our contracts,
+including for billing and collection;
+o under applicable laws, including laws outside your country of residence;
+o to comply with legal process;
+o to respond to requests from public and government authorities including public and
+government authorities outside your country of residence;
+o to enforce our Terms of Use and one or more of our privacy notices, including this
+notice;
+o to protect our operations or those of our affiliates;
+o to protect our rights, privacy, safety or property, and/or that of our affiliates, you or
+others; and
+o to allow us to pursue available remedies or limit the damages that we may sustain.
+• Informing you of job opportunities and evaluating your suitability for a job; © 2022 Cigna
+• Other purposes specifically disclosed at the time we request your information; and
+• For any other purpose with your consent.
+Our Sharing and Disclosure Practices
+
+We may disclose personal information for the following purposes:
+
+• Operating Services and Sites and Providing Related Support. To provide and operate
+our Services, communicate with you about your use of the Services, provide troubleshoot-
+ing and technical support, respond to your inquiries, fulfill your orders and requests, and
+for similar service and support purposes.
+• Business Transfers. If we or our affiliates are or may be acquired by, merged with, or
+invested in by another company, or if any of our assets are or may be transferred to an-
+other company, whether as part of a bankruptcy or insolvency proceeding or otherwise,
+we may transfer the information we have collected from you to the other company. As part
+of the business transfer process, we may share certain of your personal information with
+lenders, auditors, and third-party advisors, including attorneys and consultants.
+• In Response to Legal Process. We may disclose your personal information to comply
+with the law, a judicial proceeding, court order, or other legal process, such as in response
+to a court order or a subpoena.
+• To Protect You, Us, and Others. We disclose your personal information when we believe
+it is appropriate to do so to investigate, prevent, or take action regarding illegal activities,
+suspected fraud, situations involving potential threats to the safety of any person, viola-
+tions of our Terms of Use or this Policy, or as evidence in litigation in which we are in-
+volved.
+
+We may disclose the personal information that we collect for the purposes described above with
+the following parties:
+
+• Vendors. We may disclose personal information we collect to our service providers or
+agents who perform functions on our behalf. These may include, for example, IT service
+providers, help desk, payment processors, analytics providers, consultants, auditors, and
+legal counsel.
+• Our Affiliates. We may disclose personal information we collect to our affiliates or sub-
+sidiaries.
+• Our Business Customers. Any personal information that we collect and process on be-
+half of a business client will be disclosed as directed by that business customer.
+• Third-Party Ad Networks and Providers. We may disclose personal information to third-
+party ad network providers, sponsors and/or traffic measurement services. These third
+parties may use cookies, JavaScript, web beacons (including clear GIFs), and other track-
+ing technologies to measure the effectiveness of their ads and to personalize advertising
+content to you. These third- party cookies and other technologies are governed by each
+third party's specific privacy policy, not this one. To exercise your choices about receiving
+third-party ads, see the “Tracking and Advertising Choices” section below. © 2022 Cigna
+• Government or Public Authorities. We may disclose personal information to a third
+party if (a) we believe that disclosure is reasonably necessary to comply with any applica-
+ble law, regulation, legal process, or governmental request, (b) to enforce our agreements,
+policies, and terms of service, (c) to protect the security or integrity of our Services, (d) to
+protect the property, rights, and safety of us, our users, or the public from harm or illegal
+activities, (e) to respond to an emergency which we believe in the good faith requires us
+to disclose information to assist in preventing the death or serious bodily injury of any
+person, or (f) to investigate and defend ourselves against any third-party claims or allega-
+tions.
+Do Not Track Signals
+
+We do not honor a web browser's “Do Not Track” signals.
+Cookies and Other Tracking Technologies
+How We Use Cookies
+
+We may use cookies and other tracking mechanisms to track your use of our Services. For more
+information on the types of personal information we collect through these technologies, please
+see the section above titled “The Personal Information We Collect.” For resources and instructions
+on how to disable tracking technologies, see the section below titled “ Tracking and Advertising
+Choices.”
+
+Cookies are alphanumeric identifiers that we transfer to your device’s hard drive through your
+web browser for record -keeping purposes. Some cookies allow us to make it easier for you to
+navigate our Services, while others are used to enable a faster login process or to allow us to
+track your activities on our Services . There are two types of cookies: session and persistent
+cookies.
+
+• Session Cookies. Session cookies exist only during an online session. They disappear
+from your device when you close your browser or turn off your device. We use session
+cookies to allow our systems to uniquely identify you dur ing a session or while you are
+logged in. This allows us to process your online transactions and requests and verify your
+identity after you have logged in, as you move through the website.
+
+• Persistent Cookies. Persistent cookies remain on your device after you have closed your
+browser or turned off your device.
+Tracking and Advertising Choices
+
+If you wish to prevent cookies from tracking your activity on our websites or visits across multiple
+websites, there are tools you can use to disable cookies and opt out of interest-based advertising.
+Please note that your opt-out may not be effective if your browser is configured to reject cookies.
+© 2022 Cigna
+• Browser Solutions for Disabling Cookies. If you wish to prevent cookies from tracking
+your activity on our website or visits across multiple websites, you can set your browser
+to block certain cookies or notify you when a cookie is set. The Help portion of the toolbar
+on most browsers will tell you how to prevent your device from accepting new cookies,
+how to have the browser notify you when you receive a new cookie, or how to disable
+cookies altogether. Visitors to our Services who disable cookies will be able to browse the
+Site, but some features may not function.
+
+• Industry Solutions for Opting Out of Interest-Based Advertising. Notwithstanding the
+above, you may follow the steps provided by initiatives that educate users on how to set
+tracking preferences for most online advertising tools. These resources include the Net-
+work Advertising Initiative (https://thenai.org/about-online-advertising/) and the Digital Ad-
+vertising Alliance ( https://digitaladvertisingalliance.org/). The Digital Advertising Alliance
+also offers an application called AppChoices (https://youradchoices.com/appchoices) that
+helps users to control interest-based advertising on mobile apps.
+Other Website and Tracking Technologies
+
+• Technologies Similar to Cookies. We may use technologies that are similar to cookies,
+such as pixels and web beacons, to collect information about your activities on our Ser-
+vices, including online identifiers and Internet and Network Activity Information. Unless
+you opt out of such collection as described above or through another solution, this infor-
+mation will be automatically generated and may be combined with other information about
+you.
+• Facebook. We may use Facebook Pixel, a web analytics and advertising service provided
+by Meta, Inc. on our Services. With its help, we can keep track of what users do after they
+see or click on a Facebook advertisement, keep track of users who access our website,
+applications, or advertisements from different devices, and better provide advertisements
+to our target audiences. The data from Facebook Pixel is also saved and processed by
+Facebook. Facebook can connect this data with your Facebook account and use it for its
+own and others advertising purposes, in accordance with Facebook’s Data Policy which
+can be found at https://www.facebook.com/about/privacy/. Please click here if you would
+like to withdraw your consent for use of your data with Facebook Pixel https://www.face-
+book.com/settings/?tab=ads#_=_.
+• Google. Our Services may use Google products, including Google Analytics and Google
+Floodlights Tags. These technologies are used for analytics and advertising purposes.
+You can learn about Google’s practices by going to www.google.com/policies/pri-
+vacy/partners/, and opt out of Google Analytics by downloading the Google Analytics opt-
+out browser add-on, available at https://tools.google.com/dlpage/gaoptout.
+• Session Recording and Replay Software. We may use third party services that employ
+software code to record users’ interactions with the Services in a manner that allows us to
+watch replays of those user sessions. The replays include users’ clicks, mouse move-
+ments, scrolls, and keystrokes/key touches (including information inputted into t he site)
+during those sessions. These replays help us diagnose usability problems and identify
+areas for improvement. © 2022 Cigna
+• Device Fingerprinting and Browser Fingerprinting. In order to assist with site design
+and improve site functionality and accessibility, we may also use other technologies that
+are similar to cookies. Through a process known as Device Fingerprinting or Browser Fin-
+gerprinting, we may gather device attributes and combine information collected by most
+browsers or automatically through your dev ice to create a unique ID that identifies your
+browser or device with reasonable certainty. In this context, we may collect Internet and
+other Network Activity Information about your visit, including geolocation data. You may
+be able to reduce the amount o f information that your browser provides to Cigna for use
+in the Device Fingerprinting or Browser Fingerprinting process by enabling the private or
+incognito modes of your browser.
+• Adobe. We may use various Adobe products, such as Adobe Analytics or Adobe Flash
+(“Flash LSO”), for analytics and to allow our websites to function. These products may
+collect and store information about your use of the Services, and may store information
+on your computer. If you do not want Flash LSOs stored on your computer, you can adjust
+the settings of your Flash player to block Flash LSO storage using the tools contained in
+the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel
+and follow the instructions. Please note that setting the Flash Player to restrict or limit
+acceptance of Flash LSOs may reduce or impede the functionality of some Flash applica-
+tions.
+
+In some instances, we may combine other information with personal i nformation we receive
+through the Services, such as combining your name with your geographical location. If we do, we
+will treat the combined information as personal information as long as it remains identifiable.
+Anonymous and Aggregate Information
+
+Cigna may de-identify or aggregate personal information so that it does not personally identify
+you or any other user of the Services. For example, we may aggregate or de -identify personal
+information to analyze the percentage of our users who have a particular area code. Additionally,
+we may use and share this information for any purpose permissible under applicable law.
+Our Online Privacy Notice for Children
+
+Our Services are designed for a general audience and are not directed to children under the age
+of 13. We do not knowingly collect personal information online from any person we know to be
+under the age of 13. If you believe we have impermissibly collected personal information from
+someone under the age of 13, please contact us using the information below.
+Our Data Protection and Security Policy
+
+We take reasonable precautions to safeguard the personal information transmitted between visi-
+tors and the Services and the personal information stored on our servers. Unfortunately, no
+method of transmitting or storing data is 100% secure. As a result, although we strive to protect
+your personal information, we cannot ensure the security of any information you transmit to us
+through, or in connection with, the Services. If you have reason to believe that your interaction © 2022 Cigna
+with us is no longer secure, please notify us of the problem by contacting us in accordance with
+the “Contacting Us” section below.
+Information for Employment Applicants
+
+We collect information, including personal contact information, education and work history, as well
+as Social Security and similar national identification numbers in order to process and consider
+your application. This information, as well as information from your application, may be shared
+with background check services and our affiliates, and as otherwise described in this Notice. We
+will not sell your application information to unaffiliated third parties for marketing purposes.
+Additional Information for Users of a Cigna Mobile Application
+
+When you download and use a Cigna mobile application, we and our service providers may track
+and collect application usage data, such as the date and time the application on your device
+accesses our servers, what information and files have been downloaded to the application based
+on your device number, and whether your device is rooted or jailbroken. When using certain func-
+tions via a Cigna mobile application, we may use your location information if your mobile device
+uses global positioning system (“GPS”) technology, trackers or other location tools, if you allow
+your device to provide this information to the mobile application. We will use this information to
+estimate your location and to provide you with more personalized content and/or services.
+
+A Cigna mobile application may also permit you to upload a photograph from your mobile device.
+The photograph is for your use only and Cigna will not have access to it. Cigna will not upload it
+to a Cigna server. This paragraph does not apply to scans or images of documents you submit to
+Cigna in connection with your use of the Services or any services provided by Cigna
+Cross-Border Transfers
+
+Your personal information may be transferred to, stored and processed in any country where we
+have facilities or in which we engage service providers, including the United States. By using the
+Services, you consent to the transfer of information to countries outside of your country of resi-
+dence, which may have different data protection rules than your country. In certain circumstances,
+courts, law enforcement agencies, regulatory agencies or security authorities in those other coun-
+tries may be entitled to access your personal information.
+
+Cigna does not represent or warrant that the Services, or any part of them, are appropriate or
+available for use in any particular jurisdiction. Those who choose to access the Services do so on
+their own initiative and at their own risk and are responsible for complying with all applicable local
+laws, rules and regulations.
+Changes to this Privacy Notice
+
+We reserve the right to amend this Privacy Notice at any time. If changes are made, we will post
+the revised Privacy Notice on our Services or announce the change on the home page of the © 2022 Cigna
+website or app. You can determine when we revised the Privacy Notice by referring to the “Last
+Updated” date at the top of this notice. Any changes will become effective when we post the
+Privacy Notice on our websites. By continuing to use the Services following such changes, you
+will be deemed to have consented to such changes. If you do not agr ee with the terms of this
+Privacy Notice, in whole or in part, please do not use the Services.
+Links to Other Websites
+
+The Services contain links to websites operated by third parties. When you follow any such link,
+your interaction will no longer be subject to this Privacy Notice. Instead, your interaction with the
+third-party website will be subject to the privacy policies of that third party. We encourage you to
+read all legal notices posted on those sites, including their privacy policies.
+
+We provide links through the Services to other websites only as a convenience, and the inclusion
+of these links does not imply endorsement of the linked site. We are neither responsible nor liable
+for your use of third party websites. We are not responsible for the collection, usage and disclo-
+sure policies and practices (including the data security practices) of other organizations, such as
+Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media
+platform provider, operating sys tem provider, wireless service provider or device manufacturer,
+including with respect to any personal information you disclose to other organizations through or
+in connection with our mobile applications or other websites.
+State-Specific Privacy Informati on for Residents of California, Colo-
+rado, Connecticut, Virginia, and Utah
+
+Residents of California, Colorado, Connecticut, Virginia, and Utah may have additional rights with
+respect to personal information we collect through our Services, depending on the effective dates
+of those states’ laws. Residents of these states should consult the U.S. State Law Privacy Notice,
+available from our Privacy Notices page, for additional information.
+Other California Privacy Rights
+
+California’s “Shine the Light Law” permits California residents who provide personal information
+in obtaining products and services for personal, family, or household use to request certain infor-
+mation regarding the disclosure of their personal information to third parties for the third party’s
+direct marketing purposes. Eligible individuals may request thi s information once per calendar
+year for information that was disclosed in the preceding year. If you are a California customer and
+wish to make such a request, please call us at 1.800.234.4077.
+Other Access Requests
+
+Certain individuals may have rights to review, correct, update, suppress or delete personal infor-
+mation that you have previously provided to us. You may submit such a request by emailing us
+here. We will respond to your request consistent with applicable law, but may not accommodate
+your request unless legally required to do so. Residents of California, Colorado, Connecticut, © 2022 Cigna
+Virginia, and Utah should review the information available in the U. S. State Law Privacy Notice
+with respect to rights that may be available to residents of those states.
+
+In your request, please specify what personal information you would like to have changed,
+whether you would like to have your personal information suppressed from our database, or oth-
+erwise let us know what limitations you would like to put on our use of your personal information.
+For your protection, we may only accommodate requests only for personal information associated
+with the email address used to submit the request, and we may need to verify your identity before
+implementing your request. Please note that, unless required by applicable law to comply with
+the request, we reserve to right to refuse any such requests.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to
+complete any transactions that you began prior to requesting a change or deletion. There may
+also be residual information that will remain within our databases and other records, which may
+not be removed.
+Contacting Us
+
+If you have any questions about this Privacy Notice please contact us by email at Privacyof-
+fice@Cigna.com or call us toll-free at 1.800.234.4077.

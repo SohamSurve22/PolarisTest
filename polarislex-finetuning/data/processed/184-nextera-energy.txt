@@ -1,0 +1,176 @@
+-
+
+# Privacy Policy
+
+Last updated: December 2025
+
+NextEra Energy, Inc. (NextEra Energy) and its family of companies are committed to protecting the personal information that we collect from new and existing customers, website visitors, suppliers, and other third parties, including vendors and potential vendors. Your privacy is a top priority for NextEra Energy, and we make every reasonable effort to protect the personal information we hold about you. This Privacy Policy describes the personal information we collect, how we use and disclose it, and how we protect it.
+
+This Privacy Policy applies to NextEra Energy and certain of our subsidiary companies, including Florida Power & Light Company (FPL). FPL, a subsidiary of NextEra, is a vertically integrated, rate-regulated electric utility in the state of Florida. We will refer to these organizations, collectively, as “NextEra Energy,” “we,” “us” or “our” throughout this policy.
+
+Some of our subsidiaries, including Gexa Energy and its NextEra Energy Services affiliates, that provide retail electricity and related products and services outside of Florida, and EverBright, that delivers solar designs and services and provides financing options to homeowners and businesses throughout the United States are governed by privacy policies displayed on their websites that include different provisions applicable to those businesses and their customers. You can view those here:
+
+- Gexa Energy privacy policy
+
+- NextEra Energy Services privacy policy
+
+- EverBright privacy policy
+
+For California residents, there is additional supplemental information available at California residents supplemental privacy policy
+
+### Information we collect and how we use it
+
+NextEra Energy collects information, including personal information, to establish and provide services to our customers. Examples of the information we collect include:
+
+- Identifiers: For example:
+
+- Name, date of birth, address and government-issued ID numbers
+
+- Contact information like phone numbers and email addresses
+
+- Identifying information of third parties
+
+- Your IP address, unique personal identifiers, and other online identifiers, including but not limited to device IDs and browser IDs
+
+- Commercial Information: For example, financial and banking information
+
+- Internet or Other Electronic Network Activity: For example, information regarding your interaction with our websites.
+
+For all customers and website visitors, we use personal information we collect for the following purposes:
+
+- to identify you;
+
+- to establish, maintain and service your account;
+
+- to communicate with you;
+
+- to facilitate payments;
+
+- to provide more relevant advertising to you; and
+
+- to operate, maintain and improve our business and the products and services we provide to our customers.
+
+For suppliers, vendors, and potential vendors, we use your information, including personal information, for the following purposes:
+
+- to consider your application to become a supplier or vendor;
+
+- to process payments;
+
+- to comply with any government reporting requirements; and
+
+- for other internal business purposes.
+
+Information Collected Automatically via Technology
+
+When you visit any of our websites or other digital properties or interact with our email communications, we, our service providers, and third-party advertising technology providers (e.g., Google, LinkedIn, Meta), use cookies, pixels, beacons, scripts, session replay, and similar technologies to collect information about you, your devices, and how you use the websites or digital properties, such as actions taken after clicking on an advertisement, or how you navigate our websites. We use this information to optimize our websites and to deliver, measure, and improve digital marketing campaigns over different browsers and devices you use (e.g., by showing you personalized advertisements, optimizing campaigns for better conversions, and measuring the effectiveness of our marketing efforts). The providers of these technologies may also use the information collected for their own purposes, including marketing. Some of this information may be considered personal information under data privacy laws. Cookies are small text files that your browser stores on your computer or mobile device when you visit a website. When you return to a website you have visited before, your browser gives this data back to the website to help it remember your preferences and personalize your experience; enhance website performance and security; and enable interest-based advertising. Among other cookies, we use Google Analytics and Google Ads. You can learn more about how those cookies work by visiting “How Google uses information from sites or apps that use our services,” located at https://policies.google.com/technologies/partner-sites. You may install a Google Analytics Opt-out Browser Add-on by visiting https://tools.google.com/dlpage/gaoptout.
+
+You can learn more about cookies, see what cookies have been set on your computing device, and learn how to manage and delete them by visiting http://allaboutcookies.org.
+
+Beacons, pixels, and scripts are small pieces of data or code embedded in images and webpages and permit similar data collection and functionality.
+
+If you wish to prevent or lessen the use of these tools, this may be done within your browser’s settings. However, please keep in mind that disallowing the use of these tools may reduce the features available to you on our websites. Unless you have adjusted your browser settings to refuse cookies, we will ultilize cookies when you direct your browser to our websites or other digital properties.
+
+Surveys and Questionnaires
+
+On some occasions when visiting any of NextEra Energy’s websites or other digital properties, you may be asked to complete either an online survey or questionnaire. These surveys and questionnaires ask for your opinions, attitudes, interests, and more generally, about your activities online. The answers provided are used to improve the services offered through our digital properties.
+
+Children’s Privacy
+
+NextEra Energy does not knowingly collect personal information from users under age 13 through its websites and other digital properties which are in no way directed at children under the age of 13. If you are under the age of 13, please do not submit a request for information, inquiry, or any personal information (including, but not limited to, your name, address, telephone number, e-mail address or any screen name or username you may use) to us. If we learn that information has been submitted, or that we have collected personal information, from a user under the age of 13, we will take immediate steps to delete such information.
+
+### Categories of sources of Personal Information we collect
+
+We may collect your personal information from any of the following categories of sources:
+
+- You, for example, when you register with our websites, subscribe to online services, when you shop with us, or when you otherwise provide information directly to us.
+
+- Service providers, for example, analytics providers, IT, and system administration services.
+
+- Affiliated companies, for example, so that we can assist other companies in the NextEra Energy family of companies in providing you with products or services.
+
+- Automated technologies, for example, browsing activity collected by automated technologies on the websites.
+
+- Third parties, for example, lawyers, bankers, auditors, and insurers who provide consultancy, banking, legal, insurance, and accounting services.
+
+- Public sources, for example, public databases.
+
+- Marketing/advertising companies, for example, from social media platforms, consumer research companies, and analytics or marketing/advertising companies.
+
+- Surveillance/recording technologies installed by us, for example, video surveillance in common areas of our facilities, voicemail technologies, and audio recording technologies with consent to the extent required by law.
+
+- Government or administrative agencies, for example, law enforcement, public health officials, and other government authorities.
+
+- Acquired entity, if we acquire another entity, we might collect personal information from that entity.
+
+### Disclosure of personal information
+
+In the normal course of business NextEra Energy discloses personal information to third parties. We do this in the following, limited circumstances:
+
+- Corporate Affiliates: Personal information is disclosed to our subsidiaries, affiliated companies who assist us in providing you with current and potentially future services, or for other permitted uses of personal information.
+
+- Service Providers: Personal information is disclosed to service providers who assist us in providing you with current and potentially future services, or for other permitted uses of personal information (subject to confidentiality agreements or our instructions consistent with this Privacy Policy as appropriate).
+
+- Other Disclosures: Personal information is disclosed to:
+
+(a) satisfy applicable law, regulation, legal process or enforceable governmental request;
+
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof;
+
+(c) detect, prevent or otherwise address fraud, security or technical issues;
+
+(d) protect against imminent harm to the rights, property or safety of NextEra Energy, its customers or the public as required or permitted by law; or
+
+(e) facilitate targeted digital marketing.
+
+- Government Agencies/Law Enforcement: We may disclose personal information to the U.S. Department of Energy, North American Electric Reliability Corporation, the Federal Energy Regulatory Commission, and their designees to participate in the protection of the security of critical infrastructure and key resources and ensuring information security. The information may be shared with federal, state, local or international law enforcement authorities in accordance with applicable law both in the United States or the originating country.
+
+- Corporate Transactions: We may disclose and/or transfer personal information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving NextEra Energy or its affiliated companies or as part of a corporate reorganization, stock or asset sale, or other change in corporate control.
+
+### Third party links on our website
+
+While browsing NextEra Energy websites, you may encounter and choose to access websites or online services operated by companies or agencies that may not be associated with NextEra Energy. These websites may send their own cookies to you, log your IP address, and/or otherwise collect data or personal information about you and your online activities. NextEra Energy does not control and is not responsible for what outside entities do in connection with their websites or online services, or how they handle your personal information. Please use caution and consult the privacy policies posted on each outside website that you visit for further information. Further, you may check the terms of use of those websites for more information about how they collect and use your data.
+
+### Accessing and updating your personal information
+
+If you want to review and/or update the personal information you have provided to us, you may do so by logging in to your account or by using the Contact Us information below.
+
+### Website "Do Not Track" requests
+
+NextEra Energy websites do not respond to “Do Not Track” signals. “Do Not Track” signals are used by some web browsers to attempt to limit tracking related to your visits to a website.
+
+### Protecting your personal information
+
+We use industry-standard administrative, technical and physical safeguards and protection practices and controls to ensure the integrity of our systems and to protect your information from loss, misuse, alteration and destruction. Such protection measures include firewalls, Transit Layer Security (TLS), and Secure Socket Layers (SSL) to protect and encrypt transmissions. Please be advised, however, that no security system is infallible, and we cannot guarantee the information you provide will never be obtained by unauthorized persons.
+
+We may contact you from time to time to provide you with useful information and updates regarding our services, and special offers; however, we do not and will not at any time request any of the following information via email or through any telephone call initiated by us:
+
+- your account user ID
+
+- your account password
+
+- your social security number
+
+- your credit card and/or bank information
+
+For more information about protecting yourself from scams, fraud and imposters that try to obtain your personal information, please visit FPL’s Protection website.
+
+### How long we retain your personal information
+
+We retain your personal information for the duration of our relationship, if any, with you. We also retain your personal information for 12 months after our last interaction with you. We will retain personal information longer as necessary to comply with legal, administrative, or procedural requirements, for example, a litigation hold.
+
+### A warning about social media
+
+To provide both current and potential customers with more options for contacting NextEra Energy, we have established Facebook and X (formerly Twitter) accounts for many of our companies. As these are public forums, you should be aware that any personal information you choose to disclose through those platforms can be read, collected or used by others and that such disclosures are subject solely to the privacy policies and protections of those platforms.
+
+NextEra Energy has no control over those forums and, thus, is not responsible for any personal information you may choose to disclose through them. You should also be aware that NextEra Energy will never disclose, or ask for you to disclose, your non-public, personal information (such as your social security number, bank information, etc.) through these public forums.
+
+NextEra Energy recommends that you not submit your non-public, personal information to NextEra Energy through these avenues. If there is a need for such information, NextEra Energy will provide you alternative and secure communication methods.
+
+### Privacy Policy Updates
+
+We may change or update this privacy notice at any time. We will change the last updated date found at the top of this Privacy Policy when an update is made. We recommend that you visit this web page periodically to be kept informed regarding any changes. We also recommend that you review our Terms of Use.
+
+We may include a notification on our websites’ home pages to notify you of an update to this Privacy Policy. If we materially change this Privacy Policy in a way that affects how we use or disclose your personal information, we will provide a prominent notice of such changes and the effective date of the changes before making them.
+### Contact us
+
+If you have any questions about NextEra Energy’s privacy policies, please contact us via email online.

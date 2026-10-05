@@ -1,0 +1,204 @@
+# Phillips 66 Privacy Statement
+
+#### Index
+
+- What Personal Data Does Phillips 66 Collect?
+
+- How Does Phillips 66 Collect Personal Data?
+
+- Cookies, Web Beacons and Other Tracking
+
+- How Do We Use Your Personal Data?
+
+- To Whom Do We Provide Your Personal Data?
+
+- International Transfers in Global Operations
+
+- How Long Do We Keep Your Personal Data?
+
+- Security Measures
+
+- Linked Websites
+
+- Children
+
+- Your Rights
+
+- Changes to Privacy Statement
+
+- Contact Us
+
+Last Updated: December 16, 2025
+
+Phillips 66 Company is committed to protecting your privacy. This Privacy Statement provides information regarding how we treat the personal data (also known as personal information) we collect from you, and your associated rights when using the Phillips 66 group of websites, platforms, and other services that link to this Privacy Statement, or when purchasing products from, conducting business with, or otherwise interacting with a company or companies within the Phillips 66 group of companies (“Phillips 66,” “we,” “us,” “our”).
+
+If you reside in the European Economic Area (“EEA”) or the United Kingdom, please visit the relevant notices to find out how we process your information.
+
+- Germany
+
+- United Kingdom
+
+Specifically, this Privacy Statement describes how Phillips 66 collects, uses, and discloses to others your personal data when you interact with us online, including through your use of social media, or offline (collectively, our “Services”).
+
+If you are a job applicant, recruit, employee, contractor, or spouse/dependent of an employee of Phillips 66, please refer to the Phillips 66 Company Global Recruiting Privacy Statement located here. Phillips 66 employees may access our Personal Data Privacy Policy in the Phillips 66 Policy Center.
+
+### What Personal Data Does Phillips 66 Collect?
+
+Phillips 66 collects personal data for our operational purposes. We may collect the following categories of personal data:
+
+- Contact information, such as your name, email address, mailing address, and telephone number.
+
+- Account information, such as display/username, company/employer name, and account number that you use when establishing an account with us.
+
+- Financial information, such as bank account or routing numbers, credit card numbers, debit card numbers, customer account information, owner numbers, and in connection with credit requests, social security numbers or other national/tax identification numbers.
+
+- Biographic and demographic information, such as your date of birth, employment information, gender identity, language(s) spoken, nationality, and country of residence. In the case of individuals who are real property or mineral interest owners who receive payments from us for those interests, we may additionally collect legal and/or tax documents that contain interest owners’ current or former family member names and relationships; deaths, marriages, divorces, adoptions, and guardianships; divorce decrees; name changes; wills, trusts, and probate-related information; powers of attorney or agents; and other court orders.
+
+- Electronic Usage data, such as your browsing activity, IP address of your device, search history, and information about your interactions with our Services. For more information, please see the Cookies, Web Beacons, and Other Tracking section below.
+
+- General location and precise geolocation information from your mobile device or computer that will allow us, for instance, to assist you in finding one of our branded station locations. While some location information is more general, such as what city you are in, we may also collect precise geolocation information to determine your actual location.
+
+- Inferences drawn from other sources of your personal data to help us better understand your preferences.
+
+- Other information you provide, such as your educational and professional or employment-related data when you apply for a job with us, your feedback, purchase history, contest entry information, and your inquiries about our products and Services.
+
+### How Does Phillips 66 Collect Personal Data?
+
+Phillips 66 collects personal data online and offline.
+
+- Categories of Data You Provide to Us or Our Service Providers. We may collect personal data that you provide to us when you use our Services, such as contact information, inquiries you make about our products and Services, your email or other contact preferences, contest entries and event registration, and feedback. We may also collect personal and financial information from you when you make a purchase with us so we can process and fulfill your order, or to send you payments as a property or mineral interest owner.
+
+- Personal Data Collected Automatically by Us or Our Service Providers. Phillips 66 uses cookies, web beacons, and other tracking methods to collect usage data through our website and mobile application automatically from the devices you use to connect to our Services. For more information, please see the Cookies, Web Beacons, and Other Tracking section below.
+
+- Personal Data We Collect About You from Public Sources and Third Parties. If you use a third-party login to create an account with us or otherwise link to our Services via a third-party service, we may receive information about you from the third party (subject to your privacy settings on those third-party services), such as the above-listed identifiers and demographic information, your interests, and publicly observed data (for example, from social media websites or your online activity).
+
+We may draw inferences from any of the categories of data above described to help us tailor our communications to you and to improve our Services. From time to time, we may also use or augment the personal data we have about you obtained from other sources, such as public databases, social media platforms and other third parties. We may also combine information we get from a third party with information we already have, and we may combine information that we have collected offline with information we collect online.
+
+### Cookies, Web Beacons and Other Tracking
+
+Cookies are small amounts of data generated by a website and saved by your web browser. Their purpose is to remember information about you. Our websites may use cookies to track the number of times you have visited our websites, to track the number of visitors to our site, to analyze visitors’ experience with our sites, to store data that you may provide (such as preferences), and to store technical information related to your interactions with our websites and applications. We may also use session cookies, which are deleted when you close your browser, to store your username, to facilitate movement around our sites, and other information useful in administering your session on our sites.
+
+Our websites may also contain web beacons, which are small, transparent image files. Web beacons allow us to count the number of users who have visited pages of our sites. We may also include web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon, including whether the recipient clicked on a link in the email or forwarded the email to another person.
+
+Here are some of the types of personal data collected when visiting our website and mobile application:
+
+- Log data, such as your device’s IP address, browser settings, the date of your visit, and how you used the website or mobile application.
+
+- Cookie data, which is used to record log data.
+
+- Social media plugins, that enable you to share information with others (e.g., the Facebook “like” button) and that allows us to recognize you if you have previously visited our websites and are logged into the social media website while browsing our website.
+
+- Device information, such as your precise geographic location, what operating system you are using, your device’s settings, and other unique device identifiers.
+
+Tracking Options and “Do Not Track” Signals
+
+Most internet browsers automatically accept cookies, but you may adjust your browser, operating system, or mobile device settings to limit certain tracking, decline cookies, or notify you when a cookie is being placed on your computer or device. If you choose not to accept cookies while using our Services, you may not be able to experience all the features of our sites or applications. You can typically delete existing cookies, although this means that your existing settings will be lost, such as stored usernames and other preferences. While you may be able to disable the use of cookies through your browser or device settings, the Phillips 66 Services currently do not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application.
+
+### How Do We Use Your Personal Data?
+
+We use your personal data for the following purposes:
+
+- For Customer Service. We use your personal data to answer your questions and to respond to your requests made through our websites, call centers, applications, or through third-party websites (including social media).
+
+- For Commercial Transactions and Payments. We use your personal data to deliver Services, identify retail station sites that are close to your location, make payments, and execute requested transactions, such as concluding and executing agreements with customers, suppliers, interest owners, and business partners; recording and settling the purchase and sale of our services, products, and materials to and from a Phillip 66 company; and facilitating use of our websites and applications.
+
+- To Improve or Develop Products or Services (including websites and applications). We use your personal data to develop or improve Phillips 66 or our branded fuel stations’ products or services; to determine how to best provide Services to you and to manage your account(s); and to improve our websites and applications to make them easier for you to use.
+
+- For Marketing, Tailored Content, and Promotions. We use your personal data for the development, execution, and analysis of market surveys and marketing strategies to better understand our, and our branded fuel stations’, customers and users of our websites or applications. Specifically, we may use your personal data to provide you with tailored content, send you advertisements and promotional materials, analyze the effectiveness of advertisements and promotional materials, provide you with updates on new features or offers, conduct contests offered by us or our branded stations, and to help us determine whether you may be interested in new products or Services. If you no longer wish to receive promotional marketing materials from us, you may opt-out of receiving such materials at any time. You may unsubscribe from receiving marketing or other commercial emails, texts, SMS messages, or push notifications from Phillips 66 by following the instructions included in those communications and we will comply with your request as soon as reasonably practicable, or click here. Please note that if you opt-out of receiving such communications, we retain the right to send you non-marketing communications (such as information about a transaction with us).
+- To Prevent Fraud and Security Risks. We use your personal data to safeguard that personal data, and to protect the security and integrity of our Services and our business. We may also use your personal data to manage fraud and security risks, including detecting and preventing fraud or criminal activity.
+
+- For Job Applicants During the Recruiting Process. As further described in the Phillips 66 Company Global Recruiting Privacy Statement, during the pre-employment process, we may collect and process sensitive personal data (also known as special categories of personal data, depending on where you live) such as your nationality, racial and/or ethnic origin, and health-related information in our medical questionnaire for the purposes of making accommodations during the interview process; assessing your eligibility for certain positions and your fitness to work certain jobs; for the establishment, exercise or defense of legal claims; or to ensure equal employment opportunities as permitted or required by local law. However, we only collect and use your sensitive personal data to fulfill our business purposes related to the consideration of your employment with us, and we do not use such information to infer any other characteristics about you.
+
+- For Financial Incentives. We provide special financial offers, discounts, and other benefits to customers who buy gasoline at our retail station sites using our branded mobile application. There is no charge to download or use the mobile app. If you download the application, we request certain personal data including your name, telephone number, and an email address that allows us in return to tailor our future communications and discounts to you. You may choose to provide additional personal data to customize your app experience and make payments using the app.
+
+- To Comply with Laws. We may use your personal data to comply with our legal and regulatory obligations and to defend ourselves in litigation and investigations.
+
+We may aggregate, anonymize and/or de-identify data we collect about customers and site visitors and use it for any purpose, including product and Service development and other business improvement activities.
+
+### To Whom Do We Provide Your Personal Data?
+
+We may provide your personal data, including data in each of the categories described above, within the Phillips 66 group of companies. We may also provide that personal data to the following categories of entities:
+
+- Service Providers. We disclose your personal data to our vendors, contractors, and service providers for legitimate business purposes to provide services to us or on our behalf, such as providing data hosting, cloud services, sending out information and communications, processing transactions, analyzing data, providing technical support, and other business and professional services. We provide these companies with only those elements of personal data they need to provide their services to us.
+
+- Third Parties to Process Transactions. We may also disclose personal data in connection with certain transactions, such as to financial institutions; credit card issuers; insurers; brokers; professional advisors such as lawyers, accountants, or auditors; government entities; and shipping companies or postal services involved in fulfilling transactions, or to other third parties to whom you or your agents authorize us to disclose your personal data in connection with products or Services we provide to you or business that we conduct with you.
+
+- Required Disclosures. We may disclose your personal data if required to do so by law or in our good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, including litigation and investigations, and to protect our or others’ rights, property, or safety.
+
+- Business Transfers or Partners. If we undertake or are involved in any merger, acquisition, joint venture, consortium, reorganization, sale of assets, bankruptcy, or insolvency event, then we may transfer or provide some or all our assets, including your personal data, in connection with such transaction or in contemplation of such transaction (e.g., during due diligence). We will make reasonable efforts to notify you before your personal data is transferred and becomes subject to a different privacy policy.
+
+We do not sell and have not sold your personal data or transferred such personal data to third parties to use for their or our own commercial benefit.
+
+### International Transfers in Global Operations
+
+We may transfer personal data to and store personal data in countries other than the country where it was collected or from where you accessed our websites or applications. Those countries may have different data privacy and protection laws than the countries from which the personal data was collected or from which you accessed our websites or applications. To the extent required by applicable law, we will take measures to protect personal data so transferred or stored. For example, we implement Standard Contractual Clauses approved by the European Commission and United Kingdom and use similar contractual obligations to comply with applicable laws of other jurisdictions including data processing agreements in the United States. By choosing to use our Services, including our websites and applications, and submitting personal data to us, you consent to the transfer of such personal data outside of your country of residence.
+
+### How Long Do We Keep Your Personal Data?
+
+We store personal information about you on computer systems operated by us or our service providers. As a regulated company, we keep various records that contain personal information in accordance with applicable state and federal regulations, or pursuant to contractual obligations. In general, we aim to keep personal information only for as long as necessary and only for the reason(s) we collected it. It may be necessary to keep personal information longer than our official retention periods for legal or regulatory reasons, including litigation. To support us in managing how long we hold personal information and our record management, we maintain a data retention policy which includes clear guidelines on retention and deletion.
+
+We consider the following criteria when determining how long a particular record will be retained, including any personal information contained in that record:
+
+- how long the record is needed to provide you with the products and services you request;
+
+- how long the record is needed to support and enhance our operational processes;
+
+- how long the record is needed to protect our rights and legal interests; and
+
+- how long the record must be retained to comply with applicable laws and regulations.
+
+The same personal information about you may be included in more than one record and used for more than one purpose, each of which may be subject to different retention periods based on the factors listed above.
+
+Fuel Forward® App – Account and Data Deletion
+
+You may delete your Fuel Forward® mobile application (the “Fuel Forward® App”) at any time by opening the app and going to Account > Privacy & Terms > Delete Account. You will be texted a verification code that must be entered to confirm your request.
+
+When you delete your Fuel Forward® App account, we will delete or de-identify the personal data we maintain in connection with that account to the extent required by applicable law. This includes your in-app profile and credentials and information stored in the app such as saved payment methods, in-app transaction receipts, and any points or rewards balance associated with that account. After your account is deleted, you will no longer be able to access this information through the Fuel Forward® App.
+
+You may also request deletion of personal data we maintain about you in connection with the Fuel Forward® App by contacting us through our online form at www.phillips66gas.com/contact-us or by using the contact options described in the “Your Rights” and “Contact Us” sections of this Privacy Statement. We will handle and respond to such requests in accordance with applicable U.S. state privacy laws and other legal requirements.
+
+Even after you delete your Fuel Forward® App account or submit a deletion request, we may retain certain personal data if we have a legal right or obligation to do so. For example, we may keep information needed to comply with tax, accounting, or other record-keeping requirements, to detect and prevent fraud or security incidents, or to resolve disputes and enforce our agreements.
+
+### Security Measures
+
+We use technical, administrative, and procedural measures to safeguard your personal data from unauthorized access or use. We use, and we require our service providers to use, industry standard security measures for securing and protecting personal data, which may include measures such as encrypting data in transit and at rest, as well as limiting access to personal data on a least privilege basis (i.e., giving each user access only to personal data needed to perform their specific job duties). No such measure is ever 100% effective though, so we do not guarantee that your personal data will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such data.
+
+### Linked Websites
+
+Our websites and applications may contain links to other websites, including those of other companies, organizations, and publications. These linked websites operate independently from our websites and applications, and we do not control and are not responsible for the content, security, or data privacy practices used by other entities. You should review the privacy statements of those linked websites to determine how they protect and use your personal data.
+
+### Children
+
+Our Services, including our websites and applications, are not directed to children under 16 years of age and we do not knowingly collect any personal data from children under 16. If we learn that we collected the personal data of a child under the age of 16, we will use reasonable efforts to delete such information from our systems promptly.
+
+### Your Rights
+
+Depending upon the laws applicable where you reside, you may have certain rights associated with your personal data.
+
+Click here if you are a resident of California.
+
+Texas consumers only (excludes Phillips 66 employees and business partners):
+
+As a Texas resident, with respect to your personal data, you have the right to:
+
+- confirm whether we are processing your personal data;
+
+- correct your personal data if it is not accurate, taking into account the nature and purpose of the processing of your personal data;
+
+- request deletion of the personal data you have provided or that we have obtained about you;
+
+- obtain a copy of your personal data that we process if it is available in a digital format; and
+
+- not be discriminated against based upon your choices and/or requests you may make in connection with your personal data.
+
+We do not sell your personal data or share your personal data for cross-context behavioral advertising, so we do not offer an option for you “opt-out” of the sale or sharing of your personal data.
+
+If you are a Texas resident and wish to exercise your consumer rights or if you wish to appeal a decision we have made about your request, click here or call us at 1.800.527.5476. We will notify you in writing within sixty (60) days after we receive your appeal request of any action we take or do not take on your request, including an explanation of the reason(s) for our decision. If you are not satisfied with our response, you may contact the Texas Attorney General by clicking here or by calling its Consumer Protection Hotline at 1-800-621-0508.
+
+### Changes to Privacy Statement
+
+We reserve the right to amend this Privacy Statement at any time at our discretion and will review and update it as may be necessary. When we do, we will revise the effective date at the top of this Privacy Statement. Please revisit this page periodically to become aware of the most recent privacy terms; your use of our Services linked to this Privacy Statement after such changes have been posted constitutes your agreement to such terms.
+
+### Contact Us
+
+If you have questions regarding this Privacy Statement or our handling of personal data, you may contact us at phillips66.com/contact.

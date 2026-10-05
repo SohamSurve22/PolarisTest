@@ -1,0 +1,952 @@
+-
+
+# Thermo Fisher Scientific Privacy Notice
+
+Last Updated 06 2026
+
+### Privacy Notice
+
+Choose your language:
+
+Arabic
+
+Bulgarian
+
+Chinese (simplified)
+
+Chinese (traditional)
+
+Czech
+
+Danish
+
+Dutch
+
+English
+
+Finnish
+
+French
+
+German
+
+Hebrew
+
+Hungarian
+
+Italian
+
+Japanese
+
+Korean
+
+Latin American Spanish
+
+Lithuanian
+
+Malay
+
+Norwegian
+
+Polish
+
+Portuguese / Brazilian
+
+Russian
+
+Serbian
+
+Spanish
+
+Swedish
+
+Turkish
+
+Ukrainian
+
+Vietnamese
+
+### Who we are
+
+Thermo Fisher Scientific values your privacy and the protection of your Personal Data. This Thermo Fisher Scientific Privacy Notice (“Notice”) explains how we collect, store, use, share, transfer, delete, and process information collected from or about you (“Personal Data”) by Thermo Fisher Scientific Inc., and any directly or indirectly controlled affiliate or subsidiary thereof (collectively, “Thermo Fisher Scientific,” “we,” “our,” or “us”). As an international company, Thermo Fisher Scientific has multiple legal entities in different jurisdictions that are responsible for the Personal Data they process, and we process Personal Data in accordance with these applicable laws and regulations.
+
+## Thermo Fisher Scientific’s privacy principles
+
+Across all of our business activities we seek to base our privacy practices on accepted principles of privacy and data protection. These principles include:
+
+- Transparent: To be open about privacy practices, policies, developments, and the details of any processing that takes place and to specify the purposes for which Personal Data is collected and processed before such collection takes place.
+
+- Fair in Processing: To obtain Personal Data in good faith by legitimate, lawful, and fair means and to process Personal Data only in accordance with the purposes for which it was collected.
+
+- Engage in Privacy by Design: To ensure we create solutions and process data with privacy at the forefront and in accordance with these principles.
+
+- Accountable: To be accountable for complying with measures that give effect to these principles, including by ensuring accountability of third parties with whom we interact through appropriate contracts.
+
+- Responsive to Privacy Requests: To be responsive to individual’s privacy rights afforded by law.
+
+- Protective: To protect Personal Data using reasonable security safeguards, to ensure data accuracy, and to limit use to that which is necessary for the processing purpose.
+
+## The purpose and reach of this privacy notice
+
+This Notice describes the types of Personal Data that Thermo Fisher Scientific may collect or process, how we may use and disclose that Personal Data, and how you may exercise any rights you may have regarding our processing of your Personal Data.
+
+This Notice applies to Personal Data collected or processed by us online (through websites, applications, email, and otherwise) (“Online Services”); when we process your Personal Data for your potential participation as a research subject in clinical trials; when we process Personal Data for your potential participation in clinical trials; when we process your Personal Data in connection with your purchase of one of our products or services as a consumer; when we process Personal Data for your potential participation in clinical trials as an investigator or a member of the investigator team; when we process medical information and in connection with post-approval pharmacovigilance and adverse events, complaints, and reports; when we provide products or services to you, your doctor, hospital, medical treatment or scanning facility, or other healthcare provider (collectively, “Healthcare Provider,” which refers both to the Healthcare Provider institution, organization, or company, and individuals employed by or working for or with such organization), or your patients; and in other situations where you interact with us, including but not limited to interacting with or visiting our sites and offices or our events (e.g., tradeshows and conferences) (such products, services, Online Services, and other systems collectively, the “Products and Services”); when we process your data as an employee of a company for which we provide Products or Services; or anywhere this Notice is posted or referenced. This Notice also applies to Personal Data that is collected or processed when you interact with us in person, by telephone, or by mail.
+
+- Thermo Fisher Scientific may have other unique privacy notices that apply to certain specific situations, including informed consent forms for use in interventional and observational medical research. To the extent you were provided with a different privacy notice or policy and those policies or notices apply, those policies or notices will govern our interactions with you, not this one.
+
+- If you provide us with Personal Data of anyone other than yourself (such as a patient or family member), please note that you are responsible for complying with all applicable privacy and data protection laws prior to providing that information to Thermo Fisher Scientific (including obtaining consent, if required).
+
+- Please review this Notice carefully. To the extent permitted by applicable law, by providing us your Personal Data or otherwise interacting with us, you are agreeing to this Notice.
+
+- The Thermo Fisher Scientific subsidiary or affiliate with whom you, your employer, your Healthcare Provider, or your patient is interacting or who owns and operates the Product or Service is, where applicable, the entity responsible for the collection and use of your Personal Data (known in some jurisdictions as the “data controller”). A list of the data controllers can be found here, and contact details can be found in the Contact Us section at the end of this Notice and in the list of data controllers.
+
+## Information collected
+
+What is Personal Data?
+
+- “Personal Data” is any information—as electronically or otherwise recorded—that can be used to identify a person or that we can link directly to an individual, such as name, address, email address, telephone number, or credit card number, as applicable. Personal Data in some jurisdictions can include information that indirectly identifies a person, such as a unique number assigned to a patient by a Healthcare Provider or a clinical trial participant, even absent other identifying information.
+
+- Personal Data may include information considered sensitive in some jurisdictions, such as biometric information, genetic information, medical and health information, financial account information, geolocation, ethnic or racial origin, information concerning your sex life or your sexual orientation, and other information. Please note that, for patients, as described below, we may receive information about you from your Healthcare Provider or others, when legally permitted. Data that could be considered Sensitive Personal Data is highlighted with an asterisk (*) in the summary charts below.
+
+- We will process any Personal Data we collect in accordance with applicable law and as described in this Notice (unless, as explained above, a separate policy or notice governs). In some circumstances, if you do not provide us with your Personal Data, certain Products and Services may be unavailable to you.
+
+- We strive to collect and process only the Personal Data that is reasonably necessary and proportionate to fulfill the purposes described in this Notice and to comply with applicable legal requirements.
+
+Below is a high-level summary of the types of Personal Data we may collect from you. Following that high-level summary is additional detail and information on how we collect, process, and use Personal Data and the potential recipients of your Personal Data, and how we have done so in the preceding 12 months. Some jurisdictions require us to state the legal bases for processing your Personal Data, which are included below, but please note that not all jurisdictions may recognize all legal bases.
+|
+
+Identity and contact information
+Other personal information
+Visual and audio information
+Technical information
+Information regarding your treatment
+Commercial and financial information
+Professional and educational information
+Anonymized / de‑identified data
+|
+
+This may include name, email, phone number, etc.
+This may include age, gender, date of birth, etc.
+This may include still images, video, call recordings, etc.
+This may include Internet Protocol (IP) address, browser, device type, etc.
+This may include blood and tissue samples, treatment date, etc.
+This may include request documentation, financial transaction history, etc.
+This may include job title or position, employer, etc.
+Data for which your individual personal characteristics have been removed****
+Users of Online Services, Visitors to Our Websites and Physical Locations, Survey Participants and Senders of Inquiries
+X
+|
+Patients and Users of Medical Products
+X
+|
+Clinical Study Participants and Candidates
+X
+|
+Healthcare Providers
+X
+|
+Clinical Investigators and Members of Investigator Teams
+X
+|
+Employment and Apprenticeship Candidates
+X
+|
+Business Partners and Their Employees, Agents, and Contractors
+X
+|
+Attendees and Participants at Events
+X
+|
+Customers Who Purchase Directly from our Websites
+X
+|
+Children
+|
+
+We may process your Personal Data when you: (1) visit our websites and our physical locations; (2) submit inquiries to us both online (e.g., via email) or offline (e.g., by written letters); (3) sign up for our newsletters or other informational or marketing materials; and/or (4) register for, visit, or use our online Products and Services; (5) contact us through online chat available on our websites; and/or (6) participate in surveys we send you.
+Identity and contact information, such as:
+- first and last name
+
+- email address
+
+- postal address
+
+- phone number
+
+- company/employer
+
+- position/role
+
+- username and password
+Other personal information, such as:
+- age
+
+- gender
+
+- marital status
+
+- disability
+
+- date of birth
+Visual and audio information, such as:
+- still images
+
+- video (including via CCTV)
+
+- recordings of your calls with our customer service representatives
+Technical Information, such as:
+- Internet Protocol (IP) addresses (which may identify your general geographic location or company)
+
+- browser type and browser language
+
+- device type
+
+- advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+- date and time you use our Products and Services
+
+- Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+- activity on our Products and Services and referring websites or applications
+
+- information contained in your communications to us, such as emails to our online chats with customer service*
+
+- data collected from cookies or other similar technologies****
+
+- geolocation information
+Anonymized / De‑identified Data:
+- is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- you directly
+
+- your devices
+
+- our security systems (including CCTV)
+
+- third parties
+
+- to provide you with our Products and Services
+
+- to communicate with you (about your inquiry)
+
+- to administer our relationship with your organization
+
+- to send you updates
+
+- to identify and authenticate you
+
+- to customize content for you
+
+- to detect security incidents
+
+- to protect against malicious or illegal activity
+
+- to ensure the appropriate use of our Products and Services
+
+- to improve our Products and Services
+
+- for short-term, transient use
+
+- for administrative purposes
+
+- for marketing, internal research, and development
+
+- for quality assurance and to assist in training and development of our representatives
+
+- for the purposes of our legitimate interests
+
+- in preparation for or to perform a contract with you
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law*
+
+- Thermo Fisher Scientific, our affiliates, subsidiaries, and related companies
+
+- partners that assist us in providing the Products or Services or help us improve our marketing or administration**
+
+We may process your Personal Data when you are the existing or prospective patient of a Healthcare Provider who is a Thermo Fisher Scientific customer and/or when you receive or use Thermo Fisher Scientific medical products (including, where applicable, mobile apps).
+
+- username and password
+- age
+
+- gender
+
+- pictures and videos of treatment activities*
+
+- advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+- Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+Information regarding your treatment, such as:
+
+- sex/gender
+
+- genetic information*
+
+- blood and tissue samples*
+
+- identification of pathologies/diseases*
+
+- areas of interest in medical research*
+
+- treatment dates*
+
+- medical history and treatment information
+
+- patient-reported outcome measures (e.g., responses to questionnaires and surveys)*
+
+- X-rays, magnetic resonance imaging, and medical scans*
+
+- user activity*
+
+- therapy completion and use details*
+
+- communications with your Healthcare Provider, including audio and/or video from telehealth sessions*
+Commercial and financial information, such as:
+- Products and Services purchased, obtained, or considered
+
+- request documentation
+
+- customer service records
+
+- financial transaction history
+
+- financial account number
+- is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws****
+
+- your Healthcare Provider
+
+- our business partners and other third parties
+
+- to administer our relationship with you
+
+- to communicate with you
+
+- for medical diagnosis and the provision of healthcare and treatment
+
+- in the public interest
+
+- to comply with a legal obligation
+
+- in preparation for or to perform a contract
+
+- to protect vital interests
+
+- to ensure high standards of quality and safety of healthcare and medical devices
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law*
+
+- Healthcare Providers
+
+- partners that assist us in providing the Products or Services or help us improve our marketing or administration**
+
+Clinical Study Participants: We may process your Personal Data when you participate in a clinical study sponsored by us or conducted by us on behalf of a third party.
+
+If you are a participant in a clinical study, clinical trial, or other health-related research, you should receive a separate privacy notice regarding the Personal Data we process for those purposes. That privacy notice—and not this Notice— governs our processing of such Personal Data.
+
+Clinical Study Candidates: we may process your Personal Data when you have been identified as a potential candidate for clinical studies sponsored by us or conducted by us on behalf of a third party.
+
+If you are a participant in a clinical study, clinical trial, or other health-related research, you should receive a separate privacy notice regarding the Personal Data we process for those purposes. That privacy notice—and not this Notice— governs our processing of such Personal Data.
+
+- age
+
+- gender
+
+- advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+- Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+Information regarding your treatment, such as:
+
+- sex/gender
+
+- genetic information*
+
+- identification of pathologies/diseases*
+
+- areas of interest in medical research
+
+- treatment dates*
+
+- medical history and treatment information*
+
+- X-rays, magnetic resonance imaging, and medical scans*
+
+- user activity*
+
+- therapy completion and use details*
+- is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- your Healthcare Provider
+
+- your friends or family
+
+- to administer our relationship with you
+
+- to determine your eligibility in one or more clinical studies
+
+- for quality assurance
+
+- in the public interest
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law*
+
+- our customers
+
+- Healthcare Providers
+
+- clinical investigators and/or members of investigator teams
+
+- partners that assist us in providing the Products or Services or help us improve our marketing or administration**
+
+We may process your Personal Data when you are a Healthcare Provider who is a current or prospective Thermo Fisher Scientific customer, uses Thermo Fisher Scientific Products and Services, or treats patients with Thermo Fisher Scientific Products and Services, including use of Thermo Fisher Scientific's online portals.
+• first and last name
+
+• company/employer
+
+• email address
+
+• postal address
+
+• phone number
+
+• username and password
+• age
+
+• gender
+
+• marital status
+
+• disability
+
+• date of birth
+• Internet Protocol (IP) addresses (which may identify your general geographic location or company)
+
+• browser type and browser language
+
+• device type
+
+• advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+• date and time you use our Products and Services
+
+• Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+• activity on our Products and Services and referring websites or applications
+
+• data collected from cookies or other similar technologies****
+
+• geolocation information
+• Products and Services purchased, obtained, or considered
+
+• request documentation
+
+• customer service records
+
+• financial transaction history
+
+• financial account number
+Professional and educational information, such as:
+• job title or position
+
+• employer
+
+• National Provider Identifier number
+
+• state medical license number
+
+• work skills
+
+• employment history
+
+• graduate degrees
+
+• certifications
+
+• specialized training
+
+• responses to surveys and questionnaires
+
+• enrolment history for our education and training events
+• is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- your employer or principal
+
+- your patients
+
+- other Healthcare Providers
+
+- for quality assurance
+
+- to customize content for you
+
+- for the purposes of medical diagnosis and the provision of healthcare and treatment
+
+- for scientific or historical research or statistical purposes
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+- other Healthcare Providers
+
+- your patients
+
+- partners that assist us in providing the Products or Services or help us improve our marketing or administration***
+
+We may process your Personal Data if you are an existing or prospective clinical investigator or a member of an investigation team for a clinical study that Thermo Fisher manages on behalf of a customer.
+
+• age
+
+• gender
+
+• advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+• Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+• employer
+
+• National Provider Identifier number
+
+• state medical license number
+
+• enrolment history for our education and
+• Products and Services purchased, obtained, or considered
+
+• request documentation
+
+• customer service records
+
+• financial transaction history
+
+• financial account number
+• is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- for quality assurance
+
+- to customize content for you
+
+- for the purposes of medical diagnosis and the provision of healthcare and treatment
+
+- for scientific or historical research or statistical purposes
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+- other clinical investigators and/or members of investigator teams
+
+We may process your Personal Data when you apply or are a candidate for employment or apprenticeship at Thermo Fisher Scientific.
+
+• age
+
+• gender
+
+• advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+• Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+• employer
+
+• is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+We may process your Personal Data when you act as a customer or business partner such as vendor, supplier, distributor, retailer, or service provider.
+
+• age
+
+• gender
+
+• advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+• Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+• information contained in your communications to us, such as emails to or online chats with customer service*
+
+• Products and Services purchased, obtained, or considered
+
+• request documentation
+
+• customer service records
+
+• financial transaction history
+
+• financial account number
+
+• is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- for medical diagnosis and the provision of healthcare and treatment
+
+- in the public interest
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+- Healthcare Providers
+
+- patients
+
+We may process your Personal Data when you attend or participate in professional and educational events we sponsor or hold.
+
+• age
+
+• gender
+
+• still images
+
+• video (including via CCTV)
+
+• advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+• Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+• employer
+
+• is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- our business partners
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+- other event attendees and participants
+
+We may process your Personal Data when you purchase products directly from our websites.
+
+- company/employer
+
+- username and password
+- age
+
+- gender
+
+- recordings of your calls with our customer service representatives
+- Products or Services purchased, obtained, or considered
+
+- request documentation
+
+- customer service records
+
+- financial transaction history
+
+- financial account number
+
+- payment card information
+
+- bank account information
+
+- credit card information
+
+- responses to surveys and questionnaires
+
+| Technical Information, such as:
+
+- advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID))
+
+- Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our Products and Services
+
+- information contained in your communications to use, such as emails to or online chats with customer service*
+
+- information or data you provide by commenting on content, including product reviews and social media posts*
+
+- information about your interaction with advertisements, or ads that we place on third party websites from online advertising companies*
+
+- information about your interaction with our websites, applications, or Products and Services*
+- is data for which your individual personal characteristics have been removed such that you are not identified and the information is no longer considered Personal Data under data protection laws*****
+
+- our analytics and advertising partners
+
+- our social media pages
+
+- our websites
+
+- third party subscription service providers
+
+- to fulfil your order
+
+- to authenticate you
+
+- for quality assurance and to assist in training and development of our representatives
+
+- in circumstances where we have requested and received consent and for other purposes that may be required or allowed by law**
+
+Thermo Fisher Scientific does not knowingly collect, maintain, disclose, or otherwise process Personal Data from minors below the age of 16 without the permission of such minor’s parents or legal guardians.
+
+*Data that could be considered Sensitive Personal Data.
+
+**The legal bases relied upon by Thermo Fisher Scientific include those enumerated in Articles 6 and 9 of the European Union’s General Data Protection Regulation (“GDPR”), depending on the type of Personal Data.
+
+***In limited circumstances, recipients may include, (1) in the event of a sale, assignment, or transfer, to the buyer, assignee, or transferee; and, (2) government or regulatory officials, law enforcement, courts, public authorities, or others when permitted by this Notice or required by law.
+
+****Please see our Notice on Cookies for more information on how we use cookies and similar technologies.
+
+*****We will not attempt to re-identify you or anyone else from this Anonymized Data / De-identified Data, and if we disclose it to third parties, we will require that they commit to not attempting to re-identify you or anyone else from the Anonymized Data / De-identified Data. Anonymized Data / De-identified Data includes health information resulting from the removal of identifiers from protected health information required under the Health Insurance Portability and Accountability Act, 45 CFR § 164.514(b)(2). Please note that in the course of research, study doctors and authorized personnel may still have access to named subject records collected for such research.
+
+## Marketing, cookies, and tracking
+
+Marketing Uses, Cookies, and Other Activities
+
+To the extent permitted by applicable law, including in accordance with your consent where required by applicable law, we may engage in the following activities:
+
+- We may use your contact details to contact you to determine whether you would like to initiate a business relationship with us or to send you marketing emails. If you do not wish to receive such marketing emails, you may opt out by declining to receive such emails when registering or in our subsequent communications by following opt-out instructions included in the email or at other information collection points on the Online Services.
+
+- We may display advertisements to you regarding Products and Services that we believe are relevant to you based on your activities on the Online Services or on other web or digital properties. Such advertisements may be shown on our Online Services or the online services of others. We achieve this by using, and allowing third parties (e.g., Facebook, LinkedIn) to use certain cookies, eTags, pixels, web beacons, and other tracking technologies to track your activities on our Online Services and other online services. For more information about these activities and how to manage or opt out of them, please see our Notice on Cookies.
+
+- We may make customer offers to you based on your activities across different Online Services, including activities on other web or digital properties or your other interactions with Thermo Fisher Scientific that are not via the Online Services (e.g., regional offers based on the location of your office listed on order forms).
+
+- We also perform statistical analyses of the users of our Online Services to improve the functionality, content, design, and navigation of the Online Services.
+
+Processing Using Website Tracking
+
+For information on processing we may perform using cookies and other website tracking technologies, please see our Notice on Cookies.
+
+Automated Technologies, Artificial Intelligence, and Machine Learning
+
+We may use automated technologies, including artificial intelligence and machine learning, to help provide, secure, maintain, analyze, improve, and personalize our Products and Services; respond to inquiries and support requests; improve search and customer experiences; detect, prevent, and investigate fraud, security incidents, and other harmful activity; support quality, safety, compliance, and operational activities; and assist our personnel in performing business processes. We do not use these technologies to make decisions based solely on automated processing that produce legal or similarly significant effects concerning individuals unless permitted by applicable law and subject to any notice, transparency, consent, or other requirements imposed by applicable law. Where applicable law provides rights relating to automated decision-making, profiling, or similar technologies, you may exercise those rights through the methods described in this Notice.
+
+Interactive Features of our Websites
+
+To the extent we offer any public or group forums on our Products or Services, such as newsfeeds, blogs, message boards, or similar tools (“Interactive Features”), the posts or comments you make may be public and viewed by others. You should use care before posting information about yourself, including Personal Data. You acknowledge and understand that you have no expectation of privacy or confidentiality in the content you submit to Interactive Features over the Products and Services. Except when required to do so by applicable law, we assume no obligation to remove Personal Data you post on our Products and Services, and your disclosure of any Personal Data through the Interactive Features is at your own risk.
+
+## Third parties
+
+Third-Party Service Providers
+
+Third-party service providers acting on our behalf must execute agreements including confidentiality requirements and will only process Personal Data as necessary to perform their functions in a manner consistent with this Notice, other applicable privacy notices, and as explicitly permitted or required by applicable laws, rules, and regulations. Our third-party service providers may be located in the United States and other jurisdictions.
+
+Combination of Data With Data Received from Third Parties
+
+We may combine information we collect, whether Personal Data or not, with Personal Data that we may obtain from third parties.
+
+Links to Other Websites
+
+Our Products or Services may contain links to other websites, applications, products, or services that are not owned or operated by Thermo Fisher Scientific, such as social media websites and applications like Facebook and Twitter. You should carefully review the privacy policies and practices of other websites, products, and services as we cannot control and are not responsible for privacy policies, notices, or practices of third-party websites, applications, products, and services.
+
+## Your rights regarding your personal data
+
+Please note that in many circumstances, we cannot effectively do business with you without processing some Personal Data about you (e.g., your contact information). For example, when you contact customer service representatives, we may require you to provide information to authenticate your identity to assist you with your request. If you are unable to provide this information, we may be unable to process your request.
+
+You may have a right under your area’s data protection law to the following rights with respect to some or all of your Personal Data:
+
+- To request access to and a copy or representative summary of your Personal Data (including under GDPR Article 15);
+
+- To request that we rectify or erase your Personal Data (including under GDPR Articles 16 and 17);
+
+- To request that we restrict or block the processing of your Personal Data (including under GDPR Articles 18, 21 and 22 and to object to the sale or sharing of your Personal Data under other relevant laws);
+
+- This includes the right to opt-out of solicitations, to opt-out of sharing your Personal Data for cross-context behavioral advertising or, in other certain U.S. states, to opt-out of targeted advertising;
+
+- To provide your Personal Data directly to another organization, i.e., a right to data portability (including under GDPR Article 20);
+
+- When we previously obtained your consent, to withdraw consent to processing (including under GDPR Article 21)
+
+- To request to know about the Personal Data we process about you or, in other states, to request to acknowledge our processing of your Personal Data;
+
+- To request that we limit the processing of your Sensitive Personal Data;
+
+- To appeal the denial of a request;
+
+- To lodge a complaint with us to raise any concerns (including under the UK Data Protection Act section 164(A)); and
+
+- To lodge a complaint with the data protection authority in your area.
+
+You can make a request with respect to your Personal Data by clicking below and submitting the form.
+
+You can also, if you prefer, contact the Data Protection Officer at data.privacy@thermofisher.com.
+
+We will make reasonable efforts to respond promptly to your requests in accordance with applicable laws. We may, after receiving your request, require additional information from you to honor the request and verify your identity. Please be aware that we may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so. You may also find additional contact information in the list of data controllers here.
+
+When we receive your Personal Data from our customers and process your Personal Data on their behalf, we do so in the capacity of a data processor. We do not have control over our customers’ privacy and security practices and processes. If your Personal Data has been submitted to us by a Thermo Fisher Scientific customer and you wish to exercise any of the above-mentioned rights, please contact the relevant customer directly, or provide us with the name of the customer so that we can appropriately refer your request to them.
+
+## Transfer of personal data across national borders
+
+Please be aware that Personal Data we collect and process may be transferred and maintained outside your state, province, country, or other jurisdiction where the privacy laws may not be as protective as those in your location, including the United States. When we transfer Personal Data internationally, we implement appropriate safeguards and other measures designed to ensure that the Personal Data remains protected in accordance with applicable law. These measures may include legally recognized transfer mechanisms, contractual protections, technical and organizational safeguards, certifications, or other measures appropriate to the nature of the transfer and the applicable legal requirements.
+
+## Safeguarding information
+
+Consistent with applicable laws and requirements, Thermo Fisher Scientific has put in place physical, technical, and administrative safeguards to protect Personal Data from loss, misuse, alteration, theft, unauthorized access, and unauthorized disclosure consistent with legal obligations and industry practices. However, as is the case with all websites, applications, products, and services, we unfortunately are not able to guarantee security for data collected through our Products and Services. In addition, it is your responsibility to safeguard any passwords, ID numbers, or similar individual information associated with your use of the Products and Services.
+
+## How long your personal data will be retained
+
+We generally retain Personal Data for as long as needed for the specific business purpose or purposes for which it was collected. In some cases, we may be required to retain Personal Data for a longer period of time by law or for other necessary business purposes. Whenever possible, we aim to anonymize the information or remove unnecessary identifiers from records that we may need to keep for periods beyond the specified retention period.
+
+## Special note to patients in the United States
+
+If you are a U.S. patient, please note that this Notice is distinct from your Healthcare Provider’s HIPAA Notice of Privacy Practices, which describes how your Healthcare Provider uses and discloses individually identifiable information about your health that it collects, as well as any other privacy practices it applies. Thermo Fisher Scientific collects, uses, and discloses Personal Data it receives on behalf of your Healthcare Provider in accordance with its HIPAA-required agreements with your Healthcare Provider.
+
+## Do-Not-Track Signals
+
+Certain web browsers and other programs may transmit “opt-out” signals, also called a Global Privacy Control (or GPC) signal (hereinafter referred to as “GPC Signals”), to websites with which the browser communicates. In most cases you will need to change your web browser’s settings or add an application to your web browser to enable your browser to send a GPC signal. For users that access our websites from U.S. states that have laws requiring recognition of GPC Signals, we will recognize and apply the GPC Signal to inactivate all of the cookies for that website, except for cookies that are necessary for the website to operate (“Strictly Necessary Cookies”). Additionally, if you are accessing our websites from one of these states, you can determine if your browser GPC Signal has been recognized by clicking on the “Your Privacy Choices” link in the footer of the website that will include a short message at the top of the preference center indicating that your GPC Signal has been received. For users from states not currently requiring recognition of the GPC Signal, our website servers may recognize and apply the GPC Signal for only targeted advertising cookies, but will not apply the GPC Signal to functional, performance, or social media cookies. Further, a specific GPC Signal acknowledgment notice will not be included in the preference center, but you can always check and adjust your cookie settings by going to the Your Privacy Choices link in the footer of this website.
+
+## Consumer Health Data
+
+For Washington residents and individuals whose consumer health data is collected in Washington, please see the Washington Consumer Health Privacy Policy for information regarding the processing of your consumer health data and how to exercise your rights.
+
+The law of the state in which you reside or in which your Personal Data is collected may make specific requirements in connection with Personal Data that is linked or is reasonably capable of being linked to you and that identifies your past, present, or future physical or mental health status (“Consumer Health Data”).
+
+To the extent your Personal Data constitutes “Consumer Health Data,” the categories of Consumer Health Data being collected; the manner in which it will be used; the categories of sources from which it is collected; the categories of third parties and affiliates with whom it is being shared; the purposes of collecting, using and sharing it; and the manner in which it will be processed are all provided in the “Information Collected” section of this Notice. Additional information about Thermo Fisher Scientific’s activities can be found in the “Marketing Uses, Cookies and Other Activities” and “Third-Party Service Providers” sections of this Notice.
+
+To the extent that the state in which you live requires us to provide certain rights to you in connection with your Consumer Health Data, we will provide the following rights to you based on your state’s law:
+
+- To request our confirmation that we are collecting, sharing, or selling your Consumer Health Data;
+
+- To request to review and to make changes to any of your Consumer Health Data;
+
+- To request that we delete your Consumer Health Data;
+
+- To request a list of all third parties with whom we have shared or sold your Consumer Health Data;
+
+- To request that we stop collecting, sharing, or selling your Consumer Health Data;
+
+- To exercise any of these rights, follow the procedure explained in the “Your Rights Regarding Your Personal Data” section of this Notice.
+
+A third party may collect Consumer Health Data over time and across different websites or online services when you use any of our websites or Online Services. For more information, see the “Marketing Uses, Cookies and Other Activities” and “Third-Party Service Providers” sections of this Notice.
+
+This section (and the Notice more generally) is effective as of the “Last Updated” date above. We will notify you of changes to this section (and the Notice more generally) as described in the “Changes to This Privacy Notice” section.
+
+## Changes to this privacy notice
+
+We reserve the right to change this Notice from time to time. We will alert you when changes have been made by indicating the date this Notice was last updated as the date the Notice became effective or as otherwise may be required by law. It is recommended that you periodically revisit this Notice to learn of any changes.
+
+## Contact us
+
+If you have questions, comments or concerns about this Notice or how your Personal Data is processed, please submit a privacy inquiry here, email data.privacy@thermofisher.com, or call us at +1 888-386-0779. We will make reasonable efforts to respond promptly to your requests in accordance with applicable laws. We may, after receiving your request, require additional information from you to honor the request and verify your identity. Please be aware that we may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so. You may also find additional contact information in the list of data controllers here.
+
+Ordering
+
+-
+Quick Order
+
+-
+eProcurement
+
+-
+Supply Center
+
+-
+Order Status
+
+-
+Chemicals
+
+-
+India Mobile App
+
+-
+Government eMarketplace
+
+Support
+
+-
+Order Support
+
+-
+Training
+
+-
+Report a Site Issue
+
+-
+Instrument Management
+
+Resources
+
+-
+Product Selection Guides
+
+-
+Mobile & Desktop Apps
+
+-
+Webinars
+
+-
+Blog
+
+-
+Social Media
+
+-
+New Products
+
+-
+Promotions
+
+-
+Shared Lists
+
+About Thermo Fisher
+News
+
+-
+Social Responsibility
+
+-
+Trademarks
+
+-
+Policies and Notices
+
+Our Portfolio
+
+-
+Thermo Scientific
+
+-
+Applied Biosystems
+
+-
+Invitrogen
+
+-
+Gibco
+
+-
+Ion Torrent
+
+-
+Fisher Scientific
+
+-
+Patheon
+
+-
+PPD
+
+-
+Terms & Conditions
+
+-
+Privacy Notice
+
+-
+Price & Freight Policy
+
+-
+© 2006-2026 Thermo Fisher Scientific Inc. All rights reserved. All trademarks are the property of Thermo Fisher Scientific and its subsidiaries unless otherwise specified.
+
+India
+
+Thermo Fisher Scientific India Pvt Ltd.
+
+Registered office address:
+
+402, 403, 404, Delphi 'B' Wing,
+
+Hiranandani Business Park,
+
+Powai, Mumbai – 400 076
+
+Email address: customer.reach@thermofisher.com
+
+Phone: 1800-2097001
+
+CIN: U73100MH2000PTC126872
+
+Invitrogen BioServices (India) Pvt Ltd
+
+Registered office address:
+
+First Technology Place, No 3, EPIP,
+
+Whitefield, Bangalore – 560 079
+
+Email address: customer.reach@thermofisher.com
+
+Phone: 1800-2097001
+
+CIN: U73100KA2004PTC035330

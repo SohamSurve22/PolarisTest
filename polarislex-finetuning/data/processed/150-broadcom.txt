@@ -1,0 +1,302 @@
+# Privacy Policy
+
+Effective August 7, 2026
+
+Broadcom, Inc. and its global affiliates and subsidiaries (collectively, “Broadcom”) value your privacy. This Privacy Notice (“Notice”) describes how Broadcom collects, stores, uses, and discloses your Personal Data. “Personal Data” means any information relating to an identified or identifiable individual. “Broadcom” in this Notice refers to the relevant Broadcom company(ies) processing your Personal Data.
+
+This Notice governs Broadcom’s collection and processing of your Personal Data in the context of your interactions with Broadcom, including where you visit Broadcom’s website (“Site”), receive marketing communications, do business with Broadcom on behalf of your organization, or are a user of a Broadcom service procured by your organization and Broadcom collects and processes Personal Data related to your use of such service. This Notice does not apply where your Personal Data is submitted to Broadcom’s Services for processing by Broadcom on behalf of your organization. In that context, Broadcom will process your Personal Data pursuant to the terms of the Data Processing Agreement in place between your organization and Broadcom. This Notice does not govern Broadcom’s collection and processing of Personal Data in the context of employment or candidacy for employment.
+
+Additional privacy information may be provided in Service descriptions, contractual terms, or supplemental privacy notices, such as the Supplemental VMware Products & Services Privacy Notice. Certain Broadcom Services may have additional specific privacy notices. To the extent of any conflict, such specific term or notice shall control.
+
+What Information Does Broadcom Collect About You and Why?
+Broadcom may ask you to provide Broadcom with Personal Data about yourself in order to provide services to you or to do business with your organization. If you choose not to provide Personal Data that Broadcom has asked for, it may delay or prevent Broadcom from providing services to you. Broadcom may collect the following categories of Personal Data about you:
+
+- personal and business identifiers and contact information such as name, job title, company name, contact, shipping and billing information, phone number, email address, photographs, and contact preferences;
+
+- internet or other electronic network activity, i.e. technical data such as domain name, browser type and operating system, web pages you view; links you click; your device’s IP address; login data e.g. username, account number, password; the length of time you visit Broadcom’s Site; the URL or the webpage that led you to Broadcom’s Site;
+
+- performance and usage data about your use of Broadcom’s Services; information you provide to Broadcom to receive technical assistance or during customer service interactions; your interests, demographics, experience with Broadcom’s Services, contact preferences and what you enter into any 'free text' boxes in Broadcom’s forms;
+
+- commercial information, i.e. transactional data including credit card and payment data, transaction history; and
+
+- Personal Data disclosed by you on message boards, chat features, blogs and other services or platforms to which you are able to post information and materials (including third-party services and platforms). Broadcom also may record its telephone or other communications with you, to the extent permitted by applicable law.
+
+Personal Data may be required to determine access eligibility for certain restricted parts of Broadcom’s Site or services. Personal Data about you collected on-line may be combined with information provided off-line or collected from trusted third party sources.
+
+Information Broadcom Collects Directly From You. Broadcom collects Personal Data about you when you visit Broadcom’s Site, register or subscribe for Broadcom’s services, order Broadcom’s products or services, offer or sell products or services to Broadcom, create an account on Broadcom’s Site, request marketing or publications to be sent to you, give Broadcom feedback on Broadcom’s products, services or Site, sign up for an event or webinar, have phone calls with sales or purchasing representatives, or when you contact customer support.
+
+Information Broadcom Collects From a Third Party. Broadcom also may collect Personal Data about you from third party sources, such as someone authorized by you to act on your behalf, third-party services that you use that utilize or interact with Broadcom’s services, or where your Personal Data is provided to us by an event partner. Broadcom may also collect your Personal Data from other sources as and when permitted by applicable laws, such as public databases, joint marketing partners, and social media platforms.
+
+Information Broadcom Collects Automatically, including via Cookies and Similar Tracking Technologies. Broadcom may automatically collect information about your use of Broadcom’s Site, or services through cookies, web beacons, and other technologies. Broadcom may combine this information with other information that Broadcom has collected about you such as your user name. Please see Broadcom’s Cookie Notice.
+
+In connection with providing the Services, Broadcom may collect, modify and analyze metadata and/or operations data, such as system log files, configuration, performance, usage data and transaction counts, from Broadcom’s software or systems hosting the Service, and from your organization’s systems, applications, and devices that are used with the Service which relate to system utilization and performance statistics.
+
+In connection with your organization's deployment of VMware branded Services, Broadcom may automatically collect information in relation to your use of these Services. Please see the VMware Products and Services Supplemental Notice for additional information regarding the types of data collected.
+
+How Does Broadcom Use Your Information?
+Broadcom uses the information collected about you as appropriate and relevant for the following commercial purposes:
+
+- to register you as a new customer;
+
+- to enable you to order products or services or download software updates ("Services“);
+
+-
+to enable us to evaluate or order products or services from your organization;
+
+- to provide services to you, including programs, online services and customer support;
+
+- to allow you to make requests, and register for customized communications programs;
+
+- to customize the content and information that Broadcom may send or display to you;
+
+- for marketing and promotional purposes;
+
+- to assist Broadcom in advertising Broadcom’s products and services on third-party websites;
+
+- to follow up with you after conferences and events;
+
+- to post testimonials on Broadcom’s online properties and, subject to your consent, to use your name with your testimonial;
+
+- to interact on third-party social networks (subject to that network's terms of use);
+
+- to provide online communities and blogs;
+
+- to facilitate the delivery of education and training
+
+Such information may include among others, your name, location and business contact information, information related to the Services you are using, preferences you have selected while visiting the Site, message content and network identifiers related to contacting Broadcom or using the Site.
+
+Broadcom uses the information collected about you as appropriate and relevant for the following business purposes:
+
+- to better understand how users access and use Broadcom’s Site, products, and services and for other research and analytical purposes, including data analysis, audits, fraud monitoring and prevention, developing new products or improving existing ones, enhancing, improving or modifying the Site, identifying usage trends, determining the effectiveness of Broadcom’s promotional campaigns and operating and expanding Broadcom’s business activities;
+
+- to manage Broadcom’s relationship with you which may include notifying you about changes to Broadcom’s terms or this Notice;
+
+- for compliance with applicable law, including laws outside your country of residence;
+
+- to comply with legal process;
+
+- to enforce Broadcom’s contracts;
+
+- to protect Broadcom’s operations or those of any of Broadcom’s affiliates;
+
+- to defend against or pursue legal claims;
+
+- to protect Broadcom’s employees, rights, privacy, safety, security, property, facilities and/or that of Broadcom’s affiliates or others;
+
+- to facilitate the delivery of Services, including but not limited to, tracking entitlements, providing support, verifying compliance, controlling access to the Service, monitoring and ensuring the performance, security, stability and operational integrity of Broadcom’s IT and Services infrastructure and preventing or addressing service or technical issues;
+
+- to facilitate the evaluation and procurement of goods and services from your organization;
+
+- to provide quality control related and staff training;
+
+- to protect Broadcom’s employees, Services, Site and facilities;
+
+- to the extent necessary and proportionate to prevent fraud and ensure network and information security;
+
+- For VMware branded Services please see the VMware Products and Services Supplemental Notice for additional details on how your data is used in connection with Broadcom’s provision of the Services. For more details on Broadcom’s telemetry programs see for on premise products the Customer Experience Improvement Program (CEIP) and for SaaS products the Service Usage Data Program (SUDP).
+
+Such information may include among others, your name, location and business contact information, information related to the products or offering you are using, preferences you have selected while visiting Broadcom’s website, messages content and network identifiers related to you contacting Broadcom or using Broadcom’s websites.
+
+Broadcom may use Artificial Intelligence (AI) tools to process Personal Data as otherwise described herein. Broadcom does not use AI tools to automatically take decisions without human intervention that produce legal effects or significantly affect specific individuals or for high risk purposes as defined in European Union’s Regulation 2024/1689 (EU AI Act). Broadcom takes a responsible and risk-based approach in the use of AI and has established formal policies, governance, and oversight mechanisms to ensure its secure and appropriate use. Broadcom conducts periodic AI risk and impact assessments. These assessments evaluate factors such as data protection, security controls, third-party risk and regulatory compliance. Findings from these assessments are tracked and remediated through Broadcom's established risk management processes.
+
+De-Identified Data. Broadcom will not attempt to re-identify de-identified data unless it is reasonably necessary for security or fraud prevention purposes.
+
+Sensitive Personal Data. Broadcom will only process any special categories of Personal Data (“Sensitive Personal Data”) relating to you for specific purposes outlined above or in relevant supplemental notices, because either: 1. You have given Broadcom your explicit consent to process that information; or 2. The processing is necessary to carry out Broadcom’s obligations under applicable law; 3. The processing is necessary for the establishment, exercise or defense of legal claims; or 4. You have made the information public.
+
+Biometric data
+Broadcom does not collect, capture, possess, receive or process any biometric data such as retina or iris scans, fingerprints, voiceprints, or scans of hand or face geometry, and Broadcom expressly prohibits Broadcom’s customers from providing any such data to Broadcom without relevant authorization, if applicable.
+
+Broadcom does provide certain multifactor authentication services to its customers, whereby a key pair with a public and a private key is created. The private key will remain on the device used by the end user and the public key will be sent to Broadcom. If a customer chooses to enable end user biometrics for authentication purposes, using a program such as Windows Hello, biometric data is only be stored locally on the end user’s device, for use by the end user to access the private key created and retained on the end user’s device. Broadcom does not collect or have access to data that would be considered “biometric” and the public key does not derive or contain any biometric data. Broadcom only uses the public key to verify customers’ end user’s access privileges. End users may remove the public key through the product’s self-service console or it will be deleted once the Customer’s contract with Broadcom is terminated.
+
+CCTV
+
+Information on Broadcom’s use of CCTV at its facilities is available here.
+
+Legal Basis of Processing
+In order to collect, use and otherwise process your Personal Data for the above listed commercial and business purposes, Broadcom may rely on the following legal bases as appropriate and relevant in the specific context:
+
+- Broadcom’s legitimate interest in providing the Sites and making the Services available to you or doing business with your organization, provided Broadcom’s interest is not outweighed by the risk of harm to your rights and freedoms.
+
+- Your consent, where Broadcom has obtained your consent to process your Personal Data for certain activities. You may withdraw your consent at any time by using the contextual preference tools available in the communications or in the user interfaces of the products and Services Broadcom provides to you. Absent those, please contact Broadcom as explained below. However, please note that your withdrawal of consent will not affect the lawfulness of any use of your Personal Data by Broadcom based on your consent prior to withdrawal.
+
+- To fulfill any contractual obligations, such as where you have purchased a product or service from Broadcom. For example, Broadcom may require your contact details in order to deliver your order if you have purchased a product from Broadcom.
+
+- For compliance with Broadcom’s legal obligations where applicable laws require Broadcom to process your Personal Data.
+
+Legal Basis of Processing Of Personal Data For The Purposes Of Fraud Prevention And Network and Information Security as part of Broadcom’s Services
+Broadcom processes Personal Data for fraud prevention and network and information security purposes when providing Services. Pursuant to applicable privacy legislation, organizations have a recognized legitimate interest in collecting and processing Personal Data to the extent necessary and proportionate for preventing fraud and ensuring network and information security. Network and information security means the ability of a network or of an information system to resist events, attacks or unlawful or malicious actions that could compromise the availability, authenticity, integrity and confidentiality of stored or transmitted data, or the security of the related services offered by, or accessible via those networks and systems.
+
+As a provider of payment security services and cybersecurity technologies and services, it is in Broadcom’s legitimate interests to collect and process Personal Data to the extent necessary and proportionate for the purposes of preventing fraudulent payment transactions (“Fraud”) and ensuring the security of Broadcom’s customers’ payment transactions and information networks and systems. This includes the development of payment transaction records and of threat intelligence resources aimed at maintaining and improving on an ongoing basis Broadcom’s ability to detect Fraud and the ability of networks and systems to resist unlawful or malicious actions and other harmful events affecting information networks and systems (“Cybersecurity Threats”).
+
+The Personal Data Broadcom processes for the prevention of Fraud includes, but is not limited to:
+
+- Information related to electronic means of payment and related entitlements;
+
+- Information related to electronic payment transactions;
+
+- Contextual signals and indicators of suspected fraud;
+
+- Verification information to confirm or dispel suspected fraud; and
+
+- Evidence of suspected, detected and/or confirmed fraud.
+
+The Personal Data Broadcom processes for network and information security purposes include, without limitation, network traffic data related to Cybersecurity Threats such as:
+
+- sender email addresses (e.g., of sources of SPAM);
+
+- recipient email addresses (e.g., of victims of targeted email cyberattacks);
+
+- reply-to email addresses (e.g., as configured by cybercriminals sending malicious email);
+
+- filenames and execution paths (e.g., of malicious or otherwise harmful executable files attached to emails);
+
+- URLs and associated page titles (e.g., of web pages broadcasting or hosting malicious or otherwise harmful contents); and/or
+
+- IP addresses (e.g., of web servers and connected devices involved in the generation, distribution, conveyance, hosting, caching or other storage of Cybersecurity Threats such as malicious or otherwise harmful contents).
+
+Depending on the context in which such data is collected, it may contain Personal Data concerning you or any other data subjects. In such cases Broadcom will process the Personal Data concerned only to the extent necessary and proportionate to the purposes of detecting, blocking, reporting and mitigating the Fraud or Cybersecurity Threat of concern to you, and to all organizations relying on Broadcom’s products and services to secure their payment transactions and information networks and systems. When processing Personal Data in this context, Broadcom will only seek to identify data subjects:
+
+- to the extent that it is an inherent part of the Services Broadcom provides to its customers and is indispensable to the prevention of the Fraud and/or the remediation of the Cybersecurity Threat concerned, or
+
+- if and as required by law.
+
+If you believe that your Personal Data was unduly collected or is unduly processed by Broadcom for such purposes, please refer to the “Your Rights” and “Contact Broadcom” sections below. Please be aware that if it is determined that Personal Data concerning you is processed by Broadcom because it is critical for the prevention of, or the detection, blocking or mitigation of Cybersecurity Threats, then in certain cases the legitimate interest to pursue such processing may be compelling enough to override access, objection, rectification or erasure requests related to the data concerned
+
+Automated Individual Decision-Making And Profiling
+Where Broadcom processes payment transaction security or network traffic data for the purpose of fraud prevention or network and information security, automated decisions concerning particular payment transactions or cyber events may be made. This could involve in particular assigning relative payment fraud risk, respectively cybersecurity risk scores to ongoing or recent payment transactions, information network activities or system behaviors. Such automatically assigned risk scores may be leveraged by you, by Broadcom, by Broadcom’s partners and by other customers to detect, block and mitigate the detected Fraud or Cybersecurity Threat. They could therefore result in said partners and customers blocking payment transactions they deem to be fraudulent, halting network traffic coming from or going to suspected or known malicious addresses. Such processing is not intended to produce any other effect than protecting you, Broadcom, Broadcom’s partners and Broadcom’s other customers from fraudulent payment transactions, respectively Cybersecurity Threats. Should you consider that such automated processing is unduly affecting you in a significant way, please contact directly the relevant data controller whose use of Broadcom’s Services is impacting you. In case that data controller is Broadcom, please refer to the “Your Privacy Rights” and “Contact Broadcom” sections of this Notice to raise your concerns and to seek Broadcom’s help in finding a satisfactory solution.
+
+Processing Of Pseudonymous Data To Improve the Performance of Broadcom Hardware
+Certain mobile devices equipped with a Broadcom GPS chip occasionally require querying Broadcom's geolocation assistance server. At the user’s request when launching a geolocation service on their device, the chip will transmit to Broadcom over TCP/IP the device's then current broad city level location. In response, the server will designate to the chip the then-relevant satellites to connect to. This service reduces the time needed for the chip to achieve accurate GPS location from about 15 minutes to less than 1 minute. Broadcom does not manually access, inspect, disclose, retain, correlate or reuse any of the data associated with this service. The logs related to this service only contain the dynamic IP address from which the device connected to the service, and these logs are purged on a rolling 24-hour basis. Broadcom is not in a position to identify any individual end-user based on the information involved in this service.
+
+To Whom Does Broadcom Disclose Your Information And Why?
+Broadcom may disclose Personal Data collected about you as follows:
+
+Site Visitors. Your user name and any information that you post to Broadcom’s Site, including, without limitation, reviews, comments, pictures and text will be available to, and searchable by, all users of the Site.
+
+Affiliates or Subsidiaries. Data Broadcom collects about you may be disclosed to Broadcom’s affiliates or subsidiaries.
+
+Unaffiliated Third Parties. Certain data about you may be disclosed to select resellers and/or distributors, particularly if you or your company have purchased through a third party before.
+
+Service Providers. Data Broadcom collects about you may be disclosed to third party vendors, service providers, contractors or agents who perform functions on Broadcom’s behalf.
+
+Personal data collected through and for the purposes of user-requested alerts and service notifications, including but not limited to short code text messages in the U.S. and Canada, will not be disclosed, shared, sold or rented to any affiliated or unaffiliated third parties for marketing purposes.
+Business Transfers. Personal Data Broadcom has collected about you may be transferred to another company as part of a merger, acquisition or divestiture by or of that company.
+
+Consent. Broadcom may disclose your personal information to other recipients for any purpose with your consent.
+
+Legal Obligations and Rights. Broadcom may disclose your Personal Data to any legally entitled recipients: (i) in connection with the establishment, exercise or defense of legal claims; (ii) to comply with laws or to respond to lawful requests or legal process; (iii) for fraud or security monitoring purposes (e.g., to detect and prevent cyberattacks); (iv) to protect the rights of Broadcom or its employees; or (v) as otherwise permitted by applicable law.
+
+If Broadcom discloses your Personal Data, to the extent reasonably practicable and permissible, Broadcom will require its recipients to comply with adequate privacy and confidentiality requirements, and security standards.
+
+When you visit a Broadcom Site, cookies and similar technologies, if any, will be used in accordance with Broadcom’s Cookie Notice, and in line with your cookie choices made inPrivacy Preference Center, accessed by clicking on a “Cookie Settings” link or on the cookie icon. Broadcom does not sell your Personal Data for money, however use of some cookies may constitute “selling” or “sharing” Personal Data under the California Privacy Rights Act. If you do not wish Broadcom to “sell” or “share” your data in the meaning of the California Privacy Rights Act, you may check the Privacy Preference Center to ensure non-essential cookies are disabled. If Broadcom recognizes the Global Privacy Control (GPC) signal or Do Not Track signal from your browser, Broadcom will disable non-essential cookies. See Broadcom’s Cookie Notice for more information.
+
+What About Links To Other Websites?
+Broadcom’s Site and services may contain links to third party websites for your convenience. Any access to and use of such linked websites will cause you to leave the Site. Third party websites, even if potentially serving content co-branded by Broadcom, are not governed by this Notice, but instead are governed by their own privacy notices. Broadcom recommends that you check the privacy notices of every third party website you visit before providing any Personal Data. Broadcom does not control those third party websites and are not responsible for their content or their privacy practices. Thus, Broadcom does not endorse or make any legal representations about them. If you decide to access any of the third party websites linked from Broadcom’s Site, you do so entirely at your own risk.
+
+How Does Broadcom Secure Your Personal Data?
+Broadcom has implemented administrative, technical, physical, electronic, and managerial procedures to safeguard and secure the information Broadcom collects from loss, misuse, unauthorized access, disclosure, alteration, and destruction and to help maintain data accuracy and ensure that your Personal Data is used appropriately. Broadcom has a global Privacy Program. Its charter is to ensure appropriate privacy processes are in place in order to meet the practices outlined herein. Where Personal Data is processed by service providers on behalf of Broadcom, Broadcom has implemented a comprehensive process requiring those service providers to also comply with applicable data protection laws.
+
+How Long Does Broadcom Retain Your Personal Data?
+Broadcom will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Notice and/or in applicable supplemental notices, unless a longer retention period is required by law.
+
+Your Rights
+Depending on your country or state of residence you may have some or all of the rights described below with respect to your Personal Data. To exercise your rights, you may:
+
+- make use of the self-serve tools available in the products or services you are using; or
+
+- submit your privacy request via the Request Intake Form;
+
+It is Broadcom’s legal obligation to validate any request Broadcom receives before responding. The Request Intake Form linked above is specifically designed to ensure reliable and auditable request validation. Therefore Broadcom will not respond to requests that are not submitted and cannot be validated through this channel. If it is impossible for you to use any of the methods listed above, please contact the Privacy Office as indicated below to find a resolution.
+
+Email and Marketing. In most instances, Broadcom gives you options with regard to the Personal Data you provide, including choices with respect to marketing materials. You may manage your receipt of marketing and non-transactional communications by: (i) clicking on the “unsubscribe” link in marketing emails; or (ii) checking certain boxes on Broadcom’s preference center which can also be found on certain forms Broadcom uses to collect Personal Data.
+
+Access. You may request information regarding Personal Data that Broadcom collects and holds about you and the source(s) of that information. To access your Personal Data, return to the product, service or web page where you originally entered it and follow the instructions in your user interface or on that web page. If you cannot access your information in this way, please submit your request through the appropriate Request Intake Form indicated above.
+
+Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages particularly of the Site for a limited period of time. If you request a change to or deletion of your Personal Data, Broadcom may still need to retain certain information for record-keeping purposes, and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Data provided until after the completion of such purchase). Some of your information may also remain within Broadcom’s systems and other records where necessary for compliance with applicable law.
+
+You can request a copy of any Personal Data Broadcom holds about you, and of which you don’t already have a copy. This service is usually free of charge, although Broadcom has the right to charge a ‘reasonable fee’ in some circumstances;
+
+Rectification. You have the right to request that Broadcom rectifies any inaccuracies in relation to the Personal Data Broadcom holds about you;
+
+Erasure. In some circumstances, you have the right to request the erasure of your Personal Data or object to the further processing of your information;
+
+Restriction of Processing. In some circumstances, you have the right to require Broadcom to restrict processing of your Personal Data;
+
+Objection. You have the right to object to any direct marketing or to other processing of your Personal Data based on Broadcom’s or on third parties’ legitimate interests, unless such interests are compelling enough to override your objection;
+
+Not to be discriminated against for exercising any of your other privacy rights. You may exercise any of your rights in this section without Broadcom discriminating against you in any way. Note however that you may be subject to differentiated treatment if and to the extent that the exercise of your rights materially impacts Broadcom’s ability to provide certain services to you (e.g. if you request the deletion of your account information or access credentials, Broadcom may no longer be able to grant you access to restricted areas of Broadcom’s websites). Such differentiated treatment is objectively justified and does not constitute discrimination.
+
+Withdraw Consent. Where Broadcom relies on your consent, you may have the right to withdraw consent to Broadcom processing your Personal Data. This will not affect the processing already carried out with your consent;
+
+Not to be subject to decisions based on automated processing. In some circumstances, you have the right not to be subject to decisions based solely on automated processing, and to obtain the human review of any such decisions that significantly affect you (please refer to the earlier section on automated decision making); and
+
+Complain. If you have a complaint, Broadcom would appreciate the chance to address your concerns; please contact Broadcom using the options provided under “Contact Broadcom”. You may also lodge a complaint with the supervisory data protection authority in the state where you live, work or where an alleged infringement of applicable data protection law occurred
+
+Competent Supervisory Authorities. Broadcom is a business that operates various activities across a number of jurisdictions. Broadcom has identified the Data Protection Commission (“DPC”) in Ireland as its Lead Supervisory Authority in relation to compliance with the EU General Data Protection Regulation (GDPR) for its software business.
+
+How Are Cross-Border Transfers of Data Performed?
+Subject to your permission or as permitted by law, the Personal Data that you provide to Broadcom may be transferred within Broadcom across state or country borders. This may be done to consolidate data storage or to simplify the management of customer information. Broadcom has adopted globally recognized privacy principles and safeguards and only collects and/or transmits your Personal Data to the extent it is reasonably necessary to conduct business and perform requested services. Broadcom and its service providers comply with applicable legal requirements providing for adequate safeguards protection of Personal Data transferred to countries outside of the country of collection or residence.
+
+In certain cases, where Personal Data is transferred to countries that do not offer an adequate level of Personal Data protection according to the country of collection or residence, such transfers are covered by alternate appropriate technical, organizational and contractual safeguards, specifically the Standard Contractual Clauses (issued by the European Commission, the UK’s Information Commissioner’s Office or the Brazilian Data Protection Agency). If applicable to you, you may obtain copies of such safeguards by contacting Broadcom. Where local legislation requires your consent to perform international data transfers, the Company will obtain your consent prior to the transfer.
+
+Data Privacy Framework. Broadcom Inc., Broadcom Corporation, Brocade Communications Systems LLC, LSI Corporation, Avago Technologies US Inc., CA, Inc. and VMware LLC are participating in the Data Privacy Framework (“DPF”) Program. As part of Broadcom’s participation in the Data Privacy Framework, if you have an inquiry or complaint regarding Broadcom’s privacy practices in relation to Broadcom’s DPF certification, Broadcom encourages you to first contact Broadcom at data.privacy (at) broadcom.com. In cases of onward transfers to third parties, Broadcom remains liable to you.
+
+You may also refer a complaint to your local data protection authority, and Broadcom will collaborate with them to try to resolve your concern.
+
+Broadcom complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Broadcom has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Broadcom has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view Broadcom’s certification, please visit https://www.dataprivacyframework.gov/.
+
+In case you do not receive timely acknowledgment of your DPF Principles-related complaint from Broadcom, or if Broadcom has not addressed your DPF Principles-related complaint to your satisfaction, please visit https://go.adr.org/dpf_irm.html for more information or to file a complaint. The services of ICDR-AAA for Data Privacy Framework are provided at no cost to you. In certain circumstances, the Data Privacy Framework provides the right to invoke binding arbitration to resolve complaints not resolved by any other means by initiating an arbitration procedure via: https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction
+
+The Federal Trade Commission has jurisdiction over Broadcom’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+
+Broadcom is subject to the investigatory and enforcement powers of the FTC and has the requirement to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+What Choices Do You Have Regarding Broadcom’s Use Of Your Personal Data?
+Broadcom will not use or disclose your Personal Data in ways unrelated to the ones described above without first notifying you and offering a choice, unless Broadcom reasonably considers that Broadcom needs to use it for another reason and that reason is compatible with the original purpose. Please note that Broadcom may process your Personal Data without your knowledge or consent where it is required, or to the extent it is permitted by law.
+
+Broadcom will provide you the opportunity to opt out of certain Broadcom communications. If you have any difficulty exercising your choices, please contact Broadcom.
+
+How Can You Contact Broadcom?
+You may exercise your rights as described in the “Your Rights” section above, or by visiting Broadcom’s Request Intake Form referenced above.
+
+Californian Consumers may also submit their requests over the phone by calling the following toll-free number: +1 (888) 914-9661 and providing the following PIN: 904 474.
+
+Broadcom has a Global Privacy Officer who is responsible for privacy and data protection. If you have questions or concerns about this Notice, or the privacy practices relating to Broadcom’s Site or services or wish to contact Broadcom’s Global Privacy Officer, please contact Broadcom using the details below:
+
+Company name: Broadcom Inc.
+Email address: data.privacy (at) broadcom.com
+Postal address: 3401 Hillview Ave, Palo Alto, CA 94304, US
+The appointed DPO for Brazil, Denise Bicho, may also be contacted through the above email address.
+
+What About Children?
+Broadcom does not knowingly collect Personal Data relating to children. If you believe that Broadcom may have collected Personal Data from someone under the age of thirteen (13), or under the applicable age of consent in your country, without parental consent, please let Broadcom know using the methods described in the Contact Broadcom section and Broadcom will take appropriate measures to investigate and address the issue promptly.
+
+What About California “Shine the Light” Privacy Rights?
+California law, under California Civil Code Section 1798.83 (known as the "Shine the Light" law), permits Broadcom’s established customers who are California residents to request information regarding the manner in which Broadcom discloses certain categories of your Personal Data to third parties, for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to Broadcom at its designated address and receive the following information:
+
+- The categories of information Broadcom disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year;
+
+- The names and addresses of third parties that received such information; and
+
+- If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
+
+You are entitled to receive a copy of this information up to one time per calendar year in a standardized format and the information will not be specific to you individually. Broadcom’s designated email address for such requests is the one indicated in the contact details above. Broadcom reserves the right to not respond to requests submitted to addresses other than the addresses specified in this paragraph. In your request, please attest to the fact that you are a California resident. Broadcom reserves the right to require proof of residence. Please allow up to thirty (30) days for a response.
+
+What About Changes To This Privacy Notice?
+Broadcom may change this Notice from time to time, so please be sure to check back periodically. Broadcom will post any changes to this Notice on Broadcom’s Site. If Broadcom makes any changes to this Notice that materially affect Broadcom’s practices with regard to the Personal Data Broadcom has previously collected from you, Broadcom will endeavor to provide you with notice in advance of such change by highlighting the change on Broadcom’s Site, or by sending you an email message to the email address you have provided.
+
+Product-specific privacy information:
+
+Products & Services Transparency Notices (Broadcom) and Privacy Datasheets (VMware)
+
+Compliance with China’s Privacy Information Protection Law (PIPL)
+
+In addition to the provisions of this Notice, where PIPL is applicable and requires a separate consent for the processing and transfer of personal data, Broadcom will notify you separately and provide you with the details of the overseas recipient, the type of data disclosed and the purposes.
+
+In the case of customers, partners and other contacts, to the extent that PIPL is applicable, Overseas Recipients may include the organizations listed in the third party list that can be found here or other ICT service providers functioning as Broadcom’s data processors. Where Personal Data is transferred to countries that, according to Chinese authorities, do not offer an adequate level of Personal Data protection in relation to PIPL, such transfers are covered by the Chinese Standard Contractual Clauses
+
+Under PIPL, in addition to the rights listed above, you may also have the:
+
+Explanation. You have the right to require Broadcom to further explain the rules of processing of your Personal Data to the extent that they are unclear or not addressed in this Privacy Notice
+
+Transfer You have the right to transfer the Personal Data Broadcom holds about you to another personal information processor as long as it is compliant under PIPL.

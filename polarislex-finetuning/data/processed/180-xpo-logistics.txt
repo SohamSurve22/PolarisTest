@@ -1,0 +1,272 @@
+About This Policy. XPO, Inc. and its subsidiaries, divisions, and affiliates (sometimes referred to as “XPO”, “Company,” “us,” “we,” or “our”) adopted this privacy policy (“Policy”) to explain what information we collect about you, how we will and will not use the information you entrust to us, with whom we may share such information, and what choices you have regarding our use of such information. This Privacy Policy applies to information collected through the XPO website located at www.xpo.com (the “Site”), any mobile applications associated with the Site or otherwise offered by XPO (the “Mobile Applications”), all interactive features, applications, widgets, blogs, social networks and social network “tabs”, and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology or any associated content, material, software or functionality contained on the Site or Mobile Applications (collectively the 67, “Software” and, together with the Mobile Applications and the Site, the “System”). This Policy also applies to information we collect through offline channels including but not limited to voicemail, CCTV, visits to events we hold, or other in person interactions.
+
+This Privacy Policy is incorporated into and is a part of the Terms of Use of the Site (link: https://www.xpo.com/terms-of-use) (the “Terms of Use”). We encourage you to become familiar with the terms and conditions of both this Policy and the Terms of Use. By accessing and using the System, or any part thereof, you agree that this Policy governs our collection, use and disclosure of any information collected by us on or through the System. If you do not agree to be bound by this Policy, you may not access or use the System (or any portion thereof). This Policy applies to information collected through the System and any information collected offline.
+
+Except as otherwise noted, any capitalized terms not defined in the Policy have the meaning set forth in the Terms of Use. If you do not consent to the collection, use, disclosure, and retention of your personal information as described in this Policy, please do not provide us with such information.
+
+This Policy does not apply to third-party websites accessible through our Site or other applications.
+
+Personal Information We Collect. You can visit the System as often as you like without registering or submitting Personal Information. However, if you submit a request to us or initiate a contractual relationship with us through the System, whether as an investor, customer, carrier, vendor, employee or contractor, you may be asked for information that will allow us to fulfill your request. As noted above, we may also collect personal information that you submit to us through offline channels. XPO may collect certain other information by automated means, including, but not limited to information sent to us automatically by your web browser when you visit the System or use the Software, and certain other non-personal information.We also use “cookies” and other web or mobile technologies to collect information and support certain features of the System (see “Cookies” section).
+
+As described below, we may collect or have collected in the preceding 12 months the following categories of Personal Information. We may add to the categories of Personal Information we collect and the purpose(s) we collect and use it. In those cases, we will inform and update this section of the Policy.
+• Identifiers – such as real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, social security number, tax identification or other government identification number, internal identification number, driver’s license number, signature, or other similar identifiers.
+• Other elements – such as name, signature, characteristics or description, address, telephone number, education, bank account number, credit card number.
+• Characteristics of protected classifications under California or federal law – such as race, religion, and age.
+• Commercial information – such as products and services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+• Education information – such as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, Sec. 1232g; 34 C.F.R. Part 99).
+• Internet or other electronic network activity – such as browsing history, search history, a consumer’s interaction with an internet website, application, or advertisement.
+• Biometric information – such as an individual’s physiological, biological, or behavioral characteristics used or is intended to be used singly or in combination with each other or with other identifying data, to establish individual identity.
+• Geolocation data – such as location information while using one of our apps.
+• Audio, electronic, visual, thermal, olfactory, or similar information – such as identifiable information obtained about you from voicemail messages, while speaking with our service representatives, including on the telephone, and captured by video cameras.
+• Professional or employment-related information – such as information on job applications, information needed during onboarding for payroll and benefits, and information needed for evaluating performance.
+• Sensitive Information – Sensitive information means a consumer’s social security, driver’s license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin, religious or philosophical beliefs, or union membership; the contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication; genetic data; the processing of biometric information for the purpose of uniquely identifying a consumer; personal information collected and analyzed concerning a consumer’s health; personal information collected and analyzed concerning a consumer’s sex life or sexual orientation; and inferences drawn from any of the information identified above to create a profile about a consumer reflecting the consumer’s preferences, characteristics, and behaviors.
+
+Personal information does not include certain categories of information, such as publicly available information from government records, and deidentified or aggregated consumer information.
+
+In addition, XPO may collect certain other information by automated means, including, but not limited to: (1) information that is sent to us automatically by your web browser when you visit the System or use the Software, such as your IP address, the identity of your internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit, and (2) certain other Personal Information, such as how long you stay on each page links you click on or hover over, selections you make on a Mobile Application or the Site, features you use, preferences you set, general physical location, as well as any other information collected as further described in this Policy. We also use “cookies” and other web or mobile technologies to collect information and support certain features of the System. We may link the information we collect from your Web browser and from cookies and other Web or mobile technologies to your Personal Information. We consider this combined information Personal Information.
+
+Your Choices Regarding Your Personal Information. You can always limit the information you provide to us, but if you choose not to provide certain requested information, you may be unable to access or receive some of the services, offers, and information we offer.
+
+Purposes We Collect and Use Personal Information. You can visit the System as often as you like without registering or submitting Personal Information. However, if you submit a request to us or initiate a contractual relationship with us through the System, whether as an investor, customer, carrier, vendor, employee or contractor, you may be asked for information that will allow us to fulfill your request. Use of certain portions of, or Software contained on, the System is conditional on your provision of such Personal Information.
+
+We collect and use your Personal Information for the following business or commercial purposes. We may change or add to the purposes we collect Personal Information. In that case, we will inform you and obtain your consent when required by law.
+
+• To provide you with information, products, or services you request from us.
+• To fulfill or meet the reason for which the information is provided.
+• To provide regulatory required communications.
+• To open, maintain, and close accounts.
+• To process payments.
+• To engage third party service providers to perform transportation or logistics services.
+• To contact you and/or provide you with email alerts and other notices concerning our products, services, events, or news that may be of interest to you. For example, we may send you announcements, and newsletters using any communications preferences you have expressed. We may provide these communications via email, postal mail, online advertising, social media, telephone, text message (including SMS and MMS), push notifications, in-app messaging, and other means. Of course, if at any time you no longer wish to receive such communications, you have the option of unsubscribing from our mailing list for that communication.
+• To engage in data analytics, advertising and marketing activities including serving retargeted ads.
+• To communicate with you in social media concerning our products and services.
+• To ensure your information is accurate and to personalize our communications to you. For example, we may aggregate your personal information with data from various sources for purposes of keeping information up to date. If you connect your social media services or other accounts to our services, we may use this information to make your experiences with us more personal or share and use it as described elsewhere in this Policy.
+• To carry out our obligations and enforce our rights including those arising from any contracts entered into with you including for billing, payment, and collections.
+• To review, improve, and monitor our website, applications, online services, and overall consumer experience, including to provide customization to meet the specific needs.
+• To provide customer service and engage in quality control activities concerning our products and services.
+• For testing, research, analysis and product and service development. We may use data, including public feedback and surveys, to conduct research and for the development of the Site and the services, products, and information we provide.
+• To respond to law enforcement requests and as required by applicable law, court order, governmental regulations, or other lawful processes.
+• As described to you when collecting your personal information.
+• To manage our recruiting efforts and employment and workforce relationships. These activities include, for example, sourcing and processing employment applications, onboarding employees and contingent workers, and carrying out a range of employments activities relating to the employment relationship, such as compensation, benefits, promotion, discipline, termination, and certain post termination activities.
+• As necessary or appropriate to protect the rights, property, security, and safety of us, our employees, our consumers, our information systems, and the public.
+• As XPO grows and develops its business, it is possible that its corporate structure or organization might change or that it might merge or otherwise combine with, or that it or portions of its business might be acquired by, another company. In any such transactions, customer information generally is, and should be expected to be, one of the transferred business assets.
+
+Sources of Personal Information We Collect.
+
+• You. We collect Personal Information that you volunteer to us when you make purchases or fill in information on forms or send us an e-mail to request information about products, support, or training or otherwise interact with us. We may also collect information when you attend an event or program we sponsor. We collect information when you are an applicant for employment with us and employed by us.
+• Related Entities and Affiliates. We may collect Personal Information about you from our related parties and affiliates, including joint ventures.
+• Social media and related services. We may collect information about you through your social media services consistent with your settings on such services.
+• Service providers and contractors. When you obtain products and services from us, we may collect your Personal Information from service provider and contractors who collected information about you that is needed to provide those products and services.
+• News outlets, surveys, and certain third parties. We may collect Personal Information about you from third parties such as from your employer, sales representatives or other third-party sources that are lawfully entitled to share your data with us. In the course of performing our services or marketing activities we, or third parties on our behalf, may conduct research and other activities resulting in the collection of Personal Information about you.
+• Information Collected Automatically. As you navigate through and interact with our Site, We or third parties on our behalf collect information through certain online tracking tools, such as browser cookies, flash cookies, and web beacons.
+
+Disclosures of Personal Information. We may disclose your Personal Information to services providers, contractors and third parties who help us provide the products and services, for shipping and logistics, payment processing, analytics, marketing and advertising including retargeting ads, email, text and other communications, applications, sales, business and inventory support, photography, and website, software, platform, cloud, data storage and other technical services.
+
+we may also disclose your Personal Information if necessary to: (1) comply with federal, state, or local laws; (2) comply with a civil, criminal, or regulatory inquiry, investigation, subpoena, or summons by federal, state, or local authorities; (3) cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may violate federal, state, or local laws; or (4) exercise or defend legal claims.
+
+Lastly, we may transfer to a third-party Personal Information as part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control or acquires of all or part of the assets of our business.
+
+Of the categories of Personal Information listed above, during the past 12 months, we disclosed the following:
+
+| Categories of Personal Information Disclosed
+| Categories of Third Parties to Whom Disclosed
+Identifiers
+
+Other elements
+
+Characteristics of protected classifications under California or federal law
+
+Commercial information
+
+Education information
+
+Internet or other electronic network activity
+
+Biometric information
+
+Geolocation data
+
+Audio, electronic, visual, thermal, olfactory, or similar information
+
+Professional or employment-related information
+
+Consumer profile
+
+Sensitive personal information
+- Third parties as directed by you.
+
+- Our affiliates.
+
+- Our business partners. For example, we might disclose your Personal Information to a business partner for collaborating on services or events.
+
+- Service Providers. For example, vendors that help us communicate with you or fulfill requests for services, products, materials and opportunities, provide web hosting, information technology services, marketing and advertising, background checks, staffing and recruiting, payroll and benefits management, data analytics and data storage. We might also authorize service providers to collect Personal Information on our behalf.
+
+- Successors to all or portions of our business.
+
+- Governmental entities. We may disclose your Personal Information to comply with the law and in providing our products and services and other business activities of the Company. We may also disclose information if a government agency or investigatory body submits a request.
+
+- Professional services providers (e.g., legal, accounting, insurance, benefits administration, workers’ compensation administration).
+
+- Trade unions as necessary for union employees.
+
+- Other companies and organizations for fraud protection, credit risk reduction, and collection activities.
+
+Cookies, Tracking, and Certain Communications.
+
+Cookies. Our Site uses “cookies” and other web or mobile technologies to collect information and support certain features of the System. XPO and its services providers and third parties may automatically gather information about visitors' use of the System for several reasons, including, but not limited to, the following: statistics collection and analysis, System optimization, analytics (as described below), market research, maintenance of user login information and advertising and marketing including retargeting ads. The information that we and third parties track with cookies may include, but is not necessarily limited to, the type of browser (such as Google Chrome or Internet Explorer) and Internet-connected device being used to access the System, your Internet protocol (“IP”) address, your home domain or Internet service provider, your referrer URL (which is the URL for the website that you were viewing prior to visiting the System), how you were directed to the System, which specific pages you access on the System, how long you view each page, the time and date you access our System and the total number of visitors to the System and any portions thereof. We may also use your IP address to determine the general physical location of your computer or device and understand from what geographic locations our System visitors come.
+
+We and our respective business partners and services providers may also produce reports and aggregate statistics about the visitors to the System or users of the Software, including reports on the System’s traffic or usage patterns, and share these statistics and reports with our affiliates, business partners, or others, but the information contained in these statistics and reports will be anonymous and will not include any information that identifies you.
+
+The Site and certain other portions of the System use Google Analytics (including the Universal Analytics feature), a web analysis service provided by Google, to better understand your use of the Site (or other portions of the System) and how we can improve the Site and the System. Google Analytics collects information such as how often users visit the Site, what pages they visit when they do so, and what other websites they used prior to coming to such Site. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a Site, XPO does not use information collected by Google Analytics about your visits to the Site or the System except for its own internal purposes which may include serving visitors with XPO ads after they leave the XPO website.
+
+Google’s use of such data is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. Google utilizes the data collected to track and examine the use of the System, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the System to contextualize and personalize the ads of its own advertising network. To more fully understand how Google may use the data it collects on the System, please review “How Google uses data when you use our partners' sites or apps”, (located here or any successor URL). If you would like additional information regarding the security and privacy practices of Google’s Universal Analytics feature, please review the materials provided by Google: https://analytics.google.com/analytics.
+
+Most popular Internet browser applications will allow you to configure the browser so as not to accept cookies. However, setting your browser to reject cookies may, in certain instances, prevent you from taking full advantage of the System (or some portion thereof) and its capabilities, or cause some features of the System to function improperly or more slowly. To opt out of certain cross-contextual behavioral advertising using the DAA opt-out tool, visit http://www.aboutads.info/choices/;
+
+Embedded Content. The Site contains embedded third-party content from other sources (e.g., videos, images, articles). Embedded content may place third party cookies on your device that monitor your interaction with the embedded content, for marketing purposes or to enhance your user experience. We have no direct control over the information these cookies collect. You should visit the website privacy policy for the third parties that provide this content.
+
+Social Media. Any information, communications, or material of any type or nature that you submit to the System or any of our pages contained on a social media platform or website by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, the “Submissions”) is done at your own risk and without any expectation of privacy. We cannot control the actions of other users of the System or any social media platform and are therefore not responsible for any Submissions contained on a social media platform or website (or which are viewable on the System by other users). Additionally, by visiting any of our pages that are contained on any social media platform or website, you are representing and warranting to us that you have reviewed the applicable privacy policy and terms of use of such website or social media platform and that you will abide by all such provisions contained therein.
+
+Do Not Track. “Do Not Track” is a privacy preference that you can set in your Internet search browser that sends a signal to a website that you do not want the website operator to track certain browsing information about you. However, because our Site is not configured to detect Do Not Track signals from a user’s computer, we are unable to respond to Do Not Track requests. We track individual consumer’s online activities over time and across different Internet websites or online services when the consumer uses our Site.
+
+Retention. We retain your Personal Information for as long as necessary to fulfill the purpose for which we collected it. We may retain your Personal Information for longer if it is necessary to comply with our legal obligations or reporting obligations, resolve disputes, collect fees, etc. or as permitted or required by applicable law. We may also retain your Personal Information in a deidentified or aggregated form so that it can no longer be associated with you.
+
+To determine the appropriate retention period for your Personal Information, we consider various factors such as the amount, nature, and sensitivity of your information; the potential risk of unauthorized access, use or disclosure; the purposes for which we process your personal information; applicable legal requirements.
+
+Third Party Website Links. Certain portions of the System may include links to other internet sites or other third-party applications or systems as a convenience to System users. The inclusion of any link, or third-party applications or materials, does not imply our endorsement of any other company, its products, services or privacy practices. Furthermore, XPO cannot be responsible for personal information disclosed by you to third parties that you reach through links on the System. We encourage you to seek out and read the privacy policy of each website that you visit. In addition, should you happen to initiate a transaction on a linked website or third-party application, even if you reached such site or application through the System, the information that you submit to complete that transaction becomes subject to the privacy practices of the operator of the applicable website or third party application. You should read the privacy policies of each such website or application to understand how personal information that is collected about you is used and protected.
+
+Sweepstakes, Promotions, Contests and Surveys. On the System, you may wish to participate in online polls, surveys, contests, sweepstakes and other promotions that we may offer from time to time. Participation in these polls, surveys, contests, sweepstakes and promotions is completely voluntary; you have a choice about whether or not to disclose information required to enter. Information requested may include personal contact information such as your name, address, date of birth, phone number, mobile phone number, e-mail address, username, and/or similar information. In addition, as noted above, we may share this information with our affiliates, and other organizations or entities. Through these online polls, surveys and promotions, you may choose to participate in activities such as sharing information found on the System with others and sending email invitations. In connection with any online polls, surveys, contests, sweepstakes and other promotions that we may offer from time to time via the System, we use the information you provide to administer the polls, surveys, contests, sweepstakes and other promotions. Subject to applicable contractual or legal restrictions, we also may use the information to communicate with you, or the other people you select, about our services or our marketing partners may use such information to communicate with you about the online polls, surveys, contests, sweepstakes or other promotions or their products and services.
+
+Our Sites and Children. The content of our System is appropriate for, but not targeted to, children under the age of thirteen. XPO does not market products or services to this age group. The System is not intended for use by children under the age of thirteen; if you are aware of any use of the System (or any portion thereof) by a child under thirteen, please inform XPO immediately so that XPO can terminate such usage.
+
+Security. XPO takes commercially reasonable measures to secure and protect information transmitted via or stored on the System. However, no data transmission over the internet can be guaranteed to be 100% secure. As a result, XPO cannot ensure or warrant the security of any information transmitted to the System. You agree to immediately notify us of any breach of the System’s security, this Privacy Policy, or the Terms of Use of which you become aware.
+
+Applicable law. This Policy is governed by the laws of the State of Delaware, without regard to its conflict of laws principles. Jurisdiction for any claims arising under or out of this Policy shall lie exclusively with the state and federal courts within Delaware. If any provision of this Policy is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Policy, which shall remain in full force and effect.
+
+Notice to Site Users Located Outside the U.S. If you are visiting the System, or any part thereof, from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using any portion of the System, you understand and consent to the transfer of your information to our facilities in the United States and those third parties with whom we share it as described in this Privacy Policy.
+
+Ongoing Communications. The System may provide you with the opportunity to elect to receive future communications about XPO products and services. If you authorize these communications, we may contact you periodically with such information. However, if you later change your mind and would like to stop receiving such communications, please contact us at the address listed below and let us know that you would like to be removed from all further communications or click the link at the bottom of any email you receive from us and follow the instructions. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process. Please note that even if you opt-out as described above, XPO may retain your collected information (including Personal Information) for analytical purposes and other internal purposes, including an ability to reconnect you with such information if you later opt-in to any services or functionalities provided via the System.
+
+To opt-out of marketing communications, please contact us at: privacy@lamina1.com.
+
+Contact Us. If you have additional questions, you may call us at
+XPO, Inc.
+Attn: Chief Legal Officer and Corporate Secretary
+179 Lincoln Street
+Boston, MA 02111
+
+Changes to this Policy. This Privacy Policy describes XPO’s current data protection policies and practices. The most recent version of the Privacy Policy is reflected by the version date located at the bottom of this Privacy Policy. All such updates and amendments are effective immediately upon notice thereof, which we may give by any means, including, but not limited to, by posting a revised version of this Privacy Policy or other notice on the Site and the Mobile Applications. You should view this Privacy Policy often to stay informed of changes that may affect you, as your continued use of the System signifies your continuing consent to be bound by this Privacy Policy. We expressly reserve the right to update this Privacy Policy periodically and without prior notice to you to reflect changes in those policies and practices. Our electronically or otherwise properly stored copies of this Privacy Policy shall be deemed to be the true, complete, valid, authentic, and enforceable copy of the version of this Privacy Policy which were in force on each respective date you visited the System. This Privacy Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party other than XPO.
+
+Notice to California Residents
+
+Eraser Law. If you are a California resident under the age of 18, and a registered user of any Site where this Policy is posted, California law permits you to request and obtain removal of content or information you have publicly posted. You may submit your request using the contact information in this Policy. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+
+California Consumer Privacy Act. The section concerning the California Consumer Privacy Act applies solely to individuals who are residents of the State of California (“consumers” or “you”), as required under the California Consumer Privacy Act, as amended (“CCPA”). The other provisions of the Policy continue to apply, except as modified in this California section.
+
+This CCPA section describes our policies and practices regarding the collection, use, and disclosure of personal information we collect about you, including personal information we obtain when you access or use the Site or System, or through other channels including but not limited to visiting one of our locations, phone and email conversations, attending our events, social media interactions on our websites and other third party websites such as social media sites, viewing our emails, or through our authorized services providers.
+
+This CCPA section supplements and amends the information contained in the Policy with respect to California residents. Any terms defined within the CCPA have the same meaning when utilized within this CCPA section. All other terms shall have the meaning set forth in the Policy or Terms of Use as applicable. The other provisions of the Policy continue to apply except as modified in this CCPA section.
+
+Please read this CCPA Section carefully before using the Site, System, or otherwise submitting information to us. By accessing or visiting the Site or System or otherwise submitting information, you indicate your understanding that the collection, use, and disclosure of your information is subject to the terms of this CCPA section.
+
+IF YOU DO NOT CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS CCPA SECTION, PLEASE DO NOT PROVIDE US WITH SUCH INFORMATION.
+
+Business or Commercial Purpose for Selling or Sharing Personal Information. We may sell or share collected personal information and/or have sold or shared collected personal information in the preceding 12 months to the following categories of third parties for the purposes listed below. Under the CCPA, “selling” means an exchange of personal information for monetary or other valuable consideration. “Sharing” means making available a consumer’s personal information to a third party for cross-context behavior advertising, whether or not for monetary or other valuable consideration.
+
+| Categories of Personal Information Shared or Sold
+| Categories of Third Parties to Whom Sold or Shared and Purpose
+| Business of Commercial Purpose for Selling or Sharing
+IP address
+
+Internet service provider
+
+Name and version of operating system
+
+Name and version of browser
+
+Date and time XPO site visited
+
+Browsing and search history (including but not limited to how long you stay on each page, links you click on or hover over, selections you make on a mobile application of the XPO site, features you use, and preferences you set)
+
+General physical location
+- Successors to all or portions of our business.
+
+- Analytics vendors.
+- As part of a sale or merger of our assets, or in preparation for such.
+
+- For data analytics.
+
+- For marketing and advertising purposes, including retargeting
+
+We do not have actual knowledge that we have sold or shared the personal information of minors under the age of 16.
+
+We do not use or disclose your sensitive personal information for purposes that, with limited exceptions, are not necessary in order to provide our products and services as are reasonably expected by an average consumer requesting those goods and services.
+
+Consumer Rights. California residents have the following rights with respect to the personal information we collect about them. Exceptions may apply.
+
+Right To Know About Personal Information Collected or Disclosed. We generally describe in this Privacy Policy our current and practices for the prior 12 months related to the categories of personal information we collect, how we collect and use the personal information, and how we disclose your personal information. In addition to what is described above, as a California resident, you also have the right to request more information regarding the following topics for the preceding 12 months, to the extent applicable:
+
+• the categories of personal information,
+• the categories of sources from which the personal information is collected,
+• the business or commercial purpose for collecting, selling, or sharing personal information, if
+applicable,
+• the categories of third parties to whom the business discloses personal information, and
+• the specific pieces of personal information the business has collected about you.
+
+Upon receipt of a verifiable consumer request (see below), and as required by the CCPA, we will provide a response to such requests. Any disclosures we provide will only cover the 12-month period preceding the receipt of your verifiable consumer request. With respect to personal information collected on and after January 1, 2022, and to the extent expressly required by applicable regulation, you may request that such disclosures cover a period beyond the 12 months referenced above, provided doing so would not require a disproportionate effort by us.
+
+Right To Request Deletion of Personal Information. You have the right to request that we delete the personal information we collected or maintained about you. Once we receive your request, we will let you know what, if any, personal information we can delete from our records, and we will direct any service providers and contractors with whom we disclosed your personal information to also delete your personal information from their records.
+
+There may be circumstances where we cannot delete your personal information or direct service providers or contractors to delete your personal information from their records. Some of these instances include, but are not limited to, if we need to:
+
+• Complete the transaction for which the personal information was collected, provide a good or service requested by you, or reasonably anticipated by you within the context of our ongoing business relationship with you, or otherwise perform a contract between the Company and you.
+• Help to ensure security and integrity to the extent the use of the consumer's personal information is reasonably necessary and proportionate for those purposes.
+• Debug to identify and repair errors that impair existing intended functionality.
+• Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
+• Comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
+• Engage in public or peer-reviewed scientific, historical, or statistical research that confirms or adheres to all other applicable ethics and privacy laws, when the Company's deletion of the information is likely to render impossible or seriously impair the ability to complete such research, if you have provided informed consent.
+• To enable solely internal uses that are reasonably aligned with your expectations based on your
+relationship with the Company and compatible with the context in which the consumer provided the information.
+• Comply with a legal obligation.
+
+Upon receipt of a verifiable consumer request (see below), and as required by the CCPA, we will provide a response to such requests.
+
+Right to Request Correction. You have the right to request that the Company correct any inaccurate personal information we maintain about you, taking into account the nature of that information and purpose for processing it. Upon receipt of a verifiable consumer request (see below), and as required by the CCPA, we will provide a response to such requests.
+
+Right to Opt Out of Having Your Information Sold or Shared. You have the right, subject to certain limitations, to opt-out of having your personal information sold or shared. You may exercise this right by clicking on the applicable prompt when accessing XPO’s website.
+
+Right to Non-Discrimination for the Exercise of Your Privacy Rights. We will not discriminate against you for exercising any of your rights under the CCPA, as described above. This includes but is not limited to: (A) denying good or services to you; (B) charging you different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; (C) providing a different level or quality of goods or services; or (D) suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services. It also includes an employee’s, applicant’s, or independent contractor’s right not to be retaliated against for the exercise of their CCPA rights.
+
+Submitting Consumer Rights Requests.
+
+How to submit. To submit a California Consumer Rights request as outlined in this CA Addendum, please contact the Company by calling us at 1 (877) 255-9930 or emailing us at ccparequest@XPO.com. We reserve the right to only respond to verifiable consumer requests to know, delete, or correct. A verifiable
+consumer request is one made by any individual who is:
+
+• the consumer who is the subject of the request,
+• a consumer on behalf of the consumer’s minor child, or
+• the authorized agent of the consumer.
+
+What to submit. If we request, you must provide us with sufficient information to verify your identity and/or authority to act on behalf of a consumer. In general, we may ask you to provide identifying information that we already maintain about you or we may use a third-party verification service. In either event, we will try to avoid asking you for sensitive personal information to verify your identity. We may not be able to respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. However, making a verifiable consumer request does not require you to create an account with us.
+
+Additionally, you will need to describe your request with sufficient detail to allow us to review, understand, assess, and respond. We will not use the personal information we collect from an individual to determine a verifiable request for any other purpose, except as required or permitted by law.
+
+Our response. We reserve the right to charge a fee to process or respond to your request if it is excessive, repetitive, or manifestly unfounded. If we determine that a request warrants a fee, we will attempt to notify you as to why we made that decision and provide a cost estimate before completing your request. We will endeavor to respond to a verifiable consumer request within forty-five (45) calendar days of receipt, but we may require an extension of up to forty-five (45) additional calendar days to respond and we will notify you of the need for the extension.
+
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option. The response we provide will also explain the reasons we cannot comply with a request, if applicable. To the extent permitted by the CCPA, we will respond to no more than two requests during any 12-month period.
+
+Authorized Agent. You may authorize a natural person or a business (the Agent) to act on your behalf with respect to the rights under this CA Addendum. When you submit a Request to Know, Correct, or Delete, the Agent must provide proof that you gave the Agent signed permission to submit the request, and you either must (i) verify you own identity with the business or (ii) directly confirm with us that you provide permission to the Agent. However, these steps are not required when you have provided the authorized agent with power of attorney pursuant to Probate Code sections 4000 to 4465. We reserve the right to deny requests from persons or businesses claiming to be authorized agents that do not submit sufficient proof of their authorization.
+
+Questions. If you have questions about this CA Policy, please contact us at:
+
+privacy@XPO.com, or
+
+XPO, Inc.
+Attn: Chief Legal Officer and Corporate Secretary
+179 Lincoln Street
+Boston, MA 02111
+
+Acknowledgement.
+
+BY ACCESSING OR USING THE SYSTEM, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO THE PRIVACY POLICY, AND TO THE USES AND DISCLOSURES OF COLLECTED INFORMATION ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THE TERMS OF USE REFERENCED ABOVE
+
+Effective Date: June 26, 2023

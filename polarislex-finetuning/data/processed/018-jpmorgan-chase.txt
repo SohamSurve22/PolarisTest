@@ -1,0 +1,315 @@
+Newsletters
+
+# Privacy policy
+
+Last Updated September 2025
+
+## Privacy principles
+
+Your privacy is important to us. This Online Privacy Policy explains what and how we collect, share, use, and protect your personal information when you visit or use this and other online services offered by the JPMorgan Chase & Co. family of companies (“J.P. Morgan”) that link to or reference this Policy (collectively, our “online services”). Contact details are provided below. Other privacy principles or policies could apply depending on how you interact with us, the financial products or services you may ultimately obtain from us, or the jurisdiction in which we are doing business with you. For example, if you are a California resident, you may have rights under the California Consumer Privacy Act as described in our CCPA disclosure. You can access many of these policies using the links at the bottom of this page.
+
+-
+### We work hard to protect your information.
+
+We take our responsibility to protect the privacy and confidentiality of your information, including personal information, very seriously. We maintain physical, electronic and procedural safeguards that comply with applicable legal standards to secure such information from unauthorized access and use, accidental or unlawful alteration and destruction, and other unlawful or unauthorized forms of Processing. We hold our employees accountable for complying with relevant policies, procedures, rules and regulations concerning the privacy and confidentiality of information.
+
+-
+### We want you to understand the type of information we collect and how we use it.
+
+- The types of personal information we collect from you when you visit or use our online services include your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a zip code to help you find a J.P. Morgan office near you), user name and password. We may also collect payment card information, Social Security numbers, driver’s license numbers (or comparable), gender, race, nationality, and biometric identifiers when you provide it directly to us while using our online services and where we believe it is reasonably required for ordinary business purposes. In some instances, we create personal information about you, such as records of your interactions with us, and details of your accounts. We do not seek to collect or process sensitive personal information unless it is required or permitted by law; necessary for the detection or prevention of crime; necessary to establish, exercise or defend legal rights; or we have your prior explicit consent.
+
+- In addition to the personal information described above, we collect certain information about your use of our online services. For example, we capture the IP address of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, and the site you visit next. As explained in more detail in our Cookies Policy, we and our third-party partners use cookies (as well as web beacons or other technologies) to collect and store this and other information about your visit to, or use of, our online services. We may later associate the usage and other information we collect online with personal information about you, as permitted or required by law.
+
+Link to Cookies policy
+
+- We sometimes collect information about you from additional online and offline sources including social media (to the extent you choose to make your personal information public) and commercially available third-party sources, such as credit reporting agencies. We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy.
+
+- Where we are required to establish a legal basis to process your personal information as described in this Online Privacy Policy, we will do so on the basis that we have obtained your prior express consent to the processing; we have a legitimate business interest in the processing that is not overridden by your interests, fundamental rights, or freedoms; or the processing is needed to comply with applicable law, to perform under your contract(s) with us, or to protect the vital interests of any individual.
+
+- We use and otherwise process the information we collect from you to help us deliver our online services; to administer, evaluate and improve our business (including developing new products and services, improving existing products and services, performing data analytics and other research tasks, communicating with you via any means, and performing accounting, auditing and other internal functions); manage our risks; to market our services and products; and to comply with and enforce applicable laws and regulations, relevant industry standards, contractual obligations and our policies. We also use data that we collect on an aggregate or anonymous basis (such that it does not identify any individuals or clients) for various business purposes, where permissible under applicable laws and regulations.
+
+-
+### We aim to collect only what we need, keep it up-to-date and remove it when we no longer need it.
+
+- We take reasonable steps to ensure that the personal information we process is limited to what we require in connection with the purposes set out in this Policy; it is accurate and, where necessary, kept up to date; and it is erased or rectified without delay if it is inaccurate. From time to time we may ask you to confirm the accuracy of your personal information.
+
+- For some of our online services, you can review or update certain account information by logging in and accessing the “Client Center” or a similar user profile section. If you cannot change the incorrect information online, or you prefer to request changes offline, please contact your J.P. Morgan representative using the contact information listed on your account statements, records, or other account materials.
+
+- We will retain copies in a form that permits identification for as long as we deem necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we will retain personal information for as long as it is needed to establish, exercise or defend any legal rights.
+
+-
+### We respect and protect your privacy even when you’re on the go.
+
+- For your convenience, J.P. Morgan offers you the ability to access some of our products and services through mobile applications and mobile-optimized websites. When you interact with us through your mobile device, we collect information such as unique device identifiers, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device. We typically ask your permission before collecting certain information such as precise geolocation information.
+
+-
+### We share personal information with affiliates and with others when we believe it will enhance the services and products we can provide to you or for legal and routine business reasons.
+
+- We share personal information among our affiliates and business units when we believe it will enhance the services we can provide, but only in circumstances where such sharing conforms to law, any applicable confidentiality agreements, and our policies and practices. Additionally, we reserve the right to share your personal information in connection with a corporate change including a merger, acquisition or sale of all or any relevant portion of our business or assets.
+
+- We disclose information we have about you as required or permitted by law. For example, we share information with regulatory authorities and law enforcement officials when we believe in good faith that such disclosure is necessary to comply with legal requirements.
+
+- We share information with third parties where appropriate to protect against fraud or verify or enforce our terms of use, our other rights, or other applicable policies.
+
+- From time to time, we enter into agreements with other companies to provide services to us, or to make services and products available to you. If these companies receive your personal information, they are required to safeguard it and only use it for those purposes we specify.
+
+- J.P. Morgan believes that keeping your information secure and private is important, particularly when using third-party websites and applications that can help you invest or manage your finances. In partnering with Intuit, which provides the aggregation service Mint, J.P. Morgan has taken measures to keep your logon information secure and private. When you are prompted to provide your J.P. Morgan user ID and password to Mint, you will be entering your information directly into a J.P. Morgan protected site. Mint will not see or be able to store your user ID and password, and will only require a single logon for all of your devices and browsers to work.
+
+- We can share your personal information with any person or entity if we have your consent to do so.
+
+-
+### We transmit, transfer or process information to, or through, other countries in the world, as we deem necessary, appropriate or consistent with legal or regulatory obligations.
+
+- As a global company, we strive to provide you with access to the highest quality financial products and services wherever you are. To do this, we sometimes share your personal information among members of the JPMorgan Chase & Co. family of companies or service providers and other third parties that are located outside your home country. These countries may have different laws and data protection compliance requirements, with some providing more protection than others. J.P. Morgan will take appropriate steps to ensure your personal information is handled as described in this Online Privacy Policy.
+
+- Where required, we comply with applicable legal frameworks relating to the transfer of personal information. For example, under the European rules designed to adequately protect personal information transferred outside the European Economic Area we transfer personal information on the basis of determinations by the European Commission that certain countries adequately protect personal information, our Binding Corporate Rules, approved Model Contractual Clauses, and other valid transfer mechanisms.
+
+-
+### We respect your rights concerning the processing of personal information and provide you with relevant and appropriate choices.
+
+### Depending on how and where you interact with us, you may have a right to one or more of the following with respect to your personal information we process or control:
+
+- request access to, or copies of, your personal information, together with details about how we process it;
+
+- request rectification of any inaccuracies;
+
+- request erasure or restriction of Processing;
+
+- object to processing by us or on our behalf;
+
+- have personal information transferred to another party;
+
+- withdraw consent to processing; and
+
+- lodge complaints with a data protection authority regarding any processing by us or on our behalf.
+
+- To exercise one or more of these rights or to ask a question about them, please use the contact details provided below.
+
+- In addition to the rights you have under applicable data protection laws, we may give you choices regarding the sharing of personal information with affiliates and third parties based on your relationship(s) with us as a financial institution. Choices you have about the sharing of your personal information will be described in the privacy policies or notices you receive from us, such as those provided in connection with particular financial products or services you obtain from us.
+
+- We respect your decisions about the collection of personal information related to your online activities over time and across different websites for advertising purposes.
+
+-
+J.P. Morgan does not allow unaffiliated third parties to collect personal information about your online activities when you visit our online services. Nor do we use personal information collected across non-affiliated websites for the purpose of serving you advertising related to your browsing behavior. If we engage in this practice in the future, we will provide appropriate notice and choice so that you can opt-out of the practice.
+
+- We tell you when our privacy policies and practices change.
+
+- We want to hear from you if you have questions.
+
+- If you have any comments, questions or concerns about any of the information in this Online Privacy Policy, or any other issues relating to the processing of your personal information by J.P. Morgan under this Policy, please contact your regular J.P. Morgan client service contact, or:
+
+Firmwide Privacy Office, JPMorgan Chase & Co.
+
+277 Park Avenue, New York, NY 10172
+
+Email: jpmc.cpo@jpmchase.com
+
+## Related links
+
+- J.P. Morgan Wealth Management U.S. Privacy Notice (clients served by Wealth Partners or Wealth Advisors)
+
+- JPMorgan Chase Bank N.A. – Philippine Global Service Centre Privacy Notice
+
+- J.P. Morgan Securities Philippines, Inc. - Supplement to Privacy Policy
+
+- JPMorgan Chase Bank, N.A. Manila Branch - Supplement to Privacy Policy
+
+- JPMorgan Chase Philippine Services, Inc. – Supplement to Privacy Policy
+
+- Latin America Private Bank Privacy Notice
+
+- Política de Privacidade para área de Private Bank na América Latina
+
+- Aviso de Privacidad de la Banca Privada de América Latina
+
+- J.P. Morgan Brazil General Data Protection Law Privacy Policy for Corporate & Investment Bank, Commercial Banking, Asset Management and Private Bank
+
+- California Consumer Privacy Act
+
+- J.P. Morgan Private Bank Privacy Notice for U.S. Clients
+
+- Cayman Islands Data Protection Law Privacy Notice for Asset & Wealth Management Clients
+
+- J.P. Morgan Privacy Statement for Merchant Services
+
+- J.P. Morgan EMEA Privacy Policy for Asset Management
+
+- J.P. Morgan EMEA Privacy Notice for Private Bank
+
+- J.P. Morgan APAC Privacy Notice for Private Bank
+
+- J.P. Morgan APAC Privacy Notice for Private Bank (Bahasa Indonesia)
+
+- J.P. Morgan EMEA Privacy Policy for Corporate & Investment Bank and Commercial Bank (includes EU, UK, MENA, South Africa, Cayman Islands, and other jurisdictions)
+
+- JPMorgan Binding Corporate Rules for Controllers (UK)
+
+- JPMorgan Binding Corporate Rules for Controllers (EU)
+
+- J.P. Morgan Privacy Policy for use in its New Zealand Operations
+
+- J.P. Morgan Privacy Policy for use in its Australian Operations
+
+- J.P. Morgan Canada Privacy Notice
+
+- Privacy Policy of JPMorgan Chase Bank N.A., Mumbai Branch, J.P. Morgan India Private Limited, J.P. Morgan Securities India Private Limited and J.P. Morgan Advisors India Private Limited
+
+- J.P. Morgan Asset Management Hong Kong Personal Data Privacy Statement
+
+- J.P. Morgan Privacy Policy for Singapore
+
+- JPMorgan South Africa (JPMSA) Privacy Notice Addendum
+
+- JPMorgan South Africa PAIA POPIA Manual
+
+- J.P. Morgan Privacy Policy for Thailand
+
+- J.P. Morgan Mexico Privacy Notices
+
+- JPM CIB – GLBA Privacy Policy
+
+- GLBA Privacy Policy Pre-Paid Card – English
+
+- GLBA Privacy Policy Pre-Paid Card – Spanish
+
+- eCast – GLBA Privacy Notice
+
+- Biometric Data Privacy Policy for the Chase Biometrics Product
+
+- GLBA Privacy Policy Chase Biometrics
+
+## Local country privacy information
+
+## Brazil
+
+If you would like to contact the J.P. Morgan Data Protection Officer for Brazil, please send an email to or via post to / Caso queira contatar a Encarregada de Proteção de Dados do J.P. Morgan Brasil, envie um email ou correspondência para:
+
+Solange Mendonça
+
+Email: Brasil.DPO@jpmchase.com
+
+Address / Endereço: Avenida Brigadeiro Faria Lima 3729, 10 Andar - Sao Paulo/SP, 04538--905, Brasil
+
+Related Links
+
+- J.P.Morgan Brazil General Data Protection Law Privacy Policy for Corporate & Investment Bank, Commercial Banking, Asset Management and Private Bank / Política de Privacidade do J.P. Morgan para o Corporate & Investment Bank, Commercial Banking, Asset Management e Private Bank- Lei Geral de Proteção de Dados
+
+#### 1. Introduction
+
+This Policy applies to J.P. Morgan Services India Private Limited (referred to as “JPMSIPL”).
+
+As per the requirements of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 ("RSP Rules") this Policy outlines the manner in which the Personal Information or Sensitive Personal Information will be handled or dealt with by JPMorgan India.
+
+JPMSIPL recognizes the importance of Personal Information including Sensitive Personal Data or Information (defined in Clause 2 below), provided to it by natural persons (Information Providers defined in Clause 2 below), under lawful contract and the trust they place with respect to maintaining the security of this information. With respect to Personal Information including Sensitive Personal Data or Information (SPDI), JPMSIPL will take reasonable steps to keep such information confidential and may share it with affiliates and third parties on a need-to-know basis under appropriate arrangements.
+
+You agree and confirm that JPMSIPL may collect, store, process, disclose and transfer the Personal Information including SPDI collected about you to any of its affiliates, agents or third party service providers in connection with the products or services you have sought from, or your employment with JPMSIPL or to provide better services to you or to ensure compliance with a legal or contractual obligation of JPMSIPL. The purpose for which JPMSIPL would collect and use your SPDI includes instances set out in Clause 3.2 below. The types of third parties (whether in India or overseas) that your SPDI could be disclosed to, includes the types of third parties mentioned at Clause 5 below. You confirm that the SPDI so far collected, stored, processed, disclosed and transferred by JPMSIPL in the course of your employment for the above purposes shall continue to be used by JPMSIPL strictly in accordance with the applicable laws.
+
+#### 2. Definitions
+
+2.1 Personal Information (the “PI”) - for the purposes of this Policy, refers to any information that relates to a natural person which either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person such as name or address and to be read with the relevant internal policies including the Global/Regional Privacy policies.
+
+2.2 Sensitive Personal data or information of a person (the “SPDI”) - for the purposes of this Policy, shall be the same as defined in the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (the “SPDI Rules”), as amended from time to time. i.e.
+
+(i) Password;
+
+(ii) Financial information such as Bank account or credit card or debit card or other payment instrument details;
+
+(iii) Physical, physiological and mental health condition;
+
+(iv) Sexual orientation;
+
+(v) Medical records and history;
+
+(vi) Biometric information;
+
+(vii) Any detail relating to the above clauses as provided to us for providing services; and
+
+(viii) Any of the information received under any of the above clauses by us for processing, storing or processing under lawful contract or otherwise.
+
+Provided that any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as Sensitive Personal Information for the purposes of this Policy.
+
+2.3 Information Provider - for the purpose of this Policy, refers to a natural person or individual who provides PI or SPDI to JPMSIPL. In this Policy, the Information Providers are referred to as "You".
+
+#### 3. Purpose of collection and use of SPDI
+
+3.1. JPMSIPL will ordinarily collect Personal Information including SPDI that it believes is necessary for any purpose connected with a function or activity necessary to deliver, promote or market services or to carry out primary business functions and/or activities, comply with applicable regulations or in the capacity as an employer or a counterparty to agreements with individuals. Ordinarily, JPMSIPL will only collect such SPDI about you when you provide it or you have consented to provide the information or where it is required by law.
+
+JPMSIPL will collect such information from you in the course of your employment and use the information during the tenure of your employment. Any such information collected will be kept confidential.
+
+3.2. In general, we would be collecting/handling/ storing/ using or transferring your SPDI for the following, including but not limited to:
+
+3.2.1 complying with legislative and regulatory requirements
+
+3.2.2 providing a service to you
+
+3.2.3 maintaining an employment relationship with you:
+
+3.2.4 performing administrative functions; and
+
+3.3 The SPDI collected from you may be collected and/or retained either directly by JPMSIPL or through or with an affiliate or third party.
+
+JPMSIPL, its affiliates and third parties it shares SPDI with, will retain the SPDI for a reasonable period for the purposes for which such information has been collected and as may be lawfully used or is otherwise required under any law for the time being in force.
+
+The SPDI collected shall be used for the purpose for which it has been collected.
+
+You have the option not to provide JPMSIPL with the SPDI sought to be collected. You also have the option to withdraw the consent given earlier, provided it is sent to us in writing. In the event SPDI which JPMSIPL deems necessary for providing you with any service is not provided or if consent is withdrawn subsequently, JPMSIPL reserves the right not to provide you with such services/ benefits/ amenities and take any other action in this regard on just and reasonable grounds.
+
+#### 4. Personal Information including SPDI about third parties
+
+While providing Personal Information including SPDI of another natural person (particularly of spouse, children or parents) to JPMSIPL, please ensure that you have the necessary concurrence of that natural person.
+
+#### 5. Disclosure of Sensitive Personal Information
+
+5.1 In general, JPMSIPL will not use or disclose SPDI collected about you to a third party otherwise than for the purposes set out in this Policy, unless the disclosure is necessary for compliance of a legal obligation or where it is agreed to in the contract with you or as consented by you and supported by a valid non-disclosure contract or provisions in the legal contract.
+
+5.2 Provided that such information shall be shared without your consent, with government agencies mandated under law to obtain information including SPDI for the purpose of verification of identity or for prevention, detection, investigation including cyber incidents, prosecution and punishment of offences or any law enforcing authorities.
+
+5.3 Notwithstanding anything contained in the preceding paragraphs of this section, any SPDI shall be disclosed to any third party by an order under a law for the time being in force.
+
+5.4 You authorize JPMSIPL to disclose necessary SPDI to certain employees, consultants, employees or consultants, of JPMSIPL affiliates, agents or third party service providers within India or outside India who provide services to JPMSIPL in connection with the services you have sought from, or, your employment with, JPMSIPL, on a need-to-know basis. These parties shall use your SPDI only for the specific purpose for which JPMSIPL supplies the SPDI to them and from disclosing it further.
+
+5.5 Subject to what is permitted by law, the types of third parties (whether in India or overseas) your SPDI could be disclosed to may include:
+
+5.5.1 agents, contractors, service providers, insurers and external advisers engaged by JPMSIPL from time to time to carry out, provide services or advise on the functions and activities;
+
+5.5.2 other related bodies corporate /affiliates of JPMSIPL;
+
+5.5.3 any person or organization who introduces you to JPMSIPL;
+
+5.5.4 regulatory bodies, government agencies, law enforcement bodies and courts;
+
+5.5.5 any person or organization who JPMSIPL deems necessary for carrying out the instructions you give to JPMSIPL; and
+
+5.5.6 any prospective transferee in a scheme of arrangement, amalgamation, merger or sale of shares or sale of business relating to the whole or part of JPMSIPL.
+
+#### 6. Transfer of Sensitive Personal Information
+
+JPMSIPL may transfer your SPDI to any person or entity, whether in India or located in any other country, that ensures a similar level of data protection as JPMSIPL employs when it is necessary for the performance of a lawful contract with you or where you have consented to such transfer.
+
+#### 7. Access to your Sensitive Personal Information
+
+You may review and correct or revise the Personal Information including SPDI you have provided to us for the purpose of ensuring the said information is accurate. JPMSIPL shall not be responsible for the authenticity of the information you have supplied to it or to any person acting on its behalf.
+
+JPMorgan India may not be able to provide access to information which is not directly provided by you. JPMorgan India may charge you a fee for accessing your SPI.
+
+#### 8. Information Security Standard for SPDI at JPMSIPL
+
+JPMSIPL operates in an environment that is similar to the requirements of ISO/IEC 27001 Security Standards for ensuring that the SPDI it holds is protected from misuse, loss and unauthorized access, modification or disclosure.
+
+#### 9. Grievance handling
+
+You may contact the Grievance Redressal Officer (GRO), who is the designated grievance officer, for any grievances with respect to processing your Sensitive Personal Information. JPMSIPL will make every effort to resolve your grievance expeditiously.
+
+Name of GRO: Kesavan Narayanan
+
+Email: kesavan.narayanan@jpmorgan.com
+
+#### 10. Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. Your continued engagement with us will indicate your acceptance of such changes. Employees may at any time access a current version of the Privacy Policy from the Intranet.
+
+JPMSIPL encourages you to review the Privacy Policy periodically for updations, if any.
+
+#### 11. Need more information?
+
+If you have a query concerning how your SPDI is collected and used or in relation to JPMorgan's Privacy Policy or there are any discrepancies in regard to your SPDI and needs an updation, please contact Access HR.

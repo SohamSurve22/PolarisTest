@@ -1,0 +1,826 @@
+# UNFI Privacy Policy
+
+Last updated: March 06, 2026
+
+We value the privacy of our customers’ information at United Natural Foods, Inc. and its affiliates and subsidiaries (collectively, “UNFI,” “we,” “us,” and “our”) and we are always striving to make our customer experience better. This online privacy policy (the “Privacy Policy”) describes our information practices and, in particular, how we collect, use and share the Personal Information that we gather through our Services, as defined below. If you have any questions about this Privacy Policy or our information practices, please contact us through the options provided below.
+
+- UNFI as a Service Provider
+
+- You Consent to This Policy
+
+- Who We Are
+
+- Selected Definitions
+
+- How We Collect and Use Personal Information
+
+- How We Share and Disclose Personal Information
+
+- How Long Your Personal Information Is Kept
+
+- Where Your Personal Information Is Held
+
+- Quebec User Rights
+
+- European User Rights
+
+- Your Privacy Rights
+
+- Supplemental Provisions for California Residents
+
+- Links to Other Websites
+
+- Updates to the Privacy Policy
+
+- Managing Communication Preferences
+
+- Shine the Light Disclosure
+
+- Children’s Privacy
+
+- Our Commitment to Data Security
+
+- Contact
+
+## 1. UNFI as a Service Provider
+
+In providing our Services, UNFI may collect Personal Information on behalf of and as a service provider for third parties. This Policy does not govern information we collect on behalf of third parties, and you should consult their privacy policies to become familiar with their data collection and usage practices.
+
+## 2. You Consent to This Policy
+
+BY USING OUR SERVICES, YOU CONSENT TO THE INFORMATION PRACTICES AND OTHER TERMS AS DESCRIBED IN THIS PRIVACY POLICY. YOU SHOULD READ THIS PRIVACY POLICY CAREFULLY. WE MAY ADD TO, DELETE OR CHANGE THE TERMS OF THIS PRIVACY POLICY FROM TIME TO TIME BY POSTING A NOTICE OF THE CHANGE OR AN AMENDED PRIVACY POLICY ON OUR SITES. YOUR CONTINUED USE OF THE SERVICES IS DEEMED TO BE ACCEPTANCE OF SUCH CHANGES.
+
+## 3. Who We Are
+
+We are UNFI. We own and operate the following supermarket chains: Cub Foods and Shoppers Food Warehouse Corp. (the “Corporate Stores”). This Privacy Policy applies to the Services owned and operated by UNFI and our Corporate Stores.
+
+We have franchise and wholesale relationships with a network of independent retailers that independently own and operate their grocery stores (“Independent Stores”), but who may license the use of a brand name that we own or use our wholesale distribution network. This Privacy Policy does not apply to these Independent Stores or to the websites, mobile apps or other digital properties that are owned or operated by those Independent Stores. Please see the privacy policy posted on those digital properties to understand the Independent Store’s information practices. This Privacy Policy does not apply to the information practices of the Independent Stores.
+
+## 4. Selected Definitions
+
+When we use the term “Services” in this Privacy Policy, we mean the Sites, mobile apps, and other digital properties that are owned and operated by UNFI and its Corporate Stores and that link to this Privacy Policy. Services also includes all of the ways with which you may interact directly with UNFI. The term does not include the websites, mobile apps and other digital properties that are owned by the Independent Stores. “Sites” means the websites that we own and operate including without limitation https://www.unfi.com/.
+
+“Personal Information” as used in this Privacy Policy, means any information that classifies as Personal Information, personal data, personally identifiable information, or similar terms under applicable data privacy and security laws and regulations. This includes any information that we directly associate with a specific person, or that reasonably can be used to identify a specific person.
+
+Personal Information does not include data excluded or exempted from those laws and regulations. Nothing in this Policy will constitute an admission or evidence that any particular data privacy or information security law or regulation applies to UNFI generally or in any specific context.
+
+## 5. How We Collect and Use Personal Information
+
+We collect Personal Information through our Services. Below describes what types of Personal Information we collect, why we collect it, and how we use it.
+
+### A. We Collect Information You Provide Through Our Services
+
+We collect information directly from you when you use our Services including Contact Information, Communications Information, and Device Access Information.
+
+#### i. Contact Information
+
+We collect your name, home address, personal phone number, personal email address, company name, company phone number, and company email address (“Contact Information”). We use your Contact Information for the purposes of contacting you to respond to your inquiries or requests.
+
+We collect this information when you provide it directly to us such as signing up for newsletters, requesting information about UNFI, creating an account or filling out a form. We may also collect Contact Information from third-party sources including loyalty and rewards program service providers, Independent Stores, and through single sign-on mechanisms.
+
+We collect this information for the purposes of advertising and marketing, analytics and research, and customer service. We may also use this information to provide you with coupons, programs, products or services that we believe may be of interest to you. Occasionally, we may use this information to alert you about a product safety announcement or recall or correction of an offer, promotion, or advertisement.
+
+We may share Contact Information with analytics providers, commercial platform providers, third party advertisers and marketing co-ops who may serve you targeted advertising.
+
+ii. Communications Information
+
+We collect your name, phone number, email, address, and communications preferences, including marketing preferences (which we use to manage how we engage with you) (“Communications Information”). We also collect the contents of your communications with us.
+
+We collect this information for the purposes of analytics and research and customer service.
+
+We may share Communications Information with service providers.
+
+#### iii. Text Opt-in Information
+
+We also collect your opt-in consent to receive marketing text messages from us through short codes or similar means (“Text Opt-in Information”).
+
+We collect Text Opt-in Information for internal use only. This use includes sending you text messages or push notifications when you sign up for one of our messaging programs. These messages may be sent by automated means. You may opt out of a text message program by following the instructions in the message or in the “Managing Communication Preferences” section below.
+We may share this information with our service providers who provide text message services.
+
+#### iv. Information Related to Eligibility for Certain Promotions
+
+We also collect your date of birth when we ask you to verify your age in connection with certain alcohol promotions. We collect this information to provide the promotions and comply with applicable laws. We do not share this information with third parties, but we may share this information with certain communications service providers.
+
+#### v. Research and Survey Information
+
+We also collect information you provide to us when you respond to marketing materials, promotions, contests, or other surveys (“Research and Survey Information”). We collect this information for the purposes of advertising and marketing, analytics and research, and customer service.
+
+We may share Research and Survey Information with analytics providers, third party advertisers and marketing co-ops who may serve you targeted advertising.
+
+#### vi. Device Access Information
+
+With your permission, we collect information from your device’s application such as the camera to allow you to scan barcodes to add items to your shopping list or your contacts to allow you to update your information (“Device Access Information”). We collect this information directly from you when you provide it to us with your permission. We may also collect this information from your contacts when you share it with us.
+
+We collect this information for the purposes of account creation and management, advertising and marketing, analytics and research, and customer service.
+
+### B. We Collect Information When You Shop at Our Stores or Our Partners’ Stores
+
+We collect certain information about you when you shop at our store including Commercial History, Payment and Commercial Information, and Limited Pharmacy Data.
+
+#### i. Commercial History
+
+When you shop at our stores, we collect your “Commercial History.” Commercial History includes information regarding the purchases you have made. Commercial History also includes your interests, purchase details and other transaction information, information about what products you viewed, what products you put into and take out of your shopping cart, when you browse items but do not make a purchase, and other interactions you have with our online product displays and descriptions.
+
+We collect this information directly from you, from business partners, or from our service providers. We may also collect Commercial History from third-party sources including independent retailers in our distribution network such as Independent Stores. We collect this information for the purposes of account creation and management, advertising and marketing, analytics and research, customer service, and website security and maintenance.
+
+We also use Commercial History to improve our e-commerce platform and your customer experience, to better understand and analyze our customer population, support our operations including inventory and product management, to deliver relevant offers and ads, and to improve our products and services including the Services. Additionally, we use Commercial History in combination with Contact Information to provide you with newsletters, articles, product or service alerts, new product or service announcements, savings awards, event invitations, and other information tailored to your interests or purchase behavior. We also use Commercial History in combination with Contact Information to conduct market research, surveys, and similar inquiries to help us understand trends and customer needs across product categories or customer groups.
+
+We may share Commercial History with business partners, analytics providers, commercial platform providers, third party advertisers and marketing co-ops who may serve you targeted advertising.
+
+ii. Payment and Commercial Information
+
+When you shop at our stores or provide a donation, we (or our service providers) collect “Payment and Commercial Information” which includes name, address, phone number, third party payment service provider-related information, debit or credit card information, or other payment processing information.
+
+We collect Payment and Commercial Information for the purposes of customer service, order fulfillment and confirmation, and administering the Services. Payment and Commercial Information may be shared with analytics providers, third party advertisers and marketing co-ops who may serve you targeted advertising.
+
+#### iii. Limited Pharmacy Data
+
+Some of our stores have an associated pharmacy. These pharmacies are not covered by this Privacy Policy. Rather, they have separately posted notices of privacy practices that describe how the pharmacies collect, use and disclose your protected health information and other Personal Information. Some pharmacies also provide booking options for certain appointments through platforms operated by the pharmacy’s service provider(s) or third-party partners. Personal Information submitted through those is subject to those service provider(s) or third-party partners’ applicable privacy policies.
+
+If your local store has a pharmacy, our mobile app includes a feature in which you can elect to submit a request to refill your prescription at the pharmacy. If you choose to use this feature, you will need to provide the last four digits of your phone number, the store where your prescription is being refilled and the prescription number (“Limited Pharmacy Data”). We will use Limited Pharmacy Data solely for refilling your prescription. We will disclose Limited Pharmacy Data for the purpose of providing you the services you request.
+
+### C. We Collect Information Automatically When You Use Our Services
+
+We collect certain information about you when you use our Services, including cookies and Chat Information.
+
+#### i. Interactive Chat Information
+
+When you use our ChatBot function, we collect “Chat Information.” Chat Information includes the contents of the conversation. We collect this information when you engage with the ChatBot on our Services. If you interact with the ChatBot on the Services we will record the conversation. Please note that the ChatBot is an automated program and not a real person, and information relating to your communications may be shared with our service provider.
+
+We collect Chat Information for the purposes of providing customer service, administering the Services, and identifying problems with our Sites.
+
+#### ii. Location Information
+
+We collect Location Information through the Services so we can offer you certain location-based services (such as delivering advertisements that are relevant to your particular location and conducting analytics to improve our stores and the Services) (“Location Information”).
+
+We use Location Information for the purposes of marketing and advertising and analytics and research. We may share Location Information with third party advertisers and analytics providers, who may use it to serve you targeted advertisements.
+
+#### iii. Cookies and Other Data Collection Technologies
+
+We may send one or more cookies to your computer or other device. We use cookies, web beacons, and similar technologies to manage our websites and email messages and to collect and track information about you and your activities online over time and across different websites and social media channels. We may also use other similar technologies such as tracking pixels, tags, or similar tools when you visit our Services.
+
+##### a. Cookies
+
+Cookies are small files created by websites, including our Services, that reside on your computer’s hard drive and that store information about your use of a particular website. When you access our Services, we use cookies and other tracking technologies to:
+
+- Estimate our audience size and usage patterns;
+
+- Store information about your preferences, allowing us to customize our Services according to your individual needs;
+
+- Contact you to provide you with information or services that you request from us;
+
+- Advertise new content, events, and services that relate to your interests;
+
+- Provide you with more personalized consent that is most relevant to your interest areas; and
+
+- Recognize when you return to our Services.
+
+We set some cookies ourselves and others are set by third parties. You can manage your cookies preferences as described in the “Managing Your Cookies” section below.
+
+##### b. Types of Cookies and Their Functions
+
+The following chart lists the different types of cookies and similar technologies that we and our service providers use on the Services, examples of who serves those cookies and links to the privacy notices and opt-out information of those cookie servers. Because the specific cookies we use may vary over time, as well as differ by the specific page you are browsing, the below chart is illustrative only. For disclosures specific to cookies on one of our Sites, please visit the “Your Privacy Choices” page in the in the footer or bottom right corner of the Site.
+Types of Cookies
+Purpose
+Who Serves
+
+(for example)
+Essential
+These cookies are required for the operation of the Services and enable you to move around the Services and use its features. Disabling these cookies can negatively impact the performance of Services.
+AT&T
+
+Field Day
+
+Google
+
+Happyfox
+
+Imperva
+
+Securiti
+
+Swiftly
+
+UNFI
+
+Wix
+Functionality
+These cookies are used to recognize you when you return to the Services. This enables us to personalize content for you and remember your preferences. These cookies also enable your interactions with the Services such as emailing us and customer support chat.
+Adobe
+
+Amazon
+
+CloudFlare
+
+Google
+
+Instacart
+
+jsDelivr
+
+Microsoft
+
+Simpli.fi
+
+Salesforce
+
+Smaato
+
+Snowplow
+
+Vimeo
+Analytics, Performance, and Research
+These cookies, beacons, and pixels allow us to analyze activities on the Services. They can be used to improve the functioning of the Services. For example, these cookies recognize and count the number of visitors and see how they move around the Services. Analytics cookies also help us measure the performance of our advertising campaigns to help us improve them and to optimize the content on the Services for those who engage with our advertising.
+Amplitude
+
+Criteo (Opt-out)
+
+FullStory (Opt-out)
+
+Google
+
+LinkedIn
+
+Microsoft
+
+NewRelic
+
+Salsify
+
+The TradeDesk
+Social Networking
+These cookies are used to enable you to share pages and content that you find interesting on our Services through third-party social networking and other websites. These cookies may also be used for advertising purposes.
+LinkedIn
+
+Meta
+
+Pinterest
+
+TikTok
+
+X
+Advertising
+These cookies and pixels are used to deliver relevant ads, track ad campaign performance, or track email marketing.
+Adapt MX
+
+AdForm
+
+Amazon
+
+Beeswax
+
+Casale Media
+
+CitrusAd
+
+Criteo
+
+Demand Base
+
+Equativ
+
+Eyeota
+
+FullStory
+
+Google
+
+IGM
+
+Index Exchange
+
+Krushmedia
+
+LinkedIn
+
+LiveRamp
+
+Lotame
+
+Meta
+
+Microsoft
+
+Neustar
+
+Nielsen
+
+Prebid
+
+Pubmatic
+
+Simpli
+
+Simpli.Fi
+
+SixDegrees
+
+Smaato
+
+Smatyads
+
+Sovrn
+
+Stackadapt
+
+TapAd
+
+The TradeDesk
+
+Temu
+
+TikTok
+
+Tower Data
+
+Verizon
+
+Wix
+
+Zandr
+
+Please note that we do not use any cookies, pixels, or other tracking devices that disclose to any third-party information that identifies a person as having viewed specific video materials.
+
+These technologies help us to recognize you, customize or personalize your shopping experience, store items in your online shopping list between visits, and analyze the use of our Services and solutions to make them more useful to you.
+
+##### c. Managing Your Cookies
+
+If you wish to exercise your Right to Opt-out, please visit our “Your Privacy Choices” page in the footer or bottom right corner of our Sites and follow the instructions in the pop-out to opt out of processing related to cookies and other related data collection technologies. To exercise your Right to Opt-out related to sale or sharing of your information associated with your loyalty account please visit our “UNFI Opt-out Preferences” page. Please note, however, that disabling our cookies may result in your inability to take full advantage of all of the features of, or access to, our Services.
+
+##### d. How We Use Cookies
+
+We may also use certain cookies or pixels that may collect Personal Information so that it can be used in connection with the marketing efforts of third parties. In those instances, your Personal Information may be used for third parties to serve unsolicited information, services, or products to you.
+
+##### e. Cookie Retention Period
+
+Some cookies operate from the time you visit the Services until the end of that particular browsing session. These cookies, which are called “session cookies,” expire and are automatically deleted when you close your Internet browser.
+
+Some cookies will stay on your device between browsing sessions and will not expire or automatically delete when you close your Internet browser. These cookies are called “persistent cookies” and the length of time they will remain on your device will vary from cookie to cookie. Persistent cookies are used for a number of purposes, such as storing your preferences so that they are available for your next visit and to keep a more accurate account of how often you visit the Services, how your use of the Services may change over time, and the effectiveness of advertising efforts.
+
+##### f. Site Response to “Do Not Track” Signals:
+
+Our Sites recognize the Global Privacy Control (GPC).
+
+### D. We Collect Information Directly from You When You Sign Up for an Account or Our Loyalty Programs
+
+#### i. Account Information
+
+We collect Contact Information (as described above) when you sign up for an account or fill out a form. We collect Contact Information as well as your age, information about your household, and your gender (collectively, “Account Information”) to create and administer your account, provide customer service, marketing and advertising, analytics and research, and customer service.
+
+Account Information may be shared with analytics providers, third party advertisers and marketing co-ops who may serve you targeted advertising.
+
+##### a. How to Deactivate Your Account
+
+If you use our mobile app, you may delete your account by following the instructions in the app. Please note that if you delete the account through the mobile app, your Personal Information will also be deleted and you may lose certain benefits or rewards that may have accrued.
+
+You may also deactivate your account at any time for any reason by contacting us in the following ways:
+
+Mailing Address:
+
+Attn: Customer Care Center
+
+421 3rd Street South
+
+Stillwater, MN 55082
+
+Email Address:
+
+For Cub accounts: mycub@cub.com
+
+For Shoppers accounts: myshoppers@shoppersfood.com
+
+#### ii. Loyalty Card Information
+
+We collect loyalty card information (“Loyalty Card Information”) which includes loyalty card number, phone number, Commercial History and Account Information. We use Loyalty Card Information to administer our loyalty and rewards programs and tailor our communications to you, including allowing you to create and maintain customer profiles, analyzing your interactions with us, presenting customized offers, and improving our products, services, and programs. We also use Loyalty Card Information to evaluate your shopping experience or existing products and services, or to create new items.
+
+We may share Loyalty Card Information, in combination with Account Information and Commercial Information, with analytics providers, third party advertisers, commercial platform providers, and marketing co-ops who may serve you targeted advertising.
+
+### E. Additional Uses of Personal Information
+
+In addition to the uses described above, we may use your Personal Information for the following purposes:
+
+- Administering sweepstakes and promotions or contacting you regarding a contest prize;
+
+- Preventing, investigating, or providing notice of fraud, unlawful or criminal activity, or unauthorized access to or use of Personal Information, our website or data systems; or to meet legal obligations. For example, this may include scanning a driver’s license for age verification when purchasing restricted products such as alcohol or tobacco; and
+
+- Enforcing our Terms of Use and other agreements.
+
+## 6. How We Share and Disclose Personal Information
+
+We share your Personal Information with third parties only in the ways described in this Privacy Policy. We may provide your Personal Information to service providers and other third parties in the following circumstances:
+
+### A. Service Providers
+
+We share your Personal Information with third party service providers who complete transactions or perform services on our behalf or for your benefit, such as for administering the loyalty and rewards programs, payment processing, marketing, analytics, or to verify customer data, such as mailing addresses.
+
+### B. Affiliates
+
+We collect Personal Information from and may share your Personal Information with our business partners and affiliated legal entities within the UNFI family of companies for purposes and uses that are consistent with this Privacy Policy. For example, we may have a separate legal entity (e.g., one of the Corporate Stores) that controls the stores in one particular region versus another, and UNFI may be the legal entity operating the website or mobile app, and UNFI would share Personal Information of customers of stores in a particular region with the legal entity that controls the stores in that region. We may combine your Personal Information with other information we collect about you, but we will always use the information as described in this Privacy Policy. We may also share information with our affiliates, subsidiaries, joint ventures or other companies under common control.
+
+### C. So Others Can Market to You.
+
+As detailed more fully above, we use certain cookies or pixels that may collect Personal Information and collect information about you through our loyalty programs. We collect this information so that it can be used in connection with the marketing efforts of third parties. In those instances, your Personal Information may be used for third parties to serve unsolicited information, services, or products to you.
+
+### D. Third-Party Mobile App Providers
+
+With your knowledge and consent, the Services may gather and transfer your information, including Location Information, from and to other applications, functions and tools within your mobile device.
+
+### E. Legal Process, Safety and Terms Enforcement
+
+We may disclose your Personal Information to legal or government regulatory authorities in response to their requests for such information or to assist in investigations. We may also disclose your Personal Information to third parties in connection with claims, disputes or litigation, when otherwise required by law, or if we determine its disclosure is necessary to protect the health and safety of you or us, or to enforce our legal rights or contractual commitments that you have made.
+
+### F. Business Transfers
+
+Your Personal Information may be disclosed as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets, and could be transferred to a third party as one of the business assets in such a transaction.
+
+### G. Bankruptcy
+
+In the event of insolvency, bankruptcy or receivership, your Personal Information may be disclosed or sold as part of the sale, reorganization or liquidation process.
+
+## 7. How Long Your Personal Information Is Kept
+
+We will retain your Personal Information for as long as your account is active or as necessary to accomplish the purpose for which it was provided. We will retain and use your Personal Information for longer periods to the extent that we are obligated to do so to comply with our legal obligations or data retention policies, resolve disputes, to protect you, other people and us from fraud, abuse and unauthorized access, and enforce our agreements.
+
+We will delete your Personal Information when it is no longer necessary for the purpose for which it was collected, or upon your request, subject to exceptions as discussed in this Privacy Policy or under applicable law, contract, or regulation.
+
+## 8. Where Your Personal Information Is Held
+
+We process Personal Information on our servers in the United States of America and may do so in other countries. When you use our Services or otherwise provide us with information from outside of the United States, you expressly consent to the transfer of your data to the United States, the processing of your data in the United States, and the storage of your data in the United States. We may transfer your Personal Information outside of your jurisdiction for processing. While your Personal Information is held outside of your jurisdiction, it may be accessed by the courts, law enforcement, and national security authorities of the processing jurisdiction.
+
+## 9. Quebec User Rights
+
+If you are a resident of Quebec, UNFI’s Chief Privacy Officer is Kim Myrdahl, and UNFI’s Sr. Privacy Manager, is Lynette Stocker. Contact Information: P.O. Box 990, Minneapolis, MN 55440 or at https://unfi.com/privacy/inquiry.html.
+
+## 10. European User Rights
+
+This section of our Privacy Policy is applicable to persons located in the European Union (“EU”), a European Economic Area member state (“EEA”), United Kingdom (“UK”), or Switzerland, as well as to persons whose Personal Information is processed in or transferred from the EU, EEA, UK, or Switzerland. You are entitled under the EU General Data Protection Regulation and UK General Data Protection Regulation (collectively, the “GDPR”), to the information in this section of our Privacy Policy.
+
+### A. Your Rights
+
+You are entitled by law to access, correct, amend, or delete Personal Information about you that we hold. A summary listing these rights appears below. Please note that these rights are not absolute and certain exemptions may apply to specific requests that you may submit to us.
+
+To exercise these rights, please contact us using the information below in the “Contact” section. For your protection, we may need to verify your identity before responding to your request. In the event that we refuse a request, we will provide you a reason as to why.
+
+#### i. Asking Us to Access Your Personal Information
+
+You have the right to obtain from us confirmation as to whether or not we are processing Personal Information about you, and if so, the right to be provided with the information contained in this Privacy Policy. You also have the right to ask us for copies of your Personal Information. When making a request, please provide an accurate description of the Personal Information to which you want access. Where requests are repetitive or manifestly unfounded or excessive, we may charge a reasonable fee based on administrative cost.
+
+#### ii. Asking Us to Rectify Your Personal Information
+
+You have the right to ask us to rectify Personal Information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.
+
+#### iii. Asking Us to Delete Your Personal Information
+
+You have the right to ask us to erase your Personal Information if:
+
+- We no longer need it for the purposes for which it was collected;
+
+- We have been using it with no valid legal basis;
+
+- We are obligated to erase it to comply with a legal obligation to which we are subject;
+
+- We need your consent to use the information and you withdraw consent; or
+
+- You object to us processing your Personal Information where our legal basis for doing so is our legitimate interests and there are no overriding legitimate grounds for the processing.
+
+However, these rights are not absolute. Even if you make a request for deletion, we may need to retain certain information for legal or administrative purposes, such as record keeping, maintenance of opt-out requirements, defending or making legal claims, or detecting fraudulent activities. We will retain information in accordance with the “How Long Is Your Personal Information Kept” section above.
+
+If you do exercise a valid right to have your Personal Information deleted, please keep in mind that deletion by third parties to whom the information has been provided might not be immediate and that the deleted information may persist in backup copies for a reasonable period (but will not be available to others).
+
+#### iv. Asking Us to Restrict Our Use of Your Personal Information
+
+You have the right to ask us to place a restriction on our use of your Personal Information if one of the following applies to you:
+
+- You contest the accuracy of the information that we hold about you, while we verify its accuracy;
+
+- We have used your information unlawfully, but you request us to restrict its use instead of erasing it;
+
+- We no longer need the information for the purpose for which we collected it, but you need it to deal with a legal claim; or
+
+- You have objected to us using your information, while we check whether our legitimate grounds override your right to object.
+
+#### v. The Right to Transfer Your Personal Information to Another Service Provider
+
+You have the right to ask that we transfer the Personal Information you gave us from one organization to another, or give it to you (i.e., data portability). This applies to Personal Information we are processing to service a contract with you and to Personal Information we are processing based on your consent.
+
+#### vi. The Right to Withdraw Consent
+
+If we obtain your written consent to collect and process your Personal Information, you can subsequently withdraw such consent as to any further processing of such information.
+
+### vii. The Right to Lodge a Complaint with a Supervisory Authority
+
+If you believe your rights under the GDPR have been violated, the GDPR gives you the right to file a complaint with your supervisory authority. A list of supervisory authorities is available here: EEA and EU Data Protection Authorities (DPAs); Swiss Federal Data Protection and Information Commissioner (FDPIC); and UK Information Commissioner’s Office (ICO).
+
+### viii. Rights Related to Automated Decision-Making
+
+To the extent that we engage in decision-making based solely on automated processing, including profiling, which produces legal effects concerning you or which significantly affects you, you have the right not to be subject to such decision-making.
+
+### ix. Right to Object to Processing
+
+You have the right to object to the processing of your Personal Information that is based on legitimate interests or your consent (rather than when the reason for using it is to perform an obligation due to a contract with us).
+
+If you make such an objection, we will cease to process the Personal Information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or we can demonstrate the processing is for the establishment, exercise, or defense of legal claims. You can object to the processing of your Personal Information by contacting us using the information in the “Contact” section below.
+
+### B. Legal Basis for Processing Your Personal Information
+
+We collect your Personal Information to provide our products and services to you; otherwise, we may not be able to process the transactions you request. We will only process your Personal Information when we have a lawful basis for doing so. If you are in a country in the EU, EEA, UK, or Switzerland, you are entitled to an explanation of the legal basis we rely on to process your Personal Information. The legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which we collect it, which is discussed below.
+
+### i. Consent
+
+We may process your Personal Information based on your consent such as when you purchase a service or ask us to send you certain kinds of marketing communications. You have the right to withdraw your consent at any time without affecting the lawfulness of the processing based on consent before its withdrawal.
+
+Children’s Consent. We do not knowingly process data of EU, EEA, UK, or Switzerland residents under the age of 16 without reasonably verified parental consent.
+
+### ii. Our Legitimate Interests
+
+We may process your Personal Information if doing so is necessary for our legitimate interests relating to our business purposes arising from your relationship with us, and your rights as an individual do not override those legitimate interests. For example, our legitimate interests include but are not limited to when we process your Personal Information to carry out fraud prevention activities and activities to increase network and information security, identify usage trends, determine the effectiveness of promotional campaigns, expand our business activities and improve our services and the content and functionality of our Services. Our legitimate interests also include providing you with the products and services you request, view, engage with, or purchase and communicating with you regarding your account or transactions with us.
+
+### iii. To Perform a Contract
+
+We may process your Personal Information to administer and fulfill contractual obligations to you. We will also collect and process your Personal Information as necessary for the performance of a contract to which you are a party.
+
+### iv. To Enable Us to Comply with a Legal Obligation
+
+We may process your Personal Information to comply with legal obligations to which we are subject. This may include any requirement to produce audited accounts, any legal obligation to share information with law enforcement agencies, public or governmental authorities, and to comply with legal process.
+
+### v. Necessary for the Exercise or Defense of Legal Claims
+
+If you bring a claim against us or we bring a claim against you, we may process your Personal Information in relation to that claim.
+
+Depending on the situation, we may be the controller or the processor for Personal Information collected from residents of the EU, EEA, UK or Switzerland. If you have any questions about or need further information concerning the legal basis on which we collect and use your Personal Information for any specific processing activity, please contact us using the information in the “Contact” section below.
+
+### C. Cross-Border Transfers of Personal Information
+
+Our Services are operated in the United States and Canada. Personal Information about you provide while in the EU, an EEA member state, the UK, or Switzerland may be transferred to the United States or Canada. The United States does not have an adequacy decision or adequacy regulation. The GDPR permits such transfers when necessary for the performance of a contract between you and us, if we obtain your explicit consent to such transfer, or if it is in our legitimate interest to transfer the Personal Information. The laws in the United States may not be as protective as the GDPR or the laws of other jurisdictions where you may be located. If we transfer Personal Information from the EU, EEA, UK, or Switzerland, or another country with cross-border transfer obligations, we will provide an appropriate safeguard, such as using standard contractual clauses.
+
+To obtain a copy of the safeguard(s), please contact us using the information provided in the “Contact” section below.
+
+## 11. Your Privacy Rights
+
+Under certain privacy laws, some state residents are entitled to various privacy rights. The states with applicable privacy laws that will be in effect in 2025 include Minnesota, Maryland, Virginia, California, Nebraska, and Texas.
+
+If you are a resident of Minnesota, Maryland, Virginia, California, Nebraska, or Texas you may exercise the rights available to you under applicable law. The chart below explains these rights, although some exceptions may apply.
+Consumer Right
+Explanation
+Right to Know/Access
+You have the right to confirm whether we are processing your Personal Information, the right to know specific pieces of Personal Information we have collected about you, to know the categories of Personal Information we are processing or have processed, and the right to access that data. You also have the right to know the third parties to whom we have disclosed your Personal Information.
+Right of Correction
+You have the right to correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and the purposes of the processing of the Personal Information.
+Right of Deletion
+You have the right to delete your Personal Information provided by you or obtained about you.
+Right of Portability
+Up to two times per calendar year, you have the right to obtain your Personal Information in a portable and—to the extent technically feasible—readily usable format that allows you to transmit the data to another entity without hindrance.
+Right to Opt-out:
+You have the right to opt-out of the processing of your Personal Information for the purposes of:
+
+(1) Targeted advertising;
+
+(2) The sale of Personal Information; and/or
+
+(3) Profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+Right to Non-discrimination
+You may have the right not to receive discriminatory treatment for exercising the privacy rights conferred by law. We will not discriminate against you because you exercised any of your privacy rights, including, but not limited to, by: denying goods or services to you; charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; providing a different level of quality of goods or services to you; or suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+### A. Sensitive Information
+
+We will process Sensitive Data (as the term or its equivalent is defined by applicable privacy laws) in accordance with any applicable privacy laws. In some instances, that means we will not collect Sensitive Data without first obtaining your consent or providing you with the right to opt out.
+
+### B. Exercising Your Rights
+
+If you wish to exercise your Right to Opt-out, please visit our “Your Privacy Choices” page in the footer or bottom right corner of our Sites and follow the instructions in the pop-out to opt out of processing related to cookies and other related data collection technologies. To exercise your Right to Opt-out related to sale or sharing of your information associated with your loyalty account please visit our “UNFI Opt-out Preferences” page. To exercise your Right to Know/Access, Right to Correct, Right to Delete, or Right of Portability, please visit our “UNFI Data Subject Access Request” page. If you are a California resident, you may also exercise your Right to Know/Access, Right to Correct, Right to Delete, or Right of Portability by calling us at 1-877-276-9637.
+
+If necessary, we may request additional information reasonably necessary to authenticate you and your request. To verify a consumer’s identity, we may request up to three pieces of Personal Information about you to compare against our records when you make a request.
+
+In certain circumstances, you may make a request on behalf of another such as if you are an authorized agent or the parent or guardian of a child on behalf of whom you wish to exercise their rights.
+
+We will respond to these consumer requests, if applicable, within 45 days of receipt of the request and without undue delay. If we need to extend this period, we will notify you of the delay and explain the reasonably necessary justifications for our delay.
+
+We will provide responses to your requests free of charge unless certain exclusions apply, depending on the state in which you reside.
+
+### C. Appealing a Rights Request Decision
+
+If we deny or fail to take action on your request to exercise your applicable consumer privacy rights, you may appeal our decision. To do this, please follow the instructions in the denial email. We will inform you in writing within 45 days of any action taken or not taken in response to the appeal. We will also provide a written explanation of the reasons for our decisions regarding your request(s).
+
+## 12. Supplemental Provisions for California Residents
+
+This section supplements our Policy and only applies to our processing of Personal Information that is subject to California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq. as amended by the California Privacy Rights Act and implementing regulations (collectively “CCPA”):
+
+### A. Information We Collect
+
+The below examples are illustrative examples from the CCPA and do not reflect the specific pieces of information we collect.
+
+In the previous 12 months, we have collected the following categories of Personal Information:
+Category[1]
+Examples
+Collected
+Retention Period
+A. Identifiers
+A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+B. Personal Information
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+
+Some Personal Information included in this category may overlap with other categories.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+C. Protected Classification Characteristics Under California or Federal Law
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+D. Commercial Information
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+E. Biometric Information
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+No
+N/A
+F. Internet or Other Similar Network Activity
+Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+G. Geolocation Data
+Physical location or movements.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+H. Sensory Data
+Audio, electronic, visual, thermal, olfactory, or similar information.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+I. Professional or Employment-Related Information
+Current or past job history or performance evaluations.
+No
+N/A
+J. Non-Public Education Information
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+No
+N/A
+K. Inferences Drawn of the Consumer
+Inferences drawn from Personal Information identified above to create a profile about a consumer reflecting a consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+L. Sensitive Personal Information
+Personal Information that reveals (a) Social Security, driver’s license, state identification card, or passport number; (b) account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credential allowing access to an account; (c) precise geolocation; (d) racial or ethnic origin, religious or philosophical beliefs, or union membership; (e) the contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication; or (f) genetic data.
+
+Biometric information processed for the purpose of uniquely identifying a consumer, Personal Information collected and analyzed concerning a consumer’s health, sex life, or sexual orientation.
+
+Some Sensitive Personal Information included in this category may overlap with other categories.
+Yes
+As long as you are a customer of or do business with UNFI and at a minimum of up to 7 years after last interaction with UNFI or as long as required by law.
+
+[1] Categories of Personal Information are as defined in Cal. Civ. Code. § 1798.140(v).
+
+The above does not relate to information collected in connection with an individual’s employment by or seeking employment from UNFI. If you are employed by or seeking employment from UNFI, please see the Associate and Contractor Privacy Policy for information regarding your Personal Information.
+
+### B. Sources From Which Personal Information Is Collected
+
+We collect identifiers, Personal Information, protected classifications, sensory data, and Sensitive Personal Information, directly from you. We collect Commercial Information by keeping a log of your transactions and collecting transaction information from our partners. We collect internet and other electronic network activity, geolocation, and inferences based on your interactions with our website and mobile apps.
+
+When acting as a service provider, UNFI receives or has access to Personal Information collected by the business. UNFI uses that Personal Information solely to provide the Services to the business.
+
+### C. Business or Commercial Purposes for Which Personal Information Is Collected
+
+Your Personal Information is used for the following purposes:
+
+- Respond to your requests for Services;
+
+- Provide you with customer support and respond to your communications;
+
+- Send you transactional or administrative communications, as well as certain service-related announcements;
+
+- Promote diversity, equity and inclusion initiatives;
+
+- Personalize your experience on our website or mobile apps;
+
+- Send you information relating to other programs, services, or products that we believe may be of interest to you; and
+
+- Run website analytics to evaluate performance.
+
+When acting as a service provider, UNFI uses the Personal Information it receives or has access to solely to provide the Services to the business.
+
+### D. Disclosure of Personal Information
+
+In the preceding 12 months, we have disclosed the following Personal Information about consumers for business purposes:
+
+- We disclose Personal Information in categories A (identifiers), B (personal), C (protected class), D (commercial), F (internet), G (geolocation), and K (inferences) to service providers.
+
+- We disclose content posted on our social media platforms (e.g., if a consumer “comments” on a story) with other consumers. Such posts may include Personal Information categorized as identifiers and personal, but the content depends on the individual post.
+
+- We allow certain companies to use Personal Information categorized as internet, geolocation, and inferences to enhance online experiences and customize advertising.
+
+- We disclose your Personal Information categorized as identifiers, personal, protected, commercial, internet, geolocation, and inferences with third-party service providers who complete transactions or perform services on our behalf or for your benefit, such as for payment processing, marketing, analytics or to verify customer data, such as mailing addresses.
+
+- We disclose your Personal Information in all categories as part of a corporate business transactions, such as a merger, acquisition, joint venture, or financing or sale of company assets, and information is transferred to a third-party as one of the business assets in such a transaction.
+
+- We disclose identifiers, Personal Information, and Commercial Information with vendors and third-party business partners so that they can provide services to you or market products, information, campaigns, or services to you.
+
+In the preceding 12 months, we have shared and sold the Personal Information about consumers:
+
+- We have shared Personal Information categorized as identifiers, personal, protected class, commercial, and geolocation to third parties for the purpose of receiving analytical information or marketing.
+
+We do not have actual knowledge that we sell or share the Personal Information of consumers under 16 years of age.
+
+### E. Sensitive Personal Information
+
+If we process information from category L (Sensitive Personal Information), we will only do so for the purposes specifically authorized by California law and in a manner that is necessary and proportionate for those purposes. As such, we do not perform any processing for which a Right to Limit request is available.
+
+### F. Verifying Requests
+
+To ensure the protection of your Personal Information, UNFI must verify that the individual submitting a Request to Know, Request to Delete, or Request to Correct is the consumer to whom the request relates prior to processing the request. To verify a California consumer’s identity, we may request up to three pieces of Personal Information about you when you make a request to compare against our records. We may also request that you sign a declaration under the penalty of perjury from the consumer whose Personal Information is the subject of the request.
+
+Making a verifiable consumer request does not require you to create an account with us. We will only use Personal Information provided in your request to verify your identity. UNFI reserves the right to take additional steps as necessary to verify the identity of California consumers where we have reason to believe a request is fraudulent.
+
+### G. Authorized Agents
+
+You may choose a person registered with the California Secretary of State that you authorize to act on your behalf to submit your requests (“Authorized Agent”). If you choose to use an Authorized Agent, UNFI requires that you provide the Authorized Agent with written permission to allow them to submit your request and that you verify your identity directly with UNFI. Failure to do so may result in UNFI denying your request.
+
+### H. Contact for More Information
+
+If you have any questions or concerns regarding your CCPA rights under this Privacy Policy, you may contact us using the information in the “Contact” section of this Policy.
+
+## 13. Links to Other Websites
+
+Our Services may contain links to websites operated by third parties. When we provide links, we do so only as a convenience and we are not responsible for any content of any third-party website or any links contained within. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your Personal Information. We encourage you to review the privacy policies of those third parties to learn about their information practices.
+
+We use Google Maps with our Find a Store feature. By using our Find a Store feature, you are bound by Google Maps/Google Earth Additional Terms of Service, including Google’s Privacy Policy.
+
+## 14. Updates to the Privacy Policy
+
+This Privacy Policy is subject to revision, and if we make any material changes in the way we use your Personal Information, we will notify you by prominently posting notice of the changes on the Services and updating the “Last updated” date above. Your continued use of the Services is deemed to be acceptance of such changes.
+
+## 15. Managing Communication Preferences
+
+If you have provided us with your Contact Information, we may send you email messages, direct mail offers, push notifications or other communications regarding products or services depending on the method of communication selected. You may ask us not to do so when you access our websites or mobile applications or change your preferences by updating any accounts you have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to the contact information below or by following the unsubscribe instructions in the form of the communication you received, as described below.
+### A. Printed Materials
+
+To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, please write to us at the address below. Please be sure to include your name and mailing address exactly as they appear on the printed marketing materials you received.
+
+### B. Emails
+
+To opt out of receiving marketing communications via email, please send an unsubscribe request to the email address below or click on the unsubscribe link at the bottom of the email that was sent to you and follow the directions on the resulting web page. Please note that you may continue to receive certain transactional or account-related electronic messages from us.
+
+### C. Text Messages
+
+If you have consented to receive text messages, you may opt out of receiving them by using the method provided in the text message or by contacting us using the information in the “Contact” section below. Text messages may include promotional marketing messages (where we have obtained Text Opt-in Information) and transactional messages related to purchases you have made.
+
+### D. Push Notifications
+## 16. Shine the Light Disclosure
+
+If you are a California Resident and have an established business relationship with us, UNFI does not disclose personal information to third parties for those third parties’ direct marketing purposes and has not done so during the preceding calendar year.
+
+## 17. Children’s Privacy
+
+Our Services are not directed to, and we do not intend to, or knowingly, collect or solicit Personal Information online from children under the age of 13. If you believe that we might have Personal Information from child under 13, contact us using the information in the “Contact” section below. If you are under the age of 13, do not provide us with any Personal Information either directly, on any website bulletin boards, or by other means.
+
+In the event that we learn that we have collected Personal Information from a child under age 13 without verification or parental consent, we will immediately delete that information.
+
+## 18. Our Commitment to Data Security
+
+The security of your Personal Information is important to us. We take various reasonable organizational, administrative, and technical measures to protect your Personal Information from unauthorized access, disclosure, alteration, or destruction. If required by law to do so, we will notify you and/or the relevant supervisory authority in the event of a data breach.
+
+However, we cannot and do not guarantee complete security, as it does not exist on the Internet.
+
+## 19. Contact
+
+If you have any questions or comments about this Privacy Policy or other privacy-related matters, you may contact us in the following ways, or by visiting https://www.unfi.com/privacy/inquiry.html. Please use the following chart to find the contact information for the appropriate entity whom you would like to contact.
+Entity
+Mailing Address
+Phone Number
+UNFI and UNFI Canada
+Attn: UNFI Privacy Team
+
+P.O. Box 990
+
+Minneapolis, MN 55440
+1-877-276-9637
+Cub Foods
+Attn: Customer Care Center
+
+421 3rd Street South
+
+Stillwater, MN 55082
+1-855-282-3663
+Shoppers Food Warehouse Corp.
+Attn: Customer Care Center
+
+421 3rd Street South
+
+Stillwater, MN 55082
+1-855-282-3663
+
+### Still have questions?
+
+View FAQ
+
+### Let's work together
+
+Retailer Partnership
+
+Opens in new window
+
+### Become a supplier
+
+Supplier Partnership
+
+## Better Food. Better Future.

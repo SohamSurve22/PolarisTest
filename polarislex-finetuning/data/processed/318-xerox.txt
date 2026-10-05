@@ -1,0 +1,502 @@
+# Xerox Privacy Statement
+
+Effective Date: September 19, 2024
+
+## Introduction
+
+This privacy statement describes how Xerox Holdings Corporation and its subsidiaries (“Xerox,” “we,” “us” or “our”) collect, protect, use, and disclose your information, including personal information, when you visit our websites, purchase and use any of our products or services, apply for a job, or otherwise communicate or interact with us including when accessing product and technical support.
+
+Please note that Xerox also offers access to third-party applications and services, either as a direct reseller or as a licensor. In such cases, the third-party’s privacy policy is the appropriate policy to look to and will usually be referenced directly in that application or service.
+
+## What we mean by “Personal Information”
+
+In this Privacy Statement, “personal information” generally means information (regardless of its format) that can be used, either alone or in combination with other information, to identify an individual. This may include, for example, name, contact information, mailing address, email address, purchase history and other information relating to your account with us (as the case may be). It may also include other types of more technical information, but only when this information can identify you as an individual. Information that is anonymized and cannot be associated with an identifiable individual is not considered personal information, if it is, at all times, reasonably foreseeable in the circumstances that this information irreversibly no longer allows the individual to be identified directly or indirectly.
+
+## How We Use Personal Information
+
+Xerox uses personal information to:
+
+-
+respond to your questions and communicate with you;
+
+-
+provide customer support;
+
+-
+share news, updates, or helpful tips about Xerox products and services;
+
+-
+enable online shopping;
+
+-
+inform you of special promotions and other advertising;
+
+-
+allow you to sign up for online services;
+
+-
+create reseller partnerships;
+
+-
+receive and evaluate job applications;
+
+-
+customize, analyze, and improve our products, services, technologies, communications and relationships with you;
+
+-
+deliver products and services requested by you;
+
+-
+prevent fraud and protect the security of our systems and our customers;
+
+-
+meet our contractual and legal obligations; and
+
+-
+notify you about administrative matters that pertain to your Xerox products or services.
+
+You may opt out of receiving any, or all, of marketing communications from us by following the unsubscribe link or instructions provided in any commercial electronic message we send or by contacting us directly at the address indicated under Communication Preferences.
+
+## Personal Information We Collect
+
+Xerox collects personal information to allow us to communicate with you, process your orders, support you as customers, potential customers, (including providing you with products and services), conduct marketing, or for employment consideration. We collect personal information when you contact or do business with Xerox, including when you:
+
+-
+Purchase, request support for, or register products or services;
+
+-
+request software downloads;
+
+-
+create a user account (login user name and password);
+
+-
+request information or materials such as documentation, whitepapers, or case studies;
+
+-
+participate in surveys, evaluations, provide feedback, or submit questions or comments to us;
+
+-
+participate in promotions, contests, or marketing events or campaigns;
+
+-
+sign up to receive emails, text messages, and/or postal mailings;
+
+-
+apply for a job or submit your resume.
+
+Data we collect depends on the context of your interactions with Xerox, the choices you make, including your privacy settings, and the products and features you choose. The personal information we collect can include the following:
+
+-
+Name and Contact Data. Your first and last name, email address, mailing and/or business postal address, phone number, business or organization name, gender and marital status, and other similar business contact data or employment related information..
+
+-
+Credentials. Account username, passwords, password hints and similar security information used for authentication and account access. For some sales and employment purposes as well as identity verification, Xerox may also collect government or personal identifiers.
+
+-
+Demographic Data. Data about you such as your country of residence and preferred language.
+
+-
+Payment Data. Data necessary to process your payment if you make purchases, such as your payment card number, expiration date, and the security code associated with your payment card.
+
+-
+Geolocation Data. We may collect data about your location, which can be either precise or imprecise. Precise location data can be obtained through Global Navigation Satellite System data, as well as through nearby cell towers and Wi-Fi hotspots when you enable location-based products or features. Imprecise location data includes, for example, a location derived from your device or data that indicates where you are located with less precision, such as an internet protocol (IP) address or a city or postal code.
+
+-
+Social Media Data. We may provide social media features that enable you to share information with your social networks. Your use of these features may result in the collection or sharing of information about you by the social networking site. Please review the privacy policies and settings of social networks you use to understand their practices.
+
+-
+Job Applications/CVs/Resumes. Professional, education and employment-related information on job applications/CVs/resumes which you provide to us if you submit a job application to Xerox either directly or indirectly, which may include sensitive (also known as ‘special category’) personal information. Xerox uses this information to evaluate your application and perform related employment activities. It is also possible that Xerox may, offer you the option of providing sensitive personal information or information about protected classifications, such as your age, gender, race, sexual orientation, or disability, marital or veteran status, at any time with your consent and where permitted by applicable law.
+
+-
+Feedback and Product Reviews. Information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, blog posts or questions and information you provide for customer support. When you contact us via our website, a Xerox application or through a Xerox help desk or support call, phone conversations or chat sessions with our representatives may be monitored and recorded. Your feedback, posts and reviews will be used to seek improvements in our products and services.
+
+-
+Website Browsing and Commercial Information. Information about your visits to our websites and your browsing patterns, including inferences drawn from this information. This may include information related to your prior purchases and online buying preferences or data about your device, including IP address, browser type, and regional and language settings. This is more fully described under the section entitled “Cookies, Web Beacons and Similar Technologies” below. We collect this information to determine such things as the number of visitors to various parts of our websites, to personalize your experience on our sites, and tailor our interactions with you.
+
+-
+Products and Device Data. Certain Xerox products and services collect data, such as product registration, device serial number, IP address, MAC address and other unique device identifiers, meter reads, supply levels, equipment configuration and settings, software version, and fault codes. Xerox uses this information for product improvement, billing, report generation, supplies replenishment and support services.
+
+-
+Third Party Sources. We also obtain data from third parties. These third-party sources vary over time, but they are sources deemed credible by us and may be publicly available or available on a commercial basis. They can include:
+
+-
+Data brokers from which we purchase demographic data to supplement the data we collect;
+
+-
+Social networks when you grant permission to Xerox or a Xerox product to access your data on one or more networks;
+
+-
+Designated entities within your business or enterprise (such as a member of your IT department) in the course of providing services to you;
+
+-
+Partners with whom we offer branded services or engage in joint marketing activities. If you purchase Xerox services or products from a Xerox partner, we may receive certain information about your purchase from that partner;
+
+-
+Fraud prevention agencies or credit reporting agencies in connection with credit determinations; and
+
+-
+Publicly available sources such as open government databases or other data in the public domain.
+
+## How We Share or Disclose Personal Information
+
+We may share or disclose your personal information as necessary for the following legitimate business purposes of Xerox or otherwise with your consent or as permitted or required by law:
+
+-
+To complete a transaction or provide a product or service you have requested or authorized. For example, when you provide payment data to make a purchase, we will share your payment data with banks and other entities that process payment transactions or provide other financial services, and with consumer reporting agencies for fraud prevention and credit risk reduction. In addition, we may share information with third parties for the joint offering of a product or service.
+
+-
+We share personal information among our subsidiaries, affiliates, agents, or partners, who fulfill the orders or provide the services and to efficiently manage the operation of our business. Xerox requires that its subsidiaries, affiliates, agents, and partners handle personal information with the same protections for personal information privacy as Xerox.
+
+-
+We share personal information with vendors, service providers, or agents working on our behalf for the purposes described in this Statement or in our contracts with you. Vendors and service providers who may need to access personal information include companies we’ve hired to provide customer service support, assist in maintaining or servicing business accounts or products via our systems and services, to assistant with development of products, or support our business functions and internal operations including: fulfilling orders, delivering and installing products, invoice and payment processing, investigating fraudulent activity, conducting customer surveys, providing marketing assistance, providing IT software and maintenance services, or providing archiving services.
+
+-
+We may also disclose personal information when required in the context of a prospective or completed business transaction, such as the event of a merger or acquisition of Xerox or a substantial portion of its assets, in accordance with applicable legal requirements.
+
+When we share your personal information with third party companies, we make sure they are required by contract to abide by data privacy and security requirements and are not allowed to use personal information they receive from us for any other purpose. We do not sell your personal information to third parties.
+
+We may also disclose personal information when we have a good faith belief that doing so is necessary to:
+
+-
+Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies;
+
+-
+Protect our customers, for example to prevent attempts to defraud users of our products, or to help prevent the loss of life or serious injury of anyone; or
+
+-
+Operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks.
+
+## Grounds for Processing Your Information
+
+We collect and process personal information with your consent, as required by law, or as necessary to fulfill the legitimate interests or business purposes of Xerox, including to: (i) provide you with products and services; (ii) manage, administer and operate our business; (iii) meet our contractual and legal obligations; (iv) carry out direct marketing; (v) prevent fraud; and (vi) protect the security of our systems and our customers.
+
+## Where We Process and Store Personal Information
+
+Personal information collected by Xerox may be transferred to, stored, or processed in your region, in the United States, or in any other country in which Xerox or its subsidiaries, affiliates, sub-contractors, agents or partners operate. As a result, when your personal information is used or stored in a jurisdiction other than where you are residing, it may be subject to the law of this foreign jurisdiction, including any law permitting or requiring disclosure of the information to the government, government agencies, courts, and law enforcement in that jurisdiction.
+
+Our subsidiaries, affiliates, sub-contractors, agents and partners are required to safeguard any personal information they receive from us and are prohibited from using the personal information for any purpose other than to perform the services as instructed by Xerox. We also take steps to provide adequate protection for any transfers of your personal information in accordance with applicable law.
+
+Our privacy guidelines are communicated to Xerox employees on an annual basis as part of our mandatory training program. We take steps to ensure that we collect and process personal information according to the provisions of this statement and the requirements of applicable law wherever the data is located. Sometimes we transfer personal information from the European Economic Area, Switzerland, and the United Kingdom to other countries. When we do, we use a variety of legal mechanisms, including, as appropriate, Standard Contractual Clauses, to help ensure any required rights and protections apply to your data.
+
+## Video Links
+
+Clicking on videos on Xerox.com may (1) take you to a third party’s site to play the video, or (2) play the video on Xerox.com and this functionality may be supported by a third party’s site or technology. In any such case, by playing the video you are using a third-party site and will be subject to that third party’s terms and conditions, including, but not limited to, its terms of service and policies on privacy and collection and use of your information. (e.g., https://www.youtube.com/t/terms)
+
+## Applications
+
+Google Drive
+
+Use of Print from Google Drive or Scan to Google Drive (each an “Application” and together the “Applications”) may take you to your Google Drive. Your Google Drive is a third party site and Xerox has no control over the privacy policies or terms of use of that site. The Applications present you with Google Drive login screens, so that you enter your credentials directly into Google. The Applications display your Google Drive content directory (file and folder names). The Print from Google Drive application will temporarily download a selected file, submit it to the device for printing, then delete the file after printing. The Applications do not store your credentials. By using the Applications, you may become subject to the third party’s terms and conditions, including, but not limited to, its terms of service and policies on privacy and collection and use of your information. Read more about how Google uses your information here.
+
+Other Third-Party Services
+
+A number of Xerox services permit you to connect to third-party services such as DropBox, Box and Office365 and although such credentials may be temporarily retained within either a device or application at the user’s discretion and for their convenience, Xerox itself does not collect or centrally store such third-party credentials. By using the Applications, you may become subject to the third party’s terms and conditions, including, but not limited to, its terms of service and policies on privacy and collection and use of your information.
+
+Transparency Report.
+
+To the best of its knowledge, Xerox Holdings Corporation has never received or responded to any national surveillance subpoena or warrant under FISA or EO 12333. Based on this history and Xerox’s continued commitment to adhere to the privacy principles, EU and Swiss data subjects and our customers may have reasonable assurance that (1) Xerox Holdings Corporation is unlikely to receive a FISA or EO 12333 subpoena or warrant targeting the personal data of an EU or Swiss citizen, and therefore the concerns cited by the EU Court in Schrems II are unlikely to be implicated as to such personal data transferred to Xerox in the U.S., and (2) the personal data transferred to Xerox in the U.S. and the rights of EU and Swiss citizens are adequately protected consistent with the requirements of GDPR and the Swiss FADP.
+
+## Period of Storage
+
+Xerox retains personal information for as long as necessary for the purposes described in this Statement, including to provide the products and fulfill the services and transactions you have requested or for other essential purposes and when required or authorized by law. Actual retention periods can vary. The criteria used to determine the retention periods include: (i) how long personal information is needed to provide our products or operate our business; (ii) whether the personal information is of a sensitive type; and (iii) whether Xerox is subject to a legal, contractual, or similar obligation to retain the data.
+
+## Your Choices and Privacy Rights
+
+You have choices regarding how Xerox processes your personal information. When you are asked to provide personal information, you may decline. However, if you choose not to provide information that is necessary to provide a product, service, or feature, we may not be able to provide you that product, service, or feature. In particular, you may exercise the following choices:
+
+-
+If the collection and/or processing of personal information is based on your consent, you have a right to withdraw consent at any time for future processing, subject to contractual and legal restrictions;
+
+-
+Where applicable, you have a right to request from us, (i) access to and receipt of personal information, (ii) transfer of personal information, and (iii) rectification or deletion of your personal information;
+
+-
+You may also have a right to object to or restrict the processing of your personal information;
+
+-
+You have the right to object to direct marketing as explained in more details below in “Communication Preferences” (you may unsubscribe at www.xerox.com/unsubscribe or via an ‘opt-out’ provided in the communication); and
+
+-
+You have a right to file a complaint with a regulator or data protection authority.
+
+You may contact Xerox to check the accuracy of your personal information or to request that your information be updated or deleted by writing to privacy@xerox.com. Please indicate “Access” in the subject line and let us know the details of your request in the body of the message. Xerox reserves the right to confirm your identity and to modify the scope and number of requests. In certain cases, your request may be denied on the basis of a legitimate exception or where we are legally prevented from honoring such request. Your rights to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information may be limited in some circumstances by applicable law.
+
+## Minors
+
+Xerox does not direct any part of its website to children under 16 years old (or such age as a child is defined by local law if higher) and does not knowingly collect personal information from children or target its website or products to children. If we learn we have collected or received personal information from a child under 16 years old without verification of parental consent, we will delete the information.
+
+## Security of Personal Information
+
+Xerox is committed to protecting the security of your personal information and maintains strict access control over it. We utilize reasonable security procedures and practices and appropriate, technical and organizational measures to safeguard the personal information we collect and process against any unauthorized access, use, disclosure, loss or theft of personal information. To ensure that you can purchase with confidence from Xerox websites, Xerox protects credit card information submitted online with industry-standard encryption technology or tokenization.
+
+## Data Governance Measures
+
+Xerox maintains policies and practices to ensure the protection of your personal information. Depending on the volume and sensitivity of the information, the purposes for which it is used and the format in which it is stored, we implement a combination of measures to protect your personal information, including:
+
+-
+Internal policies and procedures that define the roles and responsibilities of our employees throughout the information life cycle and limits their access to such information on a “need-to-know” basis;
+
+-
+Technical safeguards such as encryption, firewalls, antivirus software and similar measures to protect information stored in electronic format;
+
+-
+A designated Privacy Officer to monitor our compliance with applicable privacy laws;
+
+-
+Employee privacy and data security training;
+
+-
+Procedures for receiving, investigating and responding to complaints or inquiries regarding Xerox’s information handling practices, including any security incidents involving personal information; and
+
+-
+A Framework governing the retention and destruction of personal information.
+
+## Cookies, Web Beacon and Similar Technologies
+
+Xerox use cookies and similar technologies to enhance your experience when accessing its websites and applications for the reasons described above, including to provide you with support and services and to conduct marketing. We use cookies to allow us to personalize your experience, and compile statistics about how the websites are used, including the most popular pages. Xerox also uses pixels (clear GIFs and web beacons) to track the actions of users of our websites and email recipients, measure the success of our marketing campaigns, track whether our emails are forwarded, and compile statistics about usage of our websites and email response rates.
+
+Xerox also uses Google Analytics and similar web analytics services which use cookies and similar technologies to collect and analyze information about the use of services and report on activities and trends. You can learn about Google’s practices here.
+
+What is a Cookie?
+
+Cookies are small files that are placed on your computer or mobile device by websites that you visit. Your browser saves cookies in a designated file for cookies on your computer or device. They are widely used in order to make websites work efficiently, as well as to provide information to the owners of the site. Cookies are useful because they allow a website to recognize your device, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience.
+
+How Does Xerox Use Cookies?
+
+Xerox uses cookies to recognize repeat visits to our websites and to facilitate Web navigation and online shopping. The cookies store your country and language, along with an assigned random session ID. In some cases, the cookies store name and address information so you do not have to re-enter this information in multiple forms.
+
+The cookie information that Xerox collects helps us track the number of visitors to our websites over time and determine whether these were new or repeat visits. Xerox also works with third party advertising partners that use cookies to deliver Xerox advertising on other websites and to measure the performance of our advertising campaigns. For example, we use Google Analytics to track website usage and activity. Read more about how Google Analytics uses your information here.
+
+What is a Web Beacon?
+
+A web beacon is an electronic image that can be used to recognize a cookie on your computer or other device when you view a web page or email.
+
+How Does Xerox Use Web Beacons?
+
+Xerox and our third party advertising partners may use web beacons on our websites, in our emails, and in our advertisements on other websites to measure the effectiveness of our websites and our advertising. For example, web beacons may count the number of individuals who visit our websites from a particular advertisement or the number of individuals who open or act upon an email message.
+
+Can I Block Cookies and Web Beacons?
+
+Yes, the ability to enable, disable or delete cookies can be controlled though your website browser. Consult the “Help” menu of your browser application for details. If you block the use of cookies, you will not be able to use some of the features on Xerox websites, including the shopping cart and online account management services. You can make some web beacons unusable by disabling cookies. In addition Xerox provides a tool to opt-out of data collection by companies.
+
+We do not currently respond to do-not-track signals. If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You can review https://www.allaboutcookies.org for more information. Please note, that if you do not accept cookies, you may experience some inconvenience in your use of our websites.
+
+Links to Non-Xerox Websites.
+
+Other websites may be accessed through our website, such as through social media buttons or other links. These third-party websites may collect certain information about you through the use of cookies, web beacons and other features. We do not have access to or control over the privacy practices or the content of these websites or the cookies or other features that these third-party sites may use. We are not responsible for the content or the information practices of these third-party websites, and such websites are not covered by this privacy statement. We encourage you to review the privacy notices and terms of use when visiting any of the third-party sites to understand their practices.
+
+Privacy Choices: How Does Xerox Use Interest-Based Advertising?
+
+Websites cooperate with online advertisers to collect information about visitors to present ads that are more useful and relevant. This is known as interest-based advertising or online behavioral advertising. Xerox and our third party advertising partners may use cookies and similar technologies to deliver interest-based ads that are relevant and targeted to our customers and prospects.
+
+What Information Do Xerox Websites Collect for Interest-Based Advertising?
+
+Xerox and our third party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to Xerox.com and other web sites. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers may use cookies to deliver advertising to you for companies other than Xerox based on your visits to Xerox.com and other websites.
+
+## Communication Preferences
+
+Xerox may send commercial email to you advertising our products and services. You can also subscribe to various product and service-specific communications on our websites. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at www.xerox.com/unsubscribe, via an ‘opt-out’ provided in the communication, or by communicating with us using the contact details under “Contact Xerox” below. You may also mail an unsubscribe request to:
+
+Xerox Holdings Corporation 201 Merritt 7 Norwalk, CT 06851 Attention: Unsubscribe Team
+
+This unsubscribe option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, software updates, or other administrative and transactional notices, the primary purpose of which is not promotional in nature.
+
+You can opt-out of receiving text messages from us by replying “STOP”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “QUIT” to the text message you receive from us. Please note that this will only opt you out of the specific text messaging program(s) associated with that Xerox number. For more information, please refer to the Xerox Text Messaging Terms and Conditions.
+
+Additional Information Regarding the EEA
+
+You can lodge a complaint with the data protection authority for your country or region, or where the alleged infringement of applicable data protection law occurs. However, before doing so, we encourage you to contact us directly to give us an opportunity to work directly with you to resolve any concerns about your privacy.
+
+## Contact Xerox
+
+Xerox commits to resolve complaints about your privacy and our collection or use of your personal information.
+
+To report your inquiries or concerns to the Xerox Business Ethics and Compliance Office please contact the Xerox Ethics Helpline. The Xerox Ethics Helpline is confidential and anonymous, if you so desire, and is available online and via the toll-free number listed below.
+
+Web Reporting: www.xeroxethicshelpline.com
+US & Canada Toll-Free Number: 1-866-XRX-0001
+Direct Dial Toll-Free Numbers Outside US & Canada available at www.xerox.com/ethics
+
+You may also contact us via postal mail at:
+
+Xerox Holdings Corporation
+Xerox Business Ethics and Compliance Office
+201 Merritt 7, Norwalk, CT 06851-1056 USA
+
+Xerox Limited is our representative for the European Economic Area and Switzerland:
+
+Xerox Limited, Building 4, Uxbridge Business Park, Sanderson Road, Uxbridge, UB8 1DH, UK
+
+The Xerox subsidiary in your country or region can be found here.
+
+To contact the Xerox Corporation Chief Privacy Officer, please use the following address: privacy@xerox.com
+
+To contact Xerox Chief Privacy Officer in Canada, please use the following address: can-privacy@xerox.com.
+
+If you have questions about Xerox products or services, call us toll-free from anywhere in North America at 1-800-ASK-XEROX or 1-800-275-9376, or contact us for more information.
+
+More contact information is available on www.xerox.com if you have questions about support, sales, corporate information, scholarships, research and innovation, or services.
+
+## Statement Updates
+
+Xerox may update this Privacy Policy from time to time. When we do, we will post the current version on this site, and we will revise the version date located at the top of this page. Any changes become effective when we post the revised Privacy Policy. If the changes we make are significant, we will provide a more prominent notice when required by applicable laws. Your continued use of our services following these changes means that you accept the revised Privacy Policy. Prior versions of this policy can be found here: Xerox Privacy Statement Archive
+
+## Additional information regarding California
+
+California Consumer Privacy Act of 2018 (CCPA)
+
+Pursuant to the CCPA, we are providing the following additional details regarding the categories of Personal Information about California residents that we collected and disclosed in the preceding 12 months.
+
+We collect the following information:
+Category of Personal Information:
+Business Purpose:
+Audio, electronic, visual, thermal, olfactory, or similar information
+Audio/Visual – where required for regulatory reasons; to keep record of customer instructions or other matters discussed; internal research for technological development and demonstration; helping ensure security
+Identifiers such as real name, alias, IP address, email address, account name, unique online identifier, social security number, driver’s license number, passport number, or other similar identifiers.
+To provide business services and support, and to respond to inquiries; to manage our business operations and administer our customer relationships; to provide relevant marketing to you or your employer; to address compliance and legal obligations (e.g., checking identity of new customers, prevention of fraud/money laundering, to protect the security of our networks, devices, and information); mandatory disclosures and legal claims (e.g., to comply with any subpoena, court order or other legal process or to comply with any regulatory, governmental or legally binding request)
+Personal Information Categories from Cal. Civ. Code §1798.80(e) including name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.”
+
+*"Personal information" does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records.
+Commercial Information including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Characteristics of Protected Classifications under California or Federal Law Race, age, national origin, disability, sex, veteran status, philosophical or religious beliefs, sexual orientation, disability, gender identity, gender expression, marital status, familial status
+Only as strictly necessary for the purposes identified above; solely to the extent required to comply with Xerox’s legal or other best practice obligations (e.g., export controls, anti-money laundering, equality laws, monitoring diversity and inclusion, etc.)
+Inferences Drawn from any of the PI identified above
+We may draw inferences from information that we have received (such as, we may draw inferences from evidence received from or on behalf of our customers; we may conclude that you are interested in receiving updates from us on new products, offerings and sales if you have attended company sponsored events or have purchased or expressed an interest in purchasing our products or services; or we may conclude that applicable laws prohibit us from engaging with a prospective customer based on information obtained through our compliance procedures)
+Professional or employment-related information
+To provide relevant marketing to you (e.g., information about offerings, services or events that may be of interest); to provide business services and to respond to inquiries;
+Internet or other electronic network activity information including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website, application, or advertisement
+To make our website more intuitive; to protect the security of our networks, devices, and information; to provide relevant marketing to you
+
+Personal Information listed above is collected from the following categories of sources:
+
+-
+Conference calls and video conferences with customers, vendors, resellers, and other third parties;
+
+-
+Interviews with customers as part of customer feedback program; video surveillance when visiting a Xerox office; voicemail messages; audio and/or video recordings of interviews, presentations, or support calls;
+
+-
+Directly from individual and corporate customers, affiliates, vendors and counterparties to transactions or disputes,
+
+-
+Agents or professional advisors authorized to disclose data on behalf of the individual; publicly available or subscription-based sources
+
+-
+From use our products and services or from activity on our websites or access to our applications.
+
+We may use or disclose the personal information we collect for one or more of the following purposes:
+
+-
+To provide you with information, support, or services that you request from us, including to deliver products and services you purchased, provide customer support, investigate and address your concerns and monitor and improve our responses. We may also save your information to prevent transactional fraud or facilitate new product orders or process returns.
+
+-
+To create, maintain, customize, and secure your account with us.
+
+-
+To provide you with email alerts, event registrations and other notices concerning our products or services, or events or news, that may be of interest to you.
+
+-
+To carry out our obligations and enforce our rights arising from any contracts entered between you and us, including to deliver products and services to you and for billing and collections.
+
+-
+To help maintain the safety, security, and integrity of our websites, products and services, databases and other technology assets, and business.
+
+-
+To deliver content and product and service offerings relevant to your interests, including targeted offers and ads through third-party sites, and via email message (with your consent, where required by law).
+
+-
+For testing, research, analysis and product support and development, including to support, personalize, develop, and improve our website, products, and services.
+
+-
+As necessary or appropriate to protect the rights, property or safety of us, our customers, or others.
+
+-
+To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+
+-
+As described to you when collecting your personal information or to fulfill or meet the reason you provided the information.
+
+-
+To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us is among the assets transferred.
+
+Disclosure of Personal Information
+
+We may disclose your personal information for a business purpose with the following categories of third parties: our affiliates, service providers, suppliers, data aggregators, and third parties to whom you or your agents authorize us to disclose your personal information in connection with products or services we provide to you.
+
+No Sales of Personal Information
+
+Xerox has not sold Personal Information as defined or as contemplated by the CCPA in the preceding 12 months. As defined and contemplated by the CCPA, Xerox does not sell Personal Information of minors under the age of 16.
+
+California Consumer Privacy Rights
+
+As a California Consumer, you have the following rights:
+
+-
+Right to Disclosure: California Consumers have a right to request information from Xerox regarding the Personal Information Xerox collects and discloses for business purposes about the consumer.
+
+-
+Deletion: In certain circumstances, you have the right to request we delete Personal Information we collected from you. Please note that the right to request deletion is subject to certain exceptions under the CCPA.
+
+-
+Non-Discrimination: Xerox will not discriminate against California Consumers for exercising their rights under the CCPA.
+
+Xerox does not offer financial incentives or price or service differences in exchange for the retention of a California Consumer’s Personal Information.
+
+How to Submit a Verifiable Request
+
+-
+Xerox will respond to requests in accordance with the CCPA if it can verify the identity of the individual submitting the request. California Consumers can exercise these rights by contacting 1-866-XRX-0001 or by email at privacy@xerox.com. We may not be able to comply with your request if we are unable to confirm your identity or connect the information you submit in your request with Personal Information in our possession.
+
+Authorized Agent
+
+A California Consumer may designate an Authorized Agent registered with the California Secretary of State to submit a disclosure or deletion request on behalf of the Consumer. For Xerox to respond to a request from an Authorized Agent, Xerox may:
+
+-
+Request a copy of the written permission granting the Authorized Agent to make such a request on the consumer’s behalf; and
+
+-
+Verify the identity of the consumer.
+
+Xerox may deny a request from an Authorized Agent that does not submit proof that they have been authorized by a consumer to act on their behalf.
+
+Introduction
+
+What we mean by “Personal Information”
+
+Personal Information We Collect
+
+How We Use Personal Information
+
+How We Share or Disclose Personal Information
+
+Grounds for Processing Your Information
+
+Where We Process and Store Personal Information
+
+Video Links
+
+Applications
+
+Period of Storage
+
+Your Choices and Privacy Rights
+
+Minors
+
+Security of Personal Information
+
+Data Governance Measures
+
+Cookies, Web Beacon and Similar Technologies
+
+Communication Preferences
+
+Contact Us
+Statement Updates
+
+Additional information regarding California
+
+Share
+
+-

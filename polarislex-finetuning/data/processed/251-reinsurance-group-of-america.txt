@@ -1,0 +1,282 @@
+Pipe Position
+
+Image
+
+## We are committed to protecting personal information that we receive when we provide our products and services to clients, such as insurance companies.
+
+We maintain transparent practices about the collection, processing, and sharing of that information. Protecting individuals’ privacy is very important to us. This privacy notice is designed to explain how and why the Reinsurance Group of America, Incorporated, and its subsidiaries and affiliates (“RGA”, "we" or "us") collect personal information and how we use it when we provide our products and services to clients as a reinsurance business.
+
+We have designed this privacy notice to be user-friendly – please click on a topic in the list below to find out more.
+
+RGA is a group of companies that operate globally focusing primarily on life- and health-related reinsurance solutions, such as life reinsurance, living benefits reinsurance, group reinsurance, and health reinsurance.
+
+The headquarters of Reinsurance Group of America, Incorporated is located in St. Louis, Missouri, United States of America.
+
+RGA Life Reinsurance Company of Canada is a Canadian corporation incorporated under the laws of the province of Ontario, with offices located in Toronto, Ontario, and Montréal, Québec.
+
+Other RGA group entities operate and provide products and services all over the world. A full list of all RGA entities is available at Global Presence.
+
+Reinsurance Group of America, Incorporated is the ultimate parent company of the RGA group. Regional or service-related RGA companies are generally the Controller for Data Protection Purposes in the regions where they operate. Where related to data protection, you can contact us at privacy@rgare.com.
+
+Reinsurance is a business relationship whereby multiple insurance companies share risk by purchasing insurance policies from other insurers (called ‘reinsurers’) to limit the total loss the original insurer would experience in case of disaster. By spreading the risk, an individual insurance company can take on clients whose coverage would be too great of a burden for the single insurance company to handle alone. When a reinsurer purchases insurance from a further reinsurer, this is called retrocession and the further reinsurer is referred to as the retrocessionaire.
+
+This privacy notice is designed to provide compliance with relevant laws in countries where RGA entities operate.
+
+RGA handles personal information in accordance with multiple local privacy laws at the place where the personal information is collected and processed. If applicable laws provide for a lower level of protection of personal information than that established by this privacy notice, then this privacy notice shall prevail.
+
+Personal information means information, or a combination of pieces of information, that could reasonably allow an individual to be identified.
+
+As a reinsurance business, we need to obtain information about the policies held by customers of our clients, i.e. “you”, to properly assess risks associated with reinsuring a particular block of insurance policies and provide other services. This means that we will receive personal information about you from our clients where you may be:
+
+- applying for an insurance policy,
+
+- holding an insurance policy,
+
+- named as a beneficiary of an insurance policy,
+
+- making claims under an insurance policy,
+
+- involved in an incident giving rise to an insurance claim.
+
+Having regard to local laws and the types of products and services to our clients, we obtain personal information from a variety of sources - which of those apply to you will depend on your particular circumstances:
+
+- From the insurance companies we work with. When you purchase your insurance policy from the insurance company that is our reinsurance client and your policy is reinsured by us, the insurance company provides us with your personal information even if you may not have direct contact with us. In such cases, we ask that the insurance company provide you with a copy of this privacy notice before sharing your personal information.
+
+- From insurance brokers or other intermediaries, who are involved in purchasing your insurance policy.
+
+- From other reinsurers and retrocessionaries, where they do not wish to bear the full risk for your insurance policy alone.
+
+- From people who are involved in a claim or assist us in investigating or processing claims, including witnesses, experts, solicitors, and external claims data collectors, verifiers, and evidence providers.
+
+- From public databases, such as anti-fraud databases, sanctions lists, court judgments, and other public databases, managed by public bodies or industry self-governing bodies (where permitted by law). This will be most common when we are complying with our legal obligations regarding money laundering and other financial crimes. If appropriate, in these circumstances we will either notify you of our sources or seek your consent to their use.
+
+- From healthcare service providers (where permitted by law).
+
+- From credit reporting agencies (where permitted by law).
+
+- From pension processing platforms (where permitted by law).
+
+- Directly from you. We do not normally collect personal information from you directly. However, there are instances where we provide certain tools to insurers that allow for information supplied by you directly to the insurer to be automatically provided to us. We may also collect personal information if you voluntarily supply it to us, for example by sending us an email.
+
+If you require further information on who do we obtain your personal information from, please contact us at the details contained in the "Contact us" section below.
+
+The type of information we collect and process about you will depend upon specific circumstances relating to your insurance policy we are underwriting and any claims arising. It may include any of the below (where permitted by law):
+
+Personal details:
+Your name, age, gender, date of birth, photographs, marital status, nationality, height and weight, leisure activities, and interests.
+
+Identification information:
+Your government-issued ID and other certificates (for example, birth or marriage certificates), driving license, social security number (or local equivalent).
+
+Contact information:
+Your address, telephone numbers, and email address.
+
+Information about your family and home:
+Number of your children and their name, age, gender, date of birth, height, and weight, dwelling type, household income, home valuation, household demographics, and number of personal vehicles.
+
+Employment and experience information:
+Your employment history, your employer, job role, salary, employment benefit options, educational background, and any professional licenses and qualifications.
+
+Financial information:
+Details pertaining to your bank account, annual income, investment/savings, taxpayer ID, credit history, and transaction history.
+
+Insurance policy and claims-related information:
+Information relating to underwriting insurance products and managing and processing insurance claims, such as previous insurance records and claims histories, your insurance policy quotes, terms and issue dates, recommendations and decisions regarding your policy underwriting and claims.
+
+From the information we collect about you, we may also derive or generate further information such as risk ratings. Some of this information is generated through profiling (see the section below on "Do we use personal information for profiling and automated decision making?").
+
+Depending on the type of our reinsurance services and your particular circumstances, we use personal information:
+
+- to provide our reinsurance services and fulfill our contractual obligations to clients, including the following:
+
+- to underwrite, evaluate and price the risks to be insured,
+
+- to calculate insurance premiums for your insurance policy, and
+
+- to review, process, and manage claims;
+
+- to prevent and detect fraud, money laundering, terrorism, and other crimes;
+
+- to help develop new and improve existing services and products, including their pricing; to perform administrative activities in connection with our services (pricing, administration, etc.);
+
+- to exercise, defend and protect our legal rights or the rights of our clients or third parties;
+
+- to comply with legal obligations relating to, for example, the retention of financial records, and to cooperate with regulatory bodies to which we are subject; and
+
+- to audit our business.
+
+We do not use your personal information to advertise our services and products to you.
+
+Some of the categories of information we collect are special categories of personal information (sometimes referred to as "sensitive personal information”). Depending on your particular circumstances, these may include:
+
+- Your health records:
+Your medical history, genetic test results and information, prescription history, death certificate, reports on medical diagnoses, tests and treatment, impairment questionnaires, and information about smoking and pregnancy status and history.
+
+- Your family medical history:
+Your family health or morbidity history.
+
+- Information about your personal characteristics and circumstances of a sensitive nature:
+Your race or ethnic origin, sexual orientation, and sex life.
+
+- Your membership in a professional association or trade union.
+
+- Criminal data:
+Your driving record, criminal records, and sanctions (but only where it is lawful to collect this data).
+
+The way we analyze personal information for the purposes of risk assessment, fraud prevention, and detection, and to report to our clients as part of providing the services may involve profiling, which means that we may process your personal information using software that is able to evaluate certain personal aspects about you and predict risks or outcomes. For example, we may analyze personal information about your lifestyle to predict the likelihood of a claim being made on your insurance policy.
+
+As we are a reinsurance business, we do not make any decisions about your ability to obtain the insurance policy or the cost of it. However, the outcome of your personal information analysis, including your risk rating, may be shared with your insurance company and may impact the decisions made by the insurance company. If you have questions about automated decision-making by the insurance company, you should contact your insurance company.
+
+We are committed to processing your personal information fairly and lawfully and only to the extent necessary to achieve the purposes listed above.
+
+We must have a legal basis to process your personal information. In most cases, our ability to obtain and process your personal information is based on the following legal bases:
+
+- Processing your personal information is necessary to comply with our legal obligations, such as due diligence and reporting obligations, responding to requests from our regulators and retention of financial records; and
+
+- Processing your personal information is necessary to meet our legitimate interests and the legitimate interests of our clients, for example to provide our reinsurance services to clients, to improve our services, to ensure we price our products appropriately, to manage risk and our business efficiently, to perform audits, and to maintain accurate records.
+
+Where we rely on this legal ground, we make sure that such processing is not unnecessarily intrusive, and we only process the minimum amount of personal information necessary and for the minimum amount of time. Our legitimate interests usually include: making sure that we provide the service our clients expect and our products are working as we intended; our business is operating effectively; we offer fair products and services; we treat our clients and you fairly; and we rely on and offer secure and reliable systems and applications.
+
+If it is necessary that we process your sensitive personal information for one of the purposes listed above, we will only do so where one of the following applies:
+
+- Your explicit consent has been obtained. Where consent is legally required to process your sensitive personal information, your insurance company will obtain consent from you. You may withdraw your consent at any time by contacting the insurance company that collected your personal information. Withdrawal of your consent, however, will prevent us from continuing to provide services to the insurance company and you indirectly;
+
+- We need to process your sensitive personal information to establish, exercise or defend a legal claim; or
+
+- We are otherwise authorized by local law to process your sensitive personal information. For example, in some countries in Europe we may process such information when it is necessary to provide and manage an insurance product.
+
+Depending on the circumstances relevant to the processing of your personal information, we may share your personal information with the following parties:
+
+- RGA group companies. We operate as a global business, so we may share your personal information with group entities who may use this information for the purposes described in this privacy notice. Access to your personal information is limited to RGA employees and consultants as well as its agents and representatives who have a need to access said personal information in order to adequately perform their role. Our employees and consultants commit to protect the confidentiality of the personal information they need to access and are required to undergo periodic trainings with regards to the safeguarding and protection of personal information.
+
+- Insurance companies, intermediaries, brokers and retrocessionaires. We may share your personal information with insurance companies, intermediaries, brokers, retrocessionaires and business partners that use your personal information in connection with the provision of insurance and processing of claims. For example, we may share your personal information with other reinsurance businesses for the purposes of settling claims.
+
+- Service providers. We may share your personal information with service providers that perform certain services and business operations for us, for example, IT system providers, analytics providers, actuarial service entities, and translators.
+
+- Professional advisors. We may share your personal information with professional advisors that provide the professional assurance and support necessary to carry out our services, for example, auditors, consultants, medical advisers, and law firms.
+
+- Any law enforcement agency, court, regulator, government authority, or professional body. We may share your personal information with these parties where we believe this is necessary to comply with a legal or regulatory obligation or otherwise to protect our rights or the rights of any third party.
+
+- Asset purchasers. We may share your personal information with any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy notice and you are notified about such changes.
+
+If you require further information on who your personal information is shared with, please contact us at the details contained in the "Contact us" section below.
+
+You have certain rights regarding your personal information, subject to local laws and circumstances relating to the processing of your personal data.
+
+Your rights include the right to:
+
+- access your personal information and details relating to the processing of your personal information;
+
+- rectify the information we hold about you;
+
+- erase your personal information;
+
+- restrict our use of your personal information;
+
+- object to our use of your personal information;
+
+- receive your personal information in a usable electronic format and transmit it to a third party (right to data portability); and
+
+- lodge a complaint with your local data protection authority.
+
+Since, in many cases, we receive your personal information directly from your insurance company you should contact your insurance company first if you would like to exercise your rights. We would encourage you to inform your insurance company if your personal information needs to be corrected or updated (and you may be under a legal duty to do so).
+
+If your insurance company has not resolved your request or concern, or if you would like to contact us directly to discuss or exercise your rights, you may contact us via the contact information in the section “Contact us” below.
+
+We are committed to working with you to obtain a fair resolution of any request, complaint, or concern about privacy. If, however, you believe that we have not been able to assist with your request, complaint, or concern, you have the right to make a complaint to your local supervisory authority (i.e. the supervisory in the jurisdiction where you live or work) or the supervisory authority of the jurisdiction where you believe an infringement of data protection laws has occurred.
+
+We implement technical and organizational measures to ensure a level of security appropriate to the risk to the personal information we process. These measures are aimed at ensuring the ongoing availability, integrity, and confidentiality of personal information. We evaluate these measures on a regular basis to ensure the security of the processing.
+
+We will normally keep your personal information for as long as we are required to retain it to manage our reinsurance business for the purposes described above.
+
+More specifically, in line with our data retention schedule, we keep your personal information until you may have an interest in or a claim against a policy we are underwriting. Beyond that, we retain personal information for a period of time that reasonably allows us to investigate, commence or defend legal claims brought by or against us or our clients. Additionally, we keep your personal information for an extended period of time during which we are required to comply with our regulatory obligations relating to, for example, money laundering prevention. We may also keep your personal information for an extended period of time if its use is necessary for study or research purposes or for the production of statistics. However, in such event, the information kept will be de-identified.
+
+If you would like to know more about the retention of your personal information, please contact us via the contact information in the section "Contact us" below.
+
+We securely destroy personal information when its retention period has expired. However, we may decide to aggregate or anonymize data (which is not treated as personal information under this privacy notice) and retain it for longer.
+
+Because we operate as a global business, your personal information may be transferred to, stored, and processed by RGA entities in other countries, which may include countries that are not regarded as ensuring an adequate level of protection for personal information under the European Union or your local law. Therefore, RGA has adopted Binding Corporate Rules (‘BCRs’) to enable us to make international transfers of your personal information within our group of companies in compliance with data protection laws of the European Union and other relevant countries. Summaries of our BCRs are available at Binding Corporate Rules.
+
+If we need to transfer your personal information to service providers or other parties located outside the EEA or other relevant countries, we will make sure that adequate safeguards are in place with those parties. We typically put in place contractual commitments in accordance with applicable legal requirements to ensure that your personal information is adequately protected. For more information on the appropriate safeguards in place, please contact us at the details contained in the "Contact us" section below.
+
+If you have questions or concerns regarding this privacy notice or the way in which your personal information has been used, please e-mail us at privacy@rgare.com or call or write to us.
+Our United States postal address is:
+Reinsurance Group of America, Incorporated
+Attn.: Global Privacy Office
+16600 Swingley Ridge Road
+Chesterfield, Missouri 63017-1706
+Our United States telephone number is:
+
++1 (636) 736-7000
+Our Canada postal address is:
+RGA Life Reinsurance Company of Canada
+77 King Street West, Suite 2300
+Toronto, Ontario M5K 1H6
+Canada
+Our Canada telephone number is:
+
++1 416 943 6770
+
+For all other postal addresses, please see rgare.com
+
+RGA’s Data Protection Officer for the Canada region is Mai-Khoi Lam. If you have questions or concerns regarding this privacy notice or the way in which your personal information has been used, please e-mail us at mlam@rgare.com or call or write to us.
+
+You may request a copy of this privacy notice from us using the contact details set out above. We may modify or update this privacy notice from time to time. If we make a significant change to this privacy notice, we will post a notice about this on our website, and we may ask the insurance companies we work with to notify you on our behalf.
+
+Add a title
+
+#f2f2f2
+
+NaN
+
+true
+
+false
+
+Pipe Position
+
+Image
+
+-
+Canada (English)
+
+-
+Deutsche
+
+-
+Espanol
+
+-
+Francais
+
+-
+Quebec
+
+-
+Italiano
+
+-
+Nederlands
+
+-
+Рyccknn
+
+-
+Polski
+
+-
+Portugues
+
+-
+Dansk
+
+-
+Svenska
+
+-
+Magyar
+
+-
+Malay
+
+Last Updated: August 2023

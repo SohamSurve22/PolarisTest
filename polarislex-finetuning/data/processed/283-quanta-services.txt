@@ -1,0 +1,316 @@
+# GLOBAL ONLINE PRIVACY POLICY
+
+This Privacy Policy explains how Quanta Services and/or its affiliate (“we”, “us” or “our”) collects, uses, discloses, and secures personal information through our website or any social media page we maintain that contains a link to this Privacy Policy (“Website”) and through our interactions with individuals by email, telephone, or other means. As used in this Privacy Policy, “personal information” means information that relates to an identified or reasonably identifiable natural person or as otherwise defined by applicable law.
+
+California residents should refer to the body of this Privacy Policy as well as the Supplemental California Privacy Notice section below. Website visitors in the European Economic Area (“EEA”) should review our EEA Privacy Policy Provisions for additional information applicable to them.
+
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. By using the Website or otherwise by choosing to provide us with your personal information, you acknowledge that we process your personal information in accordance with this Privacy Policy.
+
+- INFORMATION COLLECTION AND PROCESSING
+
+- INFORMATION SHARING
+
+- DO-NOT-SELL AND DO-NOT- SHARE DISCLOSURE AND OPT-OUT RIGHTS
+
+- INFORMATION SECURITY
+
+- RETENTION AND DESTRUCTION OF INFORMATION THAT MAY BE CONSIDERED BIOMETRIC INFORMATION
+
+- INTERNATIONAL DATA TRANSFERS
+
+- PRIVACY RIGHTS
+
+- LINKS TO THIRD PARTY WEBSITES
+
+- NO USE BY CHILDREN
+
+- CONTACT US
+
+- POSTING OF A REVISED PRIVACY POLICY
+
+- SUPPLEMENTAL CALIFORNIA PRIVACY NOTICE
+
+- EEA PRIVACY POLICY PROVISIONS: ADDITIONAL INFORMATION FOR WEBSITE VISITORS IN THE EEA
+
+- COOKIE POLICY
+
+- SMS POLICY
+
+- TEXT MESSAGING TERMS OF USE
+
+## INFORMATION COLLECTION AND PROCESSING
+
+We collect and process personal information for our internal and Website-related purposes, and to provide services to our customers.
+
+Contact submissions. When you use a Website contact form, we collect personal information from you to evaluate and respond to your request, and we may also use the information to improve our Website or other aspects of our services. For example, we may collect the following personal information from you:
+- personal identifiers, such as your name, email address, and telephone number;
+
+- professional or business-related information, such as your job title and company name; and
+
+- message content.
+
+Email subscriptions. When you subscribe to receive email messages from us, we collect personal identifiers (such as your name and email address) and any related details you submit through a Website. We use that information to send you email messages containing news and other updates relevant to our business.
+
+Job applications. Job application information may be collected by us directly through a Website, in-person, or by email, or job application information may be collected on our behalf by our contracted third-party administrator(s) for applicant tracking purposes and by background check providers. These third-party administrators are permitted to process the information you provide only for purposes of providing services to us. We process the information to review your job application and for other employment-related purposes consistent with applicable law, including to contact you regarding your application and/or to contact you about other job openings that we believe may be of interest to you.
+
+Communications. We receive information through your communications with us by email, phone or a physical mail or courier service, and we process this information to respond to you and in the normal course of our business operations. For example, we may receive the following personal information from you:
+
+- personal identifiers, such as your name, email address, and telephone number;
+
+- professional or business-related information, such as your job title and company name; and
+
+- message content.
+
+Audio and visual information. When you attend meetings online, we may record such meetings with your consent. When you visit premises that we are responsible for safeguarding, we may collect and store video information using security cameras for the purposes of assisting us with maintaining security, deterring criminal activities (such as vandalism, theft) and identifying suspects of such activities, assisting law enforcement officials when necessary, and ensuring the safety of visitors.
+
+Business contacts. We may receive your contact information, such as your personal identifiers (including your name, telephone number, and email address) and/or professional or business-related information (including your business address), through our online or offline interactions with you, such as when we work together on a project or discuss opportunities to work together. We may send you emails or call you with information about our business dealings, news, or marketing information to communicate with you for business purposes. Where applicable law requires consent for electronic communications to be sent to you for the purpose of encouraging participation in a commercial activity, we will not send you any such communications without your consent. Where applicable, we aim to respect your preferences concerning electronic marketing communications in a timely manner and in accordance with applicable law.
+
+Social media. If you post information on a webpage we establish on a social media platform, we may use the information to respond, to promote our business and services, and in the normal course of our business operations. We may collect personal identifiers, such as your social media username, and other personal characteristics that you have made publicly available on the social media website, in accordance with applicable law. Note that the third-party operators of social media websites also receive such information, and their use of your personal information is governed by their own privacy policies.
+
+Automated data collection: Cookies and similar technologies. When you visit a Website, we and our third-party partners, such as content feed providers (e.g., Vimeo and YouTube), and analytics providers including Google Analytics, collect information by automated means. Such means include the use of cookies, web beacons, and web server logs.
+
+We may use such technologies to collect personal identifiers (such as your IP address), information about your device (such as your browser characteristics, device IDs and characteristics, and operating system version) and information concerning your usage of our Website, (including the link you used to reach a given webpage). We use this information to determine how many users have visited particular webpages, viewed particular videos, or opened messages or alerts, and we may also use such information. This helps us establish, maintain, and manage our relationship with you, and also helps us to optimize and provide the Websites for your use and benefit, to improve our marketing activities, and to enforce our Website service terms and prevent malicious conduct.
+
+In some cases, our third-party partners may process information collected by cookies and similar technologies that we permit them to use on the Website. Please see our Cookie Policy for more details. With respect to any social media pages that we may use, please see the privacy policies and any cookie policies of the applicable social media providers as to their automated data collection practices.
+
+As indicated above, we, like many other website operators, currently use Google Analytics to collect and process certain Website usage data. To learn more about Google Analytics and how to opt out, please visit https://tools.google.com/dlpage/gaoptout .
+
+For information about the extent to which our use of cookies and similar technologies may constitute “selling” or sharing for targeted advertising purposes, see the “Your Privacy Choices” link on our website homepage, as well as the Supplemental California Privacy Notice (below).
+
+You may be able to change a web browser’s settings to block and delete cookies when you access a Website through that web browser. However, if you do that, the Website may not work properly; also, we will still receive basic information (such as last URL visited) when you navigate to the Website. We use technology to respond to global privacy controls (as explained via the “Your Privacy Choices” link on our website homepage), but in other respects the Website does not respond to browser do-not-track signals.
+
+For information about our retention practices with respect to the above, see the Supplemental California Privacy Notice (below).
+
+## INFORMATION SHARING
+
+We may share any of the categories of personal information listed above for our business and commercial purposes as described below.
+
+Affiliates. We may share information, including personal information, with our affiliates in the Quanta Services family of companies, and any successors thereto in the normal course of our business operations, for business purposes such as to communicate with you and to promote and provide our services. In this regard, personal information may be shared with one of our affiliates for use in providing a service to us.
+
+Vendors and service providers. We share information, including personal information, with vendors and service providers that process such information to perform services for us in connection with the Website or our other business operations.
+
+Legal and similar disclosures. We may share personal information with law enforcement or the courts in an applicable jurisdiction, our advisors, attorneys, and others who participate in the legal process, if we believe doing so is required or appropriate to: comply with legal requirements and law enforcement requests (such as a court order or subpoena); comply with legal process (such as discovery); or protect your, our, or others’ rights, property, or safety.
+
+Merger, sale, or other asset transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your personal information may be shared with the other parties and advisors involved under an obligation of confidentiality in connection with the negotiation of such transaction, and your personal information may be transferred as part of such a transaction (subject to compliance with applicable laws).
+
+## DO-NOT-SELL AND DO-NOT-SHARE DISCLOSURE AND OPT OUT RIGHTS
+
+Except as reflected in connection with our cookie disclosures, we do not sell your personal information for money or other consideration and we also do not rent, sell, or share “personal information” as defined by California Civil Code §1798.83 about you that we collect on the Website with other people or unaffiliated companies for their direct marketing purposes. To opt-out of “selling” or “sharing” personal information (as defined by applicable law) in connection with cookies and similar technologies, please use the “Your Privacy Choices” link on our website homepage.
+
+## INFORMATION SECURITY
+
+Except as reflected in connection with our cookie disclosures, we do not sell your personal information for money or other consideration and we also do not rent, sell, or share “personal information” as defined by California Civil Code §1798.83 about you that we collect on the Website with other people or unaffiliated companies for their direct marketing purposes. To opt-out of “selling” or “sharing” personal information (as defined by applicable law) in connection with cookies and similar technologies, please use the “Your Privacy Choices” link on our website homepage.
+
+## RETENTION AND DESTRUCTION OF INFORMATION THAT MAY BE CONSIDERED BIOMETRIC INFORMATION
+
+We adhere to the following retention and destruction practices for information concerning you that may be considered a biometric identifier or biometric information under applicable law (such as a fingerprint, voiceprint, or face geometry). We retain any such information that is collected or generated by vehicle, premises, and other safety, security, and identification systems only until the purposes for which such information was collected or generated has been satisfied. We will not retain such information for longer than three years after our relationship or last interaction with you ends, unless otherwise required by law. At the end of the applicable retention period, we will permanently destroy such information and ensure that it is permanently destroyed from the systems of any service provider that is then maintaining such information on our behalf.
+
+## INTERNATIONAL DATA TRANSFERS
+
+You understand that we may transfer your personal information outside of your jurisdiction to foreign jurisdictions, which may include the United States and around the world, to the extent permissible under applicable law. By providing your information and through your use of the Website, and to the extent permissible under applicable law, you consent to such data transfers and processing outside of your jurisdiction in accordance with this Privacy Policy and applicable law.
+
+## PRIVACY RIGHTS
+
+Certain jurisdictions have specific legal requirements and grant privacy rights with respect to personal information, and we will comply with restrictions and any requests you submit as required by applicable law. For example, you may have the right to review, correct, and delete personal information we have about you, or to consent or withdraw consent to certain uses or sharing of personal information. You may also have the right to not be discriminated against for exercising your privacy rights. If you are a California resident, see our Supplemental California Privacy Notice section below, and if you are located in the EEA, see our EEA Privacy Policy Provisions below for additional information as to how to exercise rights under the laws of those jurisdictions. If you are located outside those jurisdictions and seek to exercise your rights under the law of another jurisdiction, please contact our Chief Compliance Officer using the contact information in the Contact Us section below. We will respond to questions, concerns, or requests as required by applicable law.
+
+Please note that, when you make a request, we may require that you provide information and follow procedures so that we can verify your identity (and the applicable jurisdiction). The verification steps we take may differ depending on your jurisdiction and the request. Where possible, we will attempt to match the information that you provide in your request to information we already have on file to verify your identity. If we are able to verify your request, we will process it. If we cannot verify your request, we may ask you for additional information to help us do so.
+
+We will respond to your request within the time period required by applicable law. However, we may not always be able or required to comply with your request, in whole or in part, and we will notify you in that event.
+
+## LINKS TO THIRD PARTY WEBSITES
+
+The Website may contain links to third-party websites. This Privacy Policy does not apply to the practices of such other websites, and we are not responsible for the actions and privacy policies of the third parties that operate or interact with those websites.
+
+## NO USE BY CHILDREN
+
+The Website is not intended for use by children. In particular, if you are under the age of 16, you may not use our Website. We do not knowingly collect, maintain, or use personal information from children under 16 years old. If we believe that any information has been posted by a child under the age of 16, we will promptly delete that information. Parents may contact us using the methods set forth below to request that information concerned their child be removed from the Website.
+
+## CONTACT US
+
+If you have questions about this Privacy Policy or if you would like to make a suggestion, please send an email to privacy@quantaservices.com.
+
+## POSTING OF A REVISED PRIVACY POLICY
+
+We may make changes to this Privacy Policy from time to time, and the revised version will be effective when it is posted and will apply to personal information received after that date. If we make any material changes, we will provide notice of such changes on the pertinent Website or in any other pertinent location where this Privacy Policy may be posted for a reasonable period of time (which we estimate will be approximately two weeks). We encourage you to review this Privacy Policy periodically, especially if you don’t visit the Website regularly.
+
+Effective Date: January 2023
+
+# SUPPLEMENTAL CALIFORNIA PRIVACY NOTICE AND RIGHTS
+
+This Supplemental California Privacy Notice section provides additional information pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act (the “CCPA”), applicable to California consumers whose personal information we collect as described in this Privacy Policy. Note that this Privacy Policy (including this Supplemental California Privacy Notice) does not apply to personal data that is generated, collected, or maintained about California residents in connection with their role as our employees or independent contractors, which use is addressed by our separate California Privacy Notice for Employees and Independent Contractors.
+
+A California consumer has the following rights: to request additional information about our data collection, use, disclosure, and sales practices in connection with the consumer’s personal information; to request the specific personal information collected about the consumer during the previous 12 months; to request the deletion of the personal information we have about the consumer; to request a restriction on certain processing of personal information; or to request correction of inaccurate information. In addition, a consumer may opt-out of the “selling” or “sharing” of personal information (using the “Your Privacy Choices” link on our website homepage). A California consumer may not be discriminated against for exercising the consumer’s California privacy rights.
+
+Under the CCPA, California consumers may use an authorized agent to make privacy rights requests. We require the authorized agent to provide us with proof of the California consumer’s written permission (for example, a power of attorney) that demonstrates authorization to submit a request for the California consumer. An authorized agent must follow the process described below to make a request, and we will also (a) require the authorized agent to verify the agent’s own identity and (b) confirm the agent’s authority with the California consumer about whom the request was made.
+
+To make a request, you may contact us via our California Request Form or call us toll-free at 1-888-914-9661 PIN 909938. In most cases, you will be required to provide your name and email address so that we can verify your request, and in some cases additional information may be required.
+
+As stated above, we do not sell or share personal information, as those terms are used under the CCPA, except as set forth in our cookie disclosures. Please see our Cookie Policy for information about the collection and use of personal information by third-parties who process information collected by cookies and similar technologies that we permit them to use on the Website. Except as stated in our California Privacy Notice for Job Applicants, we do not seek to collect any “sensitive personal information” (as defined in the CCPA).
+
+California residents who use job application features of the Website or who apply in-person or via mail or email should see our California Privacy Notice for Job Applicants, which may be posted on various job application webpage(s) and is also available here.
+
+We use the following criteria to determine the length of time for which we retain personal information subject to this privacy policy:
+
+- the purposes for which the personal information is used, and the length of time for which such information is required to achieve those purposes, including for business operations, security purposes, and legal requirements;
+
+- whether we are required to retain the category of personal information in order to: (i) comply with legal or contractual obligations; (ii) assert or defend against potential legal claims or as necessary to investigate theft, fraud, or other activities that are potentially (a) in violation of our policies and procedures applicable to you or (b) a violation of the law; (iii) ensure a secure online environment; and/or (iv) protect health and safety;
+
+- the privacy impact on the consumer of ongoing retention; and
+
+- the manner in which the personal information is maintained and flows through our systems and how best to manage the lifecycle of such information in light of the volume and complexity of the systems in our infrastructure and the need to maintain high integrity and availability within our systems.
+
+In addition, we delete personal information if a California consumer appropriately invokes the right to delete as to such personal information and no exception applies.
+
+# EEA PRIVACY POLICY PROVISIONS: ADDITIONAL INFORMATION FOR WEBSITE VISITORS IN THE EEA
+
+The following additional information and rights only apply to personal information associated with users who visit the Website from the EEA.
+
+- Purpose and basis for processing
+
+Our processing of personal information depends on the particular circumstances, including how the Website is being used, which communication method is selected, or the nature of a given communication between you and us. In addition to the details provided in the Information Collection and Processing section of the main text of our global Privacy Policy:
+
+- Contact submissions and communications. We process personal information to respond to inquiries, at your request and with your consent. In addition, we process personal information to do business with you, as necessary in preparation for or performance of a contract.
+
+- Email subscriptions. We send you email messages to which you have subscribed based on your request and consent. You may choose to stop receiving our news or marketing emails by following the unsubscribe instructions included in those emails or by contacting us as set forth in the Contact Us section above.
+
+- Business contacts. We may receive your contact information, such as your name, telephone number, email address, and business address, through our online or offline interactions with you, such as when we work together on a project or discuss opportunities to work together. We may send you emails or call you with information about our business dealings, news, or marketing information based on your consent or our legitimate interests to communicate with you for business purposes, but we will do so in accordance with applicable law.
+
+- Audio and visual information. When you attend meetings online, we may record such meetings with your consent. When you visit premises that we are responsible for safeguarding, we may collect and store video information using security cameras for the purposes of assisting us with maintaining security, deterring criminal activities (such as vandalism, theft) and identifying suspects of such activities, assisting law enforcement officials when necessary, and ensuring the safety of visitors.
+
+- Job applications. Job application information includes name, email and physical address, phone number, educational and job history, and other information you submit. Job application information may be collected and processed by us directly through email or on our behalf by our processors. We process the personal information as necessary to evaluate your application, review your qualifications, and contact you about other employment opportunities, at your request and with your consent, in preparation for or performance of an employment offer, contract, and/or for compliance with a legal obligation.
+
+- Social media. We process personal information we receive on our social media pages to respond to inquiries, at your request and with your consent. In addition, we also process the personal information based on our legitimate interests to improve our social media presence and published content, to interact with social media users about our business, and to receive and consider comments about our business.
+
+- Cookies and log files. We process personal information that we collect through the use of cookies (or related technologies) that are essential for the Website or given functionality to work, and we process log data related to your use of the Website to improve the performance of the Website and to prevent fraud. We do so based on our legitimate interests to provide you with a functioning, safe, and high-quality, user-friendly Website. We process personal information that we collect via other cookies (or related technologies), based on your consent. For more information about cookies (and related technologies) used on the Website, please see our Cookie Policy.
+
+- Information sharing and transfers
+
+In addition to the details provided in the Information Sharing section of the main text of our global Privacy Policy:
+
+- We share personal information with our affiliates as necessary in preparation for or performance of an employment contract, for compliance with a legal obligation, or for the purposes of our legitimate interest in facilitating efficient and productive internal processes (such as executive functions, accounting functions, human resources and benefits functions, tax management functions, procurement services, marketing, and legal). To the extent that any personal information is transferred outside the EEA to a country as to which there is no adequacy decision by the European Commission, such transfers are made pursuant to intercompany agreements to abide by the applicable EU Standard Contract Clauses.
+
+- We share personal information with vendors and service providers based on our legitimate interests to provide quality goods and services and to maintain, improve, and grow our business and our workforce. To the extent that any personal information is transferred outside the EEA to a country as to which there is no adequacy decision by the European Commission, we will ensure an adequate level of data protection through appropriate safeguards, e.g., EU Standard Contract Clauses or Binding Corporate Rule certification. If you would like further information regarding the applicable safeguard(s) used for such data transfers in connection with any personal information that we maintain about you, please contact us as set forth in the Contact Us section above and specify the category of vendor or service provider or the type of personal information as to which you seek such further information.
+
+- For any disclosures to legal authorities or pursuant to legal process, we share personal information based on a legal obligation and/or our legitimate interest in compliance with legal systems in the various countries where we operate. For disclosures in connection with any corporate acquisition, reorganization, financing, or insolvency processing, we share personal information based on our legitimate interests in promoting and maximizing the financial health and potential of our business operations. We will inform you separately as to such disclosures to the extent and in the manner required by law.
+
+- How long we process personal information
+
+As a general matter, we will delete or anonymize your personal information when it is no longer necessary to process the data for the purpose(s) for which it was collected. When personal information needs to be retained, we apply appropriate security controls to prevent the unauthorized accessing, use, or processing of the data and take appropriate measures to prevent accidental loss, destruction, or damage to the data. We conduct periodic reviews to ensure that personal information is securely deleted consistent with our policies and applicable law.
+
+Note that we may retain the personal information for a prolonged period of time for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes, including if retention of the personal information is necessary to fulfil legal obligations (including under legislation or regulations, to defend or assert legal claims, for fraud prevention, or for litigation hold purposes). In addition, we may delete personal information if a data subject appropriately invokes the right to be forgotten as to such personal information.
+
+- Your rights as a data subject
+
+As a data subject in the EEA you have certain rights in relation to our processing of your personal information:
+
+- Right to information. We will provide you with information about how we process your personal information. The purpose of our global Privacy Policy (including these EEA Privacy Policy Provisions) is to fulfil this obligation.
+
+- Right to access. You may request that we confirm whether we process personal information concerning you, and if we do process such information, to give you access to such information and more detailed information about the associated processing activity.
+
+- Right to data portability. If personal information processing is carried out by automated means and the legal basis for the processing activity is consent or performance of a contract, you may be entitled to request that we provide you with a subset of your personal information in a structured, commonly used, and machine-readable format. In certain circumstances, you may also ask us to send the subset of your personal information directly to another data controller (e.g., another company).
+
+- Right to rectification. We seek to ensure that the personal information we are processing is accurate and up-to-date. If you discover that the personal information we process about you is inaccurate or incomplete, you may ask us to rectify or complete the personal information.
+
+- Right to erasure. You may request that we delete your personal information in the following situations:
+
+- the processing is based on your consent and this consent is withdrawn (and there is no other legal basis for the processing);
+
+- you object to the processing and there are no overriding legitimate interests for continuing the processing;
+
+- the personal information was unlawfully processed; or
+
+- the personal information has to be erased in order to comply with a legal obligation.
+
+The right of erasure does not apply if further retention of the personal information in question is necessary for compliance with a legal obligation (e.g., bookkeeping obligations), or for the establishment, exercise, or defence of legal claims.
+
+- Right to restriction. You may request that we (temporarily) restrict the processing of your personal information in certain situations – e.g., if you contest the accuracy of your personal information which we process or you are of the opinion that we do not have a sufficient legitimate interest for a processing activity.
+
+- Right to objection. In certain circumstances (e.g., where the legal basis for processing is a legitimate interest or if we are performing direct marketing), you may object to continued processing for those purposes. If you do so, we will re-evaluate our legitimate business interests and your data protection interests. We will only continue the processing activity if (i) there are compelling legitimate grounds for the processing that override your interests, rights and freedoms, or (ii) the processing is necessary to establish, enforce or defend legal claims.
+
+- Right to lodge a complaint. We prefer to resolve any data protection concerns directly with you. However, if you are of the opinion that we do not comply with the data protection obligations set forth in the General Data Protection Regulation, you have the right to submit a complaint with a supervisory authority in the EEA country where you reside, work, or suspect an infringement has occured.
+
+If you would like to assert your rights as a data subject or have questions concerning our processing activities, please contact us as set forth in the Contact Us section above. For additional information from the European Commission concerning data protection and your rights, see: https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en.
+
+# COOKIE POLICY
+
+We use cookies and similar tools to improve the performance and security of our Website and to enhance your user experience.
+
+What are cookies?
+
+Cookies are small text files which a website may put on your computer or mobile device when you visit a website or webpage. They help the Website, or another website or online participant, recognize your device or browser the next time you visit. Cookies may be used to remember your preferences and to help you navigate within a website. Web beacons or similar technology have similar functions. We use the term “cookies” in this Cookie Policy to refer to cookies as well as web beacons or similar technologies.
+
+Cookies serve various functions. For example, they may help us to remember your username and preferences, analyze how well our Website is performing, or allow us to recommend content we believe will be most relevant to you.
+
+We use temporary cookies that expire once you close your browser (these are called “session cookies”) as well as cookies that stay on your device until they expire or you delete them (these are called “persistent cookies”).
+
+What types of cookies do we use?
+
+We use several different categories of cookies:
+
+- Essential cookies
+
+Some cookies are essential for the proper operation of our Website. For example, they may facilitate page navigation or assist with security checks.
+
+- Functionality cookies
+
+Functionality cookies allow us to remember your preferences and allow us to make the Website experience better for you.
+
+- Performance/analytics cookies
+
+This category of cookies allows us to analyze how visitors use our Website and to measure Website performance. This allows us to provide a quality experience by customizing our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of what content is popular, or to learn what links between pages are most effective or why some pages are receiving error messages.
+
+- Targeting/behavioral cookies
+
+These cookies are used to highlight articles, other content, or services that we think will be of interest to you based on your use of the Website. They may also be utilized by third parties when a third-party content feed has been included in the Website so that you can view videos and social media streams.
+
+Does anyone else use cookies on our Website?
+
+We do use or allow certain third parties to serve cookies on the Website. We may allow third parties to serve cookies to help identify fraudulent or automated traffic on the Website. As described above, third parties that provide content feeds may serve cookies. We may also use third party cookies to help us with market research, improving Website functionality, and enforcing Website terms and policies. For example, like many companies, we use Google Analytics to help us evaluate our Website traffic. You can see how Google Analytics uses cookie information across various websites by visiting https://policies.google.com/technologies/partner-sites, or any successor webpage that Google may provide.
+
+Which specific cookies do we use?
+
+For information about specific cookies and similar technologies we use, see the “Your Privacy Choices” link on our website homepage.
+
+Can a Website user block cookies?
+
+Your browser may allow you to set a global privacy control (or to otherwise disable certain cookies), or the third party listed may provide an opt-out tool. Note that disabling cookies may in some instances impact the functionality of the Website.
+
+The following websites provide useful information about cookies, and may permit you to control the use of cookies by certain third parties:
+
+- http://www.aboutads.info/choices/, if you are based in the US
+
+- http://www.youronlinechoices.eu or http://www.allaboutcookies.org, if you are based in the EU
+
+Like most websites, we use Google Analytics to collect and process certain website usage data. To learn more about Google Analytics and how to opt out of personalized ads from Google, see: https://tools.google.com/dlpage/gaoptout.
+
+Note that, when you opt out of personalized advertising, you may continue to see online advertising on the Website and/or our ads on other websites and online services.
+
+What about changes to this Cookie Policy?
+
+We may revise this Cookie Policy from time to time in order to reflect changes in our use of cookies, changes in the law, changes in our services, or best practices. The revised version will be effective when it is posted and apply to personal information received after that date. If we make any material changes, we will provide notice of such changes on the pertinent Website for a reasonable period of time (which we estimate will be approximately two weeks). We encourage you to review this Cookie Policy periodically, especially if you don’t visit the Website regularly.
+
+# SMS POLICY
+
+Mobile information, including phone numbers, opt-in data, and consent, will not be shared, sold, rented, or disclosed to any third parties or affiliates for marketing or promotional purposes. All categories referenced above expressly exclude text messaging originator opt-in data and consent; such information will remain strictly confidential and will not be shared with any third parties under any circumstances.
+
+# TEXT MESSAGING TERMS OF USE
+
+By signing up for or using our text messaging services—which refers to any arrangement where we send one or more messages to your mobile phone number via SMS, MMS, or similar technologies—you agree to the following:
+
+- Consent: By opting in (i.e., requesting, joining, agreeing to, enrolling in, signing up for, acknowledging, responding to, or otherwise agreeing to receive text messages), you consent to receiving messages from one of our representatives at the mobile number you provide.
+
+- Message Frequency: The number of messages you receive may vary depending on your interaction with us.
+
+- Charges: Standard message and data rates may apply based on your mobile carrier and plan.
+
+- Opt-Out Anytime: You can stop receiving messages at any time by replying STOP to any message.
+
+- Privacy: Your information will be handled in accordance with our Privacy Policy.
+
+- By texting 979-PWR-HIRE (+1 979-797-4473), you agree to receive recruiting-related SMS messages from Quanta Services, Inc. regarding responses to candidate inquiries, interview scheduling, application status updates, available job opportunities, and other employment-related communications from the Talent Acquisition team. Message and data rates may apply. Message frequency may vary. Reply STOP to unsubscribe. Reply HELP for help or email PWRFamilies@quantaservices.com. Privacy Policy and Terms & Conditions: https://www.quantaservices.com/privacy-policy
+
+Power The Future With Us
+
+## Find Your Career
+
+Get Started

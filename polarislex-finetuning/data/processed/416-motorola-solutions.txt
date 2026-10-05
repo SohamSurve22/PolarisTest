@@ -1,0 +1,746 @@
+Contact us
+
+## Privacy Statement
+
+Last Updated: May 11 , 2026
+
+Welcome to Motorola Solutions—a global leader in public safety and enterprise security.
+
+This Privacy Statement explains how Motorola Solutions, Inc. and each of its subsidiaries and affiliates who link to this Privacy Statement (collectively referred to as “MSI”, “we,” “us,” or “our”) collects, uses, discloses, and otherwise processes personal data in our capacity as controllers, including in connection with personal data processed in relation to our enterprise websites and for purposes of establishing and maintaining contractual relationships with our business and government customers.
+
+We may also choose or be required by law to provide different or additional disclosures relating to the processing of personal data about residents of certain countries, regions, or states, in accordance with the different applicable privacy and personal data protection laws. Please refer to the Region-Specific Disclosures section below for additional disclosures that may be applicable to you.
+
+This Privacy Statement does not address our privacy practices relating to job applicants, employees, and other employment-related individuals, nor data that is not subject to applicable data protection laws (such as deidentified or publicly available information). This Privacy Statement is also not a contract and does not create any legal rights or obligations not otherwise provided by law.
+
+Get to know more about our privacy statements
+- Our Binding Corporate Rules
+- Our Role in Processing Personal Data
+- Our Collection and Use of Personal Data
+- Our Disclosure of Personal Data
+- Your Privacy Choices
+- Children’s Personal Data
+- Investor Personal Data
+- Security of Personal Data
+- Retention of Personal Data
+- Third-Party Websites and Services
+- Region-Specific Disclosures
+- Updates to This Privacy Statement
+- Contact Us
+
+| |
+
+Our Binding Corporate Rules
+
+We have adopted a set of Binding Corporate Rules - Controller ("BCR-C’s"), for the European Economic Area (“EEA”), effective October 12, 2020, and the United Kingdom (“UK”), effective May 2, 2013. The BCR-C’s are designed to ensure that personal data of covered individuals in the EEA and UK are protected while being processed by any of our affiliates around the world.
+
+The Danish Data Protection Agency, Datatilsynet approved our EEA BCR-C’s. For the full text of our EEA BCR-C’s and Appendices, click here.
+
+The Information Commissioner’s Office (“ICO”) approved our UK BCR-C’s. For the full text of our UK BCR-C’s and Appendices, click here.
+
+Back to privacy statements
+
+Our Role in Processing Personal Data
+
+Data protection laws sometimes differentiate between “controllers” and “processors” of personal data, or “businesses” and “service providers.” A “controller” or “business” determines the purposes and means (the why and how) of processing personal data. A “processor,” which is sometimes referred to as a “service provider,” processes personal data on behalf of a controller subject to the controller’s instructions. This Privacy Statement describes our privacy practices solely where we are acting as the controller of personal data and does not cover or address how we may process personal data on our customers’ behalf in accordance with their instructions where we are acting as their processor.
+
+As a result, this Privacy Statement does not cover or address how personal data may be processed in connection with the products and services we operate in our capacity as a processor, nor how our customers may process personal data when they use our products or services. Please note our customers may access personal data processed by the products and services issued to their particular users (such as personal data processed by our PremierOne Mobile app issued to a customer’s particular users through the PremierOne CAD product). Our customers are responsible for determining how they will process their users’ personal data and for providing notice and taking any other legal steps with regard to the collection and processing of such information. If you have any questions about how our customers process personal data, please refer to the privacy notice of the business or government organization with which you have a relationship and, where applicable, has granted you access to our products and services.
+
+Our Collection and Use of Personal Data
+
+The categories of personal data we collect depend on how you interact with us. For example, you may provide us your personal data directly when you sign up for our mailing list, register for an account, make an online purchase, post a review, participate in an event, contest, promotion, or survey, post to an MSI forum, wiki, blog, or social platform, or otherwise contact us or interact with us.
+
+We also collect personal data automatically when you interact with our websites, emails, and other online platforms and may also collect personal data from other sources and third parties.
+
+Personal Data Provided by Individuals
+
+We collect the following categories of personal data individuals provide us:
+
+- Contact Information. Including first and last name, alias, title, company, industry, phone number, email address, mailing address, and communication preferences. We use this information primarily to create user accounts, to fulfill your request or order, including without limitation sharing information with others at your direction, to communicate with you directly, and to send you marketing communications in accordance with your preferences.
+
+- Account Information. Including first and last name, title, company, industry, email address, phone number, account credentials or one-time passcodes, customer number, age, and the products or services you are interested in, purchased, or have otherwise used. We use this information primarily to administer your account.
+
+- Payment Information. Including payment card information, billing address, and other financial information (such as, routing and account number). Please note that we use third-party payment providers to process payments made to us. We do not retain any personally identifiable financial information, such as payment card number, you provide these third-party payment providers in connection with payments. Rather, all such information is provided directly by you to our third-party payment providers. The payment provider’s use of your personal data is governed by their privacy notice.
+
+- Event, Contest, Promotion, and Survey Information. Including information provided when you sign up for an event, enter a contest or promotion, complete a survey, or submit a testimonial. We use this information primarily to respond to your submission, communicate with you, conduct market research, inform our marketing and advertising activities, improve and grow our business, and facilitate the related event, contest, promotion, or survey.
+
+- Feedback and Support Information. Including the contents of custom messages sent through the forms, chat platforms, email addresses, or other contact information we make available to customers, as well as recordings of calls or chats with us, where permitted by law (including through the use of automated tools provided by us or our third-party providers). We use this information primarily to investigate and respond to your inquiries, or to otherwise communicate with you.
+
+- Security-Related Information. Including name and contact information of visitors to our premises, video recordings of visitors on our premises, and electronic login records and access details when a visitor utilizes company technology on our premises. We use this information primarily to protect the security of our employees, our premises, and our company.
+
+If you choose to contact us, we may need additional information to fulfill the request or respond to your inquiry. We may provide additional privacy disclosures where the scope of the request we receive or personal data we require fall outside the scope of this Privacy Statement. In that case, the additional privacy disclosures will govern how we may process the information you provide at that time.
+
+Personal Data Automatically Collected
+
+We, and our third-party partners, use a variety of automatic data collection technologies, including (i) cookies or small data files that are stored on your device and (ii) other, related technologies, such as web beacons, pixels, embedded scripts, mobile SDKs, location-identifying technologies, and logging technologies, to automatically collect the following data when you engage with us:
+
+- Information About Your Device and Network. Including the device type, manufacturer, and model, operating system, IP address, browser type, Internet service provider, and unique identifiers associated with you, your device, or your network (including, for example, a persistent device identifier or advertising ID). We employ third-party technologies designed to allow us to recognize when two or more devices are likely being used by the same individual and may leverage these technologies (where permitted) to link information collected from different devices.
+
+- Information About the Way Individuals Interact With Us. Including the site from which you came, the site to which you are going when you leave our sites or other online platforms, how frequently you access our sites or other online platforms, whether you open emails or click the links contained in emails, whether you access our sites or other online platforms from multiple devices, and other browsing behavior and actions you take when you interact with us (such as the pages you visit, the content you view, the communications you have, and the content, links and ads you interact with). We employ third-party technologies designed to allow us to collect detailed information about browsing behavior and actions that individuals take when interacting with us, which may record your actions down to the level of mouse movements, scrolling, clicks, and keystroke activity on our sites and other online platforms.
+
+- Information About Your Location. Including general geographic location that we or our third-party providers may derive from your IP address, as well as more precise geolocation when you grant us access through your device settings.
+
+For additional details about the cookies we use on our motorolasolutions.com site and to adjust your preferences with regard to those cookies, please visit our “Cookie Preferences” manager linked in the footer of our motorolasolutions.com website. Where available, you may find similar information and choices on our other websites through similar cookie preference managers usually linked at the bottom of each website. For more information about the choices you may have in relation to our use of automatic data collection technologies, please refer to the Your Privacy Choices section below.
+
+Personal Data from Other Sources and Third Parties
+
+We may receive the same categories of personal data as described above from the following sources and other parties:
+
+- Our Affiliates: MSI entities receive personal data from other MSI entities for purposes and uses that are consistent with this Privacy Statement. For example, we may receive your contact information to process and fulfill your request from a representative at your local MSI entity.
+
+- Single Sign-On: We may provide you the ability to log in through certain third-party accounts you maintain. When you use these single sign-on protocols, we do not receive your login credentials for the relevant third-party service. Instead, we receive tokens from the single sign-on protocol to help identify you in our system (such as by your username) and confirm you successfully authenticated through the single sign-on protocol. This information allows us to more easily provide you access to our systems.
+
+- Mobile Sign-On: We may provide you the ability to log in to our mobile applications or authenticate yourself using facial, fingerprint, or other biometric recognition technology available through your mobile device. If you choose to utilize these login features, information about your facial geometry, your fingerprint, or other biometric information will be collected by your mobile device for authentication purposes. We do not store or have access to this biometric information. Instead, your mobile device will perform the biometric authentication process and only let us know whether the authentication was successful. If the authentication was successful, you will be able to access the applicable mobile application or feature without separately providing your credentials. For more details, please refer to the biometric authentication guides offered by your device provider.
+
+- Employers: If you interact with us in connection with your employment (such as a representative of an MSI customer, supplier, or channel partner), we may obtain personal data about you from your employer or another company for which you work. For example, we may obtain your contact information from your employer to allow us to communicate with you about your employer’s customer relationship with us.
+
+- Other Customers: We may receive your personal data from our other customers. For example, a customer may provide us with your contact information as a part of a referral.
+
+- Social Media: When you interact with us through social media networks, such as when you follow us or share our content on social networks, we may receive some information that you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network, and may include profile information, profile picture, username, and any other information you permit the social network to share with third parties. You should always review and, if necessary, adjust your privacy settings on third-party websites and social media networks and services before sharing information and/or linking or connecting them to other services. We use this information primarily to send you messages.
+
+- Advertisers, Influencers, and Publishers: We engage in advertising both on our sites / platforms and through third-party services. Advertisers, influencers, and publishers may share personal data with us in connection with our advertising efforts. For example, we may obtain information about which advertisement led to a successful engagement between you and us.
+
+- Service Providers: Our service providers that perform services on our behalf, such as analytics and certain marketing providers, collect personal data and often share some or all of this information with us. For example, we receive personal data you may submit in response to requests for feedback to our survey providers.
+
+- Other Sources: We may also collect personal data about you from other sources, including publicly available sources, third-party data providers, brand partnerships, channel partners, or through transactions such as mergers and acquisitions.
+
+- Inferences: We may generate inferences or predictions about you and your interests and preferences based on the other personal data we collect and the interactions we have with you.
+
+Additional Uses of Personal Data
+
+In addition to the primary purposes for using personal data described above, we may also use personal data we collect to:
+
+- Fulfill or meet the reason the information was provided, such as to fulfill our contractual obligations or to facilitate payment;
+
+- Manage our organization and its day-to-day operations;
+
+- Communicate with you, including via email, text message, chat, social media and/or telephone calls;
+
+- Facilitate the relationship we have with you and, where applicable, the company you represent;
+
+- Address inquiries or complaints;
+
+- Create and maintain accounts for our customers;
+
+- Verify your identity and entitlement to our products and services;
+
+- Register you for and provide you access to eCommerce, events, contests, sweepstakes, and surveys;
+
+- Market our products and services to you, including through email, phone, text message, push notification, and social media;
+- Create aggregated or de-identified information that cannot reasonably be used to identify you, which information we may use for purposes outside the scope of this Privacy Notice;
+
+- Conduct research and analytics on our customer base and the ways customers interact with us;
+
+- Help maintain and enhance the safety, security, and integrity of our property, systems, technology, assets, and business;
+
+- Defend, protect, or enforce our rights or applicable contracts and agreements (including our Terms of Use), as well as to resolve disputes, to carry out our obligations and enforce our rights, and to protect our business interests and the interests and rights of third parties;
+
+- Detect, prevent, investigate, or provide notice of security incidents or other malicious, deceptive, fraudulent, or illegal activity and protect the rights and property of MSI and others;
+
+- Facilitate business transactions and reorganizations impacting the structure of our business; and
+
+- Comply with contractual and legal obligations and requirements.
+
+Our Disclosure of Personal Data
+
+We disclose or otherwise make available personal data in the following ways:
+
+- To Our Affiliates: MSI entities disclose personal data to other MSI entities for purposes and uses that are consistent with this Privacy Statement. For example, the MSI entity responsible for our website may disclose your contact information to an MSI entity in your region to facilitate communications between you and a local MSI representative.
+
+- To Your Employer: If you interact with us in connection with your employment, we may disclose personal data to your employer or another company for which you work. For example, we may provide information to your employer about your usage of your account in connection with your work for them.
+
+- To Marketing Providers: We coordinate and share personal data with our marketing providers in order to advertise and communicate with you about the products and services we make available.
+
+- To Ad Networks and Advertising Partners: We work with third-party ad networks and advertising partners to deliver advertising and personalized content on our sites and other online platforms, on other websites and services, and across other devices. These parties may collect information automatically from your browser or device when you visit our websites and other online platforms through the use of cookies and related technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research.
+
+- To Service Providers: We engage other third parties to perform certain services on our behalf in connection with the uses of personal data described in the sections above (such as database management, communication services, and contest providers). Depending on the applicable services, these service providers may process personal data on our behalf or have access to personal data while performing services on our behalf.
+
+- To Other Businesses as Needed to Administer Your Account: We may share personal data with third parties as needed to administer your account or as needed to fulfill a request or transaction including, for example, payment processing services.
+
+- In Connection with a Business Transaction or Reorganization: We may take part in or be involved with a business transaction or reorganization, such as a merger, acquisition, joint venture, or financing or sale of company assets. We may disclose, transfer, or assign personal data to a third party during negotiation of, in connection with, or as an asset in such a business transaction or reorganization. Also, in the unlikely event of our bankruptcy, receivership, or insolvency, your personal data may be disclosed, transferred, or assigned to third parties in connection with the proceedings or disposition of our assets.
+
+- To Facilitate Legal Obligations and Rights: We may disclose personal data to third parties, such as legal advisors and law enforcement:
+
+- in connection with the establishment, exercise, or defense of legal claims;
+
+- to comply with laws or to respond to lawful requests and legal process;
+
+- to protect the rights and property of us, our agents, customers, and others, including to enforce our agreements, policies, and terms of use;
+
+- to detect, suppress, or prevent fraud;
+
+- to reduce credit risk and collect debts owed to us;
+
+- to protect the health and safety of us, our customers, or any person; or
+
+- as otherwise required by applicable law.
+
+- With Your Consent or Direction: We may disclose your personal data to certain other third parties or publicly with your consent or direction. For example, with your permission, we may post your testimonial on our websites.
+
+We will not share Dialpad users' phone numbers with third parties or affiliates for marketing or promotional purposes.
+
+Your Privacy Choices
+
+The following privacy choices are made available to all individuals with whom we interact. You may also have additional choices regarding your personal data depending on your location or residency. Please refer to our Region-Specific Disclosures below for information about additional privacy choices that may be available to you.
+
+Communication Preferences
+
+- Email Communication Preferences: You can stop receiving promotional email communications from us by clicking on the “unsubscribe” link provided in any of our email communications or submitting a form through our Communications Preferences Center. Please note you cannot opt-out of service-related email communications (such as account verification, order confirmation, or service update emails). Even if you opt out of receiving marketing communications, we may still send you service communications or important transactional information related to your accounts, subscriptions, and applicable products (for purposes such as providing customer support).
+
+- Phone Communication Preferences: You can stop receiving promotional phone communications from us by informing the caller you no longer wish to receive promotional phone calls from us, following the instructions provided on the call for opting out of promotional phone calls (where available), or replying STOP to any one of our promotional text messages. Please note we may need to continue to communicate with you via phone for certain service-related messages (such as, sending a verification code to your phone via call or text for purposes of verifying the authenticity of a log-in attempt).
+
+- Push Notification Preferences: You can stop receiving push notifications from us by changing your preferences in your device’s notification settings menu or in the applicable service-specific application. Please note we do not have any control over your device’s notifications settings and are not responsible if they do not function as intended.
+- Direct Mailing Preferences: You can stop receiving promotional direct mail communications from us by contacting us at privacy1@motorolasolutions.com. Please note this opt-out does not affect any mailings that are controlled by third parties that may feature or mention our services.
+
+Withdrawing Your Consent
+
+Where we have your consent for the processing of your personal data (e.g., when you opt in to receive certain types of marketing communications from us), you may withdraw your consent by following the instructions provided when your consent was requested or by contacting us as at privacy1@motorolasolutions.com.
+
+Automatic Data Collection Preferences
+
+Certain of our services may provide you the ability to adjust your preferences regarding our use of automatic data collection technologies. For example, there is a “Cookie Preferences” manager linked in the footer of our motorolasolutions.com site that allows you to adjust your preferences regarding certain automatic data collection technologies on the motorolasolutions.com site for the specific device and browser you are using at that time (which means you will need to change your preferences on each device and browser you use to interact with the website. Where available, you may adjust your cookie preferences on our other websites through similar cookie preference managers usually linked at the bottom of each website.
+
+Where an MSI-specific preference manager or privacy setting is not available, you may be able to utilize third-party tools and features to further restrict our use of automatic data collection technologies. For example, (i) most browsers allow you to change browser settings to limit automatic data collection technologies on websites, (ii) most email providers allow you to prevent the automatic downloading of images in emails that may contain automatic data collection technologies, and (iii) many devices allow you to change your device settings to limit automatic data collection technologies for device applications. Please note that blocking automatic data collection technologies through third-party tools and features may negatively impact your experience, as some features and offerings may not work properly or at all. Depending on the third-party tool or feature you use, you may not be able to block all automatic data collection technologies or you may need to update your preferences on multiple devices or browsers. We do not have any control over these third-party tools and features and are not responsible if they do not function as intended.
+
+Targeted Advertising Preferences
+
+We engage third parties to help us facilitate targeted advertising designed to show you personalized ads based on predictions of your preferences and interests developed using personal data we maintain and personal data our third-party partners obtain from your activity over time and across nonaffiliated websites and other services. The data we and our third-party partners use for purposes of facilitating targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research, are primarily collected through the use of a variety of automatic data collection technologies, including cookies, web beacons, pixels, embedded scripts, mobile SDKs, location-identifying technologies and logging technologies. We may share a common account identifier (such as a hashed email address or customer ID) with our third-party advertising partners to help link the personal data we and our third-party partners collect to the same person, or otherwise target advertising to an individual on a third-party website or platform.
+
+In addition to taking the steps set forth in the Automatic Data Collection Preferences section above, you may be able to further exercise control over the advertisements that you see by leveraging one or more targeted advertising opt-out programs. For example:
+
+- Device-Specific Opt-Out Programs: Certain devices provide individuals the option to turn off targeted advertising for the entire device (such as Apple devices through their App Tracking Transparency framework or Android devices through their opt out of ads personalization feature). Please refer to your device manufacturer’s user guides for additional information about implementing any available device-specific targeted advertising opt-outs.
+
+- Digital Advertising Alliance: The Digital Advertising Alliance allows individuals to opt out of receiving online interest-based targeted advertisements from companies that participate in their program. Please follow the instructions at https://optout.aboutads.info/ for browser-based advertising and https://www.youradchoices.com/appchoices for app-based advertising to opt out of targeted advertising carried out by our third-party partners and other third parties that participate in the Digital Advertising Alliance’s self-regulatory program.
+
+- European Interactive Digital Advertising Alliance: The European Interactive Digital Advertising Alliance similarly allows individuals to opt out of receiving online interest-based targeted advertisements from companies that participate in their program. Please follow the instructions at https://www.youronlinechoices.eu to opt out of browser-based targeted advertising carried out by our third-party partners and other third parties that participate in the European Interactive Digital Advertising Alliance’s program.
+
+- Network Advertising Initiative: The Network Advertising Initiative also provides individuals instructions for further controlling how information is used for online advertising. Please follow the instructions at https://thenai.org/how-to-opt-out/ to exercise these controls.
+
+- Platform-Specific Opt-Out Programs: Certain third-party platforms provide individuals the option to turn off targeted advertising for the entire platform (such as certain social media platforms). Please refer to your platform provider’s user guides for additional information about implementing any available platform-specific targeted advertising opt-outs.
+
+Please note that when you opt out of receiving interest-based advertisements through one of these programs, this does not mean you will no longer see advertisements from us or on our sites. Instead, it means that the online ads you do see from relevant program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, program participants may still use automatic data collection technologies to collect information about your use of sites and other online platforms, including for analytics and fraud prevention as well as any other purpose permitted under the applicable advertising industry program.
+
+Modifying or Deleting Your Personal Data
+
+If you have established an account on any of our websites or other online platforms, you may change certain information connected to your account by accessing your account profile. If you have any questions about reviewing, modifying, or deleting your personal data, you can contact us directly at privacy1@motorolasolutions.com. We may not be able to modify or delete your personal data in all circumstances.
+
+Partner-Specific Preferences
+
+Certain of our third-party providers and partners offer additional ways that you may exercise control over your personal data, or automatically impose limitations on the way we can use personal data in connection with the services they provide:
+
+- Google Analytics: Google Analytics allows us to better understand how our customers interact with our services. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website here: www.google.com/policies/privacy/partners/. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Add-On here: https://tools.google.com/dlpage/gaoptout/.
+
+Children’s Personal Data
+
+Our sites and other online platforms are not directed to, and we do not intend to, or knowingly, collect or solicit personal data from children under the age of 18. If an individual is under the age of 18, they should not use our sites / platforms or otherwise provide us with any personal data either directly or by other means. If a child under the age of 18 has provided personal data to us, we encourage the child’s parent or guardian to contact us to request that we remove the personal data from our systems. If we learn that any personal data we collect has been provided by a child under the age of 18, we will promptly delete that personal data.
+
+Investor Personal Data
+
+In addition to the personal data practices outlined above, we also collect personal data from shareholders and investors of our company, including share purchasing history, number of shares held, value of the shares, and the holder of record’s name and address. We use this information primarily to manage investor relations and investments in our company, including by providing you information about our company and related investments, processing investment transactions, preparing tax returns and other investor-related documents, and managing our cap table. We may also use this information for the purposes set forth in the Additional Uses of Personal Data section above and disclose this information to third parties in furtherance of these purposes as set forth in the Our Disclosure of Personal Data section above, as permitted by law.
+
+Security of Personal Data
+
+We have implemented reasonable physical, technical, and organizational safeguards that are designed to protect your personal data. In addition, we take steps designed to ensure any third party with whom we share personal data provides a similar level of protection. However, despite these controls, we cannot completely ensure or warrant the security of your personal data.
+
+Retention of Personal Data
+
+We will usually retain the personal data we collect about you for no longer than reasonably necessary to fulfill the purposes for which it was collected, and in accordance with our legitimate business interests and applicable law. However, if necessary, we may retain personal data for longer periods of time as required under applicable law or as needed to resolve disputes or protect our legal rights. In specific circumstances we may retain your personal data until the statutory limitation periods have expired (usually three years, but up to thirty years in some cases), when this is necessary for the establishment, exercise, or defense of legal claims.
+
+To determine the appropriate duration of the retention of personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of personal data and if we can attain our objectives by other means, as well as our legal, regulatory, tax, accounting, and other applicable obligations.
+
+Once retention of the personal data is no longer reasonably necessary for the purposes outlined above, we will either delete or deidentify the personal data or, if that is not possible (for example, because personal data has been stored in backup archives), we will securely store the personal data and isolate it from further active processing until deletion or deidentification is possible.
+
+Third-Party Websites and Services
+
+Our sites and other online platforms may include links to third-party websites, plug-ins, applications, and other services. Except where we post, link to, or expressly adopt or refer to this Privacy Statement, this Privacy Statement does not apply to any personal data practices of third parties. To learn about the personal data practices of third parties, please visit their respective privacy notices.
+
+Region-Specific Disclosures
+
+We may choose or be required by law to provide different or additional disclosures relating to the processing of personal data about residents of certain countries, regions, or states. Please refer below for disclosures that may be applicable to you:
+
+- European Economic Area or United Kingdom: If you are located in the European Economic Area (Member States of the European Union together with Iceland, Norway, and Liechtenstein) or the United Kingdom, please see section Additional European Economic Area and United Kingdom Privacy Disclosures for additional European-specific privacy disclosures, including a description of the personal data rights made available to individuals located in those jurisdictions under applicable law.
+
+- United States: If you are a resident of the United States, please see section Additional United States Privacy Disclosures for additional U.S.-specific privacy disclosures, including a description of the personal data rights made available to residents of certain states under applicable law.
+
+- Jurisdictions Outside of the European Economic Area, United Kingdom, or United States: If you are located in a jurisdiction outside of the European Economic Area, United Kingdom, or United States, please see section Additional Disclosures for Jurisdictions Outside of the European Economic Area, United Kingdom, and United States for additional privacy disclosures that may be applicable to you, including a description of personal data rights that may be made available to individuals located in certain jurisdictions in accordance with applicable law.
+
+Updates to This Privacy Statement
+
+We may update this Privacy Statement from time to time. When we make changes to this Privacy Statement, we will change the date at the beginning of this Privacy Statement. If we make material changes to this Privacy Statement, we will notify you by prominent posting on our website or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided.
+
+Contact Us
+If you have any questions or requests in connection with this Privacy Statement or other privacy-related matters, please contact our Privacy Office at privacy1@motorolasolutions.com or at the address below.
+
+Data Protection Officer
+
+Motorola Solutions, Inc.
+
+500 W. Monroe
+
+Chicago, IL USA 60661-3618
+
+United States
+
+Email: privacy1@motorolasolutions.com
+
+## Additional United States Privacy Disclosures
+
+These disclosures supplement the information contained in our Privacy Statement by providing additional information about our personal data processing practices relating to individual residents of certain states in the United States. For a detailed description of how we collect, use, disclose, and otherwise process personal data, please read our Privacy Statement.
+
+Get to know more about US Privacy Disclosures
+- Nevada Residents
+- Other United States Residents
+
+Nevada Residents
+
+If you are a resident of the state of Nevada in the United States, please note Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please complete the form found here.
+
+Back to US privacy disclosures
+
+Other United States Residents
+
+If you are a resident of the state of California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia in the United States the following supplementary disclosures apply to you.
+
+Personal Data Disclosures, Sales and Targeted Advertising
+
+We disclose all of the categories of personal data we collect to the categories of recipients set forth in the Our Disclosure of Personal Data section of our Privacy Statement.
+
+Our disclosure or making available of contact information, commercial information, information about the way in which you use our services and interact with us, and inferences about your interests and preferences to ad networks and advertising partners may qualify as the sale of personal data or the sharing or processing of personal data for the purpose of displaying advertisements that are selected based on personal data obtained or inferred over time from an individual’s activities across businesses or distinctly-branded websites, applications, or other services (otherwise known as “targeted advertising” or “cross-context behavioral advertising”) under certain privacy laws.
+
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to limit or opt-out of the sale of personal data or the processing of personal data for purposes of targeted advertising (as described in the Your Additional U.S. Privacy Choices section below).
+
+Please note we do not sell the personal data of individuals we know to be less than 16 years of age or share such information for targeted advertising purposes.
+
+Sensitive Personal Data
+
+The following personal data elements we collect may be classified as “sensitive” under certain privacy laws:
+
+- Account credentials or one-time passcodes;
+
+- Payment card information; and
+
+- Precise geolocation data.
+
+We only use or disclose sensitive personal data where reasonably necessary and proportionate for the purposes of detecting security incidents, fraud, and other illegal actions, ensuring the physical safety of natural persons, or short-term transient use. We only collect and process sensitive personal data without the purpose of inferring characteristics about the relevant individual, and we do not sell sensitive personal data or process or otherwise share sensitive personal data for the purpose of targeted advertising.
+
+However, depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to limit, or withdraw your consent for, our processing of sensitive personal data (as described in the Your Additional U.S. Privacy Choices section below).
+
+Deidentified Information
+
+We may at times receive, or process personal data to create, deidentified information that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified information, we will maintain and use the information in deidentified form and not attempt to reidentify the information except as required or permitted by law.
+
+Automated Decision-Making and Profiling
+
+We do not conduct automated processing of personal data for the purposes of evaluating, analyzing, or predicting an individual’s personal aspects in furtherance of decisions that produce legal or similarly significant effects. As a result, we do not provide a right to exercise control over such forms of automated decision-making and profiling.
+
+Your Additional U.S. Privacy Choices
+
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to exercise some or all of the following rights:
+
+- Right to Know: The right to confirm whether we are processing personal data about you and, for residents of certain states, to obtain personalized details about the personal data we have collected about you, which may include:
+
+- The categories of personal data collected;
+
+- The categories of sources of the personal data;
+
+- The purposes for which the personal data were collected;
+
+- The categories of personal data disclosed to third parties (if any), and the categories of recipients to whom this personal data were disclosed (or, for residents of certain states, a list of the specific third parties to whom personal data have been disclosed);
+
+- The categories of personal data shared for targeted advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for these purposes;
+
+- The categories of personal data sold (if any) and the categories of third parties to whom the personal data were sold.
+
+- Right to Access & Portability: The right to obtain access to the personal data we have collected about you and, where required by law, the right to obtain a copy of the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+
+- Right to Correction: The right to correct inaccuracies in your personal data, taking into account the nature of the personal data and the purposes of the processing of the personal data.
+
+- Right to Control Over Sensitive Personal Data: The right to exercise control over our collection and processing of certain sensitive personal data.
+
+- Right to Opt-Out of Targeted Advertising: The right to direct us not to use or share personal data for certain targeted advertising purposes.
+
+- Right to Opt-Out of Sales: The right to direct us not to sell personal data to third parties.
+
+- Right to Deletion: The right to have us delete personal data we maintain about you.
+
+Depending on your state of residency, you may also have the right to not receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights. However, the exercise of the rights described above may result in a different price, rate or quality offering where that difference is reasonably related to the impact the right has on our relationship or is otherwise permitted by law.
+
+Submitting Privacy Rights Requests
+
+Please submit a request specifying the right you wish to exercise by:
+
+- Completing our online form found here; or
+
+- Calling our toll-free U.S. telephone number: 1-800-538-4427.
+
+To exercise your right to opt-out as it relates to the use of cookies and related technologies that involve the sale of personal data or the use of personal data for targeted advertising purposes on the www.motorolasolutions.com site, click here to open our homepage, scroll to the bottom of the page, click “Cookie Preferences” in the footer of the website, and adjust your preferences accordingly. Where available, you may adjust your cookie preferences on our other websites through similar cookie preference managers. Please note these opt-out tools are website, device, and browser specific, so you will need to change your preferences on each device and browser you use to interact with the specific website you are visiting. In addition, you can also opt-out of cookie-based sales by businesses that participate in the Digital Advertising Alliance’s CCPA Opt-Out Tool by visiting https://www.privacyrights.info/. Lastly, you may follow the other steps set forth in the Automatic Data Collection Preferences and Targeted Advertising Preferences sections of the Your Privacy Choices section of our Privacy Statement to further exercise control over automatic data collection technologies.
+
+Before processing your request to exercise certain rights (including the Right to Know, Access & Portability, Correction, and Deletion), we will need to verify your identity and confirm you are a resident of a state that offers the requested right(s). In order to verify your identity, we will generally either require the successful authentication of your account, or the matching of sufficient information you provide us to the information we maintain about you in our systems. As a result, we require requests submitted through our online form and toll-free number to include first and last name, email address, state of residency and data request.
+
+In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity or locate your information in our systems, or where you are not a resident of one of the eligible states.
+
+Submitting Authorized Agent Requests
+
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either (i) a valid power of attorney or (ii) a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided and your state of residency, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request.
+
+Appealing Privacy Rights Decisions
+
+Depending on your state of residency, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted by replying to the communication resolving your original request.
+
+California Notice of Financial Incentives
+
+The following disclosures only apply to residents of the State of California.
+
+We may choose to provide programs and other offerings intended to provide benefits to eligible participants that qualify as financial incentives under certain privacy laws. For example, we may choose to make available promotional materials or opportunities to obtain sweepstakes and contest prizes in connection with a financial incentive.
+
+To obtain access to certain of these programs and other offerings, we may ask to collect or share your personal data, including name, contact information, and account information. We have determined that the value of any of these programs and other offerings are reasonably related to the value of the personal data we would receive and otherwise process in connection with these programs and offerings, based on our reasonable but sole determination. We estimate the value of the personal data we would receive and otherwise process in connection with these programs and offerings by considering the expense we would incur in collecting and processing the personal data, as well as the expenses related to facilitating the program or offering.
+
+The terms applicable to each program and other offering are provided at the time an eligible individual is offered an opportunity to participate. Interested individuals can opt-in to these programs and offerings by following the instructions presented at the time the offer is made. Participating individuals may withdraw from our programs and other offerings at any time by following the instructions provided in connection with each offering or emailing us at privacy1@motorolasolutions.com.
+
+Additional California-Specific Disclosures
+
+California law requires we provide disclosures to you about what personal data we collect by reference to the enumerated categories of personal data set forth within California law. To address this obligation, we have identified the relevant enumerated California personal data category for the personal data described in the Our Collection and Use of Personal Data section of our Privacy Statement below:
+
+- Identifiers, such as full name, alias, account credentials or one-time passcodes, customer number, IP address and other unique personal identifiers.
+
+- Customer records, such as mailing address, telephone number, email address, date of birth and payment card information.
+
+- Protected classification characteristics, such as age.
+
+- Commercial information, such as product or service interests and orders.
+
+- Internet / network information, such as information about your device and network, and information about the way you use our sites and other online platforms and how you otherwise interact with us.
+
+- Geolocation data, such as general geographic location based on IP address or more precise location when you grant us access through your device settings.
+
+- Sensory information, such as audio recordings, photographs, and video footage an individual chooses to provide, or we otherwise record as permitted by law.
+
+- Professional / employment information, such as job title, company, and industry.
+
+- Sensitive personal data, such as account credentials or one-time passcodes, payment card information, and precise geolocation data.
+
+- Other Personal Data, such as communication preferences, entries to events, sweepstakes, contests and promotions, comments and content on our forums, wikis, blogs, social computing tools or in response to surveys and any other inquiries, requests, or comments an individual chooses to send us.
+
+- Inferences, such as deriving your interests and preferences from other personal data we have collected.
+
+California’s “Shine the Light” Law
+
+California's "Shine the Light" law (Civil Code Section § 1798.83) provides certain rights to California residents that have an established business relationship with us with regard to the disclosure of certain types of personal information to third parties for their direct marketing purposes. It is company policy that we do not disclose personal information of California residents to third parties for their direct marketing purposes if a consumer has exercised their right to opt out. To opt out of having your personal information disclosed to third parties for their direct marketing purposes, please follow the instructions for opting out of targeted advertising and personal data sales (as described above).
+
+Back to US privacy disclosures
+
+## Additional European Economic Area and United Kingdom Privacy Disclosures
+
+These disclosures supplement the information contained in our Privacy Statement by providing additional information about our personal data processing practices relating to individuals who access our sites and other online platforms or otherwise interact with us from the European Economic Area (“EEA”) and United Kingdom ("UK"). For a detailed description of how we collect, use, disclose, and otherwise process personal data, please read our Privacy Statement.
+
+EEA and UK Representatives
+
+We have appointed the following parties to act as our representatives in the EEA and UK:
+
+- Germany:
+
+Dr Marc Störing
+
+Osborne Clarke Verein
+marc.stoering@osborneclarke.com
+
+- Greece:
+
+Margarita Karamitsou
+
+Motorola Solutions
+margarita.karamitsou@motorolasolutions.com
+
+- Poland:
+
+Agnieszka Podmokly
+
+agnieszka.podmokly@motorolasolutions.com
+
+- Portugal:
+
+Jose Dias
+
+jose.dias@motorolasolutions.com
+
+- United Kingdom:
+
+Joanne Knight
+
+joanneknight@motorolasolutions.com
+
+If you choose to contact our EEA or UK representatives, please ensure you reference MSI in any correspondence you send them.
+
+Our Data Protection Officer
+
+We have appointed a Data Protection Officer who is responsible for monitoring our compliance with applicable data protection law. You can contact our Data Protection Officer with any questions or complaints you may have about our privacy practices in the following ways:
+
+Data Protection Officer
+
+Motorola Solutions, Inc.
+
+500 W. Monroe
+
+Chicago, IL USA 60661-3618
+
+United States
+
+Email: privacy1@motorolasolutions.com
+
+Additional Questions or Complaints
+
+If you have a concern about our processing of personal data, you have the right to lodge a complaint with the Data Protection Authority where you reside, where you work, or where an alleged violation of the law has occurred. Contact details for applicable Data Protection Authorities can be found using the links below:
+
+- European Economic Area: https://edpb.europa.eu/about-edpb/board/members_en
+
+- United Kingdom: https://ico.org.uk/global/contact-us/
+
+We would, however, appreciate the chance to handle your concerns directly prior to a complaint being filed, so please contact us directly at privacy1@motorolasolutions.com if you have any concerns.
+
+Get to know more about UK Privacy Disclosures
+- Purposes and Legal Bases of Processing
+- Automated Decision-Making and Profiling
+- Retention of Personal Data
+- International Transfers of Personal Data
+- Your Additional EEA, UK, and Swiss Privacy Choices
+Purposes and Legal Bases of Processing
+
+When we process your personal data, we will do so in reliance on the following lawful bases:
+
+- Contract: Where the processing is necessary for the performance of a contract to which you are a party, or to take steps at your request prior to entering into a contract with you. This applies to any processing where you sign a contract with us, for example when you become our customer or deliver services to us as a vendor or contractor. This may also include processing necessary for the performance of our Terms of Use.
+
+- Legitimate Interest: Where the processing is necessary for the purposes of a legitimate interest that are not overridden by your interests or fundamental rights and freedoms (e.g., to conduct analytics and communicate with you).
+
+- Vital Interest: Where the processing is necessary to protect the vital interests of you or another person (e.g., to protect your physical safety).
+
+- Public Interest: Where the processing is necessary to perform tasks carried out in the public interest or in the exercise of official authority vested in us (e.g., to cooperate in an ongoing law enforcement investigation).
+
+- Legal Obligation: Where the processing is necessary to comply with our legal obligations (e.g., to maintain a record of your personal data to comply with laws and regulations related to bookkeeping, accounting, taxation, and employment).
+
+- Consent: Where we have your consent for the processing (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing of your personal data, you may withdraw your consent at any time.
+
+You are not required to provide personal data to us, but we do rely on your personal data to provide certain of our offerings. For example, we need your personal data to facilitate and deliver an order that you request. If you choose not to provide us with your personal data, we may not be able to fulfill your request. We will inform you at the point that we collect personal data from you if the provision of certain personal data is mandatory or optional.
+
+Back to UK privacy disclosures
+
+Automated Decision-Making and Profiling
+
+We do not conduct automated processing of personal data, including profiling, for the purposes of making decisions about you.
+
+Retention of Personal Data
+
+We will usually retain the personal data we collect about you for no longer than reasonably necessary to fulfill the purposes for which it was collected, and in accordance with our legitimate business interests and applicable law. However, if necessary, we may retain personal data for longer periods of time as required under applicable law or as needed to resolve disputes or protect our legal rights.
+
+The criteria used to determine the period of time for which personal data about you will be retained varies depending on the legal basis under which we process your personal data:
+
+- Contract: Where we are processing personal data based on contract, we generally will retain the information for the duration of the contract plus some additional limited period of time that is necessary to comply with law or that represents the statute of limitations for legal claims that could arise from the contractual relationship.
+
+- Legitimate Interest: Where we are processing personal data based on legitimate interests, we generally will retain the information for a reasonable period of time based on the particular interest, taking into account the fundamental interests and the rights and freedoms of data subjects.
+
+- Vital Interest: Where we are processing personal data based on vital interests, we generally will retain the information for the period of time necessary to protect the vital interests of the relevant person plus some additional limited period of time that represents any applicable statute of limitations for legal claims that could arise out of the related events.
+
+- Public Interest: Where we are processing personal data to perform tasks carried out in the public interest or in the exercise of official authority vested in us, we generally will retain the information for a reasonable period of time based on the public interest / official authority, taking into account any obligations we may have to retain the information for a longer period of time.
+
+- Legal Obligation: Where we are processing personal data based on a legal obligation, we generally will retain the information for the period of time necessary to fulfill the legal obligation plus some additional limited period of time that represents the statute of limitations for legal claims that could arise from the legal obligation.
+
+- Consent: Where we are processing personal data based on your consent, we generally will retain the information for the period of time necessary to fulfill the purposes for which you have provided your consent.
+
+In certain circumstances, we may need to apply a “legal hold” that retains information beyond our typical retention period where we face threat of legal claim. In that case, we will retain the information until the hold is removed, which typically means the claim or threat of claim has been resolved. In all cases, in addition to the purposes and legal bases identified above, we consider the amount, nature and sensitivity of personal data, as well as the potential risk of harm from unauthorized use or disclosure of personal data, in determining the relevant retention period.
+
+Once retention of the personal data is no longer reasonably necessary for the purposes outlined above, we will either delete or deidentify the personal data or, if that is not possible (for example, because personal data has been stored in backup archives), we will securely store the personal data and isolate it from further active processing until deletion or deidentification is possible.
+
+International Transfers of Personal Data
+
+We operate and engage third-party partners and providers in various jurisdictions. Therefore, we and our third-party providers may transfer personal data to, or store, access, or process personal data in, a country other than the one in which it was collected, including, but not limited to, the United States. The country to which personal data is transferred may not provide the same level of protection for personal data as the country from which it was transferred.
+
+We may transfer personal data about you outside of the EEA and UK, and when we do so we rely on appropriate or suitable safeguards recognized under applicable law, including adequacy decisions, Standard Contractual Clauses, the EU-US Data Privacy Framework and Binding Corporate Rules. Additionally, data may be transferred outside of the European Union for purposes of litigation, or exercise or defense of legal claims, where otherwise permitted by law. If you would like more information on the specific safeguards we use (and to obtain a copy of such safeguards, where applicable), please contact us at privacy1@motorolasolutions.com.
+
+Adequacy Decisions
+
+We may transfer personal data about you to countries that the relevant regulatory authority have deemed to adequately safeguard personal data, either automatically or in connection with a specific safe harbor framework.
+
+Standard Contractual Clauses
+
+Certain regulatory authorities have adopted Standard Contractual Clauses, which provide safeguards for personal data transferred outside of the originating jurisdiction. We may use these Standard Contractual Clauses when transferring personal data to a third country that has not been deemed to adequately safeguard personal data.
+
+EU-U.S. Data Privacy Framework
+
+The EU-U.S. Data Privacy Framework was designed by the U.S. Department of Commerce and the European Commission to ensure adequate protection for personal data transferred to a company participating in the EU-U.S. Data Privacy Framework. If we transfer any personal data about you from the EEA to a third party outside the EEA who is participating in the EU-U.S. Data Privacy Framework, we may rely on their participation in the Framework to ensure adequate protection for personal data so transferred.
+
+Binding Corporate Rules
+
+We have adopted a set of Binding Corporate Rules - Controller ("BCR-C’s"), for the EEA, effective October 12, 2020, and the UK, effective May 2, 2013. The BCR-C’s are designed to ensure that personal data of covered individuals in the EEA and UK are protected while being processed by any of our affiliates around the world. As a result, we rely on the BCR-C’s when transferring personal data within MSI.
+
+The Danish Data Protection Agency, Datatilsynet approved our EEA BCR-C’s. For the full text of our EEA BCR-C’s and Appendices, click here.
+
+The Information Commissioner’s Office (“ICO”) approved our UK BCR-C’s. For the full text of our UK BCR-C’s and Appendices, click here.
+
+Your Additional EEA, UK, and Swiss Privacy Choices
+
+Individuals whose personal data is collected and/or used in the EEA or UK have the rights described in our BCR-C’s (available above). In addition, subject to certain limitations at law, you may be able to exercise the following rights:
+
+- Right to Access: The right to obtain confirmation of whether we are processing personal data about you, access to and a copy of the personal data we are processing about you, and information relating to its processing, including:
+
+- The categories of personal data being processed;
+
+- The purposes of the processing;
+
+- The categories of the sources of the personal data;
+
+- The categories of recipients to whom the personal data have been or will be disclosed;
+
+- The envisaged period for which the personal data will be stored, or the criteria used to determine that period;
+
+- Any automated decision-making or profiling performed in connection with your personal data; and
+
+- The safeguards relied upon for the transfer of personal data to any third country.
+
+- Right of Portability: The right to obtain a copy of the personal data we have collected about you in a structured, commonly used, and machine-readable format, and the right to transmit that personal data to another controller without hindrance.
+
+- Right to Rectification: The right to correct or update any personal data about you that is inaccurate or incomplete.
+
+- Right to Restriction of Processing: The right to require us to limit the purposes for which we process your personal data if the continued processing of the personal data in this way is not justified, such as where the accuracy of the personal data is contested by you.
+
+- Right to Object to Processing: The right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. There may be compelling reasons for continuing to process your personal data, and we will assess and inform you if that is the case. You can object to marketing activities for any reason.
+
+- Right to Withdraw Consent: The right to withdraw your previously provided consent to our processing of your personal data. Please note withdrawing your consent will not affect the lawfulness of our use of your personal data before your consent was withdrawn, nor our processing of personal data pursuant to a different lawful basis for processing.
+
+- Right to Erasure: The right to have us erase your personal data if the continued processing of that personal data is not otherwise justified.
+
+Please note that if the exercise of these rights limits our ability to process personal data, we may not be able to provide our services to you, or otherwise engage with you in the same manner.
+
+Submitting Privacy Rights Requests
+
+Please submit a request specifying the right you wish to exercise by completing our online form found here.
+
+To exercise your right to object as it relates to the use of cookies and related technologies that facilitate our online targeted advertising activities on the www.motorolasolutions.com site, please click here to open our homepage, scroll to the bottom of the page, click “Cookie Preferences” in the footer of the website, and adjust your preferences accordingly. Where available, you may adjust your cookie preferences on our other websites through similar cookie preference managers. Please note these opt-out tools are website, device, and browser specific, so you will need to change your preferences on each device and browser you use to interact with the specific website you are visiting. In addition, you may follow the other steps set forth in the Automatic Data Collection Preferences and Targeted Advertising Preferences sections of the Your Privacy Choices section of our Privacy Statement to further exercise control over automatic data collection technologies.
+
+Before processing your request to exercise certain rights (taking into account the confidential nature of any personal data we maintain), we will need to verify your identity and confirm you are accessing our services or otherwise interacting with us from the EEA, UK, or Switzerland. In order to verify your identity, we will generally either require the successful authentication of your account, or the matching of sufficient information you provide us to the information we maintain about you in our systems. As a result, we require requests submitted through our online form and toll-free number to include first and last name, email address, state of residency and data request.
+
+In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity as needed to protect your personal data or locate your information in our systems, or where you are not accessing our services or otherwise interacting with us from the EEA or UK.
+
+## Additional Disclosures for Jurisdictions Outside of the European Economic Area, United Kingdom, and United States
+
+These disclosures supplement the information contained in our Privacy Statement by providing additional information about our personal data processing practices relating to individuals who access our sites and other online platforms or otherwise interact with us from jurisdictions outside of the European Economic Area (“EEA”), United Kingdom("UK"), or United States (“US”). For a detailed description of how we collect, use, disclose, and otherwise process personal data, please read our Privacy Statement.
+
+Our Data Protection Officer
+
+You can contact our Data Protection Officer with any questions or complaints you may have about our privacy practices in the following ways:
+
+Data Protection Officer
+
+Motorola Solutions, Inc.
+
+500 W. Monroe
+
+Chicago, IL USA 60661-3618
+
+United States
+
+Email: privacy1@motorolasolutions.com
+
+Purposes and Legal Bases of Processing
+
+When required by applicable law, we process personal data in reliance on the following lawful bases:
+
+- Contract: Where the processing is necessary for the performance of a contract to which you are a party, or to take steps at your request prior to entering into a contract with you. This applies to any processing where you sign a contract with us, for example when you become our customer or deliver services to us as a vendor or contractor. This may also include processing necessary for the performance of our Terms of Use.
+
+- Legitimate Interest: Where the processing is necessary for the purposes of a legitimate interest that are not overridden by your interests or fundamental rights and freedoms (e.g., to conduct analytics and communicate with you).
+
+- Vital Interest: Where the processing is necessary to protect the vital interests of you or another person (e.g., to protect your physical safety).
+
+- Public Interest: Where the processing is necessary to perform tasks carried out in the public interest or in the exercise of official authority vested in us (e.g., to cooperate in an ongoing law enforcement investigation).
+
+- Legal Obligation: Where the processing is necessary to comply with our legal obligations (e.g., to maintain a record of your personal data to comply with laws and regulations related to bookkeeping, accounting, taxation, and employment).
+
+- Consent: Where we have your consent for the processing (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing of your personal data, you may withdraw your consent at any time.
+
+You are not required to provide personal data to us, but we do rely on your personal data to provide certain of our offerings. For example, we need your personal data to facilitate and deliver an order that you request. If you choose not to provide us with your personal data, we may not be able to fulfill your request. We will inform you at the point that we collect personal data from you if the provision of certain personal data is mandatory or optional.
+
+Get to know more about Disclosure of Other Jurisdictions
+- Retention of Personal Data
+- International Transfers of Personal Data
+- Additional Privacy Choices
+- Contact Us
+
+Retention of Personal Data
+
+We will usually retain the personal data we collect about you for no longer than reasonably necessary to fulfil the purposes for which it was collected, and in accordance with our legitimate business interests and applicable law. However, if necessary, we may retain personal data for longer periods of time as required under applicable law or as needed to resolve disputes or protect our legal rights.
+
+The criteria used to determine the period of time for which personal data about you will be retained varies depending on the legal basis under which we process your personal data:
+
+- Contract: Where we are processing personal data based on contract, we generally will retain the information for the duration of the contract plus some additional limited period of time that is necessary to comply with law or that represents the statute of limitations for legal claims that could arise from the contractual relationship.
+
+- Legitimate Interest: Where we are processing personal data based on legitimate interests, we generally will retain the information for a reasonable period of time based on the particular interest, taking into account the fundamental interests and the rights and freedoms of data subjects.
+
+- Vital Interest: Where we are processing personal data based on vital interests, we generally will retain the information for the period of time necessary to protect the vital interests of the relevant person plus some additional limited period of time that represents any applicable statute of limitations for legal claims that could arise out of the related events.
+
+- Public Interest: Where we are processing personal data to perform tasks carried out in the public interest or in the exercise of official authority vested in us, we generally will retain the information for a reasonable period of time based on the public interest / official authority, taking into account any obligations we may have to retain the information for a longer period of time.
+
+- Legal Obligation: Where we are processing personal data based on a legal obligation, we generally will retain the information for the period of time necessary to fulfill the legal obligation plus some additional limited period of time that represents the statute of limitations for legal claims that could arise from the legal obligation.
+
+- Consent: Where we are processing personal data based on your consent, we generally will retain the information for the period of time necessary to fulfill the purposes for which you have provided your consent.
+
+In certain circumstances, we may need to apply a “legal hold” that retains information beyond our typical retention period where we face threat of legal claim. In that case, we will retain the information until the hold is removed, which typically means the claim or threat of claim has been resolved. In all cases, in addition to the purposes and legal bases identified above, we consider the amount, nature and sensitivity of personal data, as well as the potential risk of harm from unauthorized use or disclosure of personal data, in determining the relevant retention period.
+
+Once retention of the personal data is no longer reasonably necessary for the purposes outlined above, we will either delete or deidentify the personal data or, if that is not possible (for example, because personal data has been stored in backup archives), we will securely store the personal data and isolate it from further active processing until deletion or deidentification is possible.
+
+Back to Other Jurisdictions
+
+International Transfers of Personal Data
+
+We operate and engage third-party partners and providers in various jurisdictions. Therefore, where permitted by law, we and our third-party providers may transfer personal data to, or store, access, or process personal data in, a country other than the one in which it was collected, including, but not limited to, the United States. The country to which personal data is transferred may not provide the same level of protection for personal data as the country from which it was transferred.
+
+Where permitted by law, we may transfer personal data about you outside of the jurisdiction in which you are located, and when we do so we rely on appropriate or suitable safeguards recognized under applicable law. Additionally, where otherwise permitted by law, data may be transferred outside of the jurisdiction in which you are located for purposes of litigation, or exercise or defense of legal claims. If you would like more information on the specific safeguards we use (and to obtain a copy of such safeguards, where applicable), please contact us at privacy1@motorolasolutions.com.
+
+Additional Privacy Choices
+
+Depending on your country or state of residency and subject to certain legal limitations and exceptions, you may request to exercise some or all of the following rights:
+
+- Right to Access: The right to obtain confirmation of whether we are processing personal data about you, access to and a copy of the personal data we are processing about you, and information relating to its processing.
+
+- Right of Portability: The right to obtain a copy of the personal data we have collected about you in a structured, commonly used, and machine-readable format, and the right to transmit that personal data to another controller without hindrance.
+
+- Right to Correction: The right to correct or update any personal data about you that is inaccurate or incomplete.
+
+- Right to Restriction of Processing: The right to require us to limit the purposes for which we process your personal data subject to certain legal limitations and exceptions.
+
+- Right to Withdraw Consent: The right to withdraw your previously provided consent to our processing of your personal data.
+
+- Right to Erasure: The right to have us erase your personal data if the continued processing of that personal data is not otherwise justified or permitted by law.
+
+Please note that if the exercise of these rights limits our ability to process personal data, we may not be able to provide our services to you, or otherwise engage with you in the same manner.
+
+We reserve the right to deny a request to exercise any right that is not available under the laws applicable to the jurisdiction in which you are located.
+
+Submitting Privacy Rights Requests
+
+Please submit a request specifying the right you wish to exercise by completing our online form found here.
+
+To exercise any applicable rights to control the use of cookies and related technologies on the www.motorolasolutions.com site, please click here to open our homepage, scroll to the bottom of the page, click “Cookie Preferences” in the footer of the website, and adjust your preferences accordingly. Where available, you may adjust your cookie preferences on our other websites through similar cookie preference managers. Please note these tools are website, device, and browser specific, so you will need to change your preferences on each device and browser you use to interact with the specific website you are visiting. In addition, you may follow the other steps set forth in the Automatic Data Collection Preferences and Targeted Advertising Preferences sections of the Your Privacy Choices section of our Privacy Statement to further exercise control over automatic data collection technologies.
+
+Additional Mexico-Specific Privacy Notice Disclosures
+
+The applicable personal data protection law is the Federal Law on the Protection of Personal Data held by Private Parties and its Regulations.
+
+Your Personal Data Protection Rights
+
+Subject to certain legal limitations and exceptions, you may request to exercise some or all of the following rights:
+
+- Right to Access: The right to obtain confirmation of whether we are processing personal data about you, access to and a copy of the personal data we are processing about you, and information on the privacy notice governing the processing.
+
+- Right to Correction/Rectification: The right to correct or update any personal data about you that is inaccurate or incomplete.
+
+- Right to Cancel (erasure): The right to have us erase your personal data if the continued processing of that personal data is not otherwise justified or permitted by law.
+
+- Right to Object: to any processing where there are grounds relating to your particular situation subject to certain legal limitations and exceptions.
+
+You may also limit the use and disclosure of your personal data and withdraw your consent when you have previously provided consent for the processing of your personal data.
+
+Please submit a request specifying the right you wish to exercise by completing our online form found here.
+
+Contact Us
+If you have any questions or requests in connection with this Privacy Statement or other privacy-related matters, please contact us.
+
+Please note that you may always file a complaint with the personal data protection regulator, the Secretariat of Anti-Corruption and Good Governance.
+
+Please wait...

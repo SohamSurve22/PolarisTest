@@ -1,0 +1,204 @@
+- Contact Us
+
+# Privacy Policy
+
+Last modified: February 5, 2025
+
+This Website Privacy Policy ("Privacy Policy" or "Policy") describes the types of information we may collect from you or that you may provide when you visit this website and our practices for collecting, using, maintaining and disclosing that information. This Privacy Policy also applies to any other applications or tools that we provide to you through the website (collectively, the "Website"), unless those other applications or tools are governed by a separate privacy policy.
+
+This Privacy Policy does not apply to:
+
+- Information we maintain in accordance with the Health Insurance Portability and Accountability Act and its implementing regulations (HIPAA);
+
+- Information we collect offline (such as if you call us); and
+
+- Information collected by third-party websites or applications that may be linked from or accessible through the Website, which are governed by the third party's separate privacy policy (see Social Media and Links to Third-Party Websites).
+
+Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we treat it. By accessing or using our Website, you agree to this Privacy Policy and our Terms of Use.
+
+IF YOU DO NOT AGREE WITH ALL OF THE PROVISIONS OF THIS PRIVACY POLICY, THEN YOU MUST EXIT THE WEBSITE IMMEDIATELY.
+
+## Children
+
+Our Website is not intended for children under 18 years of age If you are under 18, do not use or provide any information on this Website, including email addresses, names or other Personal Information, unless you have authority under state law to provide consent without a parent or guardian. If you believe we might have information from or about a child, please contact us at websiteprivacy@chs.net.
+
+## Information We Collect About You and How We Collect It
+
+### What Information We Collect
+
+We collect several types of information from and about users of our Website:
+
+- Personal Information. Personal Information means information that can be used to identify you, such as your name, date of birth, postal address, telephone number, and email address.
+
+- De-identified Information. Personal Information does not include De-Identified Information. De-identified Information is data that does not identify you and for which there is not a reasonable basis to believe that it can be used to identify you.
+
+- Technical and Usage Data. As you navigate through and interact with our Website, we may collect information about your internet connection, the equipment you use to access our Website, and information about how you use the Website, called Technical and Usage Data. Examples of Technical and Usage Data might include your IP address; operating system; browser type; domain names; the pages within the Website you visit; access dates and times; information about what websites you traveled from to our Website; and approximate location data (geolocation).
+
+### How We Collect Information
+
+We collect the information described above:
+
+- Directly from you.
+
+- Through your use of the Website, including automatically as you navigate through the site through what are called Automatic Tracking Technologies.
+
+### Automatic Tracking Technologies
+
+As you navigate through and interact with our Website, we may use automatic data collection/automatic tracking technologies to collect Technical and Usage Data. This information helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to do things, such as:
+
+- Estimate our audience size and usage patterns;
+
+- Store information about your preferences, allowing us to customize our Website according to your individual interests;
+
+- Speed up your searches;
+
+- Recognize you when you return to our Website;
+
+- Address technical and/or security issues, including verifying system and server integrity; and
+
+- Advertise our services.
+
+The technologies we use for this automatic data collection may include:
+
+- Cookies (or browser cookies). When you visit our Website, we may store or recognize some information on your computer in the form of a "cookie" or similar technology. A cookie is a text file that is placed on your computer's hard drive by a web page server, using functions provided by your web browser.
+
+- Web Beacons. Pages of our Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, single-pixel gifs, or pixels) . Web beacons generally work in conjunction with cookies to register when a particular computer visits a particular page.
+
+- Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+
+Some of these automatic tracking technologies may be required for us to provide a specific feature or service through the Website. For example, they allow us to display the Website in the proper format or language or to authenticate registrations and transactions. Other cookies may provide a convenience feature to save you time. For example, if you enter information on a form on the Website or register for an event or other service, a cookie allows the Website to recall your specific information and save you time on your subsequent visits. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Website.
+
+### Tracking Across Websites
+
+We do not control how third parties may collect personal information about your online activities over time and across third-party websites, such as social media companies. Please see the privacy policies of the social media companies with whom you have accounts.
+
+### DNT Signals/Requests
+
+Some website browsers have a "do not track" (DNT) feature that lets you tell other websites that you do not want to have your online activities tracked. We do not currently respond to a browser's DNT signal.
+
+## How We Use Your Information
+
+We may use information that we collect about you or that you provide to us, including any Personal Information:
+
+- To operate, present, maintain and improve the Website and our services;
+
+- To customize the Website according to your individual interests;
+
+- To recognize you when you return to the Website and to speed up your searches;
+
+- To provide you with information about our company and our services;
+
+- To fulfill the purpose(s) for which you provided your information to us;
+
+- To communicate with you. For example, if you sign up for one or more of our newsletters, you may receive email communications from us. If, at any time, you do not wish to receive email communications from us, please use the "UNSUBSCRIBE" link at the bottom of our email;
+
+- To carry out our obligations and enforce our Terms of Use;
+
+- To perform legitimate business interests such as reporting and administrative functions within our organization;
+
+- To perform data analytics, such as determining which Website pages are most popular;
+
+- To comply with any applicable laws, such as to satisfy reporting obligations;
+
+- To notify you about changes to our Website or any products or services we offer or provide through it;
+
+- To improve our marketing efforts;
+
+- To protect against prevent fraud or other damage through the Website;
+
+- In any other way we may describe when you provide the information;
+
+- For any other purpose described to you through the Website;
+
+- For any other purpose that is permissible under the laws that apply to us; and
+
+- For any other purpose to which you consent.
+
+We may use De-Identified information for any purpose that is permitted by applicable law.
+
+### CONSENT TO BE CALLED
+
+IF YOU DO NOT CONSENT TO BEING CALLED BY A CHS REPRESENTATIVE, DO NOT ENTER YOUR PERSONAL INFORMATION INTO FORMS ON OUR WEBSITE.
+
+Visitors to the Website who volunteer Personal Information, or who initiate a call to us by clicking on a telephone number on the Website, consent to be contacted. We may contact you by telephone even if you have opted into the National Do Not Call list, or any State Do Not Call list.
+
+If you do not wish to be contacted again after we call you, please tell our representative on the phone that you do not want to be contacted.
+
+## How We Disclose Information
+
+We may disclose De-identified Information as permitted by law.
+
+We may disclose information that we collect or you provide:
+
+- To anyone you authorize to have it;
+
+- To our workforce and affiliated organizations;
+
+- To contractors, service providers, and other third parties we use to support our Website or our business. For example, we may disclose information to analytics companies that help us perform statistical analysis and IT contractors that provide customer service or IT support;
+
+- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information about our Website users is among the assets transferred;
+
+- To fulfill the purpose for which you provide it;
+
+- To protect our users, property, and services, such as exchanging data with third parties for fraud protection and malware prevention;
+
+- For any other purpose we disclose when you provide the information; and
+
+- At your direction or with your consent.
+
+We may share Technical and Usage Data with third parties, for the purposes discussed in the Automatic Tracking Technologies section above. For example, we may use share Technical and Usage Data with third parties, including but not limited to:
+
+- Adobe
+
+- Akimai
+
+- GCS Web
+
+- Google
+
+- Tealium
+
+Information collected directly from you by these third parties are covered by the third parties' privacy policies.
+
+WE DO NOT SELL YOUR PERSONAL INFORMATION FOR MARKETING PURPOSES.
+
+### SOCIAL MEDIA
+
+We may engage with you on third party social media sites like Instagram, Facebook, LinkedIn or X (formerly Twitter). If you engage with us on social media, you "opt in" to sharing your social media content with us. Be aware that the content you submit to social media sites (uploads, posts, comments, shares, "likes" and any messages or tweets) will be publicly visible. To manage the social media notifications you receive or to adjust your privacy settings on your social media accounts, please access the profile section of your social media accounts and follow the directions there.
+## Links to Third-Party Websites
+
+The Website may include links to third-party websites as a resource. We do not have control over third-party websites, and those third-party websites do not operate under this Privacy Policy. We are not responsible for the content of those websites or the actions of any third parties operating or managing those websites. We encourage you to review the privacy policies of third-party websites you choose to link to from the Website to understand how those third-party websites collect, use, and share your information.
+
+## Data Security
+
+We have implemented reasonable administrative, technical, and physical measures designed to protect the information we maintain about you.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your information, we cannot guarantee the security of information transmitted to our Website. You understand and acknowledge that your use of the Internet and sharing of your Personal Information through the Website carries risk that data may intercepted or accessed by unauthorized parties. We are not responsible for your circumvention of any privacy settings or security measures contained on the Website.
+
+## Data Retention
+
+We retain your Personal Information as reasonably necessary to accomplish the purposes we describe in this privacy policy, to comply with our legal obligations (such as record retention laws that apply to us), to resolve disputes, for backup and archival purposes, to demonstrate our performance, and/or to enforce our legal agreements and policies.
+
+## California Residents
+
+California has additional laws that protect Personal Information submitted through the Website,if that information is not protected under HIPAA. For more information about California privacy rights, click here.
+
+## Using Our Website Outside of the U.S.
+
+We intend our Website to be used only by individuals who are located in the United States. If you are visiting the Website from outside the United States, your Personal Information will be transferred to, stored, and processed in the United States. The data protection and other laws of the United States might not be as comprehensive as those in the country where you are located. By using the Website, you understand and agree that your Personal Information may be transferred to, processed by, and stored in the United States and shall solely be governed by applicable United States law.
+
+## Terms of Use
+
+Your use of our Website is also subject to our Terms of Use. Any disputes related to this Privacy Policy will be governed by the applicable provisions of the Terms of Use, which are incorporated into this Privacy Policy by reference, including without limitation provisions regarding limitations of liability and application of the governing law and dispute resolution policies.
+
+## Changes to Our Privacy Policy
+
+We may change this Privacy Policy at any time and for any reason. Unless we state otherwise, all changes will be effective upon being posted on the Website. We encourage you to review this Privacy Policy from time to time to stay informed of how we protect and use your information.
+
+## Contact Information
+
+If you have questions or comments about this Privacy Policy and our privacy practices, contact us at:
+
+websiteprivacy@chs.net
+or via our toll-free number:
+877-892-9813

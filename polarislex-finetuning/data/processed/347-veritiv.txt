@@ -1,0 +1,289 @@
+Sign InNew Customer
+
+# Privacy Policy
+
+Welcome to www.veritiv.com, an interactive online service operated by Veritiv Operating Company (“Veritiv”, “us”, “we”, or “our”). California consumer should click here to see our California-specific privacy notice.
+
+We respect your privacy and are committed to complying with this privacy policy (“Privacy Policy”), which describes what information we collect about you, including how we collect it, how we use it, with whom we may share it and what choices you have regarding our use of your information. This Privacy Policy applies to information collected on our website located at:, www.veritiv.com or any website or mobile application owned, operated or controlled by us that posts a link to this Privacy Policy (the “Websites”). This Privacy Policy, together with the Terms of Access posted on our Websites, sets forth the general rules and policies governing your use of our Websites. Depending on your activities when visiting our Websites, you may be required to agree to additional terms and conditions.
+
+For purposes of applicable data protection laws, Veritiv is the controller of the Personal Data (as defined below) that you provide to us. Our business office address is 1000 Abernathy Road N.E., Building 400, Suite 1700, Atlanta, GA 30328, USA.
+
+### MODIFICATIONS TO THIS PRIVACY POLICY
+
+We generally keep this Privacy Policy posted on our Websites and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITES, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITES. If, at any point, we decide to use your Personal Data in a manner materially different and incompatible with the purposes for which it was originally collected, we will notify you of this change by e-mail to the last e-mail address provided to us or by posting a prominent notice on the Websites. We will use information in accordance with the Privacy Policy under which your information was collected unless you otherwise consent.
+
+-
+#### INFORMATION WE COLLECT
+
+Our Websites typically collect two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that we automatically collect when you visit our Websites or that you provide us (collectively, “Collected Information”). In addition, if you become a registered user, your registration information, user name, and password are “Collected Information”. For more information on user registration see our Terms of Access
+
+Personal Data: “Personal Data” includes any information relating to an identified or identifiable individual, such as your name, email address, phone number, etc. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your Personal Data in connection with a feature, program, promotion or some other aspect of our Websites. For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Websites or using our online store; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey or poll; (c) post a general comment and/or recommendation on our Websites, or (d) engage with any online customer service chat feature on our Website. Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Websites.
+
+Data can include certain Personal Data that has been rendered anonymous so that it cannot be used either alone or in combination with other information to identify an individual. We may use data about you in a way that does not identify you from information that you provide us, either separately or together with your Personal Data.
+
+Automatically-Collected Information: We also automatically collect certain usage information from you when you access our Websites. This information includes, but is not limited to, your mobile device, wireless carrier, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, Opera, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, Android, iPhone, etc.), the domain name of your Internet service provider (e.g., NetZero, etc.), the search terms you use on our Websites, the specific web pages you visit, and the duration of your visits.
+
+-
+#### HOW WE USE & SHARE THE INFORMATION COLLECTED
+
+Personal Data: In addition to uses described elsewhere in this Privacy Policy, the Personal Data you submit to us is used to carry out your requests, respond to your inquiries, process your transactions, improve the user experience or content of our Websites, address integrity or security issues associated with the Websites, for any other business purpose for which you provide the information or for other purposes as required or permitted by law. We may also use this information to later contact you for a variety of reasons, including for customer service purposes and/or to provide you promotional information for our products.
+
+Service Providers: We may use third parties such as IT service providers, advertising, promotion and/or marketing partners, and payment processors, to carry out the foregoing and other business functions and, in such instances, these third parties may access or use your information for these limited purposes.
+
+Except as provided in this Privacy Policy, our Terms of Access, or as disclosed when you submit the information, your Personal Data will not be shared or sold to any third parties without your prior approval. Further, you may opt-out from receiving future promotional information from us as set forth below.
+
+Automatically Collected Information: We use automatically collected usage information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use such information by itself or aggregate it with information we have obtained from other customers or other sources. We may, among other things, share such information with our affiliated companies, allow third parties to collect such information directly from you, and/or sell the non-personally identifiable or automatically collected usage information to third parties to achieve these objectives (e.g., generate revenue, form alliances, etc.). You may have the right to opt-out of such sharing and selling depending on the state in which you reside. See the “Cookies and Preference Based Advertising” section below to learn more.
+
+Transfer of Assets: As we continue to develop our business, we may sell or purchase assets or otherwise undergo a change in corporate control. Subject to applicable privacy laws, if another entity acquires us or all (or substantially all) of our assets, the Collected Information we have about you will be transferred to and used by this acquiring entity (which may include disclosure in connection with a prospective business transaction). Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+
+Other: Regardless of any other provision in this Privacy Policy, and subject to applicable privacy laws, we reserve the right to disclose any Collected Information about you if we are required or permitted to do so by applicable law (which may include disclosure in response to a lawful access request by US or other law enforcement, courts and governmental authorities), with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Websites, or other users; or (d) in an emergency to protect the health and safety of our Websites users or the general public.
+
+-
+#### COOKIES AND PREFERENCE BASED ADVERTISING
+
+By placing a small file known as a "cookie" on your computer (or other device), Veritiv Operating Company and our third party service providers’ servers passively gather information about all visitors' use of the Websites for several reasons, including, but not limited to, the following: statistics collection and analysis, Website optimization, analytics (as described below), market research, and maintenance of user login information. We may also use cookies to enhance the performance and functionality of our Websites.. The information that we and our third party service providers track with cookies includes, but is not limited to, the type of browser (such as Google Chrome or Internet Explorer) and Internet-connected devices being used to access the Websites, your Internet protocol (“IP”) address, your home domain or Internet service provider, your referrer URL (which is the URL for the website that you were viewing prior to visiting the Websites), how you were directed to the Websites, which specific pages you access on the Websites, how long you view each page, the time and date you access our Websites and the total number of visitors to the Websites and any portions thereof. We, and/or our third party service providers, may use the information collected from cookies or similar files on your computer for security purposes (such as authentication), to facilitate site navigation and to personalize your experience while visiting the Websites. This data helps us improve our product and services. For more information about how we use cookies, please see our https://www.veritiv.com/cookie-statement.
+
+Most popular Internet browser applications will allow you to configure the browser so as not to accept cookies. However, setting your browser to reject cookies may, in certain instances, prevent you from taking full advantage of the Websites (or some portion thereof) and its capabilities, or cause some features of the Websites to function improperly or more slowly.
+
+##### WebsiteAnalytics, Web Beacons, Digital Advertising, and Usage of Pixels
+
+Our Websites may use Google Analytics, a web analysis service provided by Google, and other analytics providers in order to better understand your use of our Websites and how we can improve it (see below for more details about our use of session replay tools). We will use pixel technology vendors to enhance our search and merchandising on our website. We will use certain Google Analytics Advertising Features on the Websites, including Google Tag Manger, AdWords PPC, AdWords Remarketing, and AdWords Display. Google Analytics collects information such as how often users visit a website, what pages you visit when you do so, and what other websites you used prior to coming to such website. Google Analytics collects the IP address assigned to you on the date you visit a website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with your Personal Data. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a website, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to Veritiv’s Websites is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. Google utilizes the data collected to track and examine the use of the Veritiv Websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Veritiv Websites to contextualize and personalize the ads of its own advertising network. To more fully understand how Google may use the data it collects on the Veritiv Websites, please review “How Google uses data when you use our partners' sites or apps,” (located here or any successor URL). You can opt-out of Google advertising personalization here. If you chose to opt-out of the advertising personalization, Google will continue to serve advertisements based on a website’s content and your location.
+
+For more information about Google Analytics’ currently available opt-outs for the web please visit https://tools.google.com/dlpage/gaoptout/. For information about our targeted advertising and interest-based advertising practices, please see our Cookie and Online Advertising Policy under the heading “Do you serve targeted advertising?”
+
+We use session replay/screen capture tools to better understand our users’ needs and to optimize our Websites and the end user experience. Those parties use cookies to track users’ activity on the Website (i.e., to learn how you use and navigate the services).
+
+Some of the areas of the Websites may contain electronic images known as web beacons (sometimes known as clear gifs) that allow Veritiv, and our third party providers or affiliates, to count and track users who have visited certain portions of the Websites. Web beacons collect only limited information. Specifically, Veritiv plans to use a type of web beacon known as a “retargeting pixel,” which will allow users to receive targeted advertising from Veritiv via certain social media websites, including Facebook.com.
+
+-
+#### OTHER USES
+
+IP Addresses: An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Websites, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report aggregate information to others, and to track the use of our Websites. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Websites rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Websites, or other users; or (d) in an emergency to protect the health and safety of our Websites’ users or the general public.
+
+Email Communications: If you send us an email with questions or comments, we may use your Personal Data to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send Personal Data, such as passwords, social security numbers/social insurance numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), or we have your consent to being contacted by email for a particular purpose, such as to receive information about our products and services. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or by contacting us as provided below; provided, however, we reserve the right to send you account-related or transactional emails such as customer service communications.
+
+-
+#### LEGAL BASIS FOR PROCESSING INFORMATION
+
+If you are a data subject located in the European Economic Area (EEA), our legal basis for processing your Personal Data concerning you will depend on the Personal Data concerned and the specific context in which we collect it. However, we generally only collect Personal Data from you when: (a) we have your consent to do so, (b) we need the Personal Data to perform a contract with you (e.g., to deliver the services you have requested), or (c) where the processing is in our or a third party’s legitimate interests (and not overridden by your data protection interests or fundamental rights and freedoms Where we rely on legitimate interests, you have the right to object. We process your personal data based on legitimate interests in order to:
+
+- Market our products;
+
+- Protect you, us, or others from security threats;
+
+- Comply with laws that apply to us; and
+
+- Enable or administer our business.
+
+If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will inform you as to whether the provision of your Personal Data is mandatory and of the possible consequences if you do not provide your Personal Data. Similarly, if we collect and use your Personal Data in reliance on our (or a third party’s) legitimate interests which are not already described in this Privacy Policy, we will make clear to you at the point of data collection what those legitimate interests are.
+
+-
+##### Collection and Use of Personal Information
+
+We may collect (and may have collected during the 12-month period prior to the effective date of this Statement) the following categories of personal (we don’t regularly collect sensitive personal information except for the limited examples as discussed below) information about you:
+
+- Identifiers: identifiers such as your name, email address, IP address, and telephone number.
+
+- Commercial Information: commercial information, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies.
+
+- Online Activity: As discussed in “How We Use & Share The Information Collected” and "Cookies And Preference Based Advertising" sections above.
+
+- Geolocation Data: Target your location so we can send you promotional information for products we offer and sell that are used by your business.
+
+- Inferences: inferences drawn from any of the information identified above.
+
+We may use (and may have used during the 12-month period prior to the effective date of this Statement) your personal information for the purposes described in the “How We Use & Share The Information Collected” section above.
+
+-
+##### Sources of Personal Information
+
+During the 12-month period prior to the effective date of this Statement, we may have obtained personal information about you from the following categories of sources:
+
+- Directly from you, such as when you contact us.
+
+- From your devices, such as when you visit our Website or mobile applications.
+
+- Our affiliates and subsidiaries.
+
+- Vendors who provide services on our behalf.
+
+- Our joint marketing partners.
+
+- Online advertising services and advertising networks
+
+- Data brokers.
+
+-
+##### Selling or Sharing of Personal Information
+
+We do not sell your personal information in exchange for monetary consideration without your consent.
+
+We may allow certain third parties (such as online advertising services) to collect your personal information via automated technologies on our Website in exchange for non-monetary consideration. We share the categories of personal information listed below for the business and commercial purposes of online advertising and to provide third-party social network features and functionality on our Website. Those third parties may include Google and Facebook. Those third parties may use your personal information to optimize our properties, display cross-contextual advertising and manage their own platforms. For more information about how we use cookies, please see our Cookie and Online Advertising Statement at https://www.veritiv.com/cookie-statement. You have the right to opt out of this disclosure of your information, which may be considered a “sale” or “sharing” under California law, as set forth below.
+
+During the 12-month period prior to the effective date of this Statement, we may have sold or shared the following categories of personal information:
+
+| Category of Personal Information
+| Category of Third Party
+
+| Identifiers
+- Advertising networks, data analytics providers, social networks, data brokers
+
+| Commercial Information
+
+| Online Activity and Geolocation Data
+
+We do not knowingly sell or share the personal information of minors under 16 years of age without affirmative authorization if we have actual knowledge of the individual’s age.
+
+-
+##### Disclosing Personal Information to Third Parties
+
+We may have disclosed the following categories of personal information about you listed below for the commercial and business purposes set forth in this Statement to the following categories of recipients:
+
+| Category of Personal Information
+| Category of Recipients
+
+| Identifiers
+
+| Commercial Information
+
+| Online Activity and Geolocation Data
+
+| Geolocation data
+
+| Inferences
+
+-
+##### California Residents’ Privacy Rights
+
+You have certain choices regarding your personal information, as described below. If you exercise any of these choices and rights, we will not disadvantage you. You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
+
+- Know: You have the right to know what personal information we have collected about you, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
+
+- Deletion: You have the right to request that we delete certain personal information we have collected from you, subject to certain exceptions.
+
+- Correct: You have the right to correct inaccurate personal information that we maintain about you.
+
+- Opt-Out of Sale or Share: You have the right to opt out of the sale or sharing of your personal information through certain browser enabled opt-out preference signals, such as the Global Privacy Control. You can learn more about that option here: https://globalprivacycontrol.org/.
+
+- Limit Use and Disclosure of Sensitive Personal Information: We do not collect sensitive personal information outside of any reasonably anticipated uses, so no opt-out right applies.
+
+- How to Submit a Request. To submit a request to know, delete, or correct, click this link https://submit-irm.trustarc.com/services/validation/short/be20c1b7 or call us at the following Toll Free Phone Number 1-888-914-9661 Pin: 531200.
+
+- Authorized Agents. You may designate an authorized agent to submit requests on your behalf. To submit a request as an authorized agent on behalf of a consumer, please contact us as described above.
+
+- Record Retention. We keep records and personal information for specified periods of time, as disclosed above. As a general matter, we only retain personal information for as long as it is needed or useful for accomplishing a business, legal or tax purpose. After such period, the data is deleted or fully anonymized:
+
+- Personal information collected for purposes like maintaining your account (like sales and billing information) is retained while we have a relationship with you plus a period of no more than 10 years after that relationship ends;
+
+- Personal information collected for marketing purposes is generally retained for a maximum period of 6 years after the relationship ends; and
+
+- Verifying Requests. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. We may require you to provide any of the following information: first name, last name, month and year of birth, email address, mailing address. If you designate an authorized agent to make a request on your behalf we may require you to provide the authorized agent written permission to do so.
+
+-
+#### PUBLIC FORUMS
+
+We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Websites can communicate. We may use Personal Data to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Websites.
+
+-
+#### CHILDREN
+
+The Websites are intended for a general audience and are not intended for use or view by children under 19years of age without parental consent, and we do not knowingly collect information about children or sell products to children. Consistent with applicable data protection laws, we will not knowingly collect any information from children under the age of 19. If you are under the age of 19, you must ask your parent or guardian to assist you in using the Websites. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age or the age of majority in their jurisdiction of residence.
+
+-
+#### KEEPING YOUR INFORMATION SECURE
+
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. You agree to immediately notify us of any Websites’ security incidents, this Privacy Policy, or the Terms of Access of which you become aware.
+
+-
+#### RECORD RETENTION
+
+We will retain your Personal Data only for so long as is required for the purposes for which such information was collected, or for such longer period as may be required or permitted by applicable law. The criteria used to determine the retention periods include:
+
+- How long the Personal Data is required to respond to your request, provide the products or services to you, or operate our business.
+
+- Whether you have provided consent for a longer retention period.
+
+-
+#### OTHER SITES/LINKS
+
+Our Websites may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Websites and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Websites and to read the privacy statements of all third party websites before submitting any Personal Data.
+
+-
+#### ACCESS TO PERSONAL INFORMATION
+
+Subject to applicable data protection laws, you may have the right to access, update, and correct inaccuracies in your personal information in our records. You may request access to, updating and corrections of inaccuracies in personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information.
+
+-
+#### EUROPEAN ECONOMIC AREA RESIDENTS
+
+If you are an EEA resident (specifically, any country in the EU, Lichtenstein, Norway, Iceland), for Personal Data that we have about you, you have the right to exercise the following rights:
+
+- Request access to and rectification or erasure of Personal Data. This means you may have the right to request access to the Personal Data we hold about you, to have inaccurate or incomplete data rectified, or to have Personal Data we hold about you erased in certain circumstances (such as when it is no longer needed for the purpose for which it was collected).
+
+- Request restriction of processing of Personal Data concerning you. This means you may have the right to request that we restrict processing of your Personal Data in certain circumstances (for example, where you believe that the Personal Data we hold about you is inaccurate).
+
+- Object to processing. This means that in certain circumstances, you may have the right to request that we stop processing your Personal Data and/or stop sending you direct marketing communications.
+
+- Data portability. This means that in certain circumstances, you may have the right to be provided with your Personal Data in a structured, machine-readable and commonly used format or to request that we transfer the Personal Data to another data controller.
+
+Where we rely on your consent to process your Personal Data, you have the right to withdraw or decline your consent at any time. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal.
+
+We do not make use of automated decision-making. As defined under current data protection laws, automated decisions are defined as decisions about individuals that are based solely on the automated (i.e., no human involvement) processing of data and that produce legal effects or that significantly affect the individuals involved.
+
+You have the right to complain to a data protection (or supervisory) authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the EEA and Switzerland are available here.)
+
+We respond to all requests that we receive from individuals residing in the EEA and who wish to exercise their data protection rights in accordance with applicable data protection laws. To exercise your rights, please click this link Request Form. To protect your privacy and security, we may take steps to verify your identity before complying with your request.
+
+-
+#### VISITING THE WEBSITES FROM OUTSIDE THE UNITED STATES
+
+If you are visiting the Websites from outside of the United States of America, please be aware that your information may be transferred to, stored or processed by Veritiv or its service providers in the United States and other countries, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. Where applicable, we will rely on legally-provided mechanisms to lawfully transfer Personal Data across borders.
+
+-
+#### DO NOT TRACK REQUESTS
+
+California and Delaware laws require that we indicate whether we honor “Do Not Track” settings in your browser concerning targeted advertising. We adhere to the standards set out in this Privacy Policy and do not monitor or respond to any Do Not Track browser requests. For more information on Do Not Track, please visit www.allaboutdnt.com. Please see the California-specific section below to learn about an option for Californians called the Global Privacy Control.
+
+-
+#### SOLE STATEMENT
+
+This Privacy Policy as posted on our Websites is the sole statement of our privacy policy with respect to our Websites, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites.
+
+#### F. YOUR CALIFORNIA PRIVACY RIGHTS
+
+Notice to California Residents This California Consumer Privacy Statement (“Statement”) applies solely to California consumers and addresses personal information we collect online and offline. This Statement does not apply to Veritiv personnel or job applicants.
+
+### ACKNOWLEDGEMENT
+
+BY ACCESSING OR USING THE WEBSITES, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THE PRIVACY POLICY, AND TO THE USES AND DISCLOSURES OF COLLECTED INFORMATION ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THE TERMS OF ACCESS REFERENCED ABOVE.
+
+Veritiv© 2023 Veritiv Operating Company. All rights reserved.
+
+All rights reserved. Veritiv and the Veritiv logo are trademarks of Veritiv Operating Company or its affiliates. All other trademarks are the property of their respective owners.
+
+Veritiv
+
+Attention: VP of Marketing
+
+1000 Abernathy Road N.E.,
+
+Building 400, Suite 1700,
+
+Atlanta, GA 30328, USA
+
+This Privacy Policy was last updated on August 12, 2025.
+
+CareersMergers & AcquisitionsNewsroom
+Help CenterContact UsLocationsSite Map
+
+SDS DatabasePhishing Email ScamsCookie StatementPrivacy Policy
+
+Terms of AccessTerms of SaleTerms of Purchase
+
+Veritiv Operating Company
+
+1000 Abernathy Rd. NE Bldg. 400, Ste. 1700
+
+Atlanta, GA 30328 | +1 (844) 837-4848
+
+Veritiv Operating Company All rights reserved. Veritiv and the Veritiv logo are registered trademarks of Veritiv Operating Company or its affiliates. All other trademarks are the property of their respective owners.

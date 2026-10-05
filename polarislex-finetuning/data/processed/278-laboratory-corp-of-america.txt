@@ -1,0 +1,579 @@
+Last Updated August 14, 2026
+
+# Labcorp Privacy Notice
+
+## Who We Are
+
+Labcorp Holdings Inc. and its controlled affiliate(s) or subsidiaries, including Laboratory Corporation of America Holdings (collectively Labcorp, we, our, or us) value your privacy and the protection of your Personal Data. This Privacy Notice (Notice) explains how we collect, store, use, share, transfer, delete, and otherwise process information collected from or about you known as Personal Data (defined further below in this Notice). As a leading global life sciences company, Labcorp has multiple legal entities in different countries that may be responsible for the Personal Data they process, and we process Personal Data in accordance with the laws applicable to these entities.
+
+## Purpose of this Privacy Notice
+
+This Notice outlines what Personal Data Labcorp collects, how it is used and shared, and your rights regarding that data.
+
+This Notice applies to Personal Data collected or processed by us:
+
+- Through online activities and services we offer (including our websites, mobile apps, patient accounts, Labcorp Link, Beacon LBS, Appointment Scheduling, online store, web surveys, newsletters, applications, email, online messaging services or channels, online “chats” with live individuals and artificial intelligence, social media, telephone customer service centers, email or SMS/text messages, and otherwise) (Online Services);
+
+- Through your account and through our products and services, whether provided directly to you or your patient, or if you are a patient, through your doctor, hospital, medical treatment facility, or other healthcare provider (Healthcare Provider);
+
+- In other situations where you interact with us, including but not limited to interacting with us by visiting our sites, offices, or our events (such as tradeshows and conferences) (Events) (our products and services, Online Services, and Events, are collectively called Products and Services in this Notice);
+
+- Through our activities involving recruitment of clinical trial participants, or identifying and contracting with study investigators and their staff.
+
+- In connection with adverse events, complaints, and reports;
+
+- When you interact with us in a professional capacity, for example, if you are a Healthcare Provider or an employee of a company we do business with or provide Products and Services to;
+
+- In our employment recruiting activities; or
+
+- Anywhere this Notice is posted or referenced.
+
+In certain cases, Labcorp may give you another privacy notice, which will govern the Personal Data collected or processed in those situations instead of this one. If you are a patient in the United States, our Notice of Privacy Practices, and not this Notice, governs our use, disclosure and processing of your protected health information.
+
+If you provide us with Personal Data related to anyone other than yourself (such as a patient or family member), please note that you are responsible for complying with all privacy and data protection laws prior to providing that information to Labcorp (including collecting consent, if required).
+
+The Labcorp company, subsidiary, or affiliate with whom you, your employer, your Healthcare Provider, or your patient is interacting or the Labcorp company, subsidiary, or affiliate who owns and operates the Product or Service is, where applicable, the entity responsible for the collection and use of your Personal Data (known in some jurisdictions as the “data controller”). A list of the data controllers can be found here, and contact details can be found in the Contact Us section at the end of this Notice.
+
+Please review this Notice carefully. To the extent permitted by law, by providing us your Personal Data or otherwise interacting with us, you are agreeing to this Notice. If you do not agree with our policies and practices, it is your choice not to use our Products and Services or otherwise engage with us.
+
+## Personal Data Collected, Purposes, and Recipients
+
+### What is Personal Data?
+
+Personal Data is any information—as electronically or otherwise recorded—that can be used to identify a person or that we can link to or associate with a specific individual, and that is protected by applicable privacy or data protection laws. Personal Data includes name, address, email address, or telephone number. Personal Data in some jurisdictions can include information that indirectly identifies a person, even absent other identifying information.
+
+Personal Data may include information considered sensitive in some countries, such as biometric information, genetic information, health information, financial account information, specific geolocation, ethnic or racial origin, information concerning your sex life or your sexual orientation, Social Security number, driver’s license number, state identification card number, passport number, and other similar information. Personal Data that could be considered sensitive Personal Data under any law is indicated with the symbol (^) in the chart below.
+
+We will process any Personal Data we collect in accordance with law and as described in this Notice (unless, as explained above, a separate policy or notice governs). In some circumstances, if you do not provide us with certain Personal Data, there may be some Products and Services that are unavailable to you.
+
+The table below provides a general overview of the types of Personal Data that may be collected. After the table, additional details are provided regarding the collection, processing, and use of Personal Data, as well as information about parties who may receive your Personal Data, both currently and within the past 12 months. Some countries require us to state the legal bases for processing your Personal Data, which are the legally recognized reasons for processing your Personal Data, but please note that not all countries recognize all legal bases. The types of Personal Data we collect and disclose depends on your relationship with Labcorp. Not all the categories listed in the following charts may apply to you. If the nature of your relationship with Labcorp changes, additional categories of Personal Data, as outlined below, may also apply.
+|
+
+Identity and Contact Information
+Demographic Information and Protected Classifications
+Video, Audio, and Recorded Information
+Technical and Internet Browsing Information
+Health Information
+Commercial and Financial Information
+Professional and Educational Information
+Anonymized / De-Identified Data
+Users of Online Services
+X
+X^
+Patients and Users of Our Products
+X
+X^
+Patients Applying to or Enrolled in Patient Support Programs
+X
+X^
+Business Partners and Their Employees, Agents, and Contractors
+X
+|
+Healthcare Providers
+X
+|
+Attendees and Participants at Events
+X
+X^
+Clinical Investigators and Members of Investigator Teams
+X
+X^
+Clinical Study Candidates
+X
+X^
+Employment and Apprenticeship Candidates
+X
+X^
+Children*
+|
+
+Personal Data that may be considered sensitive is noted with a “^”.
+
+* Labcorp does not knowingly collect, maintain, disclose, or otherwise process Personal Data from minors below the age of 16 without the permission of such minor’s parents or legal guardians.
+
+## Users of Online Services
+
+We may process your Personal Data when you (1) engage with online activities and services we offer through this and other of our websites, mobile application, patient accounts, provider-facing portals, email, SMS/text messages, online messaging services and channels, online “chats” with live individuals and artificial intelligence, social media, and otherwise; (2) interact with our online store; (3) sign up for our newsletters or other informational or marketing materials; (4) contact our customer service centers via phone, email, SMS/text messages, chats, or otherwise; and/or (5) complete a survey or other online questionnaire or form.
+
+## Patients and Users of Our Products
+
+We may process your Personal Data when you are a patient or user of our products, whether provided directly to you or through your Healthcare Provider.
+
+## Patients Applying to or Enrolled in Patient Support Programs
+
+We may process your Personal Data when you are applying to or enrolled in patient support programs.
+
+## Business Partners and Their Employees, Agents, and Contractors
+
+We may process your Personal Data if you are a current Labcorp business partner or an employee, agent, or contractor of a Labcorp business partner, including collaboration partners, key opinion leaders, clients, customers, and vendors, service providers, subcontractors or suppliers of Labcorp.
+
+## Healthcare Providers
+
+We may process your Personal Data when you are a Healthcare Provider who is a current or prospective Labcorp customer, uses Labcorp Products and Services, or treats patients with Labcorp Products and Services, including use of Labcorp’s online portals.
+
+## Attendees and Participants at Events
+
+We may process your Personal Data when you attend or participate in professional and educational events or conferences we sponsor or hold.
+
+## Clinical Investigators and Members of Investigator Teams
+
+We may process your Personal Data if you are an existing or prospective clinical investigator or a member of an investigation team for a clinical study that Labcorp sponsors.
+
+## Clinical Study Candidates
+
+We may process your Personal Data to determine whether you qualify for or would be interested in participating in a clinical trial and when you have been identified as a potential candidate for clinical studies sponsored by us.
+
+If you are a participant in a clinical study or clinical trial, you should receive a separate privacy notice regarding the Personal Data we process for those purposes. That privacy notice—and not this Notice—governs our processing of such Personal Data once you are chosen for and participating in a trial.
+
+## Employment and Apprenticeship Candidates
+
+We may process your Personal Data when you apply or are a candidate for employment or apprenticeship at Labcorp. This processing may include reviewing professional information you make publicly available or share with us (e.g., on professional social networks) and, where permitted, conducting background checks that may be performed by external screening providers on Labcorp’s behalf.
+
+## Children
+
+Labcorp does not knowingly collect, maintain, disclose, or otherwise process Personal Data from minors below the age of 16 without the permission of such minor’s parents or legal guardians.
+
+*The legal bases relied upon by Labcorp include those enumerated in Articles 6 and 9 of the European Union’s General Data Protection Regulation (GDPR).
+
+**In limited circumstances, recipients may include, (1) the buyer, assignee, or transferee in the event of a sale, assignment, merger, consolidation, corporate reorganization, or transfer; and (2) government or regulatory officials, law enforcement, courts, public authorities, or others when permitted by this Notice or required by law. Further information regarding the circumstances under which we may share your personal data based on our legal requirements is below under the header “Sharing your Personal Data Based on Legal Requirements.”
+
+***This includes the removal of identifiers from protected health information required under the Health Insurance Portability and Accountability Act (“HIPAA”), 45 CFR § 164.514(b)(2). We may from time to time create certain deidentified datasets. We will not attempt to reidentify you or anyone else from these de-identified data sets, and if we disclose it to third parties, we will require that they not attempt to reidentify you or anyone else from the de-identified data. For more information on how Labcorp processes protected health information, please see our Notice of Privacy Practices.
+
++ When we discuss scientific research within this Notice, we mean research performed to assess quality assurance, case studies, and research to improve our Products and Services, including usability research. This does not refer to clinical studies or the creation of generalizable knowledge, which may be subject to a separate notice.
+
+## Sharing Your Personal Data Based on Legal Requirements
+
+Labcorp takes its legal obligations to ensure the ongoing safety of its Products and Services seriously. As a result, we may be required from time to time to share Personal Data with regulatory authorities responsible for the quality and safety of Products and Services.
+
+We may also be required from time to time to disclose your Personal Data to respond to requests from a competent law enforcement body, regulatory or government agency, court, or other third party where we believe the disclosure is necessary or appropriate to:
+
+- comply with a regulatory requirement, judicial proceeding, court order, government request, or legal process served on us;
+
+- protect the safety, rights, or property of our customers, the public, Labcorp, or others;
+
+- exercise, establish, or defend Labcorp’s legal rights;
+
+- investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of this Privacy Notice; or
+
+- produce as evidence in litigation in which we are involved.
+
+When we share Personal Data in response to regulatory or governmental requirements, court order or subpoena, we share the Personal Data we are legally required to share. When possible and appropriate in response to these requests, we de-identify, pseudonymize, aggregate, and/or anonymize the Personal Data before it is shared.
+
+Your Personal Data may be subject to U.S. laws, as well as laws of other places and jurisdictions, and may be shared or accessible by the governments, courts, law enforcement, regulatory agencies, and others of each and/or all of those places or jurisdictions. You waive and hold us harmless from any claims resulting from such disclosures and from any actions taken as a consequence of investigations by either U.S. or law enforcement authorities.
+
+## Special Note to Patients in the United States
+
+This Notice is separate from both our HIPAA Notice of Privacy Practices and that of your Health Care Provider. The HIPAA Notice of Privacy Practices explains how protected health information may be used and disclosed, and also outlines additional applicable privacy practices. Please see our Notice of Privacy Practices for more information.
+
+## Marketing, Cookies, and Analytics
+
+To the extent permitted by law, including with your consent where required:
+
+- We may use your contact details to ask if you wish to start a business relationship or to send marketing emails. You can opt out of marketing emails anytime by declining during registration, following unsubscribe instructions in our messages, contacting us, or through other points in our Online Services.
+
+- We may extend offers to you based on your interactions with Labcorp that occur outside of our online Products and Services (for instance, tailored regional offers determined by the location of your office listed on order forms).
+
+- We conduct statistical analyses of our Products and Services users to enhance the functionality, content, design, and navigation of these offerings.
+
+### Processing Using Website Tracking
+
+We collect usage data from users of our Online Services through various methods, tools, and technologies designed to store or gather information about the use and access of our Online Services (“Tracking Technologies”). Tracking Technologies include unique technical identifiers such as cookies, tags, and device IDs. Tracking Technologies may set, change, alter or modify settings or configurations on your device.
+
+We use these Tracking Technologies to:
+
+- Enable certain functions and tools on our Products and Services;
+
+- Assist in the navigation of our Products and Services;
+
+- Track, analyze and/or monitor resources, data use and other activities associated with our Products and Services;
+
+- Promote and display advertisements to you regarding Products and Services that we believe are relevant to you based on your activities while using our Products and Services or on other web or digital properties. Such advertisements may be shown to you while you are using our Products and Services or while you are using the online services of others;
+
+- Develop or enhance our Products and Services;
+
+- Provide you with an experience tailored to you when you use our Products and Services;
+
+- Effect certain security controls;
+
+- Remember your computer settings; and
+
+- Recognize you across devices
+
+As detailed above, we also collect other forms of usage data, such as information on browsers used to access our Online Services, search terms used to find the Online Services, and traffic referrals and links to our Online Services. Data collected regarding website usage is compiled to improve the performance of our websites, create a profile of uses, and improve our marketing and advertisements.
+
+We are giving you notice of the Tracking Technologies and your available choices to meaningfully inform your consent. You are responsible for managing any preference changes on your device or browser. Generally, certain Tracking Technologies may be rejected, disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. For example, if you do not want information collected through cookies, most browsers allow you to automatically decline cookies or choose to decline or accept the transfer to your computer of a particular cookie (or cookies) from a particular site. Visit http://www.allaboutcookies.org/manage-cookies/index.html for more information. Each browser you use will need to be separately configured and different browsers offer different functionality and options. If, however, you do not accept these cookies or other Tracking Technologies, you may experience some inconvenience in your use of the Products and Services. For example, we may not be able to recognize your computer, and you may need to log in every time you visit.
+
+### Sale and Sharing of Personal Data
+
+We do not sell or share your Personal Data with third parties for advertising and have not done so during the past 12 months. We do not sell or share the personal information of consumers under the age of 16 years. For any Personal Data subject to the California Consumer Privacy Act (CCPA), we do not use sensitive Personal Data for purposes other than those specified in the CCPA regulations, Section 7027(m).
+
+However, we do allow certain third parties to collect information about the users of our Products and Services to provide valuable services to us, such as fraud detection and reporting, technology support services, and analytics and advertising services. These third parties process your Personal Data on our behalf in their capacity as Labcorp’s business associates, service providers and processors.
+
+### Do-Not-Track Signals
+
+Certain web browsers and other programs may transmit “opt-out” signals or other mechanisms, also called Global Privacy Control (or GPC) signals or Do-Not-Track signals (GPC Signals), to websites with which the browser communicates. GPC Signals are used to communicate your decision to opt out of sale or sharing of your Personal Data (in particular, Personal Data collected through Tracking Technologies) for third party advertising. While Labcorp does not sell or share your Personal Data to third parties for advertising purposes, Labcorp will recognize GPC Signals to the extent required by law.
+
+### Limits on Sharing of Text Message Originator Data
+
+Except as may be otherwise required to comply with applicable law, Labcorp does not share text messaging originator opt-in and consent data with any third parties, excluding aggregators and providers of the text message services and Labcorp’s own employees and service providers acting on Labcorp’s behalf.
+
+## Interactive Features of our Websites
+
+To the extent we offer any public or group forums on our Products and Services, such as newsfeeds, blogs, message boards, or similar tools (Interactive Features), the posts or comments you make may be public and viewed by others. You should use care before posting information about yourself, including Personal Data. Because these are public postings, you should have no expectation of privacy or confidentiality in the content you submit to Interactive Features in connection with the Products and Services. Your disclosure of any Personal Data through the Interactive Features is at your own risk.
+
+## Artificial Intelligence
+
+Our Products and Services may incorporate use of automated decision-making technologies, such as large language models and artificial intelligence (collectively, “AI”). Labcorp may collect, use and sell Personal Data for training of AI to the extent permitted by applicable law. Labcorp has adopted an AI Code of Ethics designed to support and advance fairness, privacy, transparency, accountability and safety in AI usage at Labcorp. Nevertheless, you acknowledge that, given the nature of AI technology, certain AI generated output:
+
+- may be inaccurate, misleading, biased, or offensive,
+
+- may not be the same as or similar to output generated for other users,
+
+- may not qualify for intellectual property protection,
+
+- may be subject to third party terms, including, as applicable, open source licenses,
+
+- may not be representative of, reflective of, or accurately convey underlying input or source information,
+
+- does not necessarily reflect, and may be inconsistent with, Labcorp’s and other third-parties’ views, and
+
+- may reference third party products or services, but that does not mean that the third party endorses or is affiliated with Labcorp.
+
+YOU ACCEPT AND AGREE THAT ANY USE OF AI OUTPUTS FROM PRODUCTS AND SERVICES IS AT YOUR SOLE RISK AND YOU WILL NOT RELY ON ANY AI OUTPUTS AS A SOURCE OF TRUTH OR FACTUAL INFORMATION, OR AS A SUBSTITUTE FOR PROFESSIONAL ADVICE.
+
+## Service Providers and Third Parties
+
+Service providers or vendors (or processors) acting on our behalf must execute agreements requiring them to maintain confidentiality and to process Personal Data only to provide services to us and in a way that aligns with this Notice, other applicable privacy notices, and as explicitly permitted or required by applicable laws, rules, and regulations.
+
+### Combination of Data with Data Received from Third Parties and Affiliates
+
+We may combine information we collect, including Personal Data, with Personal Data that we may obtain from third parties. Labcorp may jointly use your Personal Data to provide you with the Products and Services requested, including joint use with Labcorp affiliates, as well as third parties who assist or partner with us to provide you with Products and Services. For the specific affiliates or third parties who may jointly use your data, please contact us.
+
+### Links to Other Websites
+
+Our Products and Services may contain links to other websites, applications, products, or services that are not owned or operated by Labcorp. You should carefully review the privacy policies and practices of other websites, products, and services as we cannot control and are not responsible for privacy policies, notices, or practices of third party websites, applications, products, and services.
+
+## Your Rights Regarding Your Personal Data
+
+Depending on where you live, you may have the following rights with respect to some or all of your Personal Data:
+
+- To request information about whether, and how, we process your Personal Data
+
+- To request access to and a copy of your Personal Data, including to provide your Personal Data directly to another organization (called, in some locations, a right to data portability)
+
+- To request that we correct or update your Personal Data
+
+- To request that we delete your Personal Data
+
+- To request to opt-out of any sale or sharing for advertising purposes of your Personal Data
+
+- To request to limit the use or disclosure of your sensitive Personal Data
+
+- To request to opt-out of, or access information about, use of Personal Data in connection with automated decision-making technology
+
+- To request that we restrict or block or to object to or opt-out of the processing of your Personal Data, including your sensitive Personal Data
+
+- To appeal the denial of a request; and
+
+- To lodge a complaint with the data protection authority in your jurisdiction.
+
+### For Exercise of Your Privacy Rights (Excluding US HIPAA Rights)
+
+You may exercise your privacy rights by submitting a request through our rights portal.
+
+### For US Patients under HIPAA
+
+If you are a US patient making a request, please reach out to Privacyofficer@labcorp.com or 877-23-HIPAA/877-234-4722
+
+### Exercise of Your Rights
+
+If you are an authorized agent exercising rights on behalf of another person, when you submit your rights request you must identify both yourself and the person on whose behalf you are acting and provide us with reasonable evidence that you have been granted authorization to act. We may contact you for further documentation if you do not provide adequate evidence and explanation.
+
+In the event you wish to make a complaint about how we process your Personal Data or to appeal the denial of one of your requests, please contact us. Even if you make a complaint to us, you may always lodge a complaint with the relevant privacy or data protection authority in your location. If you are a resident of Washington state in the US, the Washington Attorney-General’s complaint website is here.
+
+We will not discriminate or retaliate against you for exercising any of the rights described above, although we may not be able to continue to provide you with certain Products and Services or it may otherwise affect the way we are able to interact with you.
+
+We will make reasonable efforts to respond promptly to your requests. We may, after receiving your request, require additional information from you to honor your request and verify your identity. Please be aware that we may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+
+When we receive your Personal Data from others, including your Healthcare Provider, and process your Personal Data on their behalf, we may do so at their request and subject to their instructions. In that case, we do not have control over their privacy and security practices and processes. If your Personal Data has been submitted to us by a third party, we may need to ask you to contact them directly or we may be able to contact them on your behalf. If we need you to contact them directly, we will let you know.
+
+## Safeguarding Personal Data
+
+Labcorp has put in place physical, technical, and administrative safeguards designed to protect Personal Data from loss, misuse, alteration, theft, unauthorized access, and unauthorized disclosure consistent with legal obligations and industry practices. However, as is the case with all websites, applications, products, and services, we unfortunately are not able to guarantee security for data collected through our Products and Services. In addition, it is your responsibility to protect the security of your devices by using responsible security practices, including anti-virus and anti-malware protections, and to safeguard any passwords, identification or ID numbers, or similar individual information associated with your use of the Products and Services.
+
+## How Long Your Personal Data Will Be Kept
+
+We generally retain Personal Data for as long as needed for the specific purpose or purposes for which it was collected or obtained, and as outlined in this Notice. We also retain usage data for internal analysis purposes. Usage data is generally retained for a shorter period, except when this data is used to strengthen the security or improve the functionality of our Online Services. In some cases, we may be required to retain Personal Data for a longer period by law or for other necessary or required purposes. We may de-identify or anonymize your Personal Data or otherwise remove some or all information that may identify you from records that we may need to keep for periods beyond the specified retention period. The criteria used to determine our retention periods include: (i) the length of time we have an ongoing relationship with you; (ii) whether there is a legal obligation to which we are subject that affects the length of time we need to keep your Personal Data; and (iii) whether retention is determined to be necessary for Labcorp due to limitation periods, litigation, or other legal or regulatory obligations. Labcorp takes reasonable steps to dispose of Personal Data upon the expiration of retention periods, taking into consideration these litigation, legal, or regulatory obligations.
+
+## Transfer of Personal Data
+
+We operate in various countries throughout the world. Please be aware that Personal Data we collect and process may be transferred and maintained outside your state, province, country, or other jurisdiction, country, or location where the privacy laws may not be as protective as those in your location, including the United States. Labcorp has put in place transfer mechanisms and safeguards, in accordance with its legal requirements, to protect your Personal Data, including but not limited to Standard Contractual Clauses. Where you have given consent for optional services available in our mobile applications, we transfer your Personal Data under standard or model contractual clauses approved or required by the relevant country or jurisdiction that provide certain obligations to protect your Personal Data, along with additional technical safeguards where necessary. Where required by law, we conduct transfer impact assessments to support lawful transfer of Personal Data.
+
+## Changes to This Privacy Notice
+
+We reserve the right to change this Notice from time to time. We will alert you when changes have been made by indicating the date this Notice was last updated as the date the Notice became effective. It is recommended that you periodically revisit this Notice to learn of any changes. In addition, we will notify you of material changes to this Notice as may be required by law.
+
+## Contact Us
+
+If you have questions or comments about this Notice or about how your Personal Data is processed, or to exercise your privacy rights, please contact us by one of the methods below:
+
+### United States
+
+Email: privacyofficer@labcorp.com
+
+Mail:
+
+Laboratory Corporation of America Holdings
+
+Attn: Data Controller, Compliance Department
+
+531 South Spring St.
+
+Burlington, North Carolina 27215
+
+United States of America
+
+Phone: 858-668-3700
+
+### European Union
+
+Email: DPO@labcorp.com
+
+Mail:
+
+Labcorp BV
+
+Zanvoortstraat 2, Mechelen, 2800
+
+Belgium
+
+### United Kingdom
+
+Mail:
+Labcorp Drug Development
+
+Otley Rd
+
+Harrogate HG3 1PY
+
+United Kingdom
+
+### Switzerland
+
+Mail:
+Labcorp
+
+Rue Moises-Marcinhes 7, 1217 Meyrin,
+
+Geneva, Switzerland
+
+### Singapore
+
+Mail:
+Labcorp
+
+1 International Business Park, #02-13 The Synergy,
+
+Singapore 609917
+
+### India
+
+Mail:
+Labcorp
+
+MSR Vaishnavi, No 29 Union Street, Off Cubbon Road
+
+Bangalore 560001
+
+Karnataka India
+
+### China
+
+Mail:
+Labcorp
+
+Building No. 9, No. 338 Jialilue Road, Zhangjiang Business Park,
+
+Shanghai 201203, China
+
+## Labcorp Affiliates and List of Labcorp Controllers
+
+Below is the list of companies that are currently affiliated with or owned by Labcorp, and these companies may be responsible for processing your Personal Data.
+
+### Diagnostics
+
+3065619 Nova Scotia Company
+
+Accupath Diagnostic Laboratories, Inc.
+
+CannAmm OTS Limited Partnership
+
+Center For Disease Detection, LLC
+
+Clearstone Holdings (International) Ltd.
+
+Czura Thornton (Hong Kong) Limited
+
+D.H.G. Place du Centre Clinique Ltee.
+
+Dianon Systems, Inc.
+
+DL Holdings Limited Partnership
+
+Dynacare Company
+
+Dynacare Northwest Inc.
+
+Dynacare Valley Medical Laboratories GP Inc.
+
+Dynacare Valley Medical Laboratory Limited Partnership
+
+Dynacare – Gamma Laboratory Partnership
+
+Esoterix Colorado Pathology Practice Group, P.C.
+
+Esoterix Genetic Laboratories, LLC
+
+Esoterix Pathology Practice Group, P.C.
+
+Esoterix, Inc.
+
+Gamma-Dynacare Central Medical Laboratories GP Inc.
+
+Gamma-Dynacare Central Medical Laboratory Limited Partnership
+
+Hazpen Trustees Ltd.
+
+Lab Delivery Service of New York City, Inc.
+
+LabCorp Belgium Holdings, Inc.
+
+Labcorp Diagnostics Europe Holdings Limited
+
+LabCorp Employer Services, Inc.
+
+Labcorp Genetics Inc.
+
+LabCorp Health System Diagnostics, LLC
+
+Labcorp Japan, G.K.
+
+Labcorp Kansas, Inc.
+
+LabCorp Neon Ltd.
+
+LabCorp Neon Switzerland S.a.r.l.
+
+Labcorp Oklahoma, Inc.
+
+LabCorp Staffing Solutions, Inc.
+
+LabCorp Tennessee, LLC
+
+Labcorp UK Finco Limited
+
+LabCorp UK Holdings, Ltd.
+
+Laboratory Corporation of America
+
+Laboratory Corporation of America Holdings
+
+Medical Neurogenetics, LLC
+
+Medtox Diagnostics, Inc.
+
+Medtox Laboratories, Inc.
+
+Medtox Scientific, Inc.
+
+Monogram Biosciences, Inc.
+
+National Genetics Institute
+
+New Molecular Diagnostics Ventures LLC
+
+Omniseq, Inc.
+
+Ovuline, Inc.
+
+Pathology Associates Medical Laboratories, LLC
+
+Personal Genome Diagnostics Inc.
+
+Pixel By Lab Corp.
+
+Protedyne Corporation
+
+Sequenom Center For Molecular Medicine, LLC
+
+Sequenom, Inc.
+
+SW/DL LLC
+
+The Labcorp Charitable Foundation
+
+Viro-Med Laboratories, Inc.
+
+### BioPharma
+
+Fairfax Storage Limited
+
+Labcorp Bedford LLC
+
+Labcorp Bioanalytical Services LLC
+
+LabCorp BV
+
+Labcorp Central Laboratory Services Limited Partnership
+
+Labcorp Central Laboratory Services S.à r.l.
+
+Labcorp Clinical Development Limited
+
+Labcorp CTTS Inc.
+
+Labcorp Development (Asia) Pte. Ltd.
+
+Labcorp Development Inc.
+
+Labcorp Early Development India Private Limited
+
+Labcorp Early Development Laboratories Inc.
+
+Labcorp Early Development Laboratories Limited
+
+Labcorp Early Development Services GmbH
+
+Labcorp Hong Kong Holdings Limited
+
+Labcorp International Group Limited
+
+Labcorp International Holdings B.V.
+
+Labcorp International Holdings Limited
+
+Labcorp Laboratories India Private Limited
+
+Labcorp Laboratories Japan GK
+
+Labcorp Laboratories S.L.
+
+Labcorp Laboratories SASU
+
+Labcorp Laboratories Sdn. Bhd.
+
+Labcorp Laboratories sp. z o.o.
+
+Labcorp Laboratories YH
+
+Labcorp LSR Pension Escrow Limited
+
+Labcorp Luxembourg Sarl
+
+Labcorp Neon Luxembourg Sarl
+
+Labcorp Pharmaceutical Research and Development (Shanghai) Co., Ltd.
+
+Labcorp Pharmaceutical Research and Development (Suzhou) Co., Ltd.
+
+LSR Pension Scheme Limited

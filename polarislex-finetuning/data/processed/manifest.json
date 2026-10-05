@@ -1,0 +1,2235 @@
+[
+  {
+    "policy_id": "001-walmart",
+    "filename": "001-walmart.txt",
+    "original_size": 52491,
+    "processed_size": 49884,
+    "output_file": "data\\processed\\001-walmart.txt"
+  },
+  {
+    "policy_id": "002-exxon-mobil",
+    "filename": "002-exxon-mobil.txt",
+    "original_size": 29635,
+    "processed_size": 29600,
+    "output_file": "data\\processed\\002-exxon-mobil.txt"
+  },
+  {
+    "policy_id": "003-apple",
+    "filename": "003-apple.txt",
+    "original_size": 12422,
+    "processed_size": 12123,
+    "output_file": "data\\processed\\003-apple.txt"
+  },
+  {
+    "policy_id": "005-amazon-com",
+    "filename": "005-amazon-com.txt",
+    "original_size": 24744,
+    "processed_size": 24743,
+    "output_file": "data\\processed\\005-amazon-com.txt"
+  },
+  {
+    "policy_id": "006-unitedhealth-group",
+    "filename": "006-unitedhealth-group.txt",
+    "original_size": 41242,
+    "processed_size": 41239,
+    "output_file": "data\\processed\\006-unitedhealth-group.txt"
+  },
+  {
+    "policy_id": "008-cvs-health",
+    "filename": "008-cvs-health.txt",
+    "original_size": 14288,
+    "processed_size": 14288,
+    "output_file": "data\\processed\\008-cvs-health.txt"
+  },
+  {
+    "policy_id": "009-at-and-t",
+    "filename": "009-at-and-t.txt",
+    "original_size": 4392,
+    "processed_size": 3589,
+    "output_file": "data\\processed\\009-at-and-t.txt"
+  },
+  {
+    "policy_id": "010-amerisourcebergen",
+    "filename": "010-amerisourcebergen.txt",
+    "original_size": 31018,
+    "processed_size": 31015,
+    "output_file": "data\\processed\\010-amerisourcebergen.txt"
+  },
+  {
+    "policy_id": "012-ford-motor",
+    "filename": "012-ford-motor.txt",
+    "original_size": 119639,
+    "processed_size": 119635,
+    "output_file": "data\\processed\\012-ford-motor.txt"
+  },
+  {
+    "policy_id": "013-general-motors",
+    "filename": "013-general-motors.txt",
+    "original_size": 45536,
+    "processed_size": 45536,
+    "output_file": "data\\processed\\013-general-motors.txt"
+  },
+  {
+    "policy_id": "014-costco-wholesale",
+    "filename": "014-costco-wholesale.txt",
+    "original_size": 48644,
+    "processed_size": 47895,
+    "output_file": "data\\processed\\014-costco-wholesale.txt"
+  },
+  {
+    "policy_id": "016-cardinal-health",
+    "filename": "016-cardinal-health.txt",
+    "original_size": 98227,
+    "processed_size": 35434,
+    "output_file": "data\\processed\\016-cardinal-health.txt"
+  },
+  {
+    "policy_id": "018-jpmorgan-chase",
+    "filename": "018-jpmorgan-chase.txt",
+    "original_size": 30735,
+    "processed_size": 26713,
+    "output_file": "data\\processed\\018-jpmorgan-chase.txt"
+  },
+  {
+    "policy_id": "019-verizon-communications",
+    "filename": "019-verizon-communications.txt",
+    "original_size": 117135,
+    "processed_size": 117121,
+    "output_file": "data\\processed\\019-verizon-communications.txt"
+  },
+  {
+    "policy_id": "020-kroger",
+    "filename": "020-kroger.txt",
+    "original_size": 72221,
+    "processed_size": 72212,
+    "output_file": "data\\processed\\020-kroger.txt"
+  },
+  {
+    "policy_id": "022-fannie-mae",
+    "filename": "022-fannie-mae.txt",
+    "original_size": 36373,
+    "processed_size": 36351,
+    "output_file": "data\\processed\\022-fannie-mae.txt"
+  },
+  {
+    "policy_id": "023-phillips-66",
+    "filename": "023-phillips-66.txt",
+    "original_size": 23925,
+    "processed_size": 23712,
+    "output_file": "data\\processed\\023-phillips-66.txt"
+  },
+  {
+    "policy_id": "024-valero-energy",
+    "filename": "024-valero-energy.txt",
+    "original_size": 33200,
+    "processed_size": 3524,
+    "output_file": "data\\processed\\024-valero-energy.txt"
+  },
+  {
+    "policy_id": "025-bank-of-america",
+    "filename": "025-bank-of-america.txt",
+    "original_size": 3135,
+    "processed_size": 3135,
+    "output_file": "data\\processed\\025-bank-of-america.txt"
+  },
+  {
+    "policy_id": "026-microsoft",
+    "filename": "026-microsoft.txt",
+    "original_size": 4769,
+    "processed_size": 2842,
+    "output_file": "data\\processed\\026-microsoft.txt"
+  },
+  {
+    "policy_id": "027-home-depot",
+    "filename": "027-home-depot.txt",
+    "original_size": 63949,
+    "processed_size": 8001,
+    "output_file": "data\\processed\\027-home-depot.txt"
+  },
+  {
+    "policy_id": "028-boeing",
+    "filename": "028-boeing.txt",
+    "original_size": 38785,
+    "processed_size": 38532,
+    "output_file": "data\\processed\\028-boeing.txt"
+  },
+  {
+    "policy_id": "029-wells-fargo",
+    "filename": "029-wells-fargo.txt",
+    "original_size": 7723,
+    "processed_size": 7321,
+    "output_file": "data\\processed\\029-wells-fargo.txt"
+  },
+  {
+    "policy_id": "030-citigroup",
+    "filename": "030-citigroup.txt",
+    "original_size": 30519,
+    "processed_size": 30518,
+    "output_file": "data\\processed\\030-citigroup.txt"
+  },
+  {
+    "policy_id": "031-marathon-petroleum",
+    "filename": "031-marathon-petroleum.txt",
+    "original_size": 30298,
+    "processed_size": 30275,
+    "output_file": "data\\processed\\031-marathon-petroleum.txt"
+  },
+  {
+    "policy_id": "032-comcast",
+    "filename": "032-comcast.txt",
+    "original_size": 5209,
+    "processed_size": 5209,
+    "output_file": "data\\processed\\032-comcast.txt"
+  },
+  {
+    "policy_id": "033-anthem",
+    "filename": "033-anthem.txt",
+    "original_size": 5682,
+    "processed_size": 5610,
+    "output_file": "data\\processed\\033-anthem.txt"
+  },
+  {
+    "policy_id": "035-dupont-de-nemours",
+    "filename": "035-dupont-de-nemours.txt",
+    "original_size": 31946,
+    "processed_size": 31944,
+    "output_file": "data\\processed\\035-dupont-de-nemours.txt"
+  },
+  {
+    "policy_id": "036-state-farm-insurance",
+    "filename": "036-state-farm-insurance.txt",
+    "original_size": 12955,
+    "processed_size": 12955,
+    "output_file": "data\\processed\\036-state-farm-insurance.txt"
+  },
+  {
+    "policy_id": "037-johnson-and-johnson",
+    "filename": "037-johnson-and-johnson.txt",
+    "original_size": 66356,
+    "processed_size": 66353,
+    "output_file": "data\\processed\\037-johnson-and-johnson.txt"
+  },
+  {
+    "policy_id": "038-ibm",
+    "filename": "038-ibm.txt",
+    "original_size": 38400,
+    "processed_size": 38398,
+    "output_file": "data\\processed\\038-ibm.txt"
+  },
+  {
+    "policy_id": "040-freddie-mac",
+    "filename": "040-freddie-mac.txt",
+    "original_size": 16823,
+    "processed_size": 16823,
+    "output_file": "data\\processed\\040-freddie-mac.txt"
+  },
+  {
+    "policy_id": "041-united-parcel-service",
+    "filename": "041-united-parcel-service.txt",
+    "original_size": 39457,
+    "processed_size": 39436,
+    "output_file": "data\\processed\\041-united-parcel-service.txt"
+  },
+  {
+    "policy_id": "042-lowe-s",
+    "filename": "042-lowe-s.txt",
+    "original_size": 61787,
+    "processed_size": 61648,
+    "output_file": "data\\processed\\042-lowe-s.txt"
+  },
+  {
+    "policy_id": "043-intel",
+    "filename": "043-intel.txt",
+    "original_size": 34748,
+    "processed_size": 34632,
+    "output_file": "data\\processed\\043-intel.txt"
+  },
+  {
+    "policy_id": "044-metlife",
+    "filename": "044-metlife.txt",
+    "original_size": 24339,
+    "processed_size": 24311,
+    "output_file": "data\\processed\\044-metlife.txt"
+  },
+  {
+    "policy_id": "045-procter-and-gamble",
+    "filename": "045-procter-and-gamble.txt",
+    "original_size": 126075,
+    "processed_size": 125370,
+    "output_file": "data\\processed\\045-procter-and-gamble.txt"
+  },
+  {
+    "policy_id": "046-united-technologies",
+    "filename": "046-united-technologies.txt",
+    "original_size": 17762,
+    "processed_size": 17435,
+    "output_file": "data\\processed\\046-united-technologies.txt"
+  },
+  {
+    "policy_id": "047-fedex",
+    "filename": "047-fedex.txt",
+    "original_size": 12029,
+    "processed_size": 12028,
+    "output_file": "data\\processed\\047-fedex.txt"
+  },
+  {
+    "policy_id": "048-pepsico",
+    "filename": "048-pepsico.txt",
+    "original_size": 27647,
+    "processed_size": 27633,
+    "output_file": "data\\processed\\048-pepsico.txt"
+  },
+  {
+    "policy_id": "050-prudential-financial",
+    "filename": "050-prudential-financial.txt",
+    "original_size": 5128,
+    "processed_size": 5128,
+    "output_file": "data\\processed\\050-prudential-financial.txt"
+  },
+  {
+    "policy_id": "051-centene",
+    "filename": "051-centene.txt",
+    "original_size": 28867,
+    "processed_size": 28866,
+    "output_file": "data\\processed\\051-centene.txt"
+  },
+  {
+    "policy_id": "052-albertsons",
+    "filename": "052-albertsons.txt",
+    "original_size": 100249,
+    "processed_size": 100247,
+    "output_file": "data\\processed\\052-albertsons.txt"
+  },
+  {
+    "policy_id": "053-walt-disney",
+    "filename": "053-walt-disney.txt",
+    "original_size": 22216,
+    "processed_size": 22216,
+    "output_file": "data\\processed\\053-walt-disney.txt"
+  },
+  {
+    "policy_id": "054-sysco",
+    "filename": "054-sysco.txt",
+    "original_size": 31838,
+    "processed_size": 31782,
+    "output_file": "data\\processed\\054-sysco.txt"
+  },
+  {
+    "policy_id": "056-humana",
+    "filename": "056-humana.txt",
+    "original_size": 34142,
+    "processed_size": 34138,
+    "output_file": "data\\processed\\056-humana.txt"
+  },
+  {
+    "policy_id": "059-energy-transfer",
+    "filename": "059-energy-transfer.txt",
+    "original_size": 32043,
+    "processed_size": 32042,
+    "output_file": "data\\processed\\059-energy-transfer.txt"
+  },
+  {
+    "policy_id": "060-lockheed-martin",
+    "filename": "060-lockheed-martin.txt",
+    "original_size": 21152,
+    "processed_size": 18804,
+    "output_file": "data\\processed\\060-lockheed-martin.txt"
+  },
+  {
+    "policy_id": "061-pfizer",
+    "filename": "061-pfizer.txt",
+    "original_size": 31182,
+    "processed_size": 31182,
+    "output_file": "data\\processed\\061-pfizer.txt"
+  },
+  {
+    "policy_id": "062-goldman-sachs-group",
+    "filename": "062-goldman-sachs-group.txt",
+    "original_size": 11478,
+    "processed_size": 10502,
+    "output_file": "data\\processed\\062-goldman-sachs-group.txt"
+  },
+  {
+    "policy_id": "063-morgan-stanley",
+    "filename": "063-morgan-stanley.txt",
+    "original_size": 13833,
+    "processed_size": 835,
+    "output_file": "data\\processed\\063-morgan-stanley.txt"
+  },
+  {
+    "policy_id": "065-cigna",
+    "filename": "065-cigna.txt",
+    "original_size": 26521,
+    "processed_size": 25232,
+    "output_file": "data\\processed\\065-cigna.txt"
+  },
+  {
+    "policy_id": "066-aig",
+    "filename": "066-aig.txt",
+    "original_size": 31804,
+    "processed_size": 31803,
+    "output_file": "data\\processed\\066-aig.txt"
+  },
+  {
+    "policy_id": "068-american-airlines-group",
+    "filename": "068-american-airlines-group.txt",
+    "original_size": 88371,
+    "processed_size": 88311,
+    "output_file": "data\\processed\\068-american-airlines-group.txt"
+  },
+  {
+    "policy_id": "069-delta-air-lines",
+    "filename": "069-delta-air-lines.txt",
+    "original_size": 55835,
+    "processed_size": 55830,
+    "output_file": "data\\processed\\069-delta-air-lines.txt"
+  },
+  {
+    "policy_id": "071-new-york-life-insurance",
+    "filename": "071-new-york-life-insurance.txt",
+    "original_size": 16162,
+    "processed_size": 15857,
+    "output_file": "data\\processed\\071-new-york-life-insurance.txt"
+  },
+  {
+    "policy_id": "072-american-express",
+    "filename": "072-american-express.txt",
+    "original_size": 5425,
+    "processed_size": 4443,
+    "output_file": "data\\processed\\072-american-express.txt"
+  },
+  {
+    "policy_id": "073-nationwide",
+    "filename": "073-nationwide.txt",
+    "original_size": 115326,
+    "processed_size": 111633,
+    "output_file": "data\\processed\\073-nationwide.txt"
+  },
+  {
+    "policy_id": "075-liberty-mutual-insurance-group",
+    "filename": "075-liberty-mutual-insurance-group.txt",
+    "original_size": 17241,
+    "processed_size": 17190,
+    "output_file": "data\\processed\\075-liberty-mutual-insurance-group.txt"
+  },
+  {
+    "policy_id": "076-merck",
+    "filename": "076-merck.txt",
+    "original_size": 5099,
+    "processed_size": 614,
+    "output_file": "data\\processed\\076-merck.txt"
+  },
+  {
+    "policy_id": "079-tiaa",
+    "filename": "079-tiaa.txt",
+    "original_size": 55156,
+    "processed_size": 55153,
+    "output_file": "data\\processed\\079-tiaa.txt"
+  },
+  {
+    "policy_id": "080-tyson-foods",
+    "filename": "080-tyson-foods.txt",
+    "original_size": 94749,
+    "processed_size": 94748,
+    "output_file": "data\\processed\\080-tyson-foods.txt"
+  },
+  {
+    "policy_id": "081-oracle",
+    "filename": "081-oracle.txt",
+    "original_size": 32784,
+    "processed_size": 32776,
+    "output_file": "data\\processed\\081-oracle.txt"
+  },
+  {
+    "policy_id": "082-allstate",
+    "filename": "082-allstate.txt",
+    "original_size": 43207,
+    "processed_size": 42783,
+    "output_file": "data\\processed\\082-allstate.txt"
+  },
+  {
+    "policy_id": "084-massachusetts-mutual-life-insurance",
+    "filename": "084-massachusetts-mutual-life-insurance.txt",
+    "original_size": 17211,
+    "processed_size": 17211,
+    "output_file": "data\\processed\\084-massachusetts-mutual-life-insurance.txt"
+  },
+  {
+    "policy_id": "085-tjx",
+    "filename": "085-tjx.txt",
+    "original_size": 11062,
+    "processed_size": 11049,
+    "output_file": "data\\processed\\085-tjx.txt"
+  },
+  {
+    "policy_id": "087-deere",
+    "filename": "087-deere.txt",
+    "original_size": 4123,
+    "processed_size": 4122,
+    "output_file": "data\\processed\\087-deere.txt"
+  },
+  {
+    "policy_id": "089-enterprise-products-partners",
+    "filename": "089-enterprise-products-partners.txt",
+    "original_size": 7338,
+    "processed_size": 7338,
+    "output_file": "data\\processed\\089-enterprise-products-partners.txt"
+  },
+  {
+    "policy_id": "090-nike",
+    "filename": "090-nike.txt",
+    "original_size": 56094,
+    "processed_size": 56093,
+    "output_file": "data\\processed\\090-nike.txt"
+  },
+  {
+    "policy_id": "091-publix-super-markets",
+    "filename": "091-publix-super-markets.txt",
+    "original_size": 25180,
+    "processed_size": 24369,
+    "output_file": "data\\processed\\091-publix-super-markets.txt"
+  },
+  {
+    "policy_id": "092-general-dynamics",
+    "filename": "092-general-dynamics.txt",
+    "original_size": 10672,
+    "processed_size": 10672,
+    "output_file": "data\\processed\\092-general-dynamics.txt"
+  },
+  {
+    "policy_id": "093-exelon",
+    "filename": "093-exelon.txt",
+    "original_size": 18913,
+    "processed_size": 18912,
+    "output_file": "data\\processed\\093-exelon.txt"
+  },
+  {
+    "policy_id": "094-plains-gp-holdings",
+    "filename": "094-plains-gp-holdings.txt",
+    "original_size": 20142,
+    "processed_size": 20141,
+    "output_file": "data\\processed\\094-plains-gp-holdings.txt"
+  },
+  {
+    "policy_id": "095-3m",
+    "filename": "095-3m.txt",
+    "original_size": 34480,
+    "processed_size": 34253,
+    "output_file": "data\\processed\\095-3m.txt"
+  },
+  {
+    "policy_id": "096-abbvie",
+    "filename": "096-abbvie.txt",
+    "original_size": 6347,
+    "processed_size": 3551,
+    "output_file": "data\\processed\\096-abbvie.txt"
+  },
+  {
+    "policy_id": "097-chs",
+    "filename": "097-chs.txt",
+    "original_size": 40300,
+    "processed_size": 40300,
+    "output_file": "data\\processed\\097-chs.txt"
+  },
+  {
+    "policy_id": "098-capital-one-financial",
+    "filename": "098-capital-one-financial.txt",
+    "original_size": 30095,
+    "processed_size": 30091,
+    "output_file": "data\\processed\\098-capital-one-financial.txt"
+  },
+  {
+    "policy_id": "099-progressive",
+    "filename": "099-progressive.txt",
+    "original_size": 2395,
+    "processed_size": 2344,
+    "output_file": "data\\processed\\099-progressive.txt"
+  },
+  {
+    "policy_id": "101-usaa",
+    "filename": "101-usaa.txt",
+    "original_size": 3857,
+    "processed_size": 2312,
+    "output_file": "data\\processed\\101-usaa.txt"
+  },
+  {
+    "policy_id": "103-abbott-laboratories",
+    "filename": "103-abbott-laboratories.txt",
+    "original_size": 45342,
+    "processed_size": 44422,
+    "output_file": "data\\processed\\103-abbott-laboratories.txt"
+  },
+  {
+    "policy_id": "104-twenty-first-century-fox",
+    "filename": "104-twenty-first-century-fox.txt",
+    "original_size": 2129,
+    "processed_size": 2129,
+    "output_file": "data\\processed\\104-twenty-first-century-fox.txt"
+  },
+  {
+    "policy_id": "105-micron-technology",
+    "filename": "105-micron-technology.txt",
+    "original_size": 33222,
+    "processed_size": 33033,
+    "output_file": "data\\processed\\105-micron-technology.txt"
+  },
+  {
+    "policy_id": "106-travelers",
+    "filename": "106-travelers.txt",
+    "original_size": 13627,
+    "processed_size": 13604,
+    "output_file": "data\\processed\\106-travelers.txt"
+  },
+  {
+    "policy_id": "108-northrop-grumman",
+    "filename": "108-northrop-grumman.txt",
+    "original_size": 25452,
+    "processed_size": 25450,
+    "output_file": "data\\processed\\108-northrop-grumman.txt"
+  },
+  {
+    "policy_id": "110-philip-morris-international",
+    "filename": "110-philip-morris-international.txt",
+    "original_size": 60598,
+    "processed_size": 60598,
+    "output_file": "data\\processed\\110-philip-morris-international.txt"
+  },
+  {
+    "policy_id": "111-northwestern-mutual",
+    "filename": "111-northwestern-mutual.txt",
+    "original_size": 3112,
+    "processed_size": 3112,
+    "output_file": "data\\processed\\111-northwestern-mutual.txt"
+  },
+  {
+    "policy_id": "112-intl-fcstone",
+    "filename": "112-intl-fcstone.txt",
+    "original_size": 12028,
+    "processed_size": 6095,
+    "output_file": "data\\processed\\112-intl-fcstone.txt"
+  },
+  {
+    "policy_id": "115-kraft-heinz",
+    "filename": "115-kraft-heinz.txt",
+    "original_size": 52077,
+    "processed_size": 52032,
+    "output_file": "data\\processed\\115-kraft-heinz.txt"
+  },
+  {
+    "policy_id": "117-u-s-bancorp",
+    "filename": "117-u-s-bancorp.txt",
+    "original_size": 28716,
+    "processed_size": 28693,
+    "output_file": "data\\processed\\117-u-s-bancorp.txt"
+  },
+  {
+    "policy_id": "118-macy-s",
+    "filename": "118-macy-s.txt",
+    "original_size": 2484,
+    "processed_size": 2484,
+    "output_file": "data\\processed\\118-macy-s.txt"
+  },
+  {
+    "policy_id": "119-dollar-general",
+    "filename": "119-dollar-general.txt",
+    "original_size": 43228,
+    "processed_size": 43226,
+    "output_file": "data\\processed\\119-dollar-general.txt"
+  },
+  {
+    "policy_id": "120-nucor",
+    "filename": "120-nucor.txt",
+    "original_size": 15734,
+    "processed_size": 15734,
+    "output_file": "data\\processed\\120-nucor.txt"
+  },
+  {
+    "policy_id": "121-starbucks",
+    "filename": "121-starbucks.txt",
+    "original_size": 47174,
+    "processed_size": 46374,
+    "output_file": "data\\processed\\121-starbucks.txt"
+  },
+  {
+    "policy_id": "122-dxc-technology",
+    "filename": "122-dxc-technology.txt",
+    "original_size": 37189,
+    "processed_size": 37188,
+    "output_file": "data\\processed\\122-dxc-technology.txt"
+  },
+  {
+    "policy_id": "124-thermo-fisher-scientific",
+    "filename": "124-thermo-fisher-scientific.txt",
+    "original_size": 44570,
+    "processed_size": 44227,
+    "output_file": "data\\processed\\124-thermo-fisher-scientific.txt"
+  },
+  {
+    "policy_id": "125-us-foods-holding",
+    "filename": "125-us-foods-holding.txt",
+    "original_size": 40766,
+    "processed_size": 14039,
+    "output_file": "data\\processed\\125-us-foods-holding.txt"
+  },
+  {
+    "policy_id": "127-halliburton",
+    "filename": "127-halliburton.txt",
+    "original_size": 20816,
+    "processed_size": 20816,
+    "output_file": "data\\processed\\127-halliburton.txt"
+  },
+  {
+    "policy_id": "128-cummins",
+    "filename": "128-cummins.txt",
+    "original_size": 10893,
+    "processed_size": 10893,
+    "output_file": "data\\processed\\128-cummins.txt"
+  },
+  {
+    "policy_id": "129-amgen",
+    "filename": "129-amgen.txt",
+    "original_size": 108128,
+    "processed_size": 107916,
+    "output_file": "data\\processed\\129-amgen.txt"
+  },
+  {
+    "policy_id": "130-paccar",
+    "filename": "130-paccar.txt",
+    "original_size": 37375,
+    "processed_size": 37295,
+    "output_file": "data\\processed\\130-paccar.txt"
+  },
+  {
+    "policy_id": "131-southern",
+    "filename": "131-southern.txt",
+    "original_size": 8717,
+    "processed_size": 8716,
+    "output_file": "data\\processed\\131-southern.txt"
+  },
+  {
+    "policy_id": "133-international-paper",
+    "filename": "133-international-paper.txt",
+    "original_size": 8209,
+    "processed_size": 8209,
+    "output_file": "data\\processed\\133-international-paper.txt"
+  },
+  {
+    "policy_id": "134-union-pacific",
+    "filename": "134-union-pacific.txt",
+    "original_size": 34503,
+    "processed_size": 12792,
+    "output_file": "data\\processed\\134-union-pacific.txt"
+  },
+  {
+    "policy_id": "135-dollar-tree",
+    "filename": "135-dollar-tree.txt",
+    "original_size": 42936,
+    "processed_size": 42922,
+    "output_file": "data\\processed\\135-dollar-tree.txt"
+  },
+  {
+    "policy_id": "137-qualcomm",
+    "filename": "137-qualcomm.txt",
+    "original_size": 15723,
+    "processed_size": 15721,
+    "output_file": "data\\processed\\137-qualcomm.txt"
+  },
+  {
+    "policy_id": "138-bristol-myers-squibb",
+    "filename": "138-bristol-myers-squibb.txt",
+    "original_size": 18167,
+    "processed_size": 18167,
+    "output_file": "data\\processed\\138-bristol-myers-squibb.txt"
+  },
+  {
+    "policy_id": "140-jabil",
+    "filename": "140-jabil.txt",
+    "original_size": 21021,
+    "processed_size": 21021,
+    "output_file": "data\\processed\\140-jabil.txt"
+  },
+  {
+    "policy_id": "142-southwest-airlines",
+    "filename": "142-southwest-airlines.txt",
+    "original_size": 56315,
+    "processed_size": 55697,
+    "output_file": "data\\processed\\142-southwest-airlines.txt"
+  },
+  {
+    "policy_id": "143-aflac",
+    "filename": "143-aflac.txt",
+    "original_size": 62317,
+    "processed_size": 61012,
+    "output_file": "data\\processed\\143-aflac.txt"
+  },
+  {
+    "policy_id": "144-tesla",
+    "filename": "144-tesla.txt",
+    "original_size": 1891,
+    "processed_size": 1891,
+    "output_file": "data\\processed\\144-tesla.txt"
+  },
+  {
+    "policy_id": "145-autonation",
+    "filename": "145-autonation.txt",
+    "original_size": 66388,
+    "processed_size": 66003,
+    "output_file": "data\\processed\\145-autonation.txt"
+  },
+  {
+    "policy_id": "146-cbre-group",
+    "filename": "146-cbre-group.txt",
+    "original_size": 50119,
+    "processed_size": 48959,
+    "output_file": "data\\processed\\146-cbre-group.txt"
+  },
+  {
+    "policy_id": "147-lear",
+    "filename": "147-lear.txt",
+    "original_size": 28637,
+    "processed_size": 28637,
+    "output_file": "data\\processed\\147-lear.txt"
+  },
+  {
+    "policy_id": "148-whirlpool",
+    "filename": "148-whirlpool.txt",
+    "original_size": 39887,
+    "processed_size": 39885,
+    "output_file": "data\\processed\\148-whirlpool.txt"
+  },
+  {
+    "policy_id": "149-mcdonald-s",
+    "filename": "149-mcdonald-s.txt",
+    "original_size": 3272,
+    "processed_size": 3272,
+    "output_file": "data\\processed\\149-mcdonald-s.txt"
+  },
+  {
+    "policy_id": "150-broadcom",
+    "filename": "150-broadcom.txt",
+    "original_size": 41128,
+    "processed_size": 41126,
+    "output_file": "data\\processed\\150-broadcom.txt"
+  },
+  {
+    "policy_id": "152-western-digital",
+    "filename": "152-western-digital.txt",
+    "original_size": 1402822,
+    "processed_size": 1402817,
+    "output_file": "data\\processed\\152-western-digital.txt"
+  },
+  {
+    "policy_id": "154-lennar",
+    "filename": "154-lennar.txt",
+    "original_size": 60699,
+    "processed_size": 60646,
+    "output_file": "data\\processed\\154-lennar.txt"
+  },
+  {
+    "policy_id": "155-wellcare-health-plans",
+    "filename": "155-wellcare-health-plans.txt",
+    "original_size": 25499,
+    "processed_size": 25499,
+    "output_file": "data\\processed\\155-wellcare-health-plans.txt"
+  },
+  {
+    "policy_id": "156-kohl-s",
+    "filename": "156-kohl-s.txt",
+    "original_size": 36114,
+    "processed_size": 36112,
+    "output_file": "data\\processed\\156-kohl-s.txt"
+  },
+  {
+    "policy_id": "157-aecom",
+    "filename": "157-aecom.txt",
+    "original_size": 62047,
+    "processed_size": 62018,
+    "output_file": "data\\processed\\157-aecom.txt"
+  },
+  {
+    "policy_id": "159-pnc-financial-services",
+    "filename": "159-pnc-financial-services.txt",
+    "original_size": 6203,
+    "processed_size": 6203,
+    "output_file": "data\\processed\\159-pnc-financial-services.txt"
+  },
+  {
+    "policy_id": "160-danaher",
+    "filename": "160-danaher.txt",
+    "original_size": 36749,
+    "processed_size": 36749,
+    "output_file": "data\\processed\\160-danaher.txt"
+  },
+  {
+    "policy_id": "161-hartford-financial-services",
+    "filename": "161-hartford-financial-services.txt",
+    "original_size": 21002,
+    "processed_size": 21001,
+    "output_file": "data\\processed\\161-hartford-financial-services.txt"
+  },
+  {
+    "policy_id": "162-altria-group",
+    "filename": "162-altria-group.txt",
+    "original_size": 16940,
+    "processed_size": 16924,
+    "output_file": "data\\processed\\162-altria-group.txt"
+  },
+  {
+    "policy_id": "164-fluor",
+    "filename": "164-fluor.txt",
+    "original_size": 19188,
+    "processed_size": 19146,
+    "output_file": "data\\processed\\164-fluor.txt"
+  },
+  {
+    "policy_id": "165-avnet",
+    "filename": "165-avnet.txt",
+    "original_size": 29745,
+    "processed_size": 29560,
+    "output_file": "data\\processed\\165-avnet.txt"
+  },
+  {
+    "policy_id": "167-occidental-petroleum",
+    "filename": "167-occidental-petroleum.txt",
+    "original_size": 21373,
+    "processed_size": 21370,
+    "output_file": "data\\processed\\167-occidental-petroleum.txt"
+  },
+  {
+    "policy_id": "170-freeport-mcmoran",
+    "filename": "170-freeport-mcmoran.txt",
+    "original_size": 17083,
+    "processed_size": 15377,
+    "output_file": "data\\processed\\170-freeport-mcmoran.txt"
+  },
+  {
+    "policy_id": "171-kimberly-clark",
+    "filename": "171-kimberly-clark.txt",
+    "original_size": 98237,
+    "processed_size": 98220,
+    "output_file": "data\\processed\\171-kimberly-clark.txt"
+  },
+  {
+    "policy_id": "172-tenet-healthcare",
+    "filename": "172-tenet-healthcare.txt",
+    "original_size": 11928,
+    "processed_size": 11928,
+    "output_file": "data\\processed\\172-tenet-healthcare.txt"
+  },
+  {
+    "policy_id": "173-synchrony-financial",
+    "filename": "173-synchrony-financial.txt",
+    "original_size": 87706,
+    "processed_size": 87700,
+    "output_file": "data\\processed\\173-synchrony-financial.txt"
+  },
+  {
+    "policy_id": "174-carmax",
+    "filename": "174-carmax.txt",
+    "original_size": 33638,
+    "processed_size": 33637,
+    "output_file": "data\\processed\\174-carmax.txt"
+  },
+  {
+    "policy_id": "176-performance-food-group",
+    "filename": "176-performance-food-group.txt",
+    "original_size": 36998,
+    "processed_size": 36996,
+    "output_file": "data\\processed\\176-performance-food-group.txt"
+  },
+  {
+    "policy_id": "177-sherwin-williams",
+    "filename": "177-sherwin-williams.txt",
+    "original_size": 75373,
+    "processed_size": 75359,
+    "output_file": "data\\processed\\177-sherwin-williams.txt"
+  },
+  {
+    "policy_id": "178-emerson-electric",
+    "filename": "178-emerson-electric.txt",
+    "original_size": 45687,
+    "processed_size": 45687,
+    "output_file": "data\\processed\\178-emerson-electric.txt"
+  },
+  {
+    "policy_id": "179-ngl-energy-partners",
+    "filename": "179-ngl-energy-partners.txt",
+    "original_size": 11300,
+    "processed_size": 11300,
+    "output_file": "data\\processed\\179-ngl-energy-partners.txt"
+  },
+  {
+    "policy_id": "180-xpo-logistics",
+    "filename": "180-xpo-logistics.txt",
+    "original_size": 44184,
+    "processed_size": 44183,
+    "output_file": "data\\processed\\180-xpo-logistics.txt"
+  },
+  {
+    "policy_id": "182-applied-materials",
+    "filename": "182-applied-materials.txt",
+    "original_size": 23552,
+    "processed_size": 23551,
+    "output_file": "data\\processed\\182-applied-materials.txt"
+  },
+  {
+    "policy_id": "183-pg-and-e",
+    "filename": "183-pg-and-e.txt",
+    "original_size": 1904,
+    "processed_size": 1411,
+    "output_file": "data\\processed\\183-pg-and-e.txt"
+  },
+  {
+    "policy_id": "184-nextera-energy",
+    "filename": "184-nextera-energy.txt",
+    "original_size": 15697,
+    "processed_size": 15137,
+    "output_file": "data\\processed\\184-nextera-energy.txt"
+  },
+  {
+    "policy_id": "186-gap",
+    "filename": "186-gap.txt",
+    "original_size": 66289,
+    "processed_size": 66269,
+    "output_file": "data\\processed\\186-gap.txt"
+  },
+  {
+    "policy_id": "188-davita",
+    "filename": "188-davita.txt",
+    "original_size": 41827,
+    "processed_size": 41825,
+    "output_file": "data\\processed\\188-davita.txt"
+  },
+  {
+    "policy_id": "190-westrock",
+    "filename": "190-westrock.txt",
+    "original_size": 19801,
+    "processed_size": 19786,
+    "output_file": "data\\processed\\190-westrock.txt"
+  },
+  {
+    "policy_id": "192-american-electric-power",
+    "filename": "192-american-electric-power.txt",
+    "original_size": 3740,
+    "processed_size": 3718,
+    "output_file": "data\\processed\\192-american-electric-power.txt"
+  },
+  {
+    "policy_id": "193-cognizant-technology-solutions",
+    "filename": "193-cognizant-technology-solutions.txt",
+    "original_size": 29631,
+    "processed_size": 29622,
+    "output_file": "data\\processed\\193-cognizant-technology-solutions.txt"
+  },
+  {
+    "policy_id": "195-becton-dickinson",
+    "filename": "195-becton-dickinson.txt",
+    "original_size": 29929,
+    "processed_size": 29363,
+    "output_file": "data\\processed\\195-becton-dickinson.txt"
+  },
+  {
+    "policy_id": "196-nordstrom",
+    "filename": "196-nordstrom.txt",
+    "original_size": 46750,
+    "processed_size": 46719,
+    "output_file": "data\\processed\\196-nordstrom.txt"
+  },
+  {
+    "policy_id": "197-netflix",
+    "filename": "197-netflix.txt",
+    "original_size": 53685,
+    "processed_size": 51663,
+    "output_file": "data\\processed\\197-netflix.txt"
+  },
+  {
+    "policy_id": "199-texas-instruments",
+    "filename": "199-texas-instruments.txt",
+    "original_size": 49703,
+    "processed_size": 49701,
+    "output_file": "data\\processed\\199-texas-instruments.txt"
+  },
+  {
+    "policy_id": "202-colgate-palmolive",
+    "filename": "202-colgate-palmolive.txt",
+    "original_size": 1127,
+    "processed_size": 600,
+    "output_file": "data\\processed\\202-colgate-palmolive.txt"
+  },
+  {
+    "policy_id": "203-goodyear-tire-and-rubber",
+    "filename": "203-goodyear-tire-and-rubber.txt",
+    "original_size": 9650,
+    "processed_size": 9650,
+    "output_file": "data\\processed\\203-goodyear-tire-and-rubber.txt"
+  },
+  {
+    "policy_id": "204-paypal-holdings",
+    "filename": "204-paypal-holdings.txt",
+    "original_size": 114678,
+    "processed_size": 114058,
+    "output_file": "data\\processed\\204-paypal-holdings.txt"
+  },
+  {
+    "policy_id": "206-omnicom-group",
+    "filename": "206-omnicom-group.txt",
+    "original_size": 48306,
+    "processed_size": 48306,
+    "output_file": "data\\processed\\206-omnicom-group.txt"
+  },
+  {
+    "policy_id": "208-jacobs-engineering-group",
+    "filename": "208-jacobs-engineering-group.txt",
+    "original_size": 16893,
+    "processed_size": 16892,
+    "output_file": "data\\processed\\208-jacobs-engineering-group.txt"
+  },
+  {
+    "policy_id": "209-ross-stores",
+    "filename": "209-ross-stores.txt",
+    "original_size": 34598,
+    "processed_size": 34598,
+    "output_file": "data\\processed\\209-ross-stores.txt"
+  },
+  {
+    "policy_id": "210-mastercard",
+    "filename": "210-mastercard.txt",
+    "original_size": 83373,
+    "processed_size": 83338,
+    "output_file": "data\\processed\\210-mastercard.txt"
+  },
+  {
+    "policy_id": "211-marsh-and-mclennan",
+    "filename": "211-marsh-and-mclennan.txt",
+    "original_size": 13596,
+    "processed_size": 13550,
+    "output_file": "data\\processed\\211-marsh-and-mclennan.txt"
+  },
+  {
+    "policy_id": "212-land-o-lakes",
+    "filename": "212-land-o-lakes.txt",
+    "original_size": 67159,
+    "processed_size": 66467,
+    "output_file": "data\\processed\\212-land-o-lakes.txt"
+  },
+  {
+    "policy_id": "213-waste-management",
+    "filename": "213-waste-management.txt",
+    "original_size": 31969,
+    "processed_size": 31966,
+    "output_file": "data\\processed\\213-waste-management.txt"
+  },
+  {
+    "policy_id": "214-illinois-tool-works",
+    "filename": "214-illinois-tool-works.txt",
+    "original_size": 28330,
+    "processed_size": 28329,
+    "output_file": "data\\processed\\214-illinois-tool-works.txt"
+  },
+  {
+    "policy_id": "215-ecolab",
+    "filename": "215-ecolab.txt",
+    "original_size": 17825,
+    "processed_size": 17825,
+    "output_file": "data\\processed\\215-ecolab.txt"
+  },
+  {
+    "policy_id": "216-booking-holdings",
+    "filename": "216-booking-holdings.txt",
+    "original_size": 11507,
+    "processed_size": 11497,
+    "output_file": "data\\processed\\216-booking-holdings.txt"
+  },
+  {
+    "policy_id": "217-cbs",
+    "filename": "217-cbs.txt",
+    "original_size": 51158,
+    "processed_size": 51157,
+    "output_file": "data\\processed\\217-cbs.txt"
+  },
+  {
+    "policy_id": "219-principal-financial",
+    "filename": "219-principal-financial.txt",
+    "original_size": 2427,
+    "processed_size": 2315,
+    "output_file": "data\\processed\\219-principal-financial.txt"
+  },
+  {
+    "policy_id": "221-blackrock",
+    "filename": "221-blackrock.txt",
+    "original_size": 370773,
+    "processed_size": 370480,
+    "output_file": "data\\processed\\221-blackrock.txt"
+  },
+  {
+    "policy_id": "222-united-states-steel",
+    "filename": "222-united-states-steel.txt",
+    "original_size": 10944,
+    "processed_size": 10938,
+    "output_file": "data\\processed\\222-united-states-steel.txt"
+  },
+  {
+    "policy_id": "223-community-health-systems",
+    "filename": "223-community-health-systems.txt",
+    "original_size": 14756,
+    "processed_size": 14164,
+    "output_file": "data\\processed\\223-community-health-systems.txt"
+  },
+  {
+    "policy_id": "225-qurate-retail",
+    "filename": "225-qurate-retail.txt",
+    "original_size": 7402,
+    "processed_size": 7400,
+    "output_file": "data\\processed\\225-qurate-retail.txt"
+  },
+  {
+    "policy_id": "227-arconic",
+    "filename": "227-arconic.txt",
+    "original_size": 881,
+    "processed_size": 845,
+    "output_file": "data\\processed\\227-arconic.txt"
+  },
+  {
+    "policy_id": "228-stanley-black-and-decker",
+    "filename": "228-stanley-black-and-decker.txt",
+    "original_size": 59035,
+    "processed_size": 59034,
+    "output_file": "data\\processed\\228-stanley-black-and-decker.txt"
+  },
+  {
+    "policy_id": "229-textron",
+    "filename": "229-textron.txt",
+    "original_size": 11540,
+    "processed_size": 11539,
+    "output_file": "data\\processed\\229-textron.txt"
+  },
+  {
+    "policy_id": "230-las-vegas-sands",
+    "filename": "230-las-vegas-sands.txt",
+    "original_size": 19447,
+    "processed_size": 19447,
+    "output_file": "data\\processed\\230-las-vegas-sands.txt"
+  },
+  {
+    "policy_id": "231-estee-lauder",
+    "filename": "231-estee-lauder.txt",
+    "original_size": 5044,
+    "processed_size": 1773,
+    "output_file": "data\\processed\\231-estee-lauder.txt"
+  },
+  {
+    "policy_id": "233-stryker",
+    "filename": "233-stryker.txt",
+    "original_size": 11689,
+    "processed_size": 11688,
+    "output_file": "data\\processed\\233-stryker.txt"
+  },
+  {
+    "policy_id": "234-kellogg",
+    "filename": "234-kellogg.txt",
+    "original_size": 63092,
+    "processed_size": 62517,
+    "output_file": "data\\processed\\234-kellogg.txt"
+  },
+  {
+    "policy_id": "235-biogen",
+    "filename": "235-biogen.txt",
+    "original_size": 31537,
+    "processed_size": 31441,
+    "output_file": "data\\processed\\235-biogen.txt"
+  },
+  {
+    "policy_id": "236-alcoa",
+    "filename": "236-alcoa.txt",
+    "original_size": 16989,
+    "processed_size": 16989,
+    "output_file": "data\\processed\\236-alcoa.txt"
+  },
+  {
+    "policy_id": "238-dominion-energy",
+    "filename": "238-dominion-energy.txt",
+    "original_size": 20484,
+    "processed_size": 20468,
+    "output_file": "data\\processed\\238-dominion-energy.txt"
+  },
+  {
+    "policy_id": "239-adp",
+    "filename": "239-adp.txt",
+    "original_size": 13870,
+    "processed_size": 13783,
+    "output_file": "data\\processed\\239-adp.txt"
+  },
+  {
+    "policy_id": "240-salesforce-com",
+    "filename": "240-salesforce-com.txt",
+    "original_size": 2547,
+    "processed_size": 2547,
+    "output_file": "data\\processed\\240-salesforce-com.txt"
+  },
+  {
+    "policy_id": "243-newell-brands",
+    "filename": "243-newell-brands.txt",
+    "original_size": 44590,
+    "processed_size": 44485,
+    "output_file": "data\\processed\\243-newell-brands.txt"
+  },
+  {
+    "policy_id": "244-guardian-life-ins-co-of-america",
+    "filename": "244-guardian-life-ins-co-of-america.txt",
+    "original_size": 6393,
+    "processed_size": 6379,
+    "output_file": "data\\processed\\244-guardian-life-ins-co-of-america.txt"
+  },
+  {
+    "policy_id": "245-bj-s-wholesale-club",
+    "filename": "245-bj-s-wholesale-club.txt",
+    "original_size": 32192,
+    "processed_size": 32190,
+    "output_file": "data\\processed\\245-bj-s-wholesale-club.txt"
+  },
+  {
+    "policy_id": "246-bb-and-t-corp",
+    "filename": "246-bb-and-t-corp.txt",
+    "original_size": 55754,
+    "processed_size": 30781,
+    "output_file": "data\\processed\\246-bb-and-t-corp.txt"
+  },
+  {
+    "policy_id": "248-viacom",
+    "filename": "248-viacom.txt",
+    "original_size": 51158,
+    "processed_size": 51157,
+    "output_file": "data\\processed\\248-viacom.txt"
+  },
+  {
+    "policy_id": "249-ameriprise-financial",
+    "filename": "249-ameriprise-financial.txt",
+    "original_size": 15778,
+    "processed_size": 15718,
+    "output_file": "data\\processed\\249-ameriprise-financial.txt"
+  },
+  {
+    "policy_id": "251-reinsurance-group-of-america",
+    "filename": "251-reinsurance-group-of-america.txt",
+    "original_size": 21667,
+    "processed_size": 21601,
+    "output_file": "data\\processed\\251-reinsurance-group-of-america.txt"
+  },
+  {
+    "policy_id": "252-vf",
+    "filename": "252-vf.txt",
+    "original_size": 32473,
+    "processed_size": 30442,
+    "output_file": "data\\processed\\252-vf.txt"
+  },
+  {
+    "policy_id": "253-discover-financial-services",
+    "filename": "253-discover-financial-services.txt",
+    "original_size": 29120,
+    "processed_size": 29118,
+    "output_file": "data\\processed\\253-discover-financial-services.txt"
+  },
+  {
+    "policy_id": "254-global-partners",
+    "filename": "254-global-partners.txt",
+    "original_size": 32651,
+    "processed_size": 32651,
+    "output_file": "data\\processed\\254-global-partners.txt"
+  },
+  {
+    "policy_id": "255-edison-international",
+    "filename": "255-edison-international.txt",
+    "original_size": 18066,
+    "processed_size": 17732,
+    "output_file": "data\\processed\\255-edison-international.txt"
+  },
+  {
+    "policy_id": "256-oneok",
+    "filename": "256-oneok.txt",
+    "original_size": 35553,
+    "processed_size": 35553,
+    "output_file": "data\\processed\\256-oneok.txt"
+  },
+  {
+    "policy_id": "259-consolidated-edison",
+    "filename": "259-consolidated-edison.txt",
+    "original_size": 13885,
+    "processed_size": 13884,
+    "output_file": "data\\processed\\259-consolidated-edison.txt"
+  },
+  {
+    "policy_id": "260-csx",
+    "filename": "260-csx.txt",
+    "original_size": 9006,
+    "processed_size": 8763,
+    "output_file": "data\\processed\\260-csx.txt"
+  },
+  {
+    "policy_id": "261-j-c-penney",
+    "filename": "261-j-c-penney.txt",
+    "original_size": 33823,
+    "processed_size": 33602,
+    "output_file": "data\\processed\\261-j-c-penney.txt"
+  },
+  {
+    "policy_id": "262-lkq",
+    "filename": "262-lkq.txt",
+    "original_size": 92519,
+    "processed_size": 92516,
+    "output_file": "data\\processed\\262-lkq.txt"
+  },
+  {
+    "policy_id": "263-firstenergy",
+    "filename": "263-firstenergy.txt",
+    "original_size": 6441,
+    "processed_size": 6432,
+    "output_file": "data\\processed\\263-firstenergy.txt"
+  },
+  {
+    "policy_id": "265-lithia-motors",
+    "filename": "265-lithia-motors.txt",
+    "original_size": 19446,
+    "processed_size": 19442,
+    "output_file": "data\\processed\\265-lithia-motors.txt"
+  },
+  {
+    "policy_id": "266-mgm-resorts-international",
+    "filename": "266-mgm-resorts-international.txt",
+    "original_size": 237461,
+    "processed_size": 237454,
+    "output_file": "data\\processed\\266-mgm-resorts-international.txt"
+  },
+  {
+    "policy_id": "268-nvidia",
+    "filename": "268-nvidia.txt",
+    "original_size": 28776,
+    "processed_size": 28741,
+    "output_file": "data\\processed\\268-nvidia.txt"
+  },
+  {
+    "policy_id": "269-sempra-energy",
+    "filename": "269-sempra-energy.txt",
+    "original_size": 139195,
+    "processed_size": 21811,
+    "output_file": "data\\processed\\269-sempra-energy.txt"
+  },
+  {
+    "policy_id": "270-farmers-insurance-exchange",
+    "filename": "270-farmers-insurance-exchange.txt",
+    "original_size": 38085,
+    "processed_size": 37856,
+    "output_file": "data\\processed\\270-farmers-insurance-exchange.txt"
+  },
+  {
+    "policy_id": "274-xcel-energy",
+    "filename": "274-xcel-energy.txt",
+    "original_size": 15299,
+    "processed_size": 15299,
+    "output_file": "data\\processed\\274-xcel-energy.txt"
+  },
+  {
+    "policy_id": "278-laboratory-corp-of-america",
+    "filename": "278-laboratory-corp-of-america.txt",
+    "original_size": 34681,
+    "processed_size": 34609,
+    "output_file": "data\\processed\\278-laboratory-corp-of-america.txt"
+  },
+  {
+    "policy_id": "279-corning",
+    "filename": "279-corning.txt",
+    "original_size": 12774,
+    "processed_size": 12212,
+    "output_file": "data\\processed\\279-corning.txt"
+  },
+  {
+    "policy_id": "280-expedia-group",
+    "filename": "280-expedia-group.txt",
+    "original_size": 26507,
+    "processed_size": 26505,
+    "output_file": "data\\processed\\280-expedia-group.txt"
+  },
+  {
+    "policy_id": "282-w-w-grainger",
+    "filename": "282-w-w-grainger.txt",
+    "original_size": 44421,
+    "processed_size": 42907,
+    "output_file": "data\\processed\\282-w-w-grainger.txt"
+  },
+  {
+    "policy_id": "283-quanta-services",
+    "filename": "283-quanta-services.txt",
+    "original_size": 39293,
+    "processed_size": 39292,
+    "output_file": "data\\processed\\283-quanta-services.txt"
+  },
+  {
+    "policy_id": "284-crown-holdings",
+    "filename": "284-crown-holdings.txt",
+    "original_size": 12996,
+    "processed_size": 12996,
+    "output_file": "data\\processed\\284-crown-holdings.txt"
+  },
+  {
+    "policy_id": "285-office-depot",
+    "filename": "285-office-depot.txt",
+    "original_size": 36961,
+    "processed_size": 36960,
+    "output_file": "data\\processed\\285-office-depot.txt"
+  },
+  {
+    "policy_id": "286-baxter-international",
+    "filename": "286-baxter-international.txt",
+    "original_size": 26492,
+    "processed_size": 26491,
+    "output_file": "data\\processed\\286-baxter-international.txt"
+  },
+  {
+    "policy_id": "287-lam-research",
+    "filename": "287-lam-research.txt",
+    "original_size": 28284,
+    "processed_size": 28284,
+    "output_file": "data\\processed\\287-lam-research.txt"
+  },
+  {
+    "policy_id": "288-entergy",
+    "filename": "288-entergy.txt",
+    "original_size": 16928,
+    "processed_size": 16928,
+    "output_file": "data\\processed\\288-entergy.txt"
+  },
+  {
+    "policy_id": "289-charles-schwab",
+    "filename": "289-charles-schwab.txt",
+    "original_size": 2454,
+    "processed_size": 1643,
+    "output_file": "data\\processed\\289-charles-schwab.txt"
+  },
+  {
+    "policy_id": "292-live-nation-entertainment",
+    "filename": "292-live-nation-entertainment.txt",
+    "original_size": 30305,
+    "processed_size": 30271,
+    "output_file": "data\\processed\\292-live-nation-entertainment.txt"
+  },
+  {
+    "policy_id": "294-molson-coors-brewing",
+    "filename": "294-molson-coors-brewing.txt",
+    "original_size": 44898,
+    "processed_size": 44880,
+    "output_file": "data\\processed\\294-molson-coors-brewing.txt"
+  },
+  {
+    "policy_id": "295-ebay",
+    "filename": "295-ebay.txt",
+    "original_size": 122774,
+    "processed_size": 122096,
+    "output_file": "data\\processed\\295-ebay.txt"
+  },
+  {
+    "policy_id": "296-aes",
+    "filename": "296-aes.txt",
+    "original_size": 1620,
+    "processed_size": 1620,
+    "output_file": "data\\processed\\296-aes.txt"
+  },
+  {
+    "policy_id": "298-pacific-life",
+    "filename": "298-pacific-life.txt",
+    "original_size": 18823,
+    "processed_size": 15686,
+    "output_file": "data\\processed\\298-pacific-life.txt"
+  },
+  {
+    "policy_id": "299-centerpoint-energy",
+    "filename": "299-centerpoint-energy.txt",
+    "original_size": 20089,
+    "processed_size": 20089,
+    "output_file": "data\\processed\\299-centerpoint-energy.txt"
+  },
+  {
+    "policy_id": "300-discovery",
+    "filename": "300-discovery.txt",
+    "original_size": 4612,
+    "processed_size": 4612,
+    "output_file": "data\\processed\\300-discovery.txt"
+  },
+  {
+    "policy_id": "303-ally-financial",
+    "filename": "303-ally-financial.txt",
+    "original_size": 11573,
+    "processed_size": 10992,
+    "output_file": "data\\processed\\303-ally-financial.txt"
+  },
+  {
+    "policy_id": "305-iqvia-holdings",
+    "filename": "305-iqvia-holdings.txt",
+    "original_size": 66818,
+    "processed_size": 38516,
+    "output_file": "data\\processed\\305-iqvia-holdings.txt"
+  },
+  {
+    "policy_id": "307-delek-us-holdings",
+    "filename": "307-delek-us-holdings.txt",
+    "original_size": 1888,
+    "processed_size": 1888,
+    "output_file": "data\\processed\\307-delek-us-holdings.txt"
+  },
+  {
+    "policy_id": "309-chesapeake-energy",
+    "filename": "309-chesapeake-energy.txt",
+    "original_size": 8567,
+    "processed_size": 8566,
+    "output_file": "data\\processed\\309-chesapeake-energy.txt"
+  },
+  {
+    "policy_id": "310-united-natural-foods",
+    "filename": "310-united-natural-foods.txt",
+    "original_size": 60310,
+    "processed_size": 60201,
+    "output_file": "data\\processed\\310-united-natural-foods.txt"
+  },
+  {
+    "policy_id": "311-leidos-holdings",
+    "filename": "311-leidos-holdings.txt",
+    "original_size": 31742,
+    "processed_size": 31741,
+    "output_file": "data\\processed\\311-leidos-holdings.txt"
+  },
+  {
+    "policy_id": "313-eastman-chemical",
+    "filename": "313-eastman-chemical.txt",
+    "original_size": 1929,
+    "processed_size": 1708,
+    "output_file": "data\\processed\\313-eastman-chemical.txt"
+  },
+  {
+    "policy_id": "314-republic-services",
+    "filename": "314-republic-services.txt",
+    "original_size": 36092,
+    "processed_size": 36092,
+    "output_file": "data\\processed\\314-republic-services.txt"
+  },
+  {
+    "policy_id": "315-mohawk-industries",
+    "filename": "315-mohawk-industries.txt",
+    "original_size": 33252,
+    "processed_size": 33239,
+    "output_file": "data\\processed\\315-mohawk-industries.txt"
+  },
+  {
+    "policy_id": "316-sonic-automotive",
+    "filename": "316-sonic-automotive.txt",
+    "original_size": 33194,
+    "processed_size": 33194,
+    "output_file": "data\\processed\\316-sonic-automotive.txt"
+  },
+  {
+    "policy_id": "318-xerox",
+    "filename": "318-xerox.txt",
+    "original_size": 41172,
+    "processed_size": 41084,
+    "output_file": "data\\processed\\318-xerox.txt"
+  },
+  {
+    "policy_id": "319-boston-scientific",
+    "filename": "319-boston-scientific.txt",
+    "original_size": 32441,
+    "processed_size": 32365,
+    "output_file": "data\\processed\\319-boston-scientific.txt"
+  },
+  {
+    "policy_id": "321-autoliv",
+    "filename": "321-autoliv.txt",
+    "original_size": 13494,
+    "processed_size": 13493,
+    "output_file": "data\\processed\\321-autoliv.txt"
+  },
+  {
+    "policy_id": "324-pvh",
+    "filename": "324-pvh.txt",
+    "original_size": 22684,
+    "processed_size": 22645,
+    "output_file": "data\\processed\\324-pvh.txt"
+  },
+  {
+    "policy_id": "326-advance-auto-parts",
+    "filename": "326-advance-auto-parts.txt",
+    "original_size": 37253,
+    "processed_size": 31959,
+    "output_file": "data\\processed\\326-advance-auto-parts.txt"
+  },
+  {
+    "policy_id": "328-hormel-foods",
+    "filename": "328-hormel-foods.txt",
+    "original_size": 23988,
+    "processed_size": 23988,
+    "output_file": "data\\processed\\328-hormel-foods.txt"
+  },
+  {
+    "policy_id": "329-o-reilly-automotive",
+    "filename": "329-o-reilly-automotive.txt",
+    "original_size": 64061,
+    "processed_size": 63728,
+    "output_file": "data\\processed\\329-o-reilly-automotive.txt"
+  },
+  {
+    "policy_id": "330-calpine",
+    "filename": "330-calpine.txt",
+    "original_size": 3067,
+    "processed_size": 3067,
+    "output_file": "data\\processed\\330-calpine.txt"
+  },
+  {
+    "policy_id": "332-first-data",
+    "filename": "332-first-data.txt",
+    "original_size": 51269,
+    "processed_size": 51237,
+    "output_file": "data\\processed\\332-first-data.txt"
+  },
+  {
+    "policy_id": "335-agco",
+    "filename": "335-agco.txt",
+    "original_size": 24181,
+    "processed_size": 17389,
+    "output_file": "data\\processed\\335-agco.txt"
+  },
+  {
+    "policy_id": "336-mutual-of-omaha-insurance",
+    "filename": "336-mutual-of-omaha-insurance.txt",
+    "original_size": 11518,
+    "processed_size": 11518,
+    "output_file": "data\\processed\\336-mutual-of-omaha-insurance.txt"
+  },
+  {
+    "policy_id": "337-vistra-energy",
+    "filename": "337-vistra-energy.txt",
+    "original_size": 7111,
+    "processed_size": 7111,
+    "output_file": "data\\processed\\337-vistra-energy.txt"
+  },
+  {
+    "policy_id": "339-adobe",
+    "filename": "339-adobe.txt",
+    "original_size": 42746,
+    "processed_size": 42745,
+    "output_file": "data\\processed\\339-adobe.txt"
+  },
+  {
+    "policy_id": "342-brighthouse-financial",
+    "filename": "342-brighthouse-financial.txt",
+    "original_size": 14189,
+    "processed_size": 14189,
+    "output_file": "data\\processed\\342-brighthouse-financial.txt"
+  },
+  {
+    "policy_id": "343-voya-financial",
+    "filename": "343-voya-financial.txt",
+    "original_size": 47709,
+    "processed_size": 47706,
+    "output_file": "data\\processed\\343-voya-financial.txt"
+  },
+  {
+    "policy_id": "344-air-products-and-chemicals",
+    "filename": "344-air-products-and-chemicals.txt",
+    "original_size": 16516,
+    "processed_size": 16516,
+    "output_file": "data\\processed\\344-air-products-and-chemicals.txt"
+  },
+  {
+    "policy_id": "345-hilton-worldwide-holdings",
+    "filename": "345-hilton-worldwide-holdings.txt",
+    "original_size": 104222,
+    "processed_size": 103282,
+    "output_file": "data\\processed\\345-hilton-worldwide-holdings.txt"
+  },
+  {
+    "policy_id": "347-veritiv",
+    "filename": "347-veritiv.txt",
+    "original_size": 33337,
+    "processed_size": 33316,
+    "output_file": "data\\processed\\347-veritiv.txt"
+  },
+  {
+    "policy_id": "348-williams",
+    "filename": "348-williams.txt",
+    "original_size": 15400,
+    "processed_size": 15400,
+    "output_file": "data\\processed\\348-williams.txt"
+  },
+  {
+    "policy_id": "349-campbell-soup",
+    "filename": "349-campbell-soup.txt",
+    "original_size": 49107,
+    "processed_size": 49107,
+    "output_file": "data\\processed\\349-campbell-soup.txt"
+  },
+  {
+    "policy_id": "350-rockwell-collins",
+    "filename": "350-rockwell-collins.txt",
+    "original_size": 17762,
+    "processed_size": 17435,
+    "output_file": "data\\processed\\350-rockwell-collins.txt"
+  },
+  {
+    "policy_id": "351-thrivent-financial-for-lutherans",
+    "filename": "351-thrivent-financial-for-lutherans.txt",
+    "original_size": 38639,
+    "processed_size": 38637,
+    "output_file": "data\\processed\\351-thrivent-financial-for-lutherans.txt"
+  },
+  {
+    "policy_id": "352-westlake-chemical",
+    "filename": "352-westlake-chemical.txt",
+    "original_size": 19631,
+    "processed_size": 19631,
+    "output_file": "data\\processed\\352-westlake-chemical.txt"
+  },
+  {
+    "policy_id": "353-univar",
+    "filename": "353-univar.txt",
+    "original_size": 17077,
+    "processed_size": 17076,
+    "output_file": "data\\processed\\353-univar.txt"
+  },
+  {
+    "policy_id": "354-j-b-hunt-transport-services",
+    "filename": "354-j-b-hunt-transport-services.txt",
+    "original_size": 22763,
+    "processed_size": 22762,
+    "output_file": "data\\processed\\354-j-b-hunt-transport-services.txt"
+  },
+  {
+    "policy_id": "358-eversource-energy",
+    "filename": "358-eversource-energy.txt",
+    "original_size": 42131,
+    "processed_size": 40817,
+    "output_file": "data\\processed\\358-eversource-energy.txt"
+  },
+  {
+    "policy_id": "360-genworth-financial",
+    "filename": "360-genworth-financial.txt",
+    "original_size": 14333,
+    "processed_size": 14296,
+    "output_file": "data\\processed\\360-genworth-financial.txt"
+  },
+  {
+    "policy_id": "361-fidelity-national-information-services",
+    "filename": "361-fidelity-national-information-services.txt",
+    "original_size": 15764,
+    "processed_size": 15728,
+    "output_file": "data\\processed\\361-fidelity-national-information-services.txt"
+  },
+  {
+    "policy_id": "362-yum-china-holdings",
+    "filename": "362-yum-china-holdings.txt",
+    "original_size": 4807,
+    "processed_size": 4801,
+    "output_file": "data\\processed\\362-yum-china-holdings.txt"
+  },
+  {
+    "policy_id": "365-caesars-entertainment",
+    "filename": "365-caesars-entertainment.txt",
+    "original_size": 31707,
+    "processed_size": 31373,
+    "output_file": "data\\processed\\365-caesars-entertainment.txt"
+  },
+  {
+    "policy_id": "366-masco",
+    "filename": "366-masco.txt",
+    "original_size": 34153,
+    "processed_size": 34153,
+    "output_file": "data\\processed\\366-masco.txt"
+  },
+  {
+    "policy_id": "367-thor-industries",
+    "filename": "367-thor-industries.txt",
+    "original_size": 19959,
+    "processed_size": 19958,
+    "output_file": "data\\processed\\367-thor-industries.txt"
+  },
+  {
+    "policy_id": "369-amphenol",
+    "filename": "369-amphenol.txt",
+    "original_size": 22005,
+    "processed_size": 22005,
+    "output_file": "data\\processed\\369-amphenol.txt"
+  },
+  {
+    "policy_id": "370-wesco-international",
+    "filename": "370-wesco-international.txt",
+    "original_size": 7110,
+    "processed_size": 905,
+    "output_file": "data\\processed\\370-wesco-international.txt"
+  },
+  {
+    "policy_id": "372-jefferies-financial-group",
+    "filename": "372-jefferies-financial-group.txt",
+    "original_size": 20278,
+    "processed_size": 16479,
+    "output_file": "data\\processed\\372-jefferies-financial-group.txt"
+  },
+  {
+    "policy_id": "374-expeditors-intl-of-washington",
+    "filename": "374-expeditors-intl-of-washington.txt",
+    "original_size": 29614,
+    "processed_size": 29477,
+    "output_file": "data\\processed\\374-expeditors-intl-of-washington.txt"
+  },
+  {
+    "policy_id": "375-emcor-group",
+    "filename": "375-emcor-group.txt",
+    "original_size": 19372,
+    "processed_size": 19372,
+    "output_file": "data\\processed\\375-emcor-group.txt"
+  },
+  {
+    "policy_id": "376-darden-restaurants",
+    "filename": "376-darden-restaurants.txt",
+    "original_size": 38639,
+    "processed_size": 38639,
+    "output_file": "data\\processed\\376-darden-restaurants.txt"
+  },
+  {
+    "policy_id": "378-assurant",
+    "filename": "378-assurant.txt",
+    "original_size": 26964,
+    "processed_size": 25963,
+    "output_file": "data\\processed\\378-assurant.txt"
+  },
+  {
+    "policy_id": "379-united-rentals",
+    "filename": "379-united-rentals.txt",
+    "original_size": 36871,
+    "processed_size": 36871,
+    "output_file": "data\\processed\\379-united-rentals.txt"
+  },
+  {
+    "policy_id": "380-liberty-media",
+    "filename": "380-liberty-media.txt",
+    "original_size": 11187,
+    "processed_size": 11187,
+    "output_file": "data\\processed\\380-liberty-media.txt"
+  },
+  {
+    "policy_id": "383-cheniere-energy",
+    "filename": "383-cheniere-energy.txt",
+    "original_size": 30572,
+    "processed_size": 30572,
+    "output_file": "data\\processed\\383-cheniere-energy.txt"
+  },
+  {
+    "policy_id": "384-fifth-third-bancorp",
+    "filename": "384-fifth-third-bancorp.txt",
+    "original_size": 4152,
+    "processed_size": 2583,
+    "output_file": "data\\processed\\384-fifth-third-bancorp.txt"
+  },
+  {
+    "policy_id": "385-foot-locker",
+    "filename": "385-foot-locker.txt",
+    "original_size": 34571,
+    "processed_size": 34571,
+    "output_file": "data\\processed\\385-foot-locker.txt"
+  },
+  {
+    "policy_id": "386-conagra-brands",
+    "filename": "386-conagra-brands.txt",
+    "original_size": 19528,
+    "processed_size": 19526,
+    "output_file": "data\\processed\\386-conagra-brands.txt"
+  },
+  {
+    "policy_id": "389-berry-global-group",
+    "filename": "389-berry-global-group.txt",
+    "original_size": 19807,
+    "processed_size": 19807,
+    "output_file": "data\\processed\\389-berry-global-group.txt"
+  },
+  {
+    "policy_id": "391-hershey",
+    "filename": "391-hershey.txt",
+    "original_size": 49151,
+    "processed_size": 48603,
+    "output_file": "data\\processed\\391-hershey.txt"
+  },
+  {
+    "policy_id": "394-builders-firstsource",
+    "filename": "394-builders-firstsource.txt",
+    "original_size": 9930,
+    "processed_size": 8165,
+    "output_file": "data\\processed\\394-builders-firstsource.txt"
+  },
+  {
+    "policy_id": "397-w-r-berkley",
+    "filename": "397-w-r-berkley.txt",
+    "original_size": 58632,
+    "processed_size": 58548,
+    "output_file": "data\\processed\\397-w-r-berkley.txt"
+  },
+  {
+    "policy_id": "398-wec-energy-group",
+    "filename": "398-wec-energy-group.txt",
+    "original_size": 1996,
+    "processed_size": 1996,
+    "output_file": "data\\processed\\398-wec-energy-group.txt"
+  },
+  {
+    "policy_id": "399-jetblue-airways",
+    "filename": "399-jetblue-airways.txt",
+    "original_size": 3628,
+    "processed_size": 3579,
+    "output_file": "data\\processed\\399-jetblue-airways.txt"
+  },
+  {
+    "policy_id": "402-fidelity-national-financial",
+    "filename": "402-fidelity-national-financial.txt",
+    "original_size": 12404,
+    "processed_size": 12140,
+    "output_file": "data\\processed\\402-fidelity-national-financial.txt"
+  },
+  {
+    "policy_id": "403-constellation-brands",
+    "filename": "403-constellation-brands.txt",
+    "original_size": 42070,
+    "processed_size": 42070,
+    "output_file": "data\\processed\\403-constellation-brands.txt"
+  },
+  {
+    "policy_id": "404-quest-diagnostics",
+    "filename": "404-quest-diagnostics.txt",
+    "original_size": 24559,
+    "processed_size": 24552,
+    "output_file": "data\\processed\\404-quest-diagnostics.txt"
+  },
+  {
+    "policy_id": "405-activision-blizzard",
+    "filename": "405-activision-blizzard.txt",
+    "original_size": 58820,
+    "processed_size": 57995,
+    "output_file": "data\\processed\\405-activision-blizzard.txt"
+  },
+  {
+    "policy_id": "406-weyerhaeuser",
+    "filename": "406-weyerhaeuser.txt",
+    "original_size": 23184,
+    "processed_size": 20729,
+    "output_file": "data\\processed\\406-weyerhaeuser.txt"
+  },
+  {
+    "policy_id": "407-raymond-james-financial",
+    "filename": "407-raymond-james-financial.txt",
+    "original_size": 55156,
+    "processed_size": 55153,
+    "output_file": "data\\processed\\407-raymond-james-financial.txt"
+  },
+  {
+    "policy_id": "408-casey-s-general-stores",
+    "filename": "408-casey-s-general-stores.txt",
+    "original_size": 19889,
+    "processed_size": 19888,
+    "output_file": "data\\processed\\408-casey-s-general-stores.txt"
+  },
+  {
+    "policy_id": "409-keurig-dr-pepper",
+    "filename": "409-keurig-dr-pepper.txt",
+    "original_size": 35690,
+    "processed_size": 35690,
+    "output_file": "data\\processed\\409-keurig-dr-pepper.txt"
+  },
+  {
+    "policy_id": "410-american-tower",
+    "filename": "410-american-tower.txt",
+    "original_size": 11400,
+    "processed_size": 11399,
+    "output_file": "data\\processed\\410-american-tower.txt"
+  },
+  {
+    "policy_id": "412-dover",
+    "filename": "412-dover.txt",
+    "original_size": 30123,
+    "processed_size": 30123,
+    "output_file": "data\\processed\\412-dover.txt"
+  },
+  {
+    "policy_id": "414-j-m-smucker",
+    "filename": "414-j-m-smucker.txt",
+    "original_size": 27770,
+    "processed_size": 27769,
+    "output_file": "data\\processed\\414-j-m-smucker.txt"
+  },
+  {
+    "policy_id": "415-citizens-financial-group",
+    "filename": "415-citizens-financial-group.txt",
+    "original_size": 32804,
+    "processed_size": 32728,
+    "output_file": "data\\processed\\415-citizens-financial-group.txt"
+  },
+  {
+    "policy_id": "416-motorola-solutions",
+    "filename": "416-motorola-solutions.txt",
+    "original_size": 80919,
+    "processed_size": 80888,
+    "output_file": "data\\processed\\416-motorola-solutions.txt"
+  },
+  {
+    "policy_id": "417-magellan-health",
+    "filename": "417-magellan-health.txt",
+    "original_size": 26190,
+    "processed_size": 26190,
+    "output_file": "data\\processed\\417-magellan-health.txt"
+  },
+  {
+    "policy_id": "418-american-axle-and-manufacturing",
+    "filename": "418-american-axle-and-manufacturing.txt",
+    "original_size": 129238,
+    "processed_size": 127389,
+    "output_file": "data\\processed\\418-american-axle-and-manufacturing.txt"
+  },
+  {
+    "policy_id": "420-spirit-aerosystems-holdings",
+    "filename": "420-spirit-aerosystems-holdings.txt",
+    "original_size": 10188,
+    "processed_size": 10185,
+    "output_file": "data\\processed\\420-spirit-aerosystems-holdings.txt"
+  },
+  {
+    "policy_id": "421-western-and-southern-financial-group",
+    "filename": "421-western-and-southern-financial-group.txt",
+    "original_size": 19643,
+    "processed_size": 19642,
+    "output_file": "data\\processed\\421-western-and-southern-financial-group.txt"
+  },
+  {
+    "policy_id": "423-graybar-electric",
+    "filename": "423-graybar-electric.txt",
+    "original_size": 20004,
+    "processed_size": 853,
+    "output_file": "data\\processed\\423-graybar-electric.txt"
+  },
+  {
+    "policy_id": "424-nvr",
+    "filename": "424-nvr.txt",
+    "original_size": 17903,
+    "processed_size": 17903,
+    "output_file": "data\\processed\\424-nvr.txt"
+  },
+  {
+    "policy_id": "425-avery-dennison",
+    "filename": "425-avery-dennison.txt",
+    "original_size": 36573,
+    "processed_size": 35337,
+    "output_file": "data\\processed\\425-avery-dennison.txt"
+  },
+  {
+    "policy_id": "426-celanese",
+    "filename": "426-celanese.txt",
+    "original_size": 34127,
+    "processed_size": 34127,
+    "output_file": "data\\processed\\426-celanese.txt"
+  },
+  {
+    "policy_id": "427-american-financial-group",
+    "filename": "427-american-financial-group.txt",
+    "original_size": 967,
+    "processed_size": 915,
+    "output_file": "data\\processed\\427-american-financial-group.txt"
+  },
+  {
+    "policy_id": "428-toll-brothers",
+    "filename": "428-toll-brothers.txt",
+    "original_size": 47384,
+    "processed_size": 47383,
+    "output_file": "data\\processed\\428-toll-brothers.txt"
+  },
+  {
+    "policy_id": "429-sanmina",
+    "filename": "429-sanmina.txt",
+    "original_size": 26130,
+    "processed_size": 26130,
+    "output_file": "data\\processed\\429-sanmina.txt"
+  },
+  {
+    "policy_id": "430-insight-enterprises",
+    "filename": "430-insight-enterprises.txt",
+    "original_size": 30417,
+    "processed_size": 30417,
+    "output_file": "data\\processed\\430-insight-enterprises.txt"
+  },
+  {
+    "policy_id": "431-owens-corning",
+    "filename": "431-owens-corning.txt",
+    "original_size": 14274,
+    "processed_size": 14274,
+    "output_file": "data\\processed\\431-owens-corning.txt"
+  },
+  {
+    "policy_id": "432-packaging-corp-of-america",
+    "filename": "432-packaging-corp-of-america.txt",
+    "original_size": 3163,
+    "processed_size": 3163,
+    "output_file": "data\\processed\\432-packaging-corp-of-america.txt"
+  },
+  {
+    "policy_id": "433-travelcenters-of-america",
+    "filename": "433-travelcenters-of-america.txt",
+    "original_size": 41851,
+    "processed_size": 41850,
+    "output_file": "data\\processed\\433-travelcenters-of-america.txt"
+  },
+  {
+    "policy_id": "434-olin",
+    "filename": "434-olin.txt",
+    "original_size": 22826,
+    "processed_size": 22825,
+    "output_file": "data\\processed\\434-olin.txt"
+  },
+  {
+    "policy_id": "435-arthur-j-gallagher",
+    "filename": "435-arthur-j-gallagher.txt",
+    "original_size": 42933,
+    "processed_size": 41274,
+    "output_file": "data\\processed\\435-arthur-j-gallagher.txt"
+  },
+  {
+    "policy_id": "436-mastec",
+    "filename": "436-mastec.txt",
+    "original_size": 50438,
+    "processed_size": 42032,
+    "output_file": "data\\processed\\436-mastec.txt"
+  },
+  {
+    "policy_id": "437-alleghany",
+    "filename": "437-alleghany.txt",
+    "original_size": 13412,
+    "processed_size": 13411,
+    "output_file": "data\\processed\\437-alleghany.txt"
+  },
+  {
+    "policy_id": "440-cms-energy",
+    "filename": "440-cms-energy.txt",
+    "original_size": 7440,
+    "processed_size": 7208,
+    "output_file": "data\\processed\\440-cms-energy.txt"
+  },
+  {
+    "policy_id": "442-blackstone-group",
+    "filename": "442-blackstone-group.txt",
+    "original_size": 2731,
+    "processed_size": 2731,
+    "output_file": "data\\processed\\442-blackstone-group.txt"
+  },
+  {
+    "policy_id": "445-r-r-donnelley-and-sons",
+    "filename": "445-r-r-donnelley-and-sons.txt",
+    "original_size": 4568,
+    "processed_size": 1649,
+    "output_file": "data\\processed\\445-r-r-donnelley-and-sons.txt"
+  },
+  {
+    "policy_id": "447-regions-financial",
+    "filename": "447-regions-financial.txt",
+    "original_size": 19270,
+    "processed_size": 19269,
+    "output_file": "data\\processed\\447-regions-financial.txt"
+  }
+]

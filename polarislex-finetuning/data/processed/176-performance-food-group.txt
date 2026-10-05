@@ -1,0 +1,692 @@
+## Privacy Policy
+
+Last Updated and Effective Date: September 16, 2025
+
+This Privacy Policy describes how Performance Food Group, Inc. and its affiliates and subsidiaries (“we” or “us”) collects, uses, discloses, and processes your Personal Information, as defined below (“you” and “your”), as well as rights that you may have regarding that information. Your continued use of our website means that you understand and accept the terms of this Privacy Policy. We reserve the right to change this Privacy Policy at any time. If we change our Privacy Policy, we will post an updated version on this website. Please check back periodically to see if our Privacy Policy has been updated. Updates to the Privacy Policy will be referenced by the “Last Updated and Effective Date” date shown above. By visiting this website, you acknowledge and consent to the privacy practices described in this Privacy Policy, including any revisions to this Privacy Policy that we post.
+
+### 1. Definitions.*
+
+“Personal Information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular person, household or device. “Personal Information” does not include: (a) information that is lawfully made available from federal, state, or local government records; (b) information that we have a reasonable basis to believe is lawfully made available to the general public by you from widely distributed media.; or (c) information that is deidentified or aggregated consumer information.
+
+“Sensitive Personal Information” means Personal Information that reveals information such as: (a) social security, driver’s license, state identification card, or passport number; (b) account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; (c) precise geolocation; (d) racial, ethnic, or national origin, citizenship or immigration status, religious or philosophical beliefs, or union membership; (e) the contents of an mail, email, and text messages unless we are the intended recipient of the communication; (f) genetic data; (g) information about a child; (h) biometric information for the purpose of uniquely identifying an individual; (i) mental health, physical health and pregnancy; (j) sex life or sexual orientation, including status as a trans or nonbinary individual; (k) status a crime victim; and (l) neural data. Sensitive Personal Information that is publicly available is not considered Sensitive Personal Information or Personal Information.
+
+Please note that various jurisdictions may use different terms. For example, some jurisdictions use the terms “personal data” or “sensitive personal data”. Moreover, some jurisdictions do not consider some of the Personal Information listed in the Sensitive Personal Information definition above as Sensitive Personal Information.
+
+### 2. Information We Collect, the Categories of Source of Collection and the Purpose for Collection.
+
+Set forth below are the categories of Personal Information we collect and that have collected in the preceding 12 months, the categories of sources from which the Personal Information was collected and the business or commercial purpose for such collection. Please note that we may not collect all of the information referenced below regarding you and we may not use your Personal Information for all purposes set forth in this Privacy Policy.
+
+| Category of Personal
+
+Information
+| What We Collect
+| Categories of Sources
+
+from Which We Collect
+
+Personal Information
+| Purposes for Collection/Use
+
+| PERSONAL INFORMATION
+
+| Identifiers
+Name
+
+Alias
+
+Title
+
+User ID
+
+Email address
+
+Postal address
+
+Phone number
+
+Signature
+
+Driver's license or state
+
+ID card number
+
+IP address
+
+Unique Identifier
+
+| Directly from you
+
+Cookies, beacons, pixels,
+
+and related technology*
+
+From our partners
+
+From third-party brokers
+To fulfill orders and deliver your
+
+purchases
+
+To provide you with appropriate
+
+marketing information, product
+
+recommendations, and other updates
+
+To administer and improve our
+
+website and apps, set default
+
+options, and provide you with a
+
+better shopping experience
+
+To show you relevant ads while
+
+you are browsing the internet or
+
+using social media
+
+To contact you in order to
+
+obtain information about your
+
+product preferences and how
+
+we can improve our products,
+
+services, business, website,
+
+and apps
+
+To detect and prevent fraud against
+
+you and/or us
+
+To identify and contact potential
+
+job candidates for
+
+recruitment purposes
+
+To allow you to register as a user of our site
+
+To process and distribute subscriptions to
+
+our newsletters
+
+To administer contests, promotions, surveys,
+
+and other site features
+
+To identify you on our websites and mobile
+
+apps as the same user and to have an accurate
+
+count of users visiting our platforms
+
+| Protected
+
+Characteristics
+
+| Date of birth
+
+Note: age over a certain
+
+age (e.g., 40 years old) is
+
+considered a protected
+
+characteristic in some
+
+jurisdictions
+
+To fulfill orders and provide
+
+refunds
+
+To detect and precent fraud against
+
+To comply with applicable laws
+
+regarding the sale of age-restricted
+
+products
+
+| Payment Information
+Credit card information
+
+(token information only)
+
+Debit card information
+
+From our partners
+To fulfill orders and provide
+
+refunds
+
+| Commercial
+
+Information
+
+| Purchase history
+
+Products or services
+
+purchased, obtained or
+
+considered
+
+Other purchasing or
+
+consuming histories or
+
+tendencies
+
+Company name and information,
+
+including tax ID number
+
+and related technology
+
+Our Service Providers**
+To fulfill orders and deliver your
+
+purchases
+
+recommendations, and other
+
+updates
+
+To show you relevant ads while
+
+you are browsing the internet or
+
+using social media
+
+To contact you to obtain information
+
+about your product preferences and
+how we can improve our products,
+
+services, business, website, and apps
+
+To improve our website and apps,
+
+set default options, and provide
+
+you with a better shopping and
+
+website experience
+
+If you are a business owner, to allow
+
+you to establish a company account on
+
+our site
+
+| Internet or Other
+
+Electronic Network
+
+Activity Information
+
+| Browsing History
+
+Search history
+Information regarding
+
+your interactions with our
+
+website, apps, and
+
+advertisement
+
+Geolocation data inferred
+
+from your IP address
+
+Email communication
+
+preferences
+
+| Cookies, beacons, pixels,
+
+Our Service Providers
+To make it easier for you to log
+
+into our website and apps
+
+To deliver products to you
+
+recommendations, and other
+
+updates
+
+To show you relevant ads while
+
+you are browsing the internet or
+
+using social media
+
+To administer and improve our
+
+website and apps, set default options,
+
+and provide you with a better shopping
+
+experience
+
+To protect the security of our website
+
+and apps
+
+| Employment
+
+Information
+Job title
+
+Employment history
+
+Professional credentials
+
+Related information
+| From third-party brokers
+
+| To identify potential job candidates
+
+for recruitment purposes
+
+| Education Information
+
+| Degrees and certification
+
+information
+| From third-party brokers
+To identify potential job candidates
+
+for recruitment purposes
+
+| Geolocation Data
+
+| Your IP address
+
+Your zip code
+
+To make it easier for you to log
+
+into our website and apps
+
+products, recommendations, and
+
+updates
+
+To show you relevant ads while you
+
+are browsing the internet or using
+
+social media
+
+To administer and improve our website
+
+and apps, set default options, and
+
+provide you with a better shopping
+
+experience
+
+To protect the security of our website
+
+and apps
+
+| Inferences
+
+| Potential interest in our
+
+products or services
+Directly from you
+
+recommendations, and other updates
+
+To show you relevant ads while you
+
+are browsing the internet or using
+
+social media
+
+| SENSITIVE PERSONAL INFORMATION
+
+| Sensitive Personal
+
+Identifiers
+
+| Your driver's license or
+
+state ID card number
+
+Fulfill orders and deliver your
+
+purchases
+
+Detect and prevent fraud against you
+
+and/or us
+
+| Contents of
+
+Communications
+| Messages directed to third
+
+parties that you post on our blog
+| To operate our customer blog for
+
+the benefit of all users
+
+* See Section 3, below.
+
+** Some jurisdictions refer to service providers as processors or data processors.
+
+We only use Sensitive Personal Information for purposes disclosed herein. We do not use or disclose Sensitive Personal Information for purposes other than those specified herein.
+
+### 3. Cookies and Other Tracking Technologies.
+
+We use several types of cookies and other tracking technologies on our websites, as described below.
+
+- Cookies: A cookie is a small file of letters and numbers that is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. We and our service providers and partners use cookies or similar technologies, such as web beacons and tracking pixels to analyze trends, administer our website, personalize content and ads, track users’ movements around our website to provide you with the most relevant browsing experience, to gather demographic information about our user base as a whole and to provide marketing. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or of the service we provide as some of our features or services may not function properly without cookies.
+
+- Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+
+- Functionality/preference cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+- Statistical, analytical or performance cookies. These allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+- Marketing/targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+
+- Third party cookies. These cookies are placed on your device by a website from a domain other than our website. Please note that various third parties may also use these types of cookies, over which we have no control. These named third parties may include, for example, advertising networks and providers of external services like web traffic analysis services. These third-party cookies are likely to be analytical cookies or performance cookies or targeting cookies.
+
+If you want to remove existing cookies from your device, you can do this using your browser options. If you want to block future cookies being placed on your device you can change your browser settings to do this. Please bear in mind that deleting and blocking cookies may have an impact on your user experience as parts of the site may no longer work. Unless you have adjusted your browser settings to block cookies, our system may issue cookies as soon as you visit our site or click on a link in a targeted email that we have sent you, even if you have previously deleted our cookies.
+
+- Web Beacons and Pixels: Our sites may use web beacons and pixels (such as Meta Pixel), which are images that can be placed in web pages and some forms of email. These technologies can be used to deliver cookies and to collect information about your use of the site. For example, we may use web beacons to count the number of your visits to the site.
+
+Our Sites may also collect information through tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel or Javascript tag) that is placed on a web page and, in combination with a cookie, allows us to collect information regarding the use of the page of the site that contains the tracking pixel. We may use tracking pixels to trigger ads on participating websites based on activity tracked from the browser on a device used to visit our Sites.
+
+Other entities may have access to some of this information.
+
+- Referrers: A "referrer" is the information passed along by a web browser that references the web URL from which you come to the site. Referrers are automatically collected by our web servers. They may be used by our sites to identify the websites referring traffic to our site, to identify the information on our sites that are viewed by individuals referred by certain websites and to present appropriate content to the users. Referrer information may be used by us to identify general trends and traffic patterns.
+
+- IP Addresses: IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used to identify your computer so that data (such as the web pages you request) can be sent to you. They are automatically collected by our web servers.
+
+- System Information: System information we may collect may include, among other things, the type of web browser being used. This information is sent automatically by your web browser when you are connected to our sites and is used by us only for identify broad demographic statistics and general trends and traffic patterns.
+
+- Future Technologies and Methods: As technologies change, we may collect information in different ways. However, we will continue to treat all Personal Information that we collect in this manner as outlined above, unless we modify this Privacy Policy.
+
+By using your website and services you affirmatively agree to the use of cookies and these technologies.
+
+### 4. How We Disclose Personal Information to Our Service Providers and Contractors.
+
+We disclose and have disclosed in the preceding 12 months Personal Information to our service providers or contractors, which are entities that use your Personal Information for own purposes only, for the reasons set forth below. Please note that we may not disclose all of the Personal Information regarding you to service providers or contractors for the purposes set forth below.
+
+- Auditing of Ad Impression: We disclose Personal Information for auditing purposes related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+
+- Security and Fraud Detection: We disclose Personal Information for our security and fraud detection services including detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity; and prosecuting those responsible for that activity.
+
+- Functionality & Debugging: We disclose Personal Information to engage in debugging to identify and repair errors that impair existing intended functionality.
+
+- Short-Term / Transient Use: We disclose Personal Information for short-term, transient use, including, but not limited to, non-personalized advertising shown as part of a consumer’s current interaction with the business, provided that the consumer’s Personal Information is not disclosed to another third party and is not used to build a profile about the consumer or otherwise alter the consumer’s experience outside the current interaction with the business.
+
+- Services on Our Behalf: We disclose Personal Information in order to receive services performed on our behalf, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services on our behalf.
+
+- Advertising and Marketing Services: We disclose Personal Information to provide advertising or marketing services on our own behalf.
+
+- Research & Development: We disclose Personal Information for internal research related to technological development and demonstration.
+
+- Quality Control & Improvement of Products and Services: We disclose Personal Information to verify, maintain, and improve our products and services.
+
+The following chart sets forth the categories of Personal Information we have disclosed to our service providers for a business purpose over the past 12 months.
+
+| Categories of Personal
+
+Information that We Disclose
+| Business Purposes for the Disclosure of Personal Information
+
+| PERSONAL INFORMATION
+
+| Identifiers
+Auditing of Ad Impression
+
+Security and Fraud Detection
+
+Functionality & Debugging
+
+Short-Term / Transient Use
+
+Services on Our Behalf
+
+Advertising and Marketing Services
+
+Research & Development
+
+Quality Control & Improvement of Products and Services
+Protected Characteristics
+
+| Commercial Information
+Auditing of Ad Impression
+
+Short-Term / Transient Use
+
+| Internet Information
+Auditing of Ad Impression
+
+Security and Fraud Detection
+
+Functionality & Debugging
+
+Short-Term / Transient Use
+
+| Geolocation Data
+Security and Fraud Detection
+
+Functionality & Debugging
+
+| Payment Information
+
+As Necessary: We may also use and/or disclose Personal Information, as necessary: (a) to comply with any law, regulation and/or legal process and/or exercise or defend legal claims; (b) to respond to requests from public and government authorities; (c) to enforce our terms and conditions; (d) to protect our operations and protect our rights, privacy, safety or property, and/or that of you or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain. We may also use and disclose your Personal Information in connection with or during negotiation of any reorganization, acquisition, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings). You acknowledge that such transfers may occur and that any acquirer of or successor to us may continue to use your Personal Information as set forth in this Privacy Policy.
+
+We only use Sensitive Personal Information for purposes disclosed herein. We do not use or disclose Sensitive Personal Information for purposes other than those specified herein.
+
+### 5. Personal Information We Sell and/or Share for Targeted Advertising.
+
+We do not “sell” your Personal Information as that term is commonly understood (i.e., selling your Personal Information in exchange for money). However, we may disclose Personal Information to certain third parties under circumstances that may constitute a sale of that information under some laws. For example, disclosure of your Personal Information to another party who can use it for its own purposes can be deemed a sale under certain laws. In addition, some of our technology providers may have access to your data for their own benefit, which may be considered a sale under certain state laws. Please see the Cookies and Other Tracking Technologies section above.
+
+We may also share certain Personal Information for purposes of cross-context behavioral advertising (targeted advertising).
+
+The chart below shows the categories of Personal Information we sell (as defined herein) or share for cross-context behavioral advertising (targeted advertising) or that we have sold or shared in the past 12 months, the categories of third parties to whom we have sold or shared Personal Information and the purpose for the sale or sharing of the Personal Information. Please note that we may not disclose all of the Personal Information regarding you to these entities.
+
+| Category of Personal
+
+Information
+| Categories of Third Parties
+| Business Purpose
+
+| Identifiers
+
+| Our suppliers
+
+Data analytics providers
+
+Third-party advertising partners
+
+Third parties for marketing purposes
+To optimize our website,
+
+services, and advertising
+
+To show you relevant ads
+
+while you are browsing the
+
+internet or using social media
+
+To develop insight into and
+
+improve the efficiency of our
+
+distribution chain
+
+| Protected Characteristics
+
+| Data analytics providers
+
+| Commercial Information
+
+To improve our website and
+
+apps, set default options, and
+
+provide you with a better
+
+shopping and website
+
+experience
+
+To develop insight into and
+
+improve the efficiency of
+
+our distribution chain
+
+| Internet or Other Electronic
+
+Network Activity Information
+
+To improve our website and
+
+apps, set default options, and
+
+provide you with a better
+
+shopping and website
+
+experience
+
+| Geolocation Data
+
+To improve our website and
+
+apps, set default options, and
+
+provide you with a better
+
+shopping and website
+
+experience
+
+As noted above, we use various cookies, including third party cookies to collect information for analytics purposes and to place targeted advertisements.
+
+We use third party advertising companies to place ads. We do this by allowing our advertising and social media partners to place their cookies on a browser of an individual who visits our sites. The data received by our third party advertising and social media partners allows them to measure the effectiveness of such advertising and to provide advertisements on other websites about our services which are tailored to your interests.
+
+We use Google Analytics to ensure website functionality and improve our website and services. This software may record information such as your IP address, location, age and gender, browser type and language, operating system, access time, duration of visit, pages you view within our website, search terms you enter and other actions you take while visiting us, the pages you view immediately before and after you access the services, how often you use our Services, aggregated usage and performance data, app errors and debugging information. Google Analytics is owned and controlled by Google LLC. Data collected by Google is subject to its privacy policy. To learn how Google uses data related to website analytics, please click here: https://policies.google.com/technologies/partner-sites. You may opt-out of having your activity on our website made available to Google Analytics by installing the Google Analytics browser add-on, available here: https://tools.google.com/dlpage/gaoptout.
+
+We use Meta Pixel. Meta Pixel is a piece of code on your website that can help us better understand the effectiveness of our advertising and the actions people take on our sites, like visiting a page or adding an item to their cart. We may also be able to see when customers take an action after seeing our ad on Meta platforms, such as Facebook and Instagram, which can help us with retargeting.
+
+We do not have actual knowledge that we sell or share the Personal Information of consumers under 16 years of age.
+
+### 6. Our Retention Policy
+
+We will retain each category of your Personal Information identified above for an amount of time that is reasonably necessary for us to use the information for the purposes disclosed herein and for any other permitted purposes, including retention of Personal Information pursuant to any applicable contract, law or regulation. To determine the appropriate retention period for Personal Information, we consider the amount, nature, and sensitivity of the Personal Information, the potential risk of harm from unauthorized use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+### 7. Data Security.
+
+We implement technical, organizational, administrative and physical measures to help ensure a level of security appropriate to the risk to the Personal Information we collect, use, process and disclose. These measures are aimed at ensuring the on-going integrity and confidentiality of Personal Information. We evaluate these measures on a regular basis to help ensure the security of the processing. Please be aware that, despite our ongoing efforts, no security measures are perfect or impenetrable.
+
+### 8. Children.
+
+We do not direct our websites or applications to children under thirteen (13) years of age. We do not knowingly collect information from persons under 13 years of age or provide any Personal Information from such persons to any third party for any reason whatsoever. We do not allow persons known to be under 13 years of age to receive direct marketing communications from us. No information should be submitted to our website or applications by persons under 13 years of age. When appropriate, we may ask you to indicate your date of birth to verify compliance with the age requirements set forth herein.
+
+### 9. Your Rights.
+
+#### Your Rights if You Are a Resident of California
+
+California residents may exercise certain privacy rights pursuant to the California Consumer Privacy Act, as amended, and related regulations (“CCPA”). Your right to submit certain requests as a California resident are described below. Please note that these rights are subject to certain exceptions and certain of these rights are subject to verification mechanisms.
+
+- Right to Know Personal Information Collected About You. You have the right to know: (1) the categories of Personal Information we have collected about you; (2) the categories of sources from which the Personal Information is collected; (3) the business or commercial purpose for collecting, selling, or sharing Personal Information; (4) the categories of third parties to whom we disclose Personal Information; and (5) the specific pieces of Personal Information we have collected about you. You also have the right to know the list of all third parties to whom we have disclosed Personal Information, as defined under California Civil Code Section 1798.83(e) (a/k/a the “Shine the Light Law”), during the preceding year for third-party direct marketing purposes.
+
+- Right to Know Personal Information Disclosed, Sold or Shared and to Whom. You have the right to request that we disclose to you: (1) the categories of Personal Information that we collected about you; (2) the categories of Personal Information that we sold or shared about you and the categories of third parties to whom the Personal Information was sold or shared, by category or categories of Personal Information for each category of third parties to whom the Personal Information was sold or shared; and (3) the categories of Personal Information that we disclosed about you for a business purpose and the categories of persons to whom it was disclosed for a business purpose.
+
+- Right to Request Deletion of Your Personal Information. You have the right to request that we delete your Personal Information, subject to a number of exceptions. However, there a are number of situations where you do not have the right that we delete your Personal Information. For example, you cannot request that we delete your Personal Information if it is reasonably necessary for us to comply with a legal obligation, complete the transaction for which the Personal Information is collected or provide the services that you have requested or reasonably anticipated by you within the context of our ongoing business relationship, or to otherwise perform a contract between us. We also will not delete your Personal Information from our backup systems to the extent permitted by the CCPA. Following receipt of a request, we will let you know what, if any, Personal Information we can delete. If we cannot delete all of your Personal Information, we will let you know the reason.
+
+- Right to Correct Inaccurate Information. If you believe that any of the Personal Information we maintain about you is inaccurate, you have the right to submit a request for us to correct that information. Upon receipt of a request, we will use commercially reasonable efforts to correct the information as you direct.
+
+- Right to Opt-Out of the Sale and Sharing of Your Personal Information. You may opt-out of the sale or sharing of your Personal Information, to the extent appliable, by clicking here. You can also exercise this right by using a browser that supports an opt-out preference signal (also known as a Global Privacy Control (GPC)). If you choose to use this signal, you will need to turn it on for each browser you use.
+
+- Right to Limit the Use of Your Sensitive Personal Information. You have the right to limit the use of Sensitive Personal Information under circumstances. Given how we use your Sensitive Personal Information, this right does not apply to you.
+
+- Right to Non-Discrimination for Exercising Your Rights. If you choose to exercise any of your rights, you have the right to not receive discriminatory treatment by us.
+
+#### Your Rights If You Are a Resident of Any State Other than California
+
+Depending on your state of residency, you may have certain rights related to your Personal Information. California residents should refer to the “Your Rights if You Are a Resident of California” section above and for a description of California specific rights and Nevada residents should refer to the “Nevada Privacy Notice” below.
+
+Please note that not all of these rights may be applicable to you, these rights are subject to certain exceptions and certain of these rights are subject to verification mechanisms.
+
+- The Right to Know. You have the right to know whether we are processing your Personal Information.
+
+- The Right of Access. You have the right to access your Personal Information, and to obtain a copy of it in a readily usable format, if feasible.
+
+- The Right to Correct Inaccuracies. You may request that inaccuracies in your Personal Information be corrected.
+
+- The Right to Delete. You have the right to request that your Personal Information be deleted, except in cases where retention is required, for example, by law or contractual obligation.
+
+- The Right to Data Portability. You have the right to obtain a copy of your Personal Information in a portable and, if feasible, readily usable format.
+
+- The Right to Opt-Out. To the extent applicable, you may elect to prevent your Personal Information from being:
+
+(1) Used in targeted advertising;
+
+(2) Sold; or
+
+(3) Used for automated decision making or profiling purposes that may produce legal or similarly significant effects.
+
+- The Right to Non-Discrimination for Exercising Your Rights. If you choose to exercise any of your rights, you have the right to not receive discriminatory treatment by us.
+
+- Rights Regarding Sensitive Personal Information. Depending on your state of residency, we will either: (a) not process your Sensitive Personal Information without first presenting you with clear notice and an opportunity to opt out of the processing; or (b) not process your Sensitive Personal Information without obtaining your consent. You have the right to withdraw your previous consent and opt out of further processing of your Sensitive Personal Information.
+
+Furthermore, if we have actual knowledge that you are 13 years of age and not older than 18 years of age, we will not without your consent process your Personal Information for the purposes of targeted advertising, profiling in furtherance of decisions that produce legal effects or effects of similar significance or selling your Personal Information.
+
+#### How to Make a Consumer Requests
+
+For California residents: (i) you can exercise your rights to opt-out of the selling and/or sharing of your Personal Information by clicking the link provided above; and (b) for requests to know, correct and/or delete (to the extent applicable to you), you can make a request by calling us at 1-800-473-4434 or emailing us at privacyrequests@pfgc.com.
+
+For resident of all other states described above, you can exercise your rights by (to the extent appliable to you), calling us at 1-800-473-4434 or emailing us at privacyrequests@pfgc.com.
+
+When you make certain requests (e.g., a request to know, delete and/or correct; or a request for access or data portability), to help protect your privacy and maintain security, we will take steps to verify your identity. Our verification procedure may differ depending on whether you have an account with us or not and the request you are making. The following generally describes the verification processes we use:
+
+- Password Protected Accounts. If you have a password-protected account with us, we may use existing authentication practices to verify your identity but will require re-authentication before disclosing, correcting or deleting data. If we suspect fraudulent or malicious activity relating to your account, we will require further verification (as described below) before complying with the request.
+
+- Verification for Non-Accountholders. If you do not have, or cannot access, a password-protected account with us, we will generally verify your identity as follows:
+
+- For valid requests to know categories of Personal Information, we will verify your identity to a reasonable degree of certainty by matching at least two data points provided by you with reliable data points maintained by us.
+
+- For valid requests to know specific pieces of Personal Information, right of access and right to data portability, we will verify your identity to a reasonably high degree of certainty by matching at least three data points provided by you with reliable data points maintained by us.
+
+- For valid requests to correct or delete Personal Information, we will verify your identity to a reasonable degree or a reasonably high degree of certainty depending on the sensitivity of the Personal Information and the risk of harm posed by unauthorized deletion. We will act in good faith when determining the appropriate standard to apply.
+
+We may also require a declaration, signed under penalty of perjury, that the person requesting the information is the person whose information is the subject of the request or that person’s authorized representative. We will maintain all signed declarations as part of our records.
+
+If there is no reasonable method by which we can verify your identity, we will state so in response, including an explanation of why we have no reasonable method to verify your identity.
+
+If you use an authorized agent to submit a request to know, delete or correct, we may require the authorized agent to provide proof that you gave the agent signed permission to submit the request. We may also require you to do either of the following: (a) verify your own identity directly with us; or (b) directly confirm with us that you provided the authorized agent permission to submit the request.
+
+There may be situations where we cannot grant your request. For example, if you ask us to delete Personal Information that we are obligated to keep to comply with applicable law we may not be able to fulfill some or all of your request. We may also decline to grant your request where our use of your Personal Information serves a legitimate purpose such as for security purposes. Your request may also be denied if it compromises the privacy of others, is overly repetitive or extremely burdensome to fulfill.
+
+We will respond to valid requests to know, requests to delete and / or delete no later than 45 calendar days. If we cannot verify your request within 45 days, we may deny your request. If necessary, we may take up to an additional 45 days to respond to your request but in such an event will provide you a notice and an explanation of the reason that we will take more than 45 days to respond to your request.
+
+Valid requests under “Right of Access” and “Right to Data Portability” will be transmitted securely. If we cannot fulfill your request, we will notify you of that decision and the reasons why within 45 days. At that point if you believe our decision was in error, you may have the right to submit an appeal using the method(s) above. If the result is the same, you can also seek assistance and/or redress from your state attorney general.
+
+### 10. Nevada Privacy Notice.
+
+Nevada law provides that Nevada residents may opt-out of the “sale” of “covered information” to third parties, including but not limited to name, address, social security number, and online service activity. Our uses of your Personal Information are not sales under Nevada law, so no opt-out right applies.
+
+### 11. How to Contact Us.
+
+If you have any questions or concerns about our privacy policies and practices, please feel free to contact us by calling us at 1-800-473-4434, emailing us at privacyrequests@pfgc.com or by mail at Performance Food Group, 12500 West Creek Parkway, Richmond, VA 23238.

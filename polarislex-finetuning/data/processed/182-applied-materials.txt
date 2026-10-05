@@ -1,0 +1,128 @@
+# Privacy Policy
+
+Applied Materials, Inc., including its subsidiaries and affiliates (“Applied Materials,” “us” or “we”), respects the privacy of our online visitors, campus visitors, supplier personnel, vendor personnel, and any other external individuals who interact with Applied Materials. This privacy policy (“Privacy Policy”) describes our procedures regarding the collection, use, storage, and disclosure of information we collect from you when you communicate and interact with us directly, use Applied Materials software, or visit www.appliedmaterials.com, other Applied Materials websites accessible globally through this site, or other sites displaying this Privacy Policy (collectively, “Websites”). This Privacy Policy may be supplemented by additional information provided at the time when we collect your personal information.
+
+For further information on Applied Materials’ collection, use, storage, and disclosure of personal information, please refer to the following documents:
+
+- For individuals located in the People’s Republic of China (“China”), please refer to our “China Addendum.”
+
+- For residents of the United States, please refer to our “US Privacy Notice.”
+
+- For job candidates, please refer to our “Candidate Privacy Policy.”
+
+INFORMATION WE COLLECT
+
+We collect personal information from and about you as follows:
+
+- Personal Information You Provide. “Personal Information” is information relating to a directly or indirectly identiﬁed or identifiable natural person such as your name, email address, physical address, or telephone number. Applied Materials may request, or provide you an opportunity to submit, personal information. For instance, we may ask customers, suppliers, or job applicants for information necessary to verify eligibility to use a Website service, collaborate on or review conﬁdential or proprietary business materials, or to facilitate dealings or transactions. While under no obligation to provide us with personal information, you should understand that we will not be able to process your communications with us or render certain services that we offer without this information.
+
+- Information Collected Automatically. As you navigate through and interact with our websites or collaborate on or review our conﬁdential or proprietary business materials, we collect, process, and store certain personal information automatically from the computer, smartphone, or other electronic device (“device”) you use to visit the Website or collaborate on or review these materials. This may include, for example, information about your equipment and activity, such as your device’s Internet Protocol (IP) address, operating system, browser type, and web pages viewed immediately before and after visiting our websites, information you search for on our websites, ﬁles accessed, and other technical data. We collect such information through use of browser cookies and similar technologies. For information on our processing of Personal Information through browser cookies and similar technologies on our websites, please refer to our Cookie Policy, which is part of this Privacy Policy. For our use of meeting, call, and webinar recordings, please see the “Meeting and Call Recordings” section below.
+
+- Information Collected by Third Parties. If you interact and communicate with us directly, we may receive certain limited information about you from third parties. We use certain technologies that protect sensitive business information and help detect, prevent, or otherwise address fraud, security, or technical issues. If you receive or handle our conﬁdential or proprietary business information when you interact with us, we may receive information about how you handle that information. This may include personal information like your name, email address, activity, and IP address or device information. Accordingly, we encourage you to read the terms, conditions, and privacy policy of each third-party service that you choose to use or interact with.
+
+HOW WE USE INFORMATION
+
+- Use of Personal Information (for job applicants, please see section 2 below). We use the personal information we collect for the purposes described above. Where the EU or UK GDPR or a comparable law applies, we rely on one or more of the following legal bases: (i) performance of, or steps taken to enter into, a contract with you; (ii) compliance with our legal obligations; (iii) our legitimate interests in operating, securing, and developing our business, where we have assessed that those interests are not overridden by your interests, rights, and freedoms; and (iv) your consent, where we ask for it. Where we rely on our legitimate interests, you may object to that processing as described in the "Your Rights" section, and you may request further information about the balancing assessment we carried out. This includes responding to your requests, inquiries, or otherwise serving you in ways associated with the circumstances under which we collected the information. We do not use your personal information for Applied Materials’ marketing purposes unless you aﬃrmatively agree or opt-in to such usage. Marketing may include sending you communications about our products and services or other communications targeted to your interests. If you do not wish us to use your email address or other contact information for our direct marketing purposes, do not select the opt-in option (if any) in the online form in which we collect your data. You can withdraw your consent at any time by: (i) replying to a promotional email we have sent and indicating your preference to unsubscribe; (ii) clicking the “unsubscribe” link provided at the bottom of any electronic marketing communication; or (iii) adjusting your subscription settings for your account. You can also send us an email stating your request to DataProtection@amat.com. Additionally, we may use your personal information to execute an agreement or transaction concluded through the Website and to meet Applied Materials’ legal obligations with regards to the agreement or transaction.
+
+- Use of Job Applicant Data. Applied Materials will use personal information provided by job applicants for the following purposes: (i) assess candidate suitability for the position for which he/she applies and make hiring decisions; (ii) communicate with and send materials to candidates (including telephone, email, and postal mail) as well as with designated emergency contacts, including to notify candidates of office closures or emergent situations; (iii) investigate, document, and report security incidents and onsite injuries, illness, or grievances; (iv) communicate offers of employment to the candidate and inform the candidate of current and future career and training opportunities; (v) manage interview-related travel; (vi) manage and improve Applied Materials’ recruiting and hiring processes, administer pre-employment activities, and maintain employment records; (vii) authenticate candidate identity and conduct or obtain reference and background checks only to the extent required or permitted by applicable law (if the candidate provides personal information of personal references, Applied Materials may also reach out to them directly); (viii) other purposes as required or permitted by applicable law. For detailed information, please refer to the privacy notice provided in our career portal; For job applicants based in China, please refer to our Candidate Personal Information Protection Notice for more information.
+
+- Use of Automatically Collected Information and Analytics. We use information we collect automatically through logging and Cookie technologies for legitimate business interests, to facilitate your use of our websites, to analyze usage by visitors, to improve user experience, detect against fraud, security, or technical issues, protect our intellectual property and sensitive business information, and to deliver better service. For more information on our use of these technologies for our websites, please refer to our Cookie Policy. We also use recordings of meetings, calls, and webinars for record-keeping, note-taking, training and quality, internal reference, and legal and compliance purposes, as described in the “Meeting and Call Recordings” section.
+
+CCTV (CLOSED CIRCUIT TELEVISION) DATA
+
+Applied uses CCTV to: (i) manage building access and protect the security of Applied facilities, personnel, visitors, property, and information on the premises; (ii) prevent, deter, and, where necessary, investigate unauthorized physical access, including access to secure areas, protected rooms, IT infrastructure, or operational information; and (iii) prevent, detect, and investigate theft of Applied, visitor, or employee property, as well as threats to workplace safety, such as fire or physical assault. Applied processes CCTV data based on its legitimate interests as controller.
+
+Applied does not use CCTV for unrelated purposes, such as monitoring employee work performance or attendance. The cameras are positioned to provide a general view of activity in designated areas and are not intended to monitor surrounding public spaces or identify individuals, except where necessary for security, safety, access control, incident response, or legal purposes. CCTV is not used as an investigative tool or to collect evidence for internal investigations or disciplinary procedures unless a security, safety, legal, or compliance incident is involved. In exceptional circumstances, CCTV data may be shared with investigatory authorities in connection with a formal disciplinary, regulatory, or criminal investigation. Cameras are installed at entrances and focused on individuals accessing Applied sites or related facilities, including parking areas. The CCTV system covers building entry and exit points, internal access points, delivery areas, garages, and exterior areas. The system captures images only; no audio is recorded. Images are not shared with third parties except as described above or as required by law, and access is limited to authorized personnel. CCTV images are periodically overwritten and deleted once the purposes for which they were collected have been fulfilled, unless longer retention is required for legal, compliance, security, or investigation purposes.
+
+MEETING AND CALL RECORDINGS
+
+When you participate in a virtual, telephone, or in-person meeting, call, webinar, or training session with Applied Materials (for example, using Microsoft Teams or a similar platform), we may record the session. Depending on the meeting and the settings enabled, a recording may capture audio, video, images, screen or other content shared during the session, chat messages, and a transcript or AI-generated notes or summary of the discussion. We may also collect related information such as participant names, email addresses, and the date, time, and duration of the session.
+
+We use meeting recordings for legitimate business purposes, including to create a record of the meeting, to allow those who could not attend to review the discussion, for note-taking, quality, training, and internal reference, and to protect our rights and comply with our legal and regulatory obligations. The legal basis for this processing is Applied Materials’ legitimate interests in conducting and managing its business operations, your consent where required by applicable law, or the performance of or entry into a contract.
+
+Where a session is being recorded, we will make this known to participants before or at the start of the session, for example through a recording notification within the meeting platform and/or a verbal or written announcement. If you do not wish to be recorded, you may decline to join, turn off your camera and microphone, or notify the host. Recordings are accessible only to those with a business need and are retained only as long as necessary for the purposes described above, unless a longer retention period is required by applicable law. Where applicable law requires the consent of all participants to a recording, we will obtain that consent before recording. We do not use recordings to generate biometric identifiers such as voiceprints or facial-geometry scans. Where we use automated tools to produce transcripts, notes, or summaries of a session, the output is reviewed by a person before it is relied on for any decision affecting you.
+DATA RETENTION
+
+Your personal information is retained for as long as necessary to accomplish the purposes for which it was collected unless otherwise required by applicable law. Where we cannot state a fixed retention period in advance, we determine the period by reference to the following criteria: the purpose for which the information was collected and whether that purpose remains active; the nature and sensitivity of the information; applicable statutory retention and limitation periods, including tax, accounting, export control, and employment record requirements; whether the information is needed to establish, exercise, or defend legal claims; and whether the information is subject to a legal hold. Retention periods for the principal categories of personal information we collect are set out in our records retention schedule. In some instances, we may be required to retain personal information for longer periods of time to comply with legal requirements under applicable law, for example, to meet tax and accounting obligations. For more information on our retention of cookie data, please refer to our Cookie Policy.
+
+INFORMATION SHARING AND DISCLOSURE
+
+Applied Materials may disclose or share your personal information with our corporate subsidiaries and affiliates worldwide that are also bound by this Privacy Policy. Because we do not sell personal information or share it for cross-context behavioral advertising, we do not act on opt-out preference signals such as Global Privacy Control (GPC) for those purposes. Where applicable law requires us to honor an opt-out preference signal, we will process it in accordance with that law. Browser "do-not-track" signals are not a standardized mechanism and we do not currently respond to them. We may disclose your information to certain third parties as described below:
+
+- Service Providers and Agents. We may share personal information with outside service providers or agents. These outside service providers or agents are only authorized to use the information on Applied Materials’ behalf for purposes such as to provide services or products you have requested, perform billing and collection, or help us manage and analyze data and improve our Websites.
+
+- Legal Compliance or Enforcement. We may disclose your personal information to third parties when we believe disclosure is necessary to: (i) comply with a law, regulation or compulsory legal process, including a law enforcement, regulatory or court-authorized request; (ii) protect the rights, property or safety of Applied Materials or other persons or entities; or (iii) enforce our Websites’ Terms of Use.
+
+- Business Transfers. If Applied Materials is involved in a merger, acquisition, business combination, reorganization, or other transfer of some, or all, of the company’s business, your personal information may be transferred to the buyer or other successor to Applied Materials.
+
+- Non-Personal Information. We may disclose aggregated information, and information that does not identify or allow for the identification of a particular person, at our discretion.
+
+Note that your personal information may be shared with and stored in countries outside your own, including in the U.S. and other countries. We will only transfer your personal information following applicable legal requirements and adopt security measures to protect your personal information. By submitting your personal information, including your application and related information, you are consenting to the transfer of your personal information as described in this Privacy Policy.
+
+CHILDREN’S PRIVACY
+
+Our Websites are not intended for children, and we do not knowingly collect personal information from children. If you are a child or guardian of a child, please do not provide any child’s personal information on our Websites or use any of the interactive or public comment features.
+
+US NOTICE PROVISIONS
+
+Some US residents may be able to exercise additional rights granted by state privacy laws in relation to the personal information that we have collected (subject to certain limitations), please refer to our “US Privacy Notice”. For more information, please contact us at DataProtection@amat.com.
+
+LINKS TO THIRD PARTY SITES
+
+Our Websites may include links to sites operated by third parties. This does not mean that Applied Materials endorses these sites, nor are we responsible for their content or policies. Third party sites are governed by their own privacy policies. You should familiarize yourself with the privacy policy of other sites you visit as it will govern any information you provide through that site.
+
+DATA SECURITY
+
+Applied Materials has implemented measures designed to secure your personal information from accidental loss or unauthorized access, use, alteration, and disclosure. However, the transmission of information via the Internet is not completely secure. Although we use industry-standard efforts to protect your personal information, we cannot guarantee the security of the information transmitted through our Websites.
+
+DATA TRANSFERS TO THIRD COUNTRIES
+
+If you are a resident of EU/EEA/UK, please note that we may transfer your personal information outside the EU/EEA/UK. We will take all steps reasonably necessary to ensure that appropriate safeguards are in place to guarantee that your personal information is adequately protected according to the requirements of the applicable data protection laws. Where we transfer personal information out of the EEA, we rely on an adequacy decision of the European Commission covering the destination country, or on the Standard Contractual Clauses adopted by the European Commission, supplemented where necessary by additional technical, contractual, and organizational measures identified through a transfer impact assessment. For transfers out of the United Kingdom we use the UK International Data Transfer Agreement or the UK Addendum to the Standard Contractual Clauses, and for transfers out of Switzerland we use the Standard Contractual Clauses as recognized by the Swiss Federal Data Protection and Information Commissioner. You have the right to lodge a complaint with your local supervisory authority, including the Information Commissioner's Office in the United Kingdom and the Federal Data Protection and Information Commissioner in Switzerland.
+
+You have the right to contact us at DataProtection@amat.com for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when it is transferred as mentioned above.
+
+ACCESSING AND UPDATING YOUR INFORMATION
+
+You can access and change personal information provided to us as described below. Subject to limitations in applicable law, you also have a right of restriction, opposition, erasure, and portability.
+
+Job Applicant Information. To modify an application or other information submitted for employment purposes, you should resubmit the revised information through the Careers page of our Websites. To inquire about, review, obtain a copy of, or if you wish to have your employment-related information removed from our system, please send an email to DataProtection@amat.com and include your name, email address, and phone number as they were submitted with your application (note, however, that we may be required to retain certain information for regulatory purposes).
+
+Other Personal Information. To access and have personal information you have provided through our Websites (other than the Careers page) updated or removed, please email your request to DataProtection@amat.com.
+
+Note that you have a right to lodge a complaint with the Supervisory Authority in your country if you think that Applied Materials did not adequately address your concern.
+
+YOUR RIGHTS
+
+Depending on your country/region of residency, you may have the following rights concerning your personal information (subject to legally permissible restrictions):
+
+- Right of access: You may request access to your personal information, including requesting a copy thereof.
+
+- Right to rectification: You may request to update or correct any inadequate, incomplete, or inaccurate personal information.
+
+- Right to erasure: You may request that we erase your personal information, if such information is no longer necessary for the purposes it was collected, it was or is being processed unlawfully, or you have permissibly withdrawn your consent to such processing (where our processing is based on your consent).
+
+- Right to restrict: You may request that we cease further processing of your personal information.
+
+- Right to data portability: You may request that we provide your personal information in a structured, commonly used, and machine-readable format for your use or transfer.
+
+- Right to object: You may object to Applied’s processing of your personal information for direct marketing purposes, for our own legitimate interest, or to allow us to perform a task in the public interest.
+
+- Right to withdraw your consent: Where Applied is processing your personal information based on your consent, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
+
+- Right to lodge a complaint: You have the right to lodge a complaint with a supervisory authority if you believe that Applied’s processing of your personal information violates data protection regulations.
+
+- Rights in relation to automated decision-making: You have the right not to be subject to a decision based solely on automated processing, including profiling, that produces legal effects concerning you or similarly significantly affects you, except where permitted by applicable law. Where we carry out such processing, you may request meaningful information about the logic involved and the significance and envisaged consequences of the processing, express your point of view, and request human review of the decision.
+
+- Right to non-retaliation: We will not discriminate or retaliate against you for exercising any of these rights.
+
+If you want to exercise any of these rights or have any questions or concerns about how we treat your personal information, please email your request to DataProtection@amat.com.
+
+HOW TO CONTACT US
+
+If you have questions about this Privacy Policy or our privacy practices, please email us at DataProtection@amat.com.
+
+EFFECTIVE DATE OF POLICY; CHANGES
+
+We reserve the right to change this Privacy Policy at any time at our own discretion in compliance with applicable legal requirements. This may be the case, for example, to comply with new legislation or to reflect new services on our Websites. We will, at all times, treat your personal information in accordance with the version of the Privacy Policy that was in effect at the time we collected this information. When visiting our website, only the latest privacy policy applies.
+
+Where necessary and possible, we will inform you if any changes require your involvement (e.g. renewed consent) or individual notification.

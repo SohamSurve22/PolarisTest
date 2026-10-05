@@ -1,0 +1,252 @@
+# Privacy Policy
+
+Effective as of December 2, 2019
+
+Last Updated Date of this Privacy Policy is January 1, 2026
+
+Introduction
+
+Casey’s General Stores (“Casey’s,” “we,” “our,” or “us”) respects the privacy of your information. This Privacy Policy is designed to assist you in understanding how we collect, use, share, and safeguard your information. This Privacy Policy applies to individuals who access this website, our mobile applications, and our social media sites (collectively, “Site”) and any of our online and, where required, offline services, content, promotions, offers, and programs (collectively, “Services”).
+
+From time to time, we may change this Privacy Policy. If we do, we will post an amended version on this webpage with a new “last updated” date. If we make material changes, we will provide you with additional notice, such as adding a statement on the homepages of our Site or sending you a notification. Please review this Privacy Policy periodically.
+This Privacy Policy covers the following topics:
+
+- Personal Data We Collect
+
+- How We Use Your Personal Data
+
+- How We Share Your Personal Data
+
+- Cookies And Other Tracking Technologies
+
+- Universal Opt-Out Mechanisms
+
+- Choices About Your Personal Data
+
+- Security
+
+- Third-Party Links
+
+- Children’s Privacy
+
+- Your State Privacy Rights And Additional Disclosures
+
+- How To Contact Us
+
+PERSONAL DATA WE COLLECT
+
+We collect personal data from you through your use of the Site and Services. Personal data is information that is linked or reasonably linkable to an identified or identifiable individual. We collect the following types of personal data:
+
+Personal Data as You Navigate Our Site
+
+Depending on how you interact with our Site and Services, we will collect the following personal data that you voluntarily provide to us for the following purposes:
+
+- Create an Account. If you create an account, you will provide us with your name, email address, phone number, date of birth, zip code, and a password for future login purposes. You may also provide us with a favorite store location or other preferences. If you use a third party’s sign in features to login to your account, please see the “Personal Data We Collect About You From Other Sources” section below.
+
+- Place an Order. If you place an order, you will provide us with your name, email address, phone number, and financial information. To place a delivery order, you will also provide us with your physical address. We use third parties to process your payments. The third-party payment processor may collect, record, and store your payment information. Please review the third party’s privacy policy for more information. If you make an alcohol or tobacco purchase, then you will provide us with your driver’s license or date of birth and we will verify your age using a third party.
+
+- Purchase a Gift Card. If you purchase a gift card, you will provide us with your name and financial information, as well as the recipient’s name and physical address. To notify the recipient of the purchase, you will provide us with their email address.
+
+- Apply for a Credit Card. If you apply for a Casey’s Visa or Mastercard, you will provide your name, phone number, email address, date of birth, physical address, housing information, mother’s maiden name, social security number, citizenship status, employment status, and financial information. Visa and Mastercard will process this information and we recommend reviewing the parties’ privacy policies for more information.
+
+- Apply for a Community Pizza Card. If you apply for a community pizza card, you will provide us with your name, physical address, phone number, email address, and signature. You will also provide us with the name of your non-profit organization.
+
+- Sell Us Your C-Store. If you apply to sell us your convenience store, you will provide us with your name, title, physical address, phone number, email address. You will also provide us with your business’s name, physical address, number of locations, and any other information you choose to include.
+
+- Contests, Sweepstakes, Promotions, and Loyalty Programs. When you sign up or participate in our loyalty program, Casey’s Rewards, or any type of contest, sweepstake, or promotion, you will provide us with your name, email address, date of birth, zip code, and phone number. Through the program, contest, sweepstake, or promotion, we may also collect your purchase history.
+
+- Contact Us. If you contact us, you will provide us with your name, email address, phone number, and any other information you choose to include.
+
+- Sign Up for Email. If you sign up to receive emails from us, you will provide us with your name and email address.
+
+- Careers. If you apply for a job with us, you will provide us with your name, email address, physical address, phone number, current position, employer name, education information, employment history, and any other information you choose to include. Our careers page is provided by ADP. ADP may collect, record, and store the information you provide in your application. Please review ADP’s privacy policy here.
+
+Information collected through automated means
+
+When you interact with our Site, Services or Mobile App, we automatically collect certain information, including::
+
+- Usage Information. For example, pages on the Site you access, the frequency of access, and what you click on while on the Site or App.
+
+- Device Information. For example, hardware model, operating system, application version number, browser, and IP address (used for security, fraud prevention, and approximate location).
+
+- Mobile Device Information. Aggregated information about whether the Site or App is accessed via a mobile device or tablet, the device type, and the carrier.
+
+- Location Information. Location information from Site or app visits on a city-regional basis. Depending on your device’s settings, we may collect precise geolocation information. You can control our ability to do this by adjusting the location-sharing settings on your mobile device at any time.
+
+For more information on our cookie usage see our “COOKIES AND OTHER TRACKING TECHNOLOGIES” section below.
+
+Personal Data We Collect About You from Other Sources
+
+In some cases, we may receive personal data about you from other sources. This includes advertising networks, data brokers, operating systems and platforms, mailing list providers, social networks and advertising and marketing partners.
+
+Platform Login
+
+If you login to your account using your Google, Meta, X, or Apple account, we will collect personal data that the platform (i.e., Google, Meta, X, or Apple) discloses to us, such as your name, email address, language preferences, and profile picture, and any other information you permit the platform to share with third parties. The personal data we receive from Google, Meta, X, or Apple is dependent upon your privacy settings with the platform. For more information, please review the privacy policies and settings of the platform that you use.
+
+In addition to the purposes stated below in the “How We Use Your Personal Data” section, we use this personal data to enable you to sign into your account.
+
+HOW WE USE YOUR PERSONAL DATA
+
+In addition to the purposes stated above, we may use all the personal data we collect in accordance with applicable law such as to: Process your account registration;
+
+- Contact you regarding our products and services that we feel may be of interest to you, including service personalization (e.g., nearest store locator, tailored offers);
+
+- Communicate with you about our Site or Services or to inform you of any changes to our Site or Services; Provide support;
+
+- Maintain and improve our Site and Services;
+
+- Investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use, and to otherwise fulfill our legal obligations;
+
+- Defend our legal rights and the rights of others;
+
+- Fulfill any other purposes for which you provide it;
+
+- For any purpose that is reasonably necessary to or compatible with the original purpose for which we collected the personal data as disclosed to you; and
+
+- Comply with applicable law.
+
+HOW WE SHARE YOUR PERSONAL DATA
+
+We may share the personal data that we collect about you in the following ways:
+
+With service providers who perform data or Site-related services on our behalf (e.g., email, hosting, maintenance, backup, analysis, etc.);
+
+- To service providers to prepare, deploy and analyze advertising content;
+
+- In connection with any legal proceedings or prospective legal proceedings;
+
+- To establish, exercise, or defend our or a third party’s legal rights, including providing information to others for the purposes of fraud prevention;
+
+- With any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal data where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal data;
+
+- With any other person or entity as part of any business or asset sale, equity transaction, merger, acquisition, bankruptcy, liquidation, or similar proceeding, or in preparation for any of these events and that person or entity may use your personal data for their own purposes;
+
+- With any other person or entity where you consent to the disclosure; and
+
+- For any other purpose disclosed by us when you provide the personal data or for any other purpose we deem necessary, including to protect the health or safety of others.
+
+COOKIES AND OTHER TRACKING TECHNOLOGIES
+
+Like many other companies, we use cookies and other tracking technologies (such as pixels and web beacons) (collectively, “Cookies”). “Cookies” are small files of information that are stored by your web browser software on your computer hard drive, mobile or other devices (e.g., smartphones or tablets).
+
+We use Cookies to:
+
+- Estimate audience size and usage patterns;
+
+- Understand and save your preferences for future visits, allowing us to customize the Site and Services to your individual needs;
+
+- Advertise new content and services that relate to your interests;
+
+- Keep track of advertisements and search engine results;
+
+- Compile aggregate data about site traffic and site interactions to resolve issues and offer better site experiences and tools in the future; and
+
+- Recognize when you return to the Site.
+
+We set some Cookies ourselves and others are set by other entities. We use Cookies set by other entities to provide us with useful information to help us improve our Site and Services, to conduct advertising, and to analyze the effectiveness of advertising. For example, we use Cookies from Google, Facebook and other similar companies.
+
+How You Can Opt Out of Cookies
+
+Cookies can be blocked by changing your Internet browser settings to refuse all or some Cookies. If you choose to block all Cookies (including essential Cookies) you may not be able to access all or parts of the Site.
+
+You can find out more about Cookies and how to manage them by visiting www.AboutCookies.org or www.allaboutcookies.org.
+
+Platform Controls
+
+You can opt out of Cookies set by specific entities by following the instructions found at these links:
+
+Adobe: https://www.adobe.com/privacy/opt-out.html
+
+Google: https://adssettings.google.com
+
+Facebook: https://www.facebook.com/about/ads
+
+Twitter: https://twitter.com/personalization
+
+Microsoft: https://account.microsoft.com/privacy/ad-settings/
+
+Advertising Industry Resources
+
+You can understand which entities have currently enabled Cookies for your browser or mobile device and how to opt-out of some of those Cookies by accessing the Network Advertising Initiative’s website or the Digital Advertising Alliance’s website. For more information on mobile specific opt-out choices, visit the Network Advertising Initiative’s Mobile Choices website.
+
+Please note that these opt-out mechanisms are specific to the device or browser on which they are exercised. Therefore, you will need to opt out on every browser and device that you use.
+
+Google Analytics
+
+We use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses Cookies or other tracking technologies to help us analyze how users interact with the Site and Services, compile reports on their activity, and provide other services related to their activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a returning visitor, and any referring website. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies. To learn more about Google’s partner services and to learn how to opt-out of tracking of analytics by Google, click here.
+
+Google reCAPTCHA
+
+We use Google reCAPTCHA, a free service provided by Google, Inc., to protect our Site from spam and abuse. Google reCAPTCHA uses advanced risk analysis techniques to decipher humans and bots. Google reCAPTCHA works differently depending on what version is deployed. For example, you may be asked to check a box indicating that you are not a robot or Google reCAPTCHA may detect abusive traffic without user interaction. Google reCAPTCHA works by transmitting certain types of information to Google, such as the referrer URL, IP address, visitor behavior, operating system information, browser and length of the visit, cookies, and mouse movements. Your use of Google reCAPTCHA is subject to Google’s Privacy Policy and Terms of Use. More information as to Google reCAPTCHA and how it works is available here.
+
+Microsoft Clarity
+
+We use Microsoft Clarity to understand how users interact with our Site. Microsoft may collect personal information from individuals visiting our Site. Microsoft’s privacy policy is available here.
+
+Other Types of Collecting Activities
+
+The Site and Services may use Cookies and similar technologies third-party vendors provide to collect information on user behavior (e.g., screens and pages visited, buttons and links clicked, limited information entered, and user taps and mouse movements). This information enables us to monitor and improve the user experience.
+
+UNIVERSAL OPT-OUT MECHANISMS
+
+The Site recognizes the Global Privacy Control (“GPC”) signal. If you are using a browser setting or plug-in that sends an opt-out preference signal to each website you visit, we will treat that as a valid request to opt out. To download and use a browser supporting the GPC browser signal, click here: https://globalprivacycontrol.org/orgs. If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.
+
+Some internet browsers incorporate a “Do Not Track” feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the “Do Not Track” signal, the Site does not currently interpret, respond to or alter its practices when it receives “Do Not Track” signals.
+
+CHOICES ABOUT YOUR PERSONAL DATA
+
+Review and Request Changes to Your Personal data
+
+You may use your account to access, correct, or view certain Personal data we have collected and which is associated with your account. To review or request changes to any of your Personal data, please contact us at privacy@caseys.com.
+
+Marketing Communications
+
+To unsubscribe from our marketing emails, please click the unsubscribe link included in the footer of our emails. You also may submit a request to us at privacy@caseys.com.
+
+Location Data
+
+You can opt out of location data collection at any time through your device settings.
+
+SECURITY
+
+We maintain commercially reasonable security measures to protect the personal data we collect and store from loss, misuse, destruction, or unauthorized access. However, no security measure or modality of data transmission over the Internet is 100% secure. Although we strive to use commercially acceptable means to protect your Personal data, we cannot guarantee absolute security.
+
+DATA RETENTION
+
+We retain your personal data for as long as necessary to fulfill the purposes for which we collect it, such as providing you with the service you have requested, and for the purpose of satisfying any legal, accounting, contractual, or reporting requirements that apply to us.
+
+THIRD-PARTY LINKS
+
+The Site and Services may contain links that will let you leave the Site and Services and access another website. Linked websites are not under our control. We accept no responsibility or liability for these other websites.
+
+CHILDREN’S PRIVACY
+
+The Site and Services is not intended for children under 13 years of age. We do not knowingly collect, use, or disclose personal information from children under 13.
+
+YOUR STATE PRIVACY RIGHTS AND ADDITIONAL DISCLOSURES
+
+Depending on the state in which you reside, you may have certain privacy rights regarding your personal data including (if applicable):
+
+- The right to confirm whether or not we are processing your personal data and to access such personal data;
+
+- The right to obtain a copy of your personal data that we collected from and/or about you in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the information to another controller without hindrance, where the processing is carried out by automated means;
+
+- The right to obtain a list of specific third parties to which we have disclosed your personal data (unless we do not maintain this information in a format specific to you, in which case, we will provide a list of specific third parties to which we have disclosed any consumers’ personal data);
+
+- The right to delete personal data that we collected from and/or about you, subject to certain exceptions;
+
+- The right to correct inaccurate personal data that we maintain about you, subject to certain exceptions; and
+
+- The right, if applicable, to opt out of the processing of your personal data for purposes of (1) targeted advertising; (2) the “sale” of your personal data (as that term is defined by applicable law); and (3) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+We use Cookies to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. When we engage in those activities, we sell personal data (i.e., information from cookies) to third-party advertisers and analytics companies. We do not use personal data for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals.
+
+To exercise your rights, please submit a request through our interactive webform available at Your Privacy Rights or by emailing us at privacy@caseys.com. If legally required, we will comply with your request upon verification of your identity and, to the extent applicable, the identity of the individual on whose behalf you are making such request. To do so, we will ask you to verify data points based on information we have in our records. If you are submitting a request on behalf of another individual, please use the same contact methods described above. If we refuse to take action regarding your request, you may appeal our decision through our interactive webform available here or by emailing us at privacy@caseys.com. If you would like to opt out of targeted advertising, you may alter your cookie preferences within your browser settings.
+
+HOW TO CONTACT US
+
+To contact us for questions or concerns about our privacy policies or practices please contact us here or write to us at:
+
+One SE Convenience Boulevard
+
+Ankeny, IA 50021

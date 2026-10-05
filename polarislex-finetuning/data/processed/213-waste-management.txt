@@ -1,0 +1,315 @@
+# Privacy Policy
+
+Last Updated November 6, 2025
+
+This Privacy Policy (“Policy”) describes Waste Management Service Center, Inc. and its affiliates (collectively, “we,” “our,” or “us”) practices relating to the collection, use, disclosure, protection and other processing of “personal data” related to uses of our websites, mobile applications, services and other interactions with you as well as business contacts, suppliers, current and prospective customers (together, “you” or “your”).
+
+Please note that this Policy only applies to those websites, domains and URLs, the delivery of our services, and other interactions with you, (“Sites”) and including our mobile applications that post a link to this Policy. When you access any external links from our Site, such external websites may have different privacy policies from the Sites and we are not responsible for the privacy practices of such external websites. We encourage you to read all privacy policies posted on the websites that you visit and mobile applications that you use.
+
+Depending on where you are located or where you are a resident, applicable laws may require additional disclosures or provide you with additional rights to your personal data. Please review this Policy carefully to understand what we do with regards to your personal data and where applicable, the following additional privacy notices:
+
+- California Residents: Please click here for our Notice at Collection and here for our California-specific privacy policy, which provides additional information about your privacy rights, including your right to submit a “Do Not Sell or Share My Personal Information” request.
+
+- Colorado, Connecticut, Delaware, Iowa, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah or Virginia Residents: Please click here for our State-Specific Privacy Notice, which provides additional information about your privacy rights.
+
+- Canadian Residents: Please click here for our Canada-specific disclosures.
+
+- Indian Residents: For residents of India, click here for applicable privacy terms.
+
+In addition to reading this Policy, please review our Terms of Use, which governs your use of the Sites. If you do not agree to our Terms of Use and the ‎collection, use and sharing of your information as detailed in this Policy, please do not ‎access or otherwise use the Sites and mobile applications.
+
+In this Policy, you can find out more about each of the following (as applicable to you):
+
+## Contents of this Policy
+
+- Personal Data We Collect
+
+- How We Collect Personal Data
+
+- Our Use of Personal Data
+
+- How We Disclose Personal Data
+
+- Our Use of Cookies and Other Online Marketing Practices
+
+- How Long We Keep Personal Data
+
+- Security of Personal Data
+
+- Children’s Personal Data
+
+- Your Rights and Choices
+
+- International Transfers of Personal Data
+
+- Social Security Protection Policy Statement
+
+- Additional Disclosures for Business Customers and Service Providers
+
+- Changes to this Policy
+
+- Contact Us
+
+### 1. Personal Data We Collect
+
+We may collect information that alone or in combination with other information could be used to identify you, which we refer to as “personal data.”
+
+Depending on how you interact with us, such as if you are a Site visitor, customer (including business customers), or a service provider, we or our service providers may collect the following categories of personal data:
+
+- Identifiers and Contact Information. Such information may include your name, telephone number, e-mail address, date of birth, driver’s license number, Social Security number and home or business and mailing address.
+
+- Payment Information. Information such as credit or debit card, expiration date, bank routing and account number.
+
+- Commercial Information. This includes information about products and services considered or purchased, primary usage, amount of product ordered, reseller/promo code, auto-delivery selection and marketing preferences.
+
+- Business Information. Information such as your employment contact, job title, work email.
+
+- Device Information. This information includes information collected from your use of our Sites such as your device model, operating system, unique device identifiers, mobile network information, server logs, IP address or MAC address.
+
+- Digital or Technical Information. Such information may include visits to our Sites or use of our mobile apps, pages visited, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL, broad geographical information, navigation patterns.
+
+- Communication Logs. Such information may include phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information.
+
+- Certain Specialized Information. If you use certain mobile apps or Sites, we may collect and store information locally on your device such as browser web storage (including HTML 5) and application data caches. Certain services may include a unique application number in connection with the installation of our mobile apps. This number and information, including, without limitation, operating system type and app version number may be sent to our service providers when you install, update or uninstall our mobile app.
+
+- Images, Recordings or Videos. Such information may include audio, electronic, visual, or similar information such as photographs and images (e.g., that you provide us) and call/video recordings (e.g., of customer support calls). Also includes recordings from WM locations, including CCTV, devices, or vehicles related to safety and work at or with WM in addition to photos or videos of containers at a customers’ location, and electronic, visual, or similar information, photographic and videographic images captured at WM and customer sites.
+
+- Other Information You Share With Us. This includes information you provide through your communications with us or customer support, including the nature of an enquiry or other information shared.
+
+Please note that in certain cases, the provision of your personal data is not required by a statutory or contractual obligation. However, where applicable, the provision of your personal data will be necessary to enter into a contract or other arrangement with us or to receive our services and products as requested by you. If you choose not to provide your personal data in such circumstances, some features and services may not be fully functional.
+
+We may also collect information that cannot be used to identify you. For example, we may aggregate non-personal data about you and other consumers who use our Sites. Aggregated information will not contain any information that can be linked directly back to you.
+
+### 2. How We Collect Personal Data
+
+We collect personal data from or about you in connection with the products and services that we provide to you, and some of this information may be collected directly from you or automatically from your interactions with us.
+
+#### Information You Provide to Us
+
+We or our service providers may collect personal data directly from you, when you:
+
+- Visit and use our Sites or mobile apps.
+
+- Purchase our products or services.
+
+- Register for an account on one of our Sites or mobile apps.
+
+- Participate in one of our promotions.
+
+- Sign up to receive communications from us.
+
+- Contact us directly (via phone, email, etc.) or engage with us through an available chat feature on a Site.
+
+- Visit our social media pages.
+
+- Interact with us in-person (e.g., visit one of our physical locations, engage with us at an in-person event, etc.).
+
+#### Information We Collect Automatically
+
+When you access and engage with our Sites, use our mobile apps or interact with our online media and content (including advertisements), we automatically collect information about your browser, device, and activity. We (and our service providers) may use various tracking technologies (e.g., cookies, pixel tags (or web beacons), etc.) to collect information automatically. The information collected may include details about your behavior on our Site, including how you move and scroll through the Site, your keystrokes, the links you choose to click, and how you interact with forms. These technologies may also be used to collect information about you over time and across different websites, mobile applications, and devices.
+
+To learn more about our use of cookies and other similar tracking technologies and how you can control them, please review Our Use of Cookies and Other Online Marketing Practices.
+
+#### Information From Other Sources
+
+We may receive your personal data from other sources, as permitted by law, including the following categories of parties:
+
+- Our service providers (such as companies that support our business, such as waste vendors, business vendors including HR employment-related vendors, payment processors, information technology vendors, financial institutions).
+
+- Third parties, including our service providers and business contacts, such as companies and municipalities that co-sponsor our promotions.
+
+- Our analytics and advertising providers, including online advertising networks and analytics providers.
+
+- Social media platforms (note that the personal data we receive from the platforms is dependent upon their policies and your settings on each platform).
+
+- Third-party websites, including those that allow you to integrate your third-party account data with us.
+
+- Other companies that provide personal data to supplement what we already know about you, including data aggregators.
+
+- Cities, municipalities, state and other governmental entities and agencies to which we provide services.
+
+- From affiliates and subsidiaries and their employees.
+
+### 3. Our Use of Personal Data
+
+Depending on how you interact with us, including what services you are using or requesting, we may use your personal data for the following purposes:
+
+- Contact You. To contact or otherwise communicate with, including providing customer service and responding to requests, and providing you with information about our products and services.
+
+- Provide Our Products, Services and Customer Support: To provide the products and services you request, service accounts, fulfill orders and process transactions and returns (as applicable).
+
+- Maintain Our Services: We use your personal data to provide, administer and manage our Sites, mobile apps and services.
+
+- Protect Our Company and Interests: To help protect us and our Internet service providers from fraud and other crimes.
+
+- Comply with Law: To comply with applicable legal requirements.
+
+- Business Operations: To help with our operations such as troubleshooting, operational support, data analysis, surveys, testing, audits, assessments, events management and research and development.
+
+- Consent: We may use your personal data with your consent (as required by applicable law).
+
+We may also use non-personal aggregate information to improve our Sites and our products and services offerings. For example, our Internet Service Providers may report to us that there were a particular number of visitors to a certain area of our Sites, or that a certain number of businesses or a certain number of individuals completed our registration forms in particular areas of our Sites. Such information may also be used to analyze the effectiveness of our business and advertising models.
+
+### 4. How We Disclose Personal Data
+
+We do not sell, lease, or license your personal data to third parties for monetary compensation. Please note that selling or sharing may have different meanings under certain state privacy laws. Please see our California-specific policy available here or our State-Specific Privacy Notice available here for further information.
+
+We may disclose your personal in the following ways:
+
+- Within our Group Companies. Your personal data may be shared between different group entities within our company or our affiliates. We make such transfers of data where it is necessary to provide you with our services or to manage our business.
+
+- Where Permitted or Required by Law. Your personal data may be shared with law enforcement agencies, governmental authorities, or other public authorities (or entities appointed by them) where required under applicable laws. This includes disclosures to comply with a subpoena or court order, cooperate with law enforcement or other government agencies. Additionally, where permitted by law, certain information may be provided to property owners. We may disclose personal data as otherwise required or permitted by applicable law.
+
+- To Protect Our and Others’ Rights. Your personal data may be shared to: (a) establish or exercise our legal rights; (b) protect the property or safety of our company and employees, contractors, vendors, suppliers, and customers; (c) defend against legal claims; or (d) help with internal and external investigations.
+
+- With Third Parties Who Help Manage Our Business and Deliver Services. We may share personal data with services providers such as legal services, website service providers, marketing service providers, IT and HR support service providers, fulfillment providers, delivery service providers, email administrators, payment processors, and customer service providers.
+
+- Sale of Our Business or Assets. We may disclose your information to others in connection with the sale, merger, acquisition or financing of one or our companies, or in connection with any transaction that involves the sale or assignment of some or all of our assets, including during the diligence process.
+
+- At Your Direction or With Your Consent. We may also disclose your personal data when you have directed us to or if we have obtained your consent (where required by applicable law).
+
+We reserve the right to provide non-personal data, such as aggregated data, to third parties.
+
+### 5. Our Use of Cookies and Other Online Marketing Practices
+
+#### Cookies and Online Tracking Technologies
+
+We and our service providers may use any number of tools to collect information about you, your computer access points, mobile devices, and the web browser that you use to connect to our Sites or digital applications such as cookies, pixel tags, widgets, web beacons, clear gifs and other online tracking technologies, including some that may provide “session replay” services (collectively “Cookies ”). Cookies are tiny text files that we place on your computer or mobile device when you visit our Sites and mobile apps. We may use Cookies for a variety of purposes including to personalize your interactions with us such as the pages you visit and promotions or advertisements that you click on or to provide you with certain marketing communications. We may also use certain third-party Cookies and technologies that collect aggregated information that we use for our operational and business purposes, including collecting measurements about your interactions with our advertisements.
+
+We and our service providers may use analytics providers like Google Analytics, to help us analyze use of the Sites. To learn more about Google’s privacy practices, click here.
+
+We use different types of Cookies that provide various services, including:
+
+- Essential Cookies. We may use Cookies that are necessary for our Sites to function and cannot be switched off in our systems. They are usually only set in response to actions made by you, which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. Some of these Cookies do not collect personal data. We also use other first-party Cookies to collect certain measurement data that are necessary to help us manage our business activities and that do not collect your personal data and certain tracking technologies that are required to play video on the Sites. You can set your browser to block or alert you about these Cookies, but some parts of the Site may not work properly.
+
+- Performance/Analytics Cookies. We may use Cookies that collect information about your use of our Sites and allow us to count visits and traffic sources so we can measure and improve the performance of our Site. They help us to know which pages are the most and least popular and see how visitors move around the Sites. All information these Cookies collect is aggregated and therefore anonymous. If you do not allow these Cookies, we will not know when you have visited our Sites, and will not be able to monitor its performance.
+
+- Functional Cookies. We may use Cookies that collect information about your choices on the Site you are visiting and enable the Site to provide enhanced functionality and personalization such as your choice of language or region. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these Cookies, then some or all of these services may not function properly.
+
+- Targeting Cookies. We may use Cookies to display advertisements or display targeted promotions or to manage our advertising. They collect information about your activities on websites. These Cookies may be set through our Site by our advertising providers. They may be used by those companies to build a profile of your interests and show you relevant adverts on other websites. They do not store directly personal data, but are based on uniquely identifying your browser and internet device. If you do not allow these Cookies, you will experience less targeted advertising.
+
+- Session Replay Cookies. We may use Cookies, which may be provided by our vendors, for purposes of session replay. These Cookies record your interactions with our Site, including mouse movements, text, and other information, associated with your visit to our Site. This information is used to help us improve our website and better provide you with information you are interested in when you visit our website. They may be set by us or by third party providers whose services we have added to our pages. This information is used to help us improve our Site and better provide you with information you are interested in when you visit our Site.
+
+- Social Media. We may use certain social media Cookies that are set by a range of social media services that we have added to the Site to enable you to share our content with your friends and networks on those platforms. They are capable of tracking your browser across other websites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these Cookies you may not be able to use or see these sharing tools.
+
+#### Managing Your Tracking Technology Preferences
+
+You can withdraw your consent to allow for our use of certain Cookies, change your browser settings, ‎and delete ‎the Cookies already stored on your computer at any time. We do not currently respond to “do not track” signals.
+
+You can control Cookies in several ways:
+
+- Browser Settings. You may be able to control Cookies through your browser settings. You may be able to set your browser settings to use our Sites without Cookie ‎functionality. ‎Please note that if you block Cookies, some services functions and Sites may ‎be ‎unavailable and we will not be able to present personally-tailored content and ‎advertisements to ‎you. Your browser may provide you with some options regarding ‎Cookies. Your browser provider may also use certain Cookies or other tools that we cannot control. For more detailed ‎information about how to disable or administer your ‎Cookie settings in your web browser, please ‎refer to the applicable page for the ‎browser you are using:
+
+- Safari: https://help.apple.com/safari/mac/8.0/#/sfri11471
+
+‎
+- Google Chrome: https://support.google.com/chrome/answer/95647?hl=en
+
+‎
+- Microsoft Edge / Internet Explorer: https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d
+
+- Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+
+- Third Party Tools. Certain tools or organizations provide options to limit online tracking:
+
+- Network ‎Advertising Initiative: https://optout.networkadvertising.org/?c=1
+
+- Google Analytics Opt-out Browser Add-on, click here.
+
+- Adobe Analytics, click here.
+
+- Privacy Choices Link. You can control Cookies used on the Site through the Your Privacy Choices link at the footer of our Site.
+
+- Global Privacy Opt-Out Preference Signal: We process opt-out requests submitted using an opt-out preference signal as required by applicable law. For example, when we detect the Global Privacy Control (“GPC”) signal from a browser, we treat the signal as a request to opt out of sale and sharing of personal information associated with that browser. If we receive the GPC signal from a user who we identify as a customer with an account, we treat the signal as a request to opt out of sale and sharing applicable to that account. If you click “accept” on the cookies banner subsequent to your submission of a GPC signal, this may override your GPC signal.
+
+Please note ‎that if you delete, or choose ‎not to accept, Cookies, you may not be able to utilize ‎the features of the Sites and mobile apps ‎to their fullest potential.
+
+### 6. How Long We Keep Personal Data
+
+We keep personal data for as long as reasonably necessary for the purposes described in this Policy, while we have a business need to do so, or as required by law (e.g. for tax, legal, accounting or other purposes), whichever is the longer.
+
+### 7. Security of Personal Data
+
+You use our Sites and other services at your own risk. We implement commercially reasonable technical, administrative, and organizational measures to protect personal data both online and offline from loss, misuse, and unauthorized access, disclosure, alteration or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from us may not be secure. Therefore, you should take special care in deciding what information you send to us. Please keep this in mind when disclosing any personal data to us via the Internet. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Sites, our mobile app, or third-party websites.
+
+### 8. Children’s Personal Data
+
+Our Sites are general audience websites. Our Sites and mobile apps’ content is not directed toward children who are under the age of 13. We do not knowingly collect personal data from children or minors. If we or our Internet service providers become aware that a child has provided us with personal data without parental consent, we will endeavor to delete that information from our databases. If you have questions about personal data that may have been submitted by a child, please email us at privacyofficer@wm.com.
+
+### 9. Your Rights and Choices
+
+Depending on how you interact with us, you have certain rights regarding your personal data. Please note any rights described in this Policy are subject to exemptions and other limitations under applicable law.
+
+#### Requesting Access or Changes to Personal Data
+
+We take reasonable steps to keep your data accurate and complete. If you would like us to consider providing you access to, or making a correction to, your personal data maintained in our records, please send your request to us at privacyofficerappdeletion@wm.com.
+
+#### Marketing Communications Choices
+
+We may use your personal data to inform you about our products or services that we believe will be of interest to you and/or to provide you with our newsletter. We may contact you by email, post, or telephone, or through other communication channels. In all cases, we will respect your preferences regarding how you would like us to manage marketing activity with you.
+
+You can manage your marketing preferences in several ways:
+
+- Direct Marketing. You can ask us to stop direct marketing at any time. You can ask us to stop sending email marketing by clicking on the “unsubscribe” link you will find on all the email marketing messages we send you. Alternatively, you can contact privacyofficer@wm.com. Please specify whether you would like us to stop all forms of marketing or just a particular type (e.g., email).
+
+- Cookies and Online Tracking. You can change the way your browser manages Cookies, which may be used to deliver online advertising, by following the settings on your browser as explained above in Our Use of Cookies and Other Online Marketing Practices.
+
+Each commercial e-mail that we send to you will offer you the opportunity to opt-out of continuing to receive such messages. We may take up to 10 business days to process your opt-out requests. In some instances, we may have already shared your information with one of our authorized third parties before you changed your information preferences, and you may briefly continue to receive e-mail even after you have opted out. FTC e-mail compliance guidance allows us to send you transactional and relationship e-mail without offering you the opportunity to opt-out of receiving those types of e-mail. You may also write to us at:
+
+WM, Attn: WM Privacy Team
+800 Capitol St. Suite 3000
+
+Houston, Texas 77002
+
+#### Rights Related to Our Mobile Apps
+
+If you use our mobile apps and create a profile, you may be able to delete our mobile app profile by following the instructions provided in the mobile app or contacting us at privacyofficerappdeletion@wm.com. You may control whether our mobile apps send you push notifications by changing your notification settings on your mobile device. If we engage in sending you in-app messages, we will allow control for those in our mobile app’s settings.
+#### Jurisdiction-Specific Rights
+
+Depending on where you are located or where you are a resident, you may have certain additional rights to your personal data. For a description of your rights, please see the appropriate policy for additional disclosures:
+
+- California Residents: Please click here for our Notice at Collection and here for our California-specific privacy policy, which provides additional information about your privacy rights, including your right to submit a “Do Not Sell or Share My Personal Information” request (i.e., to opt of the “sale” or “sharing” of your personal information (as defined by the CCPA) by us) and how we respond to opt-out preference signals. Residents of California may also, under §1798.83, known as the “Shine The Light” law, request ‎‎‎and obtain from us, once a year and free of charge, information about categories of personal ‎‎‎‎information (if any) we disclosed to our affiliates for direct marketing purposes and the number of affiliates with which we shared personal information in the immediately ‎‎‎preceding ‎calendar year. As stated above, we do not sell your personal information to third parties for monetary compensation or as that term is traditionally defined. Please see our California-specific policy available here for further information. If you are a California resident and would like to make such a request, ‎‎‎please submit your ‎request and identify that you are requesting information under “Shine The Light” and send the request in writing to us at privacyofficer@wm.com.‎
+
+- Colorado, Connecticut, Delaware, Iowa, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah or Virginia Residents: Please click here for our State-Specific Privacy Notice, which provides additional information about your privacy rights.
+
+- Canadian Residents: Please click here for our Canada-specific disclosures.
+
+- Indian Residents: For residents of India, click here for applicable privacy terms.
+
+### 10. International Transfers of Personal Data
+
+The personal data that we collect or receive about you may be transferred to and processed by recipients who are located in a jurisdiction where the level of data protection may not be equivalent to the level of protection applicable at your location.
+
+Where local laws require, we will take steps to ensure that any transfer of personal data outside of the originating jurisdiction is carefully managed to protect your privacy rights and ensure that adequate safeguards are in place. If your location lacks international data transfer instructions or standard forms from the local supervisory authority, we may use other legally acceptable mechanisms from other jurisdictions. We have also established an intra-group data transfer agreement to regulate cross-border transfers of personal data within our group companies.
+
+### 11. Social Security Protection Policy Statement
+
+We seek to protect the confidentiality of social security numbers (SSNs) by maintaining physical, ‎‎electronic, and procedural safeguards. We limit access to SSNs to help protect against their loss, ‎‎misuse or unlawful disclosure. We do not disclose SSNs to third parties except where required or ‎‎permitted by law.‎
+
+### 12. Additional Disclosures for Business Customers and Service Providers
+
+Depending on the services we are providing, we may collect and process personal data from or on behalf of our business customers, where we are acting as a service provider or having another business relationship with a third party such as a service provider.
+
+#### Customer’s Users
+
+When providing certain services to a customer to which you are related to (e.g., if you are an employee, a contractor, an apprentice, a trainee, a patient, etc., of our customer), we may have to process the following personal data about you (as applicable, depending on the specific service provided): identification data, contact data, and professional data. Most of the personal data is obtained from our customers.
+
+We process such personal data in the context of the provision of services to a customer. Please note that in such situations, our customer is the controller of your personal data and you should refer to the Customer’s privacy notice to understand how your personal data is handled.
+
+#### Business Arrangements
+
+If you work with us in business arrangement or as a service provider, we will collect personal data from you, your representative, and/or your contact person such as your full name, job title, email address, and phone number.
+
+Most of the personal data is obtained directly from you. In addition, we will collect personal data from other sources such as credit reference agencies (e.g., Dun & Bradstreet Credit) who compile information from numerous sources, including publicly available information.
+
+We use this information for the following reasons: to review/assess your suitability for a business arrangement or service provider; to comply with our legal obligations; to detect, investigate, report, and seek to prevent fraud (i.e., through know-your-customer checks); Anti-Money Laundering (AML) screening; and other identity checks. To meet our obligations under any contracts we have with you, we may also need to conduct credit and fraud checks on your business and certain officers or directors of your business.
+
+### 13. Changes to this Policy
+
+We reserve the right to and may update this Policy from time to time. We will notify you of any changes by changing the “Last Updated” date at the beginning of this Policy, unless other notice is required by applicable law. You should take the time to review this Policy each time that you visit or use one of our Sites and or mobile apps.
+
+### 14. Contact Us
+
+If you have questions or comments about our efforts to protect your personal privacy, or if you require additional information about our privacy commitments, please contact us at: privacyofficer@wm.com.
+
+For all other questions or comments, please contact us at: cslosangeles@wm.com.

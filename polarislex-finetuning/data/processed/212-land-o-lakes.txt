@@ -1,0 +1,398 @@
+### Privacy Notice
+
+Effective Date: September 2024
+
+This Privacy Notice (“Notice”) is published by Land O’Lakes, Inc., its affiliates, subsidiaries, and related entities (the “Land O’Lakes Companies,” “Company,” “we,” “us,” and “our”). References to Land O’Lakes Companies includes, without limitation, Winfield Solutions, LLC d/b/a Winfield United, Purina Animal Nutrition LLC, and any other current and future Land O’Lakes affiliates or subsidiaries who provide a link to this Notice.
+
+We know that your privacy is important to you, and we work hard to earn and keep your trust. We have created this Notice to let you know what information we collect when you use our Services on or in connection with which this Notice is posted or referenced, how we use and disclose the information we collect on or in connection with those Services, and how we protect your privacy when you use those Services. Please note that different privacy notices or in some cases, Supplemental Notices (defined below) or other Additional Terms, may be applicable to certain Services.
+
+If you have any questions about this Notice or our privacy practices, please contact us by e-mail at Privacy@landolakes.com (residents of Europe, please email internationalprivacy@landolakes.com).
+
+This Notice forms part of any terms of use for our Sites, or other agreement(s) into which it is incorporated by reference including but not limited to end user license agreements, agreements related to various Services, purchase terms or shipping and return policies when applicable (each such applicable terms or agreement(s) are the “Additional Terms”).
+
+This Notice does not apply to our intellectual property, including any data or content, that we own or license from third parties, nor does it apply to data which is publicly available, except as otherwise described herein.
+
+Additionally, this Notice does not apply to data collected or processed in connection with an employment relationship (including independent contractors and others in the HR context), however, you may review our Applicant Notice at https://careers.landolakesinc.com/us/en/applicant-privacy-notice and current and former employees and independent contractors residing in California can access the Notice at Collection and Privacy Policy for HR Individuals Who Reside in California by contacting CalPrivacy@LandoLakes.com.
+
+- Definitions
+
+- The term “Personal Information” refers to information that can be used to identify you personally, alone or in combination with other information available to us. Examples of Personal Information include, but are not limited to, your name, physical address, and e-mail address, however, various other types of Personal Information we collect and process are described below.
+
+- “Sensitive Personal Information” includes certain Personal Information deemed “sensitive” or similar terms under various state or international privacy laws, as described further below.
+
+- The term “Notice” refers to this privacy notice.
+
+- “Site” means any of our websites including those on which this Notice is posted or linked, and if this Notice is posted or linked from a different Service (e.g., a mobile application), references to this “Service” will refer to either that mobile application, or another Service on which this Notice is posted or linked.
+
+- Our “Services” as described in the Additional Terms, include but are not limited to, our various Sites, mobile applications, agricultural technology tools, portals, platforms, programs (including without limitation our carbon programs including carbon market access programs), and other services including offline services (e.g. site or field visits, the customer service line, and other offline services and activities of our Company), which may be provided to our members, customers, consumers, retailers, dealers, farmers, or others. Unless explicitly stated otherwise, any new features that augment or enhance the current Services shall be subject to this Notice.
+
+- “User-Generated Content” means any content you create or own and which you post or otherwise provide to us for the purpose of having such content made available on one of our Sites, or for the purpose of sharing it publicly through one of our Services or otherwise making such content publicly available.
+
+- Your Consent
+
+Please take a few minutes to review this Notice before using any of our Services. By using any of our Services you are consenting to the collection, use, and disclosure of information as set forth in this Notice. If you do not agree to be bound by this Notice, you may not continue to access or use our Services.
+
+- Supplemental Privacy Notices
+
+This Notice may be supplemented from time to time by additional “Supplemental Notices” posted on or in connection with any of our Services. These Supplemental Notices provide a level of detail applicable to specific Services that we cannot provide in this more general description of our privacy practices. For example, certain pages of a Site may contain privacy notices providing details about the Personal Information we collect on those pages, why we need that Personal Information, and choices you may have about the ways we use and disclose that Personal Information, if different from what we have stated in this more general Notice.
+
+- Categories and Sources of Information We Collect
+
+The information we collect and the sources from which we collect it depends on what you do when using our Services. The following details the categories of information we collect, which may include, but are not limited to, Personal Information, and the sources from which we collect such information. Note that the categories and sources of information outlined in this Notice reflect our practices for the 12-month period preceding the Effective Date of this Notice.
+
+Categories of Information
+
+When you use our Services, we, or certain third-parties on our behalf, may collect the following categories of Personal Information:
+
+- Identity/Contact Data, such as your name, e-mail address, fax number, mailing address, physical address, or phone numbers, account ID or other identifier, gender, date of birth or age range.
+
+- Biographical Data, such as information in relation to your professional qualifications, your current or former place of employment, or related to your employees, depending on your role and your interaction with us and our Services; recruitment data we may receive when we perform HR services on behalf of our members or others;
+
+- Farm/Ecosystem Data, this may include, but is not limited to, farming practices and management data including without limitation data related to fields and conservation, agricultural and agronomic practices, ESG, sustainability and ecosystem data, and any other agricultural and agronomic data;
+
+- Audio/Video Data, including, but not limited to, recordings and images collected from our surveillance cameras when you visit our locations, as well as audio files and records, such as voice mails, call recordings, video from our use of drones, and the like;
+
+- Inference Data, including, but not limited to, Personal Information used to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, attitudes, market segments, likes, favorites and other data or analytics provided about you or your account by social media companies or data aggregators, including household data such as income, number of children, occupation, social grade, home ownership status, the products and services you use or intend to use or purchase, and your interests;
+
+- Geolocation Data, such as general data regarding your location as obtained by your IP address or otherwise (this is not as precise as “Precise Location Data,” described below);
+
+- Your Feedback/Content, such as feedback from you about our Services as well as our products and services generally as well as anything you type into a free-text field available within our Services such as in a “Contact Us” or “Comment” box;
+
+- Sensitive Personal Information, as defined above, which may include the following, as well as other types of information: Personal Information that reveals a (i) social security, driver’s license, state identification card, or passport number; (ii) account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; (iii) precise geolocation; (iv) racial or ethnic origin, or union membership; (v) contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication. We may collect the following categories of Sensitive Personal Information:
+
+- “Government ID Data” data relating to official government identification cards, documents, or numbers, such as driver’s license or passport cards/documents or numbers, social security or tax ID numbers, including similar Identity/Contact Data protected as Sensitive Data under applicable law.
+
+- “Health Data” information about your health.
+
+- “Financial/Payment Data” data such as bank account details or payment card information, including similar data protected as Sensitive Data under applicable law, and relevant information in connection with a financial transaction.
+
+- “Precise Location Data” data from GPS (which may be collected when you use our mobile applications, if you have enabled this feature), Wi-Fi triangulation, certain localized Bluetooth beacons, or technologies used to locate you at a precise location and time.
+
+- “Race/Ethnic Origin Data” data relating to your race, ethnic, or national origin.
+
+- “Account Data” data relating to account log-in and password.
+
+- Internet/Device Data, including, but not limited to, browsing history, search history, and information regarding your interaction with an internet website, mobile application, or digital advertisement. This may include the following categories of information, which we may automatically collect when you use our online Services:
+
+- Usage Data, including, but not limited to, information about how you use our Services, what pages you view, the number of bytes transferred, the links you click, the materials you access, the date and time you access the Services, the website from which you linked to one of our Sites and other actions taken within the Site(s) or Services; and
+
+- Technical Data, such as your Internet Protocol (IP) address, your device ID, your browser type and capabilities and language and your operating system. An “IP address” is a unique number that is automatically assigned to your computer when you connect to the Internet. It is used to identify your computer’s “location” in cyberspace, so that the information you request can be delivered to you.
+
+When you use our Services, we, or certain third-parties on our behalf, may collect the following categories of “Commercial Information”:
+
+- Marketing/Communications Data, including but not limited to your marketing preferences and your subscriptions to or permissions to receive our publications, emails, and SMS campaigns;
+
+- Transaction Data, including, but not limited to, inquiries about and orders for our products and services and details of payments to and from you;
+
+- Event/Program Registration Information, such as information you provide when filling in e-registration forms or surveys related to our various events or programs.
+
+Sources of Information
+
+- Information You Volunteer. We collect information you and others knowingly and voluntarily provide when you use our Services or otherwise interact with us. For example, we may collect Identity/Contact Data, Account Data, and Your Feedback when you subscribe to one of our newsletters or alert services, review or comment on one of our products, or contact us with questions. If you post any User-Generated Content to our Services, please note that it may be visible to other users of our Services, and it must comply with our terms outlined below, as well as our Additional Terms.
+
+- Information Provided by Partners (Including Dealers, Retailers, etc.). In some circumstances, we or you may have a relationship with a third party who provides us information about you. For example, if you are a farmer and your retailer has registered you for one of our Services, that retailer may provide us information about you or provide Farm/Ecosystem Data in connection with that Service. We may also have relationships with certain government agencies who may have data on farms or farmers, or other Personal Information, which they may disclose to us.
+
+- Service Providers, Aggregators and Advertisers. We may receive Personal Information and other data from various companies who provide services on our behalf, including but not limited to ad networks, behavioral advertising vendors, market research, and similar companies that provide us with additional Personal Information such as Inference Data.
+
+- Social Media Companies. We receive data from social media companies who may transfer Personal Information to us when you register for one of our Services or interact with that social media company on or in connection with our Services, products or brands.
+
+- Data We Create and Infer. We, certain partners, social media companies, and third parties operating on our behalf create and infer Personal Information such as Inference Data or aggregate data based on our observations or analysis of other Personal Information processed under this Notice or Supplemental Notices, and we may correlate this data with other data we process about you. We may combine any Personal Information about you that we receive from you, from other companies within our family of companies, and from third parties.
+
+- Information Sent to Us by Your Web Browser. We collect information that is sent to us automatically by your Web browser. This information typically includes, but is not limited to, your IP address, the identity of your Internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit, and other data described under Internet/Device Data above, or within our description of Cookies and Other Technologies below. Please check your browser if you want to learn what information your browser sends or how to change your settings.
+
+- Information Sent to Us by Mobile Applications. If you have one of our mobile applications installed on your mobile device, we will collect information regarding the mobile device on which you install the application, as well as your Identity/Contact Data and Account Data if you register for the application. We may also, subject to notification or consent if required by law, track the location of your device, and other data you may scan or log into the mobile application, as well as information relating to your use of the mobile application.
+- Cookies and Other Technologies. We use “cookies” and other technologies to collect information and support certain features of our Services. For example, we may use cookies and other technologies to:
+
+- Collect information about the ways visitors use our Services—which pages they visit, which links they use, and how long they stay on each page;
+
+- Support the features and functionality of our Services—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits; and
+
+- Personalize your experience when you use our Services.
+
+In addition to the cookies and similar technologies we use, our service providers or partners may also use cookies and similar technologies. For example, our partners may deliver cookies through our Services that allow them to recognize you in future Web sessions as someone who has expressed an interest in that Service or in our other products or services. Likewise, links in e-mails sent to you by our service providers or partners may be designed so that we can identify recipients who click on them and/or measure the effectiveness of the e-mail campaign.
+
+Generally, if you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit our Site(s), you may be unable to use all of the functionality of our Site(s) (or some of our other Services) if your browser rejects our cookies.
+
+We use the following categories of cookies on our Services.
+
+- Strictly Necessary Cookies. These cookies are essential in order to enable you to move around our Services and use their features. Without these cookies, certain functionality such as maintaining a record of your purchased items (e.g. a shopping cart), cannot be provided.
+
+- Performance Cookies. These cookies collect anonymous information on how you use our Services, to help us understand, for example, how you arrive at one of our Sites, how you may browse or use our Sites, and highlight areas where we can improve, such as navigation.
+
+- Functionality Cookies. These cookies remember certain choices you make when you use one of our Services, such as if you select content for a specific region or type of company/crop or individual, and your search parameters. This information can then be used to provide you with an experience more appropriate to your selections and to make your visits to our Services more tailored to your preferences. The information in these cookies may be anonymized. These cookies cannot track your browsing activity on other websites.
+
+- Targeting Cookies or Advertising Cookies. These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. The cookies are usually placed by third-party advertising networks. These cookies remember the websites you visit and that information may be disclosed with other parties such as advertisers.
+
+We may also use other tracking technologies on or in connection with our Services.
+
+- Google Analytics. Our Services may send certain Personal Information to Google Analytics for the purpose of providing us with the ability to conduct technical and statistical analysis on the performance of our Services, and in some cases, this data sharing with Google may be used for Commercial Purposes (described further below). For more information on how Google Analytics uses information sent from our Services, please review Google’s privacy policy.
+
+- Adobe Analytics. Our Services may send certain Personal Information to Adobe Analytics for the purpose of providing us with the ability to conduct technical and statistical analysis on the performance of our Services, and in some cases, this data sharing with Google may be used for Commercial Purposes. For more information on how Adobe Analytics uses information sent from our Services, please review Adobe’s privacy policy.
+
+- Web Beacons. A Web Beacon is an electronic image. Web Beacons can track certain things from your computer and can report activity back to a web server allowing us to understand some of your behavior. If you choose to receive emails from us, we may use Web Beacons to track your reaction to our emails. We may also use them to track if you click on the links and at what time and date you do so. Some of the third-party marketers we engage with may use Web Beacons to track your interaction with online advertising banners on our Site(s). This information is only collected in aggregate form and will not be linked to your Personal Information. Please note that any image file on a webpage can act as a Web Beacon.
+
+- Embedded Web Links. Links provided in our emails and, in some cases, on third-party websites may include various tracking technology embedded in the link. The tracking is accomplished through a redirection system. The redirection system allows us to understand how the link is being used by email recipients. Some of these links will enable us to identify that you have personally clicked on the link and this may be attached to the Personal Information that we hold about you. This data is used to improve our service to you and to help us understand the performance of our marketing campaigns.
+
+In addition to the uses described above, if you utilize certain Services, we may use information we receive to produce a specific output, including scores and reports, perform analyses, and to de-identify and/or aggregate such information with other data including data from other users of the same Service or our other Services, each as described in the applicable Additional Terms.
+
+Some of the information we collect using cookies and other Web technologies include Personal Information such as your IP address, and other information may be linked to your IP address. In addition, if you have created a user identity, for example, by registering with one of our Services, we may link the Personal Information you have provided with the information we collect using cookies and other Web technologies, which may enable us to determine whether you have visited the Site before and if so, to make your experience more helpful.
+
+Also, if your Web browser sends us your IP address and you register with one of our Services, we may link that IP address to the Personal Information you provided as part of such registration. We may also provide your IP address to our third-party service providers who can use it to identify your state and zip code. This gives us valuable demographic information about the individuals who use our Services. In addition, if we suspect fraud or a threat to the security of any of our Services, we may disclose our server logs—which contain users’ IP addresses—with the appropriate investigative authorities, who could use that information to trace and identify individuals.
+
+Some of our Services may track users over time and across third-party websites, typically with regard to marketing or pricing data. Our Services do not currently respond to web-browser Do Not Track signals. However, you can exercise other choices related to marketing as further described below.
+
+- How We Use Information; Legal Basis of Processing
+
+We may use the information we collect through our Services, or which is otherwise provided to us as described within this Notice, for several business or Commercial Purposes, as further described below, including in the following contexts:
+
+- Purchases from us, or Information requests: We may process Identity/Contact Data, Transaction Data, Financial/Payment Data, Internet/Device Data, when you engage in a purchase transaction with us. In some cases, Financial/Payment Data may be collected and processed by a third party payment processor on our behalf. If you have requested information from us, we may process Identity/Contact Data, Internet/Device Data, Farm/Ecosystem Data, and Marketing/Communication Data as needed to respond to your request and provide the information relevant to your request. We may use data regarding your transaction or information request, which may in some cases be combined with Inference Data, to engage in marketing to you for similar products or services. The legal basis for processing this information is to fulfill a contract (if a purchase) or consent (if a request for information).
+
+- Commercial Transactions: We may process Identity/Contact Data, Financial/Payment Data, and Commercial Information if you enter into an agreement to provide us with products or services (e.g. if you have entered a contract to provide us with milk, we would collect your tax ID number and bank account information to facilitate your payment). The legal basis for processing this information is to fulfil a contract.
+
+- Recruiting and HR Services for Members: When we provide certain recruiting and other HR services for our members, we may process Identity/Contact Data, Biographical Data, Geolocation Data, Your Feedback/Content; Government ID Data, and if provided, this may also include certain Health Data or Race/Ethnic Origin Data. The legal basis for processing this information is either consent or legitimate interests.
+
+- Fraud prevention, membership, anti-bribery/corruption, or credit purposes: We and our affiliated entities may process Identity/Contact Data, Transaction Data, Financial/Payment Data, Internet/Device Data, Government ID Data, and Biographical Data in our efforts to ensure that our customers are genuine, to prevent fraud during transactions, to evaluate our third-parties, such as agents, distributors, vendors or others, with regard to our corporate compliance programs including our anti-bribery and anti-corruption program, or whether to grant membership in our organization. We may also use this information to evaluate and grant credit where applicable. The legal basis for processing this information is our legitimate interests, and in some cases, public interest.
+
+- Security of Premises: We process Identity/Contact Data, Precise Location Data, and Audio/Video Data in order to maintain the security of our premises. In addition, we or third parties with our permission, use some of this data (including Audio/Video data from CCTV cameras or otherwise), and Precise Location Data obtained from card-keys, to allow entrance to our facilities or certain areas within our facilities. The legal basis for processing this information is our legitimate interests, consent, and in some cases, public interest.
+
+- Event Administration: In connection with the registration for and administration of our events, we may process Event/Program Registration Information which may include Identity/Contact Data, Financial/Payment Data, Internet/Device Data, Audio/Video Data, Farm/Ecosystem Data and Biographical Data. In addition, if provided in connection with an event, we will also process Health Data (as needed for the event, such as dietary restrictions, allergies, or accessibility requirements) and Government ID Data. The legal bases for processing this information are in order to fulfil a contract, consent, or legitimate interests, depending on the specific type of data and how it is used in connection with administering the event.
+
+- Customer Service: If you contact us with regard to a customer service matter, we may process Identity/Contact Data, Transaction Data, Financial/Payment Data, Farm/Ecosystem Data, Internet/Device Data, Audio/Video Data and if applicable, Biographical Data or Geolocation Data, in order to resolve the issue. We may record telephone calls and chat sessions to ensure your issues are properly managed, and those sessions may be recorded and shared with our third party service providers who use the data from those sessions solely for the purpose of helping us track and manage customer service matters. The legal bases for processing this information are in order to fulfil a contract, consent, and legitimate interests.
+
+- Product/service recommendations and decisions: Some of our Services may contain questionnaires or other tools designed to assist you in making purchasing decisions (e.g. to determine which product or service would best suit your needs), or to determine how to best engage in certain activities related to farming, or otherwise. This may involve our processing of Identity/Contact Data, Transaction Data, Inference Data, Geolocation Data, Biographical Data and Farm/Ecosystem Data. We may also use data collected during this process for our general marketing purposes related to similar products, services, programs or other needs. The legal bases for processing this information are in order to fulfil a contract, consent, or legitimate interests, depending on the specific type of data and how it is used in connection with these activities.
+
+- Operation and Personalization of our Websites: When you use our Sites, we may process Internet/Device Data, Geolocation Data, Usage Data, Inference Data, and Marketing/Communications Data. We use this data to analyze the use of our Services, including navigation patterns, clicks, etc. to help understand and make improvements to the Services, and to personalize the Services. These uses may include cookies and other tracking technologies, which are described above in greater detail. We may also process this Personal Information for our Commercial Purposes, which may include data sales/sharing, where permitted by law (to opt out of data sales/sharing, please see below). The legal basis for processing this information is our legitimate interests.
+
+- Marketing, promotions, and special offers: We may process Identity/Contact Data, Biographical Data, Farm/Ecosystem Data, Inference Data, Geolocation Data, Marketing/Communications Data, Transaction Data, Internet/Device Data and Feedback/Content in order to send you special offers or information, or engage in other marketing or promotions. This may include sending marketing materials via postal mail, email, and push notifications within our Services, and to facilitate marketing related to our partners, and/or third-party service or technology providers whose products are integrated with our Services. Some of our marketing activities online may involve the use of cookies and tracking technologies for our Commercial Purposes, as further described below, and may include data sales/sharing, where permitted by law (to opt-out of data sales/sharing, please see below). The legal basis for processing this information is our legitimate interests.
+- Testing and improving our Services or our business: As we are continually trying to improve our Services and our business, we may process Identity/Contact Data, Biographical Data, Farm/Ecosystem Data, Geolocation Data, Transaction Data, Internet/Device Data, Your Feedback/Content and Marketing/Communications Data for research and development purposes, in order to better understand our members, customers or others, including your company’s, your farm’s or your customer’s companies’ or farms’ needs and interests, and to otherwise improve our business and Services. This data may be collected through surveys, Your Feedback/Content, or other means, and may be collected by us or by third party service providers. The legal basis for processing this information is our legitimate interests.
+
+- Compliance with legal or regulatory obligations: We may be required to collect, retain, or otherwise process certain Personal Information in order to comply with various legal or regulatory obligations. This may potentially include Identity/Contact Data, Biographical Data, Farm/Ecosystem Data Transaction Data; Internet/Device Data (e.g. when we provide WiFi to the public in rural locations); Government ID Data, or Financial/Payment Data. The legal basis for processing this information is compliance with legal requirements.
+
+Commercial Purposes
+
+We and certain third parties process Personal Information to further our commercial or economic interests (“Commercial Purposes”) depending on the context of collection and the rights and choices you may have under your applicable laws, as further described below.
+
+- Profiles: In order to understand our customers’ preferences, and better recommend products and services we may create a “Profile” by linking together and analyzing Personal Information collected in the various contexts described above. We may also augment Profiles with Personal Information that we create (such as Inference Data) or that we receive from our subsidiary companies or third parties, and may include Personal Information such as information about Services you have used or purchased previously, information about when you have visited our properties or locations in the past and what activities you participated in, and demographic data (which may, in some cases, include Race or Ethnic Origin Data we have received from third parties). We use Profiles to better understand our customers, and for market research and statistical analysis in connection with the improvement of our Services. For example, we may analyze the Personal Information of customers who have made a purchase in the past and compare them with other people in our database. If we identify customers in the database who have similar Personal Information, we may then target marketing about a similar offering to the new customer we have identified, for example by sending marketing emails. We may conduct the profiling and send the direct marketing emails automatically. We may also use this information for other Commercial Purposes. Profiles may involve processing that is automated, in whole or in part.
+
+- Personalized Marketing Communications: We may personalize marketing communications based on your Profile. If consent to Profiling or Targeted Advertising is required by law, we will seek your consent.
+
+- Targeted Advertising: In some jurisdictions, we and certain third parties operating on or through our Services, may engage in advertising targeted to your interests based on Personal Information that we or those third parties obtain or infer from you activities across non-affiliated websites, applications, or services in order to predict your preferences or interests (“Targeted Advertising”). This form of advertising includes various parties and service providers, including third party data controllers, engaged in the processing of Personal Information in connection with advertising. These parties may be able to identify you across sites, devices, and over time. The parties that control the processing of Personal Information for Targeted Advertising purposes may create or leverage information derived from personalization, Profiles, and marketing communications. In some cases, these parties may also develop and assess aspects of a Profile about you to determine whether you are a type of person a company wants to advertise to, and determine whether and how ads you see are effective. These third parties may augment your profile with demographic and other Inference Data, and may track whether you view, interact with, or how often you have seen an ad, or whether you purchased advertised goods or services. We generally use Targeted Advertising for the purpose of marketing our Services and third-party goods and services, to send marketing communications, including by creating custom marketing audiences on third-party websites or social media platforms. This may involve sharing limited data regarding our customers with social media platforms or other websites in order to determine which of their users appear to have interests or traits similar to our existing customers.
+
+- Data “Sales” and “Sharing”: We might engage in “sales” or “sharing” of data as defined by applicable law. For example, we might “sell” certain Personal Information when we engage in marketing campaigns with or on behalf of third party partners, or we might “share” for behavioral advertising purposes, or grant access to Personal Information to our marketing partners and other advertisers in relation to Targeted Advertising, joint promotions, and other marketing initiatives. See the California Rights & Disclosures section for a list of categories of Personal Information sold or shared.
+
+In addition to the processing activities described above or elsewhere in this Notice, we might process Personal Information for any other purpose identified in an applicable privacy notice, click-through agreement or other agreement between you and us, including but not limited to any Supplemental Notices or Additional Terms.
+
+User-Generated Content
+
+The User-Generated Content you submit on or through our Services may be available to others who visit our Services. In addition, we may use User-Generated Content you submit on or through our Services in advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the User-Generated Content for such purposes. Therefore, you should have no expectation of privacy with respect to User-Generated Content you submit on or through our Services. You should not submit any User-Generated Content you do not wish to make available to the general public, and you must take special care to make sure your submissions comply with our Additional Terms. All applicable terms and conditions of our Additional Terms apply to User-Generated Content submitted on or through our Services. In particular, your submissions must not violate the privacy or other rights of others.
+
+Third Party Service Providers and Disclosures
+
+We might disclose any of the Personal Information or other information we collect or which is otherwise provided to us through our Services as follows:
+
+- Our Affiliated Entities. We disclose certain Personal Information with our various affiliated entities. Those entities may use the information to improve our collective communications and offerings, to share information with you about products or services they believe may be of interest to you, and for other business purposes.
+
+- Third–Party Vendors, Consultants and Other Service Providers. We disclose certain Personal Information and some Sensitive Personal Information, to third-party vendors, consultants and other service providers who act for or on behalf of our Company or our customers. For example, we use third-party vendors, consultants and other service providers to design and operate our Site(s); to process payments when you make purchases on our Sites; to host videos available on our Sites; to provide chatbots and other functionality available on our Sites; to conduct surveys; to perform audits (including to confirm information required in connection with participation in certain Services); to develop and facilitate various programs for us, including but not limited to Services, for us; to assist us with anti-bribery/anti-corruption due diligence and various compliance matters; and to help us with our promotional efforts (which may include social media companies). These third-party vendors, consultants and other service providers may need information about you to perform their functions. In some cases we may share Personal Information with these third parties for our Commercial Purposes, such as to understand what content is of interest to you (e.g. if you view a page or watch a video on our Sites) and we may share that information with providers of analytics who may use that information in connection with advertising. We may also use third-party service providers, consultants and other service providers to perform data collection, social sharing, marketing, site analytics, relationship management, confirming your information is accurate, soil sampling, imaging, verification, functions related to analyzing and improving the usefulness, reliability, user experience, and operation of our Services, storing data, and as otherwise described in this Notice.
+
+- Partners (Including Dealers, Retailers, etc.). We disclose certain Personal Information to third parties with whom we have various types of agreements or relationships. For example, if you utilize certain Services through your retailer, dealer or hauler, we will disclose with them the data input and processed and reports generated through those Services. We may inform your retailer in connection with your consideration of or application to participate in certain Services, and then in connection with your actual participation in the Services, if applicable. We may also disclose certain information with third party programs or service providers who are integrated with, or with whom we collaborate relative to, our Services, or with whom we otherwise do business including to generate information from products and services offered by such third-party service providers. For certain Services, we may disclose information with registries in connection with tracking, verification and certification of our Services, or with institutes and universities with regard to quantification of carbon credit(s) and other purposes in connection with our carbon programs, as well as sharing with customers and potential customers of carbon credits and other ecosystem assets. If we have entered into agreements with third parties and we receive a consumer complaint or inquiry regarding their products or services, we will forward that information to them so that they may respond. We may also disclose information including Personal Information with these providers and partners for their direct marketing and promotional purposes and so they can provide services to you. In addition, we may disclose information including Personal Information with advertisers in connection with some of our Services, for use in their advertising and marketing.
+
+- Business Transfers. The information we collect may be transferred to a successor organization if, for example, we transfer the ownership or operation of one of our Services to another organization or if we merge with another organization. If such a transfer occurs, the successor organization’s use of the information we collect will still be subject to this Notice and the privacy preferences you have expressed to us.
+
+- Compliance with Laws and Protection of Our Rights and the Rights of Others. We may disclose the information we collect when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose the information we collect to prevent or investigate a possible crime, such as fraud or identity theft, to protect the security of our Services, to enforce or apply our Additional Terms or other agreements; to notify affected individuals in the event of a product recall or other issue, or to protect our own rights or property or the rights, property or safety of our users or others.
+
+- As Described in a Supplemental Notice. We reserve the right to disclose the information we collect as described in any Supplemental Notice or other privacy notice posted on or in connection with our Services where you provide that information. By providing the information on that page you will be consenting to the disclosure of the information as described in that privacy notice, if any.
+
+- As Described in an Agreement. We reserve the right to disclose the information we collect as described in any agreement or Additional Terms.
+
+- Your Choices
+
+We respect your right to make choices about the ways we collect, use and disclose the Personal Information we collect. In some cases, we will ask you to indicate your choices at the time we collect the information. For example, if you sign up for any of our emails or SMS notices, or register with certain Services, we provide you with an opportunity to “opt out” of receiving certain communications from us. In addition, we will include an “opt out” link in each electronic newsletter or other promotional e-mail we send you, so that you can inform us that you do not wish to receive such communications from us in the future. You may discontinue receiving our SMS alerts by taking the steps indicated in the SMS alert you received, by following instructions on our Service related to the specific campaign, or by using our data request form located here.
+
+Some of our entities might occasionally “sell” your Personal Information as broadly defined by the CCPA (as defined below), or might “share” your Personal Information for cross-contextual behavioral advertising purposes, as defined by the CCPA. If you wish to opt-out of the sale or sharing of your Personal Information, please click here. If a California data subject exercises rights under California law, including but not limited to the CCPA, we shall not discriminate against that California resident by denying our goods or services, charging different prices or rates to similarly situated consumers, providing a different level or quality of our goods or services, or taking any other adverse action.
+
+- Your Privacy Rights – Regional Supplements
+
+Depending on the state or country in which you reside, you may have certain rights related to your Personal Information. For example, if you are a resident of the state of California, under the California Consumer Privacy Act (“CCPA”), or under the General Data Protection Regulation (“GDPR”) or other applicable laws, you may have additional privacy rights as described in this section.
+
+You may either contact us directly regarding your request, or you may have authorized a representative to act on your behalf according to the procedures required in your jurisdiction.
+
+We may need to verify your identity before fulfilling your request, and this verification may depend on the type of request you are making, but in some cases, under applicable law, we may be prohibited from doing so. Please see Verifying Data Requests below.
+
+Illinois Biometric Information Privacy Act (BIPA) – Lytx Driver Policy
+
+The Company utilizes the Lytx Video Safety Solution to enhance job performance, driver and public safety, and situational awareness for drivers Company employs or otherwise contracts with for hauling services. The Lytx Video Safety Solution is capable of: measuring vehicle movement; tracking GPS location; recording both visual and audio data; detecting safety events; creating and reporting alerts, events, and metrics; and detecting behaviors for driver coaching. See the complete Lytx Driver Policy at landolakesinc.com/lytx-driver-policy/.
+
+California Rights:
+
+If you are a resident of California, your rights may include the following:
+
+- Right to Know - Categories: You may request any of following, for the 12 month period preceding your request: (1) the categories of Personal Information we have collected about you, or that we have sold, or disclosed for a Commercial Purpose; (2) the categories of sources from which your Personal Information was collected; (3) the business or Commercial Purpose for which we collected or sold your Personal Information; and (4) the categories of third parties to whom we have sold your Personal Information, or disclosed it for a business purpose. For a table listing these categories, please see below. Please note that the CCPA’s right to obtain copies does not grant a right to the whole of any document that contains Personal Information, but only to copies of “specific pieces” of Personal Information. Moreover, you have a right to know categories of sources of Personal Information and categories of external recipients to which Personal Information is disclosed, but not the individual sources or recipients. Company does not always track individualized sources or recipients.
+
+- Specific Pieces of Information: You may request a copy of the specific pieces of Personal Information we have collected about you since January 1, 2022. You may, upon request, receive this information in a reasonably available portable format
+
+- Right to Delete: You have the right to delete certain Personal Information that we hold about you, subject to exceptions under applicable law.
+
+- Right to Rectification: If we maintain inaccurate Personal Information about you, you have the right to request that we correct it.
+
+- Right to Limit the Use and Disclosure of Sensitive Personal Information: To the extent we use or disclose Sensitive Personal Information (as defined by applicable law), you may have the right to limit the usage and disclosure of such information (except as described in the statute).
+
+- Direct Marketing: You may request a list of Personal Information we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year.
+
+- Opt-Out of Sale: If we engage in “sales” of your Personal Information (as defined by applicable law), you may direct us to stop selling Personal Information to third parties for Commercial Purposes.
+
+- Opt-Out of Sharing: If we engage in “sharing” of your Personal Information for cross-context behavioral advertising purposes, you may direct us to stop selling Personal Information to third parties for Commercial Purposes.
+
+- Minors: To the extent we have actual knowledge that we collect or maintain Personal Information of a minor under age 16, those minors between the age of 13 and 16 must opt in to any sales of Personal Information (as defined under CCPA), and minors under the age of 13 must have a parent consent to sales of Personal Information (as defined under CCPA); all minors have the right to opt-out later at any time.
+
+- Online Posts by Minors: Individuals under the age of 18 in California can delete or remove posts using the same deletion or removal procedures described above, or otherwise made available through the Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can contact us. We will work to delete your information, but we cannot guarantee comprehensive removal of that content or information posted through the Services.
+
+Exercising California Rights:
+
+If you wish to exercise your California privacy rights, please either:
+
+- Visit this link to access our data request form
+
+- Call us at (855) 937-0312
+
+- Or email us at Privacy@landolakes.com if your request is not within the form.
+
+We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will honor your request. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identity, where permitted by law.
+
+GDPR/European Rights:
+
+If you are a resident of the European Economic Area, including the UK and Switzerland, or otherwise subject to the GDPR, the controller of your Personal Information is Land O’Lakes, Inc. and your rights may include the following:
+
+- Access: You may have a right to access the Personal Information we process.
+
+- Rectification: You may correct any Personal Information that you believe is inaccurate.
+
+- Deletion: You may request that we delete your Personal Information. We may delete your data entirely, or we may anonymize or aggregate your information such that it no longer reasonably identifies you.
+
+- Data Export: You may request that we send you a copy of your Personal Information in a common portable format of our choice.
+
+- Restriction: You may request that we restrict the processing of Personal Information to what is necessary for a lawful basis.
+
+- Objection: You may have the right under applicable law to object to any processing of Personal Information based on our legitimate interests. We may not cease or limit processing based solely on that objection, and we may continue processing where our interests in processing are appropriately balanced against individuals’ privacy interests. In addition to the general objection right, you may have the right to object to processing: (I) for Profiling purposes; (II) for direct marketing purposes (we will cease processing upon your objection); and (III) involving automated decision-making with legal or similarly significant effects (if any).
+
+- Regulator Contact: You have the right to file a complaint with regulators about our processing of Personal Information. To do so, please contact your local data protection or consumer protection authority.
+
+Exercising GDPR/European Rights:
+
+If you wish to exercise your GDPR/European privacy rights, please either:
+
+- Visit this link to access our data request form
+
+- Or email us at InternationalPrivacy@landolakes.com.
+
+We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will honor your request. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identity, where permitted by law.
+
+- Verifying Data Requests
+
+Other than requests to opt-out of sale/sharing or limit use of Sensitive Personal Information under the CCPA, any consumer request must:
+
+- Provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative thereof.
+
+- Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+If we cannot verify your identity or authority to make applicable data requests, we will not be able to process your request or provide you with any Personal Information, except where identify verification is prohibited by law. We will only use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+
+We may decline to process consumer requests that are frivolous, jeopardize the privacy of others, are impractical, or for which access is not otherwise required by local law. We may also decline aspects of deletion or access requests if we believe doing so would undermine our legitimate use of the Personal Information for anti-fraud and security purposes as described earlier, or for other reasons as permitted by applicable law. Once a consumer request is either confirmed or denied, an email notification will be sent to the email submitted as part of the consumer request.
+If an authorized agent submits a request to know, correct or delete on your behalf, the authorized agent must submit with the request either (a) a power of attorney that is valid under the state in which you reside, or (b) a document signed by you that authorizes the authorized agent to submit the request on your behalf. Authorized agents may follow the applicable process described above for verifying your identity.
+
+- Steps We Take to Safeguard Information
+
+We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of Personal Information you submit on or through our Services. Unfortunately, no website, server or database is completely secure and we cannot guarantee that your Personal Information or other information will not be disclosed, misused or lost by accident or by the unauthorized acts of others.
+
+- Children Under the Age of Thirteen
+
+Our Services are not intended for anyone under 13 years of age. No one under age 13 may provide any Personal Information on our Services. We do not knowingly collect Personal Information from anyone under 13 years of age. If you are under 13 years of age, do not use or provide any information on our Services. If we learn that we have collected or received Personal Information from a person under 13 years of age without verification of parental consent and supervision, we will delete such Personal Information. If you believe that a person under 13 years of age has submitted Personal Information on or through any of our Services without the consent and supervision of a parent or guardian, please contact us at Privacy@landolakes.com.
+
+- Other Sites
+
+Our Services may contain links to websites operated by other organizations, including but not limited to websites operated by our third-party service providers and other third parties. For example, if you click on an advertisement on a Site, you may be taken to a website that we do not control. We may also host or operate websites as a service for retailers or our other partners. This Notice does not apply to information collected on any of these third-party websites. When you access third-party websites through a link on our Services, please take a few minutes to review the privacy policy posted on that website.
+
+- This Notice May Change
+
+This Notice describes our current policies and practices with regard to the information we collect through our Services.
+
+We are continually improving and adding to the features and functionality of our Services along with the products and services we offer through our Services. As a result of these changes (or changes in the law), we may need to update or revise this Notice. Accordingly, we reserve the right to update or modify this Notice at any time, without prior notice, by posting the revised version of this Notice behind the link marked “Privacy Notice” at the bottom of each applicable page of our Services. Your continued use of any of our Services after we have posted the revised Notice constitutes your agreement to be bound by the revised Notice. In addition, we will provide you with notice of proposed new uses of collected information as may be required by applicable law.
+
+For your convenience, whenever this Notice is changed, we will also alert you by posting a notice on our home page. We will also update the “Effective Date” at the top of this page. If significant time has elapsed since your last visit to our Services, be sure you check the Effective Date to see if this Notice has been revised since your last visit.
+
+- Data Retention
+
+We will keep the Personal Information we collect for as long as reasonably necessary or appropriate to carry out the purposes set forth in this Notice or any other notice provided at the time of data collection, or as long as required by applicable law.
+
+Where required, we will dispose of the Personal Information we collect when we no longer need it for the purposes described in this Notice or any other notice provided at the time of data collection, in accordance with Land O’Lakes retention policies and procedures.
+
+We retain the Personal Information we collect for different periods of time depending on what it is, how we use it, and how you configure your settings. For example:
+
+- Some data you can delete whenever you like, such as the content you create or upload.
+
+- Some data is deleted or anonymized automatically after a set period of time.
+
+- Some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+
+We generally consider the following factors when we determine how long to retain data (without limitation):
+
+- Retention periods established under applicable law;
+
+- Industry best practices;
+
+- Whether the purpose of processing is reasonably likely to justify further processing;
+
+- Risks to individual privacy in continued processing;
+
+- Applicable data protection impact assessments;
+
+- IT systems design considerations/limitations; and
+
+- The costs associated continued processing, retention, and deletion.
+
+We will review retention periods periodically and may pseudonymize or anonymize Personal Information held for longer periods.
+
+- CCPA Notice at Collection Table:
+
+Below are the CCPA categories of Personal Information we may have collected in the prior 12 months. Any CCPA categories not listed in the table below have not been collected by us in the 12 months prior to the Effective Date of this Notice.
+
+| Category of Data | Specific Elements Collected | Category of Sources | Business Purposes | Commercial Purposes | Category of Recipients
+
+| Identity/Contact Data (Identifiers) | Name, e-mail address, fax number, address, phone number, IP address, username | From you; browsers and applications; vendors; partners; cookies and other technologies; aggregators and advertisers; social media companies | Purchases or information requests; commercial transactions; recruiting and HR services for members; fraud prevention, membership or credit purposes; security of premises; event administration; customer service; product/service recommendation; operation and personalization of websites; marketing/promotions and special offers; service information/notices; testing and improvement of services or business; compliance; aggregated data; other business purposes
+
+| Profiles; personalized marketing communication; targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Categories of personal information described in subdivision (e) of Section 1798.80 (California Customer Records statute, Cal. Civ. Code 1798.80(e)) | Name, address, telephone number, employment, payment card number; other financial account information; insurance information; payments made to/from you; social security number, driver’s license or state identification card number, education, employment, employment history, medical information | From you; browsers and applications; vendors; partners; cookies and other technologies; aggregators and advertisers; social media companies
+
+| Purchases or information requests; commercial transactions; recruiting and HR services for members; fraud prevention, membership or credit purposes; security of premises; event administration; customer service; product/service recommendation; operation and personalization of websites; marketing/promotions and special offers; service information/notices; testing and improvement of services or business; compliance; aggregated data; other business purposes
+
+| Profiles; personalized marketing communications targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Biographical Data
+
+| Current employer and role; former employment, positions, education and related qualifications; other data within resumes or job applications | From you; vendors; partners | Recruiting and HR services for members; fraud prevention, membership, or credit purposes; event administration; customer service; product/service recommendations and decisions; marketing, promotions, and special offers; service information/notices; testing and improving our Services or business; compliance with legal or regulatory obligations; other business purposes | None | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Farm/
+
+Ecosystem Data | Farm name; farming practices and management data including without limitation data related to fields and conservation, agricultural and agronomic practices, ESG, sustainability and ecosystem data, and any other agricultural and agronomic data | From you; partners; vendors; data we create/infer | Purchases or information requests; event administration; customer service; product/service recommendation; marketing/promotions and special offers; testing and improvement of services or business; compliance; aggregated data; other business purposes
+
+| Profiles; personalized marketing communications targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Commercial information | Marketing/Communications Data, Transaction Data, Event/Program Registration Information | From you; partners; vendors; data we create/infer | Service Provision and Contractual Obligations; commercial transactions; Internal Processing; testing and improvement of services or business; security of premises; fraud prevention, membership, or credit purposes; compliance; customer service; aggregated data; personalization; other business purposes
+
+| Profiles; personalized marketing communications targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Internet/Device Data | Browsing history, search history, internet protocol (IP) address, information on a consumer's interaction with a Site, application, or advertisement. | From you; Automatic collection; vendors; aggregators and advertisers; social media companies | Purchases or information requests; fraud prevention, membership or credit purposes; event administration; customer service; operation and personalization of websites; marketing/promotions and special offers; service information/notices; testing and improvement of services or business; compliance; compliance; aggregated data; other business purposes | Profiles; personalized marketing communications; targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Geolocation Data | Physical location; locations visited; IP address | From you; automatic collection | Recruiting and HR services for members; customer service; product/service recommendation; operation and personalization of websites; marketing/promotions and special offers; service information/notices; testing and improvement of services or business; compliance; aggregated data; other business purposes
+
+| Profiles; personalized marketing communications; targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Audio/Video Data | Recordings and images collected from surveillance cameras or drones; voice mails, call recordings, video | From you; automatic collection | Security of premises; event administration; customer service; aggregated data; other business purposes | None | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Inference Data | Preferences, characteristics, market segments, etc. | From you; partners; data aggregators; social media companies; data we create/infer | Service provision and contractual obligations; product/service recommendation; operation and personalization of websites; marketing/promotions and special offers; aggregated data; other business purposes | Profiles; personalized marketing communications; targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Your Feedback/Content | May include any data elements you choose to provide | From you; vendors | Marketing/promotions and special offers; testing and improvement of services or business; aggregated data; other business purposes | Profiles; personalized marketing communications; targeted advertising; data sales/sharing | Affiliates; vendors; partners; business transfers; lawful recipients
+
+| Sensitive Personal Information | Government ID Data; Health Data; Financial/Payment Data; Precise Location Data; Race/Ethnic Origin Data; Account Data | From you; automatic collection | Purchases or information requests; commercial transactions; recruiting and HR services for members; fraud prevention, membership or credit purposes; security of premises; event administration; customer service; compliance
+
+| None | Affiliates; vendors; partners; business transfers; lawful recipients

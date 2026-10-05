@@ -1,0 +1,361 @@
+# PRIVACY POLICY
+
+### INTRODUCTION
+
+We at Dollar Tree, Inc., Dollar Tree Stores, Inc.,., and their affiliates (collectively, "Dollar Tree," "we," "us," or "our") care deeply about privacy, security, and online safety. This Privacy Policy ("Policy") is designed to inform you about how we collect, use, safeguard, and disclose your personal information, and our commitment to using the personal information we collect in a transparent and respectful manner. This Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions. If you are visually impaired, you can access this Policy through your browser’s audio reader.
+
+If you are a California consumer, the information below serves as Notice of Collection pursuant to the California Consumer Privacy Act.
+
+Please note, our privacy practices are subject to the applicable laws of the places in which we operate. You will see additional region-specific terms that only apply to customers located in those geographic regions, or as required by applicable law. You can access specific topics in this Policy by clicking on the relevant links below:
+
+-
+Overview
+
+-
+Collection of Your Personal Information
+
+-
+Sources of Your Personal Information
+
+-
+Purposes of Collecting Your Personal Information
+
+-
+Disclosures of Your Personal Information
+
+-
+Security Measures
+
+-
+Data Retention
+
+-
+Children’s Privacy
+
+-
+Cookies and Online Interactions
+
+-
+Transmission of Information to Other Countries
+
+-
+Links to Other Websites
+
+-
+Do Not Track
+
+-
+Managing Communication Preferences
+
+-
+Additional Disclosures for Residents of Certain U.S. States
+
+-
+Additional Disclosures for Residents of Canada
+
+-
+Changes to This Privacy Policy
+
+### OVERVIEW
+
+This Policy covers Dollar Tree’s customer facing operations in the United States and Canada, and applies to the personal information Dollar Tree obtains in various contexts, both online and offline, including when you access or use our websites, mobile apps, or any other applications or services that link to this Policy (collectively, "Sites") or otherwise interact with us in connection with our products and services (collectively with Sites, the "Services"), such as when you visit us in our stores; communicate with us; shop with our third-party partners; engage with us on social media; or participate in any of our programs or events. We may also obtain personal information from third-party and publicly available sources, as further described below.
+
+We may provide different or additional privacy policies in connection with certain activities, programs, and offerings. We may also provide additional notices that may supplement or clarify our privacy practices or provide you with additional choices regarding your personal information. Please read this Policy carefully before you start to use our Services, whether online or offline.
+
+For the purposes of this Policy, Dollar Tree is the controller or responsible party for the personal information practices described in this Policy.
+
+### COLLECTION OF YOUR PERSONAL INFORMATION
+
+The types of personal information we obtain about you depend on how you interact with us and our Services. The following are the categories of personal information that we collect, as well as a description of the context in which we typically collect such personal information.
+Categories of Data
+Examples
+Context in which this Data is
+
+Typically Collected
+Account Registration Information
+When you register for an account on our Sites, we collect your name, zip code, address, phone number, email, and password. We also collect information relating to the actions that you perform while logged into your account.
+We collect this information in the context of providing accounts and related functionalities to our users, including account creation and maintenance, and the relevant product or Service to you, as further described in the section entitled Purposes of Collecting Your Personal Information. Accounts can be used for easy checkout, easy shipping through the address book function, and to save your preferences and transaction history.
+Images in CCTV Footage
+Our stores and other facilities may operate CCTV cameras. If you visit a store or facility that uses CCTV cameras, we may obtain CCTV footage that includes images of you.
+We generally operate CCTV cameras in efforts to secure our stores, facilities, and their surrounding premises, including by protecting our customers, associates and protecting our assets. This is further described in the section entitled Purposes of Collecting Your Personal Information.
+Demographic Information
+We collect certain demographic information, such as your age, gender, or city/state of residence.
+We collect this information in the context of understanding our users, providing tailored Services, and complying with applicable laws, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Email Interaction Information
+If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains, and make purchases. For more information relating to the use of such tools, review the section entitled Cookies and Online Interactions.
+We collect this information in the context of understanding how you interact with our communications to you, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Feedback/Support
+If you provide us feedback or contact us for support, we will collect your name and email address, as well as any other content that you send to us, in order to reply.
+We collect this information in the context of receiving, and acting upon, your feedback or issues, such as to develop new ways to meet our customers’ needs and to grow our business, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Geolocation Information
+As permitted by your device settings, we may collect information about the location from which you are accessing our Services. When you use one of our Sites (including our apps), we may collect your location from the GPS, Wi-Fi, and/or cellular technology in your device. This may occur, for example, if you request for our Sites to determine your distance from a store that sells our products.
+We collect this information in the context of providing our Sites to you with Services and information specific to those available in your location, understanding our users, and providing tailored Services, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Mailing List
+When you sign up for one of our mailing lists and/or use our "Contact Us" or "Get Updates" functionality, we collect your email address or postal address along with your role in your organization.
+We collect this information in the context of administering our newsletters and marketing communications, sharing information about our products or Services with you and otherwise providing you with marketing or promotional materials, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Device Information
+We collect information from and about the device you use to access our Services, such as technical information broadcast from your device when visiting our Sites or when visiting one of our stores. This can include device identifiers, IP address, device type and manufacturer, information about your operating system, and information about browsers you use to access our Services. For more information relating to the use of such tools, review the section entitled Cookies and Online Interactions.
+This information is generated and collected automatically when providing online or connected Services. We also collect it in the context of identifying unique visitors and understanding how users interact with us on their mobile devices, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Order Placement
+We collect your name, billing address, shipping address, email address, phone number, payment information (including gift card information) and credit card number when you place an order.
+We collect this information in the context of performing our contract to provide you with products or Services, fulfilling your order, and streamlining the checkout process, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Partner Promotion
+We collect information that you provide as part of a co-branded promotion with another company.
+We collect this information in the context of fulfilling our promotions, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Promotional Material
+We may process your personal information, such as contact information and name, to send you promotional information about Dollar Tree products and Services, special promotions and initiatives such as events, fairs and exhibitions organized by Dollar Tree.
+We collect this information in the context of sharing information about our products or Services with you and otherwise providing you with marketing or promotional materials, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Social Media Information
+We may collect certain information related to your social media usage as it relates to us, including from LinkedIn, Twitter/X, Facebook, Instagram, Google, YouTube, and Pinterest.
+We collect this information in the context of understanding how customers use and interact with our social media sites and to generate related content, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Supplier Relationship Management
+We collect certain contact and related business information (name, email address, professional contact information) when you or your organization provides us with certain products or Services. In some instances, we may collect certain background or screening information to the extent needed and in accordance with applicable law.
+We collect this information in the context of administering our relationship with our suppliers and performing our contract with your organization, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Surveys
+When you participate in a survey, we collect, directly or through third parties, information that you provide through the survey.
+We collect this information in the context of understanding your opinions, conducting analytics to improve our products or Services, and collecting information relevant to our organization, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Sweepstakes or Contests
+When you participate in a sweepstakes or contest, we collect information about you, including contact information to notify you if you are selected.
+We collect this information in the context of operate sweepstakes, as further described in the section entitled Purposes of Collecting Your Personal Information. In some contexts, we are also required by law to collect information about those individuals who enter into our sweepstakes..
+Information Collected by Cookies and Similar Technologies
+We may use Cookies on our Sites and Services, which may be placed by us or by third parties. Cookies may assist in operating the site, collecting information about your activities on our Services for analytics, or collecting information about your activity on our Services and other sites for behavior- or interest-based advertising, such as providing advertising about products and Services tailored to your interests on our Sites, or on other websites. Cookies may collect all of the "Site Interaction Information" and "Web Logs Information" described below. For more information relating to the use of such tools, review the section entitled Cookies and Online Interactions.
+We use this information in the context of operating our Services, conducting analytics, and engaging in behavior-based advertising and capture Site analytics, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Site Interactions Information
+We use technology to monitor how you interact with our Sites. This may include which links you click on. This may also include information about your device or browser. For more information relating to the use of such tools, review the section entitled Cookies and Online Interactions.
+We use this information in the context of understanding how you interact with our Sites to improve it, understanding your preferences and interests to select offerings that you might find most useful, and detecting and preventing fraud, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Web Logs Information
+We collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, device ID, operating system, language preferences, referring website, the length of time you are visiting our Sites and/or a date/time stamp for visitors. For more information relating to the use of such tools, review the section entitled Cookies and Online Interactions.
+We collect this information in the context of monitoring our networks, providing and maintaining the functionality of our Sites, including identifying and repairing errors or problems, security incidents, and investigating, preventing, or taking action regarding possible malicious, deceptive, fraudulent, or illegal activity, including attempts to manipulate or violate our policies, procedures, and terms and conditions. This is further described in the section entitled Purposes of Collecting Your Personal Information.
+Wish Lists
+We collect information about you regarding product wish lists that you provide in your online account.
+We use this information in the context of understanding the types of products you may be interested in purchasing at a later date, as further described in the section entitled Purposes of Collecting Your Personal Information.
+Job Applications
+We collect information you submit to us when applying for a job with us. This may include name and contact information, the information you provide in a resume or CV, your work or professional experience, information you provide or that we infer about positions you may be interested in. We may also receive information from third parties in connection with your application, such as results of pre-employment checks or screenings.
+We use this information in the context of receiving and evaluating your application for positions with our company, and to onboard you for employment if your candidacy is successful. We may also use this information to provide you with information about positions you might be interested in. This is further described in the section entitled Purposes of Collecting Your Personal Information.
+Business Partner Information
+We collect certain contact and related business information (name, email address, professional contact information) when your organization provides products or services to us, or obtains products or Services from us, or engages in management of the business relationship between our organizations. In some instances, we may collect certain background or screening information to the extent needed and in accordance with applicable law.
+We collect this information in the context of providing products or services to business customers, obtaining products and services from vendors or suppliers, and administering and maintaining our relationship with such organizations, as further described in the section entitled Purposes of Collecting Your Personal Information.
+
+### SOURCES OF YOUR PERSONAL INFORMATION
+
+We collect, and have collected in the preceding twelve months, personal information about you from various sources. For example, we collect and obtain information:
+
+Directly from You
+
+We collect personal information you provide, such as when you make a purchase, register for an account or create a profile, contact us, respond to a survey, RSVP for an event, interact with us in store (including in-store digital experiences), participate in a sweepstakes, contest, or other similar campaign or promotion, or sign up to receive emails, text messages, and/or postal mailings.
+
+Using Cookies and Other Automatic Data Collection Technologies
+
+When you visit our Sites, open or click on emails we send you, interact with our mobile applications, or interact with our advertisements, we or third parties we work with automatically collect certain information using technologies such as cookies, web beacons, clear GIF, pixels, internet tags, web server logs, and other data collection tools. For more information, please review the section entitled Cookies and Online Interactions
+
+Through In-Store and Other Offline Technologies
+
+In some cases, we record customer service calls for quality assurance (as permitted by applicable law). We also use Closed Circuit Television or CCTV in our stores for safety, security, fraud, loss prevention, and operational purposes.
+
+From Social Media Platforms and Networks
+
+If you interact with us on social media or use features, such as plugins, widgets, or other tools made available by social media platforms or networks (including Instagram, Facebook, Twitter, Google, YouTube, and Pinterest) in connection with our Sites, we collect information that you share with us, or that the social media platforms share with us.
+
+From Other Sources
+
+We may obtain information about you from other sources, such as data analytics providers, marketing or advertising service providers, fraud prevention service providers, vendors that provide services on our behalf, publicly available sources, or companies that provide information to supplement what we already know about you, including data brokers. We also create information about you based on our analysis of the information we have collected from you.
+
+### PURPOSES OF COLLECTING YOUR PERSONAL INFORMATION
+
+We collect and process each category of personal information described in the section entitled Collection of Your Personal Information for the following purposes:
+
+-
+Managing Our Business and Services. We use personal information to operate our business and provide our Services to you and others. This includes providing our products and Services, including account-related functionalities; administering and maintaining our relationship with you; managing relationships with our customers and prospective customers; reporting, monitoring, accounting, and other management activities; and any other activity relating to the operation of our business.
+
+-
+Communication. We use personal information to communicate with you, including by receiving and responding to your feedback.
+
+-
+Analytics, Improvement, and Product / Service Development. We use personal information to analyze, evaluate, and improve our Services, our technologies, and our business; to develop new technologies, products, and services; learn about our users; conduct research; evaluate user engagement with our Services; and facilitate the functionality and new functionalities in our Services.
+
+-
+Marketing and Interest-Based Advertising. We use personal information to market to you and others regarding matters that may be in your interest, including via sending you direct marketing, and/or by delivering targeted and interest-based marketing within our Services and elsewhere, each as permitted by law. We may work with third parties such as advertising networks to provide you with advertisements that you see as part of the Services. These parties may use technology that can collect personal information about your online activities over time and across different websites when you use our Services. To learn more about your ability to opt out of certain of these technologies and for other information, you can visit the Digital Advertising Alliance and the Network Advertising Initiative, or see the section entitled Your State Law Privacy Rights.
+
+-
+Personalization. We use personal information to personalize our Services, including (but not limited to) by showing you content, features, or other Services that we think you might like or be interested in.
+
+-
+Processing job applications. We use personal information to process job applications you submit, evaluate your candidacy, provide you with information about positions that may interest you, and facilitate the hiring and onboarding process.
+
+-
+Protection of Interests, Security, and Integrity. We use personal information to protect the health, safety, welfare, rights, or interests of you, us, any third party, or the general public. Personal information can also be used to protect the safety and integrity of our Services, troubleshoot issues, and detect and prevent errors, fraudulent activity, or other potentially wrongful, harmful, or illegal activity.
+
+-
+Compliance and Claims. We use personal information to comply with, establish, assert, exercise, defend against, or enforce any legal claims, legal rights, legal obligations, legal process, government requests, our policies, internal investigations, or prudent security or business practices. This includes (but is not limited to) enforcing this Policy and any other contract(s) or agreement(s) we may have with you.
+
+-
+As Otherwise Notified or Permitted. We may also use personal information for any other purpose notified to you or to which you consent, or which is permitted by applicable law.
+
+### DISCLOSURES OF YOUR PERSONAL INFORMATION
+
+Generally, we may disclose the personal information we collect to facilitate our communications with customers, to operate our business, to advertise or promote our Services, for any other purpose that has been notified to you or to which you have consented, and for the purposes described in this Privacy Policy. Below are the categories of third-party recipients to whom we generally disclose personal information:
+
+-
+Affiliates. We may disclose your personal information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).
+
+-
+Corporate Transaction. We may disclose your personal information in connection with a proposed or actual corporate merger, acquisition, consolidation, sale of assets, bankruptcy, insolvency, or other corporate change, including at the negotiation stage.
+
+-
+Public. Some of our Sites may provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publicly available.
+
+-
+Business Partners. We may offer contests, sweepstakes, or other promotions with third-party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third-party partner, the personal information that you provide will be shared with us and with them. We may also disclose your personal information to our business partners, including but not limited to, advertising network providers, data companies, marketing partners, data brokers, and delivery providers or platforms.
+
+-
+Service Providers. We may disclose personal information to authorized third parties who perform services for us (including cloud services, data storage, sales, human resources, and marketing). Among other things, service providers may help us to administer our Sites, conduct surveys, provide technical support, process payments, or assist in the fulfillment of orders.
+
+-
+Other Parties. We may disclose your personal information to legal, governmental, or judicial authorities, as requested or required by those authorities or applicable laws; in relation to a legal activity, such as in response to a subpoena, warrant, or court order; or in connection with any legal process. We may also disclose your information in order to establish or exercise our rights; to defend against a legal claim; or to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies. We may also disclose your personal information if we believe disclosure is appropriate to prevent or otherwise in connection with physical, financial, or other harm, injury, or loss.
+
+-
+Other Disclosures with Your Direction. We may disclose your personal information with your consent or per your direction to other third parties who are not described elsewhere in this Policy.
+
+### SECURITY MEASURES
+
+We use various safeguards designed to protect the personal information we collect and process. Nonetheless, no such measure is 100% effective; therefore, we do not guarantee that your personal information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such personal information, nor that personal information about you will remain secure in all circumstances.
+
+Our Sites may permit you to create an account. When you do, you will be prompted to create a password. For your convenience, our Sites may include functionality that allows you to remain logged in so that you do not have to re-enter your password each time you want to access your account. If you choose to remain logged in, you should be aware that anyone with access to your device will be able to access and make changes to your account and may be able to make purchases through your account. For that reason, if you choose to remain logged in, you must take appropriate steps (such as enabling the “Passcode Lock” security feature on your mobile device) to protect against unauthorized access to and use of your account. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else who has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account as specified in the Contact Us section below.
+
+### DATA RETENTION
+
+The time periods for which we retain your personal information depend on the purposes for which we use it and applicable law for the type of data and use. Dollar Tree will keep your personal information for as long as you are a registered subscriber or user of our Services, or for the period reasonably necessary to fulfill the purposes outlined in this Policy, or for any longer retention period that is required or permitted by law. The personal information we collect may be stored and processed in servers in the United States and/or other jurisdictions where Dollar Tree, or our service providers or business partners, have facilities.
+
+### CHILDREN’S PRIVACY
+
+Our Sites and Services are not intended for or directed to children under the age of 16. Dollar Tree does not knowingly collect personal information from children under the age of 16. Users under the age of 16 may not use our Services or submit any personal information to us. If we become aware that a child under the age of 16 has provided us with personal information, we will delete the information from our records. If you believe we have collected personal information from your child in error, please notify us using the details in the Contact Us section below.
+
+### COOKIES AND ONLINE INTERACTIONS
+
+We use various technologies to collect and store information, including cookies, pixel tags, and local storage, such as browser web storage or application data caches, databases, and server logs (collectively, “Cookies”).
+
+Most web browsers automatically accept Cookies, but you can usually change your browser settings to prevent this. If you disable Cookies, your ability to use some features of the Services may be limited. For mobile devices, you may be able to manage certain Cookies using your built-in mobile device settings and controls, or the settings also within your mobile application, where applicable. Choices are browser-and/or device-specific. If you clear your Cookies from your browser on any of your devices, your choices will need to be reset. You should check how to do this on your device(s) and operating systems. If you use a different device to access the same Services, you may need to manage your settings for each separate device you use.
+
+We may use Cookies for any purpose set forth in this Privacy Policy, including to analyze or improve our services, personalize your experience, or provide advertising or marketing. We and third-party advertising or personalization partners may collect and use information from Cookies to develop personalized content and advertising based on your visits over time on our Sites and on other websites or apps.
+
+To opt-out of targeted advertising that is facilitated by Cookies, in addition to adjusting your cookie settings, you can submit opt-outs to programs maintained by the online advertising industry. To learn more, visit the Digital Advertising Alliance and the Network Advertising Initiative websites.
+
+### TRANSMISSION OF INFORMATION TO OTHER COUNTRIES
+
+Dollar Tree is headquartered in the United States, and we have operations, entities, and service providers both in the United States and in Canada. Our Services may be located within and/or hosted on servers located in the United States and Canada. By accessing our Services, you understand your personal information will be collected directly within the United States and/or Canada and will be subject to the laws of those jurisdictions. We may further maintain facilities related to the Services, and/or engage service providers or partners that maintain facilities related to the Services, in additional countries. If you reside outside the United States or Canada, by accessing our Services and/or submitting your personal information to us, you agree to the collection, transfer, storage, and processing of your personal information in a country other than your country of residence including, but not necessarily limited to, the United States.
+
+### LINKS TO OTHER WEBSITES
+
+Our Sites may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with Dollar Tree. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit those websites. This Policy only applies to personal information collected through our Services. We have no control over third-party websites or applications that we do not own, and are not responsible or liable for the content, privacy practices, or use of any websites that are not affiliated with Dollar Tree.
+
+### DO NOT TRACK
+
+Some web browsers incorporate a Do Not Track (“DNT”) or similar feature that signals to websites that a visitor does not want to have his/her online activity and behavior tracked. Not all browsers offer a DNT option and there is currently no industry consensus for how to recognize or respond to a DNT signal. For these reasons, we do not currently respond to DNT signals.
+
+### MANAGING COMMUNICATION PREFERENCES
+
+Promotional E-Mails. You can opt-out of receiving promotional e-mails at any time by clicking on the “unsubscribe” link at the bottom of any promotional e-mail that you receive from us, by contacting us as specified in the Contact Us section below. We may still send you some important emails, like responding to you by email if you send us a request or comment.
+
+Promotional Postal Mail. You can remove yourself from our postal mailing lists by emailing us using the details in the Contact Us section below with "NO SNAIL MAIL" in the subject line along with your name, address, and zip code; or by calling us at 1-888-982-8948. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed or bulk mailings directed to ZIP codes or geographic areas.
+
+Text Messaging. Some of our Services may enable you to receive text messages from us. If you do, we do not share the opt-in data and consent information you provide us for text messaging consent with third parties for marketing or promotional purposes. If you have opted-in to text messages, you can opt-out by texting STOP in response, or by contacting us as set forth in this Privacy Policy. Please note that you may still receive transactional messages or other text messages from us for which no opt-in is required.
+
+### ADDITIONAL DISCLOSURES FOR RESIDENTS OF CERTAIN U.S. STATES
+
+The following disclosures apply, as applicable, to residents of a state in which state-level privacy law is enacted. As of the Effective Date of this Privacy Policy, the following disclosures are intended for residents of California, Colorado, Connecticut, Nebraska, New Jersey, Texas, and Virginia.
+
+Categories of Personal Information We Collect
+
+We describe the personal information we collect and have collected about you in the preceding twelve months in the above section entitled “Collection of Your Personal Information”. California residents, please note the personal information we collected in the past 12 months includes the following categories of personal information as defined under California law:
+
+-
+Identifiers and personal information described in California’s Consumer Records Statute, such as a real name, alias, postal address, telephone number, financial account information, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+
+-
+Characteristics of protected classifications under California or federal law, such as demographic information such as age or gender.
+
+-
+Commercial information, such as transaction history, records of personal property, products or services purchased, obtained, or considered, survey inputs, or other purchasing or consuming histories or tendencies.
+
+-
+Internet or other electronic network activity information, such as browsing history, search history, and information regarding your interaction with our Sites or advertisement.
+
+-
+Geolocation data, if permitted by your device settings.
+
+-
+Sensitive personal information, such as account login credentials, geolocation as described above, certain demographic information described above, and financial account information such as credit/debit card data used for payments.
+
+-
+Audio, electronic, visual, thermal, olfactory, or similar information, such as (as permitted by law) records of your calls to customer service lines, or if applicable, CCTV footage.
+
+-
+Professional or employment-related information, such as all information you include in your CV, resume, or application, such as professional experience and qualifications, certifications, trainings, language skills, and eligibility to work in the jurisdiction where you apply. This may also include information provided to us as permitted by law by third parties that provide references, conduct background checks or pre-employment tests or screenings, or provide other information about you or your candidacy.
+
+-
+Inferences drawn from any of the information identified in this section to create a profile about you, reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+Business or Commercial Purposes for Collection
+
+The section entitled Purposes of Collecting Your Personal Information describes the business and commercial purposes for which we collect personal information.
+
+Disclosures of Personal Information; Targeted Advertising
+
+The above section entitled Disclosures of Your Personal Information describes the categories of third parties to whom we disclose personal information. for the following purposes:
+
+-
+Disclosures for business purposes: We disclose all or substantially all of the above-listed categories of personal information with all categories of third parties identified in this Policy for our business purposes described in the section entitled Purposes of Collecting Your Personal Information
+
+Sales, sharing, and targeted advertising. In the last twelve months, we have sold, and have shared for "targeted advertising," the following categories of personal information described above in this section to business partners and third parties, such as advertising partners, social media platforms and/or data brokers: (i) identifiers, (ii) commercial information, (iii) internet or other electronic network activity information, and (iv) inferences.
+
+We do not sell or share and have not sold or shared in the last twelve months, personal information of individuals we know to be under 16 for consideration or for cross-context behavioral advertising.
+
+Your State Law Privacy Rights
+
+Depending on where you reside, you may be able to exercise some or all the rights described in this section, consistent with applicable law.
+
+-
+Access: You may have the right to request access to personal information we hold about you, including, if applicable, in a structured, commonly used, and machine-readable format.
+
+-
+Correction: You may have the right to request correction of inaccurate personal information we may have about you.
+
+-
+Deletion: You may have the right to request that we delete your personal information.
+
+-
+Opt-Out: To opt-out of sales or out of sharing for targeted advertising, you can visit our Privacy Request Form and submit a request to "Opt Out of Sharing/Sales or Targeted Advertising." Please note that residents of certain U.S. states can also deactivate Cookies that may facilitate sales/sharing of personal information for targeted advertising by clicking on the link in the footer of our Sites titled “Manage Cookies.” (If desired, you can also provide an opt-out request to industry programs by visiting the Digital Advertising Alliance and the Network Advertising Initiative websites.)
+
+We do not process personal information for “decisions that produce legal or similarly significant effects,” as such term is defined under applicable law.
+
+We do not process sensitive personal information in a way that requires us to provide a “Right to Limit” the use or disclosure of sensitive personal information. We do not discriminate against consumers who exercise any of their rights described in this Policy. However, Dollar Tree may require the use of your personal information to provide access to Services. Therefore, when you exercise your rights, in particular your right to deletion, you may lose access to certain aspects of Services that require your personal information.
+
+How to Exercise Your Rights
+
+To exercise your rights, please contact our Privacy Office as stated in the Contact Us section of this Policy. We will respond to your request within the time period prescribed by applicable law.
+
+We process opt-out preference signals from Global Privacy Control (“GPC”), a technical specification you can use to automatically inform websites of your privacy preferences regarding “sales”, “sharing”, and “targeted advertising”. For more information on GPC, please visit the Global Privacy Control website.
+
+If we deny your request, you may have the right to appeal our decision. The response to your original request will contain details on how to initiate an appeal.
+
+Please note, as required or permitted by applicable law, we may take steps to verify your identity before fulfilling your privacy rights request. We may require you to provide your name, email address, address, and other information necessary to help verify your identity.
+
+As required by applicable law, a person authorized to act on your behalf may make a request related to your personal information using the methods described in the section entitled How to Exercise Your Rights. If you designate an authorized person to submit requests to exercise certain privacy rights on your behalf, we may require the authorized person to provide proof that you have given the authorized person signed permission to submit the request, require you to verify your own identity directly with us, or require you to directly confirm with us that you have provided the authorized person permission to submit the request on your behalf.
+
+### ADDITIONAL DISCLOSURES FOR RESIDENTS OF CANADA
+
+If you are a resident of Canada, under applicable law, you may have certain rights regarding personal information we may hold about you. For instance, you have a right to request access to your personal information that we hold and to request a correction of it if you believe it is inaccurate. If you successfully demonstrate that your personal information in our records is inaccurate or incomplete, we will amend the personal information as required. We may require you to verify your identity before we allow you to access your personal information. Also, you may withdraw your consent to our collection, use or disclosure of your personal information. In some cases, withdrawal of your consent may mean that we will no longer be able to provide certain Services or other products or services. You can submit a request to exercise your rights by contacting us as stated in the Contact Us section of this Policy. You can also contact Us using the contact information provided below if you have questions about this Policy, how we process personal information, or if you would like to submit a complaint.
+
+### CONTACT US
+
+If you have questions or concerns regarding this Policy, or our privacy practices; would like to access the Policy in an alternative format; or would like to update personal information we have about you or your preferences, please contact our Privacy Office by:
+
+Calling us at 1-888-982-8948
+
+Submitting a request through Privacy Request Form
+
+### CHANGES TO THIS PRIVACY POLICY
+
+As Dollar Tree grows and our business changes, we reserve the right to modify, expand, or update this Policy at any time as we deem appropriate to reflect those changes. When we make changes to this Policy, we will post the updated Policy on the Sites and update the Policy’s “Effective Date” below. We will notify you of our changes to this Policy by updating the Policy on our Sites. It is important that you check back from time to time and make sure that you have reviewed the most current version of this Policy. If you do not agree with the changes, then you should stop using our Sites and Services and notify us that you do not want your personal information used in accordance with the changes.
+
+Effective Date: July 1, 2025

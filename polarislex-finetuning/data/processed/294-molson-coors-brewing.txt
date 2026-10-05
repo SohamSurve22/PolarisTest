@@ -1,0 +1,493 @@
+CLICK HERE FOR OTHER LANGUAGES
+
+# Molson Coors Beverage Company Privacy Policy
+
+Last Updated: October 24, 2025
+
+Molson Coors Beverage Company, its subsidiaries, operating companies, and affiliates, and affiliated brands, agents, and corporate affiliates acting on our behalf (collectively, “Molson Coors”, “we”, “us”, and “our”) values and respects the privacy of every individual. We are providing this Privacy Policy to help you understand how we collect, use, transfer, disclose, and store your personal information.
+
+We encourage you to read the entire Privacy Policy to familiarize yourself with our practices. You can jump to particular topics by clicking the headings below:
+
+- WHEN THIS PRIVACY POLICY APPLIES
+
+- WHAT PERSONAL INFORMATION WE COLLECT
+
+- USE OF COOKIES AND TRACKING TECHNOLOGIES
+
+- COLLECTION AND USE OF PERSONAL INFORMATION IN THE EMPLOYMENT CONTEXT
+
+- HOW WE USE PERSONAL INFORMATION
+
+- SOURCES FROM WHICH WE COLLECT PERSONAL INFORMATION
+
+- DISCLOSURE OF PERSONAL INFORMATION
+
+- CHOICES AND OPT IN/OUT
+
+- EXERCISING YOUR RIGHTS
+
+- PRIVACY INQUIRIES
+
+- SECURITY AND STORAGE OF INFORMATION
+
+- RETENTION OF INFORMATION
+
+- THIRD-PARTY APPLICATIONS/WEBSITES
+
+- INTERNATIONAL TRANSFERS
+
+- CALIFORNIA “SHINE THE LIGHT” LAW
+
+- CHILDREN’S PRIVACY
+
+- FINANCIAL INCENTIVES
+
+- CHANGES TO THIS PRIVACY POLICY
+
+-
+## WHEN THIS PRIVACY POLICY APPLIES
+
+This Privacy Policy describes our practices in connection with the personal information, including sensitive personal data, collected about individuals interacting with us and our products and services, including through our websites, social media pages and promotional sites that we control or that link to this Privacy Policy (each a “Site,” collectively the “Sites”) and through our offline interactions with you.
+
+This Privacy Policy also applies to personal information we obtain in our capacity as an employer and/or through the employment application process.
+
+This Privacy Policy does not apply to third-party sites, including information that is collected directly by the social media providers, their platforms, or their websites or on other parties’ websites, themselves. When you use one of those third-party sites, you are subject to the terms and policies applicable on those sites.
+
+-
+## WHAT PERSONAL INFORMATION WE COLLECT
+
+We may collect and process personal information about you, including the categories of information in the list below. In the twelve (12) months before this Policy was last modified, we have collected and processed these categories of personal information:
+
+- Identifiers and information about you, such as name, address, email address, and phone number;
+
+- Account information, such as your username and password used to access the Sites and social media tokens and verifications;
+
+- Communications, such as messages you submit via the Sites (including in “chat bots” on our Sites) or through telephone or email communications;
+
+- Commercial information, details of your transactions and payment details, such as your order details and payment details used to purchase our products and services, billing address, shipping address, and credit or debit card number and expiration date;
+
+- Social media information, such as profile name and profile images;
+
+- Demographic information, such as date of birth, gender, preferred language, marital status, and nationality;
+
+- Survey/Sweepstakes information, such as your responses to such surveys and information you provide to participate in sweepstakes or other promotional opportunities, including your Social Security Number (in limited circumstances, for example if you win a sweepstakes or receive compensation that must be reported on government tax forms), etc.;
+
+- Internet or other similar network information, such as your IP address, location, device type, date and time of visit, operating system, browser-type and version, referring and exiting websites/URLs (including click through URL and pixel tags), your activities on the Sites, information about how you use the Sites, and your mobile device’s unique device ID, and other information associated with “cookies” and similar tracking technologies as described in the following section;
+
+- Inferences about you, such as your preferences, characteristics, predispositions, behavior, or other trends that help us identify which products you may be interested in.
+
+- Educational and professional information, such as work history, educational history, personal and work preferences, criminal history, and any other information you may voluntarily disclose on your application or resume;
+
+- Financial Information, such as banking information (for salary purposes) and number of tax exemptions (where applicable);
+
+- Benefits Information, such as health insurance and pension or retirement contributions (including amounts paid, the frequency and currency of payments); and
+
+- National Identifiers, such as your Social Security number (or national ID number), passport number, drivers’ license number, vehicle registration number, tax ID number.
+
+-
+## USE OF COOKIES AND TRACKING TECHNOLOGIES
+
+Molson Coors utilizes “cookies”, “tags”, “pixels”, “web beacons”, “clear gifs” and other similar tracking technologies (all called “cookies” for purposes of this Policy) on our Sites. A cookie is a text file that is placed on your computer or other mobile device when you access the Sites or the Internet. These technologies allow us to collect information about your interaction with our Sites and advertisements. Examples of such information may include, but are not limited to: browser type, IP address, pages viewed, searches performed, URLs visited, activity conducted, and timing of your visit.
+
+We utilize the following types of cookies on our Sites:
+
+- Required/Strictly Necessary Cookies: These cookies are necessary to enable the basic features of our Sites to function, such as providing secure log-in or remembering how far you are through an order. If you do not agree to the Required Cookies, then you will not be able to use the Sites.
+
+- Functional Cookies: These cookies allow us to analyze your use of our Sites to evaluate and improve our performance. They may also be used to provide a better customer experience on our Sites. For example, remembering your log-in details, saving what is in your shopping cart, or providing us information about how our Sites are used.
+
+- Advertising/Analytics cookies: These cookies are used to help us show you ads that are more relevant to you or allow us to gather information about your activities, such as what pages you visit or products you click on.
+
+We seek to provide users with transparency about and control over their interactions with cookies on our Sites. You can see the cookies used on our Sites from the cookie banner shown to you when you first access one of our Sites, by clicking the “COOKIE PREFERENCES” button at the bottom of any page, or by clicking this link. More information about your choices to control interactions with cookies on our sites is provided in the “Choices and Opt In/Out” section below.
+
+-
+## COLLECTION AND USE OF PERSONAL INFORMATION IN THE EMPLOYMENT CONTEXT
+
+For the avoidance of doubt, this Section 4 applies only to Molson Coors employees and applicants for employment.
+
+- Sensitive Information of Employees and Applicants
+
+Some personal information processed by Molson Coors may be considered “sensitive” or “special category” data under applicable privacy laws, such as personal information that reveals your racial or ethnic origin, Social Security Number or other government identifier, trade union membership, or data concerning your health or your history of criminal convictions, etc. (“sensitive personal data”). We do not require you to provide sensitive personal data as part of our recruitment process, unless authorized by law or where necessary to comply with applicable laws. To the extent we collect such sensitive information, it is described in Sections 2 and 7. Some of this information is optional, in which case it will be processed only if you provide it and your explicit consent. Where legally required, Molson Coors processes your sensitive personal data upon the following legal bases and to the extent necessary: (a) to carry out its obligations in the field of employment, social security, and social protection law; (b) for the establishment, exercise, or defense of legal claims; (c) for reasons of public interest in the area of public health (such as protecting against serious cross-border threats to health); (d) for your vital interests in the event of an emergency; and (e) for any other purpose permitted under applicable privacy law.
+
+- Employee Information Collected Through Automatic Data Collection Technologies
+
+To the extent permitted by law where you are employed by Molson Coors, we may also monitor, intercept, and review your activities when you use our information technology resources and communications systems, including but not limited to email (both outgoing and incoming), telephone conversations, and voice mail recordings, and instant messages. To the extent permitted by law, some of our facilities collect surveillance information including through video and other similar recording technologies which may be operated by a third party owner or operator of the buildings where our facilities are located.
+
+To the extent permitted by law and solely to the extent you have provided your express consent when submitting your application with Molson Coors, we may also collect information through automatic data collection technologies during the application process, such as Artic Shores. For example, we may utilize such technologies as a tool in connection with our screening and assessment processes. These assessments help us understand work-relevant behaviors and competencies (e.g., problem-solving, attention, planning) using task responses rather than self-reported questionnaires. Our use of automatic data collection technologies during the applicant process is completely optional.
+
+- Use of Automated Decision-Making Technology in Connection with Employment and Application Process
+
+We do not make hiring decisions solely by automated means. A person reviews assessment outputs alongside other materials before any decision with legal or similarly significant effects is made. In certain jurisdictions, you also have rights to object to the use of automated decision-making technologies or to contest a decision made through automatic means.
+
+-
+## HOW WE USE PERSONAL INFORMATION
+
+We may use your personal information, including sensitive personal data (in certain jurisdictions), for the purposes described in the table below. We may also use your personal information and sensitive personal data for any additional purpose that you consent to, that we notify you of at the time of collection, or that is otherwise permitted by law.
+
+In some jurisdictions, we are required to identify our legal grounds for processing your personal information. Typically, our processing is based on one or more of the following:
+
+- Consent: where you have consented to our use of your personal information;
+
+- Contract performance: where we are required to collect and handle your personal information in order to provide you with the services that we have contractually agreed to provide to you;
+
+- Legal obligation: where we need to use your personal information to comply with our legal obligations; and
+
+- Legitimate interests: where we have a legitimate interest in using your personal information. We will only rely on this legal ground if we consider that our interest in using your personal information for the relevant purpose is not outweighed by any interests that you may have, or any prejudice that you may suffer, from the relevant use of your personal information.
+
+In certain jurisdictions, we may also legally use special categories of personal information or sensitive personal data for the following reasons:
+
+- Specific Purpose: where your sensitive personal data is strictly necessary to provide or maintain a specific product or services you have requested;
+
+- Legal claims: where your personal information is necessary for us to establish, exercise, or defend any legal claims; and
+
+- Substantial public interest: where we need to process your personal information for reasons of substantial public interest set out in applicable laws.
+
+The table below identifies the purposes for our collection and use of your information and, for each, the relevant legal basis we have for doing so:
+
+| Purpose for Collection & Use
+| Legal Basis
+
+| To communicate effectively with you and conduct our business
+- Contract performance
+
+- Legitimate interest (to receive, and respond to your inquiries and act upon your feedback or issues)
+
+| To provide you with customer service or otherwise respond to inquiries
+
+- Legitimate interest (to receive, and respond to your inquiries and act upon your feedback or issues)
+
+| To provide our products and services to you
+
+- Legitimate interest (to allow us to perform our obligations and provide services to you)
+
+| To provide you with marketing materials
+- Consent (in relation to certain electronic marketing where required by law, which can be withdrawn)
+
+- Legitimate interest (market our product and services to you)
+
+| To conduct surveys
+- Consent
+
+- Legitimate interest (interest in understanding our users and providing tailored services)
+
+| To conduct sweepstakes
+- Consent
+
+- Legitimate interest (interest in operating the sweepstakes, contests, and special offers, including notifying you if you are selected)
+
+| To monitor certain activities on our Sites
+
+- Legitimate interests (to ensure the quality and legality of services)
+
+- Consent (for cookies and other tracking technologies where required by law)
+
+- Legal obligations
+
+| To administer our Sites
+
+- Consent (for cookies and other tracking technologies where required by law)
+
+- Legitimate interest (to allow us to provide you with the content and services on the Sites)
+
+| For research and development purposes
+
+- Legitimate interests (to understand our users and improve the quality of our products and services)
+
+- Consent (when you opt to provide survey responses)
+
+| To comply with our legal obligations and enforce our rights
+
+- Legitimate interests (to cooperate with law enforcement and regulatory authorities and protect our rights)
+
+- Legal claims
+
+| In connection with a sale, merger or reorganization of our business
+- Legitimate interests (in order to allow us to change our business)
+
+| In connection with our use automated technologies to assist with the applicant process.
+- Consent
+
+- Where specific safeguards are implemented and where you have the right to human intervention or to challenge the decision
+
+| In connection with our evaluation or assessment of an applicant for future employment with Molson Coors.
+- Consent
+
+- Legitimate interests
+
+| In maintaining information about your work history, work performance, and disciplinary actions
+
+| To conduct screening and background and compliance checks before and during your employment at Molson Coors and maintaining records on such screening and checks.
+
+- Consent
+
+| To run and manage business operations, including to schedule work, manage the business organization, business assets, travel and expense reimbursement, managing corporate credit cards and card payment history, complying with policies, maintaining corporate contact directories and organizational charts, managing and storing records
+
+- Consent
+
+| To deliver or administer pay and benefits, including insurance benefits, retirement plans, and other similar benefits
+
+- Consent
+
+-
+## SOURCES FROM WHICH WE COLLECT PERSONAL INFORMATION
+
+Molson Coors collects the personal information described above from various sources, including: directly from you; our Sites and mobile applications; online tracking technologies like cookies; service providers, including data-analytics providers, third-party data providers, and marketing companies; publicly available sources; our affiliates; our distributors; our other customers; social media sources; and other third-party partners.
+
+To the extent permitted by applicable law, any information you provide to us directly may be combined with other information that you provide to us through other channels, that is publicly available, or that we may otherwise obtain, including from third parties.
+
+-
+## DISCLOSURE OF PERSONAL INFORMATION
+
+We may disclose the personal information listed above to business partners and others as described below.
+
+- Disclosures to Business Partners
+
+Molson Coors may make certain personal information available within our family of companies/brands, such as to our subsidiaries, affiliates, and brands. We may also disclose personal information to our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners. Our sharing of personal information with service providers includes sharing cookies/web-tracking information with the third parties who provide that technology (such as Google Analytics or Facebook’s pixel) in addition to our marketing partners.
+
+In the event of a business transaction, such as a sale or transfer of all or some of our assets or equity in which personal information is among the assets transferred, we may also share personal information to other parties involved in that transaction.
+
+We may disclose your personal information to any other person as specified at the point of collection and as otherwise set out in this Privacy Policy, and have disclosed in the past 12 months, personal information to third parties as follows:
+
+| Category of Information Disclosed
+| Third Party Disclosures
+
+| Identifiers and information about you
+- With our affiliates
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Account information
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Communications
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Commercial information, details of your transactions and payment details
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Social media information
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Demographic information
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Survey/Sweepstakes information
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Internet or other similar network information
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Inferences about you
+
+- With our subcontractors, service providers, and other third parties we use to support our business, including with our marketing partners
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Educational and professional information
+
+- With our subcontractors, service providers, and other third parties we use to support our business and employment practices.
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Financial information
+
+- With our subcontractors, service providers, and other third parties we use to support our business and employment practices.
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| Benefits information
+
+- With our subcontractors, service providers, and other third parties we use to support our business and employment practices.
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+| National identifier
+
+- With our subcontractors, service providers, and other third parties we use to support our business and employment practices.
+
+- To a buyer or other successor in the event of or during a merger, divestiture, restructuring, dissolution, or other sale or transfer of some or all of our assets or equity, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information is among the assets transferred
+
+- Certain Disclosures Without Your Consent
+
+We may disclose personal information as required by law, such as in conjunction with a government inquiry or to comply with a subpoena, warrant, court order, or similar legal process. We may also share your personal information when we believe in good faith that disclosure is necessary to protect our rights; to defend against a legal claim; to protect your safety or the safety of us or others; or to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, or a violation of our policies.
+
+- Certain Disclosures With Your Consent or Participation
+
+We may disclose your personal information as you direct us to or where you have consented to such disclosure. We may ask if you would like us to share your personal information with other third parties who are not described elsewhere in this Privacy Policy with your prior formal consent to do so.
+
+Some of our Sites permit you to engage with or post on social media pages and blogs, and other similar platforms. When you post on social networking platforms or other public platforms, the personal information that you share is visible to other users and can be read, collected, or used by other users. For example, if you list your name, age, and address on a social media site, this personal information is public. Please be aware that the privacy policy of the social networking site will apply to any content you post on or provide to that Site.
+
+-
+## CHOICES AND OPT IN/OUT
+
+- Emails
+
+We may use your email address to send emails, newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties, at all times in accordance with your preferences. You can stop receiving promotional emails by following the unsubscribe instructions included in emails you receive from us or by contacting us using the details below.
+
+- Mobile Marketing (SMS and MMS) Updates
+
+We may send you text messages relating to our brands, promotions, and other legitimate purposes, at all times in accordance with your preferences. If you consent to join a mobile marketing list or participate in any text message program with us, there are typically message and data costs associated with receiving SMS (text) or MMS (multimedia) messages. These will vary based on your wireless carrier and plan. Check with your mobile carrier to determine what charges may apply. If you would like to stop receiving messages from us on your mobile device, reply to the message with “STOP” (or other message as instructed). You may also contact your mobile carrier for additional information on receiving or stopping mobile messages.
+
+- Cookie Preferences and Configurations, Internet-Based Advertising Opt-Out
+
+We seek to provide users with transparency about and control over their interactions with cookies on our Sites. You can see the cookies used on our Sites and, where it is available, more information about those cookies from the cookie banner shown to you when you first access one of our Sites, by clicking the “COOKIE PREFERENCES” button at the bottom of any page, or by clicking this link, and, where it is available, more information about those cookies. You can also control certain cookies you may interact with on our website using the following resources:
+
+- Cookie Preferences: This tool, available from the cookie banner shown to you when you first access one of our Sites, by clicking the “COOKIE PREFERENCES” button at the bottom of any page, or by clicking this link, allows you to reject cookies that aren’t required/strictly necessary by making your desired selections in the tool.
+
+- Configuring Your Browser: You may also configure your browser to refuse some cookies or to alert you when cookies are being sent. If you do so, please note that some parts of the Sites may then be inaccessible or may not function properly. Further, if you use another computer or change browsers, you will need to repeat the process of refusing or deleting cookies because settings from one computer or browser are not automatically applied on other computers or browsers. Information on deleting or controlling cookies can be found at www.aboutcookies.org.
+
+- Global Privacy Control (“GPC”): Our sites are configured to honor the GPC feature available in many web browsers. You can turn on a Global Privacy Control in your web browser or browser extension or by visiting https://globalprivacycontrol.org/. Please see the California Privacy Protection Agency’s website at https://oag.ca.gov/privacy/ccpa for more information on valid Global Privacy Controls. However, please note that some browsers have a “do not track” feature different from GPC, which as of the time this Policy was last modified our Sites may not respond to.
+
+- Other Opt-Out Tools: Users can opt out of targeted advertising via the Digital Advertising Alliance’s (“DAA”) opt-out page and the Networking Advertising Initiatives’ (“NAI”) opt-out page at http://www.aboutads.info/choices/ and http://www.networkadvertising.org/choices/, respectively. In Canada, you can opt out here: https://youradchoices.ca/en/tools (English) and here: https://youradchoices.ca/fr/en-savoir-plus/ (French). In Europe, please see: https://youronlinechoices.eu.
+
+Please be aware that, even if you reject cookies, enable the GPC, or otherwise elect to opt out of certain types of internet-based advertising, certain tracking technologies may still collect your data for other purposes including analytics. You may also still receive ads from Molson Coors, although they will not be targeted to you based on, for instance, analysis of your behavior.
+
+- Sale and Sharing of Personal Data
+
+When you interact with our Sites, we may use, or authorize third-party partners and service providers to use, cookies, web beacons and similar technologies to improve your experience with us. Our sharing of your personal information in this way may constitute “selling”, “sharing”, “targeted advertising” or “profiling” under applicable U.S. state privacy laws. The term "sale" is broadly defined by some U.S. state privacy laws and includes sharing personal information for monetary or other valuable consideration. To the extent this is considered “selling”, “sharing”, “targeted advertising”, or “profiling”, in the preceding 12 months, we have sold or shared the following categories of personal information for the purpose of showing you ads about our services and products:
+
+- Internet or other similar network activity;
+
+- Identifiers; and
+
+- Inferences about you.
+
+To exercise the right to opt-out of the foregoing, you (or your authorized representative) may submit a request to us through our “Do Not Sell or Share My Personal Information”. You do not need to create an account with us to exercise your opt-out rights.
+
+In addition, by turning on the Global Privacy Control or “GPC” that is available in some browsers (as noted above), you are able to opt out of the sharing of your personal information. We honor browser-based opt-out signals sent through the GPC.
+
+-
+## EXERCISING YOUR RIGHTS
+
+- Rights You May Have in Connection with Your Personal Information
+
+You may have certain rights relating to your personal information, including sensitive personal data, subject to local data protection laws. Depending on the applicable laws and under certain conditions, you may have the right to:
+
+- Ask us to provide you with further details or a brief summary on how we use and process your personal information;
+
+- Ask us to provide the categories of personal information we collected about you, the categories of sources of the personal information we collected about you, our business or commercial purpose for collecting that personal information, the categories of third parties with whom we share that personal information, or the specific pieces of personal information we collected about you over the past 12 months;
+
+- Ask us to provide you with a copy of your personal information that we hold;
+
+- Ask us to update or correct any inaccuracies in the personal information we hold;
+
+- Ask us to delete personal information or personal information we no longer have grounds to process;
+
+- Ask us to electronically transmit to a third party the personal information you have provided to us that we still hold about you;
+
+- Restrict how we process your personal information while we consider an inquiry you have raised;
+
+- Where processing is based on consent, withdraw the consent (some countries may require a written withdrawal request);
+
+- Object to any processing of personal information that we process on the “legitimate interests” or “public interests” grounds, unless our reasons for the underlying processing outweighs your interests, rights, and freedoms;
+
+- Opt out of targeted advertising, profiling, and/or the “sale” or “sharing” of personal information to third parties (as those terms are defined under applicable data protection laws);
+
+- Object to any non-essential processing of, including automated decision-making based on, your personal information;
+
+- Object to direct marketing (including any profiling for such purposes);
+
+- Not be discriminated against for exercising your data rights, including the right to not be denied goods or services, charged different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties, receive a different level or quality of goods or services, or receive a different price or rate for goods or services or a different level or quality of goods or services;
+
+- Request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes by contacting us through the information provided below;
+
+- Request additional details about the mechanisms under which your data is transferred outside of the United Kingdom (“UK”) and the European Economic Area (“EEA”);
+
+- Make a complaint to your local government or supervisory authority if you feel your rights have been violated; and
+
+- Lodge a complaint before a supervisory authority. If you are located in the EEA or UK, you have the right to contact the data protection regulator in the country in which you are based, you have your place of work or where we are based. A list of the data protection regulators and their contact details can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+- UK Residents only: If you are a UK resident, you have the right to make a complaint to Molson Coors, as data controller, if you are not happy about how your personal data has been processed or is being processed. You can raise your complaint with Molson Coors by emailing the Data Protection team at [email protected].
+
+- How to Exercise Your Rights
+
+If you would like to exercise any of the rights described above, please submit a request using our Data Subject Request or our Do Not Sell or Share My Personal Information forms. Please note that, depending on your request, we may request proof of your identity and verify such identity, in order to protect your personal information and ensure compliance with all applicable regulations and policies. Only you, or a person that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. If you are making a request on behalf of another person, you must provide written legal documentation that you are authorized to act on behalf of that individual.
+
+We may not be able to fulfill your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. To verify your identity, we may request up to three pieces of personal information about you, and we reserve the right to take additional steps as necessary to verify your identity if we have reason to believe a request is fraudulent. If you do not agree with how we responded to your request, you may ask us to review our decision by contacting us through the above noted methods.
+
+- Timing and Format for Responses to Rights Requests
+
+We endeavor to respond to a verifiable consumer request within one calendar month of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. Please note that any requested deletions or changes may not be effective immediately.
+
+We will deliver our written response to you by email to the email address you provide on the form when you submit your request, though we can also provide the written response by mail if you request it and provide us your mailing address. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+-
+## PRIVACY INQUIRIES
+
+Our Data Subject Request and our Do Not Sell or Share My Personal Information forms are the best way to submit a request to exercise rights you may have in connection with your personal data. If you have any questions or comments regarding this Privacy Policy, or if you would like to exercise applicable privacy rights by means other than our standard form, please contact us using the information below. We will aim to address your request as soon as practicable.
+
+- Molson Coors Beverage Company
+
+- Email: [email protected]
+
+- Call: 1-800-501-3584 (US & Canada)
+
+Further, each Molson Coors data controller can be contacted through our shared mailbox at [email protected]. If you have a contractual relationship with us, the Molson Coors group company identified in that contract (whether issued by us or a third party) will be data controller of your information.
+
+Please note that email communications are not always secure; so please do not include any sensitive information, including credit card information, in your emails to us.
+
+-
+## SECURITY AND STORAGE OF INFORMATION
+
+We strive to take appropriate steps that we believe are reasonable to secure your personal information. However, please be aware that, despite our reasonable efforts to protect your personal information, no security measures are perfect or 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you provide to us. If you have reason to believe that your personal information is not secure, please contact us immediately in accordance with the contact information below. In the event that we are required by law to inform you of a breach to your personal information, we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
+
+-
+## RETENTION OF INFORMATION
+
+We will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy, or otherwise in accordance with our internal retention policies. In some circumstances, we may store your personal information for longer periods of time when there is a legitimate business or legal need; for example, where we are required to retain personal information in accordance with legal, regulatory, tax, or accounting requirements.
+
+-
+## THIRD-PARTY APPLICATIONS/WEBSITES
+
+Our Sites may contain links to third-party websites, social media platforms, or applications not controlled by Molson Coors or covered by this Privacy Policy. If you submit information to any of those websites, social media platforms, or applications, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website or application that you visit. We have no control or authority over third-party sites and are not responsible for any information that you may submit on that site.
+
+-
+## INTERNATIONAL TRANSFERS
+
+You should be aware that Molson Coors is headquartered in the United States with corporate offices abroad. Your personal information may be transferred to and stored in the United States for processing. Additionally, any personal information that you provide to or that is collected by or on behalf of Molson Coors may be transferred or accessed by entities around the world consistent with the practices described within this Privacy Policy. The privacy laws in these countries may be less stringent than the laws in your country of residence. In relation to both internal transfers and the use of affiliates, service providers or suppliers, for personal information that is transferred outside of the UK and the European Economic Area ("EEA"), we rely on adequate measures such as the EU Commission-approved Standard Contractual Clauses, which give personal data the same protection it has in the UK and the EEA. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information above.
+
+-
+## CALIFORNIA “SHINE THE LIGHT” LAW
+
+Under California’s “Shine the Light” law (Cal. Civ. Code § 1798.83), California residents who provide us certain personal information are entitled to request and obtain from us, free of charge, information about the personal information (if any) we have shared with third parties for their own direct marketing use. Such requests may be made once per calendar year for information about any relevant third-party sharing in the prior calendar year. To submit a “Shine the Light” request, contact us at [email protected], and include in your request a current California address and your attestation that you are a California resident or call: 1-800-501-3584 (US & Canada).
+
+-
+## CHILDREN’S PRIVACY
+
+AS DESCRIBED IN OUR TERMS AND CONDITIONS OF USE, MOLSON COORS ALCOHOL PRODUCT SITES AND ALCOHOL ADVERTISING ARE INTENDED ONLY FOR PERSONS OF LEGAL DRINKING AGE BASED ON THE JURISDICTION WHERE SUCH CONTENT IS BEING ACCESSED OR VIEWED. YOU MAY BE REQUIRED TO VERIFY YOUR DATE OF BIRTH PRIOR TO ENTERING OR INTERACTING WITH A SITE. AGE VERIFICATION PROMPTS MAY ALSO BE LOCATED WITHIN THE SITES. IF YOU ARE UNDER THE LEGAL DRINKING AGE IN YOUR JURISDICTION AND HAVE ENTERED ONE OF OUR ALCOHOL PRODUCT SITES BY ENTERING A FALSE DATE OF BIRTH, YOU MUST IMMEDIATELY LEAVE THE SITE.
+
+Our Sites are not intended for and we do not knowingly collect personal information from individuals under the age of 13 (where the Children’s Online Privacy Protection Act is applicable or such other age as may be specified by the law of the applicable jurisdiction). If we learn that we have collected personal information from a child under the age of 13 (or other age specified by law in the applicable jurisdiction) without parental consent, we will delete that information and otherwise comply with the requirements of the applicable law. If you believe that we might have any information from or about a child, please contact us by using the contact details in the “Privacy Inquiries” section above.
+
+-
+## FINANCIAL INCENTIVES
+
+We may offer our customers certain perks, such as rewards programs, exclusive offers, sweepstakes, contest, or other similar promotional campaigns (collectively, the “Programs”). When you sign up for one of these Programs, we typically ask you to provide your name and contact information (such as email address, home or physical address, etc.) to contact you regarding your participation in the program. Because our Programs involve the collection of personal information, they might be interpreted as a “financial incentive” program under California law. The value of your personal information to us is related to the value of the free or discounted products or services, or other benefits that you obtain or that are provided as part of the applicable Program. This value is based on the expense related to offering those products, services, and benefits to Program participants. You may withdraw from participating in a Program at any time by contacting us using the designated method set forth in the applicable Program rules. Visit the terms and conditions page of each Program to view full details, including how to join.
+
+-
+## CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time by posting additions or modifications to this page. You should review this Privacy Policy periodically for changes.
+
+Contact Us

@@ -1,0 +1,226 @@
+Privacy information
+
+Privacy policy
+
+Quick links:
+
+- Privacy policy
+
+- Notice at collection and California Consumer Privacy Act policy
+
+- California Consumer Privacy Act (CCPA) Requests
+
+Sempra Energy (“Sempra”) is committed to keeping our visitors informed about how we use the information we gather on our website, at our mobile optimized website, and in our mobile apps (if any) (collectively, the “website”). By using our website or obtaining any product or service through our website, you agree to the collection and use of information as set forth in this policy. If you do not agree to this policy, please do not use the website.
+
+Please be aware that other sites accessible through Sempra’s website (including, without limitation, our subsidiaries’ sites) have their own privacy policies and data collection, use, and disclosure practices. The information practices of those other sites linked to Sempra’s website are not covered by this policy, except that those sites of our subsidiaries which have a direct “Privacy” link to the Sempra Energy homepage "Privacy" footer follow and use this policy as their own policy. In such circumstances, with respect to such sites, references herein to “we” and “Sempra” mean such subsidiaries.
+
+### Information we collect and how we use it
+
+In order to better provide you with products and services, Sempra’s website collects two types of information: Personal Information and Non Personal Information.
+
+Personal information
+“Personal Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact, or locate you. You may choose not to provide any Personal Information and you will still be able to access most portions of the website. However, Personal Information may be collected from visitors seeking to obtain services offered by Sempra on this website, such as:
+
+- Applications regarding possible employment;
+
+- Use of Sempra’s mobile apps (if any); and
+
+- Requesting to be included on mailing, email, texting, landline telephone, or cellular telephone lists of Sempra, as may be described in more detail on this website from time to time
+
+Examples of Personal Information you may submit include your name or, when combined with your name or other information which could reasonably be used to identify you, your mailing address, telephone number, mobile phone number, email address, and other identification and contact information. We may also collect certain financial account information (if you choose to provide it), as well as other types of information that you may have entered into employment applications.
+
+Sempra uses this Personal Information to provide services, conduct its business, and improve our visitors’ experience on our website.
+
+Non personal information
+“Non Personal Information” refers to information that does not identify a specific individual by itself or in combination with other Non Personal Information. Sempra may collect Non Personal Information by using cookies, agents, or through the collection of traffic data and location information.
+
+Do not track
+At this time, our website does not respond to Do Not Track (DNT) signals sent from your web browser. Additionally, we use a variety of third-party services to help provide our services and to help us understand the use of our website. These third-party service providers may collect information sent by your browser as part of a web page request, even if you have enabled your browser’s DNT functionality.
+
+Cookies
+Sempra’s website may store cookies on your computer or other device to allow us to monitor your use of the website. No attempts are made to identify individual users unless actions are taken to identify yourself by an “opt in,” for example:
+
+- Individual services are requested;
+
+- Application is made regarding possible employment;
+
+- Inclusion on a Sempra mailing list is requested;
+
+- Illegal behavior or unauthorized activities are suspected; or
+
+- User identification is required under law
+
+Cookies are used to improve the usefulness of our website for our visitors.
+
+Agents
+We may also work with third party service providers or solutions which employ “agents” to monitor, track, and analyze user behavior and traffic data on their device and on this website. The information collected by the agents may include, without limitation: hardware model, unique device identifiers (UDID), mobile network information including phone number, the agent version, platform, SDK version, timestamp, API key (identifier for application), application version, model, manufacturer and OS version of device or hardware, session start/stop time, locale, time zone, and network status (WiFi, etc.). Information collected through the agents is used to customize services and improve website usability. Information collected through agents may identify individual users in combination with previously provided Personal Information.
+
+Traffic data
+Sempra automatically collects and maintains statistical information from our website’s data logs that concern website activity, navigation, network traffic flow, and volume (“Traffic Data”). Examples of Traffic Data include the following:
+
+- Name of the domain, or URL, from which the visitor accesses the Internet (e.g., "a company.com"; "a school.edu"; or "an agency.gov");
+
+- Internet Protocol (“IP”) Number;
+
+- Type of web browser used;
+
+- Web pages visited; and
+
+- Date and time this website is visited
+
+Our primary purpose for collecting Traffic Data is to optimize the usefulness to visitors of our website. Traffic Data is also helpful in permitting us to improve the overall user experience on our website. Traffic Data may identify individual visitors in combination with previously provided Personal Information.
+
+Location information
+To the extent location-enabled functionality is made available in Sempra’s website, such functionality is provided by third party providers. Your use of that functionality is subject to such third party’s terms and conditions and privacy policy (as updated from time to time). When you use such location-enabled services, Sempra may also receive information about your actual location, like GPS signals sent by a mobile device or via your IP address. Location-enabled services may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. Location information helps Sempra customize and tailor services to you. Location information may identify individual users in combination with previously provided Personal Information.
+
+### Sharing your information with third parties
+
+Sempra will not, without your consent, share your Personal Information with third parties for their commercial purposes except that Sempra may share your Personal Information with third-parties, including certain affiliated companies (consistent with applicable laws and regulations) or other trusted businesses solely in order to enable them to perform services for Sempra related to Sempra’s own business purposes (subject to confidentiality and security obligations).
+
+Compliance with laws and public safety
+Sempra may also disclose Personal Information if we believe in good faith that such disclosure is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us or to protect or defend the rights, property, or safety of our users, others, or ourselves. Sempra may be required by law enforcement or judicial authorities to provide Personal Information to the appropriate governmental authorities. We will disclose Personal Information upon receipt of a court order or subpoena or to cooperate with a law enforcement investigation. Sempra fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. Sempra reserves the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+
+Mergers and acquisitions
+In the event of a merger, consolidation, reorganization, or sale or transfer of all or substantially all of the assets or business of Sempra, one of the assets that would generally be transferred is the information we collect from our visitors and customers (including both Personal Information and Non Personal Information). However, the use of this information by any successor entity would still be governed by the terms of this policy, as amended from time to time, including any amendment after such transaction.
+
+### Information security practices
+
+Sempra uses commercially reasonable efforts to prevent third parties from acquiring, altering, or destroying information made available to Sempra through this website. These efforts include monitoring network traffic to identify unauthorized attempts to upload or change information and under some circumstances encrypting sensitive information using Secure Socket Layers (“SSL”) or other comparable technology. Monitoring also occurs to prevent any activity that is illegal, or which may subject Sempra to legal liability or damage. Sempra is committed to maintaining the website’s security and its ongoing compliance with law so that this service will remain available to all visitors.
+
+Although Sempra takes commercially reasonable efforts to prevent unauthorized third parties from acquiring Personal Information submitted to Sempra on this website, an unlawful interception or acquisition by a third party may still be possible.
+
+### Children
+
+Sempra does not knowingly collect Personal Information from children under 13 years of age. Additionally, we are not aware of any content on our website that would be considered harmful to children. If Sempra learns that we have inadvertently gathered Personal Information from children under 13, we will erase such information from our records and terminate the applicable account.
+
+### Links
+
+This website may provide links to various governmental, industry association and other third party websites or materials. These links are provided for informational purposes only. Sempra does not endorse any advice, goods or services offered by third parties. To the extent third party materials contain assertions of fact, recommendations, or any other interpretations or advice, the third party is solely responsible for the content of the third party site, and Sempra makes no representation as to the accuracy, completeness or fitness for any purpose or use thereof. Further, Sempra has not verified the privacy policies applicable to third party websites or hosted materials, or determined what actions such parties will take regarding the privacy of visitors. Accordingly, you should carefully review the privacy policies of any third party sites accessible from any Sempra website. In no event shall Sempra be responsible for any third party content, policies or actions. Sempra encourages you to ask questions and to be very cautious before you disclose your Personal Information to third parties.
+
+### Changes to this privacy policy
+
+Sempra reserves the right, at any time, and without notice, to add to, change, modify, or update this Privacy Policy by posting a revised policy on this website. Any revised Privacy Policy shall be effective immediately on posting. However, any time this policy is updated, the date of modification will be posted.
+
+### Disclaimer
+
+Sempra is not responsible in the event that any password provided to a user is obtained by a third party or for any unlawful activities in connection with this website. In the event a user believes any password has been obtained without permission by third parties, or if the visitor has other privacy concerns, the user should contact Sempra immediately so the password can be changed, or other steps taken as appropriate. This notification should be made to [email protected].
+### Questions or comments
+
+If you have any questions or comments regarding (a) our website Privacy Policy, or (b) any other questions about this website, Sempra or its services, please contact Sempra by e-mail at [email protected], or by phone at (619) 696-2000, or by regular mail at: 488 8th Ave., San Diego, CA 92101.
+
+Please note, however, that information regarding these contacts or correspondence with Sempra may be retained in a file that is specific to you.
+
+## Notice at collection and California Consumer Privacy Act policy
+
+Updated 4/9/2026
+
+Sempra takes the privacy and security of your personal information seriously. This Notice at Collection and California Consumer Privacy Act Policy describes how we collect, use, and disclose personal information relating to California residents under the California Consumer Privacy Act of 2018, as amended by the California Consumer Privacy Rights Act of 2020 and regulations promulgated thereunder (“CCPA”).
+What is Personal Information?
+
+The CCPA describes “Personal Information” as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California resident or household. However, the CCPA does not apply to certain information, such as information subject to the Gramm-Leach-Bliley Act or the Health Information Portability Accountability Act.
+
+### Categories of Personal Information That We Collect
+
+We collect the following categories of Personal Information about California residents and, we may disclose each of these categories to our service providers, contractors, and other third parties who are not permitted to use your personal information except as necessary for performing services on our behalf.
+
+- Identifiers, such as name, contact information and government ID,
+
+- Consumer records, such as financial information,
+
+- Protected classifications under California or federal law, such as disability status or other attributes,
+
+- Commercial information, such as transaction, account and income information.
+
+- Internet or network activity, such as browsing history and interactions with our website,
+
+- Audio, electronic, visual, or similar information, such as call and video recordings,
+
+- Professional or employment-related information, such as work history and prior employer,
+
+- Education information, such as school and date of graduation, student college scholarship applications, and
+
+- Inferences drawn from any of the information identified above to create a profile about you, your preferences and characteristics.
+
+### Sources of Personal information
+
+We collect personal information from the following sources: directly from you; from public databases; advertising networks and marketing companies; data analytics providers; vendors and service providers; affiliated and subsidiary entities; business partners; advisors and agents.
+
+### Purposes of Collection, Use, and Disclosure
+
+In general, we collect and otherwise process personal information for the following business or commercial purposes, and also as otherwise directed or consented to by you:
+
+- to operate, manage, and maintain our business;
+
+- to provide and improve our products and services;
+
+- to communicate with you and manage your account;
+
+- to determine your eligibility for and participation in certain programs;
+
+- for our employment and vendor management purposes;
+
+- to personalize, advertise, develop, improve, and market our products and services;
+
+- for quality, safety, research and data analysis;
+
+- to detect and prevent fraud and security incidents;
+
+- to perform accounting, auditing, and other internal functions;
+
+- to maintain business records;
+
+- to conduct investigations and comply with legal obligations;
+
+- to exercise and defend legal claims and to protect you, us and others;
+
+- for uses we notify you of or obtain your consent; and
+
+- for use in a lawful manner compatible with the context in which it was provided.
+
+### How Long We Retain Your Personal Information
+
+We store your Personal Information for as long as needed or permitted based on the reason for which we obtained it. We also retain personal information as necessary to comply with our tax, accounting and recordkeeping obligations, to provide you with the services you have requested, as well as an additional period of time as necessary to protect, defend or establish our rights or the rights of others, defend against potential claims, and comply with our legal obligations. Rather than delete your Personal Information, we may de-identify it in accordance with the CCPA, by removing identifying details. Once we do this, we will not attempt to reidentify it.
+
+### Sales and Sharing of Personal Information
+
+The CCPA defines "sale" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and “sharing” includes disclosing or making available personal information to a third party for purposes of cross-contextual behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, we may be considered as “selling” or “sharing” personal information under the CCPA because of our use of third-party analytics cookies. To the extent such activity is considered to be “selling” or “sharing,” we “sell” or “share” the following categories of personal information: identifiers and Internet or other electronic network activity information. We disclose these categories to third-party analytics providers for purposes of marketing and advertising and to better understand activity on our website. We do not sell or share personal information about individuals we know are under the age of 16.
+
+### California Residents’ Rights
+
+The CCPA provides California residents with specific rights regarding personal information. Subject to certain conditions and exceptions, California residents have the following rights with respect to their personal information:
+
+Right to Delete: You have the right to request we delete your personal information.
+
+Right to Know (Access & Portability): (Up to twice every 12 months) You have the right to request:
+
+(i) the categories or personal information we collected about you;
+(ii) the categories of sources from which the personal information is collected;
+(iii) our business or commercial purposes for collecting, selling, or sharing personal information; the categories of third parties to whom we have disclosed personal information; and
+(iv) a copy of the specific pieces of personal information we have collected about you. For security reasons and to comply with the CCPA, certain highly sensitive types of Personal Information, such as social security numbers, drivers’ license numbers, and bank account numbers, will not be provided, but we will inform you if we may have collected them during such 12-month period.
+
+Right to Opt-Out of Sales and Sharing: You have the right to opt-out of “sales” and “sharing” of your personal information, as those terms are defined under the CCPA.
+
+Right to Correct: you have the right to request that we correct inaccuracies in your Personal information.
+
+Right to Limit Use and Disclosure: You have the right to limit the use and disclosure of your “Sensitive Personal Information,” as defined under the CCPA. However, we do not collect, use, or disclose “sensitive personal information” beyond the purposes authorized by the CCPA, thus this right is not available.
+
+Right to Non-Retaliation: California residents have the right not to be subject to retaliatory treatment for exercising and of the rights described above.
+
+### Submitting Requests:
+
+Right to Know, Access, Delete, and Correct. Requests to exercise the right to deletion, correction, access, and/or right to know may be submitted at https://www.sempra.com/privacy#personal-data-rights-request or by contacting us at (619) 696-2000. We will respond to verifiable requests received from California consumers or their authorized agents as required by law by matching the information provided against the information we have about you. If we are unable to adequately verify a request, we will notify the requestor. If we are unable to verify your identity after a good faith attempt, we may deny the request and, if so, will explain the basis for the denial.
+
+Authorized agents will be required to provide proof of their authorization, and we may also require that the relevant consumer directly verify their identity and the authority of the authorized agent.
+
+Right to Opt-Out of Sale/Sharing: To exercise your right to opt-out of the “sale” or “sharing” of your Personal Information, you can manage your cookies and similar technologies through your browser’s “Settings” menu. The Settings menu can be found by selecting the three-dot menu (⋮), three-dash menu or other icon in the top-right corner or other location of your browser. To access your cookie settings, navigate to the “Privacy and Security” / “Privacy” section and follow the instructions provided. Steps will vary by browser and device. If you block or delete cookies, some features of the website may not function as intended, and your preferences (including cookie choices) may be lost when cookies are cleared. Choices you make in a browser or on a device apply only to that browser or device.
+
+Please note, in accordance with required provisions of the CCPA, requests to limit the use and disclosure of Sensitive Personal Information are not offered since Sempra does not use/disclose Sensitive Personal Information is a manner that is not permitted under the CCPA.
+
+Please review our full website Privacy Policy at https://www.sempra.com/privacy. To contact us, click https://www.sempra.com/privacy#personal-data-rights-request or call us at (619) 696-2200.
+
+## Personal Data Rights Request
+
+Hide page title
+
+On
+Blocks Page

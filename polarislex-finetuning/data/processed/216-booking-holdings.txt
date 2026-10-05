@@ -1,0 +1,146 @@
+# Booking Holdings Online Privacy Notice
+
+Last Updated: June 2026
+
+- California Residents: See the "Privacy Rights in Some Jurisdictions" section below, including our recognition of the Global Privacy Control (“GPC”) signal.
+
+- Customers of Booking Holdings’ Brands: Please see the separate Privacy Notice available on the relevant Brand’s website.
+
+This Booking Holdings (“Booking Holdings” or “BHI”) website is non-transactional in nature; it is for corporate, investor, and employment information only. By visiting this website (the “Site”), you acknowledge the collection and use of your Personal Data as described in this Notice.
+
+## Information We Collect
+
+We collect limited personal information ("Personal Data") about you on this Site:
+
+- Information You Provide: This includes information you intentionally give us, such as your name, address, phone number, personal IP address, email address, or professional details when you submit an inquiry, interact with our career features, or register for shareholder events.
+
+- Non-Personally Identifiable Information: This includes technical information like your business network IP address and associated business entity name.
+
+## Cookies and Tracking Technology
+
+We use limited tracking technology on our Site. We do not sell your Personal Data with third parties for cross-contextual behavioural advertising, marketing, or commercial profiling.
+
+To maintain a privacy-first posture, Booking Holdings conducts frequent cookie and tracking code scans, and any tracking technologies or scripts detected on the Site that do not strictly align with the cookie categories below are automatically identified and removed. We utilize two categories of cookies: Strictly Necessary and Functional/Analytics.
+
+### 1. Strictly Necessary & Functional Cookies
+
+These cookies are essential for the Site to operate and provide key features, such as security, loading embedded content, and ensuring navigation works correctly. These include cookies from:
+
+- Site Operation: First-party cookies used to manage essential session functionality.
+
+- Security: Fraud prevention tools such as Google's reCAPTCHA used to secure our forms against spam and cyber-attacks.
+
+- Core Embedded Content: Cookies from third-party services like Vimeo (for corporate video playback), Highcharts (for interactive financial data visualization), and PR Newswire (for investor press release content) to ensure content is correctly displayed.
+
+### 2. Web Beacon for Business Analytics
+
+We use a web beacon (tracking code) provided by our B2B analytics vendor, Lead Forensics, on our Investor Relations sub-sites.
+
+- Data Collected: This tracking code processes your business IP address, pages visited, and investor content downloaded.
+
+- Purpose: Lead Forensics matches your business IP address against a public registry of corporate entities to provide us with internal business intelligence regarding which organizations are engaging with our investor materials. It does not identify individual consumer behavior.
+
+- Usage: While some external automated compliance web crawlers or browser extensions may generally classify the Lead Forensics code as “Targeting” or “Advertising,” Booking Holdings does not utilize them for consumer tracking, cross-contextual behavioural marketing, or targeted advertising. It is used strictly for localised internal corporate metrics.
+
+### Do Not Track and Global Privacy Control (GPC):
+
+- Do Not Track: We do not currently support or respond to "Do Not Track" browser headers.
+
+- Global Privacy Control (GPC): Because this Site does not sell or share consumer Personal Data for marketing purposes, your privacy is protected by default. However, to ensure full transparency and compliance, our Site is configured to detect and honor the GPC signal. If you visit our Site with the GPC signal enabled on your browser, our system recognizes it as confirmation of your preference to restrict Personal Data collection to strictly necessary and internal business analytics functions.
+
+## How We Use the Personal Data We Collect
+
+We use the information we collect to:
+
+- Respond to your inquiries and investor requests.
+
+- Administer, secure, and improve, the corporate Site.
+
+- Maintain network security and protect against cyber-attacks.
+
+- Comply with and enforce applicable laws and legal requests.
+
+- Perform internal business analytics to optimize our Investor Relations communication and institutional engagement trends via Lead Forensics.
+
+## How We Share Your Personal Data
+
+Booking Holdings does not sell your Personal Data, nor do we share it with third parties for cross-context behavioural marketing. We only share your Personal Data with service providers performing functions directly on our behalf, including:
+
+- Corporate Affiliates and Core Agents: Third-party providers helping us manage communications, process employment applications, host site media, or handle event registrations. These companies are bound by strict confidentiality requirements and have access to Personal Data only to perform their specific task.
+
+- Investor Relations and Analytic Agents: Our Investor Relations sub-site is managed through the Q4 Inc. platform. Personal Data collected on these pages is shared securely with Q4 Inc. and Lead Forensics solely to ensure operational stability and provide business-level engagement metrics detailed above.
+
+- Legal and Corporate Protections: We reserve the right to transfer data if required by law, subpoena, or asset transfer (such as a corporate merger or acquisition).
+
+## How We Protect the Personal Data We Collect
+
+We implement and maintain reasonable security procedures, methods, and technologies to prevent unauthorized access, use, modification, or disclosure of your Personal Data. We restrict access to employees who need the information to do their jobs and train them on the importance of privacy and security.
+
+## How Long We Keep Your Personal Data
+
+We retain Personal Data for as long as necessary for our business purposes. Retention periods depend on the type of data and its use. We may retain information longer if required by law or in connection with a legal hold, corporate recordkeeping, dispute resolution, or other legal necessity.
+
+## External Links
+
+Our Site contains links to other websites (including our subsidiaries and third parties). We are not responsible for the content or privacy practices of these linked websites. You should review their privacy policies to understand how they will handle any information they collect from you.
+
+## International Users
+
+This Site is governed in accordance with U.S. law. If you access the Site from the United Kingdom, the European Union, or other regions outside the United States, your Personal Data will be transferred to and processed in the U.S. For these cross-border transfers, Booking Holdings relies on legally recognized transfer mechanisms, including the execution of standard contractual clauses (SCCs) with underlying service providers to guarantee data protection.
+
+## Privacy Rights in Some Jurisdictions
+
+Residents of or persons located in certain jurisdictions (e.g., California, the United Kingdom, the European Union) may have enhanced rights regarding their Personal Data. Depending on your location and our reason for processing your information, these rights may include the right to:
+
+- Access: Request confirmation and a copy of the specific Personal Data we have collected about you.
+
+- Rectification/Correct: Request that we correct inaccurate or incomplete Personal Data.
+
+- Erase/Delete: Request that we delete or remove your Personal Data in certain circumstances.
+
+- Restrict/Limit Processing: Request that we limit the use or disclosure of your Personal Data. Note we do not collect, use, or disclose any sensitive Personal Data on this Site.
+
+- Data Portability: Receive a copy of your Personal Data in a machine-readable format and request its transfer to a third party.
+
+- Object: Object to our usage of your Personal Data at any time.
+
+- Withdraw Consent: Withdraw your consent where we rely on it as the legal basis for processing.
+
+- Lodge a Complaint: Report a concern to the relevant supervisory or regulatory authority.
+
+- Not be subject to Automated Decision Making: Request to not be subject to a decision based solely on automated processing, including profiling. We do not engage in automated decision making or profiling with your Personal Data on this Site.
+
+- Opt in or out of sale or sharing for cross-context advertising: Note we do not “sell” or “share” the Personal Data about you for cross-context behavioral advertising (as those terms are defined under California law). The strictly necessary, functional, and internal analytics tools (such as the Lead Forensics web beacon) are used exclusively for internal business intelligence of this corporate Site and not for advertising.
+
+- No Retaliation for Exercising Rights: We will not discriminate against you for exercising your rights under California law.
+
+California-specific Consumer Disclosures:
+
+- No Sensitive Data: We do not collect, process, or disclose Sensitive Personal Data on this corporate website.
+
+- No Automated Decisions: We do not engage in profiling or automated decision-making on this Site.
+
+- No Selling or Sharing: As defined under California law (CPRA), Booking Holdings has not "sold" or "shared" consumer Personal Data for cross-context behavioral advertising within the past twelve (12) months.
+
+- No Retaliation: We will not discriminate or retaliate against any individual for exercising their privacy rights.
+
+- Shine the Light: California Civil Code Section § 1798.83 permits users of websites who are California residents to request certain information regarding the disclosure of Personal Data to other parties for direct marketing purposes. We do not engage in direct marketing purposes as defined under this law.
+
+Contact us at privacy@bookingholdings.com to exercise your privacy rights. To protect your privacy, we will verify your identity before granting access or making changes to your Personal Data. We aim to respond to the above requests within thirty (30) days (if properly submitted). If we need more time to process and respond to your request, we will notify you and provide the reason for our delay. Any request to access your Personal Data will be answered in less than thirty (30) days (if properly submitted). If we need more time to process and respond to your request, we will notify you and provide the reason for the delay. If we decline to act regarding your request, we will inform you of our decision and rationale.
+## Children
+
+This Site is designed for corporate and professional engagement and is not intended for children under the age of thirteen (13). We do not knowingly collect information from children. If you believe we have accidentally collected Personal Data from a child under 13, please contact us immediately so we can delete it.
+
+## Changes to the Privacy Notice
+
+We may change this Privacy Notice at any time. Any changes will be effective immediately when we post the revised Notice on this page, and we will update the "Last Updated" date at the top.
+
+## Contact Information for your Questions or Concerns
+
+If you have any questions, concerns, or complaints about this Privacy Notice or our privacy practices, please email us at: privacy@bookingholdings.com.
+
+Address: Booking Holdings Inc., 800 Connecticut Avenue, Norwalk, Connecticut 06854.
+
+SHARE
+
+-

@@ -1,0 +1,328 @@
+- Clearance
+
+Last Updated: August 14, 2026
+
+This Privacy Policy describes how Penney OpCo LLC (“JCPenney”) and our subsidiaries and affiliated companies (collectively, “JCPenney,” “we,” or “us”) collect, use, disclose, and otherwise process information about you. This Privacy Policy applies to information we collect when you access or use our websites or other digital properties that link to this Privacy Policy, including without limitations, our mobile applications (collectively, our “Services”), or when you otherwise interact with us, such as in our stores, through our customer support channels or marketing campaigns, at an event, or on social media. We may provide different or additional notices of our privacy practices for certain products, services, or activities, in which case those notices will supplement or replace the disclosures in this Privacy Policy.
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy. If we make material changes, we will provide you with additional notice (such as by adding a statement to the Services or sending you a notification). We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.
+## Contents
+
+Our Role and the Role of Marketplace Sellers
+
+Types of Personal Information we collect
+
+Use of Information
+
+Targeted Advertising and Analytics
+
+Disclosures of Information
+
+Children's Privacy
+
+Your Privacy Choices
+
+Additional Information for Consumers Residing in Certain U.S. States
+
+Contact Us
+## Our Role and the Role of Marketplace Sellers
+
+JCPenney operates an online marketplace through which independent third-party sellers (“Marketplace Sellers”) list and sell their own products. This section explains who is responsible for your personal information when you browse and buy on our Services.
+
+### Our role
+
+JCPenney is responsible for the personal information we collect and process to operate our Services and the marketplace, including to create and manage your account, display listings and search results, personalize your experience, facilitate payment for your orders, detect and prevent fraud, keep our Services secure, analyze how our Services are used, engage in the advertising practices described in the Targeted Advertising and Analytics section, and comply with our legal obligations. This is true for all orders placed on our Services, including orders for products sold by Marketplace Sellers.
+
+### Marketplace Sellers’ role
+
+When you purchase from a Marketplace Seller, we share with that seller the information it needs to fulfill your order, such as your name, shipping address, phone number, and order details. We do not share your payment information with Marketplace Sellers. Marketplace Sellers decide independently how they fulfill your order, including which shipping carrier to use. Once a Marketplace Seller receives your information, the seller is independently responsible for it under applicable privacy laws, and its own privacy policy governs its handling of that information. This Privacy Policy does not cover Marketplace Sellers’ independent handling of your information.
+
+### What we require of Marketplace Sellers
+
+Our agreements with Marketplace Sellers require them to use the information we share with them only to fulfill and support your order and to comply with their own legal obligations—not to send you marketing you have not requested, and not to sell your information. If you believe a Marketplace Seller has misused your information, please contact us at privacyrights@catalystbrands.com; we may take action under our seller policies, although we are not responsible for Marketplace Sellers’ independent processing.
+
+## Collection of Information
+
+The information we collect about you depends on how you interact with us or use our Services. In this section, we describe the categories of information we collect and the sources of this information.
+
+### Information You Provide to Us
+
+We collect information you provide directly to us. For example, we collect information directly from you when you create an account, sign up for rewards or our loyalty program, make a purchase or place an order through our online marketplaces, submit or post content through our Services (including product reviews and other user-generated content), use our virtual try-on and other beauty advisor tools, communicate with us via third-party platforms, participate in our contests, sweepstakes, or promotions, sign up for our loyalty program or marketing communications, participate in a research panel, request customer support, book appointments or sign up to receive in-store services, or otherwise communicate with us.
+
+The types of information that we collect include your name, email address, billing address, shipping address, phone number, username and password for a JCPenney account, month and day of birth, gender/gender identity, body measurements and body type, skin type, hair type, social media handle, videos, images, information about your lifestyle, shopping habits, interests, and hobbies, loyalty or rewards program identifiers and activity, and any other information you choose to provide.
+
+If you make a purchase from us, we work with a third-party payment processor to collect and process your payment information.
+
+### Information We Collect Automatically
+
+We automatically collect certain information about your interactions with us or our Services, including:
+
+- Transactional Information: When you make a purchase, exchange, or return, including purchases from third-party sellers through our online marketplace, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
+
+- Device and Usage Information: We collect information about how you access or use our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, app version, and browser type. We also collect information about your activity on our Services (such as the routes by which you access our Services along with access dates and times), browsing behavior (such as pages viewed, buttons or links clicked, information about your activity on a specific page, and items placed in your cart or added to your wish list), and information about your interactions with our advertisements and communications.
+
+- Location Data: With your consent, we may collect precise geolocation data from your device or browser, including when you use our mobile app. You may stop the collection of this information at any time (see Your Privacy Choices below for details).
+
+- Audio and Video Recordings, Photos, and Chat Content: We capture photographs and video recordings in and around our stores for security and loss prevention purposes. If you contact customer service through our chat feature or by phone, we may monitor, retain, and use those conversations, including for training, quality assurance, and other internal purposes.
+
+- Virtual Try-On Data: If you use our virtual try-on, hair care, or skin care advisor tools, you may choose to upload a photo or take a selfie so that your image and facial data can be analyzed to generate numeric values and provide more tailored recommendations. By voluntarily uploading your photo or taking a selfie, you consent to the collection and processing of this data for the purpose of providing you with personalized recommendations. Our virtual try-on and advisor tools are powered by a third-party service provider, Revieve. JCPenney does not receive or store the images you submit, or any data extracted from those images. Revieve’s technology analyzes your image and extracts numeric values that are used solely to deliver the virtual try-on or advisor tool functionality requested. This facial imagery data may be considered biometric data under some laws; however, this data is not used to identify you or any individual. Revieve processes images in real time and does not retain or store them after a session ends. For more information about how Revieve processes information in connection with these tools, please visit https://www.revieve.com/solutions-data-technology-overview.
+
+- Information Collected by Cookies and Similar Tracking Technologies: We use tracking technologies, such as cookies, pixels, SDKs, and session replay to collect information about your interactions with our Services and marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. If you sign up for our text messaging program, cookies may be used to personalize your experience (for example, to send you personalized text messages such as shopping cart reminders). For more information about the cookies and other tracking technologies we use and the choices available to you, see the Targeted Advertising and Analytics and Cookies and Similar Tracking Technologies sections below.
+
+## Information We Collect from Other Sources
+
+We are part of Catalyst Brands and may receive information about you from our corporate affiliates. We also obtain information from other sources, such as:
+
+- Your friends or family members who invite you to participate in our referral programs;
+
+- Marketing partners, including joint marketing/co-branding partners, data co-ops, and marketing, advertising, and analytics companies;
+
+- Service providers and vendors, including fraud prevention providers, mailing list providers, fulfillment partners, and shipping carriers; and
+
+- Social media sites or similar third-party services when you like, follow, or share JCPenney content on Facebook, Twitter, Instagram, TikTok, or similar sites.
+
+The types of information we collect from these other sources include your contact information (such as name, phone number, and postal address), device and usage information (such as IP address and inferred geolocation), demographic information (such as gender), information about your occupation and household, and information about previous purchases, product preferences, rewards program participation, interests, and shopping habits.
+
+Additionally, if you create or log into your JCPenney account or interact with us through a third-party platform (such as Facebook, Instagram, TikTok, or Google), we will have access to certain information from that platform, such as your profile information, profile picture, user ID associated with your third-party platform account, and any other information the third- party platform discloses about you, in accordance with the authorization procedures determined by such platform.
+
+### Information We Derive
+
+We may derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address or infer that you are looking to purchase certain products based on your browsing behavior and past purchases.
+
+## Use of Information
+
+We use the information we collect to provide, maintain, improve, and develop our products and services and personalize your experience with us. We also use the information we collect to:
+
+- Process and fulfill your orders and facilitate returns and exchanges;
+
+- • Operate our online marketplace and facilitate transactions between you and Marketplace Sellers, including by disclosing order information to the applicable Marketplace Seller so that it can fulfill your order (see Our Role and the Role of Marketplace Sellers above);
+
+- Send you technical notices, security alerts, support messages and other transactional or relationship messages;
+
+- Send you marketing communications (go to Marketing Opt-Out Form to opt out of these communications at any time);
+
+- Provide and administer our loyalty program;
+
+- Monitor and analyze trends, usage, and activities in connection with our products and services;
+
+- Target advertisements to you on third-party platforms and websites (for more information, see the Targeted Advertising and Analytics section below);
+
+- Target advertisements and offers that we and our partners display to you when you use our Services, including based on information held by our advertising partners (for more information and to opt out, see the Targeted Advertising and Analytics section below);
+
+- Facilitate contests, sweepstakes, and promotions and process and deliver entries;
+
+- Detect, investigate, and help prevent security incidents and other malicious, deceptive, fraudulent, or illegal activity and help protect the rights and property of JCPenney and others; and
+
+- Comply with our legal and financial obligations; and
+
+- Create, use, and retain de-identified and aggregate data that cannot reasonably be linked to you.
+
+## Targeted Advertising and Analytics
+
+We engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile apps. To do this, JCPenney and these partners may use cookies, pixels, SDKs, and other similar technologies to collect information about your use of our Services and other websites and mobile apps, including your device identifiers, IP address, web browser and mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, order information, items added to your shopping cart, and conversion information.
+
+This information is used to deliver advertising targeted to you on other companies’ sites and mobile apps and on our own Services (such as in post-purchase advertisements), understand the effectiveness of this advertising, analyze and track data, determine the popularity of certain content, and better understand your activity. You can opt out of cookie-based ad targeting on our website by clicking “Your Privacy Choices ” link in the site footer and following the prompts. Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our website from a new device or browser, or if you clear your browser’s cookies. You can also learn more about interest-based ads or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance by visiting www.aboutads.info/choices. Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps for advertising purposes.
+
+In addition to cookie-based ad targeting, we may disclose your identifiers, such as your email address and phone number, to some of our advertising partners. These advertising partners translate that information into a unique identifier that can then be used to show ads that are more relevant to you across the web and in mobile apps. Depending on where you reside, you may opt out of these disclosures by filling out our web form.
+
+## Disclosures of Information
+
+We disclose (or permit others to directly collect) information about you. We disclose personal information as described in this Privacy Policy and in the following ways:
+
+- We disclose personal information to vendors, service providers, contractors, and consultants that need this information to provide services to us, such as companies that assist us with web hosting, shipping and delivery, payment processing, financing, fraud prevention, customer service, marketing, rewards and loyalty program administration, online virtual try-on and beauty advisor tools, advertising, and analytics.
+
+- Marketplace Sellers. When you purchase products from a Marketplace Seller through our online marketplace, you direct us to disclose to that seller the information needed to fulfill your order, such as your name, shipping address, phone number, and order details. We do not disclose your payment information to Marketplace Sellers. Marketplace Sellers receive this information as independent businesses in order to complete the transaction you have requested, and their own privacy policies govern their handling of it. Our agreements with Marketplace Sellers restrict their use of this information to fulfilling and supporting your order and complying with their legal obligations and prohibit them from using it for their own marketing or selling it.
+
+- If you provide a product review or post content on our Services, other users of our Services and other sites where our products are sold will be able to see this information.
+
+- We may disclose personal information to data co-ops to expand the reach and effectiveness of our marketing campaigns and other third parties for their own marketing purposes. Depending on where you reside, you may opt out of these disclosures by filling out our web form.
+
+- We are part of Catalyst Brands and may disclose information about you to our corporate affiliates, including for their marketing and advertising purposes. Similarly, if you enroll in our cross-brand loyalty program, we will share personal information, such as your name, email address, purchase history, and rewards activity, with other participating brands to administer the program and provide you with program benefits. You may opt out of disclosures of information by filling out our web form.
+
+- We disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
+
+- We disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of JCPenney, our users, the public, or others.
+
+- We disclose personal information to our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
+
+- We disclose personal information in connection with, or during negotiations of certain corporate transactions, including the merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company
+
+- We disclose personal information when we have your consent or if you direct us to do so.
+
+We also disclose aggregated or de-identified information that cannot reasonably be used to identify you. JCPenney processes, maintains, and uses this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.
+
+## Children's Privacy
+
+Our Services are not designed for children under the age of 18. If you are a parent or legal guardian and you believe that a child has provided personal information to us without your consent, please contact us at privacyrights@catalystbrands.com.
+
+## Your Privacy Choices
+
+Account Information
+
+You can access and update certain account information and preferences stored within your online account by logging into your account at any time.
+
+Communications Preferences
+
+You may opt out of receiving text messages, promotional emails, or promotional mail from JCPenney by following the instructions in our Marketing Opt-Out Form or in those communications. If you opt out of such communications, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+Location Data
+
+As described above, we may collect geolocation data from your device or browser to help personalize and enhance your shopping experience. You can stop the collection of this data at any time by changing your location settings on your mobile device and browser.
+
+Cookies and Similar Tracking Technologies
+
+JCPenney uses cookies and similar tracking technologies, as described above. Most web browsers are set to accept cookies by default. If you prefer, you can usually adjust your browser settings to remove or reject browser cookies. You can also disable cookies and other tracking technologies for advertising purposes by following the instructions in the Targeted Advertising and Analytics section above. Note that removing or rejecting certain cookies could affect the availability and functionality of our Services.
+
+## Additional Information for Consumers Residing in Certain U.S. States
+
+Some U.S. states have enacted privacy laws that grant their residents additional privacy rights and require specific disclosures (“State Privacy Laws”). If you reside in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, this section applies to you. This section also serves as our California notice at collection.
+
+Additional Disclosures
+
+Our Privacy Policy explains how we collect, use, and disclose information about you, as well as our targeted advertising and analytics practices. As required by certain State Privacy Laws, we use the tables below to explain this same information.
+
+Collection, Use, and Disclosure of Personal Information for Business Purposes
+
+| Category of Personal Information
+| Categories of Recipients
+| Use of Personal Information
+- Identifiers (such as your name, email, and IP address)
+
+- Characteristics of protected classifications under California or U.S. federal law (such as your demographic data)
+
+- Commercial information (such as records of products you purchased)
+
+- Internet and electronic network activity (such as information about your activity on our website)
+
+- Approximate geolocation data (such as your city of residence)
+
+- Inferences (such as inferred information about your shopping preferences)
+
+- Audio, photo, or visual information (such as your photo or selfie when using our virtual try-on or beauty advisor tools)
+
+- Sensitive personal information (such as your precise geolocation data)
+- Advertising and marketing partners
+
+- Corporate affiliates
+
+- Web hosting providers, Internet service providers, operating systems and platforms
+
+- Research and data analytics providers
+
+- Providers of JCPenney's sweepstakes and other programs
+
+- Marketplace platforms providers and third-party sellers
+
+- Payment processors
+
+- Fulfillment partners
+
+- Customer support partners
+
+- Service providers that power virtual try-on and other online beauty advisor tools
+
+- Event partners
+
+- Fraud prevention partners
+
+- Cloud service providers
+- Provide, maintain, improve, and develop our products and services
+
+- Personalize your experience with us
+
+- Send you technical notices, security alerts, support messages and other transactional or relationship messages
+
+- Communicate with you about products, services, promotions, and events offered by JCPenney and others and provide news and information that we think will interest you
+
+- Provide and administer our rewards and loyalty program
+
+- Operate our online marketplace and facilitate transactions between you and our third-party sellers
+
+- Monitor and analyze trends, usage, and activities in connection with our products and services
+
+- Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards
+
+- Detect, investigate, and prevent security incidents and other malicious, deceptive, fraudulent, or illegal activity and protect the rights and property of JCPenney and others
+
+- Comply with our legal and financial obligations
+
+- Create, use, and retain de-identified and aggregate data that cannot reasonably be linked to you
+
+- Help locate JCPenney stores near you.
+
+### Personal Information that we “Share,” “Sell,” or use for “Targeted Advertising”
+
+We disclose the following categories of personal information to our corporate affiliates and other third parties to engage in targeted advertising and other marketing activities, including to inform the ads we show you on our Services, reach you with relevant ads on third-party platforms, expand the reach and effectiveness of our own marketing campaigns, and for third parties’ own marketing purposes. These disclosures may be considered “sales,” “sharing” or use of personal information for “targeted advertising” under State Privacy Laws, and the table below provides more information about our practices.
+
+| Category of Personal Information
+| Categories of Third Parties
+
+| Identifiers (such as a hashed version of your email address or cookie IDs)
+| Joint marketing campaign partners, advertising and marketing networks, corporate affiliates, data co-ops
+
+| Characteristics of protected classifications under California or U.S. federal law (such as demographic data)
+| Advertising and marketing networks, corporate affiliates
+
+| Commercial information (such as records of products you purchased)
+| Joint marketing campaign partners, advertising and marketing networks, corporate affiliates
+
+| Internet and electronic network activity (such as information about your activity on our website)
+| Joint marketing campaign partners, advertising and marketing networks, corporate affiliates
+
+| Inferences drawn from your personal information to create a profile (such as inferred information about your shopping preferences)
+| Joint marketing campaign partners, advertising and marketing networks, corporate affiliates
+
+Other Details About our Information Practices
+
+We collect personal information directly from you (for example, when you place an order from our website or make a purchase at one of our stores), automatically when you access or use our Services or shop in our stores, and from third-party sources such as joint marketing partners, each described in more detail in the Collection of Personal Information section above.
+
+We do not engage in sales, sharing, or targeted advertising using personal information about consumers we know to be under the age of 18.
+
+We do not use or disclose sensitive personal information for the purpose of inferring characteristics about you.
+
+Our retention periods for personal information are based on business needs and legal requirements. We retain personal information for as long as is necessary for the processing purpose(s) for which we originally collected it and for other business purposes explained in this Privacy Policy. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired. In addition, we retain your email address and information about your marketing preferences to ensure that we can honor those preferences.
+
+Your Privacy Rights
+
+Opt Out of Sales, Sharing, and Targeted Advertising
+
+Some of the activities described in the table above may be considered "sales" or "sharing" of your personal information or use of your information for "targeted advertising" under the law that applies to you. You can opt out of cookie-based ad targeting on our website by clicking the " Your Privacy Choices " link in our website footer and following the prompts. You may need to renew your opt-out choice if you visit our website from a new device or browser or if you clear your cookies. Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps for advertising purposes.
+
+In addition to cookie-based ad targeting, we may disclose information about your purchases and contact information (such as email and mailing address) to our affiliates, advertising partners, and other third parties for marketing and advertising purposes, which may constitute "sales" or "sharing" of your personal information or use of your information for "targeted advertising." You can opt out of having your information disclosed to these third parties by filling out our web form.
+
+You can also opt out by visiting our website with a legally recognized opt-out signal enabled (such as the Global Privacy Control).If you are not logged into your account with us, our processing of the signal will be limited to cookie-based sales, sharing, and targeted advertising for the specific browser or device that you are using.
+
+Transparency, Access, Correction, and Deletion
+
+You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information. Residents of Connecticut, Minnesota, Oregon, and Rhode Island also have the right to request a list of the third parties that receive personal information from us.
+
+To exercise any of these rights, please fill out this form or call our toll-free number at 1-866-315-9260. We will verify your request by asking you to provide certain information, such as your name, email address, and state of residence. You can also access and update certain account information and preferences stored within your online account by logging into your account at any time.
+
+Please note that Marketplace Sellers are independently responsible for the personal information they receive from us to fulfill your orders. If you would like to exercise privacy rights with respect to a Marketplace Seller’s own processing of your information, you may contact the seller directly; if you submit such a request to us, we will forward it to the applicable Marketplace Seller where feasible, but the seller is responsible for responding to it.
+
+Appeals
+
+If we deny your request, you may appeal our decision by contacting us at privacyrights@catalystbrands.com. If you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside.
+
+Nondiscrimination
+
+You have the right to not be discriminated or retaliated against for exercising any of your privacy rights.
+
+Authorized Agents
+
+Where required by law, you can designate an authorized agent to make an opt-out request on your behalf by following the process described in the Opt Out of Sales, Sharing, and Targeted Advertising section above.
+
+If you reside in California, you can designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please fill out this web form.
+
+Notice of Financial Incentives
+
+We provide discounts, reward coupons, exclusive offers, or other benefits to customers who join our loyalty program or sign up to participate in certain promotional campaigns. These offerings may constitute "financial incentives" or "bona fide loyalty programs" under certain state privacy laws (for simplicity, we refer to these collectively as "financial incentives"). If you participate in a financial incentive, we collect personal information from you, such as identifiers (like your name, email address, and phone number), commercial information (like your purchase history), and inferences drawn from your personal information (like your product preferences and interests). We disclose this information to our service providers, contractors, and consultants who perform services on our behalf, to our corporate affiliates, and to our marketing and advertising partners, including for the purposes of engaging in targeted advertising and other marketing activities.
+
+You can opt into a financial incentive by following the sign-up or participation instructions provided. You can withdraw from the financial incentive at any time by following the unsubscribe instructions in the applicable program's terms and conditions, promotional emails, or text messages, or contacting us at 1-800-322-1189. If you request that we delete any of your personal information that is essential to providing you with the financial incentive, we will not be able to provide you with the benefits of that program (e.g., if you ask us to delete your email address, we will no longer be able to provide you with early access to sales other benefits via email). In some cases, we may provide additional terms and conditions, which we will provide to you when you sign up. The value of your personal information is reasonably related to the value of the offer or discount presented to you.
+
+Shine the Light
+
+California's Shine the Light law permits residents of California to request certain details about how their information is disclosed to third parties for the third parties’ direct marketing purposes. Under the law, JCPenney must either provide this information or permit California residents to opt in to, or opt out of, this type of disclosure. JCPenney qualifies for this alternative option. To opt out of having information about you disclosed to our affiliates or other third parties for our affiliates’ or other third parties’ direct marketing purposes, please fill out this form.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please send us an email at privacyrights@catalystbrands.com or write us at: JCPenney, Attn: Legal Department (Privacy Office), 6501 Legacy Drive, Suite B-100, Plano, TX 75024

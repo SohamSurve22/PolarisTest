@@ -1,0 +1,488 @@
+Investors
+
+# Legal and privacy notices
+
+#### Last updated: April 2024
+
+Avery Dennison Corporation, together with its subsidiaries and affiliates (collectively, "Avery Dennison", "we" or "us") has issued this Global Data Privacy Notice (Notice) for visitors of our websites or platforms, for our customers and suppliers as well as other third parties listed below (also referred to as "you") to describe who we are, how we process your personal information and for which purposes, and the rights that you have in connection with such processing.
+
+This Notice applies in general to all instances where we collect and process personal information. In particular this Notice applies to personal information that we collect through our websites (“Website”) and personal information that we collect of our customers, suppliers, and other individuals through any other form of interaction whether online or offline
+
+We respect your privacy rights and are committed to handling your personal information responsibly and in accordance with applicable laws. The term personal information or information refers to any information that can be used to (directly or indirectly) identify you.
+
+### Contents
+
+1. Who are we?
+
+2. What personal information do we collect and why?
+
+3. Further use of personal information
+
+4. Who do we share your personal information with?
+
+5. Legal basis for processing personal information
+
+6. Cookies and similar tracking technology
+
+7. How do we keep your personal information secure?
+
+8. International data transfers
+
+9. Data retention
+
+10. Your data protection rights
+
+11. Additional information for US residents in certain states (including California)
+
+12. Third parties
+
+13. Selling or sharing personal information
+
+14. Access by children
+
+15. Updates to this privacy notice
+
+16. How to contact us
+
+Virtual patent marking
+
+### 1. Who are we?
+
+Avery Dennison is a company registered in the state of Delaware with a registered office at 8080 Norton Parkway Mentor, Ohio 44060, United States with subsidiaries and affiliates located across the world.
+
+The data controller responsible for your personal information collected through this Website is Avery Dennison. If you are purchasing products or services from, or selling products or services to, Avery Dennison, the data controller of your personal information collected in the context of such a business relationship will be the Avery Dennison entity that you are contracting with.
+
+Avery Dennison manufactures and distributes display graphics, labeling and packaging materials, retail graphic embellishments and RFID tags that companies around the world use to engage customers and efficiently manage their inventories. Our products are virtually everywhere you look, providing a crucial thread in the fabric of global commerce. For more information about Avery Dennison, please check the “Contact Us” section of this Website.
+
+### 2. What personal information do we collect and why?
+
+#### A. Website visitors
+
+Information that you provide voluntarily
+
+Certain parts of our Website may ask you to provide personal information voluntarily. For example, we may ask you to provide your contact details (including your name, title, company, address, telephone number and email address). We will use this information for the following purposes:
+
+-
+to improve our products and services;
+
+-
+to respond to online queries, supply requested information on Avery Dennison products, process and ship orders, fulfill online marketing offers, establish approved links and for internal market analysis;
+
+-
+to periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided;
+
+-
+to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize this Website according to your interests; and
+
+-
+for the specific purpose stated on forms on this Website.
+
+Information that we collect automatically
+
+When you visit our Website, we may gather certain information automatically from your device. In certain countries, including but not limited to countries within the European Economic Area (EEA) and the United Kingdom (UK), this data may fall under the category of personal information according to relevant data protection regulations.
+
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect information about how your device has interacted with our Website, including the pages accessed and links clicked.
+
+Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
+
+Some of this information is collected using cookies and similar tracking technology, as explained further in our Cookie Notice, which is linked under the heading “Cookies and similar tracking technology” below.
+
+#### B. Customers, Suppliers and other Business Partners
+
+If you are a current or prospective customer or supplier of ours (or if you are an employee, contractor, agent or other representative of a current or prospective customer or supplier of ours), we may collect and use the following personal information about you:
+
+-
+Identification data – such as your name, date of birth.
+
+-
+Professional details – such as your job title/position, employer, company registration number, and other information associated with your professional experience.
+
+-
+Financial characteristics – such as account number and bank details, invoice address.
+
+-
+National identifiers – such as tax ID and VAT number.
+
+-
+Information relating to your sales (or your employer's) history with us.
+
+-
+Other information you choose to provide to us, for example the purpose of your visit if you visit one of our site locations.
+
+-
+IP addresses or other information that we may collect from you if you visit our Website.
+
+We may collect and use this personal information about you for the following specific purposes:
+
+-
+For the purpose of general business relationship management within Avery Dennison, including contract performance and management; for example, to enable us to deliver our services to you (or your employer), or to audit the provision of services by you (or your employer) to Avery Dennison.
+
+-
+To manage our daily business activities, such as executing payments (or to set up a credit arrangement with you or your employer);
+
+-
+To manage any queries, complaints or claims relating to the services you (or your employer) provide to Avery Dennison or that Avery Dennison provides to you (or your employer);
+
+-
+For direct marketing, advertising and public relations purposes in connection with Avery Dennison's business activities, products and services (including to make recommendations about our services and products), and to inform you (or your employer) about important developments within Avery Dennison;
+
+-
+For product development purposes, to allow us to improve our products and services or develop new products and services;
+
+-
+Where necessary to comply with laws and regulations, under judicial authorisation, or to exercise or defend the legal rights of Avery Dennison group companies;
+
+-
+To help us conduct our business more effectively and efficiently or check and improve the quality of our products and/or services;
+
+-
+Where applicable, to enable vendors and contractors to access specific portals and forms within the Website requiring login details;
+
+-
+To carry out research and development with various Avery Dennison partners; and
+
+-
+To investigate violations of law or breaches of other Avery Dennison policies.
+
+#### C. Job Applicants
+
+When we source candidates, we minimize the personal information that we collect and process solely to what is necessary for the recruitment process. To learn more about how we process personal information of job applicants please read our Recruitment Privacy Notice.
+
+#### D. Visitors and people we connect with
+
+There might be occasions where we interact with people who are not regular contacts of ours. For example, we may hold events and have functions that may be attended by visitors and friends of friends. In such cases, we might collect and use personal information about you for the following specific purposes:
+
+-
+Identification data – such as your name, date of birth and video footage.
+
+-
+Professional details – such as your job title/position, employer, company registration number, and other information associated with your professional experience.
+
+-
+Other information you choose to provide to us, for example the purpose of your visit if you visit one of our site locations.
+
+We may collect and use this personal information about you for the following purposes:
+
+-
+For the management of our guest list.
+
+-
+For safety regulations and reasons related to emergency evacuations and roll calls.
+
+-
+Photos and video footage may be taken to document and promote our events, business and activities.
+
+### 3. Further use of personal information
+
+In general, we will use the personal information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect your personal information. However, we may also use your personal information for other purposes that are not incompatible with the purposes we have disclosed to you (such as archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes) if and where this is permitted by applicable data protection laws.
+
+### 4. Who do we share your personal information with?
+
+We may disclose your personal information to the following categories of recipients:
+
+-
+to our group companies, third party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information.
+
+-
+to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+
+-
+to an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice; and
+
+-
+to any other person with your consent to the disclosure.
+
+We will always ensure that any third parties with whom we share your personal information are subject to privacy and security obligations as required under applicable privacy and data protection laws.
+
+### 5. Legal basis for processing personal information
+
+Some jurisdictions, such as the European Economic Area, require specifying a legal basis for collecting and using your personal information in accordance with the applicable law.
+
+As described above, the processing of your personal information will depend on the specific context in which we collect it.
+
+We will normally collect personal information from you and process your personal information only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+
+In order to operate and communicate with you where necessary to provide our services, we may rely on our legitimate interests (or those of any third party). Additionally while responding to your queries, improving our services, conducting marketing activities or for the purposes of detecting or preventing illegal activities we may also rely on our legitimate interests. We may have other legitimate interests and if appropriate we will make it clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “How to contact us” section below.
+
+### 6. Cookies and similar tracking technology
+
+Cookies and similar tracking technologies, such as scripts, web beacons and tags (which together we refer to as “cookies”), are small bits of text, usually stored on a user’s computer hard drive or within a browser. They enable a website (and/or other websites which can recognise a cookie) to remember information about the user’s visit to that website.
+
+Cookies are used to make the website work, or to work more efficiently, as well as to provide information to the owners of the website.
+
+Such information may be used to provide a more personalized and responsive service. Cookies may be either first-party cookies set directly by us to your device, or third-party cookies set by a third-party provider on our behalf. Whenever you use this Website, information may be collected through the use of cookies and other technologies.
+
+We may use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice.
+
+### 7. How do we keep your personal information secure?
+
+We use appropriate technical and organizational measures to protect personal information that we collect and process about you. The measures we use are designed to provide an appropriate level of security to the risk of processing your personal information. Avery Dennison has a comprehensive security program with a focus on protecting personal information including data classification process. This way we ensure that access to your data is protected and granted solely on a need-to-know basis.
+
+### 8. International data transfers
+
+Your personal information may be transferred to, and processed in countries other than the country in which you live. These countries may have data protection laws that are different to the laws of your country.
+
+Specifically, our Website servers are located in the US, and our group companies and third party service providers and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.
+
+Some jurisdictions require the implementation of specific safeguards for transfers of personal information abroad. In order to ensure adequate protection of your personal information transferred to third countries, we have taken appropriate safeguards which include, among others, the implementation of the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies and to third parties, which require all companies receiving the information from the EEA and the UK to protect it in accordance with European Union (EU) or UK data protection laws, where applicable. We are also in the process of applying for Binding Corporate Rules that once implemented will ensure a significant level of protection for transfers of information between our group companies.
+
+### 9. Data retention
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+Whenever we collect your personal information based on your consent and you notify us of your decision to withdraw your consent, we will delete your information upon your request unless we are permitted (or required) to retain it under applicable data protection laws. Further, withdrawing your consent will not impact our use of your personal information collected for other purposes when based on a different legal ground, such as where we have a legal obligation to retain this information.
+
+### 10. Your data protection rights
+
+The rights pertaining to your personal information are governed by the legal frameworks in place in the jurisdiction in which you reside. Specific rights may vary based on the jurisdiction. This section aims to provide a broad overview of the rights you might have in relation to the personal information we collect and process.
+
+##### Global Rights Overview:
+
+Right of access to your personal information
+
+You have the right to ask us whether we hold any of your personal information and to provide you with a copy of any personal information data we hold about you.
+
+Right to rectify your personal information
+
+You have the right to request us to correct any inaccuracies in your personal information and to modify it in such a way if you believe the personal information we hold is incomplete or inaccurate.
+
+Right to erasure your personal information
+
+You have the right to request us to delete your personal information, provided that there are no other valid grounds that justify, under the applicable laws, the preservation of your personal information.
+
+Right to restrict processing of your personal information
+
+You have the right to request us to restrict the processing of your information in certain circumstances.
+
+Right to data portability
+
+You have the right to ask us to let you have a portable copy of the personal information we hold about you in certain circumstances.
+
+Right to object processing of your personal information
+
+You have the right to ask us to stop processing any of your personal information data that we process based on our legitimate interests in certain circumstances.
+
+Right to opt out of marketing communications
+
+You have the right to opt out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you or by contacting us.
+
+Right to opt out of sales
+
+You have the right to request that we stop selling or sharing your personal information (“opt-out”), including via a user-enabled global privacy control.
+
+Right to withdraw your consent
+
+You have the right to withdraw your consent at any time in the cases where we have collected and processed your personal information based on your consent. Note that withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+Non-Discrimination
+
+You have the right to be free from unlawful discrimination for exercising your rights. We do not discriminate based on an individual’s exercise of the rights granted to them under the applicable data protection laws.
+
+Right to lodge a complaint
+
+You also have the right to lodge a complaint with a data protection authority about our collection and use of your personal information or the right to an effective judicial remedy if you consider that your rights have been infringed.
+
+Exercising your rights
+
+If you wish to exercise any of these rights, please contact us at dataprivacy@averydennison.com or fill out our Data Subject Access Rights form.
+
+We respond to all requests from individuals wishing to exercise their data protection rights in accordance with the applicable data protection laws.
+
+We will consider all such requests and provide our response within a reasonable period (and, in any event, within one month of your request unless we are entitled to a longer period under applicable law).
+
+When exercising your rights, note that the law may also require (or permit) us to balance your rights and your request to exercise them, against our rights and obligations to use your personal information, as well as against the rights and freedoms of others.
+
+Verifying your request
+
+We may request proof to ensure that it is you exercising your rights. To verify your request, we match personal information data that you provide us against personal information data we maintain in our files. The more risk entailed by the request (e.g., a request for specific pieces of personal information), the more items of personal information we may request to reduce the risk that someone might try to impersonate you. If we cannot verify your identity to a sufficient level of certainty to respond to your request, we will let you know promptly and explain why we cannot verify your identity and what further information we might need from you in order to be able to properly verify your identity and comply with your request.
+
+### 11. Additional information for US Residents in certain states (including California)
+
+This section provides additional information to the residents of certain US states including California. This section completes our Privacy Notice by explaining your privacy rights if you are a resident in California, providing our ‘’notice at collection’’, and providing certain mandated disclosures about our treatment of California residents’ information both online and offline.
+
+Notice at collection
+
+We collected the following categories of personal information in the last 12 months:
+
+-
+Identification data - name, date of birth, and video footage;
+
+-
+Professional details - job title/position, employer, company registration number, and other information associated with your professional experience;
+
+-
+Financial information - account number and bank details, invoice address;
+
+-
+National identifiers - tax ID and VAT number;
+
+-
+Internet or other electronic network activity information - IP addresses or other information (such as the information generated through cookies) that we may collect from you if you visit our website.
+
+Sources of information
+
+-
+Directly from you as a U.S. resident and/or consumer - most of the personal information we collect is provided directly by you. This may occur when you subscribe to our newsletters, contact us for support or inquiries via email or phone, and visit our premises.
+
+-
+Automatically from your use of our services - we collect information automatically when you visit our website on any device, click on our ads or emails or interact with our social media pages.
+
+-
+From third parties - we receive information about you from other sources, including social media platforms, business partners, and service providers.
+
+Use of Personal Information
+
+We used the information we collected to:
+
+-
+Respond to online queries;
+
+-
+Improve our services and website;
+
+-
+Send promotional emails about new products, special offers or other marketing information;
+
+-
+Manage our business relationships;
+
+-
+Manage our daily business activities;
+
+-
+Research and develop our products and services;
+
+-
+Comply with laws and regulations under judicial authorisation or to exercise or defend the legal rights of Avery Dennison group companies;
+
+-
+Document and promote our events, business and activities.
+
+For more information, consult the “What personal information do we collect and why?” section under our Privacy Notice.
+
+Information Sharing and Disclosure
+
+In the last 12 months, we disclosed and shared our personal information, as described above, with the following entities:
+
+-
+Avery Dennison group companies - we disclosed your personal information to companies within our group for business purposes;
+
+-
+Service providers - we engage various service providers to assist us with services like website hosting, data analysis and statistics and email delivery;
+
+-
+Competent law enforcement body, regulatory, government agency or court - we have disclosed information when required by law or when the competent law enforcement, regulatory agencies and bodies or courts presented a valid request.
+
+For more information, consult the “Who do we share your personal information with?” section under our Privacy Notice.
+
+Selling information
+
+Considering the definition of “selling” under the CPRA, in the last 12 months, we “sold” your Internet or other electronic network activity information to advertising networks and data analytics providers, who perform services on our behalf, such as advertising and audience measurement.
+
+Children’s Privacy
+
+We do not “sell” personal information of known minors under 16.
+
+##### Your rights under the CPRA
+
+Right to Access
+
+If you are a California consumer, you can ask us twice a year for access to the categories and specific pieces of your personal information that we collect, use, disclose, and sell.
+
+Right to Delete
+
+If you are a California consumer, you have the right to request that we delete your personal information, subject to applicable legal exceptions.
+
+Right to rectify your personal information
+
+If you are a California consumer, you have the right to request us to correct any inaccuracies in your personal information and to modify it in such a way that you believe the personal information we hold is incomplete or inaccurate.
+
+Right to restrict processing of your personal information
+
+If you are a California consumer, you have the right to request us to restrict the processing of your information in certain circumstances.
+
+Right to Opt-Out of Sale of Personal Information
+
+If you are a California consumer, you can opt out of your personal information being sold to third parties as defined in the CPRA. To submit a request to opt out of the sale of your personal information, you may visit our “Do Not Sell My Data” page.
+
+Non-Discrimination
+
+You have the right to be free from unlawful discrimination for exercising your rights. We do not discriminate based on an individual’s exercise of the rights granted to them under the applicable data protection laws.
+
+Exercising your rights
+
+If you wish to exercise any of these rights, please contact us at dataprivacy@averydennison.com or fill out our Contact Avery Dennison form.
+
+We respond to all requests from individuals wishing to exercise their data protection rights in accordance with the applicable data protection laws.
+
+We will consider all such requests and provide our response within a reasonable period (and, in any event, within forty-five days of your request unless we are entitled to a longer period under applicable law).
+
+### 12. Third parties
+
+##### Social Media Pages
+
+We maintain publicly accessible profiles on social networks. The data you enter on our social media pages, such as comments, videos, pictures, likes, and public messages are published by the social media platform and are at no time used or processed by us for other purposes. We only retain the right to delete content if this should be necessary. We encourage you to consult the relevant social media platforms’ terms of use and privacy policy to learn how the network handles your personal information.
+
+Facebook
+
+For certain Facebook advertising services, Facebook Ireland (Meta) is a Joint Controller (as defined in the GDPR) and that information required under the GDPR related to such processing can be found at https://www.facebook.com/about/privacy. We work with Facebook and use their advertising services to measure and improve our ads and marketing efforts, as well as to display more relevant advertising to you. For further information on how Facebook Ireland processes your personal information, including the legal basis, and the ways to exercise your rights, please visit https://www.facebook.com/about/privacy.
+
+Instagram
+
+For certain Instagram advertising services, Instagram (Meta) is a Joint Controller (as defined in the GDPR) and that information required under the GDPR related to such processing can be found at https://privacycenter.instagram.com/policy. We work with Instagram and use their advertising services to measure and improve our ads and marketing efforts, as well as to display more relevant advertising to you. For further information on how Instagram processes your personal information, including the legal basis, and the ways to exercise your rights, please visit https://privacycenter.instagram.com/policy.
+
+Youtube
+
+Our sites may use YouTube to make content in video format available to you. By accessing a part of the sites where videos are available, watching an embedded video, or otherwise interacting with any content made available through YouTube, you signify your agreement with YouTube’s terms and conditions. YouTube collects and otherwise has access to usage data (e.g., what videos you accessed and watched) through videos embedded in the Services as further described in YouTube’s Privacy Policy. YouTube adheres to Google's privacy policies and principles, part of which allow you to control certain privacy settings and which data are collected. For more information, please visit https://www.youtube.com/howyoutubeworks/user-settings/privacy/.
+
+X (formerly known as: ‘’Twitter’’)
+
+For certain X advertising services, X is a Joint Controller (as defined in the GDPR) and that information required under the GDPR related to such processing can be found at https://twitter.com/en/privacy. We work with X and use their advertising services to measure and improve our ads and marketing efforts, as well as to display more relevant advertising to you. For further information on how X processes your personal information, including the legal basis, and the ways to exercise your rights, please visit https://twitter.com/en/privacy.
+
+LinkedIn
+
+For certain LinkedIn advertising services, LinkedIn is a Joint Controller (as defined in the GDPR) and that information required under the GDPR related to such processing can be found at https://www.linkedin.com/legal/privacy-policy. We work with Instagram and use their advertising services to measure and improve our ads and marketing efforts, as well as to display more relevant advertising to you. For further information on how LinkedIn processes your personal information, including the legal basis, and the ways to exercise your rights, please visit https://www.linkedin.com/legal/privacy-policy.
+
+##### Analytics and other third-party tools
+
+We may use third-party tools to monitor and analyze the use of our websites, and to automate certain processes related to the development and operation of our websites.
+
+Google Analytics
+
+For more information on how Google uses statistics about a website’s traffic data, including data generated when you visit our website, visit Google’s Privacy Policy and Google’s page on How Google uses data when you use our partners' sites or apps. To prevent this data from being used by Google Analytics, follow the instructions to download and install the Google Analytics Opt-out Browser Add-on for each browser you use. Using the Google Analytics Opt-out Browser Add-on will not prevent us from using other analytics tools and will not prevent data from being sent to the Site itself or to Google. For more information about how Google Analytics uses cookies to measure user interactions on websites, visit Google Analytics Cookie Usage on Websites. You may disable cookies as discussed below, but that may impact your use and enjoyment of the Site. You may opt out to Hotjar’s creation of a user profile, Hotjar’s storing of data about your usage of the Site, and Hotjar’s use of tracking cookies on other websites by opting out here.
+
+Google Maps
+
+Our Sites may include Google Maps features and content. Google Maps features and content is subject to the then-current versions of Google Maps/Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html and Google Privacy Policy at https://www.google.com/policies/privacy/.
+
+Youtube
+
+Our sites may use YouTube to make content in video format available to you. By accessing a part of the Sites where videos are available, watching an embedded video, or otherwise interacting with any content made available through YouTube, you signify your agreement with YouTube’s terms and conditions. YouTube collects and otherwise has access to usage data (e.g., what videos you accessed and watched) through videos embedded in the Services as further described in YouTube’s Privacy Policy. YouTube adheres to Google's privacy policies and principles, part of which allow you to control certain privacy settings and which data are collected. For more information, please visit https://www.youtube.com/howyoutubeworks/user-settings/privacy/.
+
+### 13. Selling or sharing personal information
+
+We do not sell or share sensitive personal information, nor do we sell or share any personal information about individuals who we know are under sixteen (16) years old, nor do we share your information for purposes of cross-contextual behavioral advertising as defined under the CPRA. In the event we begin selling personal information (1) this Notice will be updated to reflect that fact and you will be notified of such update and (2) if required under the CPRA, you will be provided the ability to opt out of the sale of your personal information or the sharing of your personal information for cross-contextual behavioral advertising purposes (as may be applicable).
+
+### 14. Access by children
+
+Our data collection done pursuant to this Notice, is not directed at children under 16 years of age. We do not knowingly collect or use information from children under 16 in our data collection practices under this Notice.
+
+### 15. Updates to this privacy notice
+
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.
+
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this page.
+
+### 16. How to contact us
+
+If you have any questions or concerns about our use of your personal information, please contact us at dataprivacy@averydennison.com.
+
+If you wish to exercise any of your privacy and data protection rights, please visit Section 10 of this Notice.
+
+### Virtual Patent Marking
+
+Avery Dennison’s EPC Class 1, Generation 2 UHF RFID products are licensed under one or more of U.S. Patent Nos. 8,228,198, 9,272,805, 9,798,967, and/or 10,552,720. See product listing here.

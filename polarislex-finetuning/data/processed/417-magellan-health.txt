@@ -1,0 +1,207 @@
+# Privacy Policy
+
+Notice:
+
+MagellanHealth.com is a service of Magellan Health, Inc. (Magellan). Please read the “Our Company” section on this site for more information about Magellan Health.
+
+## Last updated: 2/6/26
+
+If you are a member of a health plan, including State Medicaid programs, please consult your health plan’s HIPAA Notice of Privacy Practices for more information about how your protected health information (PHI) is handled.
+
+## PRIVACY POLICY
+
+Your privacy is important to us. This Privacy Policy describes the types of information Magellan Health, Inc. and its subsidiaries and affiliates (“Magellan”) collect from and about you online, when you visit our website or use one of our sponsored mobile applications (collectively, our “Websites”) and offline, for example at in person events (collectively, the “Services”). This Privacy Policy also explains how we may use and disclose such information. Please note, Magellan includes many different brands. When you visit or create an account on a Magellan Website, your personal information is controlled by an affiliate of Magellan Health, Inc. The list of relevant Magellan affiliates to which this policy applies consists of Magellan Health, Inc. and all subsidiaries including but not limited to: Magellan Healthcare, Inc., Magellan Behavioral Health Systems, LLC; Magellan Health Services of California, Inc.-Employer Services; Human Affairs International of California; Magellan Behavioral Health of Pennsylvania, Inc; Magellan Behavioral Health Providers of Texas, Inc.; Magellan Complete Care of Louisiana, Inc.; Magellan Health QIO, LLC; and Magellan Federal, Inc.; (collectively ‘Magellan’).
+
+IT IS IMPORTANT THAT YOU READ THIS PRIVACY POLICY CAREFULLY. By accessing, browsing, and/or using the Websites, you accept and agree to be bound by this Privacy Policy and the Terms of Use and Disclaimer (“Terms and Conditions”). If you do not agree to all of the Terms and Conditions, do not access or use the Websites. We may revise and update the Terms and Conditions from time to time with or without notice. Your continued use of the Websites means you accept those changes.
+
+## INFORMATION COLLECTION
+
+We may obtain information about you in a number of ways, including through (A) information you provide to us directly; (B) information we collect when you create an account; (C) information we receive from third parties; and (D) information we automatically collect.
+
+### 1. Information You Provide
+
+We collect information from you when you choose to share it with us, such as when you request information about Magellan, register or create an account with or through the Websites, or otherwise communicate with or contact us (such as through any available Website chat function). In the course of these interactions, you may provide us with biographical and demographic information (including, but not limited to, your name, address, email address, phone number, date of birth, gender, and ethnicity); financial or insurance information to complete a transaction; inferences drawn from other personal information listed above to create a profile reflecting your preferences, characteristics, behavior, attitudes, and abilities; and information collected from industry, customers, providers and patient groups and associations.
+
+If you are a healthcare professional, we may also collect professional credentials (including educational and professional history, institutional and government affiliations, and information included on a resume or curriculum vitae); details about our interactions with you via any medium; publicly-available information related to your practice; and information shared with us by health plans, health plan members, customers or insurers. If you are a healthcare professional who is a resident of California, we may also collect identifiers, categories of personal information listed in the California Customer Records statute, and protected classification characteristics under California or federal law. Please see the California-specific “CCPA Privacy Notice for Health Care Providers Who Are California Residents” for more details, which is available here.
+
+If you are a Magellan employee who is a resident of California, we may also collect identifiers, categories of personal information listed in the California Customer Records statute, protected classification characteristics under California or federal law, biometric information, internet or other electronic network activity, geolocation data, audio/video information, employment-related information, and inferences drawn from any of the information identified above. Please see the California-specific “CCPA Privacy Notice for Magellan Employees Who Are California Residents” for more details, which is available here.
+
+If you are a client of one of our Magellan Federal program offerings who is a resident of California, we may also collect identifiers, categories of personal information listed in the California Customer Records statute, and protected classification characteristics under California or federal law. Please see the California-specific “CCPA Privacy Notice for Federal Clients Who Are California Residents” for more details, which is available here.
+
+### 2. When you create an account
+
+We collect information from you when you create an account on one or more of our Websites including a username and password that you select to establish an account.
+
+If you create a member or beneficiary account, or a plan administrator account, we may collect your first and last name; email address; physical address; phone number; date of birth; member or beneficiary ID; and eligibility data.
+
+If you are a healthcare professional or other independent provider, we may collect your first and last name; work address; work phone number; fax number; email address; date of birth; Taxpayer Identification Number, and National Provider Identifier.
+
+### 3. Information we collect from third parties
+
+We may collect information about you from third parties such as healthcare professionals; data brokers; insurance companies; third party administrators; health plans; service providers; vendors; affiliates; business partners; customers, social media and marketing platforms; and government agencies or public records.
+
+If your employer uses Magellan for benefit administration services, Magellan may collect information from your employer or a benefits administrator. In those cases, most questions about how your information is handled should be directed to your employer.
+
+From time to time, we may use or augment the personal information we have about you with information obtained from other sources, such as public databases, social media platforms and other third parties. For example, we may use such third party information to confirm or verify licensure of healthcare professionals or to better understand your interests by associating demographic information with the information you have provided.
+
+### 4. Information Automatically Collected
+
+If you use our Websites, certain information may be collected from your computer or device during your interaction with the Websites. When you interact with our Websites we may collect your IP address; browsing history; search history; and information on interaction with our Website. We, as well as service providers, may use a variety of technologies, such as cookies, widgets, web beacons, and log files (see definitions below), to automatically or passively collect certain information about your online activity on the Websites. This information is used, for example, to help us (1) understand who is using the Websites and how (e.g., by measuring the number and frequency of visitors to the different sections of our Websites); (2) remember your information so you do not have to re-enter it; (3) make our Websites more useful to our visitors and users; and (4) otherwise manage and enhance our products and services.
+
+- Cookies: Cookies are a collection of information sent by a website to a user’s computer, and then sent back each time the user accesses that website. Cookies help us understand how you navigate around the Websites. Most web browsers enable you to control whether or not you want to receive cookies or notify you when a website is about to deposit a cookie file. Please refer to your device’s settings or your browser “Help” section for more information on how to delete and/or disable your browser from receiving cookies. However, blocking or deleting cookies may create a less-than-optimal user experience on the Websites.
+
+- Widgets: Magellan may allow social media companies (e.g., Facebook) to put “widgets” on Magellan websites. These third-party tools may also be used to track you across websites. For example, so long as you are logged in to Facebook, every time you land on a webpage that has a Facebook widget, Facebook will know you are on that webpage. Magellan does not control the privacy practices of these third parties.
+
+- Web beacons: Web beacons are small pieces of data that are embedded in images on a website. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its Privacy Policy.
+
+- Log Files: Log files are pieces of information that let us know how users are accessing the Websites. For example, each time you visit a Magellan website, we may create a log file that tells us that someone visited the page. We may use log files to create aggregate reports of Website activity, which means we may take that information and add it together to report on all Website activity.
+
+## INFORMATION USE
+
+Magellan may use the information we collect from and about you for a number of purposes. Some examples of the ways we may use that information include:
+
+- Providing you with the services, Websites, experience, products, and information you request, view, and engage with.
+
+- Fulfilling our obligations under contracts with our customers, including insurance providers, health plans, governmental agencies and employers.
+
+- Managing our relationship with you.
+
+- Customizing your experience on the Websites, including managing and recording your preferences.
+
+- Marketing, product development, and research purposes.
+
+- Reviewing and developing reports regarding usage, activity, and statistics, including to conduct analysis to enhance or improve our content, products, and services.
+
+- Acting at your direction and with your consent.
+
+- Providing you with access to particular tools and services and enabling certain functions and tools on the Websites.
+
+- Managing your account.
+
+- Responding to your inquiries and requests and sending you administrative and other communications.
+
+- For other purposes disclosed at the time you provide your information or otherwise with your consent.
+
+- Protect against fraud, suspicious, or other illegal activities.
+
+We do not sell your personal information or transfer personal information to third parties to use for their own benefit; however, we allow certain companies to place tracking technologies like cookies on our Websites. Those companies receive information about your interaction with our Websites that is associated with your browser or device to improve your experience. For more information about “cookies” and other tracking technologies please see the section of this Privacy Policy titled, Information Automatically Collected in Section 4 above.
+
+## INFORMATION SHARING
+
+Magellan may share your information as follows:
+
+- Legal Matters: We may access and disclose your information to respond to subpoenas, regulatory or judicial processes, or government requests and investigations, or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
+
+- Prevent Fraud or Misuse: We may disclose your information to protect the security of our Websites, servers, network systems, and databases. We also may disclose your information as necessary if we believe that there has been a violation of our Terms and Conditions, any other legal document or contract related to our Websites, or the rights of any third party.
+
+- Safety: We may access and disclose your information to protect any individual’s personal safety, health, or welfare, including, without limitation, if you threaten to harm yourself or others, we have reason to believe that abuse or neglect might be occurring, or otherwise in the event of a medical emergency. In such instances, we will notify the appropriate authorities, which may include law enforcement, medical or other emergency personnel, or a potential victim.
+
+- Payer/Healthcare Organization: To your payer/healthcare organization or others responsible for the payment of healthcare or other services to you.
+
+- Sale or Transfer of Business or Assets: In the event of a sale or change in corporate control, for example, a merger, a sale of assets, or bankruptcy, information we have collected from and about you may be transferred. Should such a sale or change in corporate control occur, we will use reasonable efforts to try to require that the transferee use and disclose your information in a manner that is consistent with this Privacy Policy.
+
+- Affiliates and Service Providers: We share your information with our affiliates, business partners, vendors, suppliers, agents and other service providers that provide business, professional, or technical support functions for us, help us operate our business and the Websites, or administer activities on our behalf. We request that such third parties maintain the confidentiality of your information.
+
+- Healthcare Providers and Organizations: We may share your information with your healthcare providers and other healthcare organizations or professionals in connection with the provision of care to you, including:
+
+- To a provider/healthcare organization or healthcare professional who has referred you to the Websites ancillary to your treatment, or to whom you are referred.
+
+- To an organization providing you access to the Websites, if applicable, as part of a health, wellness, or insurance program.
+
+In this case, the use of your personal information by any such third party shall also be subject to the terms of the privacy statement issued by that third party.
+
+- Aggregate or Anonymous Information: We may also share aggregate or anonymous information with our business partners and other third parties including without limitation for research, audit, treatment, marketing, or program evaluation.
+
+- De-Identified Information: We may also share de-identified information, which is not linked to any information that can identify any individual person, without restriction.
+
+- Other: We also may share your information as disclosed to you at the time of collection, or otherwise with your consent.
+
+## YOUR ACCOUNT AND EMAILS
+
+Please note that individualized information transmitted by you via email correspondence between you and Magellan — as opposed to transmission over the Websites — is not encrypted. As a result, like most, if not all, non-encrypted Internet email communications, such email correspondence may be accessed and viewed by other Internet users without your knowledge and permission while in transit. For that reason, to protect your privacy, if you have concerns about treatment, or questions that would involve the communication of confidential/personal health information, please call us or your physician or other healthcare professional.
+
+Website accounts may require that you create a user ID and/or password. It is very important that you do not share your user ID and/or password with anyone, and also that you give thought to any person(s) who may have access to your account. You are responsible for all activity that occurs under your account.
+
+## INTEREST BASED ADVERTISING
+
+Magellan may use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our Websites. They may collect information about your visits to our Websites, and your interaction with our products and Services. They may also use information about your visits to send you targeted advertisements for goods and services. We may also share Website usage information about visitors to our Websites with selected third parties for the purpose of targeting our Internet banner advertisements on our Websites and other websites. Such third parties may have access to and use information about your online usage activity. The use of advertising cookies is standard for commercial activity in the Internet industry.
+
+To learn how to opt-out of having the information collected from you used for interest based advertising purposes on the particular device on which you are accessing this Policy, please visit https://thenai.org/how-to-opt-out/ and http://www.aboutads.info/choices/.
+
+## MARKETING
+
+You can opt-out of our use and disclosure of your personal information for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Upon requesting an opt out, your consent will be withdrawn; however, please note that it often takes some time to process these requests. Therefore, it is possible that you may receive promotions scheduled prior to our receipt of your withdrawal of consent.
+
+You may also unsubscribe from receiving marketing or other commercial emails by following the instructions included in the email. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.) To opt-out of any other promotional mailings from Magellan and our partners or affiliates you may notify us at Compliance@MagellanHealth.com. We may also provide additional methods for you to opt-out of having your personal information used or disclosed for promotional and marketing purposes.
+
+Please note, even if you opt out of receiving marketing or commercial communications, we retain the right to send you non-marketing communications such as correspondence about your existing relationship with us, for example notifying you of updates to our Privacy Notice or Terms of Use.
+
+## SECURITY
+
+A range of security features protect the privacy of information provided over a secure sign-in to the Magellan Websites, including cryptographic security and other security safeguards. Magellan also uses physical, technical, and administrative safeguards to protect the information collected from and about Website users. Only authorized employees and third parties have access to that information and only to provide service to you. Please note, the confidentiality of Personal Information transmitted over the Internet cannot be guaranteed. Magellan urges you to exercise caution when transmitting Personal Information over the Internet. Magellan cannot guarantee that unauthorized third parties will not gain access to your Personal Information; therefore, when submitting Personal Information to Magellan online, you must weigh both the benefits and the risks.
+
+## DATA TRANSFERS
+
+Any personal information you provide to us may be stored and processed, transferred between and accessed from the United States where we are headquartered.
+
+## RETENTION
+
+We retain personal information for as long as is necessary for the processing purpose(s) for which the data was collected, and any other permissible, related purpose. When we no longer need the personal information we collect, we either deidentify the information or securely destroy the information.
+
+## LINKED SITES
+
+The Websites may have links to other websites and applications that we think might be useful or of interest to you. We are not responsible for, and do not endorse the privacy practices or the content of, those linked websites and applications. We urge you to review the privacy policies of any websites and applications you visit once you leave the Websites.
+
+## CHILDREN’S PRIVACY
+
+Magellan and/or its third-party service providers may offer services that are primarily targeted to children. As a result, we and/or the third-party service provider may collect information from children. Below we summarize when personal information may be collected from children, and how and when parental notice will be provided and/or parental consent will be obtained.
+
+In certain situations, and at the suggestion of an appropriate professional, children can access or download and use a mobile application provided by a third-party service provider. The app will ask for parent or guardian consent during the enrollment process. In the consent, the app will explain what information is being collected, how it is planned to be used, and how the parent or guardian can provide consent.
+
+We will share and disclose personal information collected from children in limited circumstances only: (1) with our service providers, if necessary for them to perform a business, professional, or technology support function for us; (2) if required or permitted by law, such as in response to a court order or subpoena, or to protect our rights and the rights of others; and (3) as otherwise permitted or authorized by the parent or guardian, such as to the healthcare provider or other individual designated by the parent, guardian, or child themselves if they have reached the age under state law where they control the use/disclosure of the particular information.
+
+If we collect personal information from a child, we will retain that information so long as reasonably necessary to fulfill the activity request or allow the child to continue to participate in the activity, to ensure the security of our users and our services, as allowed or required by law or contract, or for data retention or recovery purposes.
+
+## PARENTAL CHOICES AND CONTROLS
+
+At any time, a parent or guardian may stop their child’s use of the mobile app, and upon the child’s nonuse of the mobile app no further collection or use of the child’s personal information will occur.
+
+Parents or guardians can contact us at Compliance@MagellanHealth.com to request access to or to change their child’s personal information. Please include the child’s username and the parent’s or guardian’s email address and telephone number. To protect children’s privacy and security, we will take reasonable steps to help verify a parent’s or guardian’s identity before granting access to any personal information.
+
+Parents and guardians are responsible for providing supervision of their minor children’s use of the mobile app. Parents and guardians assume full responsibility for ensuring that all information supplied by or on behalf of their minor children is kept secure and is and remains accurate.
+
+## YOUR RIGHTS
+
+You may have certain rights and choices regarding our processing of your Personal Information. Depending on your jurisdiction, applicable law may entitle you to additional consumer rights, including the right to:
+
+- Know the categories and/or specific pieces of Personal Information collected about you, including whether your Personal Information is sold or disclosed, and with whom your Personal Information was shared
+
+- Access a copy of the Personal Information we retain about you
+
+- Request correction or deletion of your Personal Information
+
+We reserve the right to verify your identity in connection with any requests regarding Personal Information to help ensure that we provide the information we maintain to the individuals to whom it pertains and allow only those individuals or their authorized representatives to exercise rights with respect to that information. If you are an authorized agent making a request on behalf of a consumer, we may require and request additional information to verify that you are authorized to make that request.
+
+Magellan may not be able to comply with a request where Personal Information has been destroyed, erased or made anonymous in accordance with Magellan’s record retention obligations and practices. In the event that Magellan cannot provide an individual with access to his/her Personal Information, Magellan will endeavor to provide the individual with an explanation, subject to any legal or regulatory restrictions.
+
+We will not restrict or deny you access to our Magellan products and services or otherwise discriminate or retaliate because of choices and requests you make in connection with your personal information. Please note, certain choices may affect our ability to deliver our services. For example, if you ask us to delete your information, we will not be able to send you communications about our services and other offerings.
+
+To submit a request, please contact us via Compliance@MagellanHealth.com.
+
+## REVISIONS TO THIS PRIVACY POLICY
+
+Magellan is always looking to offer expanded features and functions that make healthcare more efficient and accessible. As additional features and functions are added, updates to this Privacy Policy may be necessary, and we reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Websites. Each time you visit this website or any Magellan website it is your responsibility to review the most current Terms and Conditions and any other policies, restrictions, conditions and notices on this website or any Magellan website you access. By accessing, browsing, and/or otherwise using the Websites following the posting of changes, you accept and agree to be bound by those changes.
+
+## CONTACT US
+
+If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at Compliance@MagellanHealth.com or 800-424-7721. Alternatively, letters may be mailed to the following address:
+
+Privacy Office
+
+Magellan Health, Inc.
+
+13500 Riverport Dr., Suite 110
+
+Maryland Heights, MO 63043
+
+All communications should include the individual’s name and contact information and a detailed explanation of the request. Magellan will endeavor to respond to all reasonable requests in a timely manner and within any time limits prescribed by applicable law.

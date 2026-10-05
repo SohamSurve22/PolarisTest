@@ -1,0 +1,382 @@
+English
+
+# Global Privacy Notice
+
+Last Updated: February 24, 2026
+
+## Contents
+
+1. Purpose and Scope
+
+2. Personal Data We Collect
+
+3. How Your Personal Data is Collected
+
+4. How We Use and Share Your Personal Data
+
+5. Your Privacy Rights and Choices
+
+6. Links to Other Services
+
+7. Security of Our Services
+
+8. Retention of Personal Data
+
+9. Children’s Privacy
+
+10. Additional Information for US Consumers
+
+11. Additional Information for Visitors from Outside the United States
+
+12. Changes to this Privacy Notice and Contacting Us
+
+## 1. Purpose and Scope
+
+At Cardinal Health, we value that our customers, business partners, patients, and employees trust us with their Personal Data. This Privacy Notice (“Privacy Notice”) tells you about our privacy practices, including what Personal Data we collect and how we may use, share, or manage it when engaging with us online through our websites, mobile applications, social media pages, customer services, in-person events, if you are visiting one of our offices, or from 3rd party sources (collectively, “Services”). It also explains your rights and choices regarding the Personal Data you give us. Some of our affiliates and business units have their own privacy notices for their own websites, mobile apps, or other services. This Privacy Notice only applies to them when they link to, or provide you with, this Privacy Notice. Please review this Privacy Notice carefully before using our Services or sharing any Personal Data with us. .
+
+Throughout this Privacy Notice, we use the following defined terms:
+
+- “Cardinal Health,” “we,” “us,” or “our” refers to the business that is responsible for the management of your Personal Data (often referred to as a data controller). This is usually the business that collects your Personal Data. For a list of Cardinal Health data controllers by country, please click here: Cardinal Health Affiliates/Data Controllers
+
+- “Personal Data” refers to any information that directly or indirectly identifies you specifically. Data that is indirectly identifiable includes, for example, data that can be used to identify you as an individual when combined with other pieces of information that is reasonably available. Personal Data does not include information that is publicly available, de-identified, or aggregated, such that it can no longer be used to identify you as an individual.
+
+If you have any questions about this Privacy Notice, please email privacy@cardinalhealth.com.
+
+When you use our Services and give us your Personal Data, you agree that we will process your Personal Data in accordance with this Privacy Notice, including any terms specific to your location. If you do not agree with the practices described in this Privacy Notice, please do not give us your Personal Data or use our Services. Where required by applicable law, we will not collect, use, or disclose your Personal Data without first obtaining your consent.
+
+If you are in the United States, please note this Privacy Notice does not apply to our use, collection, or disclosure of Protected Health Information (“PHI”) under the Health Insurance Portability and Accountability Act (“HIPAA”). Some of our affiliates and business units have a HIPAA Notice of Privacy Practices as required under HIPAA which governs their use, collection, and disclosure of PHI. In the event of any conflict with this Privacy Notice, the Notice of Privacy Practices will control.
+
+This Privacy Notice is available to persons with disabilities. Access this Privacy Notice in an alternative, downloadable format.
+
+## 2. Personal Data We Collect
+
+Depending on how you use our Services, we may collect different kinds or amounts of Personal Data about you. This could include any or all of the types of Personal Data that follow.
+
+- Identifiers , such as your name, contact details, account number, registration information (including username and password), government-issued identification number, payment details, and IP Address and other online identifiers
+
+- Internet Activity Information, such as how you interact with our Services, social media pages, or marketing and advertising, the websites that refer you to us, the pages you visit, links or buttons you click, your browser or device type, internet service provider, and user preferences. For additional information about how we collect Internet Activity Information, see below under “Personal Data Collected through Automated Means.”
+
+- Commercial Information, such as purchase and order history, as well as payment or other financial information
+
+- Audio, Electronic, Visual, or Similar Information, such as call or video recordings, including through the use of CCTV if you visit one of our offices, pictures taken at our events, email or text exchanges, direct messages you exchange with us, and chat logs from your communications with us
+
+- Sensitive Personal Data, as set forth under some data protection laws, including account access credentials (like usernames or account numbers combined with password or other security/access code to access an account), debit and credit card information, and medical or health information
+
+- Any other information you voluntarily provide to Cardinal Health
+
+## 3. How Your Personal Data is Collected
+
+When you use our Services, we may collect Personal Data from you, your browser or device, and other sources, which are described in more detail below.
+
+### Personal Data Collected from You
+
+We may ask you to provide Personal Data at different times and places on our Services. For example, we may collect Personal Data from you when you:
+
+- Register or create an account
+
+- Purchase products
+
+- Subscribe to, or interact with, our email updates and newsletters, such as our “Essential Insights” newsletter
+
+- Respond to a voluntary survey
+
+- Contact customer service or make use of our customer support tools
+
+- Connect with, link to, or “share” our Services via social media
+
+- Register for or attend one of our in-person events or congresses
+
+- Provide ratings, reviews, or feedback
+
+- Apply for a job at Cardinal Health (more information about how we manage job applicant Personal Data, including our job applicant privacy notice, is available at https://jobs.cardinalhealth.com during account signup)
+
+Please be aware that we may not be able to manage your account or provide you with the products or services you request if you do not give us Personal Data that is marked as required. You also may not be able to use all features of our Services.
+
+If you give us Personal Data of another person, make sure they have seen this Privacy Notice and that you have their permission before giving their Personal Data to us.
+
+### Personal Data Collected through Automated Means
+
+Device or Browser: Certain information is automatically collected from your device or browser and analyzed when you interact with our Services, our marketing or advertising, our social media pages, and our email communications. Some of this information is collected by others on our behalf.
+
+Cookies and Other Tracking Technologies: We use cookies, web beacons/pixel tags, and other tracking technologies (collectively, “cookies”) to recognize you when you visit our websites or mobile apps. Cookies are small bits of data cached or stored on your computer or mobile device. These cookies may be delivered in a first-party or third-party context. For example, we may collect information about your browser type and version, operating system, user language, viewed web pages, links that are clicked, IP address, screen resolution, and web pages visited before and after visiting our websites or mobile apps. Our emails to you also may contain tracking technologies to help us understand when you open an email or click links within it.
+
+By collecting this information, we can better understand how you interact with us; give you a more personal and optimized online experience by recognizing your preferences; improve our Services; fulfill contracts with our business partners; help confirm receipt of and response to our emails; and provide more effective customer service. For more information on the cookies we use and your choices related to them, please visit our Cookie Policy.
+
+### Personal Data Collected from Other Sources
+
+We may also receive your Personal Data from various other sources, such as our affiliates, advertising networks, business partners, contractors, data analytics providers, or social media networks.
+
+## 4. How We Use and Share Your Personal Data
+
+We use Personal Data for:
+
+- Managing, Operating and Improving our Services, including providing the website, mobile application, or social media page you are interacting with, or facilitating access to an event you are attending
+
+- Customer Service, including answering your questions or responding to your requests
+
+- Communications, such as sending you reminders or updates, administrative messages, service bulletins, informational materials about Cardinal Health or our business partners, educational materials, or other information you request
+
+- Fulfillment, including creating your online account, processing purchase orders, or tracking and keeping you informed about your order status
+
+- Customer Experience, including serving content and allowing you to use interactive features; developing our products and services; performing analytics and conducting customer research; validating your eligibility to access or use certain products or services, such as those only available to healthcare professionals
+
+- Personalization, such as when you set your preferences on our Services or when we enhance our data to better understand you and your interests
+
+- Direct Marketing, including sending you information about offers, promotions, or our products or services we think might interest you
+
+- Promotions, including administering our online surveys or special offers or those of our business partners
+
+- Security and Integrity, including fraud prevention, public safety, or enforcement of our policies and procedures
+
+We may disclose any Personal Data we collect to the following recipients for the purposes outlined above:
+
+- Our Affiliates and Business Partners. Our affiliates and business partners may use your Personal Data for the purposes described above. For example, we sometimes operate as a service provider to our business partners and will disclose Personal Data we collect on their behalf with them.
+
+- Service Providers. We engage contractors, suppliers, and other vendors who provide services on our behalf and at our instruction, such as assisting with processing and fulfilling orders; delivery and logistics; data storage; fraud prevention; data and Services analytics, including the placement and use of cookies; our communications, advertising, and marketing, including the effectiveness of our advertising and marketing efforts; or other services in support of our business.
+
+- Advertising Partners. We partner with third parties who assist us in serving advertising regarding the Services to others who may be interested. These third parties may use tracking technologies to collect or receive information from the Services and elsewhere on the internet and use that information to provide measurement services and target ads. Third parties may allow other companies to access information about you so that they may market other products you may be interested in.
+
+We may use and disclose any Personal Data as reasonably necessary to comply with the law or our legal requirements, cooperate with and respond to law enforcement requests, or as otherwise required by applicable law, court order, or government regulations. We also use Personal Data we collect as necessary to maintain appropriate records for internal administrative purposes, to protect our rights and interests or those of others, to resolve any disputes, to enforce our policies, or to prevent harm. Any Personal Data we collect may be provided to our professional advisors, including accountants, auditors, consultants, and lawyers, when reasonably necessary for our professional advisors to perform services for us and give us appropriate advice. Any and all Personal Data we collect may be given to another company in the event of a sale, merger, or other acquisition of some or all of our assets or business, including in the event of a bankruptcy, or as part of the negotiation or evaluation of such sale, merger, or other acquisition.
+
+## 5. Your Privacy Rights and Choices
+
+Direct Marketing: You may choose to opt out of receiving direct marketing, commercial emails, and other educational materials from us about our products and services by following the instructions contained in the communications we send or, at any time, by signing into your account and adjusting your communication preferences. Please allow five (5) business days for your request to be processed. Please also note that even if you unsubscribe, we may still send you transactional or administrative communications, including, for example, to manage any account you have with us, respond to your requests, execute agreements with you, provide you with products you order, and manage your transactions.
+
+If you are located in the European Economic Area or United Kingdom, we only send direct marketing with your consent, unless otherwise permitted by applicable law.
+
+SMS Marketing. Consent to receive automated marketing SMS messages (“Short Message Service” or text message) is not a condition of any purchase. You can opt-out of receiving commercial text messages via by responding to any of our text messages with any of the following replies: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT. If you opt-out, we may still send you messages regarding the status of your orders and other service-related communications. Cardinal Health does not sell your SMS consent and only shares such SMS consent information with third parties as necessary to facilitate text message delivery (i.e., with our technology partners).
+
+Cookies and Tracking Technologies: You may disable certain cookies and tracking technologies at any time by adjusting your browser settings or taking other actions to opt out of cookies and tracking technologies. Please be aware, however, that if you disable cookies, you may not be able to take full advantage of all of the features of our Services. For more information on how to control and disable cookies, please visit our Cookie Policy.
+
+Privacy Rights under Certain Laws: In some locations, including the European Economic Area, the United Kingdom, and certain US states (listed below), privacy or data protection laws may give you certain rights with respect to your Personal Data. These rights include the right to know what Personal Data we process about you and to request access to it, to correct inaccuracies or update Personal Data, to ask us to delete Personal Data, or obtain a copy of your Personal Data. You also may have the right to object to, opt out of, or ask that we restrict our processing of your Personal Data, including restricting the processing of certain Personal Data considered sensitive, targeted advertising and/or sale of Personal Data, and automated profiling in instances where such processing would produce legal or other similarly significant effects. When we ask for your consent to Personal Data processing, you may withdraw your consent at any time. You may also have the right to appeal our decision if we deny your request. Cardinal Health will not discriminate against you for exercising a privacy right granted to you by law.
+
+To find out more about your legal rights or to exercise any privacy rights that apply to you, please contact us at privacy@cardinalhealth.com or 800.926.0834 (free of charge in the United States). In your email, please include your full name, zip code or postal code, the email address at which you prefer to be contacted, and the privacy right(s) you are requesting, such as the removal of information about a particular transaction or the correction of specific information. Please check your incoming email messages in case we need to ask you more questions about your request.
+
+Certain laws allow an authorized agent acting on your behalf to make privacy requests, which they may do by following the instructions above. If an authorized agent submits a request for you, we may ask you to verify your own identity or confirm the request directly with us.
+
+Subject to appropriate verification of your identity, which may include asking you for additional information to match the information we have, Cardinal Health will honor the privacy rights provided to you by applicable law. You can expect that Cardinal Health will respond to your privacy request within the required time period under applicable law, unless we reach out to explain that it will take us longer. If we cannot fulfill your privacy request in whole or in part, we will explain why. It is our policy not to disclose any information in response to a privacy request that may adversely affect the privacy of other persons unless legally required to do so.
+
+If you have any questions about our response to your privacy request, please contact us at privacy@cardinalhealth.com. While we will always try to assist when you have concerns about the privacy of your Personal Data and appreciate an opportunity to do so, if you have concerns about how we manage your Personal Data or respond to your requests, you may be able to file a complaint with your local data protection authority or privacy regulator.
+
+## 6. Links to Other Services
+
+For your convenience and information, our Services may contain links to other websites and apps unaffiliated with Cardinal Health. We do not control or monitor and are not responsible for the privacy practices or the content of these websites and apps we link to. We urge you to review the relevant privacy policies prior to use to ensure that you are comfortable with their privacy practices.
+
+## 7. Security of Our Services
+
+Cardinal Health takes appropriate steps to manage the privacy of your Personal Data and the security of the Services. We have implemented commercially reasonable administrative, technical, and physical security controls that are designed to safeguard Personal Data. Despite these efforts, it is impossible to guarantee 100% security in all circumstances.
+
+## 8. Retention of Personal Data
+
+Cardinal Health retains Personal Data as long as necessary to fulfill the purposes for which your Personal Data was collected, unless a longer retention period is necessary, the Personal Data is required to fulfill a legal obligation, or we are otherwise permitted to retain the Personal Data for other uses. For example, we generally retain Personal Data used for:
+
+- Managing your account for as long as the account is active and for a period afterward that may correspond to any period allowed for returns, recalls, or other administrative needs related to the products or services purchased
+
+- Communications with you for the length of time necessary to provide administrative or transactional communications related to products or services purchased from us
+
+- Security and integrity for the length of time the Personal Data is useful for enhancing the security of our Services; as needed in connection with our obligations to protect our Services or products from fraud, malicious, or illegal activity; to meet our legal obligations; or to ensure our rights and those of others as well as our policies are enforced
+
+Where Personal Data is used for more than one purpose, we will retain the Personal Data until the purpose with the longest retention period expires.
+
+## 9. Children’s Privacy
+
+Cardinal Health does not expect that any portion of its Services will be used by persons under the age of 16, and we do not knowingly collect Personal Data from anyone under the age of 16. If we learn that we have received Personal Data from someone under the age of 16, we will delete that information in accordance with applicable law.
+
+## 10. Additional Information for US Consumers
+
+Residents of certain US states (“consumers”) have rights under comprehensive state privacy laws. These states include:
+
+| California
+| Colorado
+| Connecticut
+
+| Delaware
+| Indiana
+| Iowa
+
+| Kentucky
+| Maryland
+| Minnesota
+
+| Montana
+| Nebraska
+| New Hampshire
+
+| New Jersey
+| Oregon
+| Rhode Island
+
+| Tennessee
+| Texas
+| Utah
+
+| Virginia
+|
+
+We recognize the privacy rights of consumers residing in any state with an active consumer privacy law applicable to Cardinal Health. If you are a resident of a state with an active consumer privacy law, and you want to ask for additional information about your rights, you may contact us at privacy@cardinalhealth.com. You can exercise your rights as described in the “Your Privacy Rights and Choices” (Section 5) section above.
+
+Sales of Personal Data and Targeted Advertising
+
+State privacy laws permit consumers to opt out of the sale of Personal Data, including when that Personal Data is provided to others in exchange for non-monetary value or to facilitate targeted advertising. Although Cardinal Health does not “sell” your Personal Data in exchange for money, our use of cookies and similar technologies may be considered a “sale” of Personal Data under some privacy laws. To opt out of the use of these technologies, you should opt out of “Non-Essential Cookies” when first interacting with our cookie banner, or if you have already accepted cookies, turn off “Non-Essential Cookies” in our Privacy Preference Center available by clicking “Cookie Settings” in the footer of this page or in our Cookie Policy. Please note that, because these activities are based on online cookies, your opt-out choice is specific to this property. If you access other Cardinal Health digital properties, you will need to make your election for each. Also, if you clear your cookies on this browser or use another browser or device, you may need to opt out again on this property.
+
+Our website is also designed to honor Global Privacy Control signals. Because we do not track you across our Services, your Global Privacy Control signal is only processed on the website with which you interact.
+
+Automated Decisionmaking and Profiling
+
+State privacy laws may provide you with the right to opt-out of automated profiling in certain instances where such processing would produce legal or other similarly significant effects. At this time, we do not use Personal Data to make automated decisions about you in any situations where you may have a legal right to opt out.
+
+Processing of Sensitive Personal Data
+
+Cardinal Health does not use or disclose sensitive Personal Data (as defined under state consumer privacy laws) for purposes that would give rise to the right to limit the use and disclosure of this data.
+
+List of Third Parties to Which Personal Data is Disclosed
+
+If you are a resident of Oregon or Minnesota, you have the right to request a list of the specific third parties to which we have disclosed your Personal Data.
+
+Right to Appeal
+
+If we deny your request, you may have the right to appeal our decision. You may do so by emailing privacy@cardinalhealth.com and describing the decision you wish to appeal. We may require additional information to process your appeal or to verify your identity.
+
+Additional Disclosures for California Residents
+Your California Privacy Rights
+
+In addition to the rights described in the “Your Privacy Rights and Choices” (Section 5) section above, California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties for those third parties’ own direct marketing purposes. If you are a California resident, you may opt-out of such disclosures by emailing privacy@cardinalhealth.com.
+
+California Notice at Collection
+
+You have the right to receive notice of the categories of personal information we collect, and the purposes for which those categories of personal information will be used.
+
+The following chart describes our practices with regard to the collection, use, and retention of your personal information if you are a customer, website visitor, or business contact.
+
+The categories we use to describe the information are those listed in the California Consumer Privacy Act (“CCPA”). Certain personal information may fall into multiple categories, and in some circumstances, how we use and how long we keep the information within each category will vary.
+
+The examples of personal information listed below are illustrative and do not represent a complete description of the information we process.
+
+| Category
+| Required Information
+Personal Identifiers
+Examples of what we collect: Name, contact details, account number, registration information (including username and password), government-issued identification number, payment details, and IP Address and other online identifiers.
+
+Sources: Directly from you; Third parties.
+
+Purpose of collection and use: All purposes listed in “How We Use and Share Your Personal Data” (Section 4).
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Certain personal details are maintained throughout the customer relationship in order to provide the Services. When you are no longer a customer, we may still need this information for a period of time for business and legal requirements, such as to calculate taxes and protect against fraud.
+Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+Examples of what we collect: Address, telephone number, credit card number, and debit card number.
+
+Sources: Directly from you; Third parties.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Certain personal details are maintained throughout the customer relationship in order to provide the Services. When you are no longer a customer, we may still need this information for a period of time for business and legal requirements, such as to calculate taxes and protect against fraud.
+Protected classification characteristics under California or federal law
+Not collected.
+Commercial information
+Examples of what we collect: Purchase and order history, as well as payment or other financial information.
+
+Sources: Directly from you.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). The law requires us to maintain purchase records for a period of time, which varies by state.
+Biometric information
+Not collected.
+Internet or other similar network activity
+Examples of what we collect: Unique numerical identifier, cookie or tracking pixel information, device ID, browsing history, search history, IP address, interaction with a website, or interaction with advertisement.
+
+Sources: Automatically from you; Third parties.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Internet or other similar network activity is typically deleted at regular intervals when the information is no longer necessary for the purpose for which it was collected.
+Geolocation data
+Examples of what we collect: Non-precise location information (e.g., ZIP code, IP address).
+
+Sources: Automatically from you when you utilize or interact with our websites.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Geolocation data is deleted at regular intervals when the information is no longer necessary for the purposes for which it is collected.
+Professional or employment related information
+Not collected from users of our Services (applicants for employment should review our job applicant privacy notice).
+Education information
+Not collected from users of our Services (applicants for employment should review our job applicant privacy notice).
+Audio, electronic, visual, thermal, olfactory, or similar information
+Examples of what we collect: Call or video recordings, including through the use of CCTV if you visit one of our offices, pictures taken at our events, email or text exchange, direct messages you exchange with use, and chat logs from your communications with us.
+
+Sources: Directly from you.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Audio, electronic, visual, thermal, olfactory, or similar information are deleted at regular intervals when the information is no longer necessary for the purposes for which it is collected.
+Inferences drawn from other personal information
+Not collected.
+Sensitive information
+Examples of what we collect: Password or credentials allowing access to an account, debit and credit card information.
+
+Sources: Directly from you; Third parties.
+
+Retention Considerations: As described in “Retention of Personal Data” (Section 8). Certain personal details about you are maintained throughout the life of the customer relationship in order to provide the Services.
+
+Cardinal Health does not use or disclose sensitive personal information (as defined under the CCPA) for purposes that would give rise to the right to limit the use and disclosure of this data. Additionally, Cardinal Health does not use or disclose Personal Data for profiling or automated decision making (as defined under the CCPA) in any way that would give rise to the right to opt out of these uses or disclosures.
+
+We do not “sell” your data to third parties for monetary value. However, we do use cookies and other tracking technologies for targeted advertising, which constitutes a “sale” under the CCPA. We also “share” your information through the use of cookies and tracking technologies for targeted advertising purposes.
+
+## 11. Additional Information for Visitors from Outside the United States
+
+When you use our Services from outside the United States, you may have rights under data protection laws in your country, such as the European Union’s General Data Protection Regulation. We recognize the privacy rights of persons in any country with an active data protection law applicable to Cardinal Health. If you are using our Services from a country with an active data protection law, and you want to ask for additional information about your rights, you may contact our Privacy team at privacy@cardinalhealth.com.
+
+This information supplements other parts of this Privacy Notice. Please read this information in conjunction with the other portions of our Privacy Notice. We have described the Personal Data we collect (Section 2, “Personal Data We Collect”) and the sources from which we collect Personal Data (Section 3, “How Your Personal Data is Collected”). We have also explained our purposes for collecting Personal Data and how we disclose it to others (Section 4, “How We Use and Share Your Personal Data”). Finally, you can find information about how to exercise your privacy rights (Section 5, “Your Privacy Rights and Choices”) and how we retain Personal Data (Section 8, “Retention of Personal Data”) above.
+
+Our Legal Bases for Processing Personal Data
+
+Some data protection laws require us to designate one or more legal bases for processing your Personal Data. When applicable, Cardinal Health relies on the following legal bases:
+
+- Contractual Obligations. We use Personal Data to provide the products or services you request, including by establishing your Cardinal Health account; validating your access to our Services; processing your purchase orders; providing customer service; and sending you administrative or transactional communications.
+
+- Our Legitimate Interests. We use Personal Data when we have legitimate interests in doing so, as long as our legitimate interests are compatible with your rights and expectations of privacy. We rely on our legitimate interests to operate, maintain, and improve the Services and our products; perform analytics and conduct customer research; and improve our customer service and overall user experience.
+
+- Our Legal Obligations. We use Personal Data as needed to comply with our legal obligations, including as needed for fraud prevention; public safety; complying with public authorities and courts; and enforcing or defending our rights and those of others.
+
+- Your Consent. We may use Personal Data as described in this Privacy Notice with your “opt-in” consent, including when needed for marketing communications and tracking technology use. When you consent, you may opt out at any time by contacting us at privacy@cardinalhealth.com.
+
+International Transfers of Personal Data
+
+Cardinal Health is a global group of companies. Please note that when you provide Personal Data to us, we may process your Personal Data in the United States and other locations, which may have privacy laws that differ from those in your country. In certain cases, we may need to share, transfer, store, or otherwise process your Personal Data in locations outside of the jurisdiction in which you reside or are located. When we transfer Personal Data, we do so in accordance with applicable laws.
+
+Where we transfer data outside of the European Economic Area, United Kingdom or Switzerland to other countries, Cardinal Health ensures that appropriate and suitable safeguards, including the European Commission’s Standard Contractual Clauses and the United Kingdom’s Addendum thereto, are in place to safeguard Personal Data being transferred to countries where an adequate level of protection is not already guaranteed. For more information on our safeguards, or to obtain a copy of the relevant clauses used for transferring your Personal Data, contact us at privacy@cardinalhealth.com.
+
+Notice for Visitors from Australia
+
+In Australia, Cardinal Health is bound by the Privacy Act 1988 (Cth) (Privacy Act) and Australian Privacy Principles (collectively “Australian Privacy Laws”). If you are in Australia, you acknowledge and consent to us not being required to take any steps to ensure that overseas recipients (outside of Cardinal Health) of your Personal Data comply with the Australian Privacy Laws. If the overseas recipient handles your Personal Data in breach of the Australian Privacy Laws, we will not be liable, and you will not be able to seek redress from us under the Act.
+
+## 12. Changes to this Privacy Notice and Contacting Us
+
+We reserve the right to modify this Privacy Notice at any time. You can see when this Privacy Notice was last revised by referring to the date it was “Last Updated” at the top of the Privacy Notice.
+
+If you have any questions or comments about our privacy practices or this Privacy Notice, or if you would like to receive a copy of this Privacy Notice in an alternate format or language, please contact us at:
+
+| Email:
+| privacy@cardinalhealth.com
+
+| Data Protection Officer:
+| dpo@cardinalhealth.com
+
+| Telephone:
+| 800.926.0834 (toll free in the United States)
+
+| Mail:
+| Cardinal Health, Inc.
+
+Enterprise Privacy Office
+
+7000 Cardinal Place, Dublin, Ohio 43017
+
+United States
+
+## Related content
+
+### Cookie Policy
+
+This Cookie Policy applies to any website or service (collectively “Site”) of Cardinal Health, Inc. and its affiliates that links to this policy or incorporates it by reference.
+
+### Cardinal Health Affiliates / Data Controllers
+
+Identifying the Controller/Affiliate of your personal data.
+
+### Terms and conditions for Cardinal Health Websites
+
+Cardinal Health, Inc. website terms of use and legal restrictions.
+
+Return to top »

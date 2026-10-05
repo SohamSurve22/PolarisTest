@@ -1,0 +1,317 @@
+- Retention. We retain personal information for as long as required for a business purpose or as otherwise required by applicable law or regulation.
+
+View our full Privacy Notice below.
+
+If you have questions or concerns about Assurant’s privacy practices, please email us at theprivacyoffice@assurant.com
+
+### Privacy Notice
+
+This Privacy Notice (“Notice”) explains how the legal entity or entities named in the corresponding Legal Notice, Terms of Service, or Terms of Use posted on this website or mobile application (“Assurant®”, “we”, “us”, “our”) collect, use, and share personal information, as well as the rights you have with respect to your personal information and how to exercise those rights.
+
+This Notice describes practices regarding personal information.
+
+This Notice applies to our websites and mobile applications that link to this Notice, and to our other interactions with you where this Notice is provided. This Notice does not apply to websites, applications or other points of contact that have a different privacy notice posted or otherwise available. In addition, this Notice does not apply:
+
+- To our consumer insurance products. If you are an individual covered by, or applying for, an insurance product issued by Assurant, please refer to our Privacy Notice for insurance products available here.
+
+- If you represent a business entity that is interacting with Assurant in a business-to-business capacity, unless you are a resident of California.
+
+- If you are interacting with Assurant in an employment-related capacity. See our Assurant Careers Privacy Notice and, if you are a U.S.-based employee, see the Assurant Employee Privacy Statement.
+
+- If you are a Canadian consumer, please see the privacy notice posted here.
+
+- Information that We Collect
+
+- How Long We Keep Personal Information
+
+- Why We Collect Personal Information and How We Use It
+
+- Disclosure of Personal Information to Others
+
+- Data Technologies
+
+- Email and Text Communications
+
+- Your Targeted Advertising Options
+
+- Your Privacy Rights
+
+- How to Exercise Your Privacy Rights
+
+- Request Metrics
+
+- Protection of Personal Information
+
+- APEC Participation
+
+- Updates to this Notice
+
+- Contact Us
+
+### Information that We Collect
+
+##### Categories of Personal Information
+
+The personal information that we collect about a specific individual, and the sources we use to collect that personal information, will depend on our relationship or interaction with that individual. During the past twelve (12) months, we have collected the following categories of personal information:
+
+- Identifiers, such as name, date of birth, postal address, email addresses, social security number, state identification or driver’s license number, passport number, other personal information that may be found on police reports or affidavits (if such items are needed for claim processing), and other similar identifiers.
+
+- Financial and other Personal information as defined in the California customer records law, such as signature, telephone number, insurance policy or contract number, health or medical information, and financial information such as account number and balance, payment card details including credit and debit card numbers and credit card usage information if needed to provide coverage under one of our products.
+
+- Characteristics of Protected Classifications under state or federal law, such as sex, race, or marital status.
+
+- Commercial Information, such as products and services obtained and transaction histories. Depending on the product or service you have with Assurant or a party with whom Assurant has a business relationship, this may include information about:
+
+- Insurance policies and service plans (such as policy/plan number and coverage details) and associated claims.
+
+- A device, equipment, or consumer product related to an Assurant product or service (such as vehicle identification number and other vehicle information, a mobile device international mobile equipment identifier (IMEI) and other device information, or details about a connected device or household product).
+
+- Residential or commercial property you own or rent.
+
+- Biometric Information, Assurant does not collect, store or transmit biometric information, but some Assurant mobile applications allow you to use the biometric logins such as fingerprints or facial recognition that you have established on your mobile or other devices to access our applications.
+
+- Internet or network activity information, such as IP address, browsing history, and information regarding your interaction with Assurant or non-Assurant websites, mobile applications, or advertisements.
+
+- Geolocation data, such as device location, including precise geolocation where necessary to provide the product or service (including application) you requested or downloaded and as disclosed to you as part of that product or service purchase and consented to where required by law.
+
+- Audio, electronic, visual and similar information, such as call and video recordings.
+
+- Professional or employment-related information, such as current or prior employer and related work information (such as periods of employment).
+
+- Education information, such as student records and directory information.
+
+- Inferences drawn from any of the above to create a summary about, for example, an individual’s preferences and characteristics. However, this information is not used for solely automated decision making. See the section “No Profiling” below.
+
+- Sensitive Information which includes social security, driver’s license, state identification card or passport number, precise geolocation, racial or ethnic origin, to the extent noted above. In addition, with respect to certain mobile and electronic device services we provide, we may access the following information on your device but only with your consent and only as needed to provide the service: Contact lists, SMS messages, call logs, photos, videos, saved files or other documents, and music lists. Remote technical support services of certain devices may involve screen or camera sharing capabilities. When the support session is over, we do not retain information seen on such screens.
+
+##### Sources of Personal Information
+
+We collect personal information from:
+
+- individuals directly, or from other individuals, agents or companies acting on their behalf.
+
+- our affiliates and subsidiaries.
+
+- public records or widely available sources, including information from records and information made available by federal, state, or local government entities.
+
+- credit bureaus.
+
+- companies with whom we have a business relationship, and from whom you have purchased a product or service that makes you eligible for an Assurant product or service.
+
+- other companies and organizations, such as our advertising agency partners, recruiters, social media networks, data brokers, insurance carriers and other service providers (including entities that assist us with fraud prevention, underwriting, data analytics, and marketing).
+
+- your computer system or mobile device when you visit our websites or use our mobile applications.
+
+We may combine information we collect with information obtained from other sources.
+
+### How Long We Keep Personal Information
+
+The amount of time we retain a particular category of personal information will vary depending on the purpose for which it was collected, our business need for it, and our legal obligations with respect to it. We retain your personal information for the time needed to fulfill the purpose for which that information was collected and to adhere to our policies on keeping records. Our retention policies reflect applicable statutes of limitation periods and legal requirements. When we destroy your personal information, we do so in a way that prevents that information from being restored or reconstructed.
+
+### Why We Collect Personal Information and How We Use It
+
+The purposes for which we collect and use personal information depend on our relationship or interaction with you. If we are interacting with you on behalf of another business entity (e.g. a financial institution or commercial retailer) we will collect and use your Personal Information only as permitted by the terms governing our relationship with that business entity. Otherwise, we may use personal information for the following business purposes:
+
+| Purposes for Collection and Use | Examples
+
+| To provide products and services |
+
+- Evaluate eligibility, and determine pricing, for products and services.
+
+- Establish a customer relationship.
+
+- Administer our products/services, including billing, refunds, and claim/payment processing.
+
+- Support ongoing management and maintenance of our products/services.
+
+- Tell you about updates or new benefits related to your account, product, or service.
+
+- Support customer relationship management, including answering questions and responding to requests.
+
+| Support our operations, including to meet risk, legal, and compliance requirements |
+
+- Perform accounting, monitoring, and reporting.
+
+- Enable information security and anti-fraud operations, underwriting, and due diligence.
+
+- Support audits, investigations, legal requests and demands.
+
+- Enable the use of service providers for business purposes.
+
+- Comply with policies, procedures, and contractual obligations.
+
+- Other uses required or permitted by law or with your consent.
+
+| Manage, analyze, improve, and develop our business |
+
+- Market, personalize, develop, and improve our products/services.
+
+- Use feedback in marketing or promotional materials (with consent).
+
+- Enable Targeted Advertising.
+
+- Analyze user interactions to improve customer experience.
+
+- Recognize users across devices.
+
+- Conduct research and analysis for innovation.
+
+- Evaluate and engage in mergers, acquisitions, and business transfers.
+
+Sensitive Information
+
+Assurant does not collect, use, or disclose sensitive personal information, as such term or a similar term is described above or defined by applicable privacy law, other than as permitted by law or with your prior consent (where required).
+
+Human Review, Automated Decision Making and Artificial Intelligence
+
+Assurant is committed to the responsible use of Artificial Intelligence (AI). We may process your personal information with AI-enabled technology to improve or provide you with our services, to develop new products, features, and technologies, to prevent fraud or misuse of our services, and for any other uses consistent with this Privacy Notice.
+
+However, Assurant does not use personal information to evaluate, analyze or predict personal aspects related to an individual’s economic situation, health, preferences, interests, reliability, behavior, location or movements, or performance at work, which is also known as profiling, in furtherance of decisions that produce legal or similarly significant effects solely through an automated process, using AI or otherwise, that does not require final review and decision by a human.
+
+### Disclosure of Personal Information to Others
+
+In the past twelve (12) months, we have disclosed personal information included under the categories listed above for our business purposes to:
+
+- Regulators, law enforcement and other government entities;
+
+- Our affiliates and subsidiaries;
+
+- Vendors who provide services to us;
+
+- Entities who provide Targeted Advertising services or through which we purchase target ads;
+
+- Business partners, clients, agents, and brokers;
+
+- Credit bureaus;
+
+- Researchers (such as for actuarial or research studies) and professional advisers (such as lawyers and accountants); and
+
+- In connection with a sale or transfer of all or part of our business.
+
+As is common practice among businesses that operate Internet websites and mobile apps, within the past twelve (12) months, we may have shared certain identifiers such as email addresses and pseudonymized identifiers, information about the use of our websites and apps, and inferences drawn about you to our social media, advertising, and analytics partners for data analytics and Targeted Advertising purposes.
+
+### Personal Information of Minors
+
+We do not knowingly market products or services to any person under the age of 18. We do not sell the Personal Information of any individual, regardless of age, nor knowingly collect or share the personal information of individuals under the age of 18 to third parties for Targeted Advertising purposes.
+
+If you are the age 18+ primary account holder of a device protection and/or technical device support program, you may have the option to invite other household members to participate under the primary account. By extending this invitation to other household members, including those under the age of 18, you are providing consent to the collection and use of personal information of such individuals for the purposes set forth in this Privacy Notice and the applicable contract and Terms of Service.
+
+### Data Technologies
+
+Our websites and mobile applications may use various technologies, including cookies, tokens, tags, web logs, web beacons, widgets, plug-ins, scripts, chat and chatbots, and web server logs to automatically gather information about you and about your use of the Services (collectively, “Data Technologies”). A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon" also known as an Internet tag, pixel tag or clear GIF, links web pages or apps to web servers and may be used to transmit information back to a web server.
+
+The types of cookies placed by our websites fall into any one of the following categories:
+
+- “Strictly Necessary” cookies are necessary for the website or application to function and cannot be switched off in our systems. They are usually set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You do not have the option to disable Strictly Necessary cookies.
+
+- “Functional” cookies enable the website or application to provide enhanced functionality and personalization based on your interaction with the website or application. These also allow us to track analytics by counting visits and traffic sources so we can measure and improve the performance of our websites and applications. They may be set by us or by service providers (e.g. Google) to help us to know which pages or content are the most and least popular and see how visitors move around the website or application. If the website you are visiting presents you with a “cookie preference” link in the footer of the website, you may disable functional cookies by selecting “no”.
+
+- “Advertising” cookies may be set by us or through our websites and applications by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other websites. You may opt-out of the placement of Advertising cookies through a number of methods. Refer to the section of this Notice titled “Your Targeted Advertising Options”.
+
+Regarding cookies and similar Data Technologies, the preference you select is limited to the website for which you’ve made the preference selection and does not apply to other sites or any other pages.
+
+We may combine information received from the Data Technologies about visitors to our website or use this information to enable certain features of our services. Depending on the Data Technologies you’ve enabled, this information may include demographic data, technical information about the technology (e.g., phone, computer) you use to connect to the online services, web browser information, your IP address, geolocation of your mobile device, and browsing behavior such as pages visited and how often they are visited.
+
+Depending on the Data Technologies you’ve enabled, we allow service providers and third-party companies to use Data Technologies to collect the information described above and to track browsing activity over time and across third-party websites, such as web browsers used, which websites are referring traffic or linking to our online services, to support data analytics or, in some instances, to deliver targeted advertisements to you. We do not control these third-party technologies, and their use of such technologies is governed by their own privacy policies. For example, we use certain products from Google for analytics and advertising purposes. You can learn more about Google’s privacy practices with respect to analytics and advertising services by clicking here.
+
+The length of time cookies will stay on your device will depend on whether it is a “persistent” or “session” cookie. A persistent cookie will be stored by a web browser and will remain valid until its set expiration date, unless deleted by you before the expiration date. A session cookie, on the other hand, will expire at the end of your web session, when the web browser is closed.
+
+### Communications and Consent to Record
+
+We may use Data Technologies to determine whether you have read, clicked on, or forwarded certain email or text communications we send to you so that we can make our communications more helpful and interesting.
+
+We may need to send you email or texts with information related to your policy, claim or account. However, you can unsubscribe from our marketing emails or text messages by following the instructions in the email or text communications you receive from us or, if you are a registered subscriber, you can update your communication preferences at any time by contacting us.
+
+Any telephone calls, online chats, text messages, and other similar electronic communications between you and us and/or our third party service providers may be recorded, transcribed or monitored for training, administrative and security purposes or other business purposes. Such recordings or transcriptions are retained and used by us in accordance with this Privacy Notice. By communicating with us through these methods, you are consenting to such recording and/or monitoring and use.
+
+### Your Targeted Advertising Options
+
+We may partner with third parties to provide advertising services that are targeted based on your online activities across websites, mobile apps, and devices over time (referred to as “Targeted Advertising”) to enable us to send you Targeted Advertising both on our websites and on third party websites.
+
+Third party advertisers may use and disclose information gathered through Data Technologies for their own purposes, subject to their own privacy policies. Several advertisers participate in the Digital Advertising Alliance, and you can opt-out of the delivery of Targeted Advertising to you by the participating advertisers by visiting: https://youradchoices.com/pmc
+
+To prevent Targeted Advertising by or on behalf of Assurant you may:
+
+- Click the link titled “Do Not Sell or Share My Personal Information” on the website homepage.
+
+- Opt-out of Functional and Advertising Data Technologies by managing your preferences in the website’s cookie manager preference center (select “no”).
+
+- Use a Do Not Track Signal. To the extent required by law, Assurant will honor signals that you have enabled that communicate your choice to opt-out of the placement of Advertising cookies.
+
+If you have disabled the placement Advertising Data Technologies, you may still see advertisements from Assurant, but these ads are not based on our tracking of your internet browsing activity across third-party websites.
+
+### Your Privacy Rights
+
+Under certain state laws, you may have the following rights:
+
+Right to Know: the right to request we disclose to you the following:
+
+- Whether we are processing personal information about you.
+
+- The categories of personal information we collected about you.
+
+- The categories of sources from which we collected the personal information.
+
+- The business or commercial purpose for collecting, sharing, and using personal information about you.
+
+- The categories of third parties to whom we disclosed personal information about you. If required by law, you may request a specific list of third parties.
+
+- The specific pieces of personal information we collected about you.
+
+Right to Correct: the right to request that we correct inaccurate personal information that we maintain about you.
+
+Right to Delete: the right to request that we delete personal information we, or an entity acting on our behalf, collected about you.
+
+Right to Opt-out of the Sale or Sharing of Personal Information: We do not sell your personal information in exchange for monetary value and no mobile information (including customer’s information collected by SMS Texts) or data will be shared with or sold to third parties or affiliates for marketing or other promotional purposes; however, we may share your personal information for Targeted Advertising purposes if you have not disabled the placement of Advertising Data Technologies. See the section “Your Targeted Advertising Options” above.
+
+We will not discriminate against any consumer who exercises any of their privacy rights found under this Notice by denying a good or service, charging a different price or providing a different level of quality or service. However, we may charge a consumer a different price or rate or provide a different level or quality of goods or services to the consumer, if that difference is reasonably related to the value provided to the business by the consumer’s data. Also note that certain choices, such as disabling cookies, may prevent you from using certain features on our websites.
+
+### How to Exercise Your Privacy Rights
+
+If you are an individual covered by, or applying for, an insurance product issued by Assurant, please refer to our Privacy Notice for insurance products available here.
+
+Consumers with non-insurance products, may exercise your privacy request rights by:
+
+Calling: 1-800-280-9577
+
+Completing the online form available at: https://dataprotection.assurant.com/consumer-page
+
+You must provide sufficient information that allows us to reasonably verify you are the person who is the subject of the rights request, or such person’s authorized representative. We use a service provider to assist with identity verification and, as required or permitted by law, we may take steps to verify your identity prior to granting you access to information or acting on your request to exercise your rights. We may limit our response to your exercise of your rights as permitted under applicable law.
+
+You may designate an authorized agent to request any of the above rights on your behalf. You may make such a designation by providing the agent with written permission, signed by you, to act on your behalf. If an agent makes a request on your behalf, as permitted by law, we may require verification of the agent’s authorization to act on your behalf, require you to confirm you have authorized the agent to act on your behalf, or require you to verify your own identity. This may include, but is not limited to, a notarized financial/general power of attorney, court order, or official proof of guardianship.
+
+Upon receiving your request, we will confirm receipt within ten (10) business days and respond to a verifiable consumer request within the timeframe and in the format required by relevant law.
+
+If we are unable to honor your request, we will provide you with a written explanation of the reason(s). You have the right to contact us in writing if you wish to appeal our decision and we will provide you with a written response.
+
+### Request Metrics
+
+Assurant’s record-keeping details as required under applicable privacy law are available here: https://www.assurant.com/dataprotection/usa/ccpa-metrics
+
+### Protection of Personal Information
+
+We use administrative, technical, and physical security measures to protect your personal information and take reasonable steps to securely destroy or permanently de-identify personal information when we no longer need it. Despite these measures, we cannot guarantee the security of networks, servers, and databases over the Internet. Therefore, although we work to safeguard your privacy, we cannot promise, and you should not expect, that personal information or communications you transmit via the Internet are guaranteed to remain secure.
+
+### APEC Participation
+
+The Assurant privacy practices described in this Notice comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of Personal Information transferred among participating APEC economies. More information about the APEC framework can be found here.
+
+### Updates to this Notice
+
+We may modify this Notice from time to time. When we make material changes to this Notice, we will post a link to the revised Notice on the homepage of our website. You can tell when this Notice was last updated by looking at the “Last updated” date at the top of this Notice. Any changes to our Notice will become effective upon posting of the revised Notice.
+
+### Contact Us
+
+For inquiries or concerns related to a specific product or service, please contact the customer service team supporting your particular product or service. A list of Assurant customer support teams is available at:https://www.assurant.com/assurant-phone-numbers.
+
+If you have questions about this Privacy Notice, please contact Assurant’s Privacy Office at:
+
+Privacy Office
+
+260 Interstate North Circle SE
+
+Atlanta GA 30339
+
+Email: theprivacyoffice@assurant.com
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.

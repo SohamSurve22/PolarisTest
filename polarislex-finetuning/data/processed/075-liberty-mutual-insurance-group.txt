@@ -1,0 +1,301 @@
+Print
+Close
+
+Effective April 2026
+
+Liberty Mutual Group and its affiliates, subsidiaries, and partners (collectively “Liberty Mutual” or “we”, “us” and “our”) are dedicated to “Helping People Live Safer, More Secure Lives,” including preserving your privacy on our websites and applications. In this privacy notice, we explain how we collect, process, use, and disclose information gathered from your visit to our websites and applications. This policy applies to anyone (including, but not limited to, insureds, employees, contractors, and agents) who uses our websites or applications or any affiliated websites and applications where this notice is linked (collectively referred to as “websites”).
+
+By using such websites and applications or providing any personal information during such use, you consent to the processing of your personal information in a manner consistent with the terms of this policy.
+
+If you are an individual who has sought or purchased insurance from Liberty Mutual, or if you are a claimant under a policy: other privacy notices apply to information collected about you related to Liberty Mutual provision of insurance services. For more information, please review the privacy notices at libertymutual.com/privacy. If you are a California resident, you can learn more about the information we have collected in the last twelve months and your privacy rights by going to lmi.co/caprivacynotices and clicking on California Privacy Policy (Consumers).
+
+What Personal Data Do We Collect?
+
+The types of personal data we gather and how we use it will depend on how you engage with our websites and what information you submit. For example, if you start an insurance quote on our websites, but decide to finish it later, we will save your information so you can pick up where you left off. We may use website information to serve ads to you across multiple devices, such as your computer, smartphone, or tablet, or to limit the number of times you see our ads. We may also use website information to customize your experience with and analyze your use of our websites and interaction with our ads. If you use our telematics functions, such as RightTrack, which is a voluntary, usage-based insurance program, we may use your driving data to determine your insurance policy pricing and provide additional services.
+
+You may also use our website to submit a claim or to obtain a quote for insurance. We will need different personal data for both of these types of visits. The data we gather can include your Social Security Number, income, transaction data such as account balances and payment history, and data from consumer reports. It may also include data gathered in connection with our provision of insurance services, when you apply for such services, or resulting from other contacts with you. For more information, please review the privacy notice applicable to your insurance policy or your claim at libertymutual.com/privacy.
+
+Depending on your relationship with us and how you interact with our websites, we may also collect from your or third parties:
+
+- Identifiers, including a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security Number, driver’s license number, or other similar identifiers;
+
+- Personal data, such as your name, signature, Social Security Number, physical characteristics or description, address, telephone number, location and precise geolocation, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, financial data, medical data, or health insurance data;
+
+- Protected classification characteristics described in California Civil Code § 1798.80(e), including age, race, color, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, or veteran or military status;
+
+- Commercial data, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories and tendencies;
+
+- Internet or other similar network activity, including browsing history, search history, data about a consumer’s
+interaction with a website, application, or advertisement;
+
+- Audio, electronic, and visual information, including photographs, videos, audio recordings, and related transcriptions;
+
+- Professional or employment related data, including current or past job history;
+
+- Inferences drawn from other personal data, such as a profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes;
+
+- Risk data, including data about your driving and/or accident history; this may include data from consumer reporting agencies, such as your motor vehicle records and loss history data, health data and criminal convictions;
+
+- Claims data, including data about your previous and current claims, which may include data regarding your health, criminal convictions, third party reports, or other personal data;
+
+- Telematics and Geolocation Data, such as mileage, time of day, acceleration, braking, location, trip types, mobile phone type and motion, ignition data, odometer, speed, idle time, battery time, fuel consumption, air consumption, technology diagnostics, accident data and damage to vehicle, airbag deployment information, and Vehicle ID Number (VIN).
+
+How do you gather my data?
+
+| We gather your personal data directly from you. For example, you provide us with data when you: | We also gather your personal data from other people. For example:
+- ask about or buy insurance or file a claim
+- your insurance agent or broker
+- pay your policy
+- your employer, association, or
+business (if you are insured through them)
+- visit our websites or applications, call us, or visit our office
+- our affiliates or other insurance
+companies about your transactions with them
+- submit information to us through a Liberty Mutual website or application
+- consumer reporting agencies, Motor Vehicle Departments and inspection services, to gather your credit history, driving record, claims history, or value and condition of your property
+
+| |
+
+- other public directories and sources
+
+| |
+
+- third parties, including other insurers, brokers and insurance support organizations who you have communicated with about your policy or claim, anti-fraud databases,
+sanctions lists, court judgments and other databases, government agencies, open electoral register, or in the event of a claim, third parties including other parties to the claim, witnesses, experts, loss adjustors, and claim handlers
+
+| |
+
+- other third parties who take out a policy with us and are required to provide your data, such as when you are named as a beneficiary or where a family member has taken out a policy that requires your personal data.
+
+Organizations that share data with us may keep it and disclose it to others as permitted by law.
+
+How Do We Use Your Personal Data?
+
+Liberty Mutual uses your data to provide you our products and services and as otherwise provided in this notice.
+We may use your data and the data of our former customers, agents, and employees for our business and other compatible purposes. Our business purposes include, for example:
+
+| Business Purpose | Data Categories | Do we share or sell your information as defined by CPRA
+Market, sell and provide
+insurance. This includes,
+for example:
+
+- calculating your premium;
+
+- determining your
+eligibility for a quote;
+
+- confirming your identity and servicing your policy;
+- Identifiers
+
+- Personal Information
+
+- Protected Classification Characteristics
+
+- Commercial Information
+
+- Internet or other
+similar network activity
+
+- Professional or
+employment related information
+
+- Audio, electronic, and visual data
+
+- Inferences drawn from other personal information
+
+- Risk data
+
+- Claims data
+
+- Telematics and Geolocation data
+
+| No.
+Manage your claim. This
+includes, for example:
+
+- managing your claim, if any;
+
+- conducting claims investigations;
+
+- conducting medical examinations;
+
+- conducting inspections, appraisals;
+
+- providing roadside assistance;
+
+- providing rental car
+replacement or repairs;
+
+- Internet or other similar network activity
+
+- Inferences drawn
+from other personal information
+
+- Risk data
+
+| No.
+Day to Day Business and Insurance Operations. This includes, for example:
+
+- creating, maintaining,
+customizing, and securing accounts;
+
+- supporting day-to-day business and insurance related functions;
+
+- doing internal research
+for technology and development;
+
+- marketing and creating products and services;
+
+- conducting audits related to a current contact with a consumer and other transactions;
+
+- as described at or before the point of gathering
+personal data or with your authorization;
+
+- Professional or employment related information
+
+- Risk data
+
+| No.
+Security and Fraud Detection. This includes, for example:
+
+- detecting security issues;
+
+- protecting against fraud or illegal activity, and to comply with regulatory and law enforcement authorities;
+
+- managing risk and securing our systems, assets, infrastructure, and premises;
+
+- help to ensure the safety and security of Liberty staff, assets, and resources, which may include physical and virtual access
+controls and access rights management;
+
+- supervisory controls and other monitoring and
+reviews, as permitted by law; and emergency and
+business continuity management;
+
+- Risk data
+
+| No.
+Regulatory and Legal Requirements. This includes for example:
+
+- controls and access rights management;
+
+- to evaluate or conduct
+a merger, divestiture,
+restructuring, reorganization, dissolution, or other sale or transfer of some or all of Liberty’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal data held by Liberty is among the assets transferred;
+
+- exercising and defending our legal rights and positions;
+
+- to meet Liberty contract obligations;
+
+- to respond to law enforcement requests as required by applicable law, court order, or governmental regulations;
+
+- as otherwise permitted
+by law;
+
+- Risk data
+
+| No.
+Improve Your Customer Experience and Our Products. This includes, for example:
+
+- improve your customer
+experience, our products, and service;
+
+- to provide support,
+personalize, and develop
+our website, products,
+and services;
+
+- create and offer new
+products and services;
+
+- Risk data
+
+| No.
+Analytics to identify,
+understand, and manage our risks and products. This includes, for example:
+
+- conducting analytics to
+better identify, understand, and manage risk and our products;
+
+- Risk data
+
+| No.
+Customer service and technical support. This includes, for example:
+
+- answer questions and
+provide notifications;
+
+- provide customer and
+technical support.
+
+- Risk data
+
+| No.
+
+| Cross-Context Behavioral Advertising |
+
+- IP address
+
+| We share this information with service providers such as search engines and social media platforms
+
+Liberty Mutual will not collect additional categories of personal information or use the personal information we collected for materially unrelated, or incompatible purposes without updating our notice.
+
+Do We Disclose Your Personal Data?
+
+Liberty Mutual does not sell your personal data as defined by California law. Liberty Mutual shares your personal data as disclosed above. The California privacy law defines sharing as “communicating orally, in writing, or by electronic or other means, a consumer’s personal information . . . to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration.” For example, this occurs when you visit a Liberty Mutual website. Cookies or pixels are deployed that then allow us to show you targeted advertisements when you visit other websites or social media platforms. California residents have the right to opt-out of this type of sharing and you may learn more about those rights at lmi.co/caprivacychoices. This type of sharing is different from disclosing personal information to other entities to perform a service related to providing insurance or processing your claim. How we disclose data to these types of entities is set forth below.
+
+Liberty Mutual may disclose personal data with affiliated and non-affiliated third parties, including:
+
+▪ Liberty Mutual affiliates;
+▪ Service Providers (such as auto repair facilities, towing companies, property inspectors, and independent adjusters);
+▪ Insurance support organizations;
+▪ Brokers and agents;
+▪ Public entities (e.g., regulatory, quasi-regulatory, tax or other authorities, law enforcement agencies, courts, arbitrational bodies, and fraud prevention agencies);
+▪ Consumer reporting agencies;
+▪ Advisors including law firms, accountants, auditors, and tax advisors; Last Revised: December 2024
+▪ Insurers, re-insurers, policy holders, and claimants;
+▪ Group policyholders (for reporting claims data or an audit);
+▪ A person, organization, affiliates or service providers conducting actuarial or research studies; and
+▪ As permitted by law.
+
+We may also disclose data with other companies that provide marketing services on our behalf or as part of a joint marketing agreement for products offered by Liberty Mutual. We will not disclose your personal data with others for their own marketing purposes.
+
+We may also disclose data about our transactions (such as payment history) and experiences (such as claims made) with you to our affiliates. Liberty Mutual may disclose the following categories of personal data as needed for business purposes:
+
+Identifiers Personal Data
+Protected Classification Characteristics Commercial Data
+Internet or other similar network activity Audio, electronic, and visual data
+Professional, employment, and education data Inferences drawn from personal data
+Risk Data Claims Data
+
+How Long Does Liberty Mutual Retain Each Category of Personal Data?
+
+We retain your information in accordance with our legal obligations, our records retention policies, or as otherwise permitted by law. For example, we may have a legal obligation to retain information relating to your policies or claims with us. We will delete your data once the legal obligation expires or after the period of time specified in our records retention policies. The period of retention is subject to our review and alteration.
+
+Does Liberty Mutual Use Cookies?
+
+Cookies are sets of information that our web server assigns to you when you visit our website. Cookies are used in a few areas of our websites for maintaining information between pages. These cookies carry forward information that you submitted on one screen to the next screen. We may use IP addresses to learn other information concerning website visitors as described in this policy, but we do not learn the identity of the individual browsing our websites. When you select one of our products or services, register for a newsletter or e-mail alert, fill out an online form, or complete a survey, we may try to identify your browser and we may combine information from cookies, Web beacons, and other information collected online with other data that we maintain about you.
+
+We use pixels tags, transparent GIF files, and third-party vendors to help manage our online advertising and promotions. These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our websites. The tags enable us to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email.
+
+Non-Liberty Mutual Websites and Applications
+
+Liberty Mutual is not responsible for the privacy practices or the content of any other websites and applications on the Internet that may be linked to the Liberty Mutual Websites and Applications. Please note that when you click on links to websites and applications outside of Liberty Mutual, you are transferred to another website or application that may not be under Liberty Mutual's control. We encourage you to read the privacy statements of these linked sites and applications as their privacy policy may differ from ours.
+
+Changes to this Notice
+
+Changes to this Notice will be posted here. Visitors to our websites who are not
+policyholders should refer to the date at the top of this notice to see if it has been updated.
+
+How to Contact Us:
+
+You can submit questions, seek additional information, or obtain our Privacy Notice in an
+alternative format by either:
+
+Calling: 800-344-0197
+Email: Privacy@libertymutual.com
+Mail: Liberty Mutual Insurance Company
+175 Berkeley St.
+Boston, MA 02116
+Attn: Privacy Office
+
+To download a copy of this document, please click here.

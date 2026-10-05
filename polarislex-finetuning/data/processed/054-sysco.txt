@@ -1,0 +1,420 @@
+###### Updated June 2026
+
+# Sysco Global Data Privacy Notice
+
+Sysco respects your privacy and understands that you care about how your Personal Data is managed. This Global Data Privacy Notice (this “Privacy Notice”) explains how we collect, protect, use, store and share your Personal Data when you contact us, visit our stores, visit any of our websites (regardless of where you visit from), use our applications or have other interactions with us such as via our contact centres, social media profiles or webchat which are used by our customers, suppliers, employees, contractors, website visitors, social media users, and business partners to complete transactions, conduct other business and manage their accounts.
+
+- TRANSLATED VERSIONS
+
+- PURPOSE AND SCOPE OF THIS NOTICE
+
+- WHO WE ARE & HOW TO CONTACT US
+
+- NOTICE STATEMENT
+
+- THE PERSONAL DATA WE COLLECT AND WHY
+
+- SPECIAL CATEGORY PERSONAL DATA – FOR INDIVIDUALS IN THE UK & EEA
+
+- SENSITIVE PERSONAL DATA – FOR CALIFORNIA RESIDENTS
+
+- HOW WE COLLECT PERSONAL DATA
+
+- HOW WE USE COOKIES & SIMILAR TECHNOLOGIES
+
+- ARTIFICIAL INTELLIGENCE
+
+- HOW WE SHARE PERSONAL DATA
+
+- HOW WE SHARE PERSONAL DATA – CALIFORNIA
+
+- HOW WE MARKET TO YOU
+
+- HOW WE PROTECT PERSONAL DATA
+
+- INTERNATIONAL PERSONAL DATA TRANSFERS
+
+- DATA SUBJECT RIGHTS FOR INDIVIDUALS IN THE UK & EEA
+
+- DATA SUBJECT RIGHTS FOR CALIFORNIA RESIDENTS
+
+- DATA SUBJECT RIGHTS FOR INDIVIDUALS LOCATED IN QUEBEC
+
+- OTHER DATA SUBJECT RIGHTS
+
+- HOW LONG WE RETAIN PERSONAL DATA
+
+- HOW WE PROTECT THE PRIVACY OF CHILDREN ONLINE
+
+- OTHER NOTICE INFORMATION LINKS TO OTHER SITES
+
+- REVISION & REVOCATION
+
+- LOCAL POLICIES & PROCEDURES
+
+- DEFINITIONS
+
+- SYSCO GLOBAL DATA PROCESSING ADDENDUM
+
+##### TRANSLATED VERSIONS
+
+Sysco Global Data Privacy Notice in Multiple Languages:
+
+Spanish - Latin America
+
+Chinese
+
+French Canadian
+
+French
+
+Swedish
+
+##### PURPOSE AND SCOPE OF THIS NOTICE
+
+Sysco respects your privacy and understands that you care about how your Personal Data is managed. This Global Data Privacy Notice (this “Privacy Notice”) explains how we collect, protect, use, store and share your Personal Data when you contact us, visit our stores, visit any of our websites (regardless of where you visit from), use our applications or have other interactions with us such as via our contact centres, social media profiles or webchat which are used by our customers, suppliers, employees, contractors, website visitors, social media users, and business partners to complete transactions, conduct other business and manage their accounts.
+
+Capitalized terms are defined below.
+
+##### WHO WE ARE & HOW TO CONTACT US
+
+Sysco operates globally including in the United States, Canada, and countries within Europe, Central America and the Caribbean, and serves more than 650,000 customer locations. “Sysco” is made up of different businesses, details of which can be found here: https://sysco.com/Contact/Contact/Our-Locations.html.
+
+This Privacy Notice is issued on behalf of the Sysco group of companies, so when we refer to “Sysco”, “we”, “us” or “our” in this Privacy Notice, we are referring to the relevant company in the Sysco group of companies with whom you interact and who determines the purpose and means of managing your Personal Data, sometimes referred to as the Data Controller.
+
+Sysco’s Global Data Privacy Officer oversees Sysco’s compliance with data privacy laws and can be contacted via dataprivacy@sysco.com
+
+##### NOTICE STATEMENT
+
+Sysco is a global company, and your Personal Data is processed in accordance with relevant and appliable global, national and local data privacy laws and regulations, including but not limited to the General Data Protection Regulation (GDPR), the Data Protection Act 2018 (UK GDPR), the California Consumer Privacy Act 2018, as amended by the California Privacy Rights Act 2020 (CCPA) , and the Act Respecting the Protection of Personal Information in the Private Sector (“Quebec Privacy Act”) and the Personal Information Protection and Electronic Documents Act (PIPEDA). Many of these laws and regulations require Sysco to explain how we collect, protect, use, store and disclose your Personal Data when you interact with us.
+
+If you are an employee or contractor of Sysco, please see the Sysco Global Employee Data Privacy Notice for more details about how Sysco manages your Personal Data and how you may exercise your applicable rights in relation to your Personal Data.
+
+##### THE PERSONAL DATA WE COLLECT AND WHY
+
+Sysco may collect or ask you to provide your Personal Data when you interact or are in contact with us. Sysco will process your Personal Data in accordance with this Privacy Notice. You are not required to provide the Personal Data that we have requested, but, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
+
+The categories of Personal Data we may collect or process about you, the purpose for processing this Personal Data and the lawful basis is as follows:
+
+“Personal Identifiers” means (including but not limited to): name, age, image, biometric data, business name, account name, address, unique personal identifier, IP address, email address, contact number, social media identifiers, social security number, driver’s license number, vehicle registration number, national insurance number, passport number, or other similar identifiers.
+
+“Transactional Information” means (including but not limited to): name, age, business name, account name, username or other account access information, email address, contact number, shipping address, payment card information, banking information, order history, purchase information, purchase considerations, pick-up times, and geo-locations.
+
+“Marketing, Promotions and Engagement Information” means (including but not limited to): name, age, business name, account name, unique personal identifier, IP address, email address, contact number, address, social media identifiers, order history, purchase information and geo-locations.
+Type of Personal Data
+Purpose / Activity
+Lawful Basis (UK & EEA)
+Personal Identifiers
+
+Transactional Information
+To evaluate and engage with prospective and current customers, suppliers and where relevant individual guarantors, and other business partners to determine suitability, including credit worthiness for account creation purposes and other business engagement.
+Legitimate Interests
+
+Contract
+
+To engage with prospective and current customers, suppliers and other business partners to communicate relevant promotions, offers or opportunities that we think may interest them and answer any queries, via email, phone, SMS, webchat, chat bot, or post, including offers from selected third parties.
+Marketing, Promotions and Engagement Information
+Engagement via social media to drive brand awareness and brand engagement, promote new product and services.
+Marketing, Promotions and Engagement Information
+Administration of competitions and prize draws
+Contract
+
+Surveys and market research to determine the effectiveness of current services and the suitability and popularity of products and influence future products, services and promotions provided by Sysco, or our customers, suppliers and other business partners.
+Monitoring in-store and online communications with customers, suppliers and other business partners for training and quality purposes. Including webchat/chat bot transcripts, and web session recordings to assess the suitability of our websites and how users interact with our websites so that we can continuously improve user experiences.
+To evaluate and engage with prospective employees or contractors.
+
+To process transactions, including fulfilling orders, purchasing goods or services, with customers, suppliers and other business partners including arranging third-party logistics.
+Contract
+
+To manage payments, collect and recover money owed.
+Contract
+
+Aggregated reports – Sysco may combine Personal Data with other information to create aggregate or summary reports and may provide aggregate data to other parties for marketing, advertising, and other purposes. Service improvement - to help Sysco understand its customers and suppliers better including to understand the effectiveness of Sysco products and services and determine required improvements for business processes
+Network and systems security, troubleshooting, system maintenance and data hosting. IT infrastructure security.
+Safety and security of Sysco premises and sites for visitors, employees, customers, suppliers and other business partners through use of CCTV, vehicle monitoring, site inspections and authorized personnel identity verification.
+
+Legal Obligation
+
+“Legitimate Interests” means the interests of our business in conducting and managing our business to enable us to give you the best service and most secure experience.
+
+When we use your information for our legitimate interests, we make sure to consider and balance any potential impact on you and your data protection rights. Where applicable, legitimate interest assessments are conducted to ensure that these rights are protected.
+
+“Contract” means processing your Personal Data because it is necessary for a contract we have with your, or because you have asked us to take specific steps before entering into a contract with you.
+
+“Legal Obligation” means processing your Personal Data because it is necessary to comply with a law that we are subject to.
+
+##### SPECIAL CATEGORY PERSONAL DATA – FOR INDIVIDUALS IN THE UK & EEA
+
+Under the GDPR and UK GDPR, Special Category Personal Data means, Personal Data that divulges any of the following about an individual:
+
+- Racial or ethnic origin;
+
+- Political opinions;
+
+- Religious or philosophical beliefs;
+
+- Trade union membership;
+
+- Genetic data;
+
+- Biometric data (where used for identification purposes);
+
+- Health data; and,
+
+- Sex life and sexual orientation data.
+
+Sysco does not collect Special Category Personal Data about its customers, suppliers, website visitors, social media users, or other business partners.
+
+##### SENSITIVE PERSONAL DATA – FOR CALIFORNIA RESIDENTS
+
+Under the CCPA, Sensitive Personal Data includes any private information that divulges any of the following about a Consumer (Personal Data is not considered Sensitive Personal Data if it is publicly available):
+
+• Personal identification numbers, including social security, driver's license, passport, or state ID card numbers;
+
+• Account or debit or credit card numbers combined with passwords or codes that would enable access to the accounts;
+
+• Exact geolocation;
+
+• Racial origin, religious beliefs, or union membership;
+
+• Mail, email, or text message content unless the information was intentionally sent to the business;
+
+• Genetic data;
+
+• Biometric data when used to identify a Consumer; and,
+
+• Health or sexual orientation data.
+
+Sysco may collect very limited types of Sensitive Personal Data about its customers, suppliers, website visitors, social media users, or other business partners as detailed in the PERSONAL DATA WE COLLECT AND WHY section. Should Sysco request this data, it will be made clear why and how we may use this type of data at the point of collection.
+
+##### HOW WE COLLECT PERSONAL DATA
+
+Sysco may collect Personal Data from its customers, suppliers, employees, contractors, website visitors, social media users, and business partners through any direct and indirect interaction with us, as set out below:
+
+• Through websites, applications and social media platforms;
+
+• Via telephone, through our contact centers, email communications and via mail;
+
+• Through in-store transactions;
+
+• Through our webchat function, including interactions with our chat bots, including the contents of your communications with us;
+
+• Through cookies and similar internet monitoring technologies;
+
+• Through web session recordings;
+
+• Via third parties, including service providers, suppliers and business partners and their websites; and
+
+• Through CCTV and other monitoring systems.
+
+##### HOW WE USE COOKIES & SIMILAR TECHNOLOGIES
+
+Please visit our Sysco Global Cookie Notice for information about our use of cookies and similar technologies: https://www.sysco.com/cookie-policy
+
+##### ARTIFICIAL INTELLIGENCE
+
+Depending on your geographical location, we may use limited artificial intelligence (AI) technologies to enhance your experience when you interact with us. This may involve using your personal data to personalise content, provide tailored offers, interact with you via our website and improve our services. We provide details about how your personal data is used in these AI systems, when applicable. You can also contact us for further details regarding the specific AI processes applied to your data. Processing will be carried out in accordance with local applicable data privacy laws.
+
+Where applicable under local law, you may have the right to request human intervention, express your point of view, and/or to contest a decision. You can also contact us for further details regarding the specific AI processes applied to your personal data.
+
+##### HOW WE SHARE PERSONAL DATA
+
+Sysco may share your Personal Data within its group of companies and brands. We may also provide access to or share your Personal Data with other parties for the purposes set out in the PERSONAL DATA WE COLLECT AND WHY Section above. These parties include:
+
+- External third parties such as service providers, suppliers and/or other business partners.
+
+- Government agencies, regulators or other public authorities where disclosure is required by applicable law.
+
+- Third parties who we may be interested in acquiring or merging with, or where we may seek to sell, transfer or finance parts of our business or assets.
+
+- Third party platforms, websites or social media channels. For example, this may include user content from message boards, webchat transcripts, interactions with our chat bots, web session recordings, product reviews, feedback portals or other interactive or social aspects. Sysco may choose to share this data on other platforms publicly from time to time. Your use of such social media channels and features constitutes your agreement to Sysco’s use of any content you post or transmit through such features for Sysco’s editorial, advertising and publicity purposes, without compensation to you, except where prohibited by law.
+
+We require all parties to whom we disclose Personal Data, to respect the security of your Personal Data and to treat it in accordance with this Privacy Notice and the law. We do not allow any party to whom we disclose Personal Data to use your Personal Data for their own purposes and only permit them to process your Personal Data for specified purposes and in accordance with our instructions.
+
+Sysco also shares, for Sysco’s own business purposes, Personal Data with companies who provide services such as information processing, banking/financial services, extending credit, fulfilling customer orders, delivering products, managing and enhancing customer data, providing customer service, assessing interest in our products and services, and conducting customer research or satisfaction surveys.
+
+##### HOW WE SHARE PERSONAL DATA – CALIFORNIA
+
+###### HOW WE SHARE PERSONAL DATA - ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS
+
+Sysco does not “sell”, as defined under the CCPA, Personal Data.
+
+Sysco may “share” as defined under CPPA, Personal Data. This means Sysco may share, rent, release, disclose, disseminate, make available, transfer, or otherwise communicate orally, in writing, or by electronic or other means, a Consumer’s Personal Data by the business to a third party for Cross-Context Behavioral Advertising.
+
+Please see the DATA SUBJECT RIGHTS FOR CALIFORNIA RESIDENTS section for further information about exercising your rights in relation to the sharing of your Personal Data.
+
+##### HOW WE MARKET TO YOU
+
+Sysco would like to keep you updated with offers and promotions that we think may interest you. We communicate with you via different channels, including post, email, telephone, SMS, webchat, automated calls and social media.
+
+Depending on your geographical location, we may also share your contact details with our service providers, suppliers and other relevant business partners where we think their products or services may be of interest to you.
+
+If you are a Sysco To Go customer, we will not share or sell your cell number with external third parties/affiliates for marketing/promotional purposes.
+
+You may opt-out of any marketing communications by following the unsubscribe directions on postal communications, or the unsubscribe or opt-out links on electronic marketing communications or by advising the contact centre agent you are speaking with of your marketing preferences. You can also contact the Global Data Privacy Office via email at dataprivacy@sysco.com.
+
+Sysco may offer promotions and competitions and sometimes this may be in conjunction with service providers, suppliers or other trusted business partners. If you choose to take up these promotions or enter these competitions, you will be advised at the time how your Personal Data will be used and shared depending on the promotion or competition.
+
+Sysco carries out market research to better understand our customers, suppliers, employees, contractors, website visitors, social media users, and/or business partners’ behaviors, preferences, requirements and product or service experience. You may be asked to complete questionnaires or provide feedback via different channels, including post, email, telephone, SMS, automated calls and social media. Market research is not considered a marketing communication, however, should you wish to opt-out of receiving future market research invitations, please follow the directions of the communication you have received.
+
+Please note, that where you unsubscribe or opt-out of receiving any marketing communications, we will still communicate with you for the purposes of fulfilling your order or managing your account. For example, keeping you updated about the status and delivery of the products you have ordered from us.
+
+##### HOW WE PROTECT PERSONAL DATA
+
+Sysco takes the security and confidentiality of your Personal Data seriously. We maintain technical and organizational measures to protect and keep confidential your Personal Data and have established policies and processes in place to manage any suspected confidentiality breach or Personal Data Breach including protecting against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, taking into account, the sensitivity of the information and the purposes for which it is to be used.
+
+We limit access to your Personal Data to those employees, contractors, service providers or other parties to whom we disclose, or make available your Personal Data to those who have a business need to know.
+
+We also practice data minimization and strive to collect no more Personal Data from you than is required by the purpose for which we collect it. We also apply stringent safeguards when we dispose of or destroy your Personal Data.
+
+##### INTERNATIONAL PERSONAL DATA TRANSFERS
+
+Sysco operates globally including in the United States, Canada, and countries within Europe, Central America, and the Caribbean. Sysco may transfer, process, or store your Personal Data within its group of companies and brands, or to service providers, suppliers and/or other business partners (or their service providers) for the purposes outlined in the PERSONAL DATA WE COLLECT AND WHY section to countries, regions, states or provinces outside the country, region, state or province where your Personal Data was originally collected.
+
+Sysco takes all reasonable steps to safeguard the protection and privacy of your Personal Data, which may include transferring to countries, regions, states or provinces whose privacy laws ensure an appropriate level of protection for Personal Data, implementing standard contractual clauses, or other means of transferring Personal Data which ensure the transfer is lawful and the Personal Data is protected.
+
+##### DATA SUBJECT RIGHTS FOR INDIVIDUALS IN THE UK & EEA
+
+Under UK and EU data privacy laws, you have certain rights in relation to your Personal Data. If you are a UK or EU citizen, you may have the right to:
+
+(a) Request access to the Personal Data that we hold about you;
+
+(b) Correct any inaccurate Personal Data that we hold about you;
+
+(c) Request we delete any Personal Data we hold about you, in certain circumstance;
+
+(d) Request that we restrict the processing of the Personal Data that we hold about you;
+
+(e) Object to the processing of the Personal Data we hold about you; and/or
+
+(f) Request to receive any Personal Data we hold about you in a structured and commonly used machine-readable format or have such Personal Data transmitted to another company (data portability); and
+
+(g) Request information about, or challenge any solely automated decision making and/or profiling we may carry out in relation to you.
+
+You may also have the right to lodge a complaint with the relevant supervisory authority/regulator in your country of residence if you believe Sysco has not complied with local applicable data privacy laws.
+
+UK data privacy law provides UK residents with the right to lodge a complaint directly with us, should you believe Sysco has not complied with local applicable data privacy laws.
+
+If you, or your authorised representative, are located within the UK, and would like to lodge a complaint, please contact the Global Data Privacy Office via email at dataprivacy@sysco.com.
+
+If you, or your authorised representative, would like to exercise any of your rights, please contact the Global Data Privacy Office via email at dataprivacy@sysco.com.
+
+##### DATA SUBJECT RIGHTS FOR CALIFORNIA RESIDENTS
+
+The California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act 2020 (CCPA), grants California residents’ certain rights in relation to their Personal Data. If you are a California resident, you may have the following rights:
+
+a) to access your Personal Data that we hold about you;
+
+b) to delete any Personal Data collected from you;
+
+c) to opt-out of the sale or sharing of Personal Data and know who it is shared with (if applicable);
+
+d) to correct any inaccurate Personal Data that we hold about you;
+
+e) to limit use and disclosure of any Sensitive Personal Data;
+
+f) to opt-out of any automated decision making or request further information about automated decision making; and
+
+g) to request that your Personal Data is transferred to other businesses or organizations (data portability).
+
+You may also have the right to lodge a complaint with the relevant California regulator if you believe Sysco has not complied with local applicable data privacy laws.
+
+If you, or your authorised representative, would like to exercise any of your rights, please contact the Global Data Privacy Office via email at dataprivacy@sysco.com or via our toll-free number; 1-800-407-9726 / 800-40-SYSCO. Please note that Sysco may need to collect information from you so that we can verify your identity before responding to a request.
+
+In relation to opting out of the sale or sharing of your Personal Data (if applicable); you may also exercise your rights by following this link. In relation to limiting the use and disclosure of any Sensitive Personal Data; you may also exercise your rights by following this link.
+
+##### DATA SUBJECT RIGHTS FOR INDIVIDUALS LOCATED IN QUEBEC
+
+The Act Respecting the Protection of Personal Information in the Private Sector (“Quebec Privacy Act”) grants certain rights to individuals located in Quebec, or if their Personal Data is processed in Quebec, in relation to their Personal Data. If you are located in Quebec, or your Personal Data is processed in Quebec, you may have the following rights:
+
+a) To access your Personal Data that we hold about you;
+
+b) To rectify the Personal Data that we hold about you;
+
+c) Request we delete any Personal Data we hold about you, in certain circumstances;
+
+d) To withdraw consent/restrict processing;
+
+e) To opt-out of profiling; and,
+
+f) To request that your Personal Data is transferred to other businesses or organizations (data portability).
+
+If you, or your authorized representative, would like to exercise any of your rights, please contact the Global Data Privacy Office via email at dataprivacy@sysco.com.
+
+##### OTHER DATA SUBJECT RIGHTS
+
+In addition to the jurisdictions addressed above, other jurisdictions have specific legal requirements and grant specific Data Subject rights. Sysco will comply with any requests you submit as required by the applicable law.
+
+When you make a request, we may require that you provide information and follow procedures so that we can verify a request you make (and determine the applicable law) before responding to it. The verification steps we take may differ depending on the applicable law and the nature of the request you make.
+
+Please submit your request to the Global Data Privacy Office via email at dataprivacy@sysco.com.
+
+##### HOW LONG WE RETAIN PERSONAL DATA
+
+We will hold your Personal Data in accordance with the principles of the relevant applicable, local laws for as long as reasonably necessary to fulfil the purposes for which it was collected. We may retain your Personal Data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect of our relationship with you.
+
+We are obliged and permitted by law and regulation to retain certain types of data for a minimum period. The minimum period tends to be for seven years but can be longer if local statute or regulation requires.
+
+##### HOW WE PROTECT THE PRIVACY OF CHILDREN ONLINE
+
+Sysco does not directly target children under the age of 13 and does not knowingly collect Personal Data from children under the age of 13.
+
+Please contact the Global Data Privacy Office via email at dataprivacy@sysco.com if you have concerns regarding the potential collection of your child’s information.
+
+##### OTHER NOTICE INFORMATION LINKS TO OTHER SITES
+
+This Privacy Notice does not apply to any other websites to which a link may be provided by Sysco or found on Sysco’s websites, applications, social media profiles or webchat. We cannot control and are not responsible for the actions of third parties operating such websites. You should not take the existence of an affiliation with, or a link from, Sysco’s websites applications, social media profiles or webchat to any other website to mean that it has a privacy notice of a similar standard. You should review the privacy notice of any third party you choose to interact with.
+
+##### REVISION & REVOCATION
+
+By interacting with Sysco in any of the ways outlined, you are agreeing to this Privacy Notice. This is our entire and exclusive Privacy Notice, and it supersedes any earlier version, provided that as to any given Personal Data we will abide by the terms of the Privacy Notice in effect when we collected that Personal Data, absent your consent.
+
+This Privacy Notice shall be reviewed annually or more frequently as required by changes in legal, regulatory or Sysco requirements, or to correct identified deficiencies.
+
+If we make any material changes, we will let you know via Sysco websites, email, or other relevant communication channels. We encourage you to periodically review this Privacy Notice to stay informed about how we collect, protect, use, store and disclose your Personal Data.
+
+If you wish to make a complaint about Sysco’s handling of your Personal Data or about this Notice in general, please contact the Data Privacy Office via email at dataprivacy@sysco.com.
+
+##### LOCAL POLICIES & PROCEDURES
+
+Sysco operates in many countries, and it is Sysco’s intention to comply with all applicable legal requirements. Accordingly, if a provision of this Privacy Notice conflicts with applicable local legal requirements, Sysco may adopt regional or country-specific notices or policies on this subject to accommodate local conditions or legal requirements. You must comply with all applicable local laws, regulations, policies and procedures.
+Executive Notice Owner:
+Vice President, Legal, International & Deputy General
+Notice Owner:
+Senior Director, Global Data Privacy Officer
+Prepared By:
+Senior Director, Global Data Privacy Officer
+Effective Date:
+June 2026
+Notice Location:
+Global Data Privacy SharePoint & www.sysco.com
+Version No:
+V3
+Reason for Revision:
+Update to reflect updated global privacy laws requirements.
+
+##### DEFINITIONS
+
+Consumer - a natural person who is a resident of California as defined in Section 17014 of Title 18 of the California Code of Regulations.
+
+Cross-context behavioral advertising - the targeting of advertising to a Consumer based on the Consumer’s personal information obtained from the Consumer’s activity across businesses, distinctly- branded websites, applications, or services, other than the business, distinctly branded website, application, or service with which the Consumer intentionally interacts.
+
+Individual/Data Subject - the identified or identifiable living individual to whom Personal Data relates.
+
+Personal Data - any information that relates to an identified or identifiable individual or consumer and includes information that can be reasonably linked to you. Also referred to at Personally Identifiable Information (PII) and Personal Information.
+
+Personal Data Breach - a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise processed.
+
+Sensitive Personal Data (CCPA) - Personal Data that reveals: (A) A Consumer’s social security, driver’s license, state identification card, or passport number. (B) A Consumer’s account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account. (C) A Consumer’s precise geolocation. (D) A Consumer’s racial or ethnic origin, religious or philosophical beliefs, or union membership. (E) The contents of a Consumer’s mail, email, and text messages unless the business is the intended recipient of the communication. (F) A Consumer’s genetic data.
+
+Special Category Personal Data (GDPR & UK GDPR) - Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited.
+
+Act Respecting the Protection of Personal Information in the Private Sector (“Quebec Privacy Act”) - serves as a data privacy law with the primary objective of safeguarding the personal information privacy of residents in the Canadian Province of Quebec.
+
+The California Consumer Privacy Act 2018 as amended by the California Privacy Rights Act 2020 (CCPA) - creates an array of Consumer privacy rights and business obligations with regard to the collection and sale of California residents’ Personal Data/information.
+
+The General Data Protection Regulations (GDPR) – sets guidelines for the processing of Personal Data about individuals in the UK and EU. The GDPR provides individuals with more control over how their Personal Data is handled and disseminated by businesses and provide an array of Data Subject privacy rights.
+
+##### SYSCO GLOBAL DATA PROCESSING ADDENDUM
+
+Sysco Global Data Processing Addendum

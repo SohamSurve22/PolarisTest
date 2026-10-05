@@ -1,0 +1,284 @@
+# Privacy Statement
+
+Last Updated: January 30, 2026
+
+PLEASE READ AND REVIEW THE FOLLOWING PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEBSITE
+
+This Privacy Statement sets forth the privacy policies and practices of Cencora, Inc. and its subsidiaries and affiliates (collectively, “Cencora”), as they relate to the collection, use and disclosure of Personal Data (as defined below) in connection with your use of our websites that link to this Privacy Statement (the “Websites”). Please read this Privacy Statement carefully and completely before using the Websites.
+
+This Privacy Statement does not apply to Personal Data processed by Cencora:
+
+- When you apply for a job with us. Please see Applicant Privacy Statement.
+
+- In the course of your employment with us – whether as an employee or independent contractor.
+
+- Where we process Personal Data on behalf of and on the instructions of our customers (i.e., as a processor or a service provider). We are not responsible for the privacy or data security practices of our customers, which may differ from those explained in this Privacy Statement.
+
+- That is subject to the Health Insurance Portability and Accountability Act and certain of laws related to clinical trials and research.
+
+The terms “we,” “us,” and “our” refer to Cencora, and the terms “you” and “yours” refer to you, as user of the Websites. By accessing and using the Websites, you agree to the Terms and Conditions of Use (“Terms of Use”).
+
+What is Personal Data?
+
+When we use the term “Personal Data” in this Privacy Statement, we mean information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to an individual or household. The term does not include aggregated information that is maintained in a form that is not reasonably capable of being associated with or linked to an individual and does not apply to other information that is excluded from privacy protections under applicable law (“Deidentified Data”). We will use reasonable measures to maintain the Deidentified Data in deidentified form and not attempt to reidentify it unless permitted under applicable law.
+
+Collection and Use of Your Personal Data
+
+Personal Data We Collect Directly from You
+We may collect Personal Data directly from you when you visit our Websites, choose to use services or participate in programs or otherwise provide Personal Data directly to us. Personal Data we collect directly from you may include:
+
+- Contact Information: including name, email address, postal address, and/or telephone number.
+
+- Account Information: including your user ID and password;
+
+- Financial Information: payment details you provide to us for purchasing goods or services;
+
+- Demographic Information: including date of birth and gender;
+
+- Communications Information: including information provided in messages sent through the forms or the Websites, product and service preferences and/or behaviors; and future communication preferences;
+
+- Survey Information: information provided when you respond to questions submitted through surveys, e.g. name, contact details, date of birth and gender;
+
+- Marketing Information: personal details (name, contact preferences) provided in order to personalize marketing and promotional communications information based on your activities and interests to the extent it is necessary for legitimate interest purposes.
+
+Personal Data We Automatically Collect About You
+With your consent, we and our third-party providers may collect certain Personal Data from (or in connection with) your device when you visit the Websites, use our Services, or view online advertisements. This Personal Data includes:
+
+- Device Data: including internet protocol (IP) address, operating system and platform, device type and version, browser type and version, browser id, the URL entered and the referring/destination page, date/time of visit, language preferences, the time spent on our Websites, and any errors that may occur during the visit to our Websites.
+
+- Analytics data: including the path taken to/from our Websites, usage and activity on our Websites.
+
+- Location data: such as approximate geolocation.
+
+- Social Media Data: if you interact with us through a social media service (such as Facebook, LinkedIn, Instagram, X, and others) or log in using social media credentials, depending on your social media settings, we may have access to your information from that social network such as your name, email address, age, gender, and location
+
+We and our third-party providers may use cookies and other related technologies such as, web beacons to automatically collect this information. This helps us analyze how you use and interact with our Websites and distinguish you from other users. It also helps us and our third-party providers to determine products and services that may be of interest to you. For more information about these practices and your choices regarding cookies, please see our Cookie Policy.
+
+Personal Data We Collect from Other Sources and Third Parties
+
+We collect Personal Data from third parties, which we may combine with Personal Data we collect automatically or directly from a user. We may collect the same categories of Personal Data as identified above from the following third parties:
+
+- Your Employer / Company: we may receive your Contact Information from your employer / company where you interact with the Websites through your employer / company.
+
+- Business Partners: we may receive your Personal Data from our business partners.
+
+- Service Providers: our service providers that perform services on our behalf, such as analytics providers and payment processors, collect Personal Data and often share some or all of this information with us.
+
+- Information Providers: we may from time to time obtain information from third-party information providers to correct or supplement Personal Data we collect. For example, we may obtain updated Contact Information from third-party information providers to reconnect with an individual. We will obtain your consent to do so where required by applicable data privacy and security rules and regulations (“Data Protection Laws”).
+
+- Other Sources: We may also collect Personal Data from publicly available sources or through transactions (e.g., mergers and acquisitions). We will obtain your consent to do so where required by applicable law.
+
+Please be advised that any Personal Data provided to us by a third party may also be subject to that third party’s privacy policy.
+
+Some of the Personal Data (e.g., financial account and location data) that we collect, and process may be considered sensitive Personal Data in certain jurisdictions. The processing of such data is necessary for providing services to you and/or personalizing our services and Websites. We adopt appropriate security measures to protect the Personal Data we process, including sensitive Personal Data. We do not expect that our processing of sensitive Personal Data would impact your rights and interests adversely.
+
+Use of Personal Data
+
+In addition to the examples provided above, we may use your Personal Data in the following ways:
+
+• To provide, operate, maintain, protect, and improve our Websites, including developing new websites, products, services, or offerings;
+
+• To communicate with you, respond to your inquiries, and to send you information by email, postal mail, telephone, text message, notifications, or other means about our products and services;
+• To promote and conduct educational, research, promotional, or industry events or activities, including those that may be held in person;
+
+• To enhance and help us better understand your browsing experience, needs, and preferences and provide consistent, personalized services and experiences across our Websites;
+
+• To protect the security or integrity of the Websites, including to perform security analyses to verify that the Websites are working properly and have not been compromised based on our legitimate interests;
+
+• To protect us, our users, and the public, and comply with applicable law, regulation, or legal process, including to validate user information for fraud and risk detection purposes, resolve disputes and protect the rights of users and third parties, respond to claims and legal process (such as subpoenas and court orders), fulfill our reporting obligations, monitor and enforce compliance with our contracts and otherwise detect, prevent, or stop any activity that may be illegal, unethical, or legally actionable; and
+
+• To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by us about you is among the assets transferred.
+
+Retention
+
+Personal Data will be stored and kept as long as needed to carry out the purposes described in this Privacy Statement or as otherwise required by applicable Data Protection Laws. Because these needs can vary for different data types in the context of different services, actual retention periods may vary.
+
+When determining the retention period, we consider various criteria, such as the type of service requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with services, the impact on the services we provide if we delete some Personal Data from or about you, mandatory retention periods provided by applicable law, including Data Protection Laws, and the U.S. statute of limitations.
+
+Unless we are required or permitted by law to keep your Personal Data for a longer period of time (e.g., in pending litigation matters or where the law requires us to), when this Personal Data is no longer necessary to carry out the purposes for which we process it, we strive to handle and securely destroy your Personal Data or keep it in a form that does not permit identifying you. If there is any Personal Data that we are unable, for technical reasons, to delete entirely from our systems, we will put in place appropriate measures to prevent any further use of that Personal Data.
+
+Purposes and Legal Bases for Processing Personal Data
+
+We process Personal Data for the following purposes (and as required where you or we are located in the EEA/Turkey/UK in reliance on the following legal bases):
+Purposes of Processing
+Categories of Personal Data
+Legal Basis for Processing (where you OR we are located in the EEA / UK / Turkey)
+Create and manage user accounts (including, verification / authorization for the same)
+Name, address, contact number, country, date of birth, email, username.
+Where necessary for the performance of a contract entered into with a user (Article 6(1)(b) GDPR)
+Send you service-related communications and respond to your communications made via the Websites
+Name, contact address, email, contact number.
+We have a legitimate interest to respond to your communications and keep records in case of complaints / legal claims (Article 6(1)(f) GDPR)
+Administer, analyze, improve and personalize our Websites (including, testing, trouble-shooting and research)
+Name, contact address, email, username.
+We have a legitimate interest in providing the Websites and processing Personal Data to see if and how our Websites can be improved, so that we can offer you a better user experience in the future (Article 6(1)(f) GDPR)
+To ensure network and information security, including monitoring authorized users’ access to our Websites for the purpose of preventing cyber-attacks, unauthorized use of our systems and Websites, prevention or detection of crime and protection of Personal Data
+Name, email, username.
+We have a legitimate interest in ensuring our systems / Websites are secure and that individuals are using our systems / Websites correctly and in compliance with our Terms of Use (Article 6(1)(f) GDPR)
+Help maintain the safety, security and integrity of our property, technology assets, and business
+Name, contact address, email, username.
+We have a legitimate interest in ensuring our property / business are secure (Article 6(1)(f) GDPR)
+To defend and enforce our rights (and those of third parties) including, against legal claims, and to manage regulatory matters, investigations, data breaches, and/or data subject requests
+Name, address, contact number, country, date of birth, email, username, health data (if applicable).
+We have a legal obligation to do so (e.g., respond to data subject requests) (Article 6(1)(c) GDPR)
+
+We have a legitimate interest to manage our business and to ensure that all investigations and proceedings etc. are managed efficiently and effectively (Article 6(1)(f) GDPR)
+Register you for and provide you access to events
+With your consent (Article 6(1)(a) GDPR)
+Request users to complete surveys
+With your consent (Article 6(1)(a) GDPR)
+For marketing and advertising purposes, including to offer you through email, information and updates on products or services we think that you may be interested in
+Name, email, username.
+Where required, with your consent (Article 6(1)(a) GDPR) or otherwise in reliance on our legitimate interests i.e., to find, customize, and offer products and services we hope you find useful and relevant and in turn, provide you with quality customer service (Article 6(1)(f) GDPR)
+Measure the effectiveness of the advertising we serve to you and others
+Name, contact address, email, username.
+With your consent (Article 6(1)(a) GDPR)
+To enable any due diligence and other appraisals or evaluations for any actual or proposed merger, acquisition, financing transaction or joint venture contemplated by Cencora
+We have a legitimate interest to manage our business (Article 6(1)(f) GDPR)
+
+Subject to applicable Data Protection Laws, you have a right to object to the processing of your Personal Data where that processing is carried out for our legitimate interests. You can stop receiving promotional email communications from us by clicking on the “unsubscribe” link provided in such communications. You may not opt-out of service-related communications (e.g., account verification, updates to features of the Websites, technical and security notices).
+
+In certain jurisdictions, applicable Data Protection Laws may require that we obtain your consent for the processing of your Personal Data. In such circumstances, we will process your Personal Data based on your consent. In appropriate circumstances, your consent may be implied by your conduct.
+
+Consequences of Not Providing Personal Data
+
+Where we need to collect the above mentioned categories of Personal Data by virtue of a legal obligation or in light of a contract entered or to be entered into with you, and you do not provide this Personal Data when requested, we may not be able to comply with our legal obligations, provide you with the services or perform the contract we have or are trying to enter into with you. In such case, we may have to terminate our relationship with you.
+
+Disclosing Your Personal Data
+
+We may disclose your Personal Data with the following third parties:
+
+- Cencora Affiliates: we may disclose your Personal Data with our subsidiaries and affiliates for the same purposes as are described above.
+
+- Service Providers: we engage third-party service providers to perform business / operational services for us or on our behalf and to whom we will disclose Personal Data. These third parties include, for example, providers of website hosting, IT services, analytics services, and payment processing services.
+
+- Advertising Partners and Ad Networks: we work with third-party ad networks and advertising partners to deliver advertising and personalized content on our Websites. These parties may collect Personal Data directly from a browser or device when a user visits our Websites e.g., through cookies. This Personal Data is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research. Please see our Cookie Policy for more information.
+
+- Your Employer / Company: we may disclose your Personal Data to your employer / company if you interact with our Websites through your employer / company.
+
+- Transactions: we may disclose Personal Data to a third-party during negotiation of, in connection with, or as an asset in a corporate business transaction. Personal Data may also be disclosed in the event of a transfer, sale or merger of all or a portion of Cencora’s assets, in the event of an insolvency, bankruptcy, or receivership or other corporate change involving us or our affiliates.
+
+Disclosing information as required by law and similar disclosures
+
+We may disclose Personal Data we have about you: (i) if we are required to do so by law, regulation, or legal process, such as a court order or subpoena; (ii) in response to requests by government agencies, such as law enforcement authorities; (iii) when we believe a disclosure is necessary or appropriate to protect against or respond to physical, financial or other harm and injury (iv) in connection with an investigation or suspected or actual unlawful activity.
+
+Aggregated information
+
+We may share anonymous usage data on an aggregate basis with third parties to help us perform analysis and make improvements. Additionally, we may share anonymous usage data on an aggregate basis in the normal course of operating our business; for example, we may share information with subsidiary organizations to show trends in the use of our services.
+
+Other disclosures
+
+At your direction or request, or when you otherwise consent, we may disclose your Personal Data for purposes other than those that are listed above.
+
+If you would like to obtain information regarding the names and contact details of the parties with whom we share your Personal Data, their processing purpose and method, the categories of Personal Data shared with them, and the method and procedures for exercising your rights with them, please contact us using the contact details set out at the end of this Privacy Statement. Please note however that we may not be able to fulfil this request in all instances.
+
+Your Privacy Rights
+
+To see information regarding your individual rights as a resident of certain U.S. states, please see the State Supplement to Privacy Statement. Some of the contents of this Section may not be applicable to you.
+
+Depending on where you are located and/or the location of the Cencora company you are interacting with, you have certain privacy rights with respect to your Personal Data, including as follows:
+
+· Right to Object: you have the right to object at any time to the processing of Personal Data on grounds relating to your particular situation, including a right to object to the processing of your Personal Data for processing performed on the basis of legitimate interest, unless we are able to demonstrate overriding compelling legitimate grounds.
+
+· Right to Know/Access: You have the right to obtain confirmation from us as to whether we are processing your Personal Data and the right to access and receive a copy of such Personal Data.
+
+· Right to Delete/Erasure: In some cases, you may request the deletion or erasure of Personal Data concerning you.
+
+· Right to Rectify/Correct Inaccurate Information: If we process inaccurate, incomplete, or outdated Personal Data, you have the right to rectification.
+
+· Right to Withdraw Consent: Once you have consented to the collection of your Personal Data, you may withdraw your consent at any time. Please note that your withdrawal of consent would not affect the lawfulness of processing based on consent before it was withdrawn.
+
+· Right to Data Portability: You have the right to receive the Personal Data concerning you in a structured, commonly used and machine-readable format and the right to transmit that information to another company where feasible.
+
+· Right to Restrict: You have the right to restrict us from processing Personal Data under certain circumstances e.g. you contest the accuracy of your Personal Data or when you believe that we are processing your Personal Data beyond the original purpose.
+
+· Right to Lodge a Complaint: You have the right to lodge a complaint with the competent data protection supervisory authority. You can, for example, contact the supervisory authority in the EU Member State of your residence, place of work or place of alleged infringement. For UK residents, please follow this link for the Right to Complain.
+
+· Right to Non-Discrimination: we will not discriminate against you for exercising any of your privacy rights.
+
+You may exercise these rights by contacting Cencora under the “Contact Us” section below or via the Data Subject Request form provided on our website. In order to protect your privacy, we may take steps to verify your identity before fulfilling your request.
+
+Canada users:
+
+Under the Personal Information and Electronic Documents Act (“PIPEDA”) you have the right to:
+
+Access the Personal Data we hold about you;
+
+Correct any inaccurate or outdated Personal Data we hold about you; and
+
+Withdraw your consent for any activities for which consent has been granted by you.
+
+French users: right to give specific instructions concerning the fate of your Personal Data after your death.
+
+Turkish users: details of the recipients to whom we transfer Personal Data (in country or abroad), claim compensation for damage arising from the unlawful processing of your personal data, object to the automated processing of your personal data where a negative result is produced.
+
+U.S. users
+
+We also refer you to the U.S. State Supplement to this Privacy Statement for information related to privacy laws of certain U.S. States.
+
+International Transfer of Personal Data
+The Personal Data we collect may be transferred to and stored in countries or provinces outside of the jurisdiction you are into locations where we and our third-party service providers have operations, including in the USA. For example, if you are accessing a Website hosted in the USA (e.g., by Cencora Corporation) from the EEA, UK or Switzerland, your Personal Data will be processed outside of the EEA, the UK and Switzerland, respectively.
+
+Cencora has entered into intra-group data transfer agreements to ensure the lawful transfer of Personal Data between the Cencora companies.
+
+European Transfers: If you are located in the EEA, UK, Switzerland or other countries which restrict the transfer of Personal Data, we comply with applicable data protection laws when transferring your Personal Data outside of these areas. In particular, we may transfer your Personal Data to countries for which adequacy decisions have been issued; implement appropriate and suitable safeguards such as the European Commission’s Standard Contractual Clauses or the Addendum B.1.0 issued by the Information Commissioner of the UK for the transfer of Personal Data to our U.S. headquarters, other offices or third parties, where applicable, or where required, we will ask you for your prior consent.
+
+Data Transfers outside of China: Where we transfer Personal Data to a recipient outside of China, we will comply with the applicable requirements under China’s data protection laws, including the Personal Information Protection Law, and take necessary measures to ensure that the data processing activities of the recipient meet the applicable protection standards stipulated by China’s data protection laws.
+
+If you are a resident of the People’s Republic of China and are accessing our Websites, you should be aware that by doing so you are exporting your Personal Data from China and you consent to Cencora processing your Personal Data in accordance with this Privacy Statement. If you do not wish Cencora to process your Personal Data, you may withdraw your consent by using the contact details below or email privacy@cencora.com
+
+Other Jurisdictions: For other jurisdictions Cencora is committed to ensuring the security of your Personal Data while it engages in any cross-border transfers and is going to take all necessary measures required under the applicable legislation including obtaining your prior consent that is informed, freely given and specific.
+
+You may contact us using the details below to obtain information regarding the safeguards we use to legitimize the cross-border transfer of Personal Data.
+
+Security of Your Personal Data
+We use commercially reasonable appropriate technical, administrative and physical safeguards to protect Personal Data from loss, misuse or alteration. We limit access to Personal Data to those employees, agents, contractors and other third parties who have a business need to know. You acknowledge and agree that no organization can guarantee the absolute security of Personal Data, and any transmission of Personal Data is at your own risk.
+
+Protection of Children
+Cencora will not knowingly collect, use or disclose Personal Data from a Child without obtaining prior consent from a person with parental responsibility (parent or guardian) where required by applicable law. Cencora abides by laws protecting the privacy of Children. Should a user whom we know to be under 18 provide Personal Data to us, we will use that information only to respond directly to that Child to inform him or her that we must have parental consent before receiving information about him or her and then delete it.
+
+Cookies and Other Tracking Technologies
+
+We may use cookies, pixel tags, clear GIFs, web beacons and other similar tracking technologies including JavaScript code (“tracking technologies”) to automatically collect information through our website. Tracking technologies are essentially small data files placed on your computer, tablet, mobile phone, or other devices that record certain pieces of information when you visit our website. We may use these tracking technologies to help identify irregular behavior, prevent fraudulent activity and improve security, as well as making it possible for you to save your preferences and help us understand how you interact with our website.
+
+We also allow third parties to use tracking technologies on our website for analytics and advertising. They assist in helping display advertisements, tailor advertisements to your interests and to assist in determining if you require assistance or are having problems navigating on our website. Some of these third parties are our service providers that may use certain technologies to record your interactions with the sites, including without limitation, your keystrokes and mouse clicks, and information about when, how and from where you accessed our sites. This information is used to help us manage our sites and provide a good user experience. The service providers we use in this regard agree not to sell or disclose any of the recorded information to third parties (other than subcontractors who assist in providing this service to us or for legal compliance purposes at our direction). Other third parties use the tracking technologies to collect information about how you interact with other websites and advertisements across the Internet to provide advertising that is tailored to your interests and which may appear on our website or on other websites or platforms.
+
+Your Cookie Choices
+
+You may set your browser to notify you when you receive a cookie. Many web browsers also allow you to block cookies. You can disable cookies from your computer system by following the instructions on your browser or at www.youradchoices.com.
+
+.
+Additionally, certain U.S. jurisdictions may consider the use of tracking technologies for advertising purposes to be “selling” or “sharing” personal data. For more information, including rights to opt out of these activities, visit the State Supplement to Privacy Statement.
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals. However, we recognize the Global Privacy Control ("GPC") signal in accordance with applicable law. The GPC signal is a type of opt-out preference signal, which is a signal sent by a platform, technology, or mechanism on behalf of consumers and communicates a consumer’s privacy choice(s), most often to opt out of the sale and sharing of personal data for cross-context behavioral advertising, without having to make individualized requests. The signal can be set on certain browsers or through opt-out plug-in tools.
+
+As required by applicable law, we recognize GPC signals at the browser level, potentially including “do not sell”, “do not share”, “limit the use or disclosure of sensitive personal information,” and opt out of targeted advertising requests. This means that if the signal is sent through a specific browser, we will recognize it for that browser only. If you would like more information, including how to use GPC signals, please visit the Global Privacy Control website at https://globalprivacycontrol.org/. We also refer you to the U.S. State Supplement to this Privacy Statement for information related to privacy laws of certain U.S. States.
+
+Accessibility
+
+We are committed to ensuring that our communications are accessible to people with disabilities. To make accessibility-related requests or report barriers, please contact us at info@cencora.com.
+
+Links to Other Sites
+Our Websites may provide links to third party websites, plug-ins and applications. Except where we post, link to or expressly adopt or refer to this Privacy Statement, this Privacy Statement does not apply to, and we are not responsible for, any Personal Data practices of third-party websites and online services or the practices of other third parties. To learn about the Personal Data practices of third parties, please read their respective privacy policies.
+
+Modifications and Updates to Privacy Statement
+Cencora may update and modify this Privacy Statement from time to time. If we make material changes to this Privacy Statement, we will notify individuals by email to their registered email address, by prominent posting on our Websites, or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided.
+
+Contact Us
+If you have any questions about our privacy practices or this Privacy Statement, or if you wish to submit a request to exercise your rights as detailed in this Privacy Statement, please contact us using the contact details set out below.
+
+Cencora, Inc.
+
+Corporate Headquarters
+
+1 West First Avenue
+
+Conshohocken, PA 19428
+
+Phone: 1-800-829-3132
+
+Attention: Amy Huffman, Vice President, Legal, Regulatory & Privacy
+
+Email address: The Office of Privacy may be contacted at privacy@cencora.com.
+
+Additionally, if you would like to submit a Data Subject Request, you may contact us through the form provided on our website.

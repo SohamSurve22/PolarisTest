@@ -1,0 +1,523 @@
+Order Lookup
+
+## PRIVACY NOTICE
+
+Last Updated February 02, 2026
+
+Advance Auto Parts, Inc. and its affiliates (collectively, the "Company," "we," or "us") want you to be familiar with how we collect, use, and disclose personal information in association with the operation of our business. For details about the scope of application of this Privacy Notice, please refer to the Scope section of the policy. This Privacy Notice is not a contract and does not create any legal rights or obligations.
+
+## CATEGORIES OF PERSONAL INFORMATION
+
+We collect the following categories of personal information:
+
+-
+Identifiers that can be used to identify you. This includes your contact information, such as name, postal address (including billing and shipping addresses), phone number, and mail address. It also includes your online identifiers, such as your online account login ID, social media account ID, IP address, or cookie ID. Also, it includes your payment information, such as your payment card information.
+
+-
+Commercial information, such as vehicle information (e.g., type, year, make, model, license plate number, or VIN), or products or services you purchased, reviewed, or considered purchasing.
+
+-
+Internet activity information, such as your browsing history, search history, or other information when you interact with our websites, applications, and advertisements.
+
+-
+Geolocation data, including precise geolocation data, when you choose to share your precise location (e.g., through mobile app settings). It may also include coarse location data (e.g., city or region-level location) that we infer from your IP address.
+
+-
+Audio, electronic, video, or image data, such as recordings captured during your visits to our stores or parking lots, or when you communicate with us by phone or through virtual channels.
+
+-
+Demographic, education, professional or employment information, such as information you provide in any surveys.
+
+-
+Inferences or preferences we learn or infer about you.
+
+-
+Sensitive personal information, such as social security numbers, driver's license information, health information, and information related to racial or ethnic origin. Please do not share sensitive personal information with us unless we specifically request it.
+
+-
+Other personal information, if it identifies, relates and can be reasonably associated with or linked to you (or your household).
+
+To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+
+## METHODS OF COLLECTION
+
+We collect personal information from various sources, including collecting information directly from you, through automated means, from vendors and other external sources, as well as by generating information about you.
+
+### Information You Provide
+
+You may provide any of the categories of personal information described above when you interact with us. This includes your contact information, payment information, vehicle information, preferences, and demographic data.
+
+We collect this information through various interactions, including when you sign up for a newsletter, respond to a survey, fill out a form, register a product warranty, join a loyalty program, create an account on our digital platforms, visit our stores, attend events, enter contests or sweepstakes, place an order, submit a review, contact customer service (including through our chat function), or make a purchase.
+
+### Automated Information Collection
+
+We collect personal information online or offline via automated means. When you visit our digital properties (e.g., websites, mobile apps, HTML-formatted email messages, etc.), we collect information using technologies such as cookies, pixels, tags, and other online tracking tools. This includes data gathered from our websites, mobile apps, and digital communications.
+
+We may collect details such as:
+
+-
+Device and browser information: IP address, MAC address, device type (e.g., Windows or Mac), screen resolution, operating system and version, device manufacturer and model, advertising identifiers (IDFA for iOS, AAID for Android), language settings, and browser type and version.
+
+-
+Usage data: App usage patterns, pages visited, links clicked, mouse movements, scrolling behavior, and page load times.
+
+We use analytics tools to understand how users interact with our services. These tools help us visualize user sessions, identify trends, diagnose performance issues, and enhance customers' overall experience. We also use analytics tools for ad measurement purposes, such as Google Analytics.
+
+To support asset protection and enhance our operations, our stores may use cameras, sensors, and other technologies in areas such as our stores and parking lots. These tools help us monitor traffic patterns, improve store layouts, and safeguard our business. With your consent, we may also collect your precise geolocation to enhance your shopping experience—for example, by helping you find the nearest store or offering location-based services.
+
+### Information from Other Sources
+
+-
+Affiliates and Subsidiaries. We may receive information from our subsidiaries and affiliated companies to ensure consistency across our services and to support internal operations.
+
+-
+Publicly Available Sources. This includes information from public records, online directories, and other sources that are lawfully made available to the public.
+
+-
+Joint Marketing Partners. We may receive information from partners with whom we jointly offer products or services, or who engage in co-branded marketing activities with us.
+
+-
+Data Enrichment Services. We may use services that provide additional context to our existing customer data, such as updated contact details or inferred preferences.
+
+-
+Social Media Platforms. If you interact with our content on social media (e.g., by liking or sharing a post), we may receive information from those platforms in accordance with your privacy settings and the platform's policies.
+
+-
+Advertising Networks, Analytics Providers, and Content Publishers. These partners may provide us with information about your interactions with our advertisements or sponsored content, including views, clicks, and conversions, to help us measure and optimize our marketing efforts.
+
+### Information We Generate or Derive
+
+We may generate or infer certain information about you based on the data we collect. For example, we might analyze your activity to identify your shopping preferences and offer personalized recommendations.
+
+## PURPOSE OF COLLECTION
+
+We may use your personal information for a range of business and commercial purposes, such as delivering products and services, communicating with you, supporting and improving our operations, and fulfilling legal, compliance, and security obligations. Additionally, we may use your information for other purposes disclosed at the time of collection or with your consent.
+
+### Provide products or services
+
+We use identifiers, commercial information, internet activities information, geolocation data, and other personal information to provide products or services to you, including:
+
+- To complete and document your transactions, process returns and exchanges, verify your information, and provide you with related benefits, special promotions, or customer service.
+
+- To provide our e-commerce platform functionality to you, such as arranging access to your registered account and providing you with related benefits, special promotions, or customer service.
+
+### Customer Communication and Outreach
+
+We use identifiers, commercial information, internet activities information, geolocation data, demographic, education, and employment information, inferences or preferences, and other personal information to facilitate customer communication and outreach from us and our business partners, including:
+
+- Providing newsletters, marketing communications, and targeted advertising about our services, products, and company news.
+
+- Understanding your interests and preferences to personalize our interactions and deliver information or offers tailored to you.
+
+- Responding to and documenting your inquiries and fulfilling your requests when you contact us through any customer service channel—such as online forms, phone, email, or interactive chat—including when you send questions, suggestions, compliments, or complaints, or request quotes or product/service information.
+
+- Sending administrative messages, such as updates to our terms, conditions, and policies.
+
+- Offering sweepstakes, contests, or other promotional activities.
+
+### Maintain and Improve Products and Services
+
+We use identifiers, commercial information, internet activities information, geolocation data, audio, electronic, video, or image data, demographic, education, and employment information, inferences or preferences, and other personal information to maintain and improve products and services of our company and our business partners, including:
+
+- Conducting data analytics and research, including developing new products and services, performing market research, training algorithms, predicting user preferences, visualizing user journeys, enhancing user experience, and preparing trend reports.
+
+- Understanding your preferences to customize your experience in stores and online, including delivering personalized advertisements and offers, and conducting ad performance measurement.
+
+- Supporting business operations, such as auditing, debugging, fraud prevention, verifying or maintaining the quality or safety of our products and services, and ensuring security protections.
+
+### Legal, Compliance, Law Enforcement, and Security Requirements
+
+We use identifiers, commercial information, internet activities information, geolocation data, audio, electronic, video, or image data, and ther personal information for legal, compliance, and physical and cyber security protection purposes, including:
+
+- Comply with and enforce legal, contractual, policy, and industry requirements, including our Terms and Conditions.
+
+- Assist law enforcement, respond to regulatory inquiries, and defend legal rights.
+
+- Protect the physical and cyber security of the company.
+
+### Other Purposes for Which You Provide Personal Information or Otherwise Consent
+
+We use all categories of personal information described under "Categories of Personal Information" to fulfill any other purpose for which you provide your personal information, or for which you have otherwise consented.
+
+## DISCLOSURE OF PERSONAL INFORMATION
+
+We may disclose personal information for various purposes:
+
+### Affiliates and Subsidiaries
+
+We disclose personal information to our subsidiaries and affiliates to deliver requested products or services, communicate about accounts and relevant updates, improve and maintain the quality of offerings, and fulfill legal, regulatory, and security obligations.
+
+### Product and Service Providers
+
+We disclose personal information to product and service providers for business operations. These may include, but are not limited to, providers of website hosting, data analytics, payment processing, order fulfillment, returns management, fraud prevention, IT and infrastructure services, customer support, promotional benefits, email delivery, auditing, and other related services.
+
+### Unaffiliated Third Parties
+
+We disclose personal information to certain unaffiliated third parties who may also use personal information for their own specific purposes.
+
+We share personal information with a range of advertising partners, as well as technology and data providers that support ad delivery, personalization, and performance measurement. This includes publishers operating the websites you visit (e.g., online news outlets or blog sites), social media platforms, ad tech providers, advertising agencies, data enrichment vendors, and measurement and analytics companies. Together, they use various online advertising technologies (e.g., cookies, pixels, tags, SDKs, etc.) to deliver relevant ads, track engagement, measure effectiveness, and improve advertising strategies across platforms.
+
+We also disclose personal information to joint marketing partners and third-party sponsors of sweepstakes, contests, and similar promotions.
+
+### Legal, Enforcement, and Security
+
+We may disclose information about you when required by law, regulation, or legal process, such as a court order or subpoena. We may also share information in response to requests from government agencies, including law enforcement or tax authorities, when we believe it is appropriate or necessary. Additionally, we may disclose information to protect the rights, property, or safety of our company, our customers, or others—such as to prevent harm, injury, loss, or to recover debts owed. Disclosures may also occur in cases of reasonably suspected or actual fraud or as part of investigations into unlawful activity.
+
+### Business Transfers
+
+We may disclose your personal information to another entity in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+
+### Other
+
+You may elect to disclose personal information by consenting to or directing us to do so.
+
+## YOUR PRIVACY CHOICES
+
+### Marketing Emails
+
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out by using the unsubscribe link contained in the footer of the email. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out. You can also modify your email preference if you have an online account with us.
+
+### SMS
+
+If you no longer want to receive automated text messages, you may opt out by responding STOP to such text messages.
+
+### Mobile Apps
+
+You can uninstall our mobile app or manage your push notification preferences by using the standard settings or uninstallation process available on your mobile device.
+### Cookies and Other Technologies
+
+Cookies are small data files stored on your browser that help us collect information such as browser type, IP address, time spent on our services, pages visited, and language preferences. We, as well as our service providers and third-party vendors, use the data collected by these technologies to enhance security, improve navigation, personalize your experience, and facilitate Interest-Based Advertising (see section below). In addition to cookies, we may use other online technologies, such as web beacons, pixels, tags, embedded scripts, and SDKs (in mobile apps) for the purposes above.
+
+We may also use third-party web analytics services in our online services to help us analyze how users use our online services. For instance, we use Google Analytics, and you can learn more about how Google Analytics collects and processes data at "How Google uses information from sites or apps that use our services" and in the Google Privacy Policy. Information about Google Analytics' current opt-outs for web is available here.
+
+### Interest-Based Advertising
+
+We collect information about your interactions with our websites and apps to deliver Interest-based advertising (also known as online behavioral advertising), which is the practice of showing ads to users based on their browsing behavior, such as the websites they visit, the apps they use, and their interactions over time. This data is used to predict interests and deliver more relevant, personalized ads across websites, apps, and devices.
+
+You can opt out of interest-based advertising by advertisers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by clicking the links provided. For mobile app users, you can register your preference at https://youradchoices.com/appchoices.
+
+### "Do Not Track" Signals
+
+We do not respond to Do Not Track browser signals because there is no universally accepted industry standard for their implementation.
+
+## STATE PRIVACY RIGHTS
+
+Residents of certain U.S. states have specific rights regarding their personal information. Depending on your state of residence and subject to legal limitations and exceptions, you may be entitled to exercise one or more privacy rights. Below is a summary of your privacy rights based on your state of residency, and we will then elaborate on what each right entails:
+
+-
+California Residents: Right to access, correct or delete personal information, right to opt out of "sale" and "sharing" of personal information for targeted advertising, limit the use and disclosure of sensitive personal information, and no discrimination.
+
+-
+Colorado, Connecticut, Delaware, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas Residents, and Virginia: Right to access, correct or delete your personal information, right to opt out of sale of personal information and targeted advertising, right to opt out of profiling, no discrimination, right to appeal.
+
+-
+Iowa Residents: Right to access or delete personal information, right to opt out of sale of personal information and targeted advertising, no discrimination, right to appeal.
+
+-
+Utah Residents: Right to access or delete personal information, right to opt out of sale of personal information and targeted advertising, no discrimination.
+
+Below is an explanation of the rights:
+
+-
+Access: You may request confirmation of whether we process your personal information and obtain a copy of the personal information we maintain about you.
+
+-
+Correction: You can ask us to correct any inaccurate personal information we have about you. For changes related to your order or services, please contact a store team member or customer care.
+
+-
+Deletion: You can request us to delete your personal information, subject to certain exceptions permitted by law (e.g., complete a transaction, detect security incidents, debug, etc.). This may impact our capability to provide products or services to you. Please note that we will retain some personal information and a record of your request where required or otherwise permitted by law.
+
+-
+Opt-Out Rights: You can opt out of the sale, sharing, or processing of personal information for targeted advertising as defined under the U.S. State Privacy Laws.
+
+-
+Sensitive Personal Information: You may request to restrict the use and sharing of your sensitive personal information to purposes allowed by law—such as providing services, ensuring safety, preventing fraud, and maintaining service quality.
+
+-
+Non-Discrimination: We will not discriminate against you for exercising your privacy rights.
+
+-
+Appeals: If we decline to act on your request, you may appeal the decision within a reasonable timeframe after receiving our response.
+
+We do not engage in profiling individuals in ways that produce legal or similarly significant effects as defined under the state privacy laws.
+
+### How to Exercise Privacy Rights
+
+Residents of U.S. states with privacy laws granting consumer rights can submit a privacy request form. You can also opt out of sale, sharing, and/or targeted advertising by adjusting your cookie settings by clicking the "Do Not Sell or Share My Personal Information" link at the bottom of our webpage. Your opt-out preferences apply to the browser used to set them, unless we can identify your online account profile with us based on your online activity information (e.g., when you are logged in to your online account or have recently completed an online purchase through the same browser and device). If you would like to provide additional information to facilitate your opt-out request and help us better locate your record, please also complete our privacy request form.
+
+Here are some additional details about your state rights: As allowed by the relevant state consumer data privacy laws, the parent or guardian of a child (as defined by the state's privacy law), conservator, and/or authorized agent may be allowed to exercise some or all of a consumer's rights under the law. As specified by the law, we will require proof of such persons' authority to exercise a consumer's rights under the relevant law.
+
+### Additional Disclosure for California Residents
+
+Categories of Information Disclosed for a Business Purpose
+
+We disclose all categories of personal information described under the "Categories of Personal Information" section for business purposes for which the information was originally collected or processed, or for other purposes that are compatible with the context in which the personal information was collected.
+
+These purposes include:
+
+- fulfilling products and services
+
+- facilitating customer communication and outreach (excluding targeted or cross-context behavioral advertising)
+
+- maintaining and improving our offerings
+
+- ensuring compliance with legal obligations as well as physical and cybersecurity protections
+
+- fulfilling any other purpose for which you provide your personal information, or for which you have otherwise consented
+
+We may share personal information with a range of entities, including but not limited to:
+
+- product suppliers
+
+- analytics and research vendors
+
+- warranty services companies
+
+- order processing and fulfillment vendors
+
+- security and fraud prevention vendors
+
+- legal, compliance and risk management vendors
+
+- information technology vendors
+
+- financial institutions
+
+- marketing and advertising partners
+
+- our subsidiaries and affiliates
+
+- legal authorities
+
+Categories of Personal Information Sold or Shared with Third Parties
+
+We may share identifiers, commercial information, internet activity information, and inference and preference information with digital advertising partners to support targeted online marketing efforts and to assess the performance of those campaigns.
+
+Such digital advertising partners include, but are not limited to:
+
+- publishers of the websites you visit (such as online news outlets or blogs)
+
+- social media platforms
+
+- advertising technology providers
+
+- advertising agencies
+
+- digital data providers
+
+- companies that specialize in measurement and analytics
+
+Some of these partners may combine the information we provide with other data to create customer profiles. Under certain privacy laws, these types of disclosures may be considered a "sale" or "sharing" of personal information.
+
+### Additional Disclosure for Rhode Island Residents
+
+Additional Disclosure for Rhode Island Residents: third parties to whom we disclose personal information for targeted advertising purposes: Tiktok, Snap, Reddit, Google, Meta, Bing/Microsoft, Adobe, and Adroll.
+
+### Other State Privacy Laws
+
+-
+Nevada Residents. Pursuant to Chapter 603A of the Nevada Revised Statutes, Nevada residents have the right to opt out of the sale of certain "covered information" collected by website operators. Although we do not currently sell covered information as defined under Nevada law, if you are a Nevada resident, you may submit a verified request to opt out of future sales by emailing privacy@advance-auto.com. Please include "Nevada Rights Request" in the subject line of your email.
+
+-
+California's "Shine the Light" Law. If you are a California resident with whom we have an established business relationship, you may request information—subject to certain limitations under California Civil Code § 1798.83—regarding our disclosures of your personal information to third parties for their direct marketing purposes. You may request (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
+Advance Auto Parts
+Privacy Office
+4200 Six Forks Road
+Raleigh, NC 27609
+
+-
+California's "Digital Online Erasure" Law. If you are a resident of California, under age 18, and a registered user of the Services, you may ask us to remove content or information that you have posted on the Website, Apps, or Social Media Pages by writing to our privacy office at the address listed above.
+
+## MINOR'S INFORMATION
+
+The Services are not directed to individuals under the age of 16. We do not knowingly collect or disclose personal information about or from children under the age of 16 without parental or guardian consent. If a child under the age of 16 has provided us with personal information, we ask that a parent or guardian contact us so that the information can be deleted. We do not knowingly sell the data of individuals under 18.
+
+## NOTICE OF FINANCIAL INCENTIVES / REWARDS PROGRAM
+
+Advance Rewards Program (the "Program") applies to Do-It-Yourself customers, allowing members to earn points for purchases made online or in our stores. These points can be redeemed for discounts as further described on the Advance Rewards Program page.
+
+Information Collection and Sharing. To offer these incentives, we must collect certain personal information (e.g., name, email address, and phone number) when you sign up to become a Program member. We share information collected through the Program with the entities for the purposes described in the "Disclosure of Personal Information" section. You may exercise your privacy rights, where applicable, by following the process outlined in the "Privacy Rights and Choices" section.
+
+Program Participation and Withdrawal. The Program is only available to Do-It-Yourself customers of our participating Advance Auto Parts and Carquest stores and our online store (shop.advanceautoparts.com/); it is not available to customers with a commercial account. There is no membership fee. No purchase is necessary to apply.
+
+Participants may withdraw from the Program at any time. To cancel participation in the Program, notify the Program administrator at AdvanceRewards@advance-auto.com
+
+The value of the Program to its members is reasonably related to the value provided to the business by the Program members' data. We estimate the value of customers' personal information by evaluating the costs associated with collecting, storing, and maintaining that information in connection with the Program, as well as the costs related to providing the Program itself. The value of an individual customer's personal information to our business may vary based on factors such as the extent to which you engage with our offerings or choose to opt out. We do not assign a monetary value to customer data in our financial statements. From time to time, we may present additional terms specific to a financial incentive program, which will be provided at the time of enrollment.
+
+Material Program Terms: For a summary of the program and material terms of the Advance Rewards Program Program, click here.
+
+## DATA PROTECTION
+
+We strive to use reasonable organizational, technical, and administrative measures to protect personal information. However, due to the inherent risks associated with internet use and information systems—including potential unauthorized access by third parties—we cannot guarantee that our systems, websites, or applications will be completely secure.
+
+## RETENTION
+
+We retain personal information for as long as needed or permitted in light of the purpose(s) for which it was collected. The criteria used to determine our retention periods include:
+
+- The length of time we have an ongoing relationship with you and provide services to you (for example, for as long as you have an account with us or keep using our services) and the length of time thereafter during which we may have a legitimate need to reference your personal information to address issues that may arise;
+
+- Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+
+- Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+
+## SCOPE
+
+"Personal information" in this Privacy Notice means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked—directly or indirectly—to an individual. This does not include aggregated or deidentified information that is maintained in a form that cannot reasonably be used to identify or be linked to a specific individual. Where we maintain deidentified data, we will continue to use and store it in deidentified form and will not attempt to reidentify it, except as required or permitted by law.
+
+This Privacy Notice applies to personal information collected about prospective, current, or former customers of Advance. It does not apply to:
+
+- Job applicant or employment-related records at Advance.
+
+- Your interactions with third-party websites or services that may be linked to or accessible from Advance websites, even if those sites reference Advance. The data practices of those third parties are governed by their own privacy notices. The inclusion of a link on our digital properties does not imply endorsement of the linked site or service by us or by our affiliates.
+
+- Our websites and mobile apps may include social media features—such as Facebook, Pinterest, and Twitter widgets—that can collect certain information about you, including your IP address and the specific pages you visit on our site. These features may also use cookies or other tracking technologies. They may be hosted by third parties, and your interactions with them are subject to the privacy policies of the respective providers.
+
+- Whenever we are acting in the capacity of "Processor" or "Service Provider" to another entity.
+
+## UPDATES TO THIS PRIVACY NOTICE
+
+The "LAST UPDATED" legend at the top of this Privacy Notice indicates when this Privacy Notice was last revised. Any changes will become effective when we post the revised Privacy Notice on the Services.
+
+## CONTACT
+
+If you have any questions about this Privacy Notice or our practices regarding personal information collection, use, and sharing, please contact us at privacy@advance-auto.com. Please do not include credit card or other sensitive information in your emails to us.
+
+For information about how personal information is collected, used, and disclosed in Canada, please review our Canadian Privacy Notice.
+
+TOP REPLACEMENT PARTS
+
+Brake Pads & Shoes
+
+Brake Rotors
+
+Alternators
+
+Water Pumps
+
+Starters
+
+Brake Calipers
+
+POPULAR MAKES
+
+Ford Parts
+
+Chevrolet Parts
+
+Honda Parts
+
+Dodge Parts
+
+Show All
+
+ROUTINE MAINTENANCE PARTS
+
+Spark Plugs
+
+Car Batteries
+
+Oil Filters
+
+Motor Oil
+
+Air Filters
+
+Cabin Air Filters
+
+SHOP BY
+
+Manufacturer Brand
+
+Vehicle Make / Model
+
+Performance Parts
+
+Lawn & Garden
+
+Marine and RV
+
+Motorcycle & ATV
+
+CUSTOMER SUPPORT
+
+Accessibility Statement
+
+Contact Us
+Forgot Password
+
+Help Desk
+
+In Store Pickup
+
+In Store Services
+
+Order Tracking
+
+Recall Information
+
+Return Policy
+
+Same Day Delivery
+
+ABOUT US
+Affiliate Program
+
+Career Opportunities
+
+Corporate Information
+
+Gift Cards
+
+Investor Relations
+
+Annual Meeting Materials
+
+Material Safety Data Sheets
+
+Press
+
+Store Locator
+
+PROFESSIONAL SHOPS
+
+MyAdvance
+
+Online Parts Ordering
+
+TechNet Professional
+
+Technical Training
+
+Interactive Vehicle Animations
+
+Parts & Products
+
+Promotions & Rewards
+
+Shop Solutions
+
+Find My Mechanic
+
+FOLLOW US
+
+Facebook
+
+Twitter
+
+Instagram
+
+Pinterest
+
+YouTube
+
+© 2026 Advance Auto Parts
+
+ADVANCING A WORLD IN MOTION®
+
+Privacy Policy
+
+Terms of Use
+
+Site Map
+
+Do Not Sell or Share My Personal Information

@@ -1,0 +1,634 @@
+# Data Privacy Notice
+
+## Danaher Corporation Privacy Notice
+
+Effective Date May 2, 2025 (last updated May 2, 2025)
+Version Number: 5.2
+
+## ABOUT THIS NOTICE
+
+Danaher Corporation values your privacy and the protection of your personal data. This notice (“Notice”) explains how Danaher Corporation and its affiliates, subsidiaries and related companies under its control (each a "Company Entity”) (together, “ Danaher Corporation ”, “our”, “us” or “we”), collects, uses, shares, transfers, discloses and processes data collected from or about you. If you are an associate (employee) of Danaher Corporation or another Danaher Entity (as defined below), your privacy rights are outlined in the Danaher Associate Privacy Notice provided by your local HR team and available on Danaher Connect.
+
+The particular Company Entity with which you interact is, where applicable, the data controller (or equivalent under applicable law(s)) responsible for the processing of your Personal Data (as defined below). We are part of the Danaher corporate organization and may process data from, or make data available to, other Danaher subsidiaries, affiliates, or other entities under common ownership (“Danaher Entities”), as appropriate under law and for the purposes described below. Please note that Danaher Corporation is legally separate from and does not control the Danaher Entities other than the Company Entities. You can find a list of relevant Danaher Entities (including the Company Entities) that act as data controllers Appendix 1 to this Notice.
+
+This Notice governs the collection, use, and disclosure of personal information specific to the Danaher.com page. To access details regarding the privacy practices on our additional corporate pages, please refer to the links below :
+
+-Danaher.com/data-privacy-notice.
+
+-Investors.Danaher.com/privacy-notice.
+
+-Jobs.Danaher.com/privacy-notice.
+
+-DanaherU.com/privacy-notice.
+
+This Notice is divided into sections to help you find information more easily. If you are after specific information, please click on the relevant section in the list below to navigate directly to it:
+
+- Scope
+
+- Your information
+
+- General categories of Personal Data collected
+
+- How do we use this information and what is the legal basis for this use?
+
+- Health information
+
+- Aggregated, anonymized and de-identified data
+
+- Combining information
+
+- Information collected from minors
+
+- Cross-border data transfers
+
+- Sale or transfer of business
+
+- Cookies, web beacons and other tracking tools
+
+- Third-party links and tools
+
+- Recipients of Personal Data
+
+- Data retention
+
+- Your rights and choices
+
+- Contact us
+
+- Updates
+
+- Appendix 1
+
+## 1. SCOPE
+
+This Notice describes the types of Personal Data that we may collect, process or disclose about you and how you may govern this processing by exercising applicable legal rights. This Notice applies to both online and offline information collection, including through your use of websites or subdomains operated by us or any mobile applications, when we provide products and/or services to you, when we notify you about prospective items of interest or regulatory notices, and in other situations where you interact with us in person, by telephone or by mail where this Notice is posted or referenced.
+
+There may be occasions where you have been provided with a circumstance-specific privacy notice that is separate from this Notice, such as privacy notices for specific activities such as recruitment. To the extent you were provided with a different notice, that notice shall apply and govern our interactions with you. If you provide Personal Data about parties other than yourself, you are responsible for ensuring their knowledge of how we will process their Personal Data, and, where applicable, obtaining any necessary consent(s) required in advance.
+
+We are committed to processing Personal Data in accordance with applicable laws. Please note that if you do not wish to provide your Personal Data to us, some products and/or services may become unavailable to you. Personal Data that is mandatory is indicated on relevant forms that you complete or is communicated by us separately. Your use of any or all of our online platforms indicates that you have been notified of our collection, use, sharing, transfer, processing and disclosure of your Personal Data, as described in this Notice and to the extent permitted by applicable law(s).
+
+## 2. YOUR INFORMATION
+
+We connect with individuals for many different reasons. Those interactions may result in us directly or indirectly gaining access to Personal Data about you. The below tables summarize how we may collect, process, and use Personal Data, our legal basis for processing your Personal Data, and the potential recipients of your Personal Data. The described instances may not be applicable in all circumstances.
+
+## 3. GENERAL CATEGORIES OF PERSONAL DATA COLLECTED
+
+The table below sets out the categories of Personal Data that may be processed under this Notice. We collect and process Personal Data about you when you interact with us and our websites, and when you purchase goods and services from us.
+
+“Personal Data” is any information that can be used to directly or indirectly identify an individual or that can be reasonably expected to link to an individual. This can include items such as name, address, telephone number, credit card details, email address, ID number, Internet Protocol (“IP”) address of an electronic device used by an individual, or other identifying codes (even absent of other identifying information). Statistical and metric data that are not identifiable to an individual are not considered Personal Data.
+
+This includes:
+Category
+Details
+Identity and Contact Information
+First and last name, email address, postal address, phone number, job title, research interests, professional license numbers, account username and password, IP address, and national provider identifier and/or state license number.
+Demographic Information
+Age, gender, accessibility requirements and date of birth.
+Visual and Audio Information
+Still images, recordings of your calls with our customer service representatives, and video (including via CCTV).
+Commercial and Financial Information
+Transaction records, products and services that were purchased, obtained or considered, requested documentation, customer service records (including meeting details, call logs and feedback), financial transaction history, transfers of value, and financial account numbers.
+Professional and Educational Information
+Job title or position, employer, office location, work skills and experience, employment history, graduate degree, certification, specialized training, responses to surveys and questionnaires, enrolment history for our education and training events, LinkedIn profile, research, areas of interest, grants and funding awards.
+Technical Information
+IP address, user ID or account number (for Danaher account), browser type, browser language, device type, advertising IDs associated with your device (such as Apple’s Identifier for Advertising (IDFA) or Android’s Advertising ID (AAID)), the date and time you use our products and services, Uniform Resource Locators, or URLs (i.e., website addresses) visited prior to arriving and after leaving our products and services, activity on our products and services and referring websites or applications (such as visits and downloads), data collected from cookies or other similar technologies such as pixels, web beacons and tags, log files and geolocation information.
+Health Information
+Information regarding your treatment, including your date of birth, sex/gender, treatment dates, medical history, treatment information, patient-reported outcome measures (e.g., responses to questionnaires and surveys), X-rays, test results, magnetic resonance imaging images, medical scans, pictures and videos of treatment activities and communications with your health care provider and/or patient.
+
+Sometimes we receive information about you from third parties. In particular:
+
+- other Danaher Entities and Company Entities, including (among other things) information about your relationships with them and interactions with their websites, products or services;
+
+- our customers (which may include healthcare providers), in connection with our services to customers, post-market clinical follow-ups and clinical trials;
+
+- other third parties we work with, including (among others) business partners such as joint marketers, distributors, webinar and event providers, service providers in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies;
+
+- publicly-available sources (where possible) to keep your information up to date (such as professional registration databases, official registers, websites, healthcare provider directories and social media platforms);
+
+- if you are a healthcare provider, we obtain your Identity and Contact Information, and Professional and Educational Information from publicly-available resources (such as official registers, websites, directories of healthcare professionals and similar resources); and
+
+- your employer for administrative purposes, such as the facilitation of events.
+
+## 4. HOW DO WE USE THIS INFORMATION AND WHAT IS THE LEGAL BASIS FOR THIS USE?
+
+We will only use your Personal Data for the purposes and legal bases set out below:
+Purpose
+Legal Basis
+We will collect, use and store Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information, and Technical Information to register and create an account on our website, offer and provide you with services (including events) and to deliver requested products to you.
+It is necessary for us to process your Personal Data in order to perform our contract with you, or to take steps at your request prior to entering into a contract with you.
+
+We have a legitimate interest in managing our business and offering goods and services to our customers.
+We will collect, use and store Identity and Contact Information and Visual and Audio Information to verify your identity and authenticate you.
+We have a legitimate interest in ensuring the security of our services and data.
+
+We have a legal obligation under EU, member state and/or UK laws. Where the legal obligation applies to us under laws which are not EU, member state or UK, we have a legitimate interest in ensuring compliance with global laws that apply to our business.
+We will collect, use and store Identity and Contact Information, Visual and Audio Information, Commercial and Financial Information and Professional and Educational Information to manage our relationship with you, including communicating with you and for administrative purposes (including customer service).
+We have a legitimate interest in managing our business and providing services to our customers.
+We will use all Personal Data mentioned in this Notice to monitor our products, services and customer accounts to detect, prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents and malicious or illegal activities, in accordance with applicable laws and to ensure the appropriate use of our products and services.
+We have a legal obligation under EU, member state and/or UK laws. Where the legal obligation applies to us under laws which are not EU, member state or UK, we have a legitimate interest in ensuring compliance with global laws that apply to our business.
+
+We have a legitimate interest in preventing and detecting fraud or other wrongdoing.
+
+Your consent.
+We will use all Personal Data mentioned in this Notice to investigate concerns (including reports made via our whistleblowing hotline) relating to breaches of laws, our policies and/or our standards.
+We have a legal obligation to do this when a report is made which is protected by whistleblowing laws in the EU, member states and/or the UK. For other investigations, we have a legitimate interest in ensuring compliance with global laws, policies and/or standards that apply to our business.
+We will collect and use Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information and Technical Information to send you direct marketing in relation to our relevant products and services, or other products and services provided by Danaher Entities.
+
+We have a legitimate interest in promoting our and Danaher Entity services to our customers.
+We will use your Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information and Technical Information to customize and improve the communications you receive, e.g. by offering you specific events, other activities, products and services of Danaher Entities
+
+We have a legitimate interest in promoting our and Danaher Entity services to our customers.
+We will collect and analyze Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information and Technical Information in order to manage and operate our services, websites and apps, including to keep them updated and relevant, to develop our business and to inform our sales and marketing strategy.
+
+We also collect data concerning whether any email communication you have received from us has been opened and if you have clicked on any links within the email. This helps us make our communications useful for you.
+
+We have a legitimate interest in operating our websites, apps and services, and improving their operations.
+We will collect, use and store your Identity and Contact Information, Commercial and Financial Information to complete our financial reporting and disclosure obligations to the Danaher Entities, tax agencies and regulators.
+We have a legal obligation under EU, member state or UK laws. Where the legal obligation applies to us under laws which are not EU, member state or UK, we have a legitimate interest in ensuring compliance with global laws that apply to our business.
+We will collect, use and store your Identity and Contact Information, Demographic Information, Visual and Audio Information, and Professional and Educational Information to invite you to take part in and manage customer surveys, reviews and other market research activities carried out by us and other organizations on our behalf.
+
+We have a legitimate interest in managing our business and providing services to our customers.
+We will collect, analyze and store your Identity and Contact Information, Demographic Information, Professional and Educational Information, Technical Information, and Health Information to conduct research, develop and promote new products and/or services, and improve or modify our existing products and services.
+
+We have a legitimate interest in managing our business and providing products and services to our customers.
+
+Processing is necessary for scientific research.
+We will process your Identity and Contact Information and Health Information to ensure the quality and safety and continued effective performance of medical products, services and devices (including for quality assurance purposes).
+We have a legitimate interest in ensuring we offer safe services and products to our customers.
+
+We have a legal obligation under EU, member state and/or UK laws. Where the legal obligation applies to us under laws which are not EU, member state and/or UK, we have a legitimate interest in ensuring compliance with global laws that apply to our business.
+
+Your consent (as provided to your healthcare provider).
+We will use all Personal Data mentioned in this Notice to establish, exercise and/or defend our legal rights, and/or comply with court orders, subpoenas and/or other legal obligations.
+We have a legitimate interest in protecting our business interests and legal rights, including in connection with legal claims, compliance, regulatory, auditing, investigative and/or disciplinary purposes (including in relation to the disclosure of information in connection with legal procedures or litigations) and/or other ethics and compliance reporting requirements.
+We will use Identity and Contact Information, Demographic Information, and Professional and Educational Information to manage our relationships with healthcare professionals (who work with us as investigators on clinical trials, on health outcome research and/or market research) and/or to identify healthcare professionals with whom we may wish to work with on such research in the future.
+We have a legitimate interest in improving healthcare products and services, and in conducting scientific research.
+
+Some of our processing in connection with clinical studies is also necessary when we have legal obligations under laws relating to the safety of healthcare and medical products, and/or medical devices.
+
+There are instances where we have a legitimate interest to use your data. Our legitimate interest will vary depending on what we are using your data for, and we explain above what the interest is and how it relates to the processing operation(s) we carry out. You can obtain further information about our legitimate interests by using the contact details at the end of this Notice
+
+## 5. HEALTH INFORMATION
+
+When we process Health Information, we do so in connection with our services for business customers and pursuant to separate privacy notices provided to you by our customer or otherwise provided at the time of data collection. This Notice does not apply to such Health Information, which is governed by the relevant notices provided to you and by our customer agreements. For example, if you are a patient based in the United States of America, this Notice is distinct from your healthcare provider’s HIPAA Notice of Privacy Practices, which describes how your healthcare provider uses and discloses the protected health information that it collects, as well as any other privacy practices it applies to that information.
+
+## 6. AGGREGATED, ANONYMIZED AND DE-IDENTIFIED DATA
+
+Danaher Corporation may process anonymized/de-identified data. This is data for which the characteristics that can identify you, directly or indirectly, have been removed such that you are no longer identifiable. This information is no longer considered Personal Data under data protection laws. This includes, in the United States, the removal of identifiers from protected health information required under HIPAA (45 CFR § 164.514(b)(2)) or another permissible method for such data to be considered de-identified. We rely on our legitimate business interests, scientific or historical research and/or statistical purposes, consent or other purposes that may be required or allowed by law as the legal basis to anonymize Personal Data.
+
+We may also obtain and use certain types of combined datasets (such as demographic data) for any purpose (“Aggregated Data”). Aggregated Data may be derived from your Personal Data but does not directly or indirectly reveal your identity. For example, we may aggregate certain information technology-related data of yours with others’ data to calculate the percentage of users accessing a specific feature on our website. We may use Aggregated Data for any purpose without restriction. However, if we re-combine or re-connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we then treat the combined data as Personal Data (which will be used in accordance with this Notice).
+
+## 7. COMBINING INFORMATION
+
+We combine information we collect on the website with information we receive from you in person, by email, or by other forms of communication. We also combine information you provide with information we obtain from third parties, service providers, publicly available sources and Danaher Entities.
+
+## 8. INFORMATION COLLECTED FROM MINORS
+
+We do not knowingly collect Personal Data from minors without the permission of such minors’ parents or legal guardians.
+
+## 9. CROSS BORDER DATA TRANSFERS
+
+We may transfer your Personal Data to recipients (including our affiliates or third-party service providers) in countries other than the country in which your Personal Data was originally collected. When we transfer your Personal Data in such a manner, we take steps to ensure your Personal Data is protected in a way that is consistent with the laws and requirements in your country (including any requirements that apply to cross-border data transfers). Where Personal Data is transferred outside the EEA and/or UK, and where this is to a stakeholder or vendor in a country that is not subject to an adequacy decision by the EU Commission, does not fall under the UK government adequacy regulations, or is not considered adequate under applicable data protection laws, we take steps to require that your Personal Data is adequately protected. This includes using the EU Commission approved standard contractual clauses, the UK Information Commissioner approved standard contractual clauses, or a vendor's Processor Binding Corporate Rules. We implement appropriate technical and organizational measures to provide a level of security appropriate to the risk of protecting your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access.
+
+A copy of the relevant mechanisms can be obtained for your review on request by using the contact details below.
+
+## 10. SALE OR TRANSFER OF DATA
+
+If we are involved in a sale or transfer of all or some of our business assets or operations via (among other mechanisms) a share or asset transaction, your Personal Data may be transferred to the acquiring organization(s), who will be required to take at least the same or higher standards of care in the treatment of your Personal Data. Should such a sale or transfer occur, if required by law, you will be informed about this and may withdraw your consent to the transfer of your Personal Data (if relevant to the processing) or, as applicable, instigate any other legally-available rights, as detailed in the “Your Rights and Choices” section of this Notice with regards to the processing and use of your Personal Data by the transferee.
+
+## 11. COOKIES, WEB BEACONS AND OTHER TRACKING TOOLS
+
+As outlined in the table above, your interactions with our websites are an additional source for collecting your information. We may use cookies, web beacons and other technologies to help us evaluate and improve the content or functions of the products or services we provide.
+
+Our Cookie Notice provides more detailed information about this topic and how we use cookies to enhance your experience and better serve you.
+
+## 12. THIRD PARTY LINKS AND TOOLS
+
+On our websites, apps and/or platforms, we may link to other websites, apps and/or platforms that we do not control. If you click on a third-party link, you will be taken to a website, app and/or platform we do not control. This Notice does not apply to the privacy practices of those websites, apps and/or platforms. Read the other companies’ privacy policies carefully as we are not responsible for these third parties. Our websites, apps and/or platforms may also serve third party content that contains their own cookies or tracking technologies. We do not control the use of those technologies.
+
+## 13. RECIPIENTS OF PERSONAL DATA
+
+We may share your Personal Data with the following categories of recipients:
+Personal Data Category
+Category of Recipient
+Why?
+Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information, Technical Information
+Danaher Entities and Company Entities
+To operate, improve, and develop our products and services.
+Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information, Technical Information
+Danaher Entities
+To customize and improve the communications you receive, e.g. by offering you specific events, other activities, products and/or services of Danaher Entities
+All Personal Data mentioned in this Notice
+Third-party service providers
+We employ other companies and individuals to perform functions on our behalf. Examples include website hosting and maintenance, customer service operations, identity verification, fulfilling orders for products or services, delivering packages, sending postal mail and e-mail and, processing payments.
+Business partners, including distributors and joint venture partners
+To operate, improve, and develop our products and services.
+Prospective buyers/sellers
+In the event that the business is sold, assigned or transferred, or integrated with another business, your Personal Data will be disclosed to our adviser(s) and any prospective purchaser’s adviser(s) and will be passed to the new owner(s) of the business.
+Identity and Contact Information, Demographic Information, Health Information
+Customers and healthcare providers
+To provide our products and services, carry out clinical trials, healthcare outcomes analysis and market research activities.
+Courts, law enforcement authorities, regulators, government officials, attorneys and/or other parties
+When it is reasonably necessary for: the establishment, exercise or defense of a legal or equitable claim; for the purposes of a confidential alternative dispute resolution process; to respond to complaints and investigations; to comply with any subpoena, court order or other legal obligation; or when data is requested by regulators, government agencies or law enforcement agencies.
+Auditors and other professional advisors
+To request and obtain advice, meet our legal obligations, respond to complaints and investigations and/or (when necessary) in the course of the professional services they provide to us.
+Credit reference agencies, law enforcement agencies and fraud prevention agencies
+To prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crimes (in accordance with applicable laws).
+Identity and Contact Information, Demographic Information, Health Information
+Clinical Research Organizations, applicable study sponsors, their corporate affiliates, business partners, and third-party service providers performing services related to the study (e.g. providing services in relation to study data management, clinical research monitoring, safety monitoring, etc.)
+To carry out the applicable studies, other study-related services and/or adverse event reporting.
+Identity and Contact Information, Demographic Information, Professional and Educational Information
+Event and webinar organizers (including universities)
+To prepare for and host events and webinars.
+Identity and Contact Information, Demographic Information, Professional and Educational Information
+Social media companies
+To communicate with you or provide you with relevant advertising related to your interests on those platforms. We use the “custom audiences” services provided by these social media companies.
+
+## 14. DATA RETENTION
+
+We will retain Personal Data for as long as is necessary to carry out the purpose(s) the Personal Data was collected for, or for the period prescribed by applicable laws (whichever is longer). In considering how long to retain your Personal Data, the following are considered:
+
+- the potential risk(s) of harm if the data were subject to unauthorized use or disclosure;
+
+- the volume and sensitivity of the Personal Data;
+
+- the purpose(s) for processing your Personal Data;
+
+- whether we need to keep a record of the relationship we have or had with you;
+
+- if we need to keep a record for possible future legal claims;
+
+- applicable legal or regulatory requirements;
+
+- applicable industry standards or guidelines; and
+
+- if circumstances have changed such that the purposes for which the Personal Data was collected can be achieved by other means.
+
+When the retention of your Personal Data is no longer required, we will delete or anonymize/de-identify the Personal Data as per the details provided above, or, if this is not immediately possible (for example, because your Personal Data has been stored in backup archives), then we will securely store your Personal Data and isolate it from any further processing until deletion is accomplished.
+
+## 15. YOUR RIGHTS AND CHOICES
+
+Some jurisdictions have provided individuals with rights in relation to the processing of their Personal Data. These rights are not available to everyone, and they do not necessarily apply in all contexts. Depending on the applicable laws or legal bases, you may have the right to:
+
+- object to the processing of your Personal Data;
+
+- request access to your Personal Data;
+
+- request the correction of your Personal Data if it is inaccurate, incomplete, or obsolete;
+
+- request the erasure/deletion of your Personal Data;
+
+- withdraw your consent to the future processing of your Personal Data where we processed Personal Data on the basis of your consent;
+
+- request restrictions on the processing of your Personal Data, including restricting the sale or sharing of your Personal Data;
+
+- request the transfer (also known as “porting”) of your Personal Data to yourself or a third party; and/or
+
+- opt-out of any or all of our marketing communications, or object to us carrying out profiling for the purposes of direct marketing.
+
+To exercise a right that you believe you may be entitled to under applicable law you can contact us directly by submitting a request through this webform. We may need to verify your identity before we fulfil your request or, under applicable law, we may be unable to action your submission. We shall notify you in a timely manner of such decisions or requirements as necessary.
+
+Whenever we rely on your consent, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based on consent (before its withdrawal). We may, however, have other legal grounds for processing your data for other purposes (such as those set out above).
+
+California Residents. Our California Consumer Rights Notice provides certain information required by California law and an overview of how consumers in California can exercise certain privacy rights and protections.
+
+Filing a Complaint. If you are not able to resolve a problem directly with us and wish to make a formal complaint, you can contact your local data protection authority or other enforcement authorities.
+
+## 16. CONTACT US
+
+If you have any questions about this Notices or our data practices, you can write to us at:
+
+2200 Pennsylvania Avenue, NW
+Suite 800W Washington, DC 20037
+
+Alternatively, you can email us directly at privacy@danaher.com.
+
+## 17. UPDATES
+
+From time to time, we may change our privacy notices. The most updated copy will be found on our website. Please check our site periodically for updates.
+
+## APPENDIX 1
+
+Your information is controlled by Company Entities and Danaher Entities. The full list of relevant Danaher Entity controllers and their contact details can be found in the table below.
+
+| Controller
+| Contact Details
+For example, if you:
+
+- purchase products and services from, or
+
+- visit the websites of,
+
+the following companies, that company will be the data controllers of your Personal Data.
+
+They will also act as controllers in respect of sales and marketing activities linked to their business activities.
+
+| Abcam
+Abcam Limited
+
+Discovery Drive
+
+Cambridge Biomedical Campus
+
+Cambridge
+
+CB2 0AX
+
+dataprivacy@abcam.com
+
+| Aldevron
+Aldevron LLC
+
+Aldevron Fargo Corporate Headquarters
+
+4055 41st Avenue
+
+South Fargo
+
+North Dakota
+
+58104
+
+United States of America
+
+dataprivacy@aldevron.com
+
+| Beckman Coulter Diagnostics
+Beckman Coulter, Inc.
+
+Diagnostics Division Headquarters
+
+250 South Kraemer Boulevard
+
+Brea
+
+California
+
+92821-6232
+
+dataprivacy@beckman.com
+
+| Beckman Coulter Life Sciences
+Beckman Coulter Life Sciences Headquarters
+5350 Lakeview Parkway S Drive
+Indianapolis
+
+Indiana
+
+46268
+
+dataprivacy@beckman.com
+
+| Cepheid
+Cepheid
+904 Caribbean Drive
+Sunnyvale
+
+California
+
+94089
+
+privacy.officer@cepheid.com
+
+| Cytiva
+Cytiva
+
+Amersham Place
+
+Little Chalfont
+
+Buckinghamshire
+
+HP7 9NA
+
+United Kingdom
+
+privacy@cytiva.com
+
+| Danaher Life Sciences
+DH Life Sciences LLC
+
+500 Old Connecticut Path
+
+Framingham
+
+Massachusetts
+
+01701
+
+dataprivacy@dhlifesciences.com
+
+| Genedata
+Genedata AG
+Margarethenstrasse 38
+Basel
+
+4053
+
+Switzerland
+
+privacy@genedata.com
+
+| HemoCue
+HemoCue AB
+Kuvettgatan 1
+Ängelholm
+
+262 71
+Sweden
+
+privacy@hemocue.com
+
+| IDBS
+IDBS Limited
+
+IDBS UK HQ
+
+SPACE, 68 Chertsey Rd
+
+Woking
+
+Surrey
+
+GU21 5BJ
+
+United Kingdom
+
+privacy@idbs.com
+
+| Integrated DNA Technologies
+Integrated DNA Technologies, Inc.
+
+1710 Commercial Park
+
+Coralville
+
+Iowa
+
+52241
+
+dataprivacy@idtdna.com
+
+| Leica Biosystems
+Leica Biosystems Nussloch GmBH
+
+Heidelberger Strasse 17-19
+
+69226 Nussloch
+
+Germany
+
+privacy@leicabiosystems.com
+
+| Leica Microsystems
+Leica Microsystem GmbH
+
+Ernst-Leitz-Strasse 17-37
+
+Wetzlar
+
+35578
+
+Germany
+
+privacy@leica-microsystems.com
+
+| Mammotome
+Mammotome Global Headquarters
+
+300 E Business Way
+
+Fifth Floor
+
+Cincinnati
+
+Ohio
+
+45241
+
+dataprivacy@mammotome.com.
+
+| Molecular Devices
+Molecular Devices LLC
+
+3860 N 1st Street
+
+San Jose
+
+California
+
+95134
+
+privacy@moldev.com
+
+| Pall
+Pall Corporation
+
+25 Harbor Park Drive
+
+Port Washington
+
+New York
+
+11050
+
+privacy@pall.com
+
+| Phenomenex
+Phenomenex Global Headquarters
+411 Madrid Avenue
+Torrance
+
+California
+
+90501-1430
+
+dataprivacy@phenomenex.com
+
+| Radiometer
+Radiometer Denmark
+Åkandevej 21
+2700
+
+Brønshøj
+Denmark
+
+privacy@radiometer.dk
+
+| SCIEX
+AB SCIEX LLC
+500 Old Connecticut Path
+Framingham
+
+Massachusetts
+
+01701
+
+dataprivacy@sciex.com
+
+## JAPAN APPENDIX
+
+This Appendix applies if you live in Japan or the processing of your Personal Data is otherwise subject to the Act on the Protection of Personal Information of Japan (“APPI”). This Appendix should be read in conjunction with and in addition to the main body of the Privacy Notice to which this Appendix is attached.
+
+## Purpose of Processing the Personal Data
+
+The detailed purpose of processing the Personal Data provided in the main body of the Privacy Notice will be as follows:
+
+## Marketing
+
+- To provide information of our products and services;
+
+- To provide products and services which are registered or requested;
+
+- To distribute our newsletter;
+
+- To deliver products/services requested or ordered;
+
+- To provide information/invitation relating to trade shows, events where we showcase our products, workshops, or seminars;
+
+- To provide the results in case a data provider cooperates with us for events and questionnaires;
+
+- To provide service via communication media such as email, facsimile;
+
+- To conduct marketing surveys, analysis, and/or measures;
+
+- To contact customers and respond to inquiries; and/or
+
+- Other ancillary purpose relating to the above;
+
+## Internal Research
+
+- To conduct internal audit or receive external audit; and/or
+
+- To conduct internal research or investigations
+
+## Development
+
+- To obtain customer and business partner feedback specific to the development of new products; and/or
+
+- To conduct internal research
+
+## Quality Assurance
+
+- To respond to customer inquiries regarding the quality of our products or services;
+
+- To implement countermeasures to any (possible) quality failures of our products or services; and/or
+
+- Other ancillary purposes necessary to maintain and achieve the required quality of our products and services
+
+## Notice Regarding Joint Use of Personal Data Under the APPI
+
+We may jointly use your Personal Data within Danaher Entities (including the Company Entities) here as described in the main body of the Privacy Notice as follows.
+
+- Items of Personal Data to be jointly used: Identity and Contact Information, Commercial and Financial Information, Professional and Educational Information and Technical Information
+
+- Scope of Joint Users: Danaher Entities here (including those entities outside of Japan)
+
+- Purposes of Joint Use: As provided in the Purpose of Processing the Personal Data in this Appendix
+
+- Name and Address of the Entity Responsible for Personal Data Management and Name of its Representative:
+Company Name: DH Japan Holding G.K.
+Address: DH Japan Holding G.K., 6-5-1 Nishishinjyuku, Shinjyuku-ku, Tokyo, 163-1325, Japan.
+Point of contact: Akira Matsukawa
+
+All Danaher Entities, as included in the link above, have entered into a data protection agreement and will take necessary measures in order to meet the requirements for cross-border data transfer stipulated by the APPI and other applicable laws and ensure that the level of protection of the Personal Data is not undermined.

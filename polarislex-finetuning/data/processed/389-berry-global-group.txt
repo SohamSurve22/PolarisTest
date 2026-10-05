@@ -1,0 +1,231 @@
+# Berry Global Privacy Notice
+
+July 21, 2021
+
+Berry Global Inc. and its affiliates and subsidiaries (collectively “Berry,” “Berry Global,” “Company,” “we,” “our,” and “us”) are fully committed to protecting the information relating to individuals that we process. This information, if relating to an identified or identifiable individual is “Personal Data” covered by this notice.
+
+This Berry Global Privacy Notice (“Notice”) describes our collection, use, disclosure, and retention of Personal Data in relation to our websites, apps, services, and platforms, including any that link to this Notice (collectively, the “Website”), our marketing and provision of products and services, our interactions with individuals in-person, by calling us, or by mail, and otherwise during the operation of our business. The Notice also explains the ways in which individuals may, under applicable laws, be able to control our processing of Personal Data and exercise other rights. This Notice does not apply to Personal Data of members of our workforce in the context of that relationship.
+
+Depending on the way individuals interact with us, we may occasionally provide them additional information about our processing of Personal Data addressing specific processing activities and circumstances. We refer to such notices here as “Supplemental Disclosures”. Supplemental Disclosures should be read together with this Notice. However, in the event of any conflict or inconsistency between the terms of the Supplemental Disclosure and this Notice, the Supplemental Disclosure will prevail, but only for the Personal Data processing subject to that disclosure.
+
+The Berry subsidiary or affiliate with which an individual interacts, is, where applicable, the data controller (or equivalent under applicable law) responsible for the processing of the individual’s Personal Data. A list of the relevant legal entities is in Appendix 1 to this Notice. Such entities may also have separate Supplemental Disclosures. Anonymous, de-identified, and aggregate data, as those terms may be defined under applicable law, are not considered “Personal Data” within the meaning of this Notice and we may process such data for any purposes.
+
+Please note that our websites, apps, or platforms may link to content provided by third parties that we do not control and for which we are not responsible. When navigating to such content, the relevant third parties may process Personal Data. We encourage reading the third parties’ privacy and cookies notices when leaving our website, app, or platform.
+
+#### 1. Personal Data We Collect
+
+Berry or third parties acting on our behalf may collect Personal Data about individuals from a number of sources. We may collect Personal Data that individuals provide us, such as when they do business with us as a customer, supplier or service provider, registers for an account on the Website, fill out a form on the Website, submits an employment application to us, or signs up for a webinar or training session. We may also automatically collect Personal Data from individuals when they interact with us, such through cookies and similar technologies, including information such as collecting the IP address from which a Website user visited our Website (see further discussion of cookies at the end of this section). We also may collect Personal Data from third party sources.
+
+The types and amount of Personal Data that we collect about any particular individual depends on the nature of our relationship with that individual and the purposes for which we use the individual’s Personal Data. We collect Personal Data from different categories of individuals, including but not limited to the following:
+
+- Business contacts, including representatives and personnel at customers and potential customers, suppliers, contractors, service providers and other business partners
+
+- Visitors to our digital properties (such as our websites and applications)
+
+- Workforce members
+
+- Job applicants
+
+Personal Data That Individuals Provide
+
+We collect Personal Data that individuals choose to provide us, such as when they complete surveys, speak with or otherwise communicating with us or our employees, including via telephone or videoconference, visit our offices, or apply for employment, among other interactions.
+
+Individuals might provide us with the following categories of Personal Data depending on their relationship with us:
+
+- Identifiers and Contact Data, such as name, alias, postal address, email address, telephone number, city, state, and country of residence, business address, government-issued identifiers (such as passport number or driver’s license), username and password for any online account, financial account numbers, and similar identifiers.
+
+- Demographic Data, such as ethnicity, sex, gender, age, sexual orientation, national origin, disability status, citizenship, and work authorization status.
+
+- Commercial Data, such as invoices, payment terms and schedules, financial account information, and information about services rendered.
+
+- Professional Data, such as current and previous employers, current and previous salaries, educational history, information provided on resumes or CVs.
+
+- Image Data, such as images and recordings of likeness or voice, for example when an individual participates in or interact with us on a video conference.
+
+- Preferences and Survey Responses, such as preferences regarding communication means and responses to surveys, including customer satisfaction surveys.
+
+Personal Data That We Collect Automatically
+
+We may automatically collect information that constitutes Personal Data when individuals interact with us, such as when they visit our digital properties, read our marketing communications including emails, contact us, apply for a job, or attend events that we are hosting, among other interactions.
+
+Depending on the interaction with us, we might collect the following categories of Personal Data:
+
+- Identifiers and Contact Data, such as device identifiers (e.g., IP and MAC addresses, cookie identifiers, device advertising identifiers), username and password, email address, phone number, and similar identifiers.
+
+- Usage and Device Data, such as websites visited, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, other technology on the devices used to access our websites and apps, volume of transferred data, location data (e.g., inferred by IP address or obtained through GPS), and interactions with advertisements.
+
+- Commercial Data, such as details of products ordered or delivered.
+
+We use cookies and related digital tracking technologies (“Cookies”) in our emails and on our digital properties. This may involve us or third parties collecting Personal Data about online activities over time and across third party websites or online services. Please read our Cookie Notice for more information about our use of Cookies. We do not currently respond to web browser Do Not Track signals or similar mechanisms.
+
+Personal Data That We Collect from Third Parties
+
+We may obtain Personal Data from third parties, such as when we obtain contact data from marketing list suppliers to support our marketing and sales initiatives.
+
+The third parties from which we obtain Personal Data generally fall within the following categories:
+
+- Government sources
+
+- Publicly accessible data
+
+- Social media platforms
+
+- Marketing list suppliers
+
+- Advertising partners
+
+- Analytics providers
+
+- Data supplementation suppliers
+
+- Business partners, such as event co-sponsors
+
+We collect the following categories of Personal Data from third parties:
+
+- Identifiers and Contact Data, such as name, postal address, email address, telephone number, general location (such as city, state, and country), usernames for online accounts, and device identifiers (including cookie identifiers and device advertising identifiers).
+
+- Demographic Data, such as ethnicity, age, sex, gender, sexual orientation, national origin, and disability status.
+
+- Usage and Device Data, such as browsing and search history and interactions with advertisements.
+
+- Usage and Device Data, such as websites visited, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, other technology on the devices used to access our websites and apps, volume of transferred data, location data (e.g., inferred by IP address or obtained through GPS), and interactions with advertisements.
+
+- Commercial Data, such as details of products ordered or delivered.
+
+#### 2. Why We Process Personal Data
+
+The specific purposes for which Berry processes an individual’s Personal Data differs based on our relationship with the individual. In general, Berry processes Personal Data for the following purposes:
+
+- To conduct legitimate business activities, including but not limited to marketing, promotion, sales to customers, customer support, receiving payments, entering into contractual agreements, contracting with third party service providers, preventing fraud, and procuring goods or services.
+
+- To deliver our products, goods, or services, including to fulfil requested transactions and, where necessary, to confirm eligibility criteria if the requested product, good, or service is limited to certain groups.
+
+- To communicate with individuals, including responding to questions, queries, and complaints from customers, users, or others, responding to requests for donations, sponsorships, scholarships, or charity, and informing individuals about job opportunities with Berry.
+
+- To provide information and advertising, such as digital advertising or direct marketing, about products or services that we think may be useful, relevant, or of interest to our customers.
+
+- To evaluate an individual’s candidacy, such as when processing an application for an opening on Berry’s team or when evaluating whether to award a grant or donation.
+
+- To conduct research and development, including to improve existing products and services and to develop new ones.
+
+- To provide, maintain, develop, and improve our digital properties, including our websites, apps, services, and platforms.
+
+- To maintain, improve, and investigate the security of our systems and digital properties.
+
+- To comply with legal obligations and to respond to legal process or inquiries from authorities.
+
+- To protect the rights, interests, and safety of us those we interact with, and any third parties, and to exercise and defend our rights.
+
+- To create anonymous, de-identified, or aggregated datasets. Such datasets would not be “Personal Data” subject to this Notice. We may use anonymous, de-identified, or aggregated datasets for any purpose.
+
+The additional purposes for which we may process what are deemed special categories of personal data under certain jurisdictions’ laws are as follows to the extent relevant, necessary and permitted by applicable local law:
+
+- Demographic data - We will use information about an individual’s sexual orientation, race, ethnicity and disability for specific, legitimate reasons, such as to ensure meaningful equal opportunity monitoring and reporting as required by some jurisdictions’ laws.
+
+#### 3. Lawful Bases of Processing
+
+Certain jurisdictions require that we have a lawful basis to justify our processing of Personal Data. Where applicable, the lawful bases that Berry relies upon to justify a particular processing activity may differ from the lawful basis used to justify a different processing activity. Berry relies on the following lawful bases to process Personal Data, as permitted under applicable law:
+
+- Processing necessary for the negotiation, execution, or performance of contracts.
+
+- Processing to comply with legal and regulatory obligations.
+
+- Processing in furtherance of our legitimate interests, including our interests to conduct legitimate business activities (such as improving our products or services, to communicate with individuals, including at our customers or potential customers, to secure our systems, among other legitimate interests).
+
+- Processing based on an individual’s consent.
+
+We may obtain consent to collect and use certain types of Personal Data when we are required to do so by law (for example, in certain jurisdictions in relation to our direct marketing activities and our use of cookies). If we ask for consent to process Personal Data, individuals may withdraw that consent at any time by contacting us using the details at the end of this Notice. Withdrawing consent will not affect the lawfulness of processing based on consent before its withdrawal.
+
+Where required by law, we may obtain explicit consent to collect and use special category data (see the end of section 2 above) about individuals. Other legal bases for our processing of special category data may include, as permitted by applicable law, for employment, social security or social protection law, for reasons of substantial public interest, or as necessary for the establishment, exercise or defense of legal claims.
+
+#### 4. Disclosures of Personal Data
+
+Where required by applicable law, Berry does not rent, sell, or share Personal Data about individuals with non-affiliated persons for their direct marketing purposes unless we have their permission. Otherwise, however, we may disclose Personal Data to the following categories of third parties without consent or direction as permitted by applicable law:
+
+- Members of the Berry Global Corporate Group, including our affiliates, subsidiaries, and Berry Global Inc. in the United States.
+
+- Service Providers, which are entities that process Personal Data on behalf of Berry.
+
+- Business Partners, where we work with them to jointly create products or to sell our products or services.
+
+- Persons with legal rights to access Personal Data, including, as the case may be, law enforcement agencies, intelligence services, competent administrative and judicial authorities, and persons with validly-issued subpoenas, warrants, or other forms of legal process; and
+
+- Parties involved in potential business transactions, including potential acquirers and other stakeholders in the event of a possible or actual merger or legal restructuring operation such as an acquisition, joint venture, assignment, spin-off, divestiture, or bankruptcy.
+
+We may also disclose Personal Data to other third parties that do not fall in one of the above categories at an individual’s direction or with their permission.
+
+#### 5. Cross-border Transfers of Personal Data
+
+Berry operates globally and consistent with applicable laws may process Personal Data in jurisdictions that are not regarded as providing the same level of protection to Personal Data as the jurisdiction in which an individual is based, which may, for example, include the United States.
+
+When transferring Personal Data across borders, we take steps to put in place safeguards to protect such Personal Data as required by applicable laws. These safeguards may include:
+
+- Transferring Personal Data to recipients located in countries deemed to provide an adequate level of protection for Personal Data including where Personal Data originates in the European Union, to countries which the European Commission has deemed to provide an adequate level of protection for Personal Data; and
+
+- Entering into agreements containing contractual safeguards, such as the Standard Contractual Clauses that have been approved by the European Commission.
+
+Any individual having a question concerning the transfer of their Personal Data can contact us (see the “Contact Us” section below).
+
+#### 6. Data Security and Retention
+
+Berry implements various technical, administrative, physical, and organizational measures to protect the security and confidentiality of Personal Data. While we take measures to safeguard Personal Data, we cannot guarantee that the Personal Data we process will remain secure.
+
+Where required by law, Berry will retain Personal Data only for as long as necessary to accomplish the purposes for which the Personal Data was collected or for the period required by the applicable laws (whichever is longer).
+
+To determine the appropriate retention period for Personal Data, Berry considers the following factors:
+
+- The volume, nature, and sensitivity of the Personal Data;
+
+- The potential risk of harm from its unauthorized use or disclosure;
+
+- The purposes for which we process it and whether we can achieve those purposes through other means; and
+
+- Applicable legal requirements.
+
+When the retention of Personal Data is no longer necessary for the purposes for which it was collected or our retention of such Personal Data is no longer required by law, we will delete, anonymize, de-identify, or aggregate the Personal Data such that it is no longer associated with an individual.
+
+#### 7. Individual Choices and Rights
+
+Some jurisdictions have provided individuals with certain rights in relation to the processing of their Personal Data. For example, this is the case where an individual or the Berry subsidiary or affiliate with which an individual interacts is located in the European Union or United Kingdom, though these rights may be available in certain other jurisdictions too. These rights are not available to everyone, and they do not necessarily apply in all contexts. Depending on applicable law, an individual may have the rights to:
+
+- Request access to Personal Data.
+
+- Request correction of Personal Data (should Personal Data be inaccurate, incomplete, or obsolete).
+
+- Request deletion of Personal Data.
+
+- Withdraw consent to processing (where we processed Personal Data on the basis of consent). Please note that withdrawing consent applies only to future processing activities.
+
+- Object to the processing of Personal Data.
+
+- Request restrictions on the processing of Personal Data.
+
+- Request the transfer of Personal Data to a third party.
+
+- Opt-out of certain transfers to third parties.
+
+Individuals can seek to exercise their rights by contacting us as described in the “Contact Us” section below.
+
+If anyone feels that we have failed to comply with a request or have not addressed a complaint, they have the right, if applicable, to complain to the competent data protection or other regulatory authority in their jurisdiction.
+
+#### 8. Children’s Data
+
+Our products are not directed to children. Accordingly, we do not knowingly process Personal Data relating to individuals younger than 16. If we were to do so it would be with parental or guardian consent. If anyone believes that we are processing Personal Data relating to a minor without permission from the minor’s guardian, please notify us (see the “Contact Us” section below).
+
+#### 9. Revisions to this Notice
+
+We may update this Notice from time to time. Individuals may consult this Notice on a regular basis and check the date on which the Notice was last updated, as shown in the beginning and end of the Notice. When we make a material change to the Notice, we will endeavor to notify individuals by mentioning the change or we will provide notice as otherwise required by law.
+
+#### 10. Contact Us
+
+To exercise a right or make a request concerning the processing of Personal Data, individuals may contact us by:
+
+- Emailing us at webmaster@berryglobal.com; or
+
+- Mailing us at 101 Oakley Street, Evansville, IN 47710, USA.
+
+If you are a California resident, please review the California Notice and Privacy Policy, which will provide you with further instructions on how to exercise your rights and/or submit a request as a California resident or an authorized agent of one.
+
+#### 11. APPENDIX 1 – List of Entities
+
+Click here for link to the list of entities .

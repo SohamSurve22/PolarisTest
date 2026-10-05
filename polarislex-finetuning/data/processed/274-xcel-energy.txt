@@ -1,0 +1,186 @@
+XCEL ENERGY PRIVACY NOTICE
+Overview
+Xcel Energy Inc. and its wholly owned affliates and subsidiaries (collectively, “Xcel Energy”) understands that privacy is important to
+you, and we take your privacy seriously. This Privacy Notice (“Notice”) describes our privacy practices as it pertains to your Personal
+Information, defned as any information linked, or linkable, to any identifed or identifable individual.
+This Notice explains:
+• What information we collect from and about you when you use our products and services, communicate with us, visit our website,
+or interact with us through social media.
+• How we use and share the information we collect.
+• With whom we share this information.
+• The choices we offer you regarding your information, and how to exercise those choices.
+• How you can access and request that we correct the information we maintain about you.
+• How we safeguard the information we maintain.
+• How you can ask questions about our privacy practices and seek resolution of any concerns you may have regarding our handling of
+your information.
+Information we collect and how it’s used
+We may obtain information about you through various sources, such as:
+• Phone, e-mail, social media and other means by which you communicate with us.
+• An Xcel Energy installed utility meter at your home or business.
+• Xcel Energy website, social media pages, mobile applications and other interactive assets that you access.
+• Surveys, contests, sweepstakes, rebates and other promotions.
+• Our parent, affliate or subsidiary companies.
+• Our service providers and other third parties (such as credit reporting agencies).
+The types of information we may obtain about you include:
+• Contact information (such as name, postal address, e-mail address, and phone number). We use this information to provide you
+with service, establish and maintain your account, run our business, communicate with you, and provide customer support. Your
+e-mail address may be used to deliver targeted advertisements to you.
+• Sensitive Personal Information (such as date of birth, social security number, driver’s license number, or government ID number).
+We use this information when setting up your new service, to confrm your identity, protect against fraud, and aid our ability to
+collect on past-due debts.
+• Demographic information (such as home ownership status and estimated household income). We use this information to
+anticipate your need to enroll in our energy assistance programs.
+• Details about your home (such as dwelling age, size and type, and details about appliances and other energy-related equipment
+used in the home). We use this information to gauge your interest in our energy effciency programs and market these programs and
+services to you.
+• Program participation information (such as our renewable energy, energy effciency, electric vehicle, or energy conservation
+programs). We use this information to facilitate your participation in these programs.
+
+XCEL ENERGY PRIVACY NOTICE
+• Your payment history and details (such as payment amounts and dates, fnancial account number, routing number, and billing
+address). We use this information to process payments for our services.
+• Username or ID and password for an account you may establish on our website. We use this information to provide you access to
+and maintain the security of your MyAccount.
+• Energy usage data specifc to your account (the type of energy usage data collected from utility meters and the frequency with
+which we collect that information varies depending on the type of meter installed; our website provides more information about our
+metering technology).
+• Information from credit reporting agencies . We use this information to market our programs and services to you and perform
+analytics (such as market research and trend analysis).
+• Information from you about the medical condition of individuals in your home . We use this information to the extent
+necessary to promote your safety or the safety of Xcel Energy employees.
+• Web browsing details . When you visit our website or social media pages, we may collect certain information by automated
+means (such as cookies and web beacons). We also may use website analytics tools that collect information about your visits to
+our website or social media pages (such as IP address, time and length of visits to our website, site navigation patterns, general
+geographic location; and search terms used to reach our website). We use this information to evaluate and enhance usage of
+our website.
+– A “cookie” is a text fle that a website sends to a visitor’s computer or other Internet-connected device to uniquely identify the
+visitor’s browser or to store information or settings in the browser.
+– A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server.
+• Other information you may provide to us. We may use any information you provide to us to operate, evaluate and improve our
+business and the products and services we offer (such as developing new and analyzing existing products and services, optimizing
+customer experience, managing our energy distribution system, reducing costs and improving service accuracy and reliability,
+managing risk exposure, and performing accounting, auditing and other internal functions).
+Online advertising
+Y
+ou may see ads about our products and services on other websites because we participate in advertising networks. Ad networks
+allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online
+activities over time by collecting information through automated means, including using cookies, web server logs, web beacons
+and other methods. The ad network vendors may collect information about your visits to websites that participate in the vendors’
+advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. The networks use
+this information to show you advertisements for our products and services. This data collection and ad targeting takes place both on
+our website and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our
+marketing efforts. To opt-out of targeted advertising, you can submit an opt-out request.
+Information disclosures
+Overview
+W
+e do not disclose information about you except as described in this Notice. This means that, with the exception of disclosures of the
+information described in this Notice and any disclosures you or your authorized agent have specifcally authorized, you can expect that
+we will keep the information that we maintain about you private and confdential, and not otherwise disclose it.
+As we explain in the next section, certain disclosures of information about you do not require your consent because they are
+specifcally permitted or required by applicable laws and regulations. Other disclosures will only occur after we obtain your explicit
+authorization. We do not sell your information .
+Nothing in this Notice precludes you from directly sharing your own information with a third-party that may or may not be affliated
+with Xcel Energy. In such circumstances, Xcel Energy is not responsible for unauthorized disclosure or use of that information by the
+third-party to which you disclose your information.
+
+Information disclosures for which authorization is not required
+W
+e may disclose information about you:
+• As required or permitted by law or applicable regulations, including to a federal, state or local governmental agency with the power
+to compel such disclosure, or in response to a subpoena or court order.
+• To service providers who perform services on our behalf (such as billing and payment processors, collection agencies, external
+auditors, data analytics service providers, companies that facilitate customer notifcations on our behalf, and companies that assist
+us in providing products and services to customers).
+• Including aggregated or de-identifed energy usage data to third-parties. We aggregate and/or anonymize the information in
+accordance with applicable legal and regulatory requirements, including those designed to prevent the re-identifcation of the
+information.
+• In connection with: referral of past due accounts for collection or sale of such accounts, a transfer of service rights to another utility
+provider (which would generally be subject to your state Public Utility or Public Service Commission review and approval).
+Information disclosures that require customer authorization
+Y
+ou may access your energy usage data and share it with a third party using My Account.
+We may share certain information about you with a third party if you have authorized the disclosure in writing, including:
+• Requests for disclosure of energy usage data can be submitted with the Consent to Disclose Utility Customer Data form in English
+or in Spanish.
+• Requests for disclosure of customer information other than energy usage data can be submitted with the One-Time Release of
+Information form for service verifcation letters, credit reference letters, and lock authorization forms.
+Prior to authorizing the disclosure of your information to a third-party, you should consider the third-party’s proposed scope, purpose,
+and use of the information, including whether they can use it for other purposes that may extend beyond the intent for which you
+initially authorized its disclosure.
+With respect to disclosures of energy usage data, please note that depending on the type of metering equipment and supporting
+infrastructure, it may be possible to obtain insight into activities within your home or business through analysis of energy usage data.
+If you decline a request from a third-party to authorize access to your energy usage data, that decision will not affect the provision of
+any service you receive from Xcel Energy.
+Revoking consent
+Y
+ou may at any time terminate or limit any consent previously provided that authorizes a third-party to access or use your information
+by sending a request to us via e-mail ( datarequest@xcelenergy.com), fax (866-208-8732), or mail (P.O. Box 8, Eau Claire, Wisconsin
+54702).
+Your choices
+Y
+ou have choices about what information we collect from you and how we communicate with you.
+Marketing e-mails
+Y
+ou may choose not to receive marketing e-mail communications from us by clicking on the “unsubscribe” link in a marketing e-mail
+we send to you. We will discontinue this type of contact with you within ten days after we receive your ‘unsubscribe’ request. Please
+note that even if you opt-out of our marketing e-mail communications, you will continue to receive non-marketing e-mails related to
+your account transactions.
+Cookies
+T
+o stop accepting new cookies, to be notifed when you receive a new cookie, and to disable existing cookies, go to cookies under
+your browser settings. Without cookies you may not be able to take full advantage of our website’s features.
+Online advertising
+T
+o opt-out of receiving marketing communications through the advertising networks of our ad network vendors, please submit an opt-
+out request. You may authorize a third party to opt-out on your behalf with proof of authorization.
+
+XCEL ENERGY PRIVACY NOTICE
+Data rights
+S
+ubject to your Xcel Energy service area, you may be able to exercise certain data rights, such as:
+• Know what Personal Information we have about you and obtain a copy.
+• Correct inaccuracies within your Personal Information.
+• Request deletion of your Personal Information, subject to certain limitations.
+You can take advantage of some of these rights via My Account, submit a request on our Privacy page, or contact us as specifed
+in the How to Contact Us section at the end of this Notice. To safeguard your information, before any request is fulflled, we must
+authenticate you using some of your personal attributes, including your Xcel Energy account number. In some cases, we may deny
+your request and will notify you of our reason for the denial and include instructions for how you may appeal.
+Links to other websites
+O
+ur website may contain links to other sites for your convenience and information. These sites may be operated by companies not
+affliated with Xcel Energy. We are not responsible for the content of any website not affliated with Xcel Energy, any use of those
+sites, or those sites’ privacy practices.
+How we protect your information
+W
+e maintain administrative, technical and physical safeguards designed to protect the privacy and security of the information we
+maintain about you. Among other protections, these safeguards are designed to restrict access to your information to those
+Xcel Energy employees, other personnel, and contracted agents, that need access for an identifed business purpose.
+To help protect yourself, we recommend that you protect the confdentiality of any username or ID and password you use to access
+any online services, including those provided by Xcel Energy. You are responsible for all activity on the website accessed using your
+username or ID and password. You should also sign out of your account(s) and close your browser window when you have fnished
+your visit to our website. We will never ask for your Xcel Energy My Account password via e-mail or phone.
+Our website includes tips about steps you can take to help protect your information, including identifying potential scams and securing
+information you may access online about your Xcel Energy account.
+Children’s privacy
+O
+ur website is a general audience website; we do not intend or knowingly use them to collect any Personal Information from children
+younger than the age of 13 (child). If we discover that we have collected Personal Information from a child, we will use commercially
+reasonable efforts to delete that Personal Information. If you are the parent or legal guardian of a child and believe that Xcel Energy
+has collected Personal Information, please contact us as indicated in the How to Contact Us section of this Notice.
+Retention
+W
+e will only retain your Personal Information for as long as is reasonably necessary for our business purposes or as required by law.
+Updates to our privacy notice
+T
+his Notice may be updated periodically and without prior notice to you to refect changes in our information practices. Please
+regularly review the content of this Notice. We will post a prominent notice on our website to notify you of material changes to our
+Notice. We also have indicated at the bottom of the Notice when it was most recently updated. Amendments to this Notice will
+become effective when posted on our website. Your continued use of our website, products and services provided by Xcel Energy
+after such posting will be deemed your acceptance of any changes to our Notice.
+How to contact us
+F
+or more information regarding our privacy practices, if you have questions or comments about this Notice, or if you would like us to
+update information we have about you or your preferences, please contact us by e-mail at datarequest@xcelenergy.com , or call
+800-895-4999.
+Last reviewed: June 16, 2023
+xcelenergy.com | © 2023 Xcel Energy Inc. | Xcel Energy is a registered trademark of Xcel Energy Inc. | 23-05-645

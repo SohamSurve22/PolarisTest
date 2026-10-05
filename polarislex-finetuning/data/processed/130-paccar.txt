@@ -1,0 +1,612 @@
+##### Privacy Statement
+
+- French Privacy Policy
+
+- Spanish Privacy Policy
+
+### Privacy Statement
+
+Download PDF
+
+PACCAR
+Privacy Statement
+
+Last updated April 2025
+
+- Introduction
+
+- How to Contact Us
+
+- What personal data do we collect, and how do we use it?
+
+- How long do we keep your personal data?
+
+- To whom do we disclose your personal data?
+
+- How do we protect your personal data?
+
+- Your choices and rights
+
+- Notifications to users in the EEA, UK, or Switzerland
+- Users under 16 years old
+
+- Links to other websites
+
+- Website Accessibility
+
+1. Introduction
+
+PACCAR Inc, including all our subsidiaries and affiliates (“PACCAR”, “we”, “us”, and “our”), respects your privacy and understands the importance of protecting your personal data. This privacy statement (the “Statement”) provides you with information regarding how we process your personal data including:
+
+- what personal data we collect from you,
+
+- for what purpose we use it,
+
+- the categories of parties to whom we disclose it,
+
+- how we protect and maintain your personal data, and
+
+- what rights you have regarding your personal data.
+
+This Statement applies to personal data collected by PACCAR. If we collect and use your personal data in any context not covered by this Statement, we will give more specific information in addition to the information provided here. In the event of a conflict between the information contained in this Statement and information contained in PACCAR’s privacy statement for your specific location of residence, the specific privacy statement for your region (e.g., Europe) will control.
+
+If you are a European user (including users from Russia and Turkey), we recommend you also review the privacy statement of PACCAR Holding B.V., which is located at https://www.daf.com/en/legal/privacy-statement.
+
+If you are a Brazilian user, we recommend you also review the privacy statement of DAF Brasil, which is located at https://www.dafcaminhoes.com.br/pt-br/legal/politica-de-privacidade.
+
+If you are an Australian user, we recommend you also review the privacy statement of PACCAR Australia Pty Ltd and PACCAR Financial Pty Ltd, which is located at https://www.paccar.com.au/privacy-policy/
+
+If you are a Mexican user, we recommend you also review the privacy statement of Kenworth Mexicana, S.A. statement located at https://kenworth.com.mx/aviso-de-privacidad/.
+
+We may update portions of this Statement from time to time and will alert you that changes have been made by indicating on the Statement the date it was last updated or otherwise as required by applicable law. You can find the date of the last update at the top of the Statement. Keep in mind that your use of the Website (as defined below) and PACCAR’s services means that you accept the current version of this Statement as posted on the site at that time. We encourage you to re-visit this Statement on occasion to learn of any changes.
+
+If you have a disability which prevents you from electronically accessing this Statement and require it to be provided in an alternative format (for example, audio, large print), you can contact us using the information below to receive this Statement in a form accessible to you.
+
+You can access a PDF version of this Statement here.
+
+2. How to Contact Us
+
+To contact PACCAR with any questions or requests pertaining to your personal data, you can use the following contact information:
+
+PACCAR Inc Data Privacy and Protection Department
+P.O. Box 1518
+Bellevue, WA 98009
++1 (844) 664-1999
+DataProtection@paccar.com
+
+For any questions pertaining to PACCAR’s European companies, including exercising your rights as a European data subject or questions about data transfers within or outside of the European Economic Area (“EEA”), you can contact the following email address:
+dataprotectionofficer@daftrucks.com
+
+For any questions pertaining to PACCAR’s Canadian companies, you can contact the Data Protection Officer at the following email address:
+DataProtection@paccar.com
+
+3. What personal data do we collect, and how do we use it?
+
+3.1 Website visitors, applicants and offline users
+PACCAR collects certain personal data from you if you visit our websites, use our apps, apply for or express interest in a career opportunity with us, for marketing purposes or if you interact with PACCAR in the other ways described below, including through in-person interactions at events or trade shows. PACCAR collects information directly from you or, where applicable, your employer, automatically from your device, and from third party sources like directories or databases.
+
+PACCAR operates a variety of different websites and apps related to the services we provide. These include but are not limited to, PACCAR.net and e-Portal, PACCAR’s truck brand and division websites, PACCAR Financial Services website, PACCAR Parts and Service website and app, PACCAR Winch website, PACCAR Solutions Database, Kenworth TruckTech+, Kenworth Essentials app and SmartLINQ, any landing pages, microsites, apps, services, programs, or other interactions with the foregoing (collectively, including all apps, the “Websites”).
+
+The categories of personal data that PACCAR collects from you, your employer, or third parties includes:
+
+- contact information such as name, address, e-mail address, and phone number
+
+- account information such as username, preferences, and billing information
+
+- information about your company such as company name, company website, your title, and your role
+
+- type of phone provided (for example, work, home, mobile)
+
+- interests
+
+- vehicle identification number (“VIN”)
+
+- recruiting information including education, work history, certifications and licenses, language skills, geographic preferences, references, salary expectations, information in documents you choose to provide such as a cover letter or curriculum vitae, and other information you may choose to provide such as your race or veteran status
+
+- images that you may choose to provide to us or otherwise make public via social media
+
+- any other information you may choose to provide at your discretion
+
+PACCAR uses this personal data for the following purposes:
+
+- to set up and maintain your account
+
+- to contact you with the communication you requested, such as when you make a query on a contact page on our website or a request for information
+
+- to understand your business and offer you potential business opportunities
+
+- to process your employment application, including assessing your qualifications for a job, conducting reference checks, communicating with you about your application and conducting background checks if we offer you a position, as permitted by applicable law
+
+- to provide you with information and offers about PACCAR products and services and information resources
+
+- to better design, manage and enhance our products and services for you
+
+- to allow you to participate in loyalty and other rewards programs, contests, sweepstakes, or other promotional and marketing activities
+
+- to obtain leads and contacts
+
+- to send you surveys
+
+- to allow you to participate in training opportunities
+
+- for market research, analytics, and business intelligence purposes
+
+The pseudonymous data that PACCAR collects automatically from the device(s) you use to access the Websites, some of which may be considered personal under applicable laws and regulation, includes:
+
+- IP address
+
+- device type
+
+- browser version
+
+- pages viewed
+
+- search history
+
+- operating systems
+
+- identifiers assigned to your device, such as cookies or mobile device advertising identifiers
+
+PACCAR uses this data for the following purposes:
+
+- to maintain and improve our Websites, to monitor our Websites’ performance and the use of our Websites and enhance your browser experience
+
+- to provide you with features and functionality that improve your experience using our Websites (such as saving your user sessions and preferences)
+
+We provide more information about cookies and describe the opt-out procedure in the Your choices and rights section below, and in our Cookie Statement located at https://www.paccar.com/paccar-cookie-statement/
+
+3.2 Customers
+PACCAR Customers are either direct customers of PACCAR or customers of authorized dealers (such as Peterbilt, Kenworth or DAF Importers, dealers, service partners and TRP Parts Distributors).
+
+If your employer is a customer of PACCAR, we collect the following categories of personal data about you:
+
+- contact information including name, address, telephone number and e-mail address
+
+- information about your company such as company name, company website, your title, and your role
+
+- government identifiers including social security number, driver’s license number, passport number, and tax ID number
+
+- event registration information including emergency contact, next of kin, spouse/partner name, and dietary preferences
+
+- information concerning health issues that you voluntarily share
+
+- financing information including credit reports, financial statements, tax returns, references, work history, and bank account, or credit card number
+
+- information about your vehicle including VIN, license plate number and other truck identifiers
+
+- information about the use of your vehicle including your vehicle’s description, precise geolocation, speed, direction of travel, time of travel, service data, odometer reading, or mechanical condition
+
+- type of phone number provided (for example, work, home, mobile)
+
+- conversations between our and our service provider’s respective service centers you if you contact the service centers to discuss your account
+
+We use the personal data we collect for the following purposes:
+
+- to prepare and perform contracts for sale and delivery of products and services including online (e-store) purchases
+
+- to assess creditworthiness, make credit determinations and assess related requests such as repayment extensions
+
+- to determine truck usage
+
+- for service and support, emergency assistance on the road, warranty products, field actions, rebates, and recall campaigns
+
+- for repossession purposes, including to report a repossession, locate your vehicle, and recover/repossess your vehicle
+
+- to manage your account
+
+- to allow you to test drive or pick up a vehicle
+
+- to build and maintain customer relationships
+
+- to inform you about products and services that might be of interest
+
+- for market research, analytics, and business intelligence purposes
+
+- for participation in loyalty and other rewards programs, contests, sweepstakes, or other promotional activities
+
+- for event registration and planning
+
+- for the participation in surveys, training and quality assessments
+
+- to improve your experience at dealerships and enhance your overall ownership experience
+
+- to improve and further develop our products and services, perform analysis, and to conduct research
+
+- for fulfilment of regulatory compliance
+
+3.3 Business Partners (such as dealers, suppliers, and other business third parties)
+If your employer is a business partner of PACCAR, we collect the following categories of personal data about you:
+
+- contact information including name, address, telephone number, fax number, e-mail address
+
+- type of phone provided (for example, work, home, mobile)
+
+- information about your company such as company name, company website, company location, your title, and your role
+
+- government identifiers including social security numbers, driver’s license, passport numbers, and tax ID numbers
+
+- type of phone number provided (for example, work, home, mobile)
+
+- images of you that you voluntarily share with us on social media
+
+- information about your vehicle such as VIN, license plate number and other truck identifiers
+
+- financing information including credit reports, credit rating, financial statements, tax returns, references, and bank account or credit card number
+
+We use the personal data we collect for the following purposes:
+
+- to prepare and perform contracts for sale and delivery of products and services including online (e-store) purchases
+
+- to provide access to IT systems, online stores (e-store), and web-portals
+
+- to assess creditworthiness, make credit determinations and assess related requests such as repayment extensions
+
+- to build and maintain relationships with you and your employer
+
+- to allow you to test drive or pick up a vehicle
+
+- to inform you about products and services that might be of interest to you
+
+- for market research, analytics, and business intelligence purposes
+
+- for participation in business partner loyalty programs and other rewards programs, contests, sweepstakes, or other promotional activities
+
+- for the participation in surveys, training, and quality assessments
+
+- fulfilment of regulatory compliance
+
+3.4 Drivers
+If your employer enters into a contract with PACCAR for Peterbilt SmartLINQ, Kenworth TruckTech+, DAF Connect, or any other data-logger, your vehicle will be monitored remotely. Although the information that PACCAR receives through these services relates to the vehicle, rather than an individual driver, this information could be considered personal in certain jurisdictions.
+
+If you purchase a PACCAR vehicle equipped with a telematics system, PACCAR may also collect information from your vehicle on a real-time basis about its mechanical condition, such as diagnostic data, odometer readings, oil and fluid levels, tire pressure, fuel economy and its precise geolocation.
+
+If you are a driver for one of our customers, we collect the following categories of personal data:
+
+- contact information such as your name, email-address, address, phone-number
+
+- type of phone provided (for example, work, home, mobile)
+
+- driver’s license number
+
+- driver behavior (e.g., the location, mileage, driving times, fuel used, idling time, speed, and the utilization of the fleet of the truck they are driving)
+
+- information about your vehicle including VIN, license plate number, and other truck identifiers
+
+- information about the use of your vehicle, including your vehicle’s description, precise geolocation, speed, direction of travel, time of travel, service data, odometer reading, or mechanical condition
+
+We use the personal data we collect for the following purposes:
+
+- to analyze the performance of the vehicle, conduct analytics, and optimize the quality and performance of our products and services
+
+- to alert you to any mechanical or safety-related problem and provide you with support from our network of authorized dealerships
+
+- to conduct remote diagnostics and repair and maintenance planning
+
+- to provide, if requested, emergency assistance on the road
+
+- to fulfill contractual obligations
+
+- to communicate in order to provide our services
+
+- to fulfill obligations to customers and fleet owners and optimize truck performance
+
+- to facilitate your participation in driving competition events
+
+3.5 Data from public sources
+Please be aware that we also collect data from public sources such as credit agencies, Chambers of Commerce, or other governmental institutions.
+
+3.6 Other Permitted Uses
+In addition to the reasons set forth above, we may use any of your personal data we collect as we believe to be necessary or allowed:
+
+- under applicable law
+
+- to comply with legal process and our legal obligations
+
+- to respond to requests or requirements from public legal and governmental authorities (including national security and law enforcement requirements) and private parties
+
+- to enforce our terms and conditions
+
+- to protect our operations
+
+- to protect our rights, privacy, safety, or property, and/or that of you or others
+
+- to allow us to pursue available remedies or limit the damages that we may sustain and
+
+- to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity
+
+We also may use and disclose information that does not identify you because it is in the form of aggregated or statistical data.
+
+4. How long do we keep your personal data?
+
+Different retention periods apply for different types of personal data that we collect. We keep your personal data for as long as necessary:
+
+- for the purposes for which the information was collected
+
+- as business records reasonably retained in the normal course of business
+
+- to respond to any questions, complaints or claims that may be made by you or on your behalf
+
+- to keep records required by law
+
+5. To whom do we disclose your personal data?
+
+We may disclose your personal data to the following categories of parties:
+
+- PACCAR related entities, subsidiaries, and affiliates, each of which are subject to this Statement
+
+- Our business partners such as:
+
+- vendors or service providers who help us provide our products and services and conduct our corporate business activities, including maintaining the Websites, supporting our marketing and other promotional activities, email management, and recruitment
+
+- authorized company and independent dealers
+
+- distributors and suppliers
+
+- financial, tax, insurance, auditing, or legal advisors
+
+- marketing or loyalty program management partners
+
+- individuals designated by customers as emergency contacts
+
+- Relevant Government departments and agencies
+
+If you are a resident of California, see Section 9 (Notice to California Residents) for additional detail about to whom PACCAR discloses your personal data.
+
+We also may disclose your personal data when we reasonably believe it is required:
+
+- by law, or to comply with a subpoena, or other legal process
+
+- to respond to requests or requirements from public legal and governmental authorities (including national security and law enforcement requirements) and private parties
+
+- to protect or defend the rights of PACCAR property
+
+- to protect or defend the rights or property of PACCAR
+
+- to protect the health or personal safety of the public, or
+
+- in connection with the sale of all or part of our business or to honor user access rights, as applicable
+
+Additionally, we may transfer information to any other third party with your consent to do so.
+
+The information that we collect from you may be transferred to, and stored at, a destination outside of the jurisdiction where you reside. While such information is outside of your country of residence, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country.
+
+If our disclosure of personal data requires us to transfer your personal data outside of the EEA, UK, or Switzerland, we provide additional details on cross-border transfers in the section below International Transfer.
+
+No SMS mobile data will be sold or shared with third parties/affiliates for marketing/promotional purposes.
+
+6. How do we protect your personal data?
+
+We care about protecting the availability, integrity, and accuracy of your personal data. Accordingly, we have implemented several security measures to help protect your personal data from accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access.
+
+7. Your choices and rights
+
+Subject to applicable data protection and privacy laws, you may have certain rights related to your personal data which could include the right to access, correct and receive a copy of your personal data, the right to deletion of your personal data, the right to data portability, the right to restrict or opt out of certain processing of your personal data, the right to object or withdraw consent to the processing of your personal data, and the right to lodge a complaint with a regulatory authority. If you have questions regarding how to exercise your rights with PACCAR or wish to submit a request, please contact us using the contact information provided above. If you are a user in the EEA, UK, Switzerland, California or People’s Republic of China, we provide additional details below.
+
+You are not obligated to provide us your information. However, if the information is necessary to reply to your requests or answer your questions, we may not be able to assist you without it.
+
+You may opt out of promotional communications at any time by following the unsubscribe instructions included in the communications we send you. If you have any questions, you may contact us at dataprotection@paccar.com.
+
+We use cookies and similar technology like pixels on this Website. Cookies are small data files sent by websites to your hard drive through a web browser to enable the site to recognize your web browser, record activities, and ensure proper functionality of the website. If you wish to opt out of the use of cookies and similar technology on the Website, you can find more details in PACCAR's Cookie Statement. How to opt out depends on the type of browser and/or device you are using.
+
+For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit http://www.allaboutcookies.org and www.youronlinechoices.eu.
+
+8. Notification to users in the EEA, UK, or Switzerland
+Under the laws of the EEA, UK, and Switzerland, certain data we collect is considered “personal data.” We may have certain obligations and you may have certain rights with respect to this data.
+
+8.1 International transfer
+
+PACCAR is a global company with headquarters in the United States.
+
+Under the European General Data Protection Regulation (GDPR) or equivalent laws, some countries may be deemed to not provide an adequate level of data protection for your personal data. When we transfer personal data outside of the EEA, UK, or Switzerland, we ensure that appropriate protections are in place. These protections may include a legal mechanism such as the standard contractual clauses approved by the European Commission, which helps to ensure that the parties to whom we disclose your personal data uphold the same or similar standards of data protection as PACCAR.
+
+8.2 Role of company as a controller or processor
+
+If you are located in the EEA, UK, or Switzerland, PACCAR may act as the controller as defined under applicable law when processing personal data.
+
+8.3 Legal basis for processing
+
+PACCAR’s legal basis for processing your personal data depends upon the specific context in which we collect or use it. In many cases, we will process your personal data based on our legitimate interests. These legitimate interests include operating our Websites, managing our recruitment and marketing efforts, and providing our products and services. You have a right to object to processing on the basis of legitimate interests.
+
+If consent is the legal basis, for example in certain situations when we send you marketing communications, we will obtain your consent and let you know how you can withdraw your consent.
+
+Our other legal bases for processing include contractual and legal obligations.
+
+For additional details regarding our legal basis for processing, please refer to the privacy statement of PACCAR Holding B.V., which is located at https://www.daf.com/en/legal/privacy-statement
+
+8.4 Your rights
+
+Users in the EEA, UK, and Switzerland may have certain rights related to their personal data. This includes the right to access, correct and receive a copy of your personal data, the right to deletion of your personal data, the right to data portability, the right to restrict the processing of your personal data, the right to object or withdraw consent to the processing of your personal data, and the right to lodge a complaint with a regulatory authority. If you are a user in the EEA, UK, or Switzerland and have questions regarding how to exercise your rights with PACCAR or wish to submit a request, please contact dataprotectionofficer@daftrucks.com.
+
+9. Notification to California residents
+The California Consumer Privacy Act, as amended by the California Privacy Rights Act (the “CCPA”) applies to the collection, use, and disclosure of “personal information” collected from California residents (as those terms are defined by the CCPA).
+
+9.1 Collection, use and disclosure of Personal Information
+
+In the preceding twelve (12) months, the personal information that PACCAR has collected, which we describe in more detail above in the section “What personal data do we collect, and how do we use it”, falls into the following categories under the CCPA:
+
+- identifiers
+
+- personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e) Characteristics)
+
+- protected classification characteristics under California or federal law
+
+- commercial information
+
+- internet or other similar network activity
+
+- geolocation data
+
+- sensory data (e.g., visual images or audio recordings shared via social media)
+
+- professional or employment-related information
+
+- inferences drawn from other personal information
+
+- the following sensitive information:
+
+- social security, driver’s license, state identification card, or passport number
+
+- precise geolocation information
+
+- racial or ethnic origin, or union membership
+
+- personal information concerning health
+
+- personal information concerning sex life or sexual orientation
+
+PACCAR obtains the personal information listed above from the following categories of sources:
+
+- directly from you
+
+- directly and indirectly from dealers, distributors, suppliers, other third parties, and customers or their agents
+
+- directly and indirectly from activity on the Websites
+
+- from third parties and business partners that interact with PACCAR and its affiliates and subsidiaries in connection with the services we perform
+
+PACCAR collects your personal information for the specific business or commercial purposes described above in the section “What personal data do we collect, and how do we use
+
+In the preceding twelve (12) months, PACCAR may have disclosed the following categories of personal information to the following categories of third parties for a business purpose:
+
+| Category Third Parties We Disclose To
+| Categories of Information Disclosed
+
+| PACCAR related entities, subsidiaries, and affiliates, each of which is subject to this Statement
+- Identifiers
+
+- 1798.80(e) Characteristics
+
+- Protected classification characteristics
+
+- Commercial information
+
+- Internet or network activity
+
+- Geolocation data
+
+- Employment-related data
+
+- Sensitive information, including social security number, drivers’ license, state identification card, or passport number
+
+| Vendors or service providers who help us provide our products and services and conduct our corporate business activities, including maintaining the Websites, supporting our marketing and other promotional activities, email management, and recruitment
+
+- § 1798.80(e) Characteristics
+
+- Protected classification characteristics
+
+- Commercial Information
+
+| Authorized company and independent dealers
+
+- Sensitive information, such as driver’s license or state identification card
+
+| Distributors and Suppliers
+
+| Financial, tax, insurance, auditing, or legal advisors
+
+- Protected classification characteristics
+
+- Geolocation data
+
+- Sensitive information, such a driver’s license
+
+| Marketing or loyalty program management partners
+
+| Individuals designated by customers as emergency contacts
+
+- Sensitive information, such as personal information concerning health
+
+| Relevant Government departments and agencies Commercial Information
+
+- Geolocation data
+
+- Sensitive information, such as social security number, driver’s license, state identification card, passport number, precise geo-location information, racial or ethnic origin, union membership, or personal information concerning health
+
+We may disclose personal information for the specific business or commercial purposes described above in the section “What personal data do we collect, and how do we use it?”
+
+In the preceding twelve (12) months, we have not sold or shared, as those terms are defined in the CCPA, your personal information, including sensitive personal information.
+
+We do not use or disclose sensitive personal information for purposes that would require PACCAR to offer you a right to limit the use of your sensitive personal information.
+
+9.2 Your rights and choices under the CCPA
+
+Under the CCPA, you may have the following rights:
+
+- The right to know what personal information we collect about you, including the categories of personal information, the categories of sources from which the personal information is collected, our business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
+
+- The right to delete personal information that we have collected from you, subject to certain exceptions.
+
+- The right to correct inaccurate personal information that we maintain about you.
+
+- If we sell or share personal information, the right to opt-out of the sale or sharing of your personal information by us.
+
+- The right to obtain the personal data we collect about you in a portable and readily useable format.
+
+- If we use or disclose sensitive personal information for reasons other than those permitted by the CCPA, the right to limit our use or disclosure of sensitive personal information.
+
+- The right not to receive discriminatory treatment from us if you exercise privacy rights conferred by the CCPA, including an applicant’s right not to be disqualified from receiving employment for exercising their CCPA rights.
+
+If you submit a request, we may ask you to provide certain information to compare against our records to verify your identity and respond to your requests. We will endeavor to respond to your requests within forty-five (45) days of receipt of your request, after proper verification, unless we need additional time, in which case we will let you know.
+
+You may designate someone else to submit a request on your behalf as your authorized agent. Your agent may need to provide supporting documentation to make the request on your behalf. For your protection, we may require you to verify your identity directly with us and confirm the request before we process it.
+
+You or an authorized agent may submit a request under the CCPA by:
+
+- contacting the Data Protection Department at 1 (844) 664-1999
+
+- emailing the Data Protection Department at dataprotection@paccar.com, or
+
+- submitting a letter to the address provided in the Contact Information section
+
+You have the right to appeal any request that we deny by contacting the Data Protection Department to initiate such an appeal.
+
+9.3 Non-discrimination
+
+We will not discriminate against you for exercising any of your CCPA rights.
+
+9.4 Financial incentives
+
+PACCAR provides special rewards, incentives, offers and benefits to customers and dealers who participate in our loyalty rewards programs, sweepstakes, incentive contests, or other similar promotional campaigns, or who sign up to receive communications from us via email, text, chat, and social media (collectively, the “Programs”). Information we request when individuals sign up may include your name, address, email address, phone number, type of phone, company name, company website, and your role or title. Because our Programs involve the collection of personal information, they might be interpreted as a “financial incentive” program under the CCPA.
+
+Depending on the program, you may opt-in online by completing all questions and agreeing to the terms and conditions, through your employer, or by contacting the division of PACCAR offering the Program. You may withdraw from participating in a Program at any time by contacting us using the designated method set forth in the applicable Program disclosure or rules or by using the unsubscribe methods provided for that communication channel. You can find a full description of the terms and conditions within each applicable Program.
+
+We generally do not treat consumers differently if they exercise a privacy right under California law. However, where you need to voluntarily provide the personal information requested to participate in the Program, we are offering you a benefit that is reasonably related to the value of your data to us in connection with the benefit. Our reasonable determination of the estimated value of the personal information you provide to us when you sign up for that benefit takes into consideration a number of factors, including, among other things, our estimates regarding the anticipated revenue generated from the personal information and the actual and anticipated expenses that we incur in the collection, storage, and use of such personal information in connection with our services.
+
+10. Notification to individuals in the PRC
+The Personal Information Protection Law or “PIPL” generally applies to the processing of personal information relating to individuals within the borders of the People’s Republic of China (for the purpose of the Statement, excluding the Hong Kong Special Administrative Region, the Macau Special Administrative Region and Taiwan, the “PRC”). Unless otherwise stated in the following paragraphs, the rules indicated in this section apply in addition to and, where contradictions exist, replacement of the preceding sections of the Statement.
+
+10.1. Legal basis for processing
+
+We will seek your consent or follow other applicable legal bases to process your personal information. In particular, we rely on your consent for the processing of your personal data for conducting marketing activities.
+
+10.2 Sensitive personal information
+
+There may be instances in which the personal data that you provide to us or that we collect is considered sensitive personal information under the PIPL (e.g. governmental identifiers and financing information). We only process sensitive personal information if and to the extent permitted or required by applicable laws, including after obtaining your separate consent if required. We will seek to protect such information using the security measures required by the applicable laws to avoid your sensitive personal information being processed in a way that will result in negative implications to your personal rights, e.g. harm to your reputation, physical or mental health, personal or property security.
+
+10.3 Sharing and international transfer
+
+When necessary for the purposes described in this Statement, subject to your consent where necessary, your personal information may be shared to third parties located within or outside of the PRC. We will only share personal information that are necessary for the purposes indicated in the section What personal data do we collect, and how do we use it.
+
+You may request more detailed information on those organizations to whom your personal may be disclosed, as well as contact information, processing purposes, processing methods and types of personal information by contacting us at the following e-mail address: DataProtection@paccar.com.
+
+If required by applicable laws, we will conduct a security assessment, and/or undergo a personal information protection certification or sign standard contracts for cross-border transmission of personal information and take necessary measures to ensure the overseas recipient’s personal information handling meets the relevant personal information protection standards under the PIPL.
+
+10.4 Your rights under the PIPL
+
+Users in the PRC may have certain rights related to their personal information. These rights include access, rectification, erasure, restriction or object, withdrawal of consent, data potability, cancellation of account, right to request explanation.
+
+To ensure security, we will process your request in a timely manner and within the required timeframe after verifying your identity. We may refuse the requests that are unreasonably repeated, require too many technical methods (for example, need to develop new systems or fundamentally change current practices), raise risks to rights and interests of others, or are very impractical.
+
+11. Users under 16 years old
+
+PACCAR does not knowingly collect or sell any information from or about children under the age of sixteen. If you believe that we have received information of a child, please contact us at DataProtection@paccar.com.
+
+12. Links to other websites
+
+This Statement applies to our Websites, corporate activities, and products and services. As a convenience to you, each Website may contain links to other sites that may provide useful information or link with other platforms. PACCAR does not control these third-party sites and is not responsible for their privacy practices or content. You should refer to the privacy statements of such third-party sites to find out how they collect and use your information.
+
+13. Website Accessibility
+
+PACCAR Inc, its subsidiaries and divisions are committed to providing websites that are accessible to the widest possible audience. We utilize the standard guidelines on website accessibility, including recommendations from the World Wide Web Consortium. Should you experience any difficulty accessing our pages, please contact PACCAR Compliance.
+
+back to top

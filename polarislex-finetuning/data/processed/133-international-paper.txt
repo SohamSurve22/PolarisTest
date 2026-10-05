@@ -1,0 +1,74 @@
+# Privacy Notice
+
+This Notice applies to any users of this website or any location where this Notice appears, which is owned by International Paper and its divisions, subsidiaries, and affiliates (collectively referred to as 'Company')
+
+At International Paper, our approach to privacy and data protection begins with one of our core values: we are committed to doing the right things, in the right ways, for the right reasons, all of the time. Our Company collects, uses, stores, and protects your Personal Data in accordance with its ethical values and in compliance with applicable data protection legislations in the countries in which it operates. Our Company has implemented technical and organizational measures to protect any information we may collect. Legislations within specific jurisdictions may require that our Company supplement this Notice and comply with local legislations, and nothing in this Notice is intended to limit the Company’s rights and obligations or the rights of data subjects under mandatory local legislations. Nothing in this Notice is intended to form a contract of engagement or otherwise.
+
+If you are in a jurisdiction that recognizes the concept of a Data Controller or similar, the Data Controller is International Paper Company and/or its relevant divisions, subsidiaries, and affiliates that interact with you. "Personal Data" means any information relating to an identified or identifiable person.
+
+If you have any questions about how your Personal Data is being used, you can contact the Data Privacy team using the details mentioned at the end of this Notice.
+
+#### What Personal Data do we collect and process?
+
+We collect, store, and process your Personal Data in several ways including when you:
+
+- •Visit or interact with our websites either directly or through third-party platforms;
+
+- •Register an account with us and/or purchase products through our website;
+
+- •Correspond with us across any of our channels (e.g. messaging platforms such as text message, social media and email);
+
+- •Submit a review regarding our products at our websites, and branded pages and applications.
+
+The following categories of Personal Data are followed by information about their source(s), purpose(s), legal bases and disclosure(s).
+
+| Categories of Personal Data
+| Examples of Personal Data and their sources
+| Purposes and legal bases for Personal Data Processing
+
+| Basic Personal Data
+| We may collect your personal information such as your full name, the company you work for, address, telephone number, and e-mail address.
+
+We also automatically collect limited technical information when you visit our websites, including your IP address and information obtained through cookies or similar tracking technologies.
+
+We obtain this information directly from you when you contact us or interact with our platforms.
+| We use these Personal Data to respond to enquiries; provide and improve services; verify identity; communicate with you; and send updates when permitted by law.
+
+We process this data based on contract performance, legal obligations, legitimate interest, or your consent.
+
+| Commercial and Supplier Data
+| We may collect information relating to products or services your organization purchases or supplies, order history, billing addresses, and payment details.
+
+We may also collect financial standing or creditworthiness information from third parties.
+| We use this data for order management, delivery, payment processing, dispute management, due diligence, fraud prevention, and regulatory compliance.
+
+| Recruitment Data
+| If you apply for a role with us, we may collect your name, contact details, CV or résumé, employment history, qualifications, references and information you provide through our recruitment systems. We may also obtain information from recruitment agencies or publicly available professional profiles.
+
+We get this directly from you during the application process, from recruitment partners engaged by us, and from publicly available sources where appropriate for the role.
+| We use these Personal Data to assess your suitability, communicate with you during the process, conduct interviews and pre-employment checks, and comply with employment law requirements.
+
+We process this Personal Data on the basis of our legitimate interests in recruiting and selecting staff; performance of a contract where necessary to enter into an employment contract; compliance with legal obligations such as right‑to‑work checks; and, where applicable, your consent, for example to retain your details for future opportunities.
+
+| Internet or other similar network activity
+| You can generally visit the website without providing any Personal Data about yourself (such as, e.g., your name). In this case we only collect and store Personal Data about your website access which will automatically be transmitted from your browser to us when you access the website.
+
+We get this indirectly from you (e.g., from observing your actions on our Sites) or from third parties like data analytics providers. This may include: IP address, MAC address or other unique identifier information (“Device Identifier”) for the computer, mobile device, technology or other device (collectively, “Device”), domain name, browser type and version, browsing history, search history, information about your visit (including products viewed, purchased or search for), details of any website which has referred you to our website, application, or advertisement; location and time zone setting, browser plug-types and versions, operating system and platform, page responses times and errors.
+| We use this Personal Data to enable the technical delivery of our website's content to your device; to improve our online services and the experience you receive when engaging with us online; as well as for purposes of the technical security of our website.
+
+Depending on the laws applicable in the country you are based, we will process your Personal Data with your consent, and/or for the performance of our contract with you, and/or on the basis of our legitimate interests (where applicable and depending on the country you are based) in ensuring the security of the website, optimizing the website and services we offer to you, improving marketing, analytics, or site functionality, or as otherwise permitted by law. In certain jurisdictions you may be able to select your cookies preferences based on consent.
+
+| Communication Data
+| We may collect communication Personal Data from various sources, including contact lists, demographic information originally collected from other companies within Company group, and Personal Data legally obtained from other third parties, which may be combined with other information that we collect for the purposes described in this section, including information on your communications with us (e.g. your emails, letters, calls, posts and messages on our social media).
+| We use such Personal Data to provide and improve the features, products and services you request; to provide you with personalized content, information, and to deliver relevant advertising. Depending on the laws that apply in your country, we will process your Personal Data on the basis of our legitimate interest, for the performance of our contract with you and, when required by law, on your consent.
+
+| Other Personal Data we may collect with your consent
+| We get this Personal Data directly from you. This may include:
+
+- Information you provide by calling, e-mailing, texting, or by responding to surveys./li>
+
+- Other information we have collected from you with your consent.
+
+| We use such Personal Data to provide and improve the features, products and services you request; to provide you with personalized content, information, and other information on our products or Company group of companies; when we perform our duties in a contract with you; and/or for processing of Personal Data needed for the assessment and acceptance of customers.
+
+Depending on the laws that apply in your country, we process your Personal Data on the basis of our legitimate interest, for the performance of our contract with you and, when required by law, on your consent.

@@ -1,0 +1,221 @@
+## Related Links
+
+Ally U.S. Consumer Privacy Notice
+(PDF 253 KB)
+CCPA Disclosure for California Residents (PDF 166 KB)
+California Consumer Privacy Act Request Form
+California Insurance Information and Privacy Protection (PDF 157 KB)
+Security
+
+## Online Privacy Notice
+
+You take online privacy seriously, and so does the Ally Financial Inc. group of companies (which includes Ally Financial and Ally Bank, collectively “Ally”). The terms “we,” “our,” and “us” in this Notice refer to Ally and its family of companies.
+
+Our Online Privacy Notice (the “Notice”) describes the information we collect from and about you during your visit to our online interfaces (websites and mobile applications) owned or controlled by us (the “Site”). It also describes how we use information about you, with whom we share it and how we protect it. This Notice applies only to those Ally interfaces that link directly to this Notice.
+
+It's important to know that our websites may contain links to third party sites not controlled by Ally or covered by this Notice. We recommend that you check the privacy statements of other sites you visit before providing any personal information.
+
+Once you become a customer of Ally, and once a year while you remain a customer of Ally, we will provide you with an Ally Consumer Privacy Notice that describes our privacy practices and provides you choices in the sharing of your information, as required by law.
+
+## Personal Information We Collect
+
+We collect Personal Information ("PI") about you from the information you provide to us when you visit our websites. The information we collect will depend on the Site you visit. This information may include, but is not limited to:
+
+-
+Name
+
+-
+Address
+
+-
+Social Security number
+
+-
+Phone numbers
+
+-
+Account number
+
+-
+Account number at another bank or other financial institution, type of bank account and the name of the bank or other financial institution
+
+-
+Email addresses
+
+-
+Date of birth
+
+-
+Residence information including mortgage or rent payments
+
+-
+Employment information
+
+-
+Income information
+
+-
+Internet Protocol (IP) Address and domain
+
+-
+Geo-location of your computer or device
+
+-
+Mobile carrier or Internet Service Provider
+
+When you use the Ally Mobile application to facilitate Zelle® transfers, we may access your contact list names, email addresses, and phone numbers. We will always ask for your permission before doing this in the mobile application.
+
+We use personal information collected online for various functions, which include:
+
+-
+Processing your request for services, products or information
+
+-
+Improving our customer service and products
+
+-
+Servicing your account
+
+-
+Facilitating your participation in online activities.
+
+For example, we use the information you provide when you complete an online application for a product or service to process and evaluate your application. If you request product information, we use the information you provide to mail you information you request.
+
+We may also use the information you provide to contact you regarding your account and to process or collect payments. In addition, we may collect and use personal information for analytic purposes, market research or for marketing purposes, as allowed by law.
+
+## How Personal Information Is Shared
+
+We may share the personal information we collect about you with third parties, such as companies performing services on our behalf to provide the products or services you have requested.
+
+As permitted by law, we may also share information collected about you with companies with whom we have formal agreements to offer you financial products and services.
+
+We may share information about you with our affiliates (other companies in the Ally family) and with nonaffiliates for analysis, market research and marketing purposes as allowed by law.
+
+Finally, we may disclose your personal information as otherwise permitted or required by law.
+
+Please note that text messaging opt-in data and consent will not be shared with any third parties.
+
+## How We Use Tracking Technologies
+
+We use a variety of technologies, including cookies, to collect information about your online and mobile activity when you visit our website and use our app.
+
+### How we use Tracking Technologies:
+
+-
+Session Cookies: to establish and maintain your profile on our Sites or App.
+
+-
+Saving preferences: to remember your log-in details and account preferences.
+
+-
+Website Performance: to monitor website traffic and analyze user behavior to improve our services.
+
+-
+Personalization: to tailor our digital channels to provide a customized experience.
+
+-
+Customer support: to enable features like live chat.
+
+-
+Fraud Prevention.
+
+### Managing Tracking Technologies:
+
+-
+You can disable cookies by navigating to your browser’s cookie setting options and by turning off or disallowing third party cookies.
+
+-
+Keep in mind that if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our Sites.
+
+## Online Behavioral Advertising (OBA) on Third Party Sites
+
+We use OBA on third party websites and apps that are not affiliated with Ally to show you ads that align with your interests.
+
+## Interest‐Based Advertising
+
+### How does Interest-Based Advertising work?
+
+-
+The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see.
+
+This information may be combined and linked with data from other sources. We may also use aggregate data to display ads or content that may interest you.
+
+### How you can control OBA:
+
+-
+Ally has adopted the use of the AdChoices Icon
+(also known as the Advertising Option Icon) on our interest-based advertising (excluding ads appearing on platforms that do not accept the icon). You can click the AdChoices Icon to learn more and control whether or not you receive this type of advertising from participating companies.
+
+## Device-Based Advertising
+
+How Device-Based Advertising works:
+
+-
+We use your device’s information to help deliver our ads and measure ad campaign effectiveness.
+
+-
+We and our third parties compile and compare this information to create a unique ID for individual devices that can be “matched” with the same data from other sites or apps.
+
+-
+Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.
+
+## Targeted Advertising on Third-Party Websites and Apps
+
+### What is Targeted Advertising?
+
+-
+When you visit an Ally website or app, we may collect and store personal information from your web browser or device to share with third parties to target advertising to you.
+
+### How to Opt-Out of Targeted Advertising:
+
+If the Ally website or app you're visiting enables collection and sharing for targeted advertising, you have a right to opt out of Ally’s sharing of your personal information with third parties for targeted advertising purposes by utilizing one of the following methods:
+
+-
+Ally websites and apps: Tap Your Privacy Choices link in the footer of the Ally website or app and select Opt out of sharing for targeted advertising purposes.
+
+-
+Ally websites: Use a browser-based opt-out preference signal, like the Global Privacy Control (GPC), to automatically exercise your right to opt-out of sharing for targeted advertising purposes.
+
+-
+Banner on Ally Websites and App: select Decline when the Tracking Technologies banner appears. If you don’t select any option on the banner, you will see targeted advertising.
+
+Keep in mind, in some cases you may need to opt out of Ally’s targeted advertising again if you delete your cookies, reinstall our app, or use another device or browser to access Ally websites or apps.
+
+## Opt-Out Preference Signals
+
+If the Ally website you're visiting has collection and sharing for targeted advertising enabled, we'll respond to your browser's Opt-Out Preference signals as described in this Notice.
+
+## Changing or Updating Your Personal Information
+
+If you have questions about personal information you provided on an Ally website, select the "Contact Us" link – usually found in the navigation menu – or log into your Ally account and select My Profile to edit your personal information.
+
+## Security Of Your Personal Information
+
+We maintain administrative, technical, and physical safeguards designed to protect and limit access to your personal information.
+
+Companies that provide services on our behalf are required by contract to protect customer information. They are only allowed to use the information they collect for the purpose of providing the services that we have contracted with them to provide.
+
+## Personal Information About Children
+
+We do not knowingly collect or maintain personal information about children under the age of 13 unless the personal information is provided by a parent, legal guardian or authorized adult. Our websites are not intended for children under 13. Visit the Federal Trade Commission website for more information on the Children’s Online Privacy Protection Act (COPPA)
+.
+
+## Public Forums Available On Our Sites And Social Media
+
+Public forums are available on our Sites, and they may include text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information.
+
+We also provide experiences through social media platforms such as Meta, X, LinkedIn, Reddit, Snapchat, and YouTube. Any and all information you share on these social media platforms is visible to any visitor to these sites. Refer to each social media platform for their Terms of Use and Privacy Notices.
+
+You should use caution when deciding to disclose personal information in these areas.
+
+## Changes to this Notice
+
+This Notice is effective May 27, 2026. We reserve the right to alter this Notice at our discretion. Any change to this Notice will be posted on our Sites in a timely manner.
+
+## Social Security Number Privacy Protection Policy
+
+Ally collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.
+
+## Mobile Carrier Information for Ally Customers
+
+You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to us or our service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.

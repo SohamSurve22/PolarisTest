@@ -1,0 +1,344 @@
+LAST UPDATED: June 29, 2026
+
+Welcome to our Privacy Policy!
+
+This Privacy Policy applies to the websites, mobile apps and other online and offline services that are owned and/or operated by the operating subsidiaries of Global Partners LP (collectively, Global or we), as more fully described in Section 1. Thank you for taking the time to read it.
+
+We appreciate that you trust us with your information. We intend this Privacy Policy to help you make informed decisions about how Global handles the personal data that you entrust to us and how you can control your personal data.
+
+Throughout this Privacy Policy, we use the following terms with the following meanings:
+
+- consumer means a natural person acting in an individual or household context and does not include a natural person acting in a commercial or employment context.
+
+- controller means the person or entity that determines why and how personal data is processed, which is Global for purposes of the Services.
+
+- Global Consumer Websites means the websites for retail locations operated by Global and the Online Store.
+
+- Online Store means the Alltown Fresh Collection, Global’s online store, available at https://shop.alltownfresh.com/.
+
+- personal data means information that is linked or reasonably linkable to an identified or identifiable individual person.
+
+- processing means any operation (or set of operations) performed on personal data), such as collecting, analyzing, and storing.
+
+- processor means the person or entity processing personal data on behalf of a controller.
+
+- Services has the meaning given in Section 1 below.
+
+When we refer to you in this Privacy Policy, we mean the individual user (including a consumer) of the Services from whom or about whom Global collects personal data.
+
+Our processing of personal data is subject to the laws in the jurisdictions in which Global operates. Privacy rights may vary depending on each person’s place of residence.
+
+We have tried to keep legal and technical jargon to a minimum but, if you still have questions after you read our Privacy Policy, please let us know by contacting us:
+
+- by e-mail at [email protected], or
+
+- by telephone at 1-781-894-8800, or
+
+- by U.S. mail at 800 South Street, Suite 500, Waltham, MA 02453. (After July 13, 2026 at 275 Grove Street, Suite 3-400, Newton, MA 02466.)
+
+- WHERE THIS PRIVACY POLICY APPLIES
+
+This Privacy Policy applies to:
+
+- Global Consumer Websites, including alltown.com, alltownfresh.com, gotomillers.com, jiffymartstores.com, myhoneyfarms.com, tbirdminimarts.com, mymrmikes.com, wheelsofct.com, and xtramart.com.
+
+- Global’s consumer mobile applications (Global Apps), including Bee’s Knees Benefits™.
+
+- Global’s consumer loyalty programs (Loyalty Programs), including the Bee’s Knees Benefits™ program at beeskneesbenefits.com.
+
+- Global’s corporate website, www.globalp.com, and its subdomains (including the Investor Relations section and GlobalGlo™) (collectively, the Site), but does not apply to the GlobalCONNECT Portal.
+
+We refer to the Global Consumer Websites, Global Apps, Loyalty Programs, Site, our emails, and any other website or other digital or in-person service in or to which this Privacy Policy is posted or linked collectively as “Services”. If a particular Service specifically refers to or posts a separate privacy policy, then that privacy policy — and not this Privacy Policy – applies. We also may provide supplemental privacy notices from time to time if the Services change.
+
+This Privacy Policy does not apply to Global’s “Careers” web pages and to personal data collected from or about Global’s employees, former employees and applicants.
+
+- INFORMATION WE COLLECT
+
+Global is the controller of the personal data that Global collects from or about you in connection with the Services, unless we notify you otherwise at or before your personal data is collected.
+
+Global collects the personal data that you choose to share with us or that we otherwise collect, which typically includes the following categories of personal data, to help us operate our business, including the following purposes:
+
+| Personal Information Collected
+| Examples of Why Personal Information is Collected
+
+| Contact Information and Similar Identifiers
+
+(Name, email address or other username, password, telephone number and similar contact information and purchase related contact information)
+- To create an account to use any of the Services (including a Loyalty Program account or an account to use the Online Store, if applicable) (Account), such username and personal identification number or password and other identifying information (e.g., email address) necessary for the Account to work. You also may decide to tell us your preferences or other information, depending on your Account type.
+
+- To register or participate in our offers and promotions.
+
+- For advertising and marketing purposes.
+
+- When you participate in surveys.
+
+- When you sign up to use the free Wi-Fi service available in certain of Global’s retail locations, terminals and other corporate facilities.
+
+- To manage features of the Services that allow you to share your personal data.
+
+- To respond to your request in a form filled out through the Services, such as to request that we contact you, when you download content or attend an event.
+
+- If you give us information about other people (such as when you send others merchandise from the Online Store as a gift), we collect the personal data you give us to process your request.
+
+| Account Transactions
+| We collect records of the products that you purchased or considered, such as your purchases of food through use of a Global App or purchases of Global-branded products through the Online Store, and the offers in which you choose to participate.
+
+| Payment/Financial Information
+| For Loyalty Programs and purchases through the Online Store, you may provide your credit card and other payment information to a mobile payment processor when you connect a credit card to your Loyalty Program Account or Online Store account. When you make this connection, the mobile payment processor makes available to Global your payment information in a single-use, unique encrypted token each time you make a payment using your Loyalty Program Account or through the Online Store. Global does not have access to or store or maintain the full credit card number (also known as the Primary Account Number (PAN)) or other payment information linked to your Loyalty Program Account.
+
+| Location-Related Data
+| If you are accessing the Services through one of the Global Apps, we collect the precise geolocation (latitude and longitude) of your device (Precise Geolocation Data) as part of the functionality of the Services. Your Precise Geolocation Data may be used to enable location-specific personalization and notifications in the Global Apps.
+
+We can only collect Precise Geolocation Data when you grant permission (“allow”) through your mobile device’s operating system settings and, for some Services, in your Account settings for the Loyalty Program. Where required by law, we will seek your express consent before collecting Precise Geolocation Data.
+
+Once you give us permission, we collect Precise Geolocation Data through your mobile device’s GPS, Bluetooth, or Wi-Fi connections and from your wireless carrier. If you decline permission for us to collect your Precise Geolocation Data, we will not collect your Precise Geolocation Data but you may not have access to all features available through the Services.
+
+Some of the Services may use Google Maps to determine your location. When Google Maps is part of the Services you choose to use, you also are subject to Google’s Privacy Policy at http://www.google.com/policies/privacy.
+
+We also collect your IP address. In some cases, your IP address may give us your location (city, state) but not your precise geolocation.
+
+| Audio Information
+| We may collect audio and similar information when you contact our customer service team. We may monitor or record your online or telephone discussions with our customer service team for training purposes and to ensure service quality. We will announce when your telephone calls are recorded, as required by law.
+
+| Information associated with a social media account
+| When you connect with Global through a social media platform, such as Meta or Twitter, Global may (depending on the applicable settings) automatically receive information from the social media platform. We may collect and use this information for the purposes described in this Privacy Policy or at the time the information was collected.
+
+Information collected about use of the Global Apps
+
+When you download and install one of the Global Apps on your mobile device or tablet, the information that we collect depends on the mobile device’s operating system and permissions. The Global Apps need to use certain features and data from your Mobile Device to function. For example, the Global Apps collect mobile operating system and version, usage data and crash reports.
+
+To learn more about the specific information collected by one of the Global Apps, please check your Mobile Device’s settings or review the permissions information available on the mobile app platform (e.g., Google Play or App Store) from which you downloaded a Global App. Certain Global Apps also allow you to check or change your status for certain data collection in the settings. If you change your settings, certain features may not function properly.
+
+To stop all information collection through a Global App, please uninstall the Global App.
+
+Information Automatically Collected by the Services
+
+We use various technology tools to automatically collect your browser and/or device type, browser language, the date and time of your visit and certain cookies that identify your device and browser with your Account, browsing history and other information regarding your interaction with the Services, as well as the third-party websites and mobile apps and digital advertisements that you see before or after you use the Services.
+
+Information We Receive From Third Parties. We may also receive and supplement the personal data that we directly collect from or about you with information from third parties.
+
+Please see Section 3 for more information about the tracking technology that we use to automatically collect information through the Services and how we use them.
+
+Information that is “deidentified” data or “publicly available information” (each as defined in the applicable state consumer privacy laws) is not personal data and is outside the scope of this Privacy Policy.
+
+- COOKIES AND OTHER TRACKING TECHNOLOGY
+
+We use different kinds of technology tools to recognize you, your browser(s) and/or your device(s) when you use the Services and to collect personal data about you when you interact with the Services. These tools include cookies, tracking pixels (sometimes called web beacons) and embedded scripts, which we refer to collectively as tracking technology.
+
+Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive. A cookie typically stores the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. Pixels are snippets of computer code embedded on websites that can collect information.
+
+Tracking technology collects data related to usage and performance of the Global Consumer Websites, Global Apps and the Site, such as:
+
+- IP address and time zone
+
+- browser type and language
+
+- computer or mobile device type and operating system
+
+- device identifiers – IMEI/UDID (a numeric identifier for mobile devices) and MAC address (another kind of numeric identifier for mobile devices)
+
+- user settings
+
+- browsing history and activities conducted while using the Services
+
+- websites visited before and after the Services
+
+- Precise Geolocation Data (with consent)
+
+Tracking technology enables Global to monitor and analyze usage, technical and navigational metrics; customize user experience; set or communicate with cookies; understand who visits the Services after seeing an online advertisement displayed on a third-party website; measure the success of email marketing campaigns; improve performance of the Services; and to help detect and prevent fraudulent use of the Services.
+
+If you want to learn more about tracking technology, many online resources are available, such as www.allaboutcookies.org.
+
+Cookies. The Services use the following cookies:
+
+- Required cookies, which are required for the operation of the core functionality of the Services. Without them, for example, you would not be able to register for the Services that we offer.
+
+- Functionality cookies, which are used to analyze use of the Services so that we can count the number of users, learn how users navigate the Services and us to improve the Services’ functioning.
+
+- Advertising cookies, which are used to build profiles of your interests and personalize advertising relevant to your interests. We also may share this information with third parties to send you relevant advertising.
+
+You have the right to decide whether to accept or reject cookies used in the Services. You can set your browser to refuse all cookies or to indicate when a cookie is set. (Most browsers accept cookies automatically but allow you to disable them but note that some features of the Services may not work properly without cookies.) You also may be able to reject device identifiers by activating the appropriate setting on your mobile device.
+
+Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) also have a “Do Not Track” (DNT) feature that tells a website that the user of that website does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user.
+
+The Services use Google Analytics for analytics and targeted advertising (which Google sometimes refers to as ‘remarketing’). Google uses cookies that recognize visitors to various websites. The data collected through Google’s cookies primarily helps Google create reports for Global about when and how the Services are used, such as which parts of the Services are most popular and which users return to the Services. Although Google Analytics sets a persistent cookie (i.e., the cookie persists until you delete it) in your web browser to identify you as a unique user of the Services, that persistent cookie is used and useable only by Google.
+
+Google’s cookies also enable Global to personalize advertising. More information about how Google processes personal data collected via the Services is available at https://policies.google.com/technologies/partner-sites. For more information about Google’s privacy practices, please visit Google’s Privacy Policy and for more information about how Google uses cookies in advertising, please visit Google’s Advertising page.
+
+As of the “Last Updated” date above, you may disable Google’s cookies or delete any individual cookie. Google Analytics supports an optional browser add-on that – once installed and enabled – disables measurement by Google Analytics for any site you visit. Users also can install Google’s opt-out browser add-on. To opt out of targeted ads made available by Google, please use your Google Ads settings
+
+Global Privacy Control (GPC): Some of the state privacy laws require Global to process GPC signals, which are signals sent by a platform, technology, or mechanism, enabled by individuals on their devices or browsers, that communicate the individual’s choice to opt-out of the sale of their personal data or use of their personal data for targeted advertising purposes. (Targeted advertising is advertising based on data collected about your activities over time and across other websites and services and used to infer or predict your interests or preferences.) To use an GPC, you can download a compatible internet browser or a plugin for on your current internet browser and follow the settings to enable to GPC. In states where this is required, we have configured both our consent management platform and our websites to receive and process GPC signals. We process GPC signals with respect to tracking technology, as discussed above and apply it to the specific browser on which you enable GPC. We do not charge your experience with the Services if you use GPC, although it may affect your use of certain aspects of the Services.
+
+To opt-out of personalized advertising generally, visit DAA Opt-Out Page (web browser only) or AppChoices (mobile apps).
+
+Opting out does not mean you will not see advertising – it means you will not see personalized advertising from the companies that participate in the opt-out programs. Also, if you clear your cookies, you many need to opt-out again.
+
+- HOW GLOBAL USES INFORMATION
+
+Global uses the information that we collect from or about you to operate our business, including:
+
+To deliver the Services
+
+- Provide customer support and respond to requests for information
+
+- Complete purchases and other transactions, such as when you make a purchase through our Global Apps or through the Online Store
+
+- Manage and communicate with you about the Services
+
+- Monitor and test the Services, such as to troubleshoot operational problems
+
+To administer the Loyalty Programs and Promotions
+
+- Create and manage Accounts
+
+- Verify eligibility for Accounts, promotions, and similar services
+
+- Credit Loyalty Program Accounts with points and other benefits
+
+- Deliver prizes and premiums
+
+For analytics and targeted advertising
+
+- Combine and analyze information collected through the Services. (Combining information enables Global to better understand your and others’ activities across the Services to create a single set of information from all of ways that Global and our business partners interact with you, to deliver more personalized advertising and to understand how our advertisements perform.)
+
+- Customize the experience of the Services, such as delivering offers based on past purchases and display other content tailored to inferred interests
+
+- Perform website or mobile application analytics
+
+- Communicate with you by email, postal mail, telephone, or social media or through a Global App about products or services that we think will interest you, some of which is personalized based on the information associated with your Account
+
+- Create de-identified information (which is not subject to this Privacy Policy) that is used in improving the Services and for similar purposes permitted by law
+
+- For research and innovation, such as through data analytics tools that enable Global and its business partners to better understand how you and others interact with the Services
+
+To learn about what you and other users like so that we can improve the Services
+
+- Administer focus groups and surveys.
+
+- Conduct research and analysis to develop new features and content for the Services
+
+- Improve customer service
+
+To prevent and detect fraud and abusive and unauthorized use of the Services
+
+- Detect bots and other disruptive code
+
+- Delete fraudulent Accounts
+
+For legal compliance, risk management and similar administrative purposes
+
+- Comply with legal requirements in the various jurisdictions in which Global operates
+
+- Assist law enforcement (see How We Handle a Law Enforcement Request below).
+
+- Enforce or exercise our rights in our Terms of Service.
+
+- HOW GLOBAL DISCLOSES INFORMATION
+
+Global discloses the categories of personal data described in Section 2 above with the following categories of third parties:
+
+- With Global’s Processors and Other Third Parties. We share information with the third parties (including the processors with which we share personal data subject to contracts limiting how they use personal data) that help us operate the Services, such as for advertising, data analytics, web hosting providers, data centers, coupons, call center providers, payments (including through our online store) and cybersecurity. Processors are contractually required to protect personal data consistent with this Privacy Policy and applicable law.
+
+- With Other Global Businesses and Business Partners. We share information that we collect through the Services among the Global businesses. We also may share information with business partners that use the information that we share to conduct targeted advertising or to operate and fulfill coupons, offers and other promotions and process and fulfil orders through the Online Store. We do not disclose your consent to receive text messages with third parties that are not our processors and we do not knowingly permit third parties that are not our processors to send marketing text messages on our behalf without your consent.
+
+- With Third Parties involved in Corporate Transactions. We share information with potential or actual acquirers or investors and their professional advisers in connection with any actual or proposed merger sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy, or other change of ownership or control on any Global business (in each case, whether in whole or in part). We will use our best efforts to ensure that the terms of this Privacy Policy apply to personal data after the transaction or that users of the Services receive advance notice of changes to personal data processing.
+
+- With Law Enforcement and Government Authorities When Required by Law. Applicable law may require information disclosure when necessary (in Global’s good-faith judgment) to comply with legal process, such as a court order, subpoena, search warrant, government investigation or similar legal requirement or for the prevention or detection of crime (subject in each case to applicable law). (Please also see How We Handle a Law Enforcement Request below.)
+
+Global also discloses the categories of personal data described in Section 2 above:
+
+- To Enforce Legal Rights. We also share information when we believe that disclosure would mitigate our liability in an actual or threatened lawsuit or when we believe necessary to (i) protect our legal rights and legal rights of users of the Services and our customers, employees, business partners or other interested parties; (ii) pursue available remedies or limit the damages; (iii) enforce our agreements with you; or (iv) respond to an emergency.
+
+- With your consent
+
+To obtain a list of the specific third parties to which personal data has been, is or may be sold or disclosed for monetary or other valuable consideration, please click here.
+
+- CONSUMER PRIVACY RIGHTS AND HOW TO EXERCISE THEM
+
+Privacy Rights
+
+The states in which Global offers the Services that have privacy laws in force (which are Connecticut, New Hampshire, New Jersey, Rhode Island, Texas, and Virginia) provide individuals with certain rights with respect to their personal data. Global will honor these rights in compliance with these laws.
+
+The specific privacy rights available for consumers include:
+
+- Right to Request Access: You have the right to know and access the personal data that Global processes about you.
+
+- Right to Request Correction: You have the right to request that Global correct inaccuracies in your personal data that Global holds.
+
+- Right to Request Deletion: You have the right to request the deletion of personal data provided by, obtained about or concerning you.
+
+- Right Data Portability Request: You have the right to request a copy of your personal data processed by Global in a common, portable format. The personal data that you will receive in response to a valid data portability request varies in the states in which Global operates its Services for consumers.
+
+- Right to Request a List of the Third Parties to Which Global Sells Your Personal Data. You may request a list of the specific third parties to which your personal data has been or may be sold. In some states in which Global operates its Services for consumers, “sold” means an exchange of personal data for monetary consideration, which Global does not do. In other states in which Global operates its Services for consumers, “sold” means exchange of personal data for monetary or other valuable consideration, which Global does do. You also may view the list here.
+
+- Right to Opt-Out of Targeted Advertising: You have the right to opt out of Global’s targeted advertising using your personal data. (Targeted advertising is advertising based on data collected about your activities over time and across other websites and services and used to infer or predict your interests or preferences.)
+
+- Right to Opt-Out of Sale: Where applicable, Global will allow you to opt out of the sale of your personal data. In some states in which Global operates its Services for consumers, “sale” means an exchange personal data for monetary consideration, which Global does not do. In other states in which Global operates its Services for consumers, “sale” means exchange of personal data for monetary or other valuable consideration, which Global may do.
+
+The privacy rights described above are not absolute – exceptions and exemptions apply. If an exception or exemption applies to a privacy right request, Global will explain in a written response to your request.
+
+As of the “Last Updated” date at the beginning of this Privacy Policy, Global does not (i) sell personal data for monetary consideration or (ii) conduct profiling in furtherance of decisions that produce legal or similarly significant effects concerning you (significant effect profiling). Accordingly, Global does not offer you the right to opt out of a sale of personal data for monetary consideration or the right to opt out of significant effect profiling.
+
+If you do not reside in a state that offers privacy rights like the ones described above, Global may choose to honor your privacy rights as and when Global determines appropriate.
+
+How to Exercise Privacy Rights
+
+- Submitting a Privacy Rights Request. You may submit a request to exercise a privacy right:
+
+- By clicking on the “Your Privacy Choices” link in the footer of the Site, or by clicking on the “Your Privacy Choices” in the footer of the Privacy Policy accessible in the menu in the Global Apps, and completing the form presented.
+
+- By sending an email to [email protected] that includes your name, the email address associated with your Account (if applicable) or otherwise the email that you use/will use to communicate with Global, the privacy right(s) that you wish to exercise, the name of your authorized agent (if applicable; see 2. below) and documentation verifying your identity and agent authorization (if applicable) and other information that you believe will help us verify and take action on your request.
+
+- By telephone at 1-781-894-8800
+
+Global reserves the right to request additional information to verify any privacy right request submitted to us. If Global is unable to verify a request after commercially reasonable efforts to do so, then Global may not respond to a privacy right request if Global has a good faith, reasonable and documented belief that the request is fraudulent.
+
+Global will respond to a verified privacy right request within 45 days (or, if shorter, the number of days required under applicable law). Global may notify you of an additional 45-day extension when Global determines an extension is reasonably necessary based on the complexity of your request. Global generally does not charge a fee for responding to a privacy right request but may do so if Global determines that a request is excessive, repetitive or not covered by applicable law.
+
+- Agent Requests: Depending on your state of residence (Connecticut, New Hampshire, New Jersey, Rhode Island, Texas, and Virginia), you have the right to designate an agent to act on your behalf. We reserve the right to verify your identity directly as described above and your agent must contact us by submitting a request to Data Subject Request Formand indicating in the open text field that the agent is submitting the request as an agent. We will require the agent to demonstrate authority to act on your behalf by providing evidence sufficient to verify the agent’s identity and authority to act on your behalf. We also may require evidence of the agent’s proof of legal existence if your chosen agent is a business.
+
+We may require that you verify your own identity directly with us and to directly confirm with us that you provided the agent with permission to submit the request. Residents of certain states may use an agent to make an opt-out request subject to reasonable verification of agent authority and your identity.
+
+Without the verification permitted or required under applicable law, we may reject any request submitted through an agent. In addition, any agent is subject to the verification standards applicable to the type of request(s) made.
+
+- You can appeal Global’s decision about a privacy right request by submitting a request at Data Subject Request Form or submitting an email to [email protected]. In your submission, please provide as much information as possible about the right you wish to exercise and the basis for your appeal of Global’s decision.
+
+Your Account settings also may enable you to access, correct or modify certain personal data. You may be able to deactivate and permanently delete your Account though the settings provided to you within your Account or by calling Customer Service at 781-894-8800. You can stop all future information collection through a Global App by uninstalling it. You also can adjust the permissions in your mobile device operating system or, in some cases, within the Global App to exercise certain preferences.
+
+- HOW WE PROTECT INFORMATION
+
+We use technical and organizational measures designed to protect your information against unauthorized access, use and loss. Unfortunately, we cannot guarantee the security of information transmitted through the Internet.
+
+You are responsible for maintaining the security of your Account credentials. We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security related to your Account.
+
+If you believe that your Account or information that you provided to us is no longer secure, please notify us immediately at 781-894-8800 or [email protected].
+
+- HOW LONG WE RETAIN INFORMATION
+
+Global retains your personal data in identifiable form only as long as necessary for the lawful purpose for which Global collected it or, if longer or shorter, to comply with law, to resolve disputes and to enforce legal agreements.
+
+- HOW WE HANDLE A LAW ENFORCEMENT REQUEST
+
+Global is committed to cooperating with law enforcement while respecting the right to privacy. We respond to valid legal process issued in compliance with U.S. law.
+
+- ABOUT CHILDREN’S PRIVACY
+
+We do not knowingly collect personal data from minors because they are not allowed to use the Services.
+
+If you know that a minor has provided us with personal data without verifiable parental consent, please notify us immediately at [email protected] or by telephone at 1-781-894-8800 (or the customer service number printed on your Loyalty Program card, if applicable).
+
+- WHEN THIS PRIVACY POLICY CHANGES
+
+From time to time, we will update this Privacy Policy to add information about new features or services or to address changes in law or business operations. We will provide ten (10) days’ advance notice of material changes to this Privacy Policy that reduce privacy protections so that you have time to review the changes and decide whether you would like to continue to use the Services under the terms of the updated Privacy Policy. If you choose not to continue to use the Services under the terms of the updated Privacy Policy (as of the “Last Updated” date above), please immediately discontinue your use of the Services and close your Account with us.
+
+Prior versions of this Privacy Policy are available upon request at [email protected].
+
+- HOW TO CONTACT GLOBAL
+
+If you have any questions about this Privacy Policy, please contact us:
+
+- by e-mail at [email protected]
+
+- by telephone at 1-781-894-8800 (or at the customer service number printed on your Loyalty Program card, if applicable)
+
+- by U.S. mail at 800 South Street, Suite 500, Waltham, MA 02453. (After July 13, 2026 at 275 Grove Street, Suite 3-400, Newton, MA 02466.)

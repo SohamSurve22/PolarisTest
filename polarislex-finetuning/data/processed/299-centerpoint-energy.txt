@@ -1,0 +1,202 @@
+# CenterPoint Energy Privacy Policy
+
+Last updated: January 30, 2026
+
+CenterPoint Energy, Inc. and its affiliates and subsidiaries (“CenterPoint”, “we”, “our”, or “us”) respect your concerns about privacy. This Privacy Notice applies to our use of personal information that we may collect through Centerpointenergy.com and any other websites, mobile apps, or online services that link to this notice (collectively, “Services”). This Notice describes the types of personal information we collect, how we use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe measures we take to protect the security of the information and how you can contact us about our privacy practices.
+
+Click on one of the links below to jump to the listed section:
+
+- Information We Obtain
+
+- Automated Data Collection
+
+- How We Use the Information We Obtain
+
+- Third-Party Analytics Services
+
+- Interest-Based Advertising
+
+- Information We Share
+
+- Your Rights and Choices
+
+- How We Protect Personal Information
+
+- Retention of Personal Information
+
+- Children's Privacy
+
+- Links to Third-Party Services and Features
+
+- Updates to Our Privacy Notice
+
+- How to Contact Us
+
+- Submit a Privacy Request
+
+### Information We Obtain
+
+We collect personal information about you in different ways and from various sources. This includes, without limitation, when you interact with our Services, engage with us as a CenterPoint customer, participate in our renewable energy, energy efficiency or energy conservation programs, complete surveys, interact with us through our social media pages, submit an employment application, or contact us by email or phone.
+
+Personal Information You Provide
+
+Depending on the Services you use and the nature of your interactions with us, you may provide us with certain types of personal information, including:
+
+- Contact information, such as name, telephone number, postal address and email address;
+
+- Online Account information, such as log-in information (such as username/ID and password), account preferences and other account details;
+
+- Financial information, such as name, billing and delivery address, and electronic billing information;
+
+- Your CenterPoint Energy account information, such as your account number, meter number, and house number;
+
+- Your Electric Service Identifier (ESID) and your electricity usage information (in markets where electric distribution services are offered);
+
+- Professional information, such as your job title, company name, industry and professional and employment background;
+
+- Demographic information, such as your gender, date of birth and other personal characteristics;
+
+- Household information, such as household income, square footage, number of occupants and types of household appliances;
+
+- Related individuals’ information, such as the names and contact information of family, household members, friends and authorized agents;
+
+- Information about your participation in our renewable energy, energy efficiency or energy conservation programs;
+
+- Information about your energy equipment;
+
+- Job application information, such as your resume and any additional application information provided to us (for example, employment history and education); and
+
+- Other information you choose to provide about you and related individuals, such as through emails or other communication channels, social media pages, surveys, registrations and sign-up forms and other features of the Services.
+
+Personal Information Obtained from Other Sources
+
+In addition to the personal information you provide to us directly, we may obtain from other sources additional personal information about you, including:
+
+- Information provided by related individuals, such as information that your family, household, friends and authorized agents provide to us about you in connection with the Services;
+
+- Publicly available information, such as name, contact information, content and online activity that we obtain from publicly available sources (such as public databases) and social media platforms you interact with;
+
+- Device information, such as location information derived from your IP address, country, and zip code;
+
+- Data collected by cookies and similar technologies, such as information about your online activities, devices, browsing actions, and usage patterns across the Services and third-party websites that we obtain through the use of cookies, web beacons, and similar technologies (see the Automated Data Collection section below);
+
+- Video and audio information, such as images, video, and audio data that may be collected or processed through our security cameras, closed-circuit television, recorded phone lines, and other technologies, where permitted by law; and
+
+- Data from third-party sources, such as personal information we obtain from our third-party service providers (including background check providers, credit check providers, data aggregators, government agencies, local energy efficiency programs, and marketing partners.
+
+Additionally, biometric information, such as facial scans, may be used in limited circumstances for authentication and security purposes. Where applicable, this data is stored on a user’s device and obtained by our vendor or as otherwise indicated in the relevant notice at the time of collection.
+
+Automated Data Collection
+
+When you interact with our Services or open our emails, we may obtain certain information by automated means, such as cookies, pixel tags, server or device logs and other technologies. A “cookie” is a text file that websites send to a visitor’s device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “pixel tag” (also known as a web beacon) is a type of technology that is placed on a website or within an email to track certain activity, such as views of a website or when an email is opened. These technologies help us (1) remember your information so you do not have to re-enter it; (2) track and understand how you use and interact with the Services; (3) tailor the Services around your preferences; (4) measure the usability of the Services and the effectiveness of our communications; (5) authenticate your identity, protect against fraud and provide our products and services; and (6) otherwise manage and enhance our products and services, and help ensure they are working properly.
+
+We may use these automated technologies on the Services to collect information about your device, browsing actions and usage patterns. We obtain information about your device and web browser in this manner such as your device IP address, general location information , unique device identifiers, device type and model, device characteristics and settings, browser settings and characteristics, operating system type and version, language and country preferences, usage statistics, referring emails and web addresses, and other device details. We also may obtain information about your interactions with our Services, such as pages visited, links clicked, features used, dates and times of usage, session information and other information about your use of our Services.
+
+Your browser may tell you how to be notified about certain types of automated collection technologies and how to restrict or disable them. Please note, however, that without these technologies, you may not be able to use all of the features of the Services. For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your mobile device.
+
+### How We Use the Information We Obtain
+
+We may use the personal information we obtain about you for the following purposes:
+
+- Provide our products and services;
+
+- Provide, onboard and manage your online account and profile;
+
+- Facilitate your participation in in our renewable energy, energy efficiency or energy conservation programs;
+
+- Communicate with you, respond to inquiries and offer customer support;
+
+- Personalize your experience with our Services;
+
+- Advertise and market products and services that may be of interest to you;
+
+- Administer surveys, special events, offers, promotions or other programs;
+
+- Perform analytics and conduct market, consumer, trend and statistical research;
+
+- Compile, anonymize or aggregate personal information for our business purposes;
+
+- Operate, evaluate and improve our business (including developing new products and services; improving and analyzing our products and services; managing our communications; and performing accounting, auditing and other internal functions);
+
+- Manage career opportunities with us, including for recruitment purposes, candidate screening and evaluation and employee onboarding;
+
+- Manage our relationships with current or prospective partners, customers and vendors and other business partner personnel;
+
+- Maintain and enhance the safety and security of our products and services, prevent misuse and troubleshoot technical issues;
+
+- Verify your identity and protect against fraud and other criminal activity, claims and other liabilities;
+
+- Exercise our rights and remedies and defend against legal claims; and
+
+- Comply with and enforce applicable legal requirements, relevant industry standards and CenterPoint policies, including the Services’ terms of use and other terms and conditions.
+
+We also may use the information in other ways for which we provide specific notice at the time of collection. To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+
+Third-Party Analytics Services
+
+We may use third-party analytics services on the Services, such as Google Analytics. The providers of these analytics services use technologies such as cookies and web beacons to help us analyze your use of the Services. The information collected through these means may be disclosed to or collected directly by these services. To learn more about Google Analytics, please visit https://www.google.com/policies/privacy/partners/.
+
+Interest-Based Advertising
+
+You may see our ads on other websites because we use third-party ad services on our Services. Through these ad services, we can tailor our messaging to individuals considering demographic data, inferred interests and browsing context. These ad services track information about your online activities over time and across third-party websites and apps by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. These ad services may collect data about your visits to websites and apps that participate in these services, such as the pages or ads you view and the actions you take on the websites or apps. This data collection takes place both on the Services and on third-party websites and apps that participate in these ad services. These ad services use this information to show you ads that may be tailored to your individual interests. This process also helps us track the effectiveness of our marketing efforts. Our Services are not designed to respond to “do not track” signals from browsers. These sharing activities may be considered a “sale” and processing of personal data for targeted advertising under applicable law.
+
+To learn how to opt out of interest-based advertising in the U.S., please visit www.aboutads.info/choices, www.networkadvertising.org/choices/ and http://preferences-mgr.truste.com/. If you delete your cookies or use a different browser or mobile device, you may need to renew your opt-out choices exercised through these mechanisms. Please also see the Your Rights and Choices section of this Privacy Notice for more information on how to opt out of the sale of your personal information or processing of your personal information for purposes of targeted advertising.
+
+### Information We Share
+
+We may share the categories of personal information we obtain about you (as described above) with certain categories of third parties, including as indicated below.
+
+- Affiliated Entities: We share personal information with our affiliates for the purposes described in this Privacy Notice.
+
+- Our Partners: We may share your personal information with joint marketing partners, other commercial partners (such as Retail Electric Providers, mutual assistance providers, and energy-efficiency partners) and certain government and nonprofit partners (such as in connection with bill-pay assistance). Certain of these sharing activities may be considered a “sale” under applicable law.
+
+- Service Providers, Agents and Contractors: We share personal information with vendors and other entities to perform services for us on our behalf, such as technology and communications, payment processing and billing, advertising and marketing, analytics, detecting and preventing fraud, security, customer service and others.
+
+- Social Networks: We may share your personal information with social media platforms if you use those services to connect with us through the features on our website. These sharing activities may be considered a “sale” and processing of personal data for targeted advertising under applicable law.
+
+- Business Transfers: We reserve the right to transfer any personal information we have about you in the event of a potential or actual sale or transfer of all or a portion of our business or assets (including in the event of an actual or anticipated merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation).
+
+- Others: We may disclose personal information (1) if we are required or permitted to do so by applicable law, regulation, or legal process (such as a court order or subpoena); (2) in response to requests by government officials and agencies, such as law enforcement authorities; (3) to establish, exercise or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss; (5) in connection with an investigation of suspected or actual fraud, illegal activity, security, or technical issues; or (6) otherwise with your consent or as directed by your representative.
+
+### Your Rights and Choices
+
+We offer you certain choices in connection with the personal information we collect from you. To update your preferences, limit the communications you receive from us, or submit a request, please contact us as indicated in the How To Contact Us section of this Privacy Notice. You can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails. You also may update certain of your account details and settings by logging into your account on the Services.
+
+Depending on your state of residence, you may have the right to request (1) confirmation of whether we process your personal information; (2) access to the personal information we maintain about you; (3) correction or deletion of your personal information; (4) transmission of your personal information in a common format to another entity, where technically feasible, and (5) to opt out of the processing of your personal information for purposes of targeted advertising, certain profiling or the sale of your personal information.
+
+To submit a rights request, please click here or write to us at the address listed below in the “How to Contact Us” section. To opt out of the processing of your personal information for purposes of targeted advertising or the sale of your personal information, click the link to Your Privacy Choices in the website footer. You may also click the link to Your Privacy Choices in the website footer or use the Global Privacy Control signal. For more information about the Global Privacy Control, please visit globalprivacycontrol.org/.
+
+Note that your opt-out will be specific to the browser and device you are using and will apply only to the website domain on which you submit the request. If you clear your cookies or use a new browser or device to access the site, please submit a new request to re-apply your opt-out choice. Even if you opt out, you may still see ads for CenterPoint Energy, although they may not be personalized to you. If you access a third-party website domain (including one that is linked from this website), your opt-out will not be applied to that site. Please consult the privacy notice and cookie consent tool that may be offered by the relevant third party.
+
+Please also see the Interest-Based Advertising section of this Privacy Notice for more information on how to opt out of interest-based advertising in the U.S. Subject to applicable law, you may appeal our decision with respect to a request you have submitted by emailing or writing to us as described in the “How to Contact Us” section below.
+
+To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your deletion or correction request. We may verify your identity by requiring you to authenticate your email address or asking you to provide information about your prior transactions or interactions with us.
+
+### How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized access, destruction, loss, alteration, disclosure or use.
+
+### Retention of Personal Information
+
+To the extent permitted by applicable law, we typically retain personal information we obtain about you for as long as it is needed (1) for the purposes for which we obtained it and in accordance with the terms of this Privacy Notice, which generally means that we will keep your personal information for the duration of our relationship or as long as you are enrolled in our loyalty program; (2) to take into account applicable statute of limitation periods and comply with applicable laws; or (3) for legitimate business purposes to the extent permitted by applicable law.
+
+### Children’s Privacy
+
+The Services are designed for a general audience and is not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information from children under the age of 13 without parental consent. If we learn that we have collected personal information from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the How To Contact Us section of this Privacy Notice.
+
+### Links to Third-Party Services and Features
+
+The Services are designed for a general audience and is not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information from children under the age of 13 without parental consent. If we learn that we have collected personal information from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the How To Contact Us section of this Privacy Notice.
+
+### Updates to Our Privacy Notice
+
+We may update this Privacy Notice from time to time and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the policy when it was most recently updated.
+
+### How to Contact Us
+
+You can update your preferences, ask us to remove your information from our mailing lists, submit a privacy request or ask us questions about this Privacy Notice by contacting us at Privacy@centerpointenergy.com. You also may write to us at:
+
+CenterPoint Energy, Inc.
+Attn: Privacy Notice Administration
+P.O. Box 1700
+Houston, Texas 77251-1700

@@ -1,0 +1,174 @@
+#### Sections:
+
+Online Privacy Statement
+
+Privacy statement for consumers
+
+California Consumer Privacy Act Disclosure
+
+Additional privacy statements
+
+Travelers cybersecurity practices
+
+Security tips for customers
+
+## Online privacy statement
+
+Revised April 9, 2025
+
+The Travelers Indemnity Company and its affiliates ("Travelers") value your privacy. This Online Privacy Statement will inform you about how we use and disclose information that we and our vendors collect from your visits to travelers.com and other websites (the “Websites”) and software applications (the “Apps”) that we own or operate and that link to this Online Privacy Statement. Collectively, the Websites and the Apps are the “Services”.
+
+This Online Privacy Statement only applies to information collected through the Services. If you have purchased or applied for an insurance product from us, please also see our Privacy Statement for Individual U.S. Personal Insurance Consumers, which applies to the information that we collect about policyholders and applicants, through the Services as well as any other medium. Travelers does business in a number of different jurisdictions. Additional Privacy Statements may apply depending on your jurisdiction or customer relationship.
+
+Personal Information
+
+How we may use personal information
+
+How personal information may be disclosed
+
+Tracking technologies
+
+Third party services
+
+Your choices regarding tracking technologies
+
+Maintenance of the services
+
+Safeguarding personal information
+
+Updates to this online privacy statement
+
+### Personal information
+
+“Personal Information” is information that identifies or is reasonably capable of being associated with you. Personal Information may in certain circumstances include such information as name, address, phone number, email address, credit history, social security number, driver’s license number, credit or debit card number, policy or claim information, automobile and home information, health information, username and passwords for online accounts, telematics, and geolocation data. Personal Information may also include information such as IP address, browsing history and other internet activity information collected when you use our Services. If you apply for a job or register with our career center, Personal Information may, in certain circumstances, also include information about your work and educational history, and other information you choose to provide in connection with your application.
+
+Additionally, depending on the App and your device and application permission settings, the Apps may have access to certain information or features on your device, such as calendar events, geolocation (approximate and precise), media and files (including photos), camera, microphone, and phone and call information. If you do not permit the Apps to have such access, the Apps, including portions or features, may not function properly or as expected.
+
+If you submit any Personal Information relating to other people to us or to our vendors, you represent that you have the authority to do so and to permit us to use the information in accordance with this Online Privacy Statement.
+
+### How we may use personal information
+
+We may use Personal Information:
+
+- To provide a quote, underwrite and rate policies, respond to your inquiries, fulfill your requests and complete your transactions
+
+- To process claims
+
+- To service your insurance
+
+- To confirm or correct what we know about you
+
+- To help us prevent fraud and other crimes
+
+- To investigate security incidents
+
+- To provide location-based services, such as roadside assistance
+
+- To record telematics and trip information through the IntelliDrive® mobile application, if you participate in our voluntary telematics programs. The IntelliDrive® mobile application captures data about your driving behaviors, including but not limited to the following: your location, information about your speed, braking, acceleration, time of day, phone use and other information regarding the status of your mobile device. We also collect information about your use of the IntelliDrive® mobile application, including frequency of use, the screens you have viewed, performance data and other activity.
+
+- To comply with applicable laws
+
+- To send you surveys
+
+- To perform research and analyze data
+
+- To send you information that we believe may be of interest to you
+
+- To personalize your experience on the Services
+
+- To facilitate social sharing functionality
+
+- To market or advertise our products and services to you
+
+- To inform you of job opportunities and to evaluate your suitability for a job
+
+- To contact you at a telephone number you provide to us, including if the number is for a cell phone or other wireless device. We may contact you in person, by recorded message, by the use of automated dialing equipment, by text (SMS) message, or by any other means of communication your device is capable of receiving, as allowed by law and for reasonable business purposes, including to service your policy with us.
+
+- For our business purposes
+
+- As otherwise allowed by law
+
+We may use various tools, including new and emerging technologies, to process Personal Information. We may use information we collect, including aggregated or de-identified data, to enhance and improve our services and data analytics, as well as for internal business purposes, including the development and refinement of processing models and other technologies.
+
+We retain Personal Information for as long as permitted or required by applicable law, including to fulfill our purposes for the Personal Information.
+
+### How personal information may be disclosed
+
+Your Personal Information may be disclosed:
+
+- Within the Travelers family of companies
+
+- To third parties to help us manage or service our business. These third parties can include but are not limited to agents or brokers, other insurance companies, regulators, administrators and vendors that provide services such as website hosting, data analysis, payment processing, information technology and related infrastructure provision, email delivery and other services.
+
+- To insurance support organizations and consumer reporting agencies
+
+- To third parties so that they can market their products and services to you, if you have given us permission
+
+- By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, social media pages that we control). Please note that any information you post or disclose through these services will become public information and may be available to users of the Services and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Services.
+
+- To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)
+
+- As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, and/or that of you or others; (g) to detect and prevent fraud; and (h) to allow us to pursue available remedies or limit the damages that we may sustain
+
+- As otherwise allowed by law
+
+### Tracking technologies
+
+We, as well as vendors operating on our behalf and other third parties, may collect information about you and your use of the Services using cookies, Flash objects, web beacons, pixel tags, embedded scripts, and other tracking technologies, such as:
+
+- IP address
+
+- Browser and device information, such as your device identifier, screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as an App) you are using.
+
+- App usage data, such as the date and time the App on your device accesses our servers and the information and files that have been downloaded to the App based on your device number
+
+- General geolocation. We may collect the general geolocation of your device by, for example, using your IP address and satellite, cell phone tower or WiFi signals. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners.
+
+- Demographic information
+
+- Information regarding your use and navigation of our Services, such as clicks on pages, time spent on pages, scrolling, and other actions taken while using our Services
+
+We, our vendors, and other third parties use information collected through tracking technologies:
+
+- to ensure that the Services function properly
+
+- to provide you with personalized location-based services and content
+
+- to deliver personalized advertising on other online services, sites and apps and track responses to those advertisements
+
+- to conduct analysis of the Services
+
+- to combine information collected through tracking technologies with other information we obtain about you, which may include data we obtain from external parties
+
+### Third party services
+
+This Online Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us.
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose through or in connection with the Apps or social media pages we control. Please note that we use the Google Maps API(s), which is subject to the Google privacy policy, available at http://www.google.com/privacy.html, as such policy may be amended by Google from time to time.
+
+### Your choices regarding tracking technologies
+
+The Website provides you a tracking technology management tool that allows you to change your preferences as to some of the tracking technologies that are enabled on the Website. To set or modify your tracking technologies click the “Do Not Sell or Share My Personal Information” link in the footer of the Website. To effectively manage cookies via this tool, you must set cookie preferences on all web browsers that you use. If you clear the cookies on your web browser(s) or device(s), you may need to set your cookie preferences again.
+
+In addition, here is more information on how you may take steps to manage your preferences regarding tracking technologies using tools that we do not provide:
+
+- Browser Settings. You can manage certain tracking technologies through your browser. At this time, like many other websites, the Website does not receive browser “Do Not Track” signals.
+
+- Self-Regulatory Advertising Organizations. The Network Advertising Initiative and the Digital Advertising Alliance offer means to opt-out of certain advertising cookies through browsers and mobile apps.”
+
+-
+Please be aware that even if you are able to opt out of certain kinds of targeted advertising or tracking technologies through these tools, you may continue to receive other types of advertising, including advertising not tailored to your interest or advertising in other contexts.
+
+Removing or blocking tracking technologies can impact your user experience and some functionality may no longer be available. These choices may be browser or device-specific, so if you use more than one browser or device, it may be necessary to make these choices in each of them to ensure your preferences are accounted.
+
+### Maintenance of the services
+
+The Services are maintained by us in the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
+
+### Safeguarding personal information
+
+We seek to use reasonable physical, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us at Travelers Consumer Affairs, One Tower Square, Hartford, CT 06183, or email to [email protected].
+
+### Updates to this online privacy statement
+
+We may change this Online Privacy Statement at any time. Please take a look at the “Revised” legend at the top of this page to see the date of the last revision. Any changes will become effective when we post the revised Online Privacy Statement on the Services. Your use of the Services following these changes means that you accept the revised Online Privacy Statement.

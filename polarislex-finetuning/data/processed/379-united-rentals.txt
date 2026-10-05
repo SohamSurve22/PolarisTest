@@ -1,0 +1,378 @@
+# Privacy Notice
+
+## Please read this Notice carefully to understand how we treat your personal information.
+
+### Last update: August 21, 2026
+
+Protecting your personal information is of the utmost importance to United Rentals, Inc. (together with its affiliated companies, “United Rentals”, “we”, “us” or “our”). This Privacy Notice explains what information we collect, and how we use the information we collect, from or about you on our websites (located at our primary website, http://www.unitedrentals.com, and including, but not limited to, https://www.unitedrentals.com/en-gb, https://www.unitedrentals.com/de-de, https://www.unitedrentals.com/fr-fr, https://www.unitedrentals.com/nl-nl, https://info.unitedrentals.com/, http://royalwolf.com.au, and http://royalwolf.co.nz, as well as any websites for companies we acquire in the future (collectively, the “Websites”)), via our mobile applications, devices, through communications with us, or from other sources.
+
+Please read this Notice carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites or services. By accessing or using the Websites, or otherwise providing us with your personal information, you acknowledge that you have read and understood, and agree to, this Privacy Notice. This Notice may change from time to time (see Updates to Our Privacy Notice below). Your continued use of the Websites or our services after we make changes to the Notice is deemed to be acceptance of those changes, so please check the Notice periodically for updates.
+
+This Privacy Notice applies to United Rentals’ global operations, with Addenda below that cover specific jurisdictions in which United Rentals operates.
+
+The Addenda below explain our privacy practices for certain countries or territories which may vary to reflect local legal requirements.
+
+## 1. INFORMATION WE COLLECT
+
+We collect the following personal information and may have collected such information in the past 12 months:
+
+- Identifiers, which include your name, postal address, email address, unique personal identifiers, online identifiers, IP address, account name, driver’s license number*, social security number*, passport number*, vehicle identification number and other similar identifiers. We collect these identifiers in order to provide you with our products and services. We may also collect your driver’s license* in connection with the use of certain products and, if you are a customer renting vehicles, rental pick-up date and time, drop-off date and time, total rental duration, rental vehicle odometer readings and your rental vehicle driver assignments. In addition, we obtain identifiers such as user name or ID*, passwords* and similar credentials when you create an account with us to access our services or when you communicate with us via social media, as well as your IP address and unique device identifiers when you visit our Websites or use our mobile apps.
+
+- The following categories of personal information described in California Civil Code § 1798.80(e): (1) the Identifiers listed above; (2) signature, (3) telephone number, (4) payment information* (which may include bank account number and/or credit or debit card number), (5) automobile insurance policy number, (6) information obtained in connection with a credit check (if applicable in connection with services obtained from us), including financial information and education, employment and employment history.
+
+- Biometric data*, including a scan of your facial geometry based on photos you provide to United Rentals’ vendor(s), as applicable (in the United States and Canada only);
+
+- Commercial information, including records of products and services obtained from United Rentals and information about your purchasing preferences.
+
+- Internet or other electronic network activity information, including browsing history, search history, and information regarding your interaction with our Websites, mobile apps and advertisements.
+
+- Geolocation data* in the form of the location of our rental equipment and devices. This includes the geolocation of the rental equipment and devices during your use of them, and/or other telematics data as applicable. We may also collect the approximate location of your device from your IP address. Further, we may collect precise geolocation data from your browser and/or application programming interface (API) when using our apps, with your permission.
+
+- Audio information from calls made to our customer service centers or local stores, which may be recorded, video information in the form of vehicle dashboard cameras, if applicable, and electronic information in the form of Internet or other electronic network activity information as described above.
+
+- Professional or employment-related information, in the form of business contact information and as noted above in connection with credit checks performed in connection with certain services.
+
+- Inferences drawn from (a) the information we collect when you visit our Websites or use our mobile apps when you use our products or services, including our training academy, (b) information we collect, including through third-party suppliers, regarding content and other data posted on the Internet (such as public locations on the Internet) and (c) information about consumer preferences and behavior that we collect on our Websites and mobile apps or purchase from third parties in order to create a profile about a consumer reflecting the consumer’s preferences, characteristics, predispositions, behavior and attitudes.
+
+- Information provided in response to surveys.
+
+- Information provided when submitting any reviews or comments regarding our products or services.
+
+Certain information above, including the information marked with an asterisk (*), is considered “sensitive information” under the California Consumer Privacy Act and other applicable privacy laws.
+
+Unless otherwise stated, we intend to retain the above information only for as long as reasonably necessary to complete the purpose(s) for which the personal information was collected. We may retain certain information for a longer period in order to comply with our legal obligations, resolve disputes, enforce agreements, and for other legitimate and lawful business purposes, such as fraud detection and prevention and enhancing safety and security across our services.
+
+## 2. HOW WE COLLECT INFORMATION
+
+We collect personal information that you provide to us, including information you submit to us when you use the Websites or our mobile apps, rent equipment, or purchase or use other services from us. As you navigate through and interact with the Websites or use mobile apps, we may use automatic data collection technologies to collect certain information about your equipment, online activities and browsing actions and patterns (as described below). We may collect this information directly or through third parties, including operating systems and platforms, social networks, data analytics providers or advertising networks, and our business partners. If you share someone else’s information with us, you confirm they have authorized you to share their information and have been informed of their rights under this Notice.
+
+## 3. AUTOMATIC DATA COLLECTION TECHNOLOGIES AND LINKED WEBSITES
+
+As you navigate through and interact with our Websites or our mobile applications, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+
+- Details of your visits to our Websites or mobile applications, including location, logs, and other communication data and the resources that you access and use on the Website.
+
+- Information about your computer and internet connection, including your IP address, device make/model, operating system, and browser type.
+
+- The technologies we use for automatic data collection on the Websites or our mobile applications include cookies and web beacons.
+
+- A "cookie" is an element of data that a website can send to your browser, which may then be stored on your system. We use different kinds of cookies on the Websites.
+
+- A “web beacon” is a small electronic file (e.g., clear gifs, pixel tags and single-pixel gifs) with a unique identifier that is used to understand browsing activity.
+
+We use data collected through these technologies, which we may supplement with other information such as location, to enable, optimize and analyze the operation of our Websites and to deliver a better and more personalized service. By clicking “Accept Cookies” and continuing to use this website, you consent to the placement of these technologies on your device and to this data processing.
+
+Please see the Privacy Preference Center link for detailed information about the cookies we use on the Websites. For more information about these technologies and how to manage your privacy and security settings or opt out, see Choices About How We Use and Disclose Your Information below, or visit our Privacy Preference Center.
+
+Third-party cookies. Some content or applications on the Websites, including advertisements, are served by third parties, including advertisers, ad networks and servers, content providers, social media networks and application providers. These third parties may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use the Websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content. We also share information collected by these technologies with third party social media, advertising and analytics partners who may combine it with other information that they have collected about you, for advertising or other purposes. We do not control these third parties' tracking technologies. For more information about these technologies, you should contact the responsible provider directly or visit their privacy policy pages. For information about how to manage and/or opt out of your targeted advertising preferences, please see How to Exercise Your Privacy Rights or Contact Us for details on how to contact our Privacy Officer, or visit our Privacy Preference Center.
+
+Linked Websites. The Websites may include links to other websites or content that belong to third parties. We are not responsible for personal information that you voluntarily disclose to such third parties, and we are not responsible for third party websites, content, or services. You should review the privacy policies associated with those third parties.
+
+## 4. HOW WE USE INFORMATION
+
+We may use personal information we collect to:
+
+- Provide you with the Websites as well as with information, products or services that you request from us.
+
+- Complete transactions, including your rental or purchase of products and services.
+
+- Provide customer and account services, such as notices regarding products and services or your account/subscription, including expiration and renewal notices.
+
+- Engage external fleet management services.
+
+- Comply with applicable laws, cooperate with investigations by law enforcement, and/or pursue our legal rights, including performing and enforcing our contractual obligations and rights, such as billing and collection.
+
+- Evaluate and improve our products and services and/or develop new products or services.
+
+- Tailor our marketing and advertising to you. However, we will not share your mobile number with third parties/affiliates for marketing/promotional purposes.
+
+- We may also use your personal information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please contact our Privacy Officer (see How to Exercise Your Privacy Rights or Contact Us below for details on how to contact our Privacy Officer).
+
+## 5. INFORMATION WE SHARE
+
+We may disclose aggregated information about our users and information that does not identify any individual, without restriction.
+
+We may disclose personal information as described in this Notice to the following persons for the purposes described below:
+
+- Our subsidiaries and affiliates.
+
+- Contractors, service providers and other third parties we use to support our business and provide you with our products and services including, but not limited to, external fleet management services. These include companies that process, store or transmit credit card information and who are bound by contractual obligations to keep personal information confidential and secure, and to use it only for the purposes for which we disclose it to them.
+
+- Our customers in connection with services we provide to them, including information related to driver and operator behaviors that occur during the use of the rented or purchased equipment.
+
+- As noted in our Rental and Service Terms, telematics data may be available to subsequent users of equipment.
+
+- Buyers or other successors in the event of a business transaction, such as a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding in which personal information held by us is among the assets transferred.
+
+- Government entities or other parties to comply with court order, law or legal process, including responding to a government, court or regulatory request.
+
+- Government entities, third-party cybersecurity experts or other parties as necessary and appropriate to ensure the security and integrity of our networks, or otherwise protect the rights, property or safety of United Rentals, our customers or others.
+
+- Third-party entities to enforce or apply our Terms of Use (/legal/website-terms-of-use-us-eng) and other agreements or otherwise protect or assert our legal rights, including for billing and collection purposes.
+
+We may also disclose your personal information to other persons for such other purposes as you may consent to from time to time.
+
+We may also share your personal information with data analytics providers for the purpose of targeted advertising. For information about how to manage your targeted advertising preferences, please see How to Exercise Your Privacy Rights or Contact Us, below, or visit our Privacy Preference Center.
+
+## 6. CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+- Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Websites may then be inaccessible or not function properly. You can learn more about cookies and how to manage them at http://www.allaboutcookies.org. For more information about these technologies and how to manage your privacy and security settings or opt out, see Automatic Data Collection Technologies and Linked Websites above, and/or visit our Privacy Preference Center.
+
+- Promotional Offers from United Rentals. If you do not wish to have your personal information used by United Rentals to promote our own or third parties' products or services, you can opt-out by contacting our Privacy Officer (see How to Exercise Your Privacy Rights or Contact Us below for details on how to contact our Privacy Officer). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. If you opt out from receiving promotional e-mails, we may still need to send you communications about product purchases, warranty registration, product service experience or other matters or transactions.
+
+- Targeted Advertising. If you do not want us to use information that we directly or indirectly collect or that you provide to us to deliver our advertisements according to our advertisers' target-audience preferences, you can:
+
+- Turn off targeting cookies (to do so, please visit cookie settings via the Privacy Preference Center);
+
+- Opt out of email marketing by visiting Promotional Email Settings (https://www.unitedrentals.com/user/manage-promotional-email-settings); and/or
+
+- contact our Privacy Officer (see How to Exercise Your Privacy Rights or Contact Us below for details on how to contact our Privacy Officer
+
+## 7. CHILDREN UNDER THE AGE OF 14
+
+The content of the Websites is not targeted to, or intended for, children under 14 years of age. United Rentals does not market products or services to this age group and does not knowingly collect personal information from children under 14. If you are under 14, do not use or provide any information on the Site or on or through any of its features or register on the Site, make any purchases or rentals through the Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 14 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 14, please contact our Privacy Officer (see Contact Us below for details on how to contact our Privacy Officer).
+
+## 8. YOUR PRIVACY RIGHTS
+
+You may make a request to review any personal information about you that we have collected, used, or disclosed, and information about those uses and disclosures, and we will provide you with any such personal information to the extent required by applicable laws.
+
+You may also challenge the accuracy or completeness of your personal information in our records. If you demonstrate that your personal information in our records is inaccurate or incomplete, we will amend or delete your personal information as required by applicable laws.
+
+We will not discriminate against you for exercising any of your privacy rights.
+
+The exact scope of your privacy rights may vary by jurisdiction. You may also have other privacy rights, depending on the jurisdiction in which you reside. Please review the Addenda below which explain specific privacy rights that exist in certain countries or territories.
+
+To exercise any of your privacy rights, please follow the instructions (How to Exercise Your Privacy Rights), below. We will honor your request to the extent required by applicable law and will make a good faith effort to honor your request in all other cases.
+
+If you disagree with our response to your request, you may appeal the request by submitting supporting documentation to our Privacy Officer at [email protected]. You may also submit a complaint to the competent supervisory authority in the jurisdiction in which you live if you have any concerns about our processing of your personal data or if we deny your appeal to review a prior decision about your privacy rights.
+
+With respect to certain deletion requests, we may not be able to delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you have a UnitedRentals.com account, you can review and change your personal information by logging into the Website and visiting your account profile page and updating your information. Please note that this will not update your customer account with us; this will only update your Website account. If you would like to update your customer account with us, please follow the instructions (How to Exercise Your Privacy Rights), below.
+
+Additionally, residents of California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia may have the right (now or in the future) to:
+
+(a) receive, at or before the time of collection, notice of our privacy practices;
+
+(b) know what personal information we collect, use, disclose, and sell;
+
+(c) request that we delete your personal information;
+
+(d) access and obtain a copy of your personal information that we collect;
+
+(e) request correction of inaccurate personal information, taking into account the information’s nature and processing purpose (excluding Iowa and Utah);
+
+(f) opt out of the sale of your personal information;
+
+(g) opt out of targeted advertising (excluding Iowa); or
+
+(h) either limit (opt out of) or require consent to the use and disclosure of certain sensitive information, as applicable.
+
+Nevada provides its residents with a limited right to opt-out of certain personal information sales. Nevada residents who wish to exercise this sale opt-out rights may submit a request to [email protected].
+
+## 9. HOW TO EXERCISE THESE RIGHTS
+
+You may request to exercise the foregoing rights by:
+
+- Emailing us at [email protected]
+
+- Calling us at 203.618.7342
+
+- Writing to us at Privacy Officer, General Counsel’s Office, United Rentals, Inc, 100 First Stamford Place – Suite 700 Stamford, CT 06902
+
+Please note that we may take steps to verify your identity before granting you access to information or acting on your request to exercise your rights, as required or permitted by law. We may limit our response to your exercise of the above rights as permitted by law.
+
+You may designate an authorized agent to exercise the foregoing rights on your behalf. An agent may be an individual or a business entity registered with your Secretary of State. To designate an authorized agent, you must provide the agent with written permission to submit the request. We may still require you to verify your identity directly (subject to certain exceptions). We may refuse a request if the agent does not provide adequate proof of their authorization.
+
+## 10. SALES OF PERSONAL INFORMATION
+
+When we share information for purposes of targeted advertising or advertising networks, such sharing may be considered a “sale” of information under some U.S. state laws. You may request to opt out of such sharing of information (see How to Exercise Your Privacy Rights above).
+
+## 11. DO NOT TRACK/GLOBAL PRIVACY CONTROL
+
+We comply with the Global Privacy Control (GPC) signal, which means if you enable the GPC setting in your browser, we will interpret that as a request to not sell or share your personal information with third parties.
+
+## 12. DATA SECURITY
+
+We have implemented measures designed to secure your information. For example, we require our payment processing merchants to comply with the Payment Card Industry Data Security Standards. Moreover, we require that any third parties that process your information on our behalf comply with a comprehensive set of security requirements. For more information on these requirements, please visit https://www.unitedrentals.com/legal/msa-data-processing-terms. However, we cannot guarantee that your personal information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or relevant Web policies).
+
+You may need to register for an account to use all or part of our services. When you do, you will be asked to select a password to help protect your information. These passwords help us verify your identity before granting access or making corrections to any of your personal information. You should never disclose your password to anyone and you should not use the same password for other websites. We will never ask you for your password in an unsolicited phone call or e-mail. You are responsible for maintaining the secrecy of your passwords and account information
+
+## 13. UPDATES TO OUR PRIVACY NOTICE
+
+We may make changes to this Notice from time to time. When we make material changes to this Notice, we will post a link to the revised Notice on the homepage of our Websites, and if you have registered for any of products or services or have an account with us, we may also inform you though a communications channel that you have provided. The date the Notice was last revised is identified at the top of the page. Any changes to this Notice will become effective upon posting of the revised Notice on the Websites.
+
+## 14. CONTACT US
+
+If you have any questions or comments about this Privacy Policy or our privacy practices, please contact us by:
+
+- Emailing us at [email protected]
+
+- Calling us at 203.618.7342
+
+- Writing to us at Privacy Officer, General Counsel’s Office, United Rentals, Inc, 100 First Stamford Place – Suite 700 Stamford, CT 06902
+
+Please be sure to include your full name, address, telephone number and e-mail address so that we may reach you with a response.
+
+## EUROPEAN ECONOMIC AREA AND UNITED KINGDOM ADDENDUM
+
+If you are a resident of the European Economic Area (“EEA”) or the United Kingdom (“UK”), the following additional provisions apply to how we treat your personal information. The provisions of this EEA and UK Addendum prevail over conflicting provisions in the Privacy Notice.
+
+1. How We Use Your Personal Information
+
+We use the following legal bases for the processing of your personal information:
+
+- Compliance with a legal obligation such as to determine the legal requirement(s) for processing of your Personal Data (based on your location), to respond to your requests related to your data subject rights, to comply with our legal obligations (e.g. tax and accounting obligations), to inform you about any changes to this Privacy Notice, when applicable.
+
+- Performance of a contract or to take steps to enter into a contract with you.
+
+- Our legitimate business interests such as fraud prevention, or improvement of our products and services.
+
+- Your consent, in certain instances, and where we make clear that we are asking for your consent for a specific processing purpose.
+
+2. Data Retention
+
+Your personal information will not be stored for longer than necessary for the purposes for which it was collected or as required by our legal and regulatory obligations. Our retention policies reflect applicable local statute of limitation periods and legal requirements.
+
+3. International Transfers
+
+We may transfer your personal information to countries that have not been found by the European Commission or the UK government to provide adequate protection. Where such transfers occur, we take measures to ensure personal information is adequately protected from the risks of transfer, such as through the use of EU standard contractual agreements (the standard contractual clauses annexed to the European Commission’s Decision (EU) 2021/914 of 4 June 2021 currently found at https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the equivalent UK provisions, as applicable.
+
+4. Do we engage in profiling activities?
+
+If you provide your consent, we may use tracking mechanisms to track your Personal Data for profiling purposes. This allows us to serve relevant content to you and adjust our Services and ads to your interests. You have the right to object to this type of processing. You can also go to your cookie settings to review and amend your privacy choices related to this type of processing at any time.
+
+5. Your Personal Information Rights
+
+In connection with your personal information you have the following rights:
+
+- ask us to confirm whether we are processing your personal information
+
+- receive information on how your data is processed
+
+- obtain a copy of your personal information
+
+- request that we update or correct your personal information
+
+- request that we delete personal information in certain circumstances
+
+Withdrawal of Consent. Where processing your personal information is based on your consent you may withdraw this consent at any time; the withdrawal of the consent shall not affect the lawfulness of processing based on consent before its withdrawal.
+
+Right of Objection and Restriction. You may object on grounds relating to your particular situation to our processing of your personal information based on our legitimate business interest, including profiling, and to us sending you marketing communications. You may also request that we place restrictions on our processing of your personal data while we are processing your request or challenge pertaining to the accuracy of your personal information or the lawfulness of the processing of your personal information, or if you need the personal information for litigation purposes.
+
+Data Portability. You may request that we provide you or a third party that you designate with certain of your personal information in a commonly used, machine readable format. Please note, however, that data portability rights apply only to personal information that we have obtained directly from you and only where our processing is based on consent or the performance of a contract.
+
+We will respond to your request regarding your personal information without undue delay and in any event within one month of receipt of the request. That period may be extended by two further months, where necessary, taking into account the complexity and number of requests.
+
+You may exercise these rights free of charge. However, we may charge a reasonable fee or refuse to act on a request if it is manifestly unfounded or excessive, such as because it is repetitive. In some situations, we may refuse to act or impose limitations on your rights, as permitted by law. If you wish to exercise any of these rights or have any complaints, please contact our Privacy Officer (see Contact Us above for details on contacting our Privacy Officer).
+
+If you believe we have not complied with our obligations under applicable data protection laws and regulations, you can lodge a complaint with a competent data protection authority, for example the Autoriteit Persoonsgegevens in the Netherlands, or the Information Commissioner’s Office “ICO” in the United Kingdom.
+
+6. Do we collect Personal Information from Children?
+
+The Services are not targeted towards, nor intended for use by anyone under the age of 14. In the event that we learn that we have collected personal information from a user under 14 years of age, we will delete that data as quickly as possible. If you believe that a user might be under the age of 14, please contact us at [email protected].
+
+7. Cookies
+
+A "cookie" is an element of data that a website can send to your browser, which may then be stored on your system. There are similar techniques as cookies such as web beacons, small graphic files (pixels) and an additional HTML5 (local) storage in your browser. We use different kinds of cookies on the Websites.
+
+For detailed information about the cookies we use on the Websites, please see our Cookie Notice which is located here (https://www.unitedrentals.com/en-gb).
+
+8. Data Controller
+
+In the European Union and the United Kingdom, the following United Rentals entities are the data controllers which process your personal information:
+
+- United Rentals, Inc.
+
+- United Rentals (North America), Inc.
+
+- United Rentals GmbH
+
+- United Rentals B.V.
+
+- United Rentals SAS
+
+- United Rentals UK Limited
+
+- United Rentals of Canada, Inc.
+
+- United Rentals International BV
+
+- United Rentals Belgium BV
+
+- EQIN B.V. (Netherlands)
+
+- EQIN Industrial B.V. (Netherlands)
+
+- EQIN N.V. (Belgium)
+
+- Indu-Tools Group B.V. (Netherlands)
+
+- Indu-Tools B.V. (Netherlands)
+
+- Indu-Tools N.V. (Belgium)
+
+- Interlas Welding Solutions B.V.
+
+9. Data Protection Officer in the EEA and UK
+
+We have appointed the DPO Centre as our Data Protection Officer. If you have any questions about your data, this Privacy Notice or if you would like to exercise your rights under it you can contact [email protected]. In addition you can contact the DPO Centre at [email protected]. You should explain that you are contacting the DPO Centre in connection with your privacy rights, your relationship with United Rentals and the reason for your inquiry.
+
+Corporate Info
+
+100 First Stamford Place
+Ste 700
+Stamford, CT 06902
+United States203.622.3131
+
+## CANADIAN ADDENDUM
+
+If you are a resident of Canada, the following additional provisions apply to how we treat your personal information. The provisions of this Canadian Addendum prevail over conflicting provisions in the Privacy Notice.
+
+Your Consent
+
+We collect, use and disclose your personal information with your consent or as permitted or required by law. How we obtain your consent, including whether it is express or implied, will depend on the circumstances and the sensitivity of the personal information in question. Generally, we will seek your consent at the time we collect your personal information, either orally, electronically, or in writing.
+
+If you wish to withdraw your consent to our processing of your personal information, please contact us. We will accommodate your request to withdraw consent, subject to legal or contractual restrictions. Withdrawal of your consent may mean that we will no longer be able to provide you with our products or services.
+
+International Transfer and Storage of Personal Information
+
+We may transfer your personal information outside of the jurisdiction in which you are located (including outside of Canada) to fulfil the purpose for which we collected it, including for processing and storage by our service providers. While your personal information is outside of Canada, it is subject to the laws of the country in which it is located, which may have different privacy laws than Canada. Those laws may require disclosure of your personal information to authorities in that country. For more information about our policies and practices regarding personal information that is processed outside of Canada, please contact us.
+
+## AUSTRALIAN ADDENDUM
+
+AUSTRALIAN ADDENDUM
+
+If you are located in Australia, the following additional provisions apply to how we treat your personal information. The provisions of this Australian Addendum prevail over conflicting provisions in the Privacy Notice.
+
+1. Definitions
+
+For the purposes of this Privacy Notice, ‘personal information’ shall have the meaning given to that term in the Australian Privacy Act 1988 (Cth) (Privacy Act).
+
+2. Compliance with law
+
+Notwithstanding any other provisions of this Privacy Notice, United Rentals will comply with all applicable Australian law, including the Privacy Act and the Spam Act 2003 (Cth), with respect to all personal information collected about individuals in Australia.
+
+3. Collection of sensitive information
+
+We do not generally require you to disclose any sensitive information (e.g. details of race, religious belief, sexual orientation or membership of a trade union) to us. If you do provide us with sensitive information for any reason, you consent to us collecting that information and using and disclosing that information for the purpose for which you disclosed it to us and as permitted by the Privacy Act and other relevant laws.
+
+4. International transfers
+
+We may disclose your personal information to countries located outside of Australia.
+
+5. Requests for access and correction
+
+You may seek access to or correction of personal information which we hold about you by contacting us as described in section 14 of this Privacy Notice.
+
+We will provide access to, and correct any inaccuracies in, your personal information in accordance with the Privacy Act, subject to any exemptions which may apply.
+
+6. Questions or comments
+
+If you have any questions, comments or complaints about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Notice (including this Australian Addendum) or the Privacy Act, please contact us in accordance with section 14 of this Privacy Notice (Contact Us).
+
+We will take any privacy complaint seriously. Any complaint will be assessed with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+
+If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner.

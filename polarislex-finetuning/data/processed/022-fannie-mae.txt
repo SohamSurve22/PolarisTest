@@ -1,0 +1,487 @@
+About Us
+
+# Fannie Mae Privacy Notice
+
+Last Updated: June 30, 2026
+
+### Table of contents
+
+Fannie Mae respects your concerns about privacy and values its relationship with you. This Privacy Notice (“Privacy Notice” or “Notice”) describes how we collect, use, and disclose personal information we may collect about you or that you may provide when you visit or interact with our websites and applications that link to this Privacy Notice (our “Sites”) or when you interact with Fannie Mae through another means. We also describe some measures we take to protect the security of the information and how you can contact us about our privacy practices.
+
+However, this Privacy Notice does not apply to:
+
+- Information collected by any third party for its own purposes, including through any application or content (including advertising) that may link to or be accessible from or on the Sites;
+
+- Publicly available information from government records;
+
+- Information covered by certain sector-specific privacy laws, including:
+
+- The Fair Credit Reporting Act (FCRA);
+
+- The Gramm-Leach-Bliley Act (GLBA);
+
+- The Health Insurance Portability and Accountability Act of 1996 (HIPAA);
+
+- Information relating to employees, contractors, and other personnel of Fannie Mae; and
+
+- Deidentified or aggregated consumer information that can no longer reasonably be identified with a particular individual, which we may create, use, and disclose in our discretion. Note that we maintain and use deidentified information only in deidentified form. We do not attempt to reidentify such information except as needed to determine that the information is appropriately deidentified.
+
+Information You Provide. We may obtain personal information directly from you. Here are the most common types of information:
+
+- Contact information (such as name, postal address, e-mail address, telephone number and fax number);
+
+- Login and access credentials (such as username and password);
+
+- Information about your property or mortgage loan;
+
+- Age and gender;
+
+- Professional contact information and license numbers from employees of brokers, third party originators, and other individuals who register for our services or do business with Fannie Mae;
+
+- Education or employment history;
+
+- Responses to voluntary surveys;
+
+- Comments you submit to us; or
+
+- Photos and videos.
+
+This information is actively provided to us by you. For instance, we may collect this information in connection with the various services we offer, at outreach events, or through forms you submit to us.
+
+Information Collected Automatically. When you visit our Sites, we (and our third-party service providers) may collect information through automated technologies such as cookies, web server logs, and pixels. We and our third-party service providers may combine and enhance this information with the personal information that we collect about you directly or from third parties. The information collected using these technologies may include your IP address, device ID, browser characteristics, operating system, the address of the web page that referred you to our Site, dates and times of Site visits, the language your system uses, and the country and time zone in which your device is located. These technologies also permit the collection of “clickstream data,” which may reflect your activities while browsing our Sites.
+
+Likewise, when you visit our office locations, we and our third-party service providers may collect information about you via closed circuit television cameras, for building security and other legitimate purposes as permitted under applicable law.
+
+Information Collected from Third Parties. We may combine personal information that you provide to us or we collect automatically with information we receive about you from third parties.
+
+Third-Party Analytics. On our Sites, we use third-party web analytics services, such as Google Analytics. These services may rely upon technologies such as cookies, web server logs and web beacons to help us analyze how visitors reach and interact with our Sites. The information collected through these means (including IP address) is disclosed to or collected directly by these service providers and may be combined with other information that they collect across unrelated websites and apps over time. To opt out of Google Analytics, click here. To learn more about Google's additional collection and analysis of information by automated means, including how to opt out, click here.
+
+In Google Analytics, we have also enabled "Demographics and Interest Reports," a Google Analytics Advertising Feature which collects data about web traﬀic via Google Advertising Cookies that were previously placed on your web browser. This Analytics Advertising Feature allows Google to give us aggregated information concerning visitor demographics, such as age and gender, along with information related to the interests visitors express through their online browsing activities. If your Google account settings permit Google to use the information Google has collected about you to personalize advertisements, then Google Analytics may also use this information to identify other devices you use for advertising purposes. Please see the Cross Device Linking section and Third-Party Ad Services section below for more information about these activities and the choices available to you.
+
+Cross Device Linking. Our third-party service providers may use the information collected about you (whether directly from you from our Sites, through your device(s), or from a third party) to help us and our third-party service providers identify other devices that you use (e.g., a mobile phone, tablet, other computer, etc.). This is called cross-device linking. Our third-party service providers also may use cross-device linking and other information we learn about you to serve targeted advertising on your devices. To opt out of cross-device linking for targeted advertising purposes, you may follow the instructions set forth in the Third-Party Ad Services section below.
+
+Third-Party Ad Services. We also use third parties, such as network advertisers, to serve advertisements on our behalf on third-party websites or other media based on information that these third parties collect about your activities on our Sites and unrelated websites and apps over time. This activity, called targeted advertising, enables us and these third parties to target advertisements to you for products and services in which you might be interested and learn more about our visitors’ online activities. The activities and technologies of these third parties are governed by each third party’s specific privacy policy, not this one.
+
+You may go to the DAA WebChoices Page (http://www.aboutads.info/choices/) for information about opting out of targeted advertising on websites by companies participating in the DAA Self-Regulatory program. You may also go to the Network Advertising Initiative ("NAI") Consumer Opt-Out Page (http://www.networkadvertising.org/choices/) for information about opting out of targeted advertising by NAI members.
+
+Opting out of targeted advertising will not stop advertising from appearing in your browser or applications, but it may make the advertisements you see less relevant to your interests Please also note that if you opt out of targeted advertising, your opt out will be specific to the web browser or mobile device from which you made this choice. If you use multiple devices or browsers, you will need to opt out each browser or device that you use. Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites or if you later delete cookies, your opt out may not be eﬀective.
+
+We may use the information we collect for our business and commercial purposes, such as to:
+
+- Verify your identity and maintain the security of the Sites and our business;
+
+- Provide, administer and communicate with you about products, services, and events;
+
+- Create, administer and communicate with you about your online account or subscription;
+
+- Process, evaluate and respond to your requests, inquiries, and applications;
+
+- Provide and administer communications tools, such as tools for submitting online oﬀers to purchase homes owned by Fannie Mae;
+
+- Provide educational programs and information about the mortgage loan process and getting ready to purchase a home, and related content;
+
+- Establish and maintain relationships with trusted partners, including financial institutions, brokers, third-party originators, and other entities with whom we engage in business;
+
+- Operate, evaluate and improve our business using various tools, to include artificial intelligence and machine learning (including developing new products and services; managing our communications; performing market research; managing our advertising and marketing; analyzing our products, services, and Sites; administering our Sites and conducting our business; and performing accounting, auditing, billing, reconciliation and collection activities);
+
+- Protect against and prevent fraud, unauthorized activity, claims and other liabilities; Comply with and enforce applicable legal requirements, industry standards and our policies and terms of use; or
+
+- Carry out any other purpose described to you at the time the information was collected.
+
+We may process the information collected to draw inferences about your characteristics and preferences. We may infer your general geolocation based on the collected device ID or IP address. We also may use the information in other ways and, if required, will provide specific notice at the time of collection or use.
+
+We may share personal information we collect as described here.
+
+- We may share the information with our service providers who perform services on our behalf. For example, we may provide personal information to third parties such as technology providers to enable such third parties to perform business, professional, technical, and other support functions for us, for our Sites, or for you.
+
+- We provide tools to allow real estate agents to communicate with each other to negotiate transactions. In the course of these communications, they may use our tools to share personal information about the parties they represent.
+
+- We may share the information with potential employers. For example, we may provide personal information about you to potential employers when you join the Future Housing Leaders network.
+
+- We reserve the right to transfer personal information we have about you in the event of a proposed or actual sale or transfer all or a portion of our business or assets.
+
+- In addition, we may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, our conservator, or regulatory agencies, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+
+- We may also share information with your consent or as otherwise disclosed at the time of information collection or sharing.
+
+We may include features on our Sites that allow you to participate in public forums or interact with other users. When you participate in these features, the information that you provide will be available to other Site users and/or the general public.
+
+We oﬀer you certain choices about how we communicate with you and what information we collect from you. Some of our Sites provide features that allow you to (i) access and update personal information you have provided there or (ii) register your communications preferences, such as by telling us not to send you marketing materials. If you wish to opt out of receiving our marketing emails, you can follow the directions contained in any marketing email that we send to you. Even if you opt out of marketing emails, we will continue to send you email messages related to our transactions or relationship with you. Business contacts may be required to receive certain information in the course of doing business with Fannie Mae.
+
+You also may contact us as described in the How To Contact Us section below to update your preferences, ask us to remove your information from our mailing lists or submit other requests. Please see the State Privacy Notice Addendum below for other choices that you may have depending on your state.
+
+We maintain reasonable administrative, technical and physical safeguards designed to protect the security and integrity of the personal information we collect. Our standards are designed to protect the confidentiality of the information, protect against anticipated threats to the security or integrity of the information, and protect against unauthorized access or other potentially harmful use of the information. Our policies and our agreements with third parties require appropriate security and confidentiality standards to protect the confidentiality of personal information and safeguard against unlawful disclosure.
+
+Your personal information is stored by Fannie Mae or by our service providers on our behalf. We retain personal information that we collect for as long as we need to use it in connection with our business and in accordance with our business practices or in compliance with applicable laws. When Fannie Mae no longer needs the personal information, we will deidentify, aggregate, or delete this information where required by law.
+
+For your convenience and information, our Sites may provide links to other Web sites or online services, including social media sites, or present content or features from other Web sites or other third parties. The Sites may also include integrated social media tools or "plug-ins," such as social networking tools oﬀered by third parties. If you use these tools to share personal information or you otherwise interact with social media features on the Sites, those social media companies may collect information about you and may use and share such information in accordance with your account settings, including by sharing such information with the general public.
+
+Such third-party Web sites and services operate independently from Fannie Mae. The Web sites and services may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked Web site or pages containing content hosted by other Web sites. To the extent such Web sites or services are not owned or controlled by Fannie Mae, we are not responsible for their content, your use of the Web site or service, or the privacy practices of the Web site or service.
+
+The privacy laws of other countries outside of the U.S. may provide rights for natural persons who are considered data subjects under such laws. This Privacy Notice provides such data subjects with information about the data we collect and how that data is processed. In accordance with your rights as a data subject, you may request information about how we collect, use, share, store and retain your personal information. Among other rights as a data subject, you may obtain rectification of errors in the record of your personal information, or you may request a copy or erasure of your personal information. These rights are subject to our right to process your personal information based on your consent, as necessary for the performance of a contract to which you are party, a legal obligation to which Fannie Mae is subject, or Fannie Mae’s legitimate interests.
+
+If you have any questions, please contact Fannie Mae's Privacy Oﬀice or at the address listed below.
+
+Residents of certain states have various rights under state privacy laws with respect to personal information we collect. This State Privacy Notice Addendum (“Addendum”) supplements the information contained in our Privacy Notice above and applies to residents of California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia.
+
+In the case of California, this Addendum also applies to individuals interacting with Fannie Mae as a representative of a business. This Addendum contains disclosures required by state privacy laws and explains the rights that may be available to you.
+
+This Addendum does not apply to information that is not subject to state privacy laws. If you are applying for a job with Fannie Mae, please review the California Job Applicant Privacy Notice below for information specific to job applicants residing in California.
+
+Information We Collect and Disclose
+In the preceding 12 months, we collected and disclosed the following categories of personal information.
+
+- Personal and online identifiers, such as name and email address, and other personal or business contact information;
+
+- Record-keeping information, such as telephone number and financial information;
+
+- Characteristics of legally protected classifications , such as race, citizenship, ethnicity, gender, or other characteristics when you choose to give this information to us;
+
+- Commercial information, such as records of personal property, products or services purchased;
+
+- Internet or other electronic network activity information, such as interactions with our website;
+
+- Professional or employment-related information, such as information included in your resume and job applications you submit through Future Housing Leaders;
+
+- Education information, such as level of education;
+
+- Geolocation data, such as physical location or movements; and
+
+- Audio, electronic, visual, or similar information, such as call or video recordings, photographic images, and CCTV footage of our facilities;
+
+- Sensitive personal information, such as account log-in and password when you create an account with us. Additionally, some of the information we collect that is described above, like race, citizenship and ethnicity, is also considered to be "sensitive" personal information under state privacy laws;
+
+- Inferences, such as information used to create a profile; and
+
+- Other information about you that is linked to the personal information above, such as information about rental payment history and information about your lease.
+
+Categories of Sources
+
+We collect personal information from the following categories of sources:
+
+- Directly from you, such as when you complete forms or participate in certain services we support,
+
+- Indirectly from you, such as from observing your actions on our Sites;
+
+- Consumer data providers;
+
+- Landlords who use our services;
+
+- Closed circuit television in our Washington DC, Virginia, Texas and other office locations;
+
+- Other companies that are our business partners, such as consultants and insurance companies;
+
+- Social media companies, such as when you interact with Fannie Mae profiles on social media;
+
+- Government entities;
+
+- Trade associations; and
+
+- Service providers.
+
+Categories of Recipients and Personal Information We Disclose
+We disclose personal information we collect to the following categories of recipients for our business purposes:
+
+- Service providers that perform business, professional, technical, and other support functions on our behalf—all categories of personal information listed above;
+
+- Real estate agents negotiating transactions—categories 1 (personal and online identifiers) and 2 (e.g., financial information) listed above;
+
+- Housing counselors—categories 1(personal identifiers), 2 (recordkeeping information), 4 (commercial information) and 12 (other linked information). We share this information at your direction when you request certain services.
+
+- Advertising partners – categories 1 (online identifiers), 4 (commercial information), and 5 (Internet or other electronic network activity information);
+
+- Government entities—all categories of personal information listed above;
+
+- Partners who use our services, such as landlords using our Multifamily service—categories 1 (personal and online identifiers), 2 (e.g., financial information), and 12 (other information that is linked to personal information like rental payment history and information about your lease);
+
+- Potential employers – categories 1 (personal and online identifiers), 3 (e.g., race and gender), 6 (professional or employment-related information), and 7 (education information). Typically, we share this information at your direction.
+
+While we do not sell personal information we collect for monetary consideration, we disclose personal information we collect for targeted advertising purposes (also known as cross-context behavioral advertising). These disclosures may be considered a "sale" or "sharing" of personal information to:
+
+- Advertising partners – categories 1 (online identifiers), 4 (commercial information), and 5 (Internet or other electronic network activity information).
+
+Our Purposes for Processing Personal Information
+We use and disclose the personal information we collect for our commercial and business purposes, as further described above in the How We Use the Information We Collect and Sharing of Personal Information sections of this Privacy Notice.
+
+Your Rights and Choices
+Residents of certain states may have rights with respect to certain personal information collected by Fannie Mae. If you are a resident of one of these states, you may be able exercise the rights we describe below, subject to certain exceptions and limitations. Please note, that for some rights, we may not be able to fulfill your request if we are unable to verify your identity. In addition, the rights available to you may not extend to certain information we collect that is covered by one or more exemptions from the applicable state privacy law.
+
+Access Rights
+You may have the right to confirm whether Fannie Mae is processing personal information about you and, in some states, to obtain the categories of personal information we process. Residents of certain states may have the right to obtain the categories of third parties to which we disclosed your personal information. Additionally, in some states you may have the right to obtain a list of the third parties (other than processors) to which we disclosed personal information.
+
+For California residents, you may have the right to request additional information about our collection and use of your personal information, including:
+
+- The categories of personal information that we collected, used, or disclosed about you;
+
+- The categories of sources for the personal information that we collected about you;
+
+- The business or commercial purpose for collecting and disclosing the personal information; and
+
+- The categories of third parties to whom the personal information was disclosed.
+
+Data Portability Rights
+You may have the right to obtain a copy of the specific pieces of personal information we have collected about you in a portable and, to the extent technically feasible, readily usable format.
+
+Correction Rights
+You may have the right to request we modify or correct the personal information that we collected from or about you.
+
+Deletion Request Rights
+You may have the right to request that we delete personal information that we collected from or about you.
+
+Sensitive Personal Information
+Fannie Mae does not sell information considered “sensitive” under applicable state laws. Where you have voluntarily provided us with information considered "sensitive" under applicable state laws, such as your race/ethnicity, you may opt out of our continued processing of such information. While some states may also consider your account credentials to be "sensitive" information, because we use your account credentials solely to provide services to you, you cannot opt out of our processing of account credentials so long as you use our services.
+
+Opt Out Rights
+Fannie Mae does not sell your personal information to third parties for monetary consideration. However, we may process and share your personal information with parties for targeted advertising (also known as cross-context behavioral advertising), and in some states this may be considered a "sale" or "sharing" of personal information. You may opt out of these activities as described below.
+
+Note that some opt out rights are inapplicable to Fannie Mae's business practices. For instance, the right to opt out of automated decision making or profiling that has legal or similarly significant effects is inapplicable because Fannie Mae does not use personal information for purposes to which the right to opt-out applies. Likewise, we do not knowingly collect or sell the personal information of minors under the age of 16, nor do we process or share such information for targeted advertising purposes.
+
+Non-Discrimination Rights
+We will not discriminate against you for exercising your privacy rights.
+
+Exercising Rights
+To opt out of Fannie Mae’s processing and sharing of personal information for targeted advertising as described above, you can activate the Global Privacy Control ("GPC") by implementing a browser or extension that offers this control. Fannie Mae has implemented mechanisms to respond to GPC signals that we receive, where required. The GPC is a third-party tool. More information and instructions on implementing this tool are available here. You also can exercise choices related to targeted advertising through offered on our Sites.
+
+For instance, you can avoid processing and sharing of personal information for targeted advertising by not accepting targeting cookies when presented with that choice.
+
+To exercise the other rights described above, please submit a consumer request here, (select “Submit a Personal Information Request”), or contact us at this toll-free telephone number, 1-800-2FANNIE (1-800-232-6643).
+
+For certain types of requests, we may require that you provide additional information so that we can verify your identity or understand the scope of your request. For all requests other than opt-out requests, we will require you to provide, at minimum, your state of residency, name, and email address. We may email you separately using the email address provided or a previous email address if we have such information to confirm your identity. We will use the personal information provided in your request only to verify your identity or authority to make the request.
+
+In some states, you may be permitted to designate an authorized agent to make a request on your behalf. In order to designate an authorized agent to make a request on your behalf, you must provide the agent with signed permission to do so and provide proof of your identity, or the agent must have a valid power of attorney. An authorized agent can make a verifiable consumer request on your behalf through one of the submission methods noted above. In order for us to process the request, the authorized agent will be required to provide evidence of signed permission and your e-mail address to verify your identity, or proof of valid power of attorney.
+
+Appeals
+For residents of certain states, if we have denied your request and you believe we have made a mistake, you may contact us to appeal our decision through our consumer request form here (select “Submit a Personal Information Request”).
+
+California Privacy Rights Metrics
+Metrics about requests we received under the California Consumer Privacy Act are available here.
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. Each time we update this Privacy Notice, we will indicate when it was most recently updated.
+
+If you have any questions or comments about this Privacy Notice, please:
+
+Write to:
+Fannie Mae
+Attention: Privacy Oﬀice
+1100 15th Street, NW
+Washington, DC 20005
+
+Or E-mail the Privacy Office
+
+Last Updated: December 19, 2025
+
+Under the California Consumer Privacy Act ("CCPA"), Fannie Mae is required to provide any California resident who is our job applicant with a notice related to "personal information" we collect about you. This notice contains disclosures required by the CCPA and applies only to personal information that is subject to the CCPA.
+
+Note that we may also collect information about you that is unrelated to your application to our company, if you are a consumer of our services. More information about our privacy practices and your rights as a consumer under state privacy laws, including the CCPA, is available in the above sections of our Privacy Notice, including the State Privacy Notice Addendum.
+
+Information We Collect and Disclose
+We collect and disclose the following categories of personal information about our job applicants who are California residents:
+
+- Personal and online identifiers (such as first and last name, email address, Social Security number, driver's license number, or unique online identifiers);
+
+- Characteristics of protected classifications under California or federal law (such as race, sex, or gender);
+
+- Internet or other electronic network activity information (such as interactions with a website or email);
+
+- Geolocation information (such as address);
+
+- Professional or employment-related information (such as your employment history and resume);
+
+- Education information (such as your education history and information included in transcripts);
+
+- Audiovisual information (such as audio or video collected through recordings);
+
+- CCTV footage and system and building login and access records
+
+- Inferences drawn from the above information about your predicted characteristics and preferences; and
+
+- Other information about you that is linked to the personal information above.
+
+Some of the information described above, such as Social Security number and race, is also defined as "sensitive personal information" under the CCPA.
+
+Sources of Personal Information
+As permitted by law, we may collect personal information about job applicants from the following categories of sources:
+
+- You;
+
+- Employment references;
+
+- Recruiters, including individuals who refer you to Fannie Mae;
+
+- Service providers;
+
+- Social media companies;
+
+- Educational institutions;
+
+- Background check providers; and
+
+- Consumer reporting agencies.
+
+Categories of Third Parties to Which We Disclose Personal Information
+We may disclose the personal information we collect to the following categories of recipients:
+
+- Service providers. We disclose the personal information we collect to our service providers, such as those who help us manage the application process;
+
+- Recruiters. We may disclose personal information to recruiters, such as to convey the status of your application;
+
+- Employment references. We may disclose personal information to references, such as to confirm the information you provided to us;
+
+- Background check providers. As legally permitted, we may disclose personal information to background check providers to obtain a background check; and
+
+- Government entities. As legally required, we may provide personal information to government entities.
+
+We do not sell the personal information we collect about job applicants or share such information for targeted advertising purposes.
+
+Why We Collect, Use, and Disclose California Job Applicants' Personal Information
+We use and disclose the personal information we collect about job applicants to the categories of recipients listed above. Our business and commercial purposes for using and disclosing this information include, without limitation:
+
+- Processing, evaluating, and communicating with you about your application, including to check references and communicate with you about other jobs that may interest you.
+
+- Other business purposes as identified in the CCPA, which include:
+
+- Auditing related to our interactions with you;
+
+- Legal compliance;
+
+- Identity verification;
+
+- Detecting and protecting against security incidents, fraud, and illegal activity;
+
+- Debugging;
+
+- Performing services (for us or our service provider) such as analytics;
+
+- Internal research for technological improvement;
+
+- Internal operations;
+
+- Activities to maintain and improve our business; and
+
+- Other one-time uses.
+
+How Long We Retain Personal Information
+If you are hired, Fannie Mae will keep personal information about you for the duration of your employment with Fannie Mae and as otherwise required by law. If your application is not successful, we may retain and use your personal information for a further fixed period in accordance with our record retention protocols in order to consider you for other job opportunities where permitted by applicable law and/or for as long as necessary to comply with legal requirements.
+
+Your Rights
+As a California resident, you have certain rights under the CCPA related to personal information Fannie Mae collects about you. You may be able to exercise the following rights, subject to certain exceptions and limitations:
+
+- The right to know the categories and specific pieces of personal information we collect, use, and disclose about you, the categories of sources from which we collected personal information about you, our purposes for collecting or disclosing personal information, and the categories of third parties with which we have disclosed personal information;
+
+- The right to request that we delete the personal information we have collected from you.
+
+- The right to correct inaccurate personal information we maintain about you.
+
+- The right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
+
+While the CCPA provides an opt-out opportunity related to sensitive personal information, Fannie Mae uses and discloses sensitive personal information, as defined under the CCPA, only for purposes permitted by the CCPA that do not require an opt-out opportunity.
+
+To exercise any of the above rights, please contact Fannie Mae using the following information and submit the verifying information, as further described below:
+
+- Through our consumer request webform here (select “Submit a Personal Information Request”).
+
+- By calling our toll-free number at 1-800-2FANNIE (1-800-232-6643).
+
+Verification Process and Required Information
+In some cases, we may need to request additional information from you to verify your identity or understand the scope of your request. Generally, we verify your identity by matching the information provided in your request with the information we maintain in our records.
+
+Authorized Agent
+You may designate an authorized agent to submit a request on your behalf. In order to designate an authorized agent to make a request on your behalf, you must provide the agent with signed permission to do so and provide proof of your identity, or the agent must have a valid power of attorney. An authorized agent can make a request on your behalf through one of the submission methods noted above. In order for us to process the request, the authorized agent will be required to provide evidence of signed permission and your e-mail address to verify your identity, or proof of valid power of attorney.
+
+#### Related Links
+
+Terms and Conditions
+
+Biometric Information Retention Notice
+
+##### Our Company
+
+- About Us
+
+- Contact Us
+
+- Careers
+
+- Investor Relations
+
+- Newsroom
+
+- Data and Insights
+
+- Corporate Responsibility
+
+- Suppliers
+
+- Developer Portal
+
+##### Single-Family Business
+
+- Applications & Technology
+
+- Mortgage Products
+
+- Selling Guide
+
+- Servicing Guide
+
+- Ask Poli®
+
+- Learning Center
+
+- Fannie Mae Connect
+
+- Technology Manager
+
+- Homepath - Search for Homes
+
+##### Multifamily Business
+
+- Applications & Technology
+
+- Multifamily Products
+
+- Specialty Financing
+
+- DUS Gateway®
+
+- Loan Documents
+
+- Multifamily Selling and Servicing Guide Forms
+
+- Multifamily Affordability Estimator
+
+- Financial Information
+
+- Learning Center
+
+##### Capital Markets
+
+- News & Commentaries
+
+- Mortgage-Backed Securities
+
+- Structured Transactions
+
+- Credit Risk Transfer
+
+- Debt Securities
+
+- Tools & Applications
+
+##### Renters, Buyers, & Owners
+
+- All Calculators & Tools
+
+- Mortgage Calculator
+
+- Manage Financial Uncertainty
+
+- Contact a Housing Counselor
+
+- Loan Lookup Tool
+
+- HomeView® Homeownership Certificate Course
+
+- Credit Basics
+
+- Make Your Rent Count

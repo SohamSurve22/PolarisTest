@@ -1,0 +1,358 @@
+Privacy and Security
+
+# Privacy Policy
+
+Privacy policy PDF
+
+This policy explains how Thrivent collects, uses, discloses, and protects your information. California consumers should review the Information for California Residents section for information and rights specific to you.
+
+### Scope
+
+This privacy policy is being provided by Thrivent and select affiliates, collectively referred to in this policy as "Thrivent" except where noted otherwise.
+
+This policy applies to individuals who provide information to Thrivent or about whom Thrivent collects information. If you are a prospective, existing, or past Thrivent customer and have been provided with a copy of our Privacy Notice(s) at any time, any personal information collected as part of that customer relationship will be used in accordance with our Privacy Notice(s).
+
+This policy does not address personal information collected for workforce-related inquiries or transactions. For additional details about the use of personal information for workforce matters, please refer to the Workforce Privacy Policy.
+
+### Information we collect, use & disclose
+
+We collect two basic types of information:
+
+- Personal Information (information that can be used to identify you as an individual).
+
+- Including categories of sensitive personal information, as described below.
+
+- Anonymous Information (information collected about your behaviors, but that doesn't identify you).
+
+By expanding each of the categories below, you can gain insight into the types of information we collect, collection sources, the business purpose for collection, and when it is disclosed.
+
+In addition to the detail provided below, Thrivent may collect and use any and/or all of the information in the referenced categories for specific purposes or processes, such as:
+
+- Collection and retention of written correspondence, such as freeform text fields on our website, or any email sent to Thrivent or a Thrivent financial advisor. This is to comply with legal obligations. Additional uses of the content of any written correspondence are discussed below.
+
+- Collection and processing of information using artificial intelligence (AI) and algorithms, including machine learning, or robotic process automation (RPA), to streamline internal business processes and for marketing activities.
+
+Within the scope of this Privacy Policy, any information collected is retained according to Thrivent's record retention policy and applicable laws and regulations.
+
+### Identifiers
+
+Description of information collected
+This includes real name, postal address, IP address, email address, phone number, unique visitor ID, or other similar identifiers. If you log into the Thrivent website or use our mobile application, we may also collect your Thrivent ID and/or user ID.
+
+Source of information
+Most identifiers are collected directly from you. Identifiers may also be provided by data brokers. An IP address is obtained from your device as you interact with Thrivent online through our website and mobile application.
+
+Purpose of collection
+Identifiers are collected so that we can perform services for you, such as fulfilling an order, creating an account, honoring your request for contact, confirming your identity, or registering you for an event. Identifiers may also be collected to provide you with relevant advertising.
+
+If you register for access to any of our websites or mobile applications, we will ask that you provide, among other things, Thrivent ID and/or any of the above identifiers. This is to verify your identity, and, when applicable, determine your eligibility to access certain content. During registration, you will be asked to create, and thereafter use, a designated User ID and password for logging into your secure online account. In addition, as part of our enhanced online login process for our websites and mobile application, we require you to provide your phone number so that you are able to receive, and then provide to us, a verification code. An email address will be required to enable use of a credential recovery, such as forgotten password or User ID. All information provided after login, such as transaction requests, will be collected and retained to meet legal, regulatory, and business purposes.
+
+Online identifiers, such as IP address, are collected so that Thrivent can gain insights to improve our business, as well as learn about opportunities to market other products and services that may be of interest to you. This information may also be collected and used for information security and privacy compliance purposes.
+
+Before downloading our mobile application, due to regulatory requirements you will be asked to provide your age range by the software platform provider. Thrivent does not collect or retain this information. Thrivent receives an indicator as to whether you are eligible to download the Thrivent mobile application.
+
+Disclosure of information
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing. It may also be provided to government agencies and regulators as required by applicable laws and regulations.
+
+For our website, your device's IP address may be collected and used by certain third parties who, through the use of cookies, perform behavioral tracking and advertising across multiple web pages and/or social media platforms. This information may also be disseminated within Thrivent’s affiliates.
+
+### Protected Classifications
+
+This includes data elements that provide insights into any one of many classes that are afforded special protections under the law. Thrivent may collect age, gender, race, religious affiliation, or other classification data.
+
+This information is collected from you directly, based upon your decision to engage with certain Thrivent initiatives or from our financial advisors. Certain classification data elements may also be provided to Thrivent by data brokers.
+
+This information is only collected so we can perform services for you. For example, we may request age and gender in order to process your request for a product quote. Your date of birth may also be used as part of one or more authentication processes.
+
+If you provide data as part of a quoting tool, your personal information will not be retained unless, at the end of the quote tool experience, you request to engage with Thrivent further.
+
+If you choose to participate in certain research efforts, you may be requested to provide age and gender for Thrivent to be able to group research participants into appropriate categories.
+
+Information provided by data brokers is used to segment marketing offers to applicable audiences, as is allowed by law. Certain data may also be used to test our processes for unfair discrimination.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Internet or Electronic Network Activity
+
+This includes items such as browsing history, search history, and information regarding your interactions with Thrivent's websites, mobile application, email applications, or advertisements.
+
+This information is collected via cookies, software development kits, web beacons, and other online scripts and applications, which, generally, are used for aggregate/anonymous behavioral tracking. However, after you log in to one of our websites or mobile applications or take some other affirmative action that personally identifies you online, this otherwise aggregate information may then be associated to you personally. In addition, if you open any emails from Thrivent, your behaviors (emails opened, links clicked, reading time, etc.) are associated back to your unique email address.
+
+This information is obtained from your device as you interact with Thrivent on our websites, mobile application, through emails we send you, or through our advertisements.
+
+In general, this information is collected for internal research to measure consumer interaction with Thrivent online. However, once associated to you personally, this information may be used for targeted marketing or to create a consumer profile, discussed in more detail below.
+
+This information may be disclosed within Thrivent for research and analytics purposes, and to service providers and contractors who perform services on behalf of Thrivent, including marketing. In addition, other third parties, who are not service providers or contractors, may collect this information to perform targeted marketing. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Geolocation
+
+Geolocation data can reflect where you are located. Thrivent may collect your device's IP address, which is registered to a geographic location. This is not linked directly back to your residential address, but to a general access location.
+
+This information is obtained from your device, as you interact with Thrivent online through our website and mobile application.
+
+Thrivent uses this geographic location information for security and privacy purposes, to ensure only IP addresses located in authorized geographical locations can access Thrivent’s website and mobile application. Geolocation may also be used to provide advertising offers to users located in specific geographic regions.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing and analytics. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Sensory
+
+This would include audio, electronic, visual, thermal or olfactory information. Thrivent will only collect your voice, as part of a call recording if you contact one of our call centers, or your likeness, in the form of photos or videos, if you choose to participate in one or more contests or campaigns that solicit that information. If you participate in a virtual meeting with Thrivent or a Thrivent agent, video, transcription, and voice functionality may be used and the meeting may be recorded. You will be provided notice if the meeting is recorded. Specific to the mobile application, you may choose to provide an optional photo of yourself. This photo is stored locally to the mobile application and is deleted if you delete the mobile application from your device.
+
+This information is only collected from you directly, based upon your decision to engage with certain Thrivent initiatives or individuals.
+
+Call, transcription, and video recordings are captured for business purposes. Photos and videos are collected as a requirement to participate in select campaigns or contests. We will use that submission only for the purposes outlined in the respective contest’s or campaign’s rules/terms and conditions. Specific to the mobile application, you may choose to provide an optional photo of yourself to enhance your application experience.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Other Personal Information
+
+This category covers personal information not included in other categories such as financial information and medical information.
+
+Examples of information collection in this category may include:
+
+- High-level financial indicators as part of a research initiative or through an online budget or quoting tool.
+
+- If you are onsite at a Thrivent facility or event, we may request vaccine status, immunization records, or related test results.
+
+- Through our mobile application you may choose to provide information concerning your motivations, financial priorities, or other information through the financial personality snapshot tool. This information will not be stored, but a correlating identifier as to your answer will be stored with the mobile application. This information is not retained after you delete the mobile application from your device.
+
+This information is collected from you directly, based upon your decision to engage with certain Thrivent initiatives, including in-person participation, or through our applications. High-level financial indicators may also be provided to Thrivent by data brokers.
+
+This information allows us to group participants into appropriate categories, for research or other analysis purposes. In some cases, such as vaccine-related inquiries, this information is necessary for us to ensure the safety of our workforce and guests, and to comply with applicable law such as Occupational Safety and Health Administration (OSHA) requirements.
+In other situations, this information is necessary for you to effectively engage with our tools and services. If you provide data as part of a quoting tool, your personal information will not be retained unless, at the end of the quote tool experience, you request to engage with Thrivent further.
+
+Information provided by data brokers is used for research, analytics, and to segment marketing offers to applicable audiences, as is allowed by law.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Consumer Profile
+
+We may collect any or all the information in the above-referenced categories to create a consumer profile for you. This may include your preferences, trends or behaviors.
+
+Information collected may be processed using artificial intelligence (AI), machine learning, or algorithms, including for advertising and marketing purposes.
+
+Information used to create a profile may include information collected from you directly, from data brokers, and the information that is obtained from your device, as you interact with Thrivent online or via the mobile application.
+
+We collect this information for research and analytics purposes and so we can provide you with products and services we believe would be of interest to you. Also, when your consumer profile information is combined with others like you, we can understand similar behaviors and trends which helps propel our business strategy to assist you in the future.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing. It may also be provided to government agencies as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Sensitive personal information
+
+Sensitive Personal Information is a subset of personal information. This could include one or more of the following examples: (A) Social Security number (SSN), driver's license, state identification card, or passport number; (B) account login, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; (C) precise geolocation; (D) racial or ethnic origin, citizenship or immigration status, religious or philosophical beliefs, or union membership; (E) the contents of mail, email and text messages, unless Thrivent is the intended recipient of the communication; (F) genetic data; (G) biometric information; (H) health information; or (I) sex life or sexual orientation. Thrivent may collect racial or ethnic origin, religious affiliation, the contents of mail, email, and text messages where Thrivent is the intended recipient of the communication, and/or other Sensitive Personal Information when there is a business reason to do so.
+
+This information is collected from you directly, based upon your decision to engage with certain Thrivent initiatives, and potentially from your device, as you interact with Thrivent online or through the mobile application. Certain Sensitive Personal Information may also be provided to Thrivent by data brokers or through other sources.
+
+Many of these data elements, such as SSN and health information, are collected as part of our customer relationships, and treatment of that information is addressed in our Privacy Notice. For those who have not received our Privacy Notice, Sensitive Personal Information, such as religious affiliation, may be collected to determine your eligibility for Thrivent products. (Thrivent is a Fraternal Benefits Society and commitment to our common bond—religious affiliation—is required of all current and potential Thrivent members.) Other information may be necessary to ensure that certain documents and restricted areas are accessed only by authorized personnel.
+
+In addition, as stated previously, Thrivent will collect and retain all written correspondence, such as freeform text fields on our website and any email, text message, or postal mail sent to Thrivent or a Thrivent financial professional.
+
+Information from data brokers and other sources is used for research and analytics, and to segment marketing offers to applicable audiences, as is allowed by law. Certain data may also be used to test our processes for unfair discrimination.
+
+This information may be disclosed to service providers and contractors who perform services on behalf of Thrivent, including marketing, as allowed by applicable laws and regulations. It may also be provided to government agencies and regulators as required by applicable laws and regulations. This information may also be disseminated within Thrivent’s affiliates.
+
+### Anonymous
+
+When you visit our website or mobile application, we collect data about your activities that does not personally or directly identify you. We may use a variety of technologies that automatically or passively collect aggregate information about how our websites or mobile applications are accessed and used (“Usage Information”). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the website or mobile application.
+
+Similar Usage Information is collected when you use a web or mobile browser to click on a Thrivent advertisement provided by a third-party search engine.
+
+This information is obtained from you or your device, as you interact with Thrivent electronically.
+
+Thrivent uses this Usage Information to help ensure a safer online or mobile environment for all visitors, for general aggregate visitor analysis and statistical research, to increase visitor satisfaction in their online or mobile application experience with Thrivent, and to aid in problem resolution if technical difficulties occur using our website or mobile application. This information may also be used to gather marketing insights; visitor engagement with certain functionality allows Thrivent to understand whether our marketing initiatives are reaching the desired audiences.
+
+Email content may be analyzed to determine what is important to you and how you feel about Thrivent generally. This is often referred to as “Sentiment Analysis.”
+
+Thrivent may disclose this information to service providers and contractors to provide hardware, software, networking, storage, support, or related technology required to run our websites or mobile applications. In addition, we use service providers and contractors to act as a data processor of any collected data. The service providers and contractors will aggregate anonymously collected data to improve the usability of the website or mobile application. The service providers and contractors will also store any collected data for later retrieval by Thrivent to review aggregate analytics. This information may also be disseminated within Thrivent’s affiliates.
+
+### How can you update your personal information?
+
+If you are a registered user of any of our websites or mobile applications, with the exception of the Thrivent Advisor Network (TAN) Gateway, you can update or correct some of your personal information, including your email address and phone number, through your online personal profile or by calling Thrivent at 800-847-4836. To update your profile online, log in to the secure area of the website or mobile application and follow these instructions.
+
+- On thrivent.com, click the drop-down menu by your name and select “Profile and Settings”. Select "Personal information," click "Edit" and update the information you’d like to update. Click "Save" to submit your changes.
+
+- Within Thrivent’s mobile application, tap the menu button (three horizontal lines) in the top left corner of the home screen and click “Profile and Account”. Tap on any of the fields to edit your personal information then click “Save” to submit your changes.
+
+If you are a California resident, you may also update or correct your personal information by submitting a request here. For all other requests to update personal information, Thrivent clients can contact our client service professionals at 800-847-4836 and TAN clients can call 800-688-6062. We are available to answer calls between the hours of 7 a.m. and 6 p.m., Central time Monday through Friday.
+
+Concerning information provided through the Thrivent Newsroom, please email mediarelations@thrivent.com to update your personal information.
+
+### How do you opt out of data disclosures & marketing?
+
+Thrivent consumers may opt out of data disclosures and marketing by writing to:
+
+Thrivent
+4321 N. Ballard Rd
+Appleton, WI 54919-0001
+
+or by calling us toll-free at 800-847-4836.
+
+TAN clients can opt out of data sharing and marketing by writing to:
+
+Thrivent Advisor Network, LLC
+600 Portland Ave. S., Ste. 100
+Minneapolis, MN 55415-4402
+
+or by calling toll-free 800-688-6062.
+
+If you are a registered user of thrivent.com with a Thrivent ID, you can also update your preferences online. To change your data sharing and marketing preferences via thrivent.com:
+
+- Log in to a secure area (such as My Thrivent) and click drop down menu by your name and select “Profile and Settings”.
+
+- For data sharing preferences, select “Information sharing” and update the applicable preference option(s).
+
+- For marketing preferences select "Communication preferences" and select your preference option(s).
+
+- Click "Save" to have your changes recorded.
+
+Opt-out options
+
+If you wish to opt out of data disclosures or marketing, you may select one or more of the following options:
+
+- Tell us not to share data about you with our affiliates. However, we may still share transactional and experiential data including the existence of your products, services or benefits, as well as data about you as needed by our fraternal operations.
+
+- Direct us not to share data about you with non-affiliates so they can market to you. For known residents of California, Massachusetts, Minnesota, North Dakota, New Mexico and Vermont: we do not share data about you with nonprofit organizations unless you specifically provide us consent to do so.
+
+- Direct us not to share data about you with other financial institutions with which we have joint marketing agreements.
+
+- Request we remove your name from some or all of our internal marketing lists. You should know that our regular service mailings may still contain marketing materials. If you have opted in to receive electronic service notifications and/or confirmations, you will continue to receive such emails.
+- For email marketing that you are already receiving, please choose "unsubscribe" within the email itself to opt-out of future email marketing.
+
+- If you wish to no longer receive text messages, please visit this website to identify opt-out options available for the type of text messages you are receiving.
+
+Concerning the Thrivent Newsroom, contact us at mediarelations@thrivent.com or unsubscribe from requested emails by unsubscribing here.
+
+### What is our policy for children?
+
+Your children's safety is important to us. We have developed our privacy guidelines in compliance with the requirements outlined by the Federal Trade Commission Children's Online Privacy Protection Act (COPPA). See the FTC site for additional information on COPPA. Online and mobile application registration will not be accepted if the birth date indicates the individual is under the age of 16. Additionally, no information should be submitted to or posted on our websites or applications by children under 16 years of age without the consent of their parent or guardian. In certain states, due to regulation, our mobile application is not available for users under the age of 18.
+
+### Information for California residents
+
+This section applies to California residents who are considered consumers under the California Consumer Privacy Act as modified by the California Privacy Rights Act (collectively, the “CCPA”)—you have the right to know about the personal information we collect, use, and disclose, the right to correct any inaccurate personal information we have about you, and the right to request we delete your personal information. This section does not apply to California consumers who are Thrivent customers, where the information we collect, use, and disclose is addressed by the Gramm-Leach-Bliley Act, the California Financial Information Privacy Act, the Health Insurance Portability and Accountability Act of 1996 and the Health Insurance Technology for Economic and Clinical Health Act, or the Confidentiality of Medical Information Act. If you are a Thrivent customer, please refer to our Privacy Notice or our Health Information Privacy Notice for a description of your rights.
+
+Sale and Sharing of Personal Information.
+Thrivent does not sell or share, under definitions provided in the CCPA, the personal information of any California consumers without your consent. You can opt-in to our sharing or selling your personal information by accepting Targeting Cookies on our websites.
+
+Sensitive Personal Information.
+While Thrivent may collect sensitive personal information as described in this Privacy Policy, we do not use that information to infer characteristics about a consumer. Therefore, no additional rights are provided to California consumers regarding the use of sensitive personal information.
+
+Disclosure of Personal Information
+As provided throughout this Privacy Policy, all categories of personal information may be disclosed for a business purpose. Generally, this involves disclosure under the following circumstances: auditing, compliance with a regulatory inquiry, detecting and preventing security incidents, technical functionality improvements, and service providers and contractors who perform services on Thrivent's behalf, such as processing payments, verifying customer information, and marketing and analytical services.
+
+Minors under 16. We do not knowingly sell or share the personal information of minors under the age of 16.
+
+Rights Granted.
+Under the CCPA, California consumers or their authorized agents, may exercise the following rights:
+
+- Right to know. You may request that we disclose to you:
+
+- the categories of personal information we collected about you,
+
+- the categories of sources from which your personal information is collected.
+
+- the business or commercial purpose for collecting your personal information.
+
+- the categories of third parties to whom we disclose your personal information.
+
+- the specific pieces of personal information we have collected about you.
+
+- Right to opt out of sale or sharing. We do not sell or share your personal information with third parties, as defined in the CCPA without your consent. If you consent to our selling or sharing your personal information by accepting Targeting Cookies on our websites, you can opt-out by either 1) accessing our Cookie Settings link available in the footer of our websites and toggling off Targeting Cookies, or 2) clearing the cookies in the browser(s) used on the device(s) you use to access our websites.
+
+- Right to correct. You may request correction of inaccurate personal information.
+
+- Right to delete. You may request the deletion of personal information we collected about you, which we will comply with unless it is necessary for us to retain the information, in accordance with exceptions provided by law or regulations.
+
+To make any of the above requests, please click here (Link opens in new window) or call us at 800-847-4836 extension 628-2359.
+
+Antidiscrimination.
+We will not discriminate against you if you choose to exercise any rights prescribed to you by law or regulations.
+
+Authorized Agents.
+While an authorized agent may act on behalf of a California consumer, we may request written permission from the consumer before honoring any requests made by an authorized agent. Identity verification, noted below, will still need to be completed by the consumer directly.
+
+Verification. If there is a need to verify your identity prior to releasing information pursuant to your request, we will contact you at the phone number you provided in your request submission. At that time, we will conduct additional authentication to ensure that only those people who have a legal right to obtain information can do so.
+
+### Online technology
+
+### Do we use cookie technology?
+
+Cookies are a technology storage mechanism. Specific pieces of information, some of which may be personal, such as IP address, are contained within a cookie. Most often though, the cookie will contain anonymous unique identifiers given to your web browser by a web server. The browser stores the cookie on your device. The cookie, and any information contained within it, is sent back, via a web beacon, to the server each time your browser requests that site.
+
+Thrivent's websites use cookie technology. The information within the cookie might be about you, your preferences, or your device, but mostly, cookies are used to make the site work as you would expect it.
+
+We generally employ four types of cookies.
+
+- Strictly Necessary Cookies: These cookies are necessary for the website to function and are always active. They help maintain the security and efficiency of the site.
+
+- Performance Cookies: These cookies allow us to count visits and traffic to our sites so we can improve the performance of the site. They may be set by us or by third party providers whose services we have added to our pages. All information these cookies collect is aggregate and anonymous until you log in to our website.
+
+- Functional Cookies: These cookies allow our website to provide you with customized services or personalization and increase the quality of your online experience. These cookies may be set by us or a third party on our behalf. Any personally identifiable information collected and stored by these cookies is for our internal business purposes only.
+
+- Targeting Cookies: Third parties may use cookies to recognize your device and display relevant advertisements on other sites. Personally identifiable information collected and stored by these cookies may be sold or shared to one or more third parties. Additionally, social media cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools. Where legally required, your consent will be required before allowing advertising and social media cookies to be active.
+
+For security reasons, cookies are not used for automatic access to secure areas on Thrivent’s websites. You need to type your user ID and password/passphrase each time you log in to a secure access area. As part of login processes on our sites, your device may be remembered. In these cases, a cookie will be placed on your computer.
+
+Keep in mind that cookies:
+
+- Cannot be used to reveal your email address obtained from your hard drive or learn confidential or personal information about you that you have not already explicitly revealed.
+
+- Cannot read data off your hard drive or read cookie files created by other sites.
+
+- Are not executable programs and cannot damage your computer or files on your device.
+
+### How can you set or delete your computer's cookies?
+
+You can set your computer's browser to opt-out of receiving and storing cookies, however, doing so may limit your access to certain sections of our site. You also can delete cookies stored on your computer's browser. Clearing your browser's cookies, or toggling off cookies in the Cookie Settings link where such option is available, are the only ways to change the Thrivent cookie settings you may have previously elected or opted out of.
+
+If you have previously selected to have one of our sites remember your device, deleting cookies will disable this feature. The process to set or delete cookies differs by browser. See your browser's Help feature or contact the manufacturer for instructions on how to set/delete your browser's cookie options.
+
+### Do we use web beacons?
+
+Web beacons (also known as web bugs, pixels, and page tags) are the mechanism with which cookies, and their data, are transferred across the internet. In other words, web beacons and cookies work in conjunction with each other to monitor the behavior of site visitors. Thrivent uses web beacons on its websites and in email communications for aggregate statistical purposes and marketing conversion tracking.
+
+The only way to decline the use of web beacons as part of email deliver is to opt out of receiving emails from Thrivent entirely.
+
+### How do we respond to "Do Not Track" signals?
+
+Thrivent does not respond to "Do Not Track" signals. On our websites, notification is provided concerning cookies and tracking of information. For website users from California, where information may be disclosed to a third party who is not a service provider or contractor, consent is required prior to disclosing such information. On our mobile application, no information is disclosed to third parties who are not a service provider or contractor.
+### How do we secure the information we collect?
+
+Thrivent has implemented information security standards that include physical, technical, and administrative safeguards. The technology we use to protect your personal information is reviewed and improvements are implemented as needed.
+
+Authorized employees and representatives are permitted to access and use information about you for approved business purposes. All employees and representatives must complete all required training to ensure they understand and follow established policies and laws when using your information.
+
+Your information may be accessible by service providers and contractors for the purpose of enabling them to provide the services we have contracted with them for. Our websites and mobile application service providers and contractors have an obligation to maintain the confidentiality of the information they receive from us, except where disclosure is required by law.
+
+### Do we use encryption technology?
+
+Several areas on Thrivent’s websites and mobile application have been built to handle confidential information. These pages utilize Internet methods known as Secure Socket Layers (SSL) or Transport Layer Security (TLS). With either SSL or TLS, pages are sent to you in an encrypted (scrambled) format and any information you submit to Thrivent is also encrypted. Encryption is the transformation of data into a form unreadable by anyone who doesn’t have the appropriate decryption key. This method of transferring confidential data is considered the industry standard for the Internet.
+
+For added security, always log off Thrivent’s websites and then close your browser. This ensures that open sessions are terminated. While you are on the Internet, your browser is using part of your computer's memory. If your browser is left open, it may be possible for someone using your computer to go back and use this memory to access your information. By closing your browser this action will clear this memory. Another action to consider would be to clear your browser’s temporary files and history.
+
+For your security, we highly recommend maintaining an updated browser version that supports SSL or TLS. Microsoft Edge, Google Chrome, Mozilla Firefox and Apple Safari are four browsers that support these encryption techniques. A solid lock graphic will display when the SSL or TLS mode is engaged to reflect the connection is encrypted. If you are not sure if your browser is compatible, check with your service provider.
+
+Thrivent has taken steps to make all information you provide to us as secure as possible against unauthorized access and use, alteration, and/or loss. You should keep in mind that no data transmission over the Internet is 100% secure and any information disclosed online can potentially be intercepted and used by unauthorized parties.
+
+### What about links to other websites from Thrivent's site?
+
+Thrivent's websites and mobile application contain links to several other external sites. We cannot guarantee the safety and privacy of the information you provide to these linked sites. Any data or personal information collected by sites other than Thrivent are not covered by this Privacy Policy.
+
+### Data processing
+
+By using our website and/or submitting your personal information to us you agree to the transfer, storage, and processing of your information in the United States.
+
+### Questions or comments
+
+If you have questions or comments regarding our Privacy Policy, send a message using our online Connect With Us form, or send your written request to:
+
+Thrivent
+4321 N. Ballard Rd.
+Appleton, WI 54919
+
+Complaints can be sent to us at the address above.
+
+Notice of any material change to our Privacy Policy is given on this website's home page.
+
+This Privacy Policy is effective as of December 5, 2014. Updates are current as of August 2026.
+
+11.1.1

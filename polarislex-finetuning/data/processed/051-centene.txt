@@ -1,0 +1,329 @@
+Skip to Main Content
+
+# Privacy Policy
+
+LAST UPDATED: February 21, 2025
+
+1. Sources of Personal Data
+
+2. Types of Personal Data We Collect
+
+3. How We Use Personal Data
+
+4. How We Disclose Personal Data
+
+5. Cookies and Other Tracking Technologies
+
+6. Other Choices
+
+7. Data Security and Data Retention
+
+8. Children's Privacy
+
+9. External Links
+
+10. Contact Information
+
+11. Supplemental Information for Residents of California and Other U.S. States
+
+12. Disclosure of Personal Data
+
+Centene, together with its subsidiaries and affiliates (collectively, "Company" "us," "we," or "our") is committed to protecting the privacy of Personal Data (i.e., information reasonably related to a specific individual). This Privacy Notice describes how we process Personal Data collected through our websites, social media accounts, mobile applications, and other online interactions and communications such as email (collectively, our “Digital Properties”); in-person events and purchases; and other online and offline interactions.
+
+Please read this Privacy Notice carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Digital Properties. By accessing or using the Digital Properties, you agree to this Privacy Notice. This policy may change from time to time. Your continued use of the Digital Properties after we make changes is deemed to be acceptance of those changes.
+
+Scope: This Privacy Notice applies to information we collect about individual consumers, such as general website visitors (“Individuals”), as well as information we collect about the personnel of our business partners, including healthcare providers and vendors, in business-to-business interactions (“Business Contacts”). However, this Privacy Notice does not apply to the following information:
+
+- Information about our own employees, contractors, agents, or job applicants collected in the employment-related context.
+
+- Protected health information subject to the Health Insurance Portability and Accountability Act (“HIPAA”). In such cases, we are bound by more stringent legal and contractual obligations.
+
+Whenever you interact with us on behalf of another individual or entity, such as if you refer a friend to us, you must obtain their consent (or have the legal authority without consent) to share their Personal Data with us.
+
+Changes: We may update this Privacy Notice from time to time. Any updated Privacy Notice will be effective when posted. If required by law, we will contact you directly to provide you with an updated Privacy Notice. The date the Privacy Notice was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this Privacy Notice to check for any changes.
+
+## 1. Sources of Personal Data
+
+We collect Personal Data about you from the following sources:
+
+A. Directly from you. We may collect Personal Data you provide to us directly, such as when you contact us through our Digital Properties, submit orders, complete questionnaires or surveys, or sign up for newsletters through our Digital Properties.
+
+B. Data collected automatically and through tracking technologies. We automatically collect information in order to provide you with access to our Digital Properties. Further, we may automatically collect information or inferences about you, such as through cookies and other tracking technologies, when you interact with our Digital Properties. This may include information about how you use and interact with our Digital Properties, information about your device, and internet usage information.
+
+C. From third parties. We may collect Personal Data from third parties, such as service and content providers, our affiliated companies and subsidiaries, business partners, data brokers, referral partners, social media companies or other parties who interact with us.
+
+D. From publicly available sources. We may collect Personal Data about you from publicly available sources, such as from information you may have posted on public profiles and websites.
+
+We may combine information that we receive from the various sources described in this Privacy Notice, including third party sources, and use or disclose the combined information for the purposes identified below.
+
+## 2. Types of Personal Data We Collect
+
+We may collect the following types of Personal Data about you. Except as otherwise specified, we may collect this Personal Data from both Individuals and Business Contacts:
+
+A. Identifiers, such as your name, email address, physical address, telephone number, business contact information, and device identifiers (e.g., cookie IDs, device IDs, operating system and browser information, and IP address).
+
+B. Records about you, such as the content, timing and method of communications you have with us, such as online chats, calls, and emails; and information you share with or upload to our Digital Properties.
+
+C. Demographic information, such as age (including birthdates), gender, and marital status.
+
+D. Commercial information, such as information about services you or your employer has purchased.
+
+E. Internet or other electronic network activity information, such as your browsing history, search history, preference information (including marketing preferences), account settings (including any default preferences), and other information regarding your interactions with and use of the Digital Properties. For more information about cookies and other device data, please see Section 5 (Cookies and Other Tracking Technologies).
+
+F. Non-precise geolocation data, such as your location as derived from your IP address.
+
+G. Audio, electronic, visual, or other sensory information, such as photographs.
+
+H. Professional or employment-related information (for Business Contacts), such as job title; organization; professional licenses, credentials, or affiliations; and other professional information.
+
+I. Inferences drawn from any of the information we collect about your preferences or behavior, including to assess the level of interest in our services based on frequency of visits.
+
+J. Sensitive Personal Data, including information about your health.
+
+## 3. How We Use Personal Data
+
+We may use Personal Data for the following purposes:
+
+A. To provide our Digital Properties and other services, such as maintaining our Digital Properties and making other services available to you; registering, verifying, and maintaining your account with us; providing and delivering the services you request; providing customer service; providing updates on our products and services; processing or fulfilling orders and transactions (including processing payments); communicating with you (including soliciting feedback or responding to requests, complaints, and inquiries); and providing similar services or otherwise facilitating your relationship with us.
+
+B. For our internal business purposes, such as day-to-day operation of our business; maintaining internal business records, such as accounting, document management and similar activities; enforcing our policies and rules; management reporting; auditing; and IT security and administration.
+
+C. For our internal research and product improvement purposes, such as improving our Digital Properties or other services; creating new Digital Properties or other services; evaluating the effectiveness of our advertising or marketing efforts; and debugging and repairing errors with our systems, networks, and equipment.
+
+D. For legal, safety or security reasons, such as complying with legal, reporting, and similar requirements; investigating and responding to claims against us, our personnel, and our customers; for the establishment, exercise or defense of legal claims; protecting our, your, our customers’, and other third parties’ safety, property or rights; detecting, preventing, and responding to security incidents and health and safety issues; and protecting against malicious, deceptive, fraudulent, or illegal activity.
+
+E. In connection with a corporate transaction, such as if we acquire assets of another business, or sell or transfer all or a portion of our business or assets, including through a sale in connection with bankruptcy and other forms of corporate change.
+
+F. For marketing and targeted advertising, such as marketing our products or services or those of our affiliates, business partners, or other third parties. For example, we may use Personal Data we collect to personalize advertising to you (including by developing product, brand, or services audiences and identifying you across devices/sites); to analyze interactions with us or our Digital Properties; or to send you newsletters, surveys, questionnaires, promotions, or information about events or webinars. You can unsubscribe to our email marketing via the link in the email or by contacting us using the information in Section 10 (Contact Information) below.
+
+We may use anonymized, de-identified, or aggregated information for any purpose permitted by law.
+
+## 4. How We Disclose Personal Data
+
+We may disclose Personal Data to third parties, including the categories of recipients described below:
+
+A. Affiliates and subsidiaries, including parent entities, corporate affiliates, subsidiaries, business units, and other companies that share common ownership.
+
+B. Service providers that work on our behalf to provide the products and services you request or support our relationship with you, such as IT providers, internet service providers, web hosting providers, data analytics providers, and companies that provide business support services, financial administration, or event organization.
+
+C. Professional consultants, such as accountants, lawyers, financial advisors, and audit firms.
+
+D. Vendors necessary to complete transactions you request, such as shipping companies and logistics providers.
+
+E. Law enforcement, government agencies, and other recipients for legal, security, or safety purposes, such as when we share information to comply with law or legal requirements; to enforce or apply our Terms and Conditions and other agreements or policies; and to protect our, our customers’, or third parties' safety, property, or rights.
+
+F. Other entities in connection with a corporate transaction, such as if we acquire assets of another entity, or sell or transfer all or a portion of our business or assets, including through a sale in connection with bankruptcy and other forms of corporate change.
+
+G. Business partners that may use Personal Data for their own purposes, such as:
+
+- Our customers;
+
+- Advertisers, ad platforms and networks, and social media platforms;
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies);
+
+- Commercial data partners to whom we make information available for their own marketing purposes; and Partners who work with us on promotional opportunities, including co-branded products and services.
+
+Where recipients use your Personal Data for their own purposes independently from us, we are not responsible for their privacy practices or Personal Data processing policies. You should consult the privacy notices of those third-party services for details on their practices.
+
+H. The public, such as when you have an opportunity to make comments regarding us or our products that we may share with the public, including comments on our blog posts and reviews on our product pages. Any Personal Data in comments, reviews, or other content that you share in public areas of our Digital Properties may be read, collected, or used by other users or the public.
+
+I. Entities to which you have consented to the disclosure.
+
+## 5. Cookies and Other Tracking Technologies
+
+Our Digital Properties and authorized third parties use cookies and other tracking technologies to collect information about you, your device, and how you interact with our Digital Properties. This section contains additional information about:
+
+- The types of tracking technologies we use and the purposes for which we use them;
+
+- The types of information we collect using these technologies;
+
+- How we disclose or make information available to others and choices you may have regarding these technologies.
+
+A. Types of cookies and tracking technologies we use
+
+We and the third parties that we authorize may use the following tracking technologies:
+
+- Cookies, which are a type of technology that install a small amount of information on a user's computer or other device when they visit a website. Some cookies exist only during a single session and some are persistent over multiple sessions over time.
+
+- Pixels, web beacons, and tags, which are types of code or transparent graphics. In addition to the uses described below, these technologies provide analytical information about the user experience and help us customize our marketing activities. In contrast to cookies, which are stored on a user's computer hard drive, pixels, web beacons, and tags are embedded invisibly on web pages.
+
+- Session replay tools, which record your interactions with our Digital Properties, such as how you move throughout our Digital Properties and engage with our webforms. In addition to the uses described below, this information helps us improve our Digital Properties and identify and fix technical issues visitors may be having with our Digital Properties.
+
+- Embedded scripts and SDKs, which allow us to build and integrate custom apps and experiences on our Digital Properties.
+
+B. Purposes for using these technologies
+
+We and authorized third parties use these technologies for purposes including:
+
+- Personalization, such as remembering language preferences and pages you have viewed in order to enhance and personalize your experience when you visit our Digital Properties;
+
+- Improving performance, such as maintaining and improving the performance of our Digital Properties;
+
+- Analytics, such as analyzing how our websites are used. For example, we use Google Analytics to help us improve the user experience. Google Analytics may use cookies and other tracking technologies to perform their services. To learn how Google Analytics collects and processes data, please visit: www.google.com/policies/privacy/partners ;
+
+- Advertising, such as conducting advertising and content personalization on our Digital Properties and those of third parties; tracking activity over time and across properties to develop a profile of your interests and advertise to you based on those interests (“interest-based advertising”); providing you with offers and online content that may be of interest to you; and measuring the effectiveness of advertising campaigns and our communications with you, including identifying how and when you engage with one of our emails;
+
+- Security, such as preventing fraud and malicious behavior.
+
+C. Information collected
+
+These tracking technologies collect data about you and your device, such as IP address, cookie ID, device ID, Ad ID, your approximate location based on IP address, operating system, device type, browser used, browsing history, search history, and information about how you interact with our Digital Properties (such as pages on our Digital Properties that you have viewed).
+
+D. Disclosures of your information
+
+We may disclose information to third parties or allow third parties to directly collect information using these technologies on our Digital Properties, such as social media companies, advertising networks, companies that provide analytics including ad tracking and reporting, security providers, and others that help us operate our business and Digital Properties.
+
+E. Your choices
+
+Some of the third parties we work with participate with the Digital Advertising Alliance ("DAA") and Network Advertising Initiative ("NAI"). The DAA and NAI provide mechanisms for you to opt out of interest-based advertising performed by participating members at http://www.aboutads.info/choices/ and https://optout.networkadvertising.org/. Opting out of interest-based advertising will not opt you out of all advertising, but rather only interest-based advertising from us or our agents or representatives.
+
+You can also refuse or delete cookies using your browser settings. If you refuse or delete cookies, some of our Digital Properties’ functionality may be impaired. Please refer to your browser’s Help instructions to learn more about how to manage cookies and the use of other tracking technologies. If you change computers, devices, or browsers; use multiple computers, devices, or browsers; or delete your cookies, you may need to repeat this process for each computer, device, or browser.
+
+Some browsers have incorporated Do Not Track (“DNT”) preferences.  At this time, we do not honor Do Not Track signals.
+
+## 6. Other Choices
+
+In addition to the choices related to cookies described above, you may exercise the following choices about how we use your Personal Data:
+
+A. Marketing Email Opt-out: We may send you emails about our products or services or other marketing emails from time to time. You can unsubscribe from these emails by clicking the unsubscribe link in the email. We may continue to send you important emails about our relationship with you, such as updates about your purchases.
+
+B. Mobile Apps: Our Digital Properties may include mobile applications. If you download a mobile application from us, you may be able to adjust the personal information we collect through the application, including as explained below.
+
+i. Location Information: Our mobile applications may collect location information. You may opt-out of sharing location information by adjusting the location settings on your mobile device. We may otherwise still collect information that estimates your location based on your IP address.
+
+ii. Push Notifications: Our mobile applications may offer automatic or “push” notifications. You may opt-out of push notifications by adjusting your device settings.
+## 7. Data Security and Data Retention
+
+Although we maintain reasonable security safeguards, no security measures or communications over the Internet can be 100% secure, and we cannot guarantee the security of your information.
+
+Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained in the Digital Properties.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Digital Properties, you are responsible for keeping this password confidential.
+
+Your Personal Data will be retained as long as necessary to fulfill the purposes we have outlined above unless we are required to do otherwise by applicable law. This includes retaining your Personal Data to provide you or your company with the services you have requested and interact with you; maintain our relationship with you; improve our business over time; ensure the ongoing legality, safety and security of our services and relationships; or otherwise in accordance with our internal retention procedures. Once you have terminated your relationship with us, we may retain your Personal Data in our systems and records in order to ensure adequate fulfillment of surviving provisions in terminated contracts or for other legitimate business purposes, such as to enable easier future user onboarding, demonstrate our business practices and contractual obligations, or provide you with information about our services in case of interest.
+
+## 8. Children's Privacy
+
+Our Digital Properties are intended for individuals 18 years of age and older. The Digital Properties are not directed at, marketed to, nor intended for, children under 18 years of age. As a general rule, we do not knowingly collect any information, including Personal Data, from children under 18 years of age. If you believe that we have inadvertently collected Personal Data from a child under the age of 18, please contact us at the address in Section 10 (Contact Information) below, and we will take prompt steps to delete the information.
+
+## 9. External Links
+
+Our Digital Properties may contain links to external sites or other online services that we do not control, including those embedded in third party advertisements or sponsor information. We are not responsible for the privacy practices or data collection policies of such third-party services. You should consult the privacy notices of those third-party services for details on their practices.
+
+## 10. Contact Information
+
+If you have questions regarding this Privacy Notice, please contact us at: privacy@centene.com
+
+## 11. Supplemental Information for Residents of California and Other U.S. States
+
+A. Data Subject Rights
+
+If you live in California, you may have certain rights regarding Personal Data:
+
+- Right to Know. You have the right to request information about the categories of Personal Data we have collected about you, the categories of sources from which we collected the Personal Data, the purposes for collecting, selling, or sharing the Personal Data, and to whom we have disclosed your Personal Data and why. You may also request the specific pieces of Personal Data we have collected about you.
+
+- Right to Delete. You have the right to request that we delete Personal Data that we have collected from you.
+
+- Right to Correct. You have the right to request that we correct inaccurate Personal Data that we maintain about you.
+
+- Right to Opt Out of Sales and Sharing for Targeted Advertising. You have the right to opt out of the sale of your Personal Data or the sharing of your Personal Data for targeted advertising.
+
+You may exercise the rights available to you via our webform at https://www.healthnet.com/content/healthnet/en_us/ccpa-form.html or by calling us 1 (800) 522-0088.
+
+In order to fully exercise the Right to Opt Out of Sales and Sharing for Targeted Advertising, you must undertake both of the following steps:
+
+- Submit a Right to Opt Out of Sales and Sharing for Targeted Advertising request through on our webform at https://www.healthnet.com/content/healthnet/en_us/ccpa-form.html.
+
+- Disable the use of cookies and other tracking technologies in the preference center. You must complete this step on each of our websites from each browser and on each device that you use. These steps are necessary so that we can place a first-party cookie signaling that you have opted out on each browser and each device you use. Please note:
+
+a. If you block cookies, we will be unable to comply with your request to opt out of sales and sharing for targeted advertising with respect to device data that we automatically collect and disclose to third parties online using cookies, pixels, and other tracking technologies.
+
+b. If you clear cookies, you will need to disable the use of cookies and tracking technologies in the preference center again on each browser on each device where you have cleared cookies.
+
+To the extent required by law, we will honor opt-out preference signals sent in a format commonly used and recognized by businesses, such as an HTTP header field or JavaScript object. We will process opt-out preference signals at the browser level.
+
+We will not discriminate against you for exercising your privacy rights.
+
+Verification: In order to process rights requests, we may need to obtain information to locate you in our records or verify your identity depending on the nature of the request. In most cases we will collect some or all of the following data elements: first and last name, email address, and telephone number. In some cases, we may request different or additional information, including a signed declaration that you are who you say you are. We will inform you if we need such information.
+
+Authorized Agents: Authorized agents may exercise rights on behalf of you by submitting a request via https://www.healthnet.com/content/healthnet/en_us/ccpa-form.html and indicating that they are submitting the request as an agent. We may require the agent to demonstrate authority to act on your behalf by providing signed permission from you. We may also require you to verify your own identity directly with us or to directly confirm with us that you provided the authorized agent permission to submit the request.
+
+Nevada Residents: Individuals may contact us at privacy@centene.com to inquire about their right to opt out of the sale of your Personal Data.
+
+B. Additional Data Processing Disclosures
+
+In addition to the disclosures above, this section provides supplemental information about how we process Personal Data.
+
+## 12. Disclosure of Personal Data
+
+Although we have not "sold" Personal Data for money in the past 12 months, we engage in routine practices with our Digital Properties involving third parties that could be considered a sale of Personal Data or sharing of Personal Data for targeted advertising, as those terms are defined under applicable laws. We do not knowingly sell or share for targeted advertising any Personal Data of minors under the age of 16.
+
+Below please find a chart detailing the categories of Personal Data we collected and with whom it was sold, shared, or disclosed for a business purpose in the past 12 months.
+
+| Categories of Personal Data We Collect
+| Categories of Third Parties With Whom We Disclose Personal Data for a Business Purpose | Categories of Third Parties to Whom Personal Data is Sold or Shared for Targeted Advertising
+
+| Identifiers (Section 2.A) |
+
+- Affiliates and subsidiaries
+
+- Service providers
+
+- Professional consultants
+
+- Vendors necessary to complete transactions you request
+
+- Law enforcement, government, agencies, and other recipients for legal, security, or safety purposes
+
+- Other entities in connection with a corporate transaction
+
+- Entities to which you have consented to the disclosure
+- Advertisers, ad platforms and networks, and social media platforms
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+- Commercial data partners to whom we make information available for their own marketing purposes >
+
+- Partners who work with us on promotional opportunities, including co-branded products and services
+Records about you (Section 2.B)
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+- Commercial data partners to whom we make information available for their own marketing purposes
+
+| Demographic information (Section 2.C) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Commercial information (Section 2.D) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Internet or other electronic network activity (Section 2.E) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Geolocation data (Section 2.F) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Audio, electronic, visual, or other sensory information (Section 2.G) |
+
+- Not sold or shared
+
+| Professional or employment-related information (Section 2.H) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Inferences (Section 2.I) |
+
+- Third parties whose cookies and tracking tools we use as described in Section 5 (Cookies and Other Tracking Technologies)
+
+| Sensitive personal information (Section 2.J) |
+
+- Not sold or shared
+
+Sensitive Personal Information: We only use and disclose Sensitive Personal Information for the following purposes: (i) performing services or providing goods reasonably expected by an average person; (ii) detecting security incidents; (iii) resisting malicious, deceptive, or illegal actions; (iv) ensuring the physical safety of individuals; (v) for short-term, transient use, including non-personalized advertising; (vi) performing or providing internal business services; (vii) verifying or maintaining the quality or safety of a service or device; or (viii) for purposes that do not infer characteristics about you.
+
+California Shine the Light: California's "Shine the Light" law (Civil Code Section § 1798.83) permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@healthnet.com.

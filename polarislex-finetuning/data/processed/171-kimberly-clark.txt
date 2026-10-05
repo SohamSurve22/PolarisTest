@@ -1,0 +1,1482 @@
+# Global Privacy Policy
+
+-
+PRIVACY VALUES
+
+-
+GLOBAL PRIVACY POLICY
+
+-
+Policy Scope & Updates
+
+-
+What PI We Collect
+
+-
+What We Do With Your PI
+
+-
+With Whom We Share Your PI
+
+-
+Your Privacy Rights
+
+-
+How Long We Keep PI And How We Protect It
+
+-
+PI Relating To Children
+
+-
+Cookies And Tracking Technologies
+
+-
+How To Contact Us
+
+-
+State- Or Country-Specific Disclosures
+
+-
+Financial Incentives
+
+-
+Washington Health Data Rights
+
+-
+YOUR RIGHTS & CHOICES
+
+Last Updated :
+02/03/2026
+
+GLOBAL PRIVACY POLICY
+
+U.S. State Specific Policies:
+
+When you use our online services, you’re trusting us with your information. Your privacy is important to us.
+
+This Privacy Policy explains how we collect, use, share, and retain your information. It also explains how you may request to exercise your rights and choices about how your personal information is used.
+
+If you have any questions, we want to hear from you. You can find our contact information below.
+
+Contact Us
+### Policy Scope & Updates
+
+Scope. The purpose of this Privacy Policy (“Policy”) is to describe how the websites, mobile applications, and online services owned or operated by us (collectively called the “Site” in this Policy) process your information in connection with the products and services that we offer. This Policy explains how we collect, use, and share your information and how we keep it safe. It also explains how you may request to exercise your rights and choices about how your personal information is used. Before you provide us with your information or otherwise use our Site, you should read through this Policy and our Terms of Use to make sure that you are comfortable with our privacy practices.
+
+Brands. Our Site is owned, operated, and maintained by KIMBERLY-CLARK CORPORATION and our affiliated companies and brands (“Kimberly-Clark”, “we”, “our” or “us”).
+
+State- or Country-Specific Disclosures. This Policy includes additional state- and country-specific information (such as the specific rights regarding your personal information that may be available in your jurisdiction) within the State- or Country-Specific Disclosures section. If there is a conflict between this Policy and the State- or Country-Specific Disclosures section, the latter will control only as to the extent of the conflict. This policy does not apply to personal information of users located in the Russian Federation; the privacy policy for users in the Russian Federation is located here.
+
+Other Policies. In addition to this Policy, there may be other specific Kimberly-Clark products, services, or promotions that are governed by additional policies or terms of use. In those cases, we’ll notify you of these additional terms.
+
+Potty with Pull-Ups® Privacy Policy
+
+Updates to this Policy. We may update this Policy from time-to-time by posting a new notice, so please note the date last updated above and occasionally check for updates.
+
+Personal Information. Personal information (“PI”) means any information that can be used to directly or indirectly identify a specific individual. We may collect personal information from a variety of sources. These sources include personal information that:
+
+- you give to us directly (e.g., when you sign up for things like newsletters, sweepstakes, surveys or promotions or register for an account on our Sites and provide information like your name, email address and date of birth);
+
+- we collect automatically (e.g., when you browse our Site and interact with us online, we (or our partners) may use cookies and tracking technologies to obtain your personal information); and
+
+- we collect from other sources and partners (e.g., when we purchase personal information about you from a third party to better personalize your experience or market to your interests).
+
+The types of personal information we obtain include:
+
+- contact information, such as your name, postal address and/or zip code, email address, and telephone/mobile number; we may also collect your child’s name and date of birth from you;
+
+- account information, such as your username and password (e.g., if you choose to create an account on the Site);
+
+- purchase history information, such as when you make a purchase from us or our partners;
+
+- loyalty and rewards information, such as when you sign up for loyalty programs;
+
+- characteristics and attributes, such as age ranges, languages spoken, and marital and family status either collected by us or our partners;
+
+- preferences, such as hobbies, interests, shopping preferences, and product propensity scores (e.g., likelihood of purchasing products) either collected by us or our partners;
+
+- online or technical information, such as device, browser, mobile application, system and internet protocol addresses, and identifiers; and
+
+- inferred information, such as information derived from the information listed in this section.
+
+Sensitive Personal Information. For the purposes of processing listed in this Policy, we (or our partners) may collect and process sensitive personal information. This may include information such as your race, ethnicity, date of birth, or data related to your use of our Site or products associated with health status, such as pregnancy, allergies (e.g., allergy trigger quizzes), menstruation (e.g., period calculators), or incontinence. We may also make inferences about your preferences, behaviors, characteristics, health, or attributes related to your use of our Site or products where permitted by applicable law. When we collect data that may be considered “sensitive”, we (or our partners) will request your consent to process such sensitive personal information and we may provide other controls (like an opt-out of certain processing) when required by law. Please note that certain portions of the Site may require this data for us to fully provide our services, so your choice to not provide such information may limit the scope of available offerings. We respect our customers’ rights and heightened privacy interests pertaining to sensitive personal information. As such, we commit to verifying that law enforcement entities follow the laws and procedures in their jurisdictions before we respond to a request for such information. In the case where data requests for sensitive personal information are compliant with the laws of the requesting agency’s jurisdiction, we may make reasonable challenges to such requests.
+
+Purposes of Processing. We collect, process, and disclose your personal information only for specific and limited purposes. For example, we may process your personal information across all Kimberly-Clark brands to:
+
+- develop, provide and improve our products, services, communication methods, and the functionality of our Site;
+
+- process requests and manage our business needs regarding the products, offers and services we provide; this also includes responding to your questions and verifying your identity when necessary when you contact us;
+
+- provide personalized experiences, transactional and marketing communications, and targeted advertising including special offers and recommendations to you;
+
+- better understand your interests and create profiles by analyzing information about your attributes, characteristics, and behaviors for internal research; and to establish, deliver and measure advertising/marketing campaigns to you or to people like you;
+
+- secure and protect your personal information and our interests; this includes preventing and investigating illegal activities, fraud and violations of our various terms of use policies and other service conditions; and
+
+- comply with legal requirements, including cooperating with law enforcement, government authorities, or governmental mandate (but when we do, we will disclose only the minimum amount of information required by law).
+
+Legal Bases. Additionally, certain data protection laws require us to have a “legal basis” and defined purpose before processing any personal information about you. Our legal bases for which we may process your personal information may include:
+
+- to establish or perform the contract we are about to enter (or have entered) into with you;
+
+- for our legitimate interests (or those of a third party) which will not override your interests and fundamental rights; this includes many of purposes of processing listed above;
+
+- with your consent; this includes, for example, to personalize, deliver and measure certain direct marketing and advertising communications concerning our products and services; our communications may be sent by both non-automated and automated means (e.g., email, social media messages, SMS, MMS, automated dialing systems, or calls by human operators);
+
+- where we need to comply with a legal or regulatory obligation and/or respond to requests from public and government authorities. This may include disclosing your information to law enforcement agencies or as required to comply with laws or regulations (including antifraud laws, money laundering, or tax laws) as well as transferring your personal information in connection with any potential or actual merger or sale of assets as part of a corporate transaction. When we process personal information on this basis, consistent with this Policy, we carefully review each request to ensure it is valid and that the requestor is entitled to the personal information they seek (and may challenge such requests as appropriate); and/or.
+
+- other legal bases recognized by applicable law in your jurisdiction.
+
+We may share information about you with our brands as well as third parties in certain circumstances including in the following situations:
+
+- Sharing Your Information with Service Providers. We may share personal information with companies or individuals that provide us with services. These services may include, among other things, helping us to provide services to you; to create or maintain our databases; process payments; prepare and distribute communications; or to respond to inquiries;
+
+- Other Third Parties and Partners. To better tailor your experiences and interests for advertising and marketing, your personal information may also be used by us or shared with partners; advertisers; advertising networks; advertising server and advertising technology companies; cloud data warehouse providers; data onboarding, data cleanrooms, identity resolution companies; social media networks; analytics and performance measurement companies; and similar third parties. These third parties and their websites, platforms, and applications generally have their own privacy policies and terms of use.
+
+- Blogs, Online Postings, and Testimonials. You may share comments, posts, testimonials, or other information on certain forums such as our Sites or social media networks. If you choose to do so, this information may be generally available to the public and read by others who access these forums. Again, third parties and their websites, platforms, and applications generally have their own privacy policies and terms of use and you should review those notices prior to using those sites;
+
+- Deidentified Information. We may share deidentified information (e.g., aggregated or grouped information) that doesn’t identify you personally with third parties for research or other purposes identified in this Policy. When we share this information, we require these third parties to agree not to attempt or to allow others to use it to identify individuals;
+
+- Law Enforcement and Legal Reasons. Subject to applicable contractual restrictions and other internal procedures limiting disclosures to law enforcement (discussed above), we also may disclose personal information (1) if we are required to do so by law or legal process (such as a court order or subpoena); (2) in response to requests by government agencies (such as law enforcement or regulatory authorities); (3) to establish, exercise or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss or to protect your other vital interests; or (5) in connection with an investigation of suspected or actual illegal activity;
+
+- Business Transactions. We reserve the right to transfer any personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, or liquidation); and/or
+
+- International Data Transfers. We may transfer your personal information with our brands and trusted-third parties outside of the country or territory from where you reside. When these third countries do not offer the same level of data protection as your country, we (or our service providers or their contractors/sub-processors) take steps to make sure that there are adequate safeguards are in place to protect your personal information. For example, these adequate safeguards may include your consent or involve binding the third party transferring your personal information to a contract that requires the same level of standards as the country from which the data was collected. In addition, we comply with certain national or country-specific “localization” laws that, among other things, require personal information about their residents to be collected, processed and/or stored inside the country of origination before being transferred internationally.
+
+- Artificial Intelligence (AI) Tools. K-C may use artificial intelligence (AI) technology to, without limitation, provide you with customer service assistance, improve our products and services, and better utilize the data you provide to us. Where we use AI technology to engage directly with you, we clearly state that the technology is AI-driven (e.g., that you are interacting with a “virtual assistant.”)
+
+- K-C does not use your personal information to train AI models. Any data used to improve our AI solutions and algorithms is first deidentified so that it cannot be linked back to you.
+
+- K-C maintains a rigorous review process for deployment of AI technology and rules governing our employees’ and contractors’ use of AI technology, including setting limitations on the purposes for which personal data may be processed by AI technology.
+
+- K-C does not use AI to make solely automated decisions that have legal or similarly significant effects on individuals. We ensure appropriate human review in any important decisions involving AI.
+
+- K-C leverages contractual terms that require vendors whose services to us include the use of AI technology to ensure such use protects the privacy of personal information in addition to requiring additional terms addressing information security. We also prohibit vendors from using Kimberly-Clark personal data to train their own AI models and require cooperation in fulfilling privacy-related obligations.
+
+- Depending on your jurisdiction of residence, you may have specific rights regarding our use of AI, including the right to opt out of certain automated processing or profiling, to request human review of an AI-assisted decision, or to receive an explanation of how an AI system reached its outcome. You can reach Kimberly-Clark with any questions or to exercise your rights via the How to Contact Us section of this Policy.
+
+Individual Rights. Where we process your personal information, you may be entitled to certain rights made available through applicable data protection laws. Some of these rights are explained below. You can reach Kimberly-Clark with any questions or to exercise your rights via the How to Contact Us section of this Policy. Please also consult the State- or Country-Specific Disclosures section of this Policy, as depending on the applicable data privacy laws in your jurisdiction, you may have the below rights regarding your personal information:
+
+- The Right to be Informed. You may have the right to be informed about how we plan to process your information. This is the main purpose of this Policy;
+
+- The Right to Deletion or Erasure. You may have the right to have your personal information deleted;
+
+- The Right to Access Your Data. You may have the right to access and receive a copy of your personal information and other supplementary information;
+
+- The Right to Port Your Data. You may have the right to obtain and reuse your personal information for your own purposes across different services and companies;
+
+- The Right to Rectify Your Data. You may have the right to rectify your data if it is inaccurate or needs to be supplemented;
+
+- The Right to Object. You may have the right to object to certain types of processing, including direct marketing;
+
+- The Right to Withdraw Your Consent;
+
+- Email Marketing Communications. If you wish to withdraw the use of your personal information for email marketing for any or all of our brands, you may unsubscribe as directed in our marketing emails. You also may unsubscribe directly on some of our Sites (e.g., “unsubscribe” footers). You may also reach out to us via the “Contact Us” section of this Policy;
+
+- Telephone or SMS Marketing Communications. If you wish to withdraw the use of your personal information for telemarketing or SMS marketing for any or all of our brands, text “Stop” as directed in the marketing text messages. You may also reach out to us via the “Contact Us” section of this Policy;
+
+- Postal Marketing Communications. If you wish to withdraw the use of your personal information for postal marketing for any or all of our brands, you may reach out to us via the “Contact Us” section of this Policy;
+
+- Interest-Based or Online-Behavioral Advertising. Online-behavioral advertising is automated, customized advertising that is tailored to your preferences and interests based on your online browsing activities over time and across multiple third-party websites and applications. Your preferences and interests are determined from personal information collected about you, whether by us or other parties. You may receive this advertising when using online services, like advertisements in mobile applications or on websites;
+
+- To stop receiving interest-based advertising from companies who
+participate in the Digital Advertising Alliance, you can opt-out
+here. For Europe, you may opt-out here. Even if you opt-out, you may still see advertisements, but they will be based on the context of the sites you visit and not based on your viewing activities. For more information on online-behavioral advertising, go
+here;
+
+- Kimberly-Clark is a participant of the
+Digital Advertising Alliance and the
+Digital Advertising Alliance of Canada.
+
+- Loyalty, Special Offers, Sweepstakes or Financial Incentives. If you wish to remove your participation in these programs or offers, please reach out as directed in the “State- or Country-Specific Disclosures” section of this Policy.
+
+- The Right Not to be Discriminated Against. You may have a right not to be discriminated against (e.g., be denied goods or service, charged different prices or rates for goods or services, provided a different level of quality of goods or services) for exercising your legal rights. However, we may offer a different price, rate, level, quality or selection of goods or services to you if you opt-out (or stop sharing your data) and such difference is reasonably related to the value provided to us by your data. For more information, see the “State- or Country-Specific Disclosures” sections of this Policy.
+
+- The Right Not to Be Subject to Automated Decision Making or Profiling. You may have the right not to be subject to automated decision making (a decision that is created solely by automated means and without any human intervention) including the automated processing of personal information for the purposes of profiling or of the evaluation of certain things about you that have legal or similar significant effects, as defined by applicable law. You also may have the right to request human involvement, obtain an explanation of the decision, or challenge such decision;
+
+- The Right to Restrict or Limit the Use of Your Sensitive Personal Information. You may have the right to have your sensitive personal information restricted or suppressed. For more information, see the “State- or Country-Specific Disclosures” sections of this Policy;
+
+- The Right Not to Share or Sell Your Data and/or the Right to Opt-out of Targeted Advertising. You may have the right to not have your data sold or shared for certain purposes according to applicable law. Similarly, you may have the right to opt-out targeted advertising. This advertising may be when you receive advertising based on your personal information obtained from your activities over time and across non-affiliated websites or online applications. For more information, see the “State- or Country-Specific Disclosures” sections of this Policy; and/or
+
+- Right to Lodge a Complaint with a Competent Supervisory Authority. You may have the right to lodge a complaint with a regulatory authority pertaining to our processing of your personal information. For more information, see the “State- or Country-Specific Disclosures” sections of this Policy.
+
+Verifying Requests. To help protect your privacy and maintain security, we will, according to applicable law, take steps to verify your identity before processing certain rights requests, such as granting you access to your personal information or complying with your request. If you designate an authorized agent to make a request on your behalf, we may require you to (a) provide the authorized agent written permission to do so and to share such authorization with us when processing a rights request, or (b) verify your own identity directly with us.
+
+Data Retention. We keep your information as long as we need it for business, tax or legal purposes, including the legal bases described in this Policy. After that, we either delete it or fully anonymize it. Please also consult the “State- or Country-Specific Disclosures” section of this Policy.
+
+Data Security. We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized access, destruction, loss, alteration, disclosure, or use.
+
+Our Site is intended for a general audience and is not aimed at or intended for children. As a general matter, we usually do not knowingly collect or process personal information from children under the age of 16, unless a lower age is provided or allowed by local law.
+
+Where we do knowingly collect or process personal information from children under the age of 16 (or under an age stipulated by local law), we follow all applicable data protection laws. For example, in the U.S., we obtain verified parental consent as required by law when collecting personal information from children younger than 13 years of age.
+
+- Cookies and Similar Tracking Technologies. When you visit our Site, we may obtain
+certain information by automated means, such as cookies, web server logs, web beacons, and other
+similar technologies and techniques.
+
+- A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.
+
+- Strictly Necessary or Essential Cookies. These cookies are necessary for the Site to function and cannot be switched off in our systems. They are usually only set in response to your interaction with us, such as browsing our Sites, requesting services, setting your privacy preferences, or logging in or filling in forms. You may be able to set your browser to block or alert you about these cookies, but some parts of the Site may not work.
+
+- Functional, Marketing or Non-Essential Cookies. These cookies enable the Site to provide enhanced functionalities for the personalization of your experience and for marketing. These cookies may also allow us to count visits so we can measure and improve the performance of our Site. These cookies may be set by us or by third-party providers whose services we have added to our Sites. If you do not allow these cookies, then some or all of these functionalities may not function properly.
+
+- Additional data may be collected though Google Analytics (and similar categories of solutions) to help evaluate the visitation and use of our Site. To learn more about Google Analytics, please visit
+
+www.google.com/policies/privacy/partners/ and find information about opting-out here:
+
+https://tools.google.com/dlpage/gaoptout.
+
+- A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and cookies and may be used to transmit information collected through cookies back to a web server.
+
+- Our Use of Cookies and Tracking Technologies.
+
+- We may use these automated technologies on our Site to collect information about your equipment, browsing actions, and usage patterns. The information we obtain in this manner may include your device internet protocol (IP) address, device location or identifiers associated with your devices, types of devices connected to our Site, web browser characteristics, device characteristics, language preferences, referring/exit pages, clickstream data, and dates and times of visits to our Site or mobile applications.
+
+- These technologies help us (1) remember your information so you do not have to re-enter it; (2) track and understand how you use and interact with our Site; (3) tailor the Site around your preferences for marketing and advertising; (4) measure the usability of our Site or mobile applications and the effectiveness of our communications; and (5) otherwise manage our business, enhance our services and help ensure they are working properly.
+
+- We use session replay/screen capture tools with your consent to better understand our users’ needs and to optimize our websites and the end user experience. We and/or our service providers use cookies, pixels, and similar technologies to track users’ activity on the websites (i.e., to learn how you use and navigate the services) to provide this information.
+
+- We may periodically use services like YouTube’s service to host video content and embed YouTube's player on our Site to allow you to watch the video without leaving our Site. This functionality may set cookies or otherwise collect information once you click on the YouTube video player.
+
+- Controlling or Deleting Cookies.
+
+- We provide tracking technology management and consent tools on our Sites, where required by applicable law. These tools typically deploy a “cookie settings” option that permits you to control which non-essential cookies and similar technologies we and our providers place on your device. If tracking technology management tools are deployed on the Site you are visiting, you can view and choose the cookies (like those described above) set by us or by our third-party providers whose services we have added to our pages.
+
+- Please also refer to the “Your Privacy Rights” and “State- or Country-Specific Disclosures” sections of this Policy to learn about available rights and tools to control or limit targeted advertising, online tracking, and personal information sharing (as applicable).
+
+- You may also be able to disable Kimberly-Clark or third-party cookies using your browser settings.
+
+- For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your mobile device.
+
+- In addition, you may connect with us or one of our Sites through social networking websites. Prior to submitting information on a social network website or to third parties, you should familiarize yourself with their privacy policies and practices. We are not responsible for the privacy practices of these third parties.
+
+- To find out more about cookies, including how to see what cookies have been set and how to manage and delete them,
+
+visit allaboutcookies.org.
+
+If you have any questions about our Policy or would like to exercise a privacy right or choice, we want to hear from you. We sell our products and services in more than 175 countries and regions. To best serve you, please reach out to our local teams for assistance here. On this page, select your country / region, and click “submit”.
+
+You can also reach out to our Global Privacy Officer at:
+
+[email protected]
+
+1-888-525-8373
+
+Kimberly-Clark Corporation
+
+P.O. Box 2020
+
+Neenah, WI 54957-2020
+
+Thanks for taking the time to get in touch with us.
+
+## State- or Country-Specific Disclosures
+
+California Privacy Rights Act Statement
+
+Updated: 02/03/2026
+
+This California Consumer Privacy Statement (“Statement”) supplements Kimberly-Clark
+Corporation’s
+Privacy
+Policy
+. It applies solely to California consumers and addresses personal information we collect
+online and offline. This Statement does not apply to Kimberly-Clark personnel. Sections 2-5 of this
+Statement do not apply to job applicants.
+
+This Statement uses certain terms that have the meaning given to them in the California Consumer Privacy
+Act of 2018, as amended by the California Privacy Rights Act of 2020, along with any implementing
+regulations (the “CCPA”).
+
+We may collect (and may have collected during the 12-month period prior to the effective date of this
+Statement) the following categories of personal (including sensitive) information about you:
+
+- Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), internet protocol address, email address, and account name.
+
+- Additional Data Subject to Cal. Civ. Code § 1798.80: signature, physical characteristics or description, education, and financial or health information.
+
+- Protected Classifications: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, health condition, disability, citizenship status, and military and veteran status.
+
+- Commercial Information: commercial information, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies.
+
+- Online Activity: Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with the Site.
+
+- Geolocation Data
+
+- Employment Information: professional or employment-related information.
+
+- Education Information: education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)
+
+- Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+We may use (and may have used during the 12-month period prior to the effective date of this Statement) your personal information for the purposes described in our
+Privacy Policy and for the following business or commercial purposes specified in the CCPA:
+
+- Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+
+- Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+
+- Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+
+- Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+
+- Debugging to identify and repair errors that impair existing intended functionality.
+
+- Undertaking internal research for technological development and demonstration
+
+- Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+
+- Managing career opportunities with Kimberly-Clark
+
+During the 12-month period prior to the effective date of this Statement, we may have obtained
+personal information about you from the following categories of sources:
+
+- Directly from you, such as when you contact us with a question
+
+- From your devices, such as when you visit our Site or mobile applications
+
+- Your family or friends, such as when they provide us with your contact information so we can send information that may interest you
+
+- Our affiliates and subsidiaries
+
+- Vendors who provide services on our behalf
+
+- Our joint marketing partners
+
+- Online advertising services and advertising networks
+
+- Government entities
+
+- Social networks
+
+- Data brokers
+
+- Data analytics providers
+
+We do not sell your personal information in exchange for monetary consideration without your consent.
+
+We do not knowingly sell or share the personal information of minors under 16 years of age without
+affirmative authorization if we have actual knowledge of the individual’s age. Any individuals
+who register for an account who are under 16 years of age are automatically opted out of the sale or
+sharing of their personal information. If an individual wants to opt-in and agree to the sale or
+sharing of their personal information, they must do so by affirmatively unchecking the “Do Not
+Sell or Share My Personal Information” box in their online profile.
+
+We may allow certain third parties (such as online advertising services) to collect your personal information via automated technologies on our Site in exchange for non-monetary consideration. We share the categories of personal information listed below for the business and commercial purposes of online advertising and to provide third-party social network features and functionality on our Site. Those third parties may include Google, Coveo, Twitter, Facebook, EqualWeb, and Neustar. You can use our cookie preferences tool to see an up to date list of the third parties collecting information on our sites. Those third parties may use your personal information to optimize our properties, display cross-contextual advertising and manage their own platforms. Please see the Cookies and Similar Tracking Technology above to learn more about those third parties’ collect of information. You have the right to opt out of this disclosure of your information, which may be considered a “sale” or “sharing” under California law, as set forth below in Section 5 (California Consumer Rights) of this Statement.
+
+During the 12-month period prior to the effective date of this Statement, we may have sold or shared the following categories of personal information:
+Category of Personal Information
+Category of Third Party
+Identifiers
+- Advertising networks, data analytics providers, social networks, data broker
+Commercial Information
+Online Activity
+Inferences
+
+During the 12-month period prior to the effective date of this Statement, we may have disclosed your
+personal information with certain categories of third parties and service providers, as described
+below.
+
+We may have disclosed the following categories of personal information about you listed below for the commercial and business purposes set forth in Section 1 (Notice of Collection and Use of Personal Information) of this Statement to the following categories of third parties:
+Category of Personal Information
+Category of Third Party
+Identifiers
+- Advertising Networks, Data Analytics Providers, Social Networks, Data Brokers
+Additional Data Subject to Cal. Civ. Code § 1798.80 Law
+Protected Classifications
+Commercial Information
+Online Activity
+Geolocation data
+Sensory Information
+Employment Information
+Education Information
+Inferences
+
+In addition to the categories of third parties identified above, during the 12-month period prior to the effective date of this Statement, we may have disclosed personal information about you with the following additional categories of third parties:
+
+- Government entities
+
+Privacy Rights. You have certain choices regarding your personal information, as
+described below. If you exercise any of these choices and rights, we will not disadvantage you. You
+will not be denied or charged different prices or rates for goods or services or provided a
+different level or quality of goods or services.
+
+- Know: You have the right to know what personal information we have collected about you, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
+
+- Deletion: You have the right to request that we delete certain personal information we have collected from you, subject to certain exceptions.
+
+- Correct: You have the right to correct inaccurate personal information that we maintain about you.
+
+- Opt-Out of Sale or Share: You have the right to opt out of the sale or sharing of your personal information, by either clicking to “Do Not Sell or Share My Personal Information” links on our websites and apps or by calling 888-525-8373. Once we receive and verify your request, we will not sell or share your personal information unless you later allow us to do so. We may ask for your permission to resume sale or sharing of your personal information later, but we will wait at least 12 months before doing so. You may also opt-out of our sharing and selling through certain browser enabled opt-out preference signals, such as the Global Privacy Control. You can learn more about that option here:
+https://globalprivacycontrol.org/.
+
+- Limit Use and Disclosure of Sensitive Personal Information: In some instances, we may use or disclose your sensitive personal information (e.g., information about your health or ethnicity) outside of the limited purposes set forth below. You have the right to direct us to limit our use and disclosure of such sensitive information. If you do, we may still use the information for certain limited purposes, such as the following: (i) performing our services or providing goods; (ii) detecting security incidents; (iii) resisting malicious, deceptive, fraudulent, or illegal actions; (iv) ensuring physical safety; (v) for short-term transient use, including certain non-personalized advertising; (vi) maintaining or servicing accounts, providing customer service, verifying customer information, or providing similar services; and (vii) to verify and maintain the quality or safety of a service or product or to improve, upgrade or enhance a service or product.
+
+- Shine the Light Request: You also may have the right to request that we provide you with (a) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (b) the identity of those third parties.
+
+How to Submit a Request. To submit a request to know, delete, or correct, or limit the use of sensitive personal information,
+
+click here or call us at 888-525-8378. To submit a Shine the Light request, please send a written request to: Kimberly-Clark Corporation, P.O. Box 2020, Neenah, WI 54957-2020. To opt out of the sale or sharing of your personal information, click below or send us an email at [email protected].
+Huggies® Brand
+https://www.huggies.com/en-us/do-not-sell-my-personal-info
+Pull-Ups® Brand
+https://www.pull-ups.com/en-us/do-not-sell-my-personal-info
+GoodNites® Brand
+https://www.goodnites.com/en-us/do-not-sell-my-personal-info
+Poise® Brand
+https://www.poise.com/en-us/donotsellmypersonalinfo
+Depend® Brand
+https://www.depend.com/en-us/do-not-sell-my-personal-info
+U by Kotex® Brand
+https://www.ubykotex.com/en-us/do-not-sell-my-personal-info
+Kleenex® Brand
+https://www.kleenex.com/en-us/donotsellmypersonalinfo
+Scott® Brand
+https://www.scottbrand.com/en-us/do-not-sell-my-personal-info
+Viva® Brand
+https://www.vivatowels.com/en-us/do-not-sell-my-personal-info
+Cottonelle® Brand
+https://www.cottonelle.com/en-us/do-not-sell-my-personal-info
+Huggies® Healthcare
+https://www.huggieshealthcare.com/en-us/do-not-sell-my-personal-info
+Kimberly-Clark Corporation
+https://www.kimberly-clark.com/en-us/do-not-sell-my-personal-info
+Careers at K-C
+https://careers.kimberly-clark.com/en/do-not-sell-my-information
+
+Authorized Agents. You may designate an authorized agent to submit requests on your behalf. To submit a request as an authorized agent on behalf of a consumer, please contact us as described in the How to Contact Us section of our Privacy Policy.
+
+Verifying Requests. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. If you have an account with us, we may verify your identity by requiring you to sign into your account. If you do not have an account with us and you request access to or deletion of your personal information, we may require you to provide any of the following information: first name, last name, month & year of birth, email address, mailing address. In addition, if you do not have an account and you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request. If you designate an authorized agent to make an access, deletion or opt-out of sale request on your behalf (a) we may require you to provide the authorized agent written permission to do so, and (b) for access and deletion requests, we may require you to verify your own identity directly with us (as described above).
+
+CCPA Metrics For the Prior Calendar Year. As reflected in this Statement, the CCPA provides California residents with specific rights, such as the right to know, delete, correct, opt-out of sale/sharing personal information, and limit the use of sensitive personal information. Under the CCPA, certain businesses that process these requests must publish information about these rights. That information for California residents for the period of January 1, 2025 through December 31, 2025 is below.
+
+| Right to Access or Right to Know Requests
+| Jan.-Dec. 2025
+Total Number of Access or Right to Know Requests Received
+
+| 01
+Total Number of Access or Right to Know Requests complied with in whole or part
+
+| 01
+Total Number of Access or Right to Know Requests Denied
+
+| 00
+Note: The mean number of days within which K-C substantively responded to requests to know was 6 weeks.
+| Right to Delete Requests
+Total Number of Deletion Requests Received
+
+| 37
+Total Number of Deletion Requests complied with in whole or part
+
+| 28
+Total Number of Deletion Requests Denied
+
+| 09
+Note: The mean number of days within which K-C substantively responded to requests to delete was 3 weeks.
+| Do Not Sell or Share Requests
+Total Number of Do Not Sell or Share Requests Received
+
+| 107
+Total Number of Do Not Sell or Share Requests complied with in whole or part
+
+| 107
+Total Number of Do Not Sell or Share Requests Denied
+
+| 0
+Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 days.
+| Limit the Use of Sensitive Personal Information Requests
+Total Number of Limit the Use of Sensitive Personal Information Requests Received
+
+| 87
+Total Number of Limit the Use of Sensitive Personal Information Requests complied with in whole or part
+
+| 87
+Total Number of Limit the Use of Sensitive Personal Information Requests Denied
+
+| 0
+Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 business days.
+| Right to Correction / rectification requests
+Total Number of Rectification Requests Received
+
+| 0
+Total Number of Rectification Requests complied with in whole or part
+
+| 0
+Total Number of Rectification Requests Denied
+
+| 0
+Note: The mean number of days within which K-C substantively responded to requests to know was 6 weeks.
+Financial Incentives. Creating an online account or participating in a financial incentive program such as loyalty programs or coupon-based initiatives administered by us or our partners may entitle you to receive special offers and benefits from us. To administer such programs, we may need to sell, collect, disclose, or retain your personal information. For our loyalty programs, such as Huggies® Rewards+, members may earn coupons or reward points for signing up, purchasing our products, and participating in certain other activities, such as taking surveys, sharing posts on Facebook and Twitter, and connecting friends to our loyalty and discount programs. These points can be used toward entering sweepstakes and games, donating to charity and redeeming rewards. We calculate the value of your data based on the return on investment or incremental margin generated by us from administering financial incentives and from the sale, collection, or retention of your personal information. You may end your online account (which will withdraw you from the financial incentives) at any time by entering a request at
+
+www.privacy.kimclark.com, calling us at 1-888-525-8373, or emailing us at
+[email protected].
+
+Additional Information. If you choose to exercise any of your rights under the CCPA, you have the right to not receive discriminatory treatment by us.
+
+Data Retention. We keep records and personal information for specified periods of time, depending on business needs, privacy interests and the law. As a general matter, we only retain personal information for as long as it is needed or useful for accomplishing a business, legal or tax purpose. After such period, the data is deleted or fully anonymized:
+
+- data not processed based on your consent, but collected to fulfill our contractual obligations to you is retained while we have a relationship with you plus a period of no more than 10 years after that relationship ends, except when the retention of the data is necessary to enforce or defend our rights or comply with law; and
+
+- data collected for marketing purposes according to your consent is retained for a maximum period of 5 years after your relationship with us ends or until you withdraw your consent (although in many circumstances we retain that information for a shorter period, as required by law).
+
+This portion of our Policy only applies to residents of the state of Montana. This portion of our Policy advises Montana residents of rights provided in the Montana Consumer’s Data Privacy Act (MTDCPA) and how Montana residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [email protected], calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [email protected].
+
+- Rights to Confirm and Access. You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
+
+- Right to Correct. You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+
+- Right to Delete. You have the right to delete personal information provided by or obtained about you;
+
+- Right to Opt-Out. You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+
+- Right Not to Be Discriminated Against. Montana law prohibits “controllers” from discriminating against consumers for exercising their rights. Discrimination includes any unfair treatment related to these rights.
+
+As a Nevada resident, you have the right to ask certain companies not to sell your personal information
+in exchange for money under the Nevada’s privacy law, SB260. Consistent with this Policy, we do
+not engage in such sales for monetary consideration, without your consent.
+
+This portion of our Policy only applies to residents of the state of Oregon. This portion of our Policy advises Oregon residents of rights provided in the Oregon Consumer’s Privacy Act (OCPA) and how Oregon residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [email protected], calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [email protected].
+
+- Rights to Confirm and Access. You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
+
+- Right to Correct. You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+
+- Right to Opt-Out. You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+
+- Right to obtain a list of “specified third parties” to whom a controller disclosed personal data. You may request that we provide details on personal data disclosures to third parties. Our response may contain either (i) the list of third parties to whom we have disclosed your personal data to or (ii) the list of third parties to whom we have disclosed any consumer's personal data.
+
+Right to request the purpose of processing information from us.
+
+- Right to consent to our collection of sensitive personal information prior to it being collected. You have a right to consent prior to our collection of any collection of the following: racial, ethnic, national origin; religious beliefs; mental/physical health condition, diagnosis, health history and/or treatment; sexual orientation and status as transgender/nonbinary; citizenship/immigration status; genetic or biometric data; personal data of a known child; precise geolocation; or status as victim of a crime.
+
+This portion of our Policy only applies to residents of the state of Texas. This portion of our Policy advises Texas residents of rights provided in the Texas Data Privacy and Security Act (TDPSA) and how Texas residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [email protected], calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [email protected].
+
+- Rights to Confirm and Access. You have the rights to confirm whether we are processing your personal information, and you have the right to access such personal information;
+
+- Right to Correct. You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+
+- Right to Opt-Out. You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+
+This portion of our Policy only applies to residents of the state of Virginia.
+This portion of our Policy advises Virginia residents of rights provided in the Virginia Consumer Data
+Protection Act (the “VCDPA”) and how Virginia residents may exercise those rights. You may
+exercise any of the rights in this Section by emailing us at [email protected], calling us at 1-888-525-8373, or through our
+portal available here.
+If we refuse to take action regarding your exercise of any of the rights described in this section, you
+may appeal our refusal to do so by emailing [email protected].
+
+- Rights to Confirm and Access. You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
+
+- Right to Correct. You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+
+- Right to Obtain a Copy. You have the right to obtain a copy of your personal information that you provided to us in a portable format, and to the extent technically feasible, a readily usable format that allows you to transmit the data to another data controller, where the processing is carried out by automated means; and/or
+
+- Right to Opt-Out. You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by
+Contacting Us or by going to
+Manage My Privacy. Please note that KC does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+
+This portion of our Policy only applies to Washington state residents.
+
+As a Washington resident, the Washington State My Health My Data (MHMD) Act gives you certain choices regarding your health data, as described below. The law applies only to “consumer health data” about your past, present, or future health condition.
+
+### Consumer Health Data We Collect
+
+We collect data from a variety of sources. Because consumer health data is defined very broadly, many of the categories of data we collect could also be considered consumer health data. Examples of consumer health data we collect may include:
+
+- Information about your health-related conditions, symptoms, status, diagnoses, testing, or treatments. For example, your use of our products (such as those for pregnancy, allergies, menstruation, or incontinence) may give us insight into your health status. We also collect health information when you interact with our website through allergy trigger quizzes, period calculators, and similar offerings. These surveys and calculators give us additional insight into your health status.
+
+- Behavioral biometrics resulting from your use of our websites. Data collected may include pages visited, actions taken (button clicks, products purchased, files downloaded, samples ordered, searches performed, and other actions taken), and keystrokes.
+
+- Information that could identify your propensity to seek health care services or information, e.g., likelihood to seek treatment for allergies.
+
+- Inferences derived from the above data.
+
+### Sources of Consumer Health Data
+
+We collect personal data (which may include consumer health data) from three main sources:
+
+- You provide us this information directly when you purchase products, sign up for newsletters, fill out surveys (such as the period calculator or allergy quiz), enter promotions, or register for an account on our website.
+
+- We collect some of this information automatically when you browse our website or interact with us online.
+
+- We may collect consumer health information from other sources and partners, such as when we purchase information about you from a third party to personalize your experience or market to your interests.
+
+### Why We Collect and Use Consumer Health Data
+
+We collect and use consumer health data as reasonably necessary to provide you with the products and/or services you have requested and to market to your interests. Providing requested products and services to you may include delivering the products, making suggestions about what products are appropriate for you, and/or personalization of certain product features. We also use consumer health data to improve our products and for other essential business operations, such as analyzing our performance, meeting legal obligations, and conducting research and development.
+
+We may also use consumer health data to market or advertise our own products and services. We may also use your purchase history or information received from third parties to advertise other products we sell that we think may be of interest to you.
+
+For marketing and advertising, we give you choices and/or obtain your consent as required by law. Please see the “How to Exercise Your Rights” section below and the “Your Rights and Choices” section of the Global Privacy Policy for more details on the controls and choices you may have.
+
+### Disclosures of Consumer Health Data
+
+We may share each of the categories of consumer health data described above with your consent or as reasonably necessary to provide our products and services.
+
+We may also share your information with service providers who operate on our behalf to help us provide you with products and services you have requested, to make product improvements, and to market and advertise our products and services to you.
+
+### Processors and other Third Parties with whom We Share Consumer Health Data
+
+As necessary for the purposes described above, we may share consumer health data with the following categories of third parties. More detail on each category is available in “Who We Share Information With” section of the Global Privacy Policy above:
+
+- Service Providers.
+
+- Third Parties and Partners. Your consumer health information may be shared with partners, advertisers, advertising networks, advertising servers, social media networks, analytics companies, and similar companies who process the information on our behalf as stated in the “Why We Collect and Use Consumer Health Data” section above.
+
+- Parties to a Business Transaction, such as a corporate merger.
+
+- Government Agencies and Law Enforcement.
+
+- Other third parties. In certain circumstances, it may be necessary to provide data to other third parties, for example, to comply with the law or to protect our rights or those of our customers.
+
+### How to Exercise Your Rights
+
+Washington’s MHMD Act provides certain rights with respect to consumer health data. These rights include your right to access your consumer health data and receive a list of all third parties and affiliates—including contact information—who receive your health data. You also have the right to request that we delete our consumer health data. You can withdraw consent relating to the collection and sharing of your data too, subject to certain exceptions.
+
+You can request to exercise such rights using the information described in the
+"How to Contact Us" section of the Global Privacy Policy.
+
+If your request to exercise a right under the MHMD Act is denied, you may appeal that decision by contacting our Global Privacy Officer. If your appeal is unsuccessful, you can raise a concern or lodge a complaint with the Washington State Attorney General at
+www.atg.wa.gov/file-complaint.
+
+If you reside in Quebec, you may request access to, or correction of, the personal information that we have collected about you as well as exercise other specific data privacy rights provided by law. You may exercise any of these rights by emailing us at [email protected], calling us at 1-888-525-8373, or through our portal available
+here.
+
+Our Data Privacy Officer may be contacted at
+[email protected].
+
+If you reside in Argentina, you have the right to access and correct your personal information, and to
+object to our processing of that personal information.
+
+In the event of any concerns, you can contact us at:
+
+Kimberly-Clark Argentina, S. A.
+
+Olga Cossettini 1031 (CP 1103) Buenos Aires,
+
+Argentina
+
+Phone: 54-11-4321-5700 / 0800-333-1206
+
+Fax: 54-11-4394-1160
+
+Email: [email protected]
+
+You also have the right to lodge a complaint to the Agency of Access to Public Information.
+
+If you reside in Australia, this portion of our Policy applies to you.
+
+Direct Marketing. We will not use or disclose personal information for purposes of
+direct marketing to you unless: (a) you have consent to receive direct marketing materials; (b) you
+would reasonably expect us to use your personal details for this purpose; or (c) we believe you may be
+interested in the material but it is impracticable for us to obtain your consent.
+
+In every instance, we will ensure that our direct marketing material incorporates an option for you to elect to receive no further of such communications
+
+Please note that even if you have requested not to receive further direct marketing communications, we may nevertheless continue to provide you with information about changes to our terms and conditions for the supply of goods or services, questionnaires, and other factual information. This form of communication is not regarded as “direct marketing” under the Australian Privacy Act.
+
+Overseas Disclosure. Personal information may be sent outside of Australia to our related bodies corporate, as permitted by the Australian Privacy Act. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach our privacy obligations relating to your personal information. However, you should note that other jurisdictions may not offer the same level of statutory protection for your personal information as Australia does. By providing your personal information to us, you consent to our disclosure of your personal information to these entities.
+
+Access and Correction. You may request access to the personal information that we have collected about you or, if you consider that the personal information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, you may request correction of the personal information that we have collected about you.
+
+To request to access or correct your personal information, reach us at:
+
+Kimberly-Clark Australia Pty. Ltd.
+
+P. O. Box 343
+
+Milsons Point,
+
+NSW
+
+1565
+
+Australia
+
+Phone: 1800 028 334
+
+Fax: 61-2-9957-5687
+
+Website: www.kimberly-clark.com/en-au/
+
+We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law.
+
+Complaints. If you have a complaint about the way in which we have handled any privacy issue, including your requests for access or correction of your personal information, you should advise us via the above contact details in this portion of our Policy. If you remain unsatisfied with the way in which we have handled a privacy issue, we suggest you approach an independent advisor or contact the Office of the Australian Information Commissioner for guidance on alternative courses of action which may be available.
+
+This section pertains to personal information collected in Bahrain and it is in compliance with the Personal Data Protection Law No. 30 of 2018 and corresponding resolutions, as amended from time to time.
+
+If you reside in Bahrain, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
+
+Olayan Kimberly-Clark (Bahrain) W.L.L.
+
+P. O. Box 33124
+
+Building No. 1051, Street No. 5135, Block 951,
+
+Askar, Al-Mazraa Industrial Park
+
+Kingdom of Bahrain
+
+Phone: +973 1783 0688
+
+80080427 (HR Toll free number)
+
+Fax: 973 17 830 175
+
+If you reside in Brazil, this portion of our Policy applies to you.
+
+-
+Legal basis for processing. We rely on legal bases described in this Policy for the
+processing of personal information under Law no. 13,709/2018 (Brazilian General Data Protection
+Law – “LGPD”), such as the legitimate interest of the controller or third
+parties; for compliance with legal or regulatory obligations by the data controller; for the
+performance of a contract; for regular exercise of rights in judicial, administrative or arbitral proceedings.
+
+- Data Protection Officer. Our DPO (Data Protection Officer) is Luiza Carrera de Alcantara, who you may contact via e-mail at
+
+-
+International data transfers. Given the locations in which we operate, we may transfer your personal information internationally between our brands or to trusted-third parties. These transfers are carried out for the purpose of storage and other processing activities necessary for the provision of our services and the operation of our business, in accordance with this Policy. In view of the obligations set forth in the LGPD, in addition to the security measures mentioned in this Policy, we take additional precautions, such as entering into contracts with recipients that require the adoption of the same security and privacy standards we apply in Brazil, as well as using legally valid mechanisms, such as the Standard Contractual Clauses published by the Brazilian Data Protection Authority (“ANPD”).
+
+- How to exercise your rights. If you reside in Brazil, you have certain rights regarding the personal information we collect from you. To exercise your rights at any time, please contact:
+
+Kimberly-Clark Kenko Industria e Comercio Ltda
+
+Eng. Luís Carlos Berrini, 105 - 8ºandar Vila das Monções - CEP: 04571 900
+
+São Paulo/SP Brasil
+
+Phone: 55 11 4503 4500 / 0800 709 55 99
+
+Fax: 55 11 4503 4500
+Individual Rights Portal
+
+You have the following rights:
+
+- You have the right to request confirmation of whether we process your personal information and, if so, to access, correct, anonymize or delete such information;
+
+- You have the right to receive the personal information that you have provided to us, in a structured, commonly used and machine-readable format, the right to transmit this information to another controller;
+
+- You have the right to withdraw your consent for the processing of personal information, where applicable;
+
+- When the legal basis for processing your personal information is other than consent, you can object to the processing if it is unlawful;
+
+- You have the right to request a review of decisions, if any, made solely on the basis of automated processing of personal information that affects your interests;.
+
+- You may request information and, where applicable, ANPD´s Standard Contractual Clauses used for international data transfers;
+
+- You may file a petition with ANPD.
+
+- You can exercise the rights listed above contacting us at:
+Privacy Web Form.
+
+- How to contact us. If you have questions, comments, concerns, or need to exercise your rights, please feel free to use the channels indicated above to contact our Data Protection Officer or access the Portal to exercise your rights.
+
+If you reside in Hong Kong, you may request access to or correction of the personal information that we
+have collected about you. To access your exercise those rights, please contact us at:
+
+Kimberly -Clark (Hong Kong) Ltd
+
+G.P.O. Box 8538, Hong Kong
+
+Phone：852- 2333-3543
+
+Fax：852- 2362-6309
+
+We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law. You may choose not to provide us with your personal information where applicable. However, if you choose not to provide your personal information, you may not be able to use the services.
+
+This Section applies to personal information collected by Kimberly-Clark (China) Co. Ltd. and its affiliates in mainland China (excluding Hong Kong, Macau, and Taiwan) through a variety of online and offline channels. Please read the details of this Section at [Privacy Policy]
+
+If you reside in Colombia, your data privacy rights are listed below:
+
+-
+You have the right to access, update or correct your personal information being processed by us;
+
+-
+You have the right to request proof of the consent granted to us for the processing of your personal
+information, where consent was required to process the information;
+
+-
+You have the right to withdraw your consent or request that we suppress your personal information;
+and/or
+
+-
+You have the right to file complaints before the Superintendence of Industry and Trade for any kind
+of infringement to privacy law, but please make all complaints to us in the first instance.
+
+To exercise these rights, please contact us at:
+
+Colombiana Kimberly Colpapel S.A.
+
+Carrera 19 # 100-45 Piso 7 Edificio We Work Bogota
+
+Colombia
+
+Phone: 571-600-3300
+
+Consumer Service Number:018000512020 o 4049046 en Bogota
+
+Fax: 571-600-3392
+
+If you reside in Costa Rica, you may request deletion, access to, or correction of the personal
+information that we have collected about you and you may object to our processing of that information.
+To exercise those rights, please contact:
+
+Kimberly-Clark Costa Rica, S.A.
+
+Plaza Tempo
+
+Lobby A
+
+Autopista Prospero Frenandez 10203 San Jose
+
+Consumer service Number: 800-800-2473; Fax: 506-239-0805
+
+If you reside in Ecuador, you have rights connected with the processing of your personal information,
+such as the rights of access, deletion, rectification and updating, opposition, cancellation, limitation
+of processing and to revoke prior consent. You also have the right to request your personal information
+in a portable format. To exercise your rights, please contact us at:
+
+Kimberly-Clark Ecuador S.A.
+
+Mapasingue Este
+
+Calle 5ta y Av Las Aguas
+
+Guayaquil, GUAYAS
+
+Consumer service number: 1800200500
+
+Mobile +593994987924
+
+Fax: 593-22-820508
+
+If you remain dissatisfied, you have the right to contact the Data Protection Superintendency.
+
+If you are a resident of the EEA (specifically, any country in the European Union, Liechtenstein, Norway,
+or Iceland), a resident of the United Kingdom (“UK”) or a resident of Switzerland, this
+section applies to you, and it explains what retention periods for your personal information,
+international data transfers, automated decision making, and rights you may exercise in relation to your
+personal information.
+
+Retention Period. We retain your personal information for as long as necessary to fulfill the purposes for which the personal information was collected as outlined in this Policy. The following retention periods will apply to the processing of your personal information:
+
+- Contractual purposes: retained during the provision of the Site plus a period of 10 years after the termination or withdrawal of such contract, except when the retention of the data is necessary to respond or to file legal actions, upon request of the competent authorities or in compliance with the applicable laws; and
+
+- Marketing purposes: retained for a period of 24 months after your relationship with us ends or until you withdraw your consent;
+
+International Data Transfers. If personal information is transferred between countries, we take commercially reasonable efforts to protect such personal information, such as by entering into Standard Contractual Clauses as approved by the European Commission.
+
+Automated Decision Making. We do not engage in any automated decision with a legally significant effect with respect to the personal information subject to this Policy without your consent.
+
+Rights Regarding Personal Information. Certain data protection law gives rights to individuals in respect of personal information that organizations hold about them. In particular, you can exercise the following rights:
+
+- to obtain from us confirmation of the existence of personal information and to be informed of its source, verify its accuracy and request its integration, updating, or amendment;
+
+- request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
+
+- object in whole or in part, on legitimate grounds, to the processing of the data;
+
+- to withdraw your consent to the processing of the data (if and to the extent such a consent is necessary); and
+
+- In addition to the above, you will also have the right to request us to limit the processing of your personal information where:
+
+- you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
+
+- the processing is unlawful but you do not want us to erase the data;
+
+- we no longer need your data for the purposes of the processing, but you require it for the establishment, exercise or defense of legal claims; or
+
+- you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing;
+
+- you receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and/or
+
+- you lodge a complaint with the relevant data protection supervisory authority.
+
+If you would like to exercise your rights, please contact us using the contact information set out below. Please note that requests to exercise data protection rights will be assessed by Kimberly-Clark on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of exemptions provided for in data protection legislation. We do not charge you a fee for exercising any of your rights described above.
+
+If you have any questions, please reach out to our Lead EU Data Protection Officer at
+[email protected]. If you are still dissatisfied, you have the right to complain to your Data Protection Authority; however, all complaints should be raised with us in the first instance. Contact details for data protection authorities in the EEA are available
+here; contact details for the data protection authority in the UK are available
+here; and contact details for the Swiss data protection authority are available
+here.
+
+If you would like to review, correct, update, port or delete the personal information that we hold
+concerning you, or if have any questions regarding treatment of your privacy by us, please contact us
+at:
+
+Privacy Officer
+
+Kimberly-Clark India Pvt. Ltd
+
+Address: Phoenix Market City, Art Guild House, A Wing, 3rd Floor, Office No- 9, Kamani, Mumbai Maharashtra, 400070
+
+Phone: (022) 33220000
+
+We may charge you a small fee to cover any administrative costs that we may incur in providing personal information to you.
+
+You may also opt out of receiving marketing communications we send to you about our products and services. However, please note that when you do so, it may affect the services you have chosen to receive from Kimberly-Clark where accepting the communications is a condition of receiving the services.
+
+If you reside in Indonesia, you may request access to, and modification, opposition, and deletion of the personal information that we have collected about you. If you would like to do so, please contact us at:
+
+PT Softex Indonesia
+
+The Prominence Tower Floor 5th, Jalan Sutera Barat No.15, Alam Sutera Panunggangan Timur,
+
+Pinang, Tangerang, Banten, Indonesia 15143
+
+Phone: (6221) 3005 5108
+
+Please understand that according to applicable laws and regulations in Indonesia, we have the right to process your personal information without your prior consent under the following circumstances:
+
+- Where it is necessary for the conclusion or performance of a contract to which you are a contracting party, or for the management of human resources in accordance with contracts signed and labor related policies and policies according to applicable laws;
+
+- Where it is necessary for us to fulfill statutory responsibilities or obligations;
+
+- Where it is necessary for the protection of the vital interest of an individual;
+
+- Where it is necessary to carry out our duties in the context of public interest, public services or exercising the authority of data controller based on laws and regulations;
+
+- Where it is necessary to respond to public health emergencies, or for the protection of life, health and safety of a natural person under emergency circumstances;
+
+- Where personal information disclosed by yourself or legally available from open sources are reasonably processed by us in compliance with applicable laws;
+
+- Other circumstances as required by laws and regulations.
+
+We will process your personal information within the necessary scope in a lawful and legitimate manner consistent with the purposes stated herein or stated under separate consent form (as applicable). Please note that we only collect and use your personal information to the extent reasonably necessary, and not all of the following purposes are related to you:
+
+- develop, provide and improve our products, services, communication methods, and the functionality of our Site;
+
+- process requests and manage our business needs regarding the products, offers and services we provide; this also includes responding to your questions and verifying your identity when necessary when you contact us;
+
+- provide personalized experiences, transactional and marketing communications, and targeted advertising including special offers and recommendations to you;
+
+- better understand your interests and create profiles by analyzing information about your attributes, characteristics, and behaviors for internal research; and to establish, deliver and measure advertising/marketing campaigns to you or to people like you;
+
+- secure and protect your personal information and our interests; this includes preventing and investigating illegal activities, fraud and violations of our Terms of Use policies and other service conditions; and
+
+- comply with legal requirements, including cooperating with law enforcement, government authorities, or governmental mandate (but when we do, we will disclose only the minimum amount of information required by law).
+
+You may also withdraw your consent for us to continue collecting, using, disclosing and processing your personal information. However, if you do so, it may not be possible for us to fulfill the purposes for which we require the personal information, including providing you with products and/or services.
+
+If you reside in Indonesia, Malaysia, Philippines, or Singapore, you may request access to, and
+modification, opposition, and deletion of the personal information that we have collected about you. If
+you would like to do so, please contact us at:
+
+Indonesia
+
+P.T. Kimberly-Lever Indonesia
+
+Wisma 77 Tower 2, 16th Floor Suite,
+
+1602 Jl. Letnan Jend.S. Parman Kav.
+
+77 Jakarta
+
+11410
+
+Indonesia
+
+Phone: 62-21-30400800
+
+Fax: 62-21-29675850
+
+Malaysia
+
+Kimberly-Clark Trading (M) Sdn. Bhd.
+
+12th Floor, Plaza 33, Tower B
+
+Jalan Kemajuan, Seksyen 13
+
+46200 Petaling Jaya, Selangor, Malaysia
+
+Phone: +603 7806 8288
+
+Consumer Service Hotline: 1800821188
+
+Fax: +603 7492 2577
+
+Contact Email: [email protected]
+(Huggies)
+
+(Kotex, Poise & Kleenex)
+
+Website: www.huggies.com.my
+
+Website: www.kotex.com.my
+
+Website: www.kleenex.com.my
+
+Kleenex® Philippines
+
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)
+
+Huggies® Philippines
+
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)
+
+Kotex® Philippines
+
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)
+
+Thailand
+
+Kimberly-Clark Thailand Limited
+
+32nd-33rd Floor, United Center
+
+323 Silom Road
+
+Bangrak
+
+Bangkok
+
+10500
+
+Thailand
+
+Phone: 66-2-230-3000
+
+Fax: +662-230-3039
+Individual Rights Portal
+
+Singapore
+
+Kimberly-Clark Singapore Pte. Ltd.
+
+83 Clemenceau Avenue
+
+#14-05 UE Square
+
+Singapore 239920
+
+Kleenex® / Scott® Singapore
+
+Phone: 1800 338 8838
+
+Huggies® Singapore
+
+Phone: 1800 484 4437
+
+www.huggies.com.sg
+
+Kotex® Singapore
+
+Phone: 1800 479 9841
+
+www.kotex.com.sg
+
+Poise® Singapore / Depend® Singapore
+
+Phone: 1800 479 9841
+
+www.poise.com.sg/www.depend.com.sg
+
+You may also withdraw your consent for us to continue collecting, using, disclosing and processing your personal information. However, if you do so, it may not be possible for us to fulfill the purposes for which we require the personal information, including providing you with products and/or services.
+
+If you reside in Kazakhstan, Kyrgyzstan, Uzbekistan, or Azerbaijan, this part of our Policy applies to you.
+
+Personal information collected in your country is usually stored there. However, some of your personal information, subject to the laws of your country, may be transferred to or may be accessed within another country/region, such as the United States. If we do, we will continue to protect your personal information in accordance with the laws of your country. You may choose not to provide us with your personal information. However, if you choose not to provide your personal information, you may not be able to enjoy the full range of services.
+
+If you provide your information, we keep it according to the laws of your country and generally keep it as long as we need it to achieve the purposes for which they were collected, as well as for business, tax or legal purposes, including the legal bases described in this Policy. After that, we either delete it or fully anonymize it.
+
+As described in the Policy, you may request information about how we process your data as well as request access, correction, and deletion of your personal information that we have collected about you. You may also have the right to withdraw your consent to our processing (including automated decisions) of your personal information, file complaints, and delete your account. If you withdraw your consent, we may not continue to provide you with all of our services.
+
+If you reside in Kazakhstan, Uzbekistan, Kyrgyzstan or Azerbaijan you may have rights, such as the right to access, correct and erase personal information, object to our processing of your personal information, and withdraw consent. Please contact us at:
+
+Kazakhstan:
+
+LLP "Kimberly-Clark Kazakhstan",
+
+The Republic of Kazakhstan,
+
+Almaty, Medeu district, 050059, Nursultan Nazarbayev avenue, 240 G.
+
+Hotline phone: 8 800 070 89 10
+
+Email: [email protected],
+
+Uzbekistan:
+
+LLC "Kimberly-Clark"
+
+Russia,
+
+142800, Moscow region, Stupino, st. Sitenka, 15;
+
+Kyrgyzstan:
+
+LLC "Kimberly-Clark"
+
+Russia,
+
+142800, Moscow region, Stupino, st. Sitenka, 15;
+
+Azerbaijan:
+
+LLC "Kimberly-Clark"
+
+Russia,
+
+142800, Moscow region, Stupino, st. Sitenka, 15;
+
+If you reside in Kenya, you may request deletion, access to, or correction of the personal information
+that we have collected about you and you may object to our processing of that information. To exercise
+those rights, please contact us at:
+
+KCSSA East Africa
+
+Cove Court,
+
+Watermark Business Park,
+
+Ndege Road, Karen,
+
+Nairobi
+
+Phone: +27-11-456-5700
+
+Fax: +27-11-456-5798
+
+Fax: +27-11-456-5799
+
+Consumer Services: 203 892 283
+
+If you reside in Morocco, you may be required to provide us with certain information to register on our
+Site and to use certain of our services fully.If you reside in Morocco, you may request access to or
+correction of the personal information that we have collected about you and you may object to our
+processing of that information. To exercise those rights, please contact us via the “Contact
+Us” section of this Policy.
+
+If you are still dissatisfied, you have the right to complain to the Moroccan data protection authority; however, all complaints should be raised with Kimberly-Clark in the first instance.
+
+If you reside in New Zealand, you may request access to or correction of the personal information that we
+have collected about you. To access or correct your personal information, please contact us at:
+
+Kimberly-Clark Australia Pty. Ltd.
+
+P. O. Box 343
+
+Milsons Point,
+
+NSW
+
+1565
+
+Australia
+
+Phone: 1800 028 334
+
+Phone: 61-2-9963-8888
+
+Fax: 61-2-9957-5687
+
+Web site: www.kimberly-clark.com/en-au/
+
+Consistent with this Policy, we may transfer your personal information to third countries that have not
+received an adequacy decision by the National Information Technology Development Agency
+(“NITDA”), but we take steps to protect any information transferred to such countries, such
+as by entering into binding internal agreements to protect such personal information according to
+applicable data protection law.
+
+In particular, you can exercise the following rights at any given time:
+
+- to obtain from us confirmation of the existence of personal information and to be informed of its content and source, verify its accuracy and request its integration, update or amendment;
+
+- request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
+
+- object in whole or in part, on legitimate grounds, to the processing of the data;
+
+- to withdraw the consent to the processing of the data (if and to the extent such a consent is necessary).
+
+- In addition to the above you will also have the right, in any given moment, to request us to limit the processing of your personal where:
+
+- you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
+
+- the processing is unlawful but you do not want us to erase the data;
+
+- we no longer need your data for the purposes of the processing, but you require them for the establishment, exercise or defense of legal claims; or
+
+- you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing.
+
+- You also may have the right to:
+
+- receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and
+
+- lodge a complaint with the NITDA, such as if you believe that we have violated this Policy.
+
+You may exercise an individual right at:
+
+KCSSA West Africa - Plot 64,
+
+Ikorodu Industrial Layout,
+
+Ikorodu,
+
+Lagos.
+
+Phone: +27-11-456-5700
+
+Fax: +27-11-456-5798
+
+Fax: +27-11-456-5799
+
+Consumer Services: 122 78791
+
+If you have any questions, you may also contact our Nigerian Data Protection Officer at
+[email protected].
+
+If you reside in Peru, you may request deletion, access to, or correction of the personal information
+that we have collected about you. To exercise those rights, please contact us at:
+
+Kimberly-Clark Peru S.R.L.
+
+5895 Paseo de la Republica Ave., Office 301 & 302
+
+Miraflores – Lima
+
+Peru
+
+Phone: 511-618-1800
+
+This Policy provides general guidelines for the processing of personal data under Law No. 29733 - Personal Data Protection Law and its Regulations approved by Supreme Decree No. 003-2013-JUS.
+
+If you reside in Russia, please find the privacy policy applicable to you here.
+
+This section pertains to personal information collected in the Kingdom of Saudi Arabia (“KSA”) and is in compliance with the Personal Data Protection Law no. (M/19) dated 9/2/1443 AH and its implanting regulations, as amended from time to time.
+
+If you reside in KSA, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
+
+Olayan Kimberly Clark Saudi Company Limited
+
+Building 5105, 11th Street
+
+First Industrial City Dammam
+
+Saudi Arabia
+
+Phone +966-138063126
+
+Toll free 800 1242330
+
+If you reside in South Africa, consistent with the disclosures above, we may transfer your personal
+information to third countries such as the United States. Although the level of protection afforded by
+the law in those third countries may not be as comprehensive, we take steps to protect your personal
+information as if the information resided in South Africa.
+
+Where we require personal information in order to provide you with our services, failure to provide us with the necessary information may result in our inability to provide such services.If you reside in South Africa, you may request deletion, access to or correction of the personal information that we have collected about you and you may object to our processing of certain personal information, such as if there is no legal right to keep using it or if used for direct marketing. If we have collected and processed your personal information with our consent, you are free to withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of the processing we conducted prior to such withdrawal, nor will it affect processing of your personal information conducted in reliance on a legal basis other than consent. To exercise those rights, please contact us our South Africa Information Officer at
+[email protected] or:
+
+Kimberly-Clark of South Africa (Pty)
+
+Limited
+
+Private Bag X6 Gardenview
+
+Johannesburg
+
+2000
+
+South Africa
+
+Phone: +27-11-456-5700
+
+Fax: +27-11-456-5798
+
+Fax: +27-11-456-5799
+
+Consumer Services: 0800 11 57 11
+
+If you are still dissatisfied, you have the right to complain to the Information Regulator; however, all complaints should be raised with us in the first instance. The Information Regulator’s contact details are as follows
+
+The Information Regulator (South Africa)
+
+JD House, 27 Stiemens Street, Braamfontein, Johannesburg, 2001
+
+P.O. Box 31533, Braamfontein, Johannesburg, 2017
+
+Website: https://www.inforegulator.org.za/
+
+If you reside in South Korea, you have a choice whether to provide information to us, and we may inform
+you of such choice at the point of our collection.
+
+- Access Requests. We take steps to keep your personal information accurate and up to date. You may request access to, and modification, opposition and deletion of the personal information that we have collected about you. We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law;
+
+- Method and procedure for the destruction of Personal Information. We retain your personal information for long as needed to provide you the services and/or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Personal information is destroyed when it is no longer necessary for these purposes; and
+
+- How to Contact Us. If you have any questions, comments, or concerns about how we handle your personal information, then you may contact our South Korea Privacy Officer at
+[email protected] or contact us
+here.
+
+If you reside in Taiwan and we process your personal information, you may have the right to:
+
+- request for a review of the personal information;
+
+- request to make duplications of the personal information;
+
+- request to supplement or correct the personal information;
+
+- request to discontinue collection, processing or use of personal information; and
+
+- request to delete the personal information.
+
+We will only retain the personal information as long as necessary for providing the services or for legal compliance, and in some cases, we may be required to process your information to provide our services. We process personal information in a manner that does not infringe upon your rights and interests.
+
+You may contact us at:
+
+Kimberly-Clark Taiwan
+
+8-9 F, Manhattan Tower
+
+No. 8, Section 5, Hsin Yi Road
+
+Teipei
+
+110
+
+Taiwan
+
+Phone: 8862-77372888
+
+If you reside in the Dominican Republic, you may request deletion, access to or correction of the
+personal information that we have collected about you. To exercise those rights, please contact:
+
+Kimberly-Clark Puerto Rico & Caribbean Operations
+
+P. O. Box 191859
+
+San Juan
+
+00919-1859
+
+Puerto Rico
+
+Phone: 787-785-3625
+
+Fax: 787-740-2025
+
+If you reside in Trinidad and Tobago, you have the following data protection rights:
+
+- to access your information;
+
+- to withdraw your consent; and
+
+-
+to lodge a complaint with the Office of the Information Commissioner, but please contact us in the
+first instance of a concern or question about our practices.
+
+To exercise those rights, please contact us at:
+
+Kimberly-Clark Puerto Rico & Caribbean Operations
+
+P. O. Box 191859
+
+San Juan
+
+00919-1859
+
+Puerto Rico
+
+Phone: 787-785-3625
+
+Fax: 787-740-2025
+
+If you reside in Turkey, you may request access to, correction and modification, opposition, and deletion
+of the personal information that we have collected about you. If you would like to do so, please contact
+us at:
+
+Kimberly-Clark Turkey
+
+Kimberly-Clark Tuketim Mallari San.
+
+ve Tic. A.S.
+
+Yayalar Mah. Tandogan Cad. No. 3
+
+Dolayoba-Pendik
+
+Istanbul
+
+Turkey
+
+Phone: 90-216-410-8182
+
+Fax: 90-216-410-8192
+
+This section pertains to personal information collected in the United Arab Emirates (“UAE”) and is in compliance with the Federal Personal Data Protection Law No. 45 of 2021, as amended from time to time.
+
+If you reside in UAE, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
+
+Kimberly Clark MEA DMCC
+
+Jumeirah Lake Towers
+
+Unit 1101, Cluster O, Reef Tower
+
+P.O. Box 5003338
+
+Dubai, UAE
+
+If you reside in Ukraine, you may have rights, such as the right to access, correct and erase personal
+information, object to our processing of your personal information, and withdraw consent.
+
+To exercise your rights, please contact us at:
+
+Kimberly-Clark Ukraine
+
+Kiev Office
+
+Shovkovichnaya 42-44
+
+Kiev
+
+01004
+
+Ukraine
+
+Phone: 380-44-490-5810
+
+If you reside in Uruguay, you may request deletion, access to, or correction of the personal information
+that we have collected about you. To exercise those rights, please contact us at:
+
+Kimberly-Clark Uruguay S.A.
+
+Camino Carrasco 5975, Montevideo
+
+Uruguay
+
+Phone: (598-2) 2525 0105 / 0004-054-281
+
+Data related to Children
+
+According to Vietnamese laws, children are a person who is younger than 16 years old. Vietnamese laws require us to verify the age of the children before we collect or process personal information of children. If you provide us with data related to your child in accordance with this Policy, or if the child of whom you are a guardian, you acknowledge that you have received her/his consent if s/he is of 7 years old or older and you agree for us to collect and process such information in accordance with this Policy.
+
+Legal Bases For Processing Personal Information.
+
+Besides your consent for us to process personal information in accordance with this Policy, your personal information may be processed without your consent in the following circumstances:
+
+- In an emergency, which requires immediate processing of personal data to protect the lives, health of the data subject or of other individuals.
+
+- Publishing of personal data as required by law;
+
+- Processing of personal data in case of emergency for national defense, national security, social safety and order, natural disaster, diseases; or potential risks to national security but not required to declare an emergency state; or to fight against riot, terrorists, criminals and other legal violations in accordance with the law;
+
+- To perform the contractual obligations of the data subject with the relevant entities or individuals in accordance with the law;
+
+- To serve the activities of the authorities as provided in any sectoral law.
+
+Your Privacy Rights
+
+If you reside in Vietnam, you have the rights to know, to give and withdraw consent, to access, to rectify, restrict or object to processing activities, update, request a copy of or delete personal information that we hold about you or other rights provided in applicable laws. Additionally, you acknowledge that we may process your personal information in third countries, such as the United States, on the basis of your consent and compliance with all requirements on offshore data transfer as provided by Vietnamese laws. You may exercise your rights by contacting us at:
+
+Kimberly-Clark Vietnam Ltd.
+
+18th floor, Etown Central Building, 11 Doan Van Bo, ward 12,
+
+District 4, Ho Chi Minh City,
+
+Vietnam
+
+Phone: +(84 28) 3997 9639
+
+Fax: (84 28) 3636 5228

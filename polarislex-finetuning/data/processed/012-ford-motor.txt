@@ -1,0 +1,1284 @@
+## Privacy
+
+### Ford US Privacy Notice
+
+### Ford Motor Company US Privacy Notice
+
+Effective on: July 1, 2026
+
+For California residents: This US Privacy Notice supplements our California Notice at Collection and Privacy Disclosures. Click here to view the California notice, including information about your privacy rights and how to exercise them.
+
+Ford Motor Company is committed to be a trusted steward of the personal information you provide to us. We collect and use this data to help fulfill and build on Henry Ford’s vision of providing affordable, safe transportation to everyone. Today, we rely on data to incorporate state-of-the-art technology into our products and services, improve quality and safety, minimize environmental impact, and make our vehicles more enjoyable to drive, own, and use.
+
+If you are the owner or driver of a Ford or Lincoln vehicle, it is important to be aware of these privacy safeguards:
+
+- Inform others who drive the vehicle, and passengers who connect their mobile devices to the vehicle, about the information in this Notice, including the Connected Vehicle Privacy section; and
+
+- If you plan to sell or transfer your vehicle, remember to perform a Master/User Reset of your vehicle before it leaves your possession. Please review the Connected Vehicle Privacy section for more information.
+
+By using Products that display, link to, or refer to this Notice, you acknowledge the disclosures and obligations in this Notice and agree to our Terms and Conditions.
+
+You can click on the following links to navigate to the different sections in this Notice:
+
+What This Privacy Notice Covers
+Categories and Sources of Personal Information We Collect
+Cookies and Similar Technologies
+
+Interest-Based Advertising
+
+Our Use of Personal Information
+Our Disclosures of Personal Information
+Other Sites and Services
+Choice and Control of Personal Information
+Retention of Personal Information
+Location of Personal Information
+Security of Personal Information
+Your State-Specific Disclosures and Privacy Rights
+
+Consumer rights
+Exercising your rights and obtaining more information
+
+Changes to This Privacy Notice
+How to Contact Us
+
+### What This Privacy Notice Covers
+
+This Privacy Notice (this “Notice”) explains our collection, use, and disclosure of personal information, including information we collect through our Products, at offline locations and events, and from third parties. It also includes information about your privacy rights and how to exercise them.
+
+This Notice covers and applies to:
+
+- Products, services, programs and features we provide, such as websites, mobile applications, online services, technology platforms, and devices we own or operate, as well as the vehicles we manufacture (collectively, “Products”).
+
+- Personal information collected by or on behalf of Ford Motor Company and our controlled affiliates and subsidiaries (collectively, “Ford,” “we”, “us” or “our”) through Products that link to, refer to, or display this Notice (for example, on their websites or in their own privacy notices).
+
+- The following Connected Services (features or services that wirelessly transmit vehicle-originated data to Ford as part of their function), which have a Product-specific privacy notice that supplements this Notice (for mobile applications, you should also review the privacy information contained on the applications’ download pages, which supplement this Notice):
+
+- Ford App
+
+- Lincoln App
+
+Additional privacy details may be provided in your vehicle owner’s manual. Owner’s manuals are available at the following links:
+
+- Ford Vehicles
+
+- Lincoln Vehicles
+
+Return to top
+
+### What This Privacy Notice Does Not Cover
+
+This Notice does not apply to:
+
+- The privacy practices of Ford Motor Company affiliates or subsidiaries with respect to Products that link to, refer to, or display a privacy notice other than this Notice, such as:
+
+- Ford Motor Credit Company (Ford Credit): If you have applied for or received financing through Ford Credit or are a Ford Interest Advantage investor, the personal information you provide as part of applying for, obtaining, and managing your account or investment is subject to the Ford Credit privacy notices available here. Other information collected when you visit the Finance section of the ford.com website (including through cookies and other digital technologies) is processed by Ford Motor Company and is subject to this Notice.
+
+- FordDirect: If you request information or a contact from your local dealer through various shopping tools on Ford.com (including Build and Price, Search Dealer Inventory, Incentives and Offers, Request a Local Quote, and Trade-in Value), your personal information is collected and used by FordDirect, a company that assists Ford and its dealers, subject to the FordDirect Privacy Statement available here.
+
+- Other Ford privacy notices that pertain to: employees, contractors, agency resources, retirees, and applicants, relative to employment or engagement with Ford; or Products that Ford makes available to the personnel of companies that have a business relationship with Ford. These other Ford privacy notices are available through the applicable website, mobile app, or other online Product.
+
+- Content, products, services, features, websites, mobile applications, platforms, or properties not owned or operated by Ford, as described in the Other Sites and Services section below.
+
+- The privacy practices of Ford dealers, dealer distributors, dealer advertising associations, or other dealer associations.
+
+### Dealers
+
+When you purchase or lease a Ford or Lincoln vehicle from an authorized dealer, some information you provide to the dealer is disclosed to Ford. Ford’s privacy practices (as described in our privacy notices) apply to personal information the dealer discloses to us, whether in connection with the purchase/lease transaction, vehicle service you may receive from the dealer, or joint marketing activities.
+
+Please be aware, however, that dealers are separate legal entities from Ford and have their own privacy practices. You should contact your dealer directly if you have questions about their privacy practices. Although we encourage dealers to fully satisfy their legal obligations (including those relating to privacy), Ford is not responsible for dealers’ compliance with law.
+
+### United States Only
+
+This Notice applies only to personal information collected about individuals in the United States. If you are located in another country, please review the Ford privacy notice that applies for your country.
+
+### CATEGORIES AND SOURCES OF PERSONAL INFORMATION WE COLLECT
+
+The personal information we collect depends on how you interact with us, the Products you use, and the choices you make. We collect personal information about you in different ways and from different sources, including through the Products we provide. Details about our privacy practices relating to Ford and Lincoln vehicles appear in the Connected Vehicle Privacy section.
+
+### Information You Provide to Us
+
+You provide information to us in various ways, including when you create or modify an account with us, use our Products, make a purchase from us, ask us for information about our Products, sign up for an event, enter a contest or sweepstakes, contact the Customer Relationship Center, or otherwise communicate with us. For example, we collect the following:
+
+- Contact Information: Depending on the nature of your interaction with us, we collect personal or business information such as name, email address, postal address, and phone number. We may also ask you to provide email addresses of others, for example if you use a “tell-a-friend” tool.
+
+- Demographics: When you interact with us or our Products, you may also provide additional information such as your age range, nationality, and gender.
+
+- Payment Data: If you make a purchase, we may collect payment or billing information.
+
+- Preferences: You may indicate preferences such as your preferred communication method, language, time zone, and dealer. When you use the vehicle shopping tools on our website, you indicate through your browsing and searches the kinds of vehicles, features, and options you may be interested in.
+
+- Audio/Visual: In some cases, you can upload a photo for a profile image when creating an account, or you may provide your photo at an event or as part of a contest or sweepstakes.
+
+- Identifiers: Depending on the nature of your interaction with us, you may provide us with unique identifiers associated with you. For example, when you leave a comment on one of our social media sites, you provide us with your social media ID.
+
+- Security: When you create or modify your Ford account, you provide us with an email/username and password, along with other information used to authenticate your account such as answers to security questions, etc. You can use these credentials to sign into other Ford experiences (if supported) including experiences offered by our affiliates, including Ford Credit, so you only need to remember one username and password when accessing our online and mobile Products.
+
+- Content of Communications: When you communicate with us, such as via emails, customer service requests, survey responses, website chats or social media posts, likes, or messages, we collect the content of your communication.
+
+- Vehicle Service History: We collect vehicle service history from you when you provide it to us on our sites.
+
+When you are asked to provide personal information, you may decline (such as not entering a credit card to use wallet services in the Ford App). But if you choose not to provide information that is necessary for certain Products, those Products may not function correctly or be available for use.
+
+### Information From Your Vehicle
+
+Ford and Lincoln vehicles have systems that record data about how the vehicle is performing, how it is driven, where it is located, and the environment where it is operated. This data may be associated with a vehicle's unique identification number (“VIN”) or other identifiers, and the VIN or other identifiers may be linked to you.
+
+If your vehicle is equipped with Connected Services or has factory-installed connectivity technology capable of electronically transmitting vehicle-originated data to Ford, we may collect the following categories of information from your vehicle:
+
+- Vehicle Data
+
+- Driving Data
+
+- Vehicle Location (which may be collected through location-based features and functions in the vehicle or in our mobile apps and which may be derived from other information such as your mobile device’s location)
+
+- Audio/Visual
+
+- Media Analytics
+
+Which categories of information are collected from your vehicle typically depends on how the vehicle is equipped for connectivity; in other words, what connectivity technologies, software version, data sharing settings, and Connected Services are present and what selections have been made for the data sharing settings. See the Connected Vehicle Privacy section for details and data category definitions.
+
+In limited situations, we may collect Vehicle Location, regardless of location settings. We do this to protect and defend our rights or property (including repossessing a vehicle in the event of a delinquency) or to comply with applicable law, to respond to valid legal process (including from law enforcement or other government agencies), or, in the event of exigent circumstances, to help prevent the loss of life or serious injury or help protect the personal safety of Ford personnel, users of our vehicles, websites, or apps, our visitors, or the public.
+
+Ford may also, in limited situations, and with proper consent or legal or regulatory authority such as a safety investigation, collect or obtain data that has been recorded on the vehicle through physical access to the vehicle. This may include data generated or captured by the vehicle and may include a driver-facing camera image.
+
+For additional details about these situations, see the Our Disclosures of Personal Information section below.
+
+### Information From Your Devices
+
+When you use our websites, mobile apps, online services, and other Products, we automatically collect some information from the devices you’re using (such as mobile phone, tablet, smartwatch, or computer). For example:
+
+- Device Details and Network Information: Some devices reveal, and our servers log, information such as type of device, hardware model, MAC Address, operating system, version, settings, configuration, and network-related information (for example, IP address, mobile network provider, etc.). We may also collect device motion information if you enable that functionality in our mobile apps. As described more in the Cookies and Similar Technologies section below, our websites and online Products store and retrieve device identifiers (such as browser and other unique online identifiers) using cookies, pixel tags, and other digital technologies set on your device.
+
+- Digital Activity: As described more in the Cookies and Similar Technologies section below, when you browse our website or use our other online Products, we collect information about your online activity and interaction with our Products, such as access times, webpages or content viewed, mouse movements, scrolling, features used, how the webpage or online feature performed, the results of vehicles saved, built, searched for, or viewed during previous visits, other websites visited, etc.
+
+- Device and Mobile Location: Depending on your device and app settings, we also collect location data from your devices. If your mobile device is connected to your vehicle via Bluetooth or tether, vehicle location may be derived from mobile device location.
+
+You may use app or device controls to prevent certain types of automatic data collection. But if you choose not to provide or allow information that is necessary for certain Products or features, those Products or features may not function correctly or be available for use.
+
+### Information We Generate About You
+
+We generate information from the data we collect. For example:
+
+- Digital Activity: When you build or search for vehicles on our website, we generate results that fit your criteria and allow you to save results so that they are available to you in future visits. When you browse our website or use our other online Products, we may infer your zip code, city, state, and/or country location based on your IP address.
+
+- Inferred Preferences: We infer information from data we collect, including using automated means to generate information about your likely preferences or other characteristics. For example, we may use information about your vehicle and past purchases to determine your likely readiness to make a new purchase, which we may use for marketing, advertising, or other purposes. We may also infer information from your online activity and interaction with our Products, such as webpages visited, vehicles viewed, app features used, etc.
+
+- Identifiers: When you interact with us, we may generate unique identifiers associated with you or your devices such as Ford account ID, customer ID, rewards program number, or browser or other online identifiers. These unique identifiers help us identify you or associate you with information about you. For example, in our exhibits at auto shows or other events, we may generate a bar code for each visitor that you can swipe as you interact with the exhibit. It may also allow you to access and share photos and videos if you use available technology to take your picture and/or video at the event.
+
+- Payment Data: We may generate information when you pay for products and services, e.g., transaction history.
+
+### Information From Other Sources
+
+We obtain information from others when you direct them to disclose information to us.
+
+We also obtain information from the following sources:
+
+- Affiliates: We receive information from other companies within the Ford Motor Company family of companies and affiliates. Our “family of companies” is the group of companies related to us by common control or ownership. Information is disclosed within this “family” as a normal part of business operations, offering products and services to our customers, and allowing our customers to use their Ford account across multiple Ford experiences (if supported).
+
+- Dealers and Other Repairers: We receive information in connection with vehicle sales and service. For example, when you purchase a vehicle from a Ford or Lincoln dealer, the dealer provides Contact Information to Ford, including your name and address, as well as VIN and purchase information such as purchase date. When you service or repair your vehicle with a Ford or Lincoln dealer, we receive Contact Information and Vehicle Service History information (and certain other vehicle repair information), which includes history of repairs and may include information such as visit details, service details, repair history, applicable recall repairs, repair order details and payment, and warranty and extended service plan information. We may receive vehicle diagnostic information from dealers or other repairers when your vehicle is serviced or repaired using diagnostic scan tools connected to your vehicle.
+
+- Vendors and Suppliers: We may receive Contact Information or other personal information from our vendors or agents working on our behalf for the purposes described in this Notice.
+
+- Business Partners: We receive personal information from other companies we work with to offer services to our customers, or to reach potential customers with our marketing messages. Examples include:
+
+- Advertising and Analytics Companies: Please see the Cookies and Similar Technologies section of this Notice for a description of how we receive information from advertising and analytics providers.
+
+- Joint Marketing Partners: We may receive personal information from partners with which we offer co-branded services or engage in joint marketing activities.
+
+- Law enforcement agencies, courts, regulatory agencies, and others: We may receive personal information from government agencies or courts for legal compliance purposes, to protect your personal safety or the safety of others, to protect Ford’s or others’ rights or property, or to investigate fraud. We may also receive personal information from others; for example, in connection with litigation settlements, we may acquire information about you from third parties for the purpose of meeting our tax reporting obligations.
+
+- Consumer Data Analytics Firms: We receive Contact Information, Demographics, and other data from third parties for purposes such as keeping information current, supporting our marketing campaigns, and personalizing Products to our customers.
+
+- Parties to Corporate Transactions: We may receive personal information as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of business or assets.
+
+- Publicly Available Sources: We may obtain Demographics and other data from publicly available sources, such as open government databases or other data in the public domain, as well as information that is publicly available online on social media, networking, and other sites.
+
+We may combine personal information we collect from any of the above sources.
+
+### COOKIES AND SIMILAR TECHNOLOGIES
+
+Our websites, mobile apps, and other online Products use cookies, pixels, tags, trackers, and similar digital technologies to operate and to help collect data. Cookies are small text files placed on your device to store data that can be recalled by a web server in the same domain that placed the cookie. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your device, but it can contain other information as well.
+
+Cookies on our websites are used to store your preferences and settings, help authenticate your Ford account and enable you to sign in, provide interest-based advertising, combat fraud, analyze how our Products perform, personalize your experience and the content you see on our website (such as by displaying vehicles you have previously viewed or searched for or by conveniently auto-filling data fields in online forms), and fulfill other legitimate purposes.
+
+Our websites may also contain electronic images known as web beacons (also called single-pixel gifs) that we use to help deliver cookies on our websites, count users who have visited those websites, and gather usage and performance data. We also include web beacons in our promotional email messages or newsletters to determine whether you open and act on them, and in our ads appearing on other sites to measure the performance of those ads.
+
+Our websites often include web beacons, cookies, pixels, tags, trackers, and similar digital technologies from third-party vendors. In some cases, that is because we have hired the third party to provide services on our behalf, such as site analytics or advertising. In other cases, it is because our web pages contain third-party content (such as embedded videos, maps, plug-ins, or ads) that contain digital technologies used to track operability and performance of the content, as well as your interaction with the content to determine its effectiveness. When your browser connects to a third party’s web server to retrieve content and/or web beacons, that third party is able to set or read its own cookies on your device and may collect information about your online activities over time and across different websites or online services that also contain that third party’s content or web beacons.
+
+For example, some of our online Products use third-party tools (such as Mouseflow, Dynatrace, Amplitude, Adobe, Microsoft Clarity, ContentSquare, and Google Analytics and other Google services), to support the operation and performance of our online Products and to analyze your interactions and experiences with our Products, including the features you engage with, how you navigate, and your click/touch, movement, scroll, and keystroke activity.
+
+You can find more information on Mouseflow’s privacy practices here and how to opt out here .
+
+With respect to Google Analytics, we may in some cases integrate Google Analytics services we use with certain advertising services that are also made available by our analytics providers. For example, we may integrate Google Analytics with the following Google advertising features:
+
+- Remarketing with Google Analytics
+
+- Cross Device Remarketing & Reporting
+
+- Google Analytics Demographics & Interest Reporting
+
+- Google Display Network Impression Reporting
+
+You can opt-out of Google Analytics advertising features directly with Google through its Ads Settings and through the NAI’s consumer opt-out mechanism available here.
+
+You can find out how Google Analytics uses data here and how to opt out of Google Analytics here .
+
+For more information on how Google uses data when you use our websites, click here.
+
+For more information about the privacy practices of the other listed companies, please review their privacy policies.
+
+You can learn more about how to opt out of certain cookies and other technologies by visiting our Your Privacy Choices Page.
+
+### Interest-Based Advertising
+
+As noted above, on some pages of our websites we allow third-party advertising partners to use cookies, web beacons, and other digital technologies to collect or receive information regarding your activities on those web pages (e.g., your IP address, page(s) visited, time of day, and other identifiers). We may also disclose such information we have collected to Advertising and Analytics Companies. These companies may use this information (and combine it with information collected over time and across other websites, apps, or other digital services) for purposes of delivering targeted advertisements to you, to provide measurement services when you use Ford Products, and when you interact with other (non-Ford) websites and online services. This practice is commonly referred to as "interest-based advertising" or “online behavioral advertising”.
+
+You can opt out of certain cookies and other technologies by clicking on the Cookie Settings link in the footer of our websites. You can also learn more by visiting our Your Privacy Choices Page and the additional information below.
+
+Industry-wide opt-outs. Many advertising and analytics providers are members of associations, which provide a simple way to opt out of analytics and ad targeting, which you can access at:
+
+- United States: Digital Advertising Alliance
+
+- Canada: Digital Advertising Alliance of Canada
+
+- Europe: European Digital Advertising Alliance
+
+Mobile advertising ID controls. Apple and Android mobile devices each generate an advertising identifier that can be accessed by apps and used by advertisers in much the same way that cookies are used on websites. Each operating system provides options to limit tracking and/or reset the advertising ID.
+
+Browser controls. Web browsers vary on whether they are set to accept or allow various types of cookies and similar digital technologies by default. You can go to your browser settings to learn how to delete or reject cookies. If you choose to delete or reject cookies and similar digital technologies, this could affect certain features or services of our website. If you choose to delete digital technologies, settings and preferences controlled by those digital technologies, including advertising preferences, may be deleted and may need to be recreated.
+
+Do Not Track. Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not a common understanding of how to interpret the DNT signal, our websites do not currently respond to browser DNT signals. Instead, you can use the range of other tools to control data collection and use, including the cookie controls and advertising controls described above.
+
+Email web beacons. You can disable web beacons in email messages by changing the settings on your email client to prevent the automatic downloading of images.
+
+### OUR USE OF PERSONAL INFORMATION
+
+We use the personal information we collect for purposes described in this Notice or otherwise disclosed to you. For example, we have used personal information for the following purposes, including:
+
+- Product and Service Delivery: To provide and deliver our products, services, and programs, including operating, securing, and troubleshooting; providing support for vehicle service, warranty, and recall; fulfilling your requests or answering your questions; providing customer service and technical support; and providing credit and financing services.
+
+- Product Improvement: To evaluate the quality of and improve our existing products, services, programs, processes, and technologies, including investigating, verifying, or maintaining the quality or safety of a Ford or Lincoln vehicle, service, product, or technology; updating our products, services, and programs; evaluating the quality of the products, services, and programs that our suppliers provide to us or on our behalf; and troubleshooting and debugging activities to identify and repair technical errors that impair existing or intended functionality.
+
+- Research and Development: To conduct research to develop new products, services, programs, processes, and technologies, including to support energy, infrastructure, and community development initiatives.
+
+- Personalization: To support our customer relationship management activities, to understand you and your preferences, to make recommendations about the Products you use and our other Products that may be relevant to you, and to deliver personalized communications, promotions, and other experiences centered around you.
+
+- Dealer Support: To support dealer operations.
+
+- Marketing and Advertising: To promote our products, services, and programs and those of our selected partners through marketing, advertising, and sponsorships, as permitted by law (see the Cookies and Similar Technologies section below for information about personalized advertising and your advertising choices and the Choice and Control of Personal Information section for how to change your preferences for promotional communications).
+
+- Security, Integrity, Safety, and Legal: To comply with our legal and regulatory responsibilities; to respond to legal process or requests for information issued by government authorities or other third parties; to prevent, detect, protect against, investigate, prosecute those responsible for, or otherwise respond to a security incident, identity theft, fraud, harassment, or malicious, deceptive, or illegal activity; to investigate, establish, exercise, prepare for, or defend a pending or anticipated investigation or legal claim; to cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may violate federal, state, or local laws or regulations, where permitted by law; and in the event of exigent circumstances, to help prevent the loss of life or serious injury or to protect the personal safety of individuals; and to protect the rights or property of others.
+
+- Business Operations: To manage and improve our business operations and our relationship with you; to operate our business and perform business functions, including accounting, finance, tax, regulatory compliance, litigation, information security, fraud detection and prevention activities; to preserve the integrity or security of our systems or vehicle systems; to protect our rights and property; to manage our supplier and vendor relationships, including to evaluate the quality of the products and services that our suppliers provide to us or on our behalf; to manage human resources and information technology; to improve our internal operations; and to facilitate a corporate transaction, such as a merger or acquisition, where permitted by law.
+
+In carrying out these purposes, we combine data we collect from different sources to give you a more seamless, consistent, personalized, and relevant experience. For example, we use your Ford account identifier (if you were logged in while browsing our website or using our other online Products) or a browser or other unique online identifier (if you were not logged into your account) to link Digital Activity to you over time and across different Products or other digital properties, including those owned or operated by third parties.
+
+In addition, when we process data we collect for the purposes described in this Notice, we may use artificial intelligence (“AI”), machine learning, and other automated decision-making technologies to support the processing, in accordance with applicable law. This may include using your personal information to develop and improve our use of these technologies. To support our Products, we may use AI, including AI-enabled chatbots or virtual assistants, which may be provided by vendors. If a Product involves an AI-enabled chatbot or virtual assistant, we will inform you of that at or before the initiation of the chat. Information about how to contact a live person or our Customer Relationship Center will be available, either in the chat functionality or in this Notice. Any information shared via an AI-enabled chatbot or virtual assistant may be processed, stored, or used in accordance with this Notice and any applicable Product terms and conditions.
+
+Finally, we may deidentify information we collect about you (including Connected Vehicle Information) and use it for any purpose in accordance with applicable law.
+
+### OUR DISCLOSURES OF PERSONAL INFORMATION
+
+We disclose personal information with your consent, when you direct us to disclose it to others, as necessary to complete your transactions, or provide the Products you have requested or authorized. For example, when you provide payment data to make a purchase, we will disclose that data to banks and other entities as necessary for payment processing, fraud prevention, credit risk reduction, or other related financial services. We also disclose personal information to:
+
+- Affiliates. We disclose personal information among the companies within the Ford Motor Company family of companies and affiliates. Our “family of companies” is the group of companies related to us by common control or ownership. We disclose information within this “family” as a normal part of business operations and offering products and services to our customers:
+
+- For example, if you are financing your purchase or lease with Ford Credit and Ford Credit asks us to locate your vehicle due to default of your agreement with Ford Credit, we may disclose Vehicle Location to Ford Credit.
+
+- If you create a Ford account, we disclose your account credentials within our family of companies so you only need to remember one username and password to access our online and mobile Products (if supported).
+
+- Dealers. We disclose personal information to authorized Ford dealers, for example, to honor your request for a price quote on a vehicle, to alert the dealer when your vehicle is ready for service so they can contact you about scheduling a service visit, to assist in diagnosing service needs before and during a service visit, to inform dealers about recall or warranty information affecting your vehicle, to allow you to redeem rewards points from Ford loyalty programs at the dealership, to support our joint marketing activities, or to provide a dealer with information for purposes of contacting you in their regular course of business.
+
+- Vendors, Suppliers, and Agents. We disclose personal information to vendors or agents working on our behalf for the purposes described in this Notice. In such cases we require them to use it only to perform that work for us and to use adequate safeguards to protect the confidentiality of the personal information they receive. For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal information to provide those functions.
+
+- Business Partners. We disclose personal information to other companies that we work together with to offer services to our customers, or to reach potential customers with our marketing messages. Examples include:
+
+- SIRIUS XM. We disclose personal information, including Contact Information, to Sirius XM so that Sirius XM can provide satellite radio trial subscription services in connection with vehicle purchases and leases, as well as information, customer support, and offers for Sirius XM satellite radio and other audio entertainment services.
+
+- Advertising and Digital Analytics Companies. Please see the Cookies and Similar Technologies section of this Notice for a description of how we work with advertising and digital analytics providers.
+
+- Social Media Platforms. We disclose hashed emails from our marketing database or other information we have collected as described in this Notice to social media advertising platforms, such as Facebook, so that they can create Custom Audiences and deliver advertisements on our behalf to their users. Those users are identifiable to the Social Media company when it matches our hashed data to its hashed data of its users.
+
+- Joint Marketing Partners. We disclose information to partners with which we offer co-branded service or engage in joint marketing activities.
+
+- Vehicle Verification and Valuation Partners. We disclose information about factory-installed vehicle features and options to third parties such as auction companies, insurance companies, dealers, lenders, guidebook providers, vehicle websites, and prospective buyers so that they can verify a vehicle’s features and options and estimate its value. The features and options information that we disclose to these third parties is linked to the unique VIN.
+
+- Law Enforcement Agencies, Courts, Regulatory Agencies, and Others. We will disclose personal information when we believe that doing so is necessary to:
+
+- Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies;
+
+- In the event of exigent circumstances, to help prevent the loss of life or serious injury or to protect the personal safety of Ford personnel, users of our vehicles, websites, or mobile apps, our visitors, or the public;
+
+- Detect, investigate, prevent or otherwise address fraud or privacy issues;
+
+- Operate and maintain the security of our products, including to detect, investigate, prevent, stop, or remediate an attack on our computer systems or networks; or
+
+- Protect the rights or property of ourselves, our affiliates, or others, including by enforcing our agreements, terms, and policies.
+
+- Parties to Corporate Transactions. We may also disclose personal information as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of our business or assets.
+
+Finally, we may disclose deidentified information (including Connected Vehicle Information) to others in accordance with applicable law.
+
+### OTHER SITES AND SERVICES
+
+Our websites, mobile applications, and other Products may contain links to other content, products, services, programs, features, websites, mobile applications, platforms, or properties that Ford doesn’t own or operate (“Other Sites”) even if they look similar to ours. Please be aware that Ford is not responsible for any Other Sites, their content or operation, or the privacy policies or data practices of the third parties that offer them, even if you access them via our Products, including:
+
+- Dealer websites;
+
+- Websites or services featuring events, promotions, sponsorships, contests, or sweepstakes offered by our business partners (even where co-branded with Ford or Lincoln or our Products);
+
+- Websites or services offered by companies that have received a license to use our name, logo, or other trademarks in connection with their service or product offerings (including those that offer accessories or other products available for use with Ford or Lincoln vehicles);
+
+- Advertisers on our websites;
+
+- Social media or networking platforms; and
+
+- Product review, news, or enthusiast/fan sites and other forums, message boards, or chat groups where our Products are discussed.
+
+For example, some of our website features incorporate the Google reCAPTCHA tool, which collects hardware and software information, such as device and application data, in order to perform integrity checks and help prevent bots from using the feature. Your use of the reCAPTCHA tool is subject to the Google Privacy Policy and Terms of Use.
+
+Ford is also not responsible for third party applications or services that are governed by a privacy policy other than Ford’s and that may:
+
+- Be integrated with or offered through our Products;
+
+- Be made available to you through the vehicle infotainment system or in our mobile apps;
+
+- Be made available to you through the third party's app on your mobile device when you connect your mobile device to the vehicle via Bluetooth or tether; or
+
+- Require or permit the account you have with the third party to be linked to a Ford or Lincoln vehicle, mobile application, or other Product.
+
+For example, some of our websites and online Products include mapping features (provided by Google and HERE), which will collect and use personal information, including location information. If you use those mapping services, provide personal information to any of those third parties, or consent to our disclosure of personal information to them, the personal information they receive is governed by their privacy statements available via the above links.
+
+### CHOICE AND CONTROL OF PERSONAL INFORMATION
+
+#### Access, Correction, and Deletion
+
+You can access, edit, or delete some of the personal information we have collected by logging into your account and accessing the information displayed in your profile or account settings.
+
+For example, if you sign into your owner account on the Ford website and then select your profile, you can view and change your personal information and information about your vehicle(s), as well as change your email contact preferences.
+
+If you are a participant in Ford’s New Vehicle Purchase Plan (for eligible Ford Motor Company employees, retirees, Family and Friends, and certain employees of Ford dealerships, suppliers, and other partners), you can access your personal information related to the New Vehicle Purchase Plan by signing in and choosing “My Profile” on https://www.axz.ford.com/ (for employees and retirees), https://www.myplan.ford.com/ (for friends and family), or https://www.dplan.dealerconnection.com/ (for dealership employees). Ford partners can make corrections to personal information collected through the https://www.fordpartner.com/ website by calling the AXZ Call Center at 800-348-7709.
+
+Communications Preferences
+
+You can choose whether to receive promotional communications from us by email, physical mail, and telephone by contacting our Customer Relationship Center (see the How to Contact Us section below). As noted above, you can access and change your email communications preferences by logging into your owner account profile on the Ford website. If you receive promotional email messages from us and would like to stop receiving messages about the promotion, you can do so by following the directions in that message. If you receive text (SMS) messages from us, you can stop delivery of further messages of that type by following the instructions provided or replying “STOP”, after which you will receive a single message confirming your choice. These choices do not apply to mandatory service communications that are part of certain of our products (e.g., recall notices).
+
+Vehicle Controls
+
+To delete certain data stored on your vehicle, you may be able to perform a Master Reset. For controls related to connected vehicles, please see the Connected Vehicle Privacy section. Additional details and instructions may be available in your vehicle owner’s manual.
+
+Choices for Cookies and Similar Technologies
+
+See the Cookies and Similar Technologies section for choices about cookies and other analytics and advertising controls.
+
+### RETENTION OF PERSONAL INFORMATION
+
+We retain personal information for as long as necessary to provide the products and fulfill the transactions you have requested, comply with our legal obligations, resolve disputes, enforce our agreements, and other legitimate and lawful business purposes. Because these needs can vary for different data types in the context of different products, actual retention periods can vary significantly based on criteria such as whether your personal information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information; whether your personal information is reasonably necessary to carry out a disclosed purpose that is reasonably compatible with the context in which we collected the information; whether the personal information is reasonably required to protect or defend our rights or property; or whether we are otherwise required or permitted to keep your personal information by applicable laws or regulations. Where personal information is used for more than one purpose, we may retain it until the purpose with the latest period expires.
+
+### LOCATION OF PERSONAL INFORMATION
+
+The personal information we collect may be stored and processed in your country or region, or in any other country where we or our affiliates, subsidiaries, or vendors maintain facilities. The storage location(s) are chosen to operate efficiently and improve performance. We take steps designed to ensure that the data we collect under this Notice is processed according to the provisions of this Notice and applicable law wherever the data is located.
+
+Location of Processing European Personal Data. We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections.
+
+### SECURITY OF PERSONAL INFORMATION
+
+Safeguarding personal information is important to us. While no systems, applications, or websites are 100% secure, we take reasonable and appropriate steps to help protect personal information from unauthorized access, use, disclosure, alteration, and destruction.
+
+To help us protect personal information, we request that you use a strong password and never disclose your password to anyone or use the same password with other sites or accounts.
+
+### YOUR STATE-SPECIFIC DISCLOSURES AND PRIVACY RIGHTS
+
+This section supplements the US Privacy Notice above and applies to residents of Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Nevada, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia. This section describes our collection, use, and disclosure of “Personal Data” (as defined in applicable law, to the extent the law applies to you). References to Personal Information in the US Privacy Notice also describe our practices regarding Personal Data in this section. California residents may review our California Notice at Collection and Privacy Disclosures by clicking here.
+
+Personal data collection, use, and disclosure. We collect the categories of Personal Data that are indicated in the chart below. The chart also indicates our purposes for collecting, using, and disclosing each category of Personal Data. Specific pieces of Personal Data we collect, use, and disclose may vary, depending on your relationship with us and how you interact with us, and may not include all examples listed.
+Category of Personal Data
+Purposes for Collection, Use, and Disclosure
+(1) Identifiers such as name, email address, postal address, phone number, driver’s license number, or other similar identifiers
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To understand your preferences, make recommendations, and deliver personalized offers and communications
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- To operate our business, complete transactions, and comply with legal requirements
+
+- To allow you to participate in Ford-sponsored special driving events
+(2) Personal Records such as a phone number or other financial information
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- For payment processing, fraud prevention, credit risk reduction, or other related financial services
+
+(3) General demographic information such as age, marital or family status, languages spoken, education information, gender, and military and veteran status
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- To support authorized dealer operations (for example, to enhance the overall dealership sales and service experience)
+(4) Customer Account Details/ Commercial information such as purchase history or tendencies
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(5) Internet or Other Electronic Network Activity Information such as IP address, mobile network provider, and other network related information
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+| (6) Geolocation data such as information about your vehicle location or your device and mobile location |
+
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To provide Products you request or offer Products to you
+
+- To provide location-based Products
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling)
+
+- To protect and defend our rights or property (including repossessing a vehicle in the event of a delinquency)
+
+| (7) Sensory Data, including audio and visual data such as voice commands and other utterances captured when the vehicle’s voice recognition system is in “active listen” state, customer care call recording, in-vehicle feedback feature, and audio or video surveys |
+
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(8) Inferences drawn from Personal Data collected to generate information about your likely preferences or other characteristics
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- To assess your potential interest in a vehicle or other Product
+Connected Vehicle Information, as further described in the Connected Vehicle Privacy section
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+Sensitive Data:
+
+- precise geolocation data
+
+- driver’s license number
+- For precise geolocation data:
+
+- To provide location-based services
+
+- To help prevent the loss of life or serious injury, to or help protect the personal safety of Ford personnel, users of our vehicles, websites, or apps, our visitors, or the public
+
+- To provide Products you request, including information you request when using our Products (for example, charging locations that are part of the BlueOval Charging Network)
+
+- For other purposes as authorized by applicable law, including undertaking activities to verify or maintain the quality or safety of services or devices that are owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance services or devices that are owned, manufactured, manufactured for, or controlled by us.
+
+- For driver’s license number:
+
+We may also Collect, use, or disclose all categories of Personal Data described above for other purposes authorized by applicable laws, including:
+
+- to help prevent the loss of life or serious injury or to protect the personal safety of Ford personnel, users of our vehicles, websites, or mobile apps, our visitors, or the public;
+
+- to detect, investigate, prevent or otherwise address fraud or other security and integrity issues;
+
+- as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of our business or assets;
+
+- to operate and maintain the security and integrity of our Products; and
+
+- to protect the rights or property of ourselves, our affiliates, or others, including by enforcing our agreements, terms, and policies.
+
+Sales and Targeted Advertising. We may use your Personal Data in a way that is considered a “sale” under the laws applicable to you and may disclose your Personal Data—including personal identifiers, personal records, general demographic information, customer account details and commercial information, internet or other electronic network activity information, and geolocation data—for targeted advertising purposes. You have the right to opt out of both practices. Information on how to exercise your opt-out rights, as well as other rights you may have under the applicable laws, is provided below.
+
+We may sell or disclose the categories of Personal Data listed above to the following types of third parties: SiriusXM, joint marketing partners and authorized dealers, advertising and digital analytics companies, and social media platforms. For more information about these third parties and how they use the information, see the section above titled Our Disclosures of Personal Information.
+
+Deidentification. We may deidentify your Personal Data and disclose this deidentified information to others as permitted by applicable law. Where we deidentify information or use deidentified information, we will maintain and use the data only in deidentified form and will not attempt to reidentify that information, except we may attempt to reidentify the data for the purpose of determining whether the deidentification processes satisfied applicable legal requirements.
+
+Consumer rights and disclosures. Subject to your state residency and certain conditions and limitations in applicable laws, you have the following rights with regard to your Personal Data:
+
+- Right to Access. You have the right to request access to and obtain a copy of any Personal Data that we may hold about you.
+
+- Right to Correct. You have the right to request that we correct inaccuracies in your Personal Data.
+
+- Right to Delete. You have the right to request that we delete Personal Data that we have collected from or obtained about you.
+
+- Right to Opt Out of Targeted Advertising. You have the right to request that we stop disclosures of your Personal Data for Targeted Advertising via cookies and tracking technologies or other types of Targeted Advertising.
+
+- Right to Opt Out of Sales. You have the right to opt out of our Sales of your Personal Data.
+
+- Right to Opt Out of Profiling. You have the right to opt out of Profiling, as applicable, in furtherance of decisions that produce legal or similarly significant effects. We do not Profile in a manner that would result in legal or similarly significant effects and as such do not offer this right.
+
+- Right to Appeal. If we decline to act on your request, you may appeal our decision.
+
+- Third-Party Disclosures.
+
+a. If you live in Connecticut, Minnesota, Oregon, or Rhode Island, you have the right to a list of third parties to which we disclosed Personal Data.
+
+b. If you live in Delaware or Maryland, you have the right to request a list of the categories of third parties to which we disclosed your specific Personal Data (Delaware) or Personal Data generally (Maryland).
+
+- LLM Disclosures. As required by Connecticut law, we disclose that we do not collect, use, or sell personal data of Connecticut consumers for the purpose of training large language models.
+
+Exercising your rights and obtaining more information
+
+- Exercising your rights. You can exercise the rights listed above (including the right to access, delete, or correct) by:
+
+- Using our request form here; or
+
+- Calling our Customer Relationship Center, toll-free, at 1-800-392-3673, Monday through Friday from 8:00 am until 11:00 pm Eastern time or Saturday from 8:00 am until 8:00 pm Eastern time. For TTY/TDD users, please contact 1-800-392-3673, using the Telecommunication Relay Service by dialing 711. Our Customer Relationship Center is closed on Sundays and on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day.
+
+Apart from exercising your privacy rights, you can also access, delete, and correct certain Personal Data through your Ford or Lincoln account.
+
+- Opt-out of sales or targeted advertising. You can also request that we stop disclosures of your Personal Data for Sales or Targeted Advertising:
+
+- You can opt out of disclosures we make to certain advertising and analytics partners by setting your cookie preferences, which you can access by clicking on the “Cookie Settings” link at the bottom of this page. This opt-out will apply only to the device or browser you are using when you submit the request. You can also opt out of these disclosures by using the Global Privacy Control, which is designed to recognize opt-out preference signals. To send your request through an opt-out preference signal, you must use a browser or extension that supports the preference signal, and you will need to turn it on for each browser and each device you use.
+
+- You can opt out of other forms of sales or targeted advertising by using our request form here.
+
+- Contacting us for more information. You can contact us for more information using the contact methods in the How to Contact Us section, below. Connecticut residents can contact us for general information about our privacy practices or this notice by using this webform.
+
+- Authorized agents. In certain states, you can use an authorized agent (a person or entity acting on your behalf) to submit a request to opt-out out of our processing of personal data for the purposes of targeted advertising or sales. If you use an authorized agent to submit a request, we will not act on that request unless we are able to authenticate, with commercially reasonable efforts, both your identity and the authorized agent’s authority to act on your behalf. Authorized agents should use this form to submit a request on your behalf.
+
+- Right to non-discrimination. If you choose to exercise any of the privacy rights described above, you will not receive discriminatory treatment from us.
+
+### CHANGES TO THIS PRIVACY NOTICE
+
+We will update this Notice when necessary to reflect changes in applicable law, our Products, what personal information we collect, or how we use personal information. When we post changes to the Notice, we will change the “Effective date” at the top of the Notice. If we make material changes to the Notice, we will provide notice or obtain consent regarding such changes as may be required by law.
+
+Before the current update, this Notice was last updated January 16, 2026.
+
+### HOW TO CONTACT US
+
+If you have a privacy concern, complaint, or question for Ford, please contact us at:
+
+Mail:
+
+Ford Motor Company
+
+Customer Relationship Center
+
+P.O. Box 6248
+
+Dearborn, MI 48126
+
+Email:
+
+privacy@ford.com
+
+Telephone:
+
+1-800-392-3673
+
+For TTY/TDD users, please contact 1-800-392-3673, using the Telecommunication Relay Service by dialing 711
+
+Available M-F 8:00 am – 11:00 pm Eastern time
+
+Available Sat. 8:00 am – 8:00 pm Eastern time
+
+Our Customer Relationship Center is closed on Sundays and on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day.
+
+### Connected Vehicle Privacy
+
+Effective on: July 1, 2026
+
+A variety of technologies work together to provide connectivity. Your vehicle may be equipped with factory-installed connectivity technology capable of wirelessly transmitting vehicle-originated data to Ford. Your vehicle may also be equipped with features or services that wirelessly transmit vehicle-originated data to Ford as part of their function (“Connected Services”). “Connected Vehicle Information” is the data originating from vehicles with either type of connectivity.
+
+You can check to see if your vehicle is equipped with connectivity technology or Connected Services. Check here for Ford vehicles, and here for Lincoln vehicles, or you can read the vehicle’s owner’s manual or visit your dealer.
+
+This Connected Vehicle Privacy section of our US Privacy Notice applies to Ford or Lincoln vehicles that are purchased or leased by consumers in the United States. To return to the top of our main Notice, click here.
+
+Topics relating to Connected Vehicle Information that are not addressed specifically in this section are covered in other sections of our US Privacy Notice. For example, for information on our use of personal information, see the section “Our Use of Personal Information” above, and for information on how we disclose personal information to others, see the section “Our Disclosures of Personal Information” above.
+
+Connected Vehicle Information
+
+The following categories describe Connected Vehicle Information and the purposes for which we use it, where applicable, based on vehicle technology and service selections:
+
+| Connected Vehicle Information Categories |
+
+Examples of Data
+How is it used by Ford?
+
+| Vehicle Data
+
+(may also be referred to as Vehicle Information) |
+
+- Information about the vehicle and its performance, including:
+
+• Identifiers such as the vehicle identification number (VIN), modem electronic serial number (ESN), SIM serial number (ICCID), hardware model and part numbers, software version numbers, etc.;
+
+• Vehicle maintenance data;
+
+• The status of vehicle systems (such as fuel and fluid levels, tire pressure, engine temperature, and odometer information);
+
+• Vehicle diagnostics and other information about the vehicle's performance (such as diagnostic trouble codes, timestamps, and memory usage when detected); and
+
+• Vehicle analytics including usage of vehicle features, apps, services, and technology (such as which features are used).
+To provide connected features and services; troubleshooting; product improvement; research and development; and for offering products and services tailored to you.
+
+| Driving Data
+
+(may also be referred to as Driving Characteristics and Behavior) |
+
+Information about how the vehicle is operated and used (such as speed, use of accelerator, brakes, steering, driver assist technologies, seat belts, activation of airbag deployment, collision signals, etc.).
+To provide connected features and services; troubleshooting; product improvement; research and development.
+Vehicle Location
+The vehicle’s precise latitude and longitude, compass direction, heading, altitude, and charging location.
+To provide connected features and services; troubleshooting; product improvement; and research and development.
+
+| Audio/Visual
+
+(may also be referred to as Connected Voice Data, Digital Assistant, Ford Assistant, or Lincoln Assistant) | Images from forward-facing or rear-facing cameras.
+
+Voice commands and other utterances captured when the vehicle’s connected voice recognition system is in “active listen” state. |
+
+To provide connected features and services; troubleshooting; product improvement; and research and development.
+
+| Media Analytics
+
+(may also be referred to as Audio Listening Analytics) |
+
+Information about what is listened to in the vehicle (such as radio presets, volume, channels, media sources, title, artist, and genre).
+Troubleshooting; product improvement; and research and development.
+
+### Collection of Connected Vehicle Information
+
+Whether your vehicle discloses Connected Vehicle Information to us typically depends on how the vehicle is equipped – in other words, what connectivity technologies, features, software version, data sharing settings, and Connected Services are present and what selections have been made for data sharing settings. For information on other situations when we collect Connected Vehicle Information, see the US Privacy Notice section “Categories and Sources of Personal Information We Collect”.
+
+When Connected Vehicle Information is transmitted from the vehicle, it is generally associated with a VIN or other unique identifiers, and the VIN or other unique identifiers can be linked to you. Connected Vehicle Information may also be transmitted from the vehicle in de-identified form, such that the information cannot reasonably be linked back to you. If de-identified information has been transmitted to us from the vehicle, we will use the information only in de-identified form and will not attempt to reidentify it.
+
+Some vehicles for model year 2020 and later automatically transmit Vehicle Analytics and specific types of Vehicle Data (such as vehicle diagnostics) to us at delivery.
+
+When you are asked to provide Connected Vehicle Information, you may decline (such as by not associating a VIN to a Ford or Lincoln account). But, if you choose not to provide or allow Connected Vehicle Information, which is necessary for some Connected Services and other products, those Connected Services and other products may not function correctly or be available for use.
+
+### Your Disclosure of Connected Vehicle Information to Third Parties
+
+You can disclose Connected Vehicle Information to third parties, or you can direct Ford to disclose Connected Vehicle Information to third parties, when you choose to use their applications or services that:
+
+- Are made available to you through the vehicle information and entertainment (“infotainment”) system;
+
+- Are made available to you through the third party’s app on your mobile device when you connect your mobile device to the vehicle via Bluetooth or tether; or
+
+- Require or permit the account you have with the third party to be linked to a Ford or Lincoln vehicle or mobile app.
+
+If you choose to disclose Connected Vehicle Information with third parties, the third party’s terms and conditions and privacy policies (and not this Connected Vehicle Privacy section of our US Privacy Notice) apply to the information you disclose, or that you direct Ford to disclose, to them.
+
+### Our Use of Connected Vehicle Information
+
+We may use the Connected Vehicle Information described above to:
+
+- determine whether the modem is fully connected and, if it is not, to contact you with information about our connectivity services, where permitted by law;
+
+- provide connected features and services;
+
+- maintain and manage the vehicle’s connection to the telecommunications network;
+
+- fulfil your requests or answer your questions;
+
+- investigate, verify, or maintain the quality or safety of a Ford vehicle, service, product, technologies or processes, including troubleshooting and debugging activities to identify and repair technical errors that impair existing or intended functionality;
+
+- preserve the integrity or security of our systems or vehicle systems;
+
+- effectuate a product recall;
+
+- conduct internal research to evaluate the quality of and improve our products, services, processes, and technologies;
+
+- evaluate the quality of the products and services that our suppliers provide to us or on our behalf;
+
+- conduct internal research to develop new products, services, processes, and technologies;
+
+- manage and improve our business operations and our relationship with you;
+
+- marketing purposes as permitted by law, which, in some circumstances, may require your consent;
+
+- comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or investigate, establish, exercise, prepare for, or defend a pending or anticipated investigation or legal claim;
+
+- cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may violate federal, state, or local laws or regulations, where permitted by law;
+
+- take immediate steps to protect an interest that is essential for the life, physical safety, or other vital interests of individuals;
+
+- prevent, detect, protect against, investigate, prosecute those responsible for, or otherwise respond to a security incident, identity theft, fraud, harassment, or malicious, deceptive, or illegal activity; and
+
+- facilitate a corporate transaction, such as a merger or acquisition, where permitted by law.
+
+We may, where permitted by law, combine and analyze the Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analyzing vehicle diagnostics information, identifying, investigating, resolving quality issues, conducting recalls, informing future product improvements, and providing over-the-air updates.
+
+In limited situations, we may collect Vehicle Location, regardless of location settings. We do this to protect and defend our rights or property (including repossessing a vehicle in the event of a delinquency) or to comply with applicable law, to respond to valid legal process (including from law enforcement or other government agencies), or, in the event of exigent circumstances, to help prevent the loss of life or serious injury or help protect the personal safety of Ford personnel, users of our vehicles, websites, or apps, our visitors, or the public.
+
+We will process your personal information where we have legal grounds under applicable data protection laws to do so. Where applicable, these legal grounds may include legitimate interests, performance of contract, compliance with legal obligations, or consent. We retain your personal information in an identifiable form for as long as necessary for the purposes set out in this Notice.
+
+Ford may also de-identify (as that term is defined by certain data protection laws) data that has been transmitted to us from the vehicle in identifiable form and use the data in a de-identified form as permitted by law. Once de-identified, Ford will not attempt to reidentify the data.
+
+### Our Disclosure of Connected Vehicle Information
+
+We disclose Connected Vehicle Information, as permitted by applicable data protection laws:
+
+- with your consent;
+
+- where you have directed us to disclose your Connected Vehicle Information, as described above in the section “Your Disclosure of Connected Vehicle Information to Third Parties”; and
+
+- in support of the uses described above in the section “Our Use of Connected Vehicle Information.”
+
+In these circumstances, and as permitted by applicable data protection laws, we may disclose Connected Vehicle Information to:
+
+- the companies related to us by common control or ownership;
+
+- other organizations that provide services to us under agreements that restrict how they are permitted to use the Connected Vehicle Information and require them to use adequate safeguards to protect it (such as mail providers, roadside assistance providers, analytics providers, event hosting services, website and data hosting providers, etc.);
+
+- other organizations that use Connected Vehicle Information to provide you with their products or services or with a product or service that we provide jointly with another organization;
+
+- other organizations that we work together with to promote their products or services, our products or services, or a jointly-offered product or service;
+
+- our authorized dealers, to whom we make VIN-based information Vehicle Data (related to the current status of vehicle systems and vehicle health alerts) available so that when you schedule service with an authorized dealer, they can more conveniently assist in the diagnosis and repair of the vehicle;
+
+- our professional advisors (such as auditors, accounting firms, law firms, etc.);
+
+- courts, regulators, governmental authorities, participants in litigation, law enforcement agencies, and similar third parties; and
+
+- third parties with whom we are engaged in corporate transactions, such as mergers or acquisitions.
+
+### Connected Vehicle Controls
+
+A variety of technologies work together to provide the ability to access Connected Services and features. Depending on how the vehicle is equipped, different in-vehicle controls may be available to you. Learn more about modems, other connectivity technology, and in-vehicle controls in the Owner’s Manual or call the Ford Customer Relationship Center (see below, in the section “How to Contact Us”). Owner’s manuals are available at the following links:
+
+- Ford Vehicles
+
+- Lincoln Vehicles
+
+You can use the in-vehicle controls and take other steps to protect your privacy with respect to Connected Services.
+
+Changing in-vehicle settings to prevent the vehicle from transmitting Connected Vehicle Information (or certain types of Connected Vehicle Information) will affect the quality or availability of some Connected Services and other products that depend on vehicle connectivity or the transmission of certain types of Connected Vehicle Information to us or others who provide the affected Connected Service or product.
+
+### MASTER/FACTORY RESET
+
+Performing a MASTER/FACTORY RESET returns the vehicle’s modem to the factory settings and removes any imported personal information from the vehicle (such as contact lists, names of paired devices, or the names of connected Wi-Fi networks or hot-spots).
+
+MASTER/FACTORY RESET also disconnects modem-equipped vehicles from any Ford/Lincoln accounts.
+
+Note, for vehicles with a Connectivity Device: you must remove the VIN from your Ford/Lincoln account(s) to disassociate the vehicle from the account and stop any account-related data sharing.
+
+If a MASTER/FACTORY RESET is not available, please perform a Connectivity Reset.
+
+If the Factory Reset button is not accessible in Ford Digital Experience and Lincoln Digital Experience vehicles, you may need to create a “profile” in order to access the functionality in the vehicle’s Settings.
+
+Deleting the Ford/Lincoln app from your device without also performing a MASTER/FACTORY RESET will not disable data sharing from the vehicle.
+
+YOU SHOULD PERFORM A MASTER/FACTORY RESET:
+
+- BEFORE SELLING THE VEHICLE OR TRANSFERRING VEHICLE OWNERSHIP
+
+- AFTER PURCHASING OR LEASING A PRE-OWNED VEHICLE
+
+- BEFORE AND AFTER RENTING A VEHICLE FROM A RENTAL COMPANY
+
+- ANY TIME YOU WANT TO DISCONNECT A MODEM-EQUIPPED VEHICLE FROM ALL FORD/LINCOLN ACCOUNTS ASSOCIATED WITH THE VEHICLE (WHETHER THE ACCOUNT IS YOURS OR SOMEONE ELSE’S).
+
+### Connected Vehicle Services and Technologies
+
+We work with AT&T as our current cellular network provider for our Connected Services in the United States. Not all features or services will be available in all markets and coverage may be limited, including due to your vehicle capability and data plan coverage. Availability of features is subject to change and dependent on mobile device and vehicle capability and the internet access available to you. Some features may only be available through certain services. Vehicle connectivity and Connected Services, including over-the-air Software updates, may be unavailable or interrupted from time to time for a variety of reasons, such as environmental or topographical conditions or data plan coverage.
+
+Our Connected Services include:
+
+- Modem-activated connected services and features (if equipped): Formerly called FordPass Connect (SYNC Connect) or Lincoln Connect, a modem built into the vehicle enables access to features and services. The modem allows the vehicle to connect to wireless networks, much like a mobile device with a subscriber identity module (SIM). Like other vehicle parts, the modem is installed at the factory. Periodically, the modem sends messages to us, through our cellular network provider to enable Connected Services. The messages could include information that identifies the vehicle, the SIM, and the electronic serial number (ESN) of the modem. The cellular network provider may also associate the modem’s SIM to additional information such as cellular network tower identification. Unless the modem is deactivated or vehicle connectivity is disabled, the modem will communicate with the cellular network provider. You may be able to customize your preferences in the in-vehicle Settings menu. Please refer to the owner’s manual or contact the Ford Customer Relationship Center for more information. Certain Connected Services or features may require activating the modem with a Ford or Lincoln account.
+
+- Ford Connectivity Devices Other Than Modems (if equipped): Connectivity devices (either installed in the vehicle at the factory, installed in the vehicle by a dealer, or plugged into the OBD port in compatible vehicles) enable access to Connectivity Services. Connectivity devices allow connected vehicles to connect to a wireless network (much like a mobile device with a SIM). Periodically, the connectivity device sends messages to us, through our cellular network provider. These messages contain a unique number which identifies the connectivity device’s SIM, the vehicle's VIN, and the electronic serial number (ESN) of the connectivity device. The cellular network provider may also associate the connectivity device’s SIM to additional information such as cellular network tower identification. Unless the connectivity device is deactivated, the connectivity device will communicate with the cellular network provider. Please refer to the owner’s manual or contact the Ford Customer Relationship Center for more information. When connected with the Ford or Lincoln App and associated to the vehicle, you may be able to access additional features. Some features require an active Ford / Lincoln Account.
+
+- Wi-Fi Hotspot (if equipped): Certain vehicles equipped with a modem can sign-up with AT&T for Wi-Fi Hotspot service in the vehicle. To enable the activation of the Wi-Fi Hotspot, certain information, including the vehicle's VIN and the SIM identifier, is provided to AT&T, who manages the subscription and will use that information according to its own privacy notice, which you can find here. AT&T will inform us when certain data usage thresholds are met. If you have activated the modem with a Ford or Lincoln account through the Ford or Lincoln App, you can view approximate data plan usage amounts within the app and in your vehicle.
+
+For more information about the vehicle Wi-Fi hotspot, please visit the following websites:
+
+- Ford Vehicles
+
+- Lincoln Vehicles
+
+Note: If you’re planning to sell your Ford or Lincoln connected vehicle, remember to remove the vehicle from your AT&T account before you sell the vehicle. And, if you purchase or lease a used Ford or Lincoln connected vehicle, you’ll need to contact AT&T to add the new vehicle to your AT&T account.
+
+- Wi-Fi (if equipped): To enhance the SYNC experience, when connected to Wi-Fi (data charges may apply), Vehicle Data, such as vehicle analytics, is shared with us and we periodically release software updates (cellular connectivity may also be used). You may also be able to choose to enable Share Media Analytics, Send Failed Voice Commands, and/or Submit Feedback regarding SYNC in the in-vehicle settings menu.
+
+Note: Please make sure you connect the vehicle to trusted Wi-Fi networks.
+
+- Mobile Apps (if equipped): You may be able to use Mobile Apps with SYNC using AppLink, USB, or Bluetooth to connect compatible mobile apps on your device with SYNC 3/SYNC 4 (SYNC). Your mobile device provides the data connection (so data charges for your mobile device may apply) and SYNC provides the infotainment integration, including voice controls. Mobile Apps with SYNC will use the connected device’s data plan to send encrypted data including your VIN, SYNC module serial number, odometer, enabled apps, usage statistics and debugging information to Ford which may be used for service functionality, troubleshooting, continuous improvement, and for the other purposes set out in this Policy.
+
+In certain Ford Digital Experience and Lincoln Digital Experience vehicles, where available, you can use embedded or download compatible apps directly to the infotainment system. To download apps through the Google Play Store, you will need to log into your Google Account using the vehicle infotainment touchscreen.
+
+The vehicle will send us information regarding what apps are enabled, usage statistics and debugging information for service functionality, continuous improvement, and for the other purposes set out in this Policy.
+
+Use of mobile apps requires user consent to send and receive app authorization information and updates. When launching an app for the first time, it may ask you for permission to access certain information or functionality. The infotainment system organizes app permissions into groups. You may be able to grant these group permissions individually, change a permission status any time when not driving in the in-vehicle Settings menu, and see the data included in each group, if equipped. Permissions may include, for example, exchanging with a third-party app information about the vehicle, such as Vehicle Data, Driving Data, Vehicle Location, Convenience Controls, and/or Push Notifications. See your in-vehicle Settings menu or Owner’s Manual for more information. Please be aware that the permission selections available to you may vary based on the infotainment system version equipped in your vehicle. Please note that you are only prompted to grant permissions the first time you use an app with the infotainment system and your device or with an active profile. The permissions you select will be specific to the profile in use at the time or the connected device. We recommend you review the terms and conditions and privacy notices for any third-party app or service to which you subscribe and/or use. We take no responsibility for apps or services provided by any third party, including their use of any data. If you choose to share information about your vehicle through your use of third-party apps or services, once you have shared the information, the third party’s terms and conditions and privacy notices (and not this Notice) apply to the shared information.
+If you change your mind about sharing vehicle information with a mobile app or want to stop using it with SYNC, you can change your preferences in SYNC’s settings in the vehicle.
+
+- 911 Assist (if equipped): 911 Assist (if equipped and active) may, through any paired and connected cellular phone, disclose to emergency services that the vehicle has been in a crash involving the deployment of an airbag or, in certain vehicles, the activation of the fuel pump shut-off. Certain versions or updates to 911 Assist may also be capable of being used to electronically or verbally provide the vehicle location (such as latitude and longitude) and/or other details about the vehicle or crash, change in velocity, and possible detection of fastened seatbelts, or personal information about the occupants to 911 operators to assist them in providing the most appropriate emergency services. If you do not want to disclose this information, do not activate the 911 Assist feature. If any user sets 911 Assist to on or off, that setting applies for all paired phones. To switch 911 Assist on and off or for more information, please see your owner’s manual (SYNC and Settings).
+
+Note: Vehicles equipped with the MyKey feature may be capable of overriding the 911 Assist settings and turning 911 Assist On, even if it was previously set to Off. If you do not want to disclose this information, do not enable MyKey.
+
+- Location and Global Positioning System (GPS) (if equipped): Some vehicles contain global positioning system (GPS) capability or, in some instances, may utilize the GPS in connected mobile devices. GPS may be used to determine the vehicle’s precise physical location, travel direction, and speed, and to record this information over time to provide location-based services.
+
+- Ford Apps: If a vehicle is equipped with connectivity technology, you may be able to connect to the vehicle using the Ford/Lincoln apps. You must have a Ford/Lincoln Account and have associated a vehicle to your Account. Once activated with the Account, the vehicle may send Connected Vehicle Information, including location information, to us. To turn off sharing data associated with your Ford/Lincoln Account, you must perform a MASTER/FACTORY RESET on the vehicle or remove the VIN from your Ford/Lincoln Account or via the app garage. Removing the vehicle from the Account’s garage must be done for all associated accounts in order to remove the remote access, and to stop access and transmission of the related Connected Vehicle Information. Deleting the app from your device will not disable data sharing. For more information, please see the app privacy notice:
+
+- Ford App
+
+- Lincoln App
+
+- Multimedia Infotainment Systems (for example SYNC®):
+
+Vehicles equipped with an “infotainment” system, for example SYNC, allow you to connect a mobile device to your vehicle, display data from your device on the touchscreen for example, music and album art, use the device’s cellular data connection to transmit vehicle data or make phone calls, or use embedded or downloaded apps.
+
+If equipped, you may be able to connect the vehicle to a Wi-Fi access point outside of the vehicle using the infotainment touchscreen. Please use trusted networks. Data charges may apply.
+
+If you no longer plan to use the infotainment system or the vehicle, we recommend you perform a MASTER/FACTORY RESET or Connectivity Reset to erase the stored information. You can find more information about the available reset options in your in-vehicle Settings menu or in the Owner’s Manual.
+
+- Over-the-Air Updates:
+
+If your vehicle is equipped with a connected functionality, we may be able to remotely update the Infotainment System, embedded modem, connectivity device software, or the vehicle’s operating system (“Software”) via an over-the-air (“OTA”) update. Data usage rates and fees may apply.
+
+Please be aware that we (or our affiliates or service providers) may remotely check and automatically update the Software and your use of the Software is in accordance with the vehicle software End User License Agreement (“EULA”) provided in your vehicle Owner Manual. You may be able to disable Software updates in your in-vehicle Settings menu. After disabling Software updates, you may receive an in-vehicle notification informing you an update is available. See the Owner’s Manual for details. If you have any questions or need assistance, please contact us (see “How to Contact Us” section for details).
+Please also be aware that Ford, its affiliates, service providers, and/or designated agents may periodically remotely check the version of the Software and may, as permitted by law, automatically remotely deliver Software updates, upgrades, supplements, or changes to the Software without any further notice or additional consent. For example, these updates or changes may enhance safety or security, provide improved functionality, or may maintain the proper operation of the vehicle. Certain functionality may be limited or interrupted during the delivery of these Software updates or changes. These Software updates or changes may affect or erase data that you have stored in the vehicle. We are not responsible for any affected or erased data due to a Software update or change.
+
+Because the vehicle will store preferences and any imported data, such as an address book, don't forget to do a Reset if you ever sell your car or buy a used vehicle equipped with the Modem.
+
+The owner's manual explains available options and how to do this.
+
+Data Sharing Icons - How to Know if a Vehicle is Sharing Data
+
+Select model year vehicles include in-vehicle icons that indicate when Connected Vehicle Information is being shared. These icons may be hidden temporarily while you navigate in menus or use certain features and services (such as Android Auto™ or Apple CarPlay®).
+
+Beginning in Model Year 2024, Ford Digital Experience equipped vehicles have the above Wi-Fi and cellular signal strength icon which indicates the reception strength of the connected network and also indicates the potential transmission of data, including Vehicle Data and/or Driving Data.
+
+If a Ford / Lincoln account has been associated with the vehicle, the above icon indicates that Vehicle Data and/or Driving Data, plus Vehicle Location are being shared.
+
+If a Ford / Lincoln account has been associated with the vehicle, the above icon indicates Vehicle Location is being shared.
+
+If a Ford / Lincoln account has not been associated with the vehicle, the above icon indicates that only Vehicle Data is being shared. If a Ford / Lincoln account has been associated with the vehicle, the above icon indicates that Vehicle Data and/or Driving Data is being shared.
+
+Vehicles equipped with Connectivity Devices include a window etching (or sticker) with an image similar to below, indicating the Connectivity Device may be sharing Connected Vehicle Information, for example Vehicle Data and Vehicle Location.
+
+Note: To stop the Connectivity Device from sharing this information, see your Connectivity Settings through the Ford / Lincoln app. You may also remove the vehicle from your Ford / Lincoln account.
+
+You may be able to check the status bar on the screen of the in-vehicle infotainment system, if equipped, for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device.
+For other vehicle models, please see the owner’s manual, check the in-vehicle Settings menu (if equipped), or contact your dealer for more information about what connectivity equipment is installed in the vehicle and how to tell if the vehicle is sharing data. You can also find out how to deactivate vehicle connectivity in the owner’s manual.
+
+Sharing a Vehicle or Driving a Shared Vehicle
+
+If you share your vehicle with others, let them know about your vehicle's connectivity and privacy settings. For example, inform passengers and other drivers of the vehicle that Connected Vehicle Information is being collected and used by us and others as described above in the section “Our Disclosure of Connected Vehicle Information”. In addition, tell other drivers how they can make changes using the in-vehicle Settings menu.
+
+You are responsible for ensuring that anyone sharing your vehicle has read and understood this Connected Vehicle Privacy section of our US Privacy Notice and, if required by law, has consented to our collection, use and/or disclosure of personal data when driving your vehicle.
+
+In certain vehicles, drivers and passengers with an unrecognized mobile device may see a pop-up window in the vehicle that alerts them to current data sharing settings. A mobile device is "recognized" if it has been paired using Bluetooth with SYNC. This way, if someone is new to your vehicle, or has not paired their mobile device, the vehicle will notify the person that data is being transmitted.
+
+In Ford Digital Experience and Lincoln Digital Experience vehicles where users can select a driver profile, drivers and passengers may see a pop-up window in the vehicle that alerts them one of the settings that controls transmission of Connected Vehicle Information to Ford had changed since the last time the profile was selected. Another driver may change your sharing settings, so don't forget that when you reposition your seat or adjust your mirrors, you may also need to re-adjust your data sharing settings.
+
+Your Privacy Rights
+
+Depending on your state of residency, you may be granted certain privacy rights and choices. You can learn more by reading the “Your State-Specific Privacy Rights” section in our US Privacy Notice. California residents can learn about their privacy rights in our California Notice at Collection and Privacy Disclosures.
+
+Changes to this Notice
+
+We may periodically modify or update this Connected Vehicle Privacy section of our US Privacy Notice, so please visit www.fordconnected.com and select the flag for the appropriate country to get updates. When we make material changes to this section of our US Privacy Notice, we will give you sufficient advance notice to enable you to exercise your rights in relation to your personal information (e.g., object to processing).
+
+How to Contact Us
+
+If you have a privacy concern, complaint, or question for Ford, please contact us at:
+
+Mail:
+
+Ford Motor Company
+
+Customer Relationship Center
+
+P.O. Box 6248
+
+Dearborn, MI 48126
+
+Email:
+
+privacy@ford.com
+
+Telephone:
+
+800-392-3673
+
+800-232-5952 (TDD for the hearing impaired)
+
+Available M-F 8:00 am - 11:00 pm EST
+
+Available Sat. 8:00 am – 8:00 pm EST
+
+### California Notice At Collection And Privacy Disclosures
+
+### CALIFORNIA NOTICE AT COLLECTION AND PRIVACY DISCLOSURES
+
+Effective Date: July 1, 2026
+
+This California Consumer Privacy Act ("CCPA") Notice at Collection and Privacy Disclosures (the “California Notice”) describes how we Collect and use Personal Information (“PI”).
+
+To learn more about the Personal Information we collect and how we use it, you can click here to view our information practices. Unless otherwise noted, the disclosures and information practices contained in this California Notice describe our current practices and our practices for the 12 months preceding the Effective Date. Click here for information about the rights that the CCPA provides to California residents and click here for information about how to exercise them.
+
+This California Notice applies to California Consumers that use our Products or interact with us in an individual or household capacity.
+
+This California Notice does not apply to:
+
+- Current Ford employees, who may view their privacy notice through Life@Ford.
+
+- Former employees, retirees, beneficiaries, dependents, or contractors, who may view their notices at at.ford.com at the applicable website, mobile app, or other online Product.
+
+- Job applicants, who will receive notices at applicable websites or by visiting the Ford Careers page here.
+
+- Individuals who interact with Ford in their capacity as an employee or representative of another business or entity that does business with Ford, who may view their privacy notice here.
+
+- Activity at authorized dealerships. Dealers are separate legal entities from Ford and, under the CCPA, separate Businesses from Ford. If you want to exercise your CCPA rights regarding Personal Information a Ford or Lincoln authorized dealer may have Collected about you, you will need to contact the dealer directly about exercising your rights.
+
+This California Notice supplements other parts of our main Notice and provides additional information for California residents. In the event of a conflict between any other Ford policy, statement, or notice and this California Notice, this California Notice will prevail as to California residents’ rights under the CCPA. Capitalized terms in this California Notice have the same meaning as the matching terms defined in the CCPA or our main Notice.
+
+You can click on the following links to navigate to the different sections in this California Notice
+
+What Personal Information We Collect and Why We Collect It
+
+Sources of Personal Information
+
+Who We Disclose Personal Information To
+
+Selling and Sharing of Personal Information
+
+Retention of Personal Information
+
+Your California Privacy Rights
+
+How to Exercise Your California Privacy Rights
+
+Annual CCPA Metrics
+
+### What Personal Information We Collect and Why We Collect It
+
+We Collected the categories of Personal Information about California residents that are indicated in the chart below. Specific pieces of Personal Information we Collected about you may vary, depending on your relationship with us and how you interact with us, and may not include all examples listed.
+Category of PI
+Purposes for Collection, Use, and Disclosure
+(1) Identifiers such as name, email address, postal address, phone number, driver’s license number, or other similar identifiers
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(2) Personal Records (personal information described in 1798.80(e) of the California Civil Code) such as a phone number or other financial information
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- For payment processing, fraud prevention, credit risk reduction, or other related financial services
+
+(3) Characteristics of protected classifications under California or federal law, such as age, gender, and veteran and military status
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(4) Customer Account Details/ Commercial information such as purchase history or tendencies
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(5) Internet or Other Electronic Network Activity Information such as IP address, mobile network provider, and other network related information
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(6) Geolocation data such as information about your vehicle location or your device and mobile location
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To provide Products you request or offer Products to you
+
+- To provide location-based Products
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling)
+
+| (7) Sensory Data, including audio and visual data such as voice commands and other utterances captured when the vehicle’s voice recognition system is in “active listen” state, customer care call recording, in vehicle feedback feature, and audio or video surveys |
+
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+(8) Inferences drawn from Personal Information Collected to generate information about your likely preferences or other characteristics
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+- To assess your potential interest in a vehicle or other Product
+Connected Vehicle Information, as further described in the Connected Vehicle Privacy section of our US Privacy Notice
+- To develop, improve, and provide our Products (for example, customer service, technical support, troubleshooting, vehicle service, warranty and recall needs, conducting Product research and improvements, and personalizing Products)
+
+- To support authorized dealer operations (for example, to assist with service and repair scheduling and enhance the overall dealership sales and service experience)
+
+- To promote and offer our Products, and those of our selected partners, through co-branded service offerings, joint marketing, advertising, contests, and sponsorships
+
+| Sensitive Data:
+
+- precise geolocation data
+
+- driver’s license number
+- For precise geolocation data:
+
+- To provide location-based services
+
+- To help prevent the loss of life or serious injury, to or help protect the personal safety of Ford personnel, users of our vehicles, websites, or apps, our visitors, or the public
+
+- To provide Products you request, including information you request when using our Products (for example, charging locations that are part of the BlueOval Charging Network)
+
+- For other purposes as authorized by the CCPA, including undertaking activities to verify or maintain the quality or safety of services or devices that are owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance services or devices that are owned, manufactured, manufactured for, or controlled by us.
+
+- For driver’s license number:
+
+We do not use Sensitive Personal Information for the purpose of inferring characteristics about you, or for any other reasons besides permitted Business Purposes. For this reason, we do not treat the Sensitive Personal Information we Collect as subject to a request to limit the use of Sensitive Personal Information and, therefore, we do not offer a way for you to submit such a request.
+
+We may also Collect, use, or disclose all categories of PI described above for other purposes authorized by applicable laws, including:
+
+- to help prevent the loss of life or serious injury or to protect the personal safety of Ford personnel, users of our vehicles, websites, or mobile apps, our visitors, or the public;
+
+- to detect, investigate, prevent or otherwise address fraud or other security and integrity issues;
+
+- as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of our business or assets;
+
+- to operate and maintain the security and integrity of our Products; and
+
+- to protect the rights or property of ourselves, our affiliates, or others, including by enforcing our agreements, terms, and policies.
+
+In addition, when we process data we collect for the purposes described in this California Notice, we may use artificial intelligence, machine learning, and other automated decision-making technologies to support the processing, in accordance with applicable law.
+
+Further, we may Deidentify your Personal Information and disclose this Deidentified information to others as permitted by applicable law. Where we Deidentify information or use Deidentified information, we will use the data only in Deidentified form and will not attempt to reidentify that information.
+
+Return to top of California Notice
+
+### Sources of Personal Information
+
+We Collect Personal Information:
+
+- directly from you;
+
+- from your vehicle;
+
+- from your devices or browser;
+
+- from our affiliates;
+
+- from authorized dealers and other repairers;
+
+- from Service Providers and suppliers;
+
+- from business partners;
+
+- from law enforcement agencies, courts, regulatory agencies, and others;
+
+- from data analytics firms;
+
+- from parties to corporate transactions;
+
+- and from publicly available sources.
+
+### Who We Disclose Personal Information To
+
+We may have disclosed, or may disclose, each category of Personal Information described above to these categories of recipients:
+
+- companies within the Ford Motor Company family of companies and affiliates;
+
+- authorized Ford dealers;
+
+- Service Providers working on our behalf, including customer service providers, advertising and digital analytics companies;
+
+- joint marketing partners and authorized dealers; or
+
+- other companies that we work with to offer Products to our customers.
+
+We have also disclosed, or may disclose, each category of Personal Information described above in other circumstances when required to or permitted by law. These circumstances include:
+
+- to businesses we partner with to provide Products requested by you;
+
+- to outside parties when disclosures are required or permitted by law to defend against legal claims;
+
+- to law enforcement agencies, courts, regulatory agencies and others when the disclosure is required or permitted by law, including to comply with valid legal process; and
+
+- to parties with whom we are involved in a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of our business or assets.
+
+### Selling and Sharing of Personal Information
+
+This section describes the categories of Personal Information Sold to Third Parties (other than Sharing) or Shared with Third Parties for Cross-Context Behavioral Advertising in the preceding 12 months. We offer you the ability to opt-out of these disclosures as set forth in the Your Opt Out Rights section below or by visiting our Your Privacy Choices page.
+PI Category
+Sale
+
+(other than Sharing)
+Share
+Purposes and Categories of Recipients
+Identifiers
+Yes
+Purposes: To inform customers of satellite radio subscriptions, for marketing and advertising purposes, and co-branded offerings or joint marketing activities
+
+Categories of Recipients: SiriusXM, joint marketing partners and authorized dealers, advertising and digital analytics companies, social media platforms, and data analytics firms
+Personal Records
+Yes
+No
+
+| Purposes: To provide complimentary satellite radio trials, for marketing and advertising purposes, and co-branded offerings or joint marketing activities
+
+Categories of Recipients: SiriusXM, joint marketing partners, authorized dealers, and data analytics firms
+Characteristics of Protected Classifications
+No
+Yes
+
+| Purposes: For analytics, marketing and advertising purposes and co-branded offerings or joint marketing activities
+
+Categories of Recipients: Advertising and digital analytics companies and joint marketing partners
+Customer Account Details / Commercial Information
+Yes
+
+| Purposes: For co-branded offerings or joint marketing activities
+
+Categories of Recipients: Joint marketing partners and authorized dealers
+Internet or Other Electronic Network Activity Information
+No
+Yes
+
+| Purposes: For marketing and advertising and co-branded service offerings or joint marketing activities
+
+Categories of Recipients: Advertising and digital analytics companies, and joint marketing partners
+Geolocation Data
+Yes
+
+| Purposes: For marketing and advertising
+
+Categories of Recipients: Advertising and digital analytics companies, and other companies that we work with to offer Products to our customers
+
+We have also Sold information about factory-installed vehicle features and options with third parties such as auction companies, insurance companies, authorized dealers, lenders, guidebook providers, vehicle websites, and prospective buyers so that they can verify a vehicle’s features and options and estimate its value. The features and options information that we share with these third parties is linked to the vehicle identification number (VIN).
+
+We do not knowingly Sell the Personal Information of minors under 16 years of age.
+
+### Retention of Personal Information
+
+We keep the categories of Personal Information described above for as long as is necessary for the purposes described in this Notice or otherwise authorized by law.
+
+This generally means holding each category of Personal Information for as long as one of the following criteria apply:
+
+- whether your Personal Information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information;
+
+- whether your Personal Information is reasonably necessary to carry out a disclosed purpose that is reasonably compatible with the context in which the Personal Information was Collected;
+
+- whether the Personal Information is reasonably required to protect or defend our rights or property (which will generally relate to applicable laws that limit actions in a particular case); or
+
+- whether we are otherwise required or permitted to keep your Personal Information by applicable laws or regulations.
+
+Where Personal Information is used for more than one purpose, we may retain it until the purpose with the latest period expires. For more information about our retention policies, please contact us using the contact details below.
+
+### Your California Privacy Rights
+
+The CCPA gives California Consumers certain rights. Where required, we will ask you to verify your identity before honoring your requests (including requests made by authorized agents).
+
+Right to Access/Know. You have the right to request that we provide you with the following information:
+
+- The categories and specific pieces of Personal Information we have Collected about you in the last 12 months.
+
+- The categories of sources from which we Collect Personal Information.
+
+- The Business or Commercial Purposes for Collecting, using, Sharing or Selling Personal Information.
+
+- The categories of Personal Information we have disclosed about you for a Business Purpose and the categories of recipients to which it was disclosed.
+
+- The categories of Personal Information we Sold or Shared about you and the categories of Third Parties to which each category of Personal Information was Sold or Shared.
+
+Right to Delete. You have the right to request that we delete Personal Information under certain circumstances, subject to several exceptions.
+
+Right to Correct. You have the right to request that we correct Personal Information that we maintain about you if you believe it is inaccurate. We may request documentation from you in connection with your request. Upon receipt of a verifiable request to correct inaccurate Personal Information, we will use commercially reasonable efforts to correct the Personal Information. You can also correct certain Personal Information that we maintain about you by logging into your Ford account.
+
+Your Opt-Out Rights. You have the right to opt out of the Sale and Sharing of your Personal Information. You can opt out of Sales or Sharing via cookies or tracking technologies through an opt-out preference signal or through our Cookie Settings.
+
+You may opt out through our cookie preference center by clicking on the “Cookie Settings” link in the footer of our websites.
+
+We have also enabled the Global Privacy Control, which is designed to recognize opt-out preference signals. In order to process your request through an opt-out preference signal, you must use a browser or extension supporting the preference signal. If you choose to use an opt-out preference signal, you will need to turn it on for each browser and each device you use.
+
+If you would like to opt out of Sales and Sharing other than through cookies or other online tracking technologies, you can do so by filling out the request form here.
+
+Right to Non-Discrimination. You have a right to not be discriminated against for exercising rights set out in the CCPA.
+
+### How to Exercise Your California Privacy Rights
+
+You can exercise your CCPA rights by submitting your request(s) to us using the web form located here. You can also exercise your CCPA rights by calling our Customer Relationship Center, toll-free, at 1-800-392-3673, Monday through Friday from 5:00 am until 8:00 pm Pacific time or Saturday from 5:00 am until 5:00 pm Pacific time. For TTY/TDD users, please contact 1-800-392-3673, using the Telecommunication Relay Service by dialing 711. Our Customer Relationship Center is closed on Sundays and on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day.
+
+If you want to exercise more than one of your CCPA rights, please submit a separate request for each CCPA right, so we can track and respond to your requests more effectively. Please be aware that we will process your requests in the order we receive them.
+
+Whether you use the web form or call us, we will need information from you to process your request so that we can confirm you are a California resident, determine if we have Personal Information about you, and, for access, correction, and deletion requests, verify your identity.
+
+Please be aware there might be circumstances where we will not honor your request, as permitted under the CCPA. For example, if we are not able to verify your identity and that you are a California resident, we may not honor your request. In addition, we may not delete your Personal Information if an exception under the CCPA applies.
+
+You may designate, in writing or through a power of attorney, an authorized agent to make requests on your behalf to exercise your rights under the CCPA. Before accepting a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us.
+
+### Annual CCPA Metrics 2025
+
+The following metrics cover January 1, 2025, through December 31, 2025:
+
+- Requests to Know / Access Requests:
+
+- Received: 95
+
+- Complied with in whole or in part (providing categories or specific pieces of personal information): 75
+
+- Denied: 20
+
+- Median number of days to substantive response: 41
+
+- Requests to Delete:
+
+- Received: 266
+
+- Complied with in whole or in part (deleting all personal information or personal information not subject to an exception): 232
+
+- Denied: 34
+
+- Median number of days to substantive response: 41
+
+- Requests to Opt-Out / Do Not Sell Requests:
+
+- Received: 1454
+
+- Complied with in whole or in part: 1335
+
+- Denied: 119
+
+- Median number of days to substantive response: 1
+
+Return to top of Privacy
+
+## California Consumer Warranty Notice
+
+### California Consumer Warranty Notice
+
+Notification requirements in California. Ford and your Ford dealer place a high priority on your satisfaction with our performance. If you are not satisfied with our resolution of a warranty concern and you would like to seek a civil penalty from Ford, you must follow these steps under California law (Cal. Code Civ. Proc., §871.24(a)-(d)):
+At least 30 days before filing a lawsuit seeking civil penalties (Civ. Code § 1794(c)), you must:
+
+- Notify Ford of your name and the name(s) of any other vehicle owner(s), the accurate Vehicle Identification Number (“VIN”) of your motor vehicle, and a brief summary of the repair history and problems with your motor vehicle, and
+
+- Demand that Ford repurchase or replace your motor vehicle.
+
+When you submit the notice to Ford, you must have possession of your motor vehicle.
+
+Your notice to Ford must be in writing and must be sent either by email to LLNOTICE@ford.com or by certified or registered mail, return receipt requested, to:
+
+Ford Motor Company
+
+Office of General Counsel
+
+Attn: California LL Notice
+
+One American Road
+
+Dearborn, MI 48126
+
+For California residents who wish to submit a privacy request under the California Consumer Privacy Act (CCPA), do not contact the above mailbox. Instead, please use this web form to submit your privacy request.
+
+You can also exercise your CCPA rights by calling our Customer Relationship Center, toll-free, at 1-800-393-3673, Monday through Friday from 5:00 am until 8:00 pm Pacific time or Saturday from 5:00 am until 5:00 pm Pacific time. For TTY/TDD users, please contact 1-800-393-3673, using the Telecommunication Relay Service by dialing 711. Our Customer Relationship Center is closed on Sundays and on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day.
+
+You can learn more at https://www.ford.com/help/privacy/ by viewing our California Notice at Collection and Privacy Disclosures.

@@ -1,0 +1,125 @@
+# Privacy policy
+
+Effective date: December 30, 2025
+
+This Privacy Policy describes the types of personal information that CVS Pharmacy, Inc. and its subsidiaries and affiliated companies (“Business,” “we,” “our,” or “us”) collects from and about you, including through your interactions with us on CVSHealth.com or other locations where this Privacy Policy is posted. We refer to these collectively as the “Services.” By using the Services, you agree to the terms of this Privacy Policy.
+
+This Privacy Policy does not apply to the personal information we collect from our CVS store customers or general visitors to CVS.com, which is subject to a different notice. For more information about our data practices related to our CVS stores, websites, and mobile applications, please visit https://www.cvs.com/help/privacy_policy.jsp.
+
+We reserve the right to change this Privacy Policy at any time. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. We will provide appropriate notice to you and seek your consent, where required by applicable law, if we change this Privacy Policy in a material way. The “Last Updated” legend at the top of this page indicates when this Privacy Policy was last revised.
+
+## Who May Use the Services
+
+We do not knowingly collect personal information online from any person we know to be under the age of 18 and instruct users under 18 not to send us any information to or through the Services without their parents’ consent.
+
+The Services are designed for users from, and are controlled and operated by us from, the United States. By using the Services, you consent to the transfer of your information to the United States or storage of your information in the United States, which may have different data protection rules than those of your country.
+
+## The Personal Information We Collect
+
+We want you to understand how personal information you provide to us is collected and used. Personal information means information that identifies you or is associated with you. Categories of personal information we may collect include:
+
+- Contact information, such as name and email address.
+
+- Device and network information, such as IP address, cookies, and other online identifiers.
+
+- Internet activity and interactions, such as the webpages you visit and how you use the Services.
+
+- Non-precise geolocation data, such as the state you live in.
+
+- Preferences and feedback, such as communications you wish to receive or surveys.
+
+- Professional or employment-related information, such as your job title and employer.
+
+We may collect your personal information from the following sources:
+
+- Directly from you, such as when you provide it to us or to our service providers.
+
+- Automatically through the Services, such as through analytics services and tracking technologies (e.g., cookies).
+
+- From third parties, such as public sources.
+
+If you choose not to provide your personal information to us, we may not be able to provide you with the requested products, services or information.
+
+If you submit any personal information relating to other people in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+
+We may combine the information collected from you through the Services with information we receive from and about you from other online and offline sources and use the combined information in accordance with this Privacy Policy. Our goal is to offer you content, advertisements, products, and services that are most likely to appeal to you.
+
+## Use and Disclosure of Personal Information
+
+We may use your personal information to provide you with the Services and for the following purposes:
+
+- Send you communications and marketing materials, such as when you enroll in our newsletter.
+
+- For our business purposes, such as data analysis, audits, fraud monitoring and prevention, detect and investigate incidents or breaches, developing our Services and new products and services.
+
+- To comply with applicable law and protection of our operations, such as enforcing our terms of use and other terms and condition and protecting our rights, privacy, safety or property and/or that of our affiliates, you, or others.
+
+- With your consent, if you direct us or our service providers to use or disclose your personal information for specific purposes.
+
+We may disclose your personal information to the following categories of recipients:
+
+- Service providers: We may disclose your personal information to service providers that provide business and technical services to us and on our behalf, such as web hosting, payment processing, data analytics, and other services.
+
+- Governmental, regulatory or public authorities: We may disclose your personal information only as permitted or if required to do so by government and law enforcement authorities. In matters involving claims of personal or public safety or in litigation where the information is pertinent (including to allow us to pursue available remedies or limit the damages that we may sustain), we may use or disclose personal information, including without court process. We may also use or disclose personal information to enforce our terms and conditions, to protect our operations or those of any of our affiliates, or to protect our rights, privacy, safety or property and/or that of our affiliates, you, or others.
+
+- Affiliates and business partners: We may disclose your personal information to affiliated companies and partners, to the extent permitted by applicable law, who may use it to send you marketing and other communications.
+
+- Other third parties: We may disclose your personal information to (i) third parties to whom you’ve directed or consented to a disclosure; (ii) relevant third parties (e.g., acquiring entity and its advisers) in the case of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of our business or assets; or (iii) third parties we’ve deemed necessary or appropriate to comply with applicable law, protect our operations, and protect the rights, safety, or property of you and others.
+
+## Social Media
+
+We may use and disclose your personal information to facilitate social media sharing functionality that you initiate. If you choose to connect your social media account (e.g., Facebook, X (formerly known as Twitter), Pinterest) with the Services or otherwise engage in social sharing with the Services, your personal information may be shared with your friends, contacts or others associated with your social media account, with other Services users, and with your social media account provider. By connecting the Services and your social media account or contacting us via social media, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site's privacy policy.
+
+For example, if you utilize a social media feature such as the Facebook "Like" button, Google Plus, Pinterest or a X widget, these features may collect information about your IP address and which page you're visiting on our site, and they may set a cookie or employ other tracking technologies. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+
+We may display targeted ads to you through social media platforms. These ads are sent to groups of people who share traits, such as where they live or have expressed an interest. We do not share any of your personally identifiable information with social media platforms. See the policies of each social media platform for additional information about these types of ads, including how to manage your display settings for these ads.
+
+## Links
+
+The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third-Party Services.
+
+Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
+
+In addition, we are not responsible for the information collection, use, disclosure, or security policies and practices of other organizations, such as Apple, Google, Microsoft, RIM, or any other app developer, app provider, operating system provider, wireless service provider, or device manufacturer.
+
+## Information from Other Sources
+
+We may collect data about you from publicly available sources to personalize your experience. We may also obtain data provided by third parties. For example, we may obtain information from companies to improve the accuracy of the information we have about you (e.g., adding your zip code to your address information). This improves our ability to contact you and increases the relevance of our content and communications to you.
+
+## Security
+
+We seek to use reasonable physical, technical, and administrative safeguards to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately contact us in accordance with the "Contact Information" section below.
+
+## Cookies and Other Technologies
+
+Like many other websites and online services, we collect information about the Services’ traffic and usage patterns through the use of cookies, web server logs, web beacons and other, similar technologies. We use this information for various purposes, such as to ensure that the Services function properly, to facilitate navigation, to understand use of the Services, to diagnose problems, to measure the success of our marketing campaigns and to otherwise administer the Services.
+
+Cookies are small computer files we transfer to your computer's hard drive. These small text files help us personalize content on our pages. Your browser software can be set to reject or accept cookies. Instructions for resetting the browser are available in the Help section of most browsers.
+
+Our use of cookies also allows us to collect and retain certain information about a website user, such as the type of web browser used by our customer. Reviewing our web server logs and our customers' use of our site helps us to, among other purposes, statistically monitor how many people are using our site and for what purpose.
+
+Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
+
+## Fraudulent Sites, Spam & Phishing
+
+Please be aware that there may be fraudulent websites that illegally use the Business’s logos, and other aspects of the Business’s brand. The Business is in no way associated with any fraudulent websites. These sites may circulate their presence on the internet via spam email, or through fraudulent phishing practices.
+
+These sites have not been authorized by the Business to use our name and we work aggressively to identify their source and have them shut down. If you are in receipt of this type of spam email, to help protect your privacy you should avoid replying to it or forwarding it to other people.
+
+In addition to our official websites, the Business works with a number of third parties that host websites and micro-sites that provide information and services to our customers. If you are concerned that a website or an email may be fraudulent, please contact us by phone at 1-800-SHOP-CVS (1-800-746-7287) with your concerns.
+
+## Your Choices and Access
+
+You can take yourself off our email list by following the instructions contained in such emails. If you opt out of receiving emails from us, we may still send you important administrative messages, from which you cannot opt out.
+
+You can request the removal or modification of the personal information you have provided by calling us at 1-800-SHOP-CVS (1-800-746-7287). For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+## Your California Privacy Rights
+
+If you are a resident of California, additional information about the collection and use of your personal information as well as any applicable rights you may have under California law can be found at https://www.cvs.com/content/california-b2b-privacy-policy.
+
+## Contact Information
+
+If you have any questions about the content of this Privacy Policy, please contact the CVS Health Privacy Office at the following address: 1 CVS Drive, Woonsocket RI 02895 or by emailing us at ConsumerPrivacy@cvshealth.com.

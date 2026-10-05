@@ -1,0 +1,203 @@
+# Privacy Statement
+
+At Occidental Petroleum Corporation (together with our wholly owned subsidiaries, “Oxy”, “we”, “us”, or “our”), we recognize and respect your privacy. Therefore, we provide this privacy statement (“Privacy Statement”) to inform you of how we collect, utilize and share your Personal Information (as defined below). Please read this Privacy Statement carefully.
+
+Oxy may update this Privacy Statement from time to time and will post the updated Privacy Statement on our sites with a “Last Updated” date at the bottom of this page. We may choose to otherwise notify you in a manner appropriate to the changes; please check our sites regularly.
+
+## Table of Contents
+
+What Personal Information Do We Collect?
+How and Why We Use Personal Information
+To Whom We Disclose Personal Information
+Data Retention
+Links to Other Sites
+Children
+Security
+European and Other Non-U.S. Data Subject Specific Information
+U.S. State-Specific Privacy Rights
+Contact Us
+
+## What Personal Information Do We Collect?
+
+We may collect or receive certain categories of information. Certain of the information we collect may be information that identifies, relates to, describes, is reasonably capable of being associated with or is or could reasonably be linked to, directly or indirectly, an identified or identifiable natural person, household or device, such as a real name, postal address, e-mail address and telephone number (“Personal Information”), including the following:
+
+- Contact Information: Information such as first and last name, street address, mailing address, email address, telephone number, fax number, company name, user identification code and password.
+
+- Communications: Information you provide if you contact us by email, phone, mail, our “Contact Us” form or otherwise.
+
+- Commercial Information: Information including products or services purchased, obtained or considered.
+
+- Photographs: Photographs of yourself in relation to a testimonial you may provide.
+
+- Financial Information: We may also collect financial information, such as:
+
+- Tax identification numbers
+
+- Bank account information, including account and routing numbers
+
+- Customer account information
+
+- IRS Form 1099 data
+
+- Last four digits of your Social Security Number
+
+- Site Usage Information: Information such as number of visits, the pages visited, approximate location (city level), browser and device information and the average time spent on each page to track traffic patterns throughout our sites. This information allows Oxy to improve the overall content of our sites and increase user satisfaction. When you visit our sites, cookies and other trackers may be generated and placed on your device to understand the information described above, such as how users interact with our sites and accounts, including what pages are accessed. To opt out of our use of third-party cookies and trackers, visit our cookie management tool.
+
+- Other Personal Information: We may receive additional Personal Information as required or permitted by law.
+
+To offer you a more consistent experience, information collected from our sites may be combined with information we collect by other means.
+
+## How and Why We Use Personal Information
+
+Oxy uses Personal Information collected from our sites for the following purposes, and for other purposes, with your consent, or as permitted by applicable law:
+
+- Provision of Oxy Products and Services: To (i) provide our products and services; (ii) carry out a transaction that you request, including to process orders and payment information; (iii) offer our sites and (iv) deliver order updates.
+
+- Improvement of Oxy Products and Services: To improve our products and services, as well as the overall content of our sites, and increase user and customer satisfaction.
+
+- Authentication: To authenticate accounts and orders.
+
+- Communication: To communicate with you about our products and services, including product updates, your account, newsletters and changes to our policies and terms. We also use your Personal Information to respond to you if you contact us.
+
+- Marketing and Advertising: To send you advertising, updates and other promotional materials. We use Google Analytics and other marketing and advertising providers to (i) measure and report how users interact with our sites for the purposes of understanding and optimizing web usage; (ii) conduct business and market research; (iii) measure conversion tracking; (iv) advertise and (v) manage, measure and optimize the effectiveness of our content and advertising campaigns. We also conduct promotional campaigns by mail. In connection with a testimonial for marketing purposes, we may also use your name and photograph, in our publications, media, social media and advertising, as described in more detail when you submit a testimonial. Contact information provided when opting in to Oxy’s Application to Person (A2P) SMS & Voice system will not be used for marketing or advertising purposes, and Oxy does not sell or share that information.
+
+- Legal Reasons: To (i) comply with applicable law or respond to valid legal process; (ii) participate in adversarial legal proceedings, including litigation and civil discovery and (iii) investigate potential violations of and enforce this Privacy Statement, our Terms of Use and our other policies.
+
+## To Whom We Disclose Personal Information
+
+- Service Providers: Oxy works with service providers who perform services on our behalf, including integrations and cloud hosting.
+
+- Advertising and Analytics Providers: Google Analytics and other advertising and analytics providers may receive information about your activities on our sites through third-party cookies and trackers placed on our sites. To opt out of our use of third-party cookies and trackers that share data with such partners, visit our cookie management tool. For information on how Google uses your information when you use our sites, click here.
+
+- Corporate Affiliates: We disclose Personal Information among and between our corporate affiliates covered by this Privacy Statement for business purposes, including to improve our marketing and provide advertisements.
+
+- Third Parties for Legal and Regulatory Reasons: We may disclose Personal Information to third parties if we believe disclosure is reasonably necessary to (i) comply with applicable law, regulation, legal process or governmental request; (ii) participate in adversarial legal proceedings, including litigation and civil discovery, (iii) investigate potential violations of and enforce our policies, including this Privacy Statement and our Terms of Use; (iv) protect our rights or property or the security or integrity of our services; (v) protect the health, safety and welfare of you or our personnel; or (vi) protect Oxy, users of our services or the public from harm or potentially prohibited or illegal activities.
+
+- Participants in Major Transactions: We may disclose Personal Information with potential or actual acquirers, their representatives, or other relevant participants, in connection with, including during negotiations of, any sale, merger, acquisition or change of control involving all or a portion of Oxy’s business or assets, including in connection with bankruptcy or other similar proceedings.
+
+## Data Retention
+
+We retain personal data for no longer than necessary for the purposes described in this Privacy Statement, unless a longer retention period is required by applicable law.
+
+The criteria used to determine our retention periods include the following:
+
+- Our relationship with you;
+
+- Your choices with respect to your Personal Information;
+
+- Whether we have a legal obligation to keep the data (for example, in certain instances records of transaction data must be kept for a certain period of time before we can delete them);
+
+- The permissibility of retention; or
+
+- Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements; the resolution of disputes; and applicable statutes of limitations, litigation or regulatory investigation).
+
+## Links to Other Sites
+
+This site may contain links to other websites, including some sites administered by Oxy or administered by other companies on behalf of Oxy, as well as to third-party sites. The Privacy Statement applies only to sites administered by and on behalf of Oxy, and not to any third-party sites. We have not reviewed and are not responsible for the content or privacy practices of such third party sites. We encourage you to read the privacy policies applicable to such third-party sites.
+
+## Children
+
+Oxy does not direct its sites toward children under the age of 18. Oxy does not seek to or knowingly collect Personal Information from or about persons under the age of 18.
+
+## Security
+
+We have implemented a wide variety of mechanisms, controls, technologies, methods, systems, written policies, physical safeguards and other processes designed to prevent or mitigate data loss, theft, misuse or other security incidents or vulnerabilities affecting Oxy’s systems and the data (including Personal Information) we collect, process, store and transmit as part of our business. Our cybersecurity strategy is intended to mitigate cybersecurity threats identified in the risk management process and ensure that we have appropriate administrative, technical and physical safeguards to protect our systems and data and respond effectively to cybersecurity threats. Despite our efforts, we cannot guarantee that Personal Information will not be accessed, disclosed or altered by breach of our safeguards. You should also take adequate precautions to protect your Personal Information.
+
+## European and Other Non-U.S. Data Subject Specific Information
+
+If you are located outside of the United States, and in particular, in the European Economic Area (“EEA”), Switzerland, the United Kingdom (“UK”), Oman, Algeria, Brazil or Canada, you may have various rights in relation to the processing of your Personal Information, including:
+
+- Right of access. The right to access Personal Information about you that we process.
+
+- Right of data portability. The right to receive your Personal Information in an interoperable format.
+
+- Right to rectification. The right to correct any inaccurate or incomplete Personal Information.
+
+- Right of erasure. The right in certain circumstances to delete Personal Information about you that we process.
+
+- Right to object to processing. The right in certain circumstances to request that we stop processing your Personal Information.
+
+- Right to restrict processing. The right in certain circumstances to request that we restrict processing your Personal Information.
+
+To exercise any of your rights, or if you have any other questions about our use of your Personal Information, please send a request at the contact details specified at the end of this Privacy Statement. Please note that we may request additional information from you to confirm your identity and ensure that you are entitled to access the relevant Personal Information.
+
+You also have the right to lodge a complaint with the competent data protection authority (in the country where you habitually reside, where you work or where an alleged infringement occurred) if you think that the processing of your Personal Information carried out by us infringes privacy laws applicable to you.
+
+### Legal Bases on Which We Use Your Personal Information
+
+We rely on the following legal bases when we process Personal Information about individuals in jurisdictions where such legal bases are required, including the EEA, Switzerland, the UK, Brazil and Canada.
+
+- Contractual Necessity: When we enter into a contract directly with you, we process your Personal Information on the basis of the contract to provide you with products and services and to prepare, enter into, perform, and manage the contract. We may not be able to provide you with all our products and services if we do not process your Personal Information for these purposes.
+
+- Consent: We rely on your prior consent, where required, to (i) send you marketing communications related to our products and services and (ii) store cookies on your device for statistical and advertising purposes. In this regard, please note that you have the right to withdraw your consent at any time (without calling into question the processing previously carried out) by sending a request at the contact details specified at the end of this Privacy Statement.
+
+- Legal Obligations: We also process your Personal Information to comply with the legal obligations of your country to which we are subject, namely laws, regulations, codes of practice, guidelines or rules applicable to us, and to respond to requests from, and otherwise communicate with, competent public, governmental, judicial or other regulatory authorities of your country.
+
+- Legitimate interests, unless overridden by your interests or fundamental rights and freedoms: In addition, we process Personal Information based on our legitimate interests, which consist of (i) administering and improving the performance of our sites; (ii) improving our products and services; (iii) ensuring the authentication and security of accounts, including detecting and investigating violations of our Terms of Use and policies; (iv) complying with other countries’ laws and responding to requests from, and otherwise communicating with, competent public, governmental, judicial or other regulatory authorities; (v) meeting our corporate and social responsibility commitments and (vi) protecting our and our customers’ rights, property or security. You have the right to be informed about how we have assessed that it is in our legitimate interest to collect your Personal Information for these purposes by sending a request at the contact details specified at the end of this Privacy Statement.
+
+### International Data Transfers
+
+Oxy is headquartered in the United States, so your Personal Information will be transferred to the United States for the purposes referred to in this Privacy Statement. By obtaining our products or services or providing your Personal Information to us for any of the purposes described above, you acknowledge and agree that your Personal Information will be transferred to or stored in the United States.
+
+For the purpose of providing our services, we rely on certain affiliates and service providers also located in the United States, and this may mean your Personal Information may be transferred to the United States.
+
+When your Personal Information is transferred from your country (outside the United States), including the EEA, Switzerland or the UK to another recipient located in a country whose legislation has not been recognized by the applicable authority (e.g., the European Commission) as having an adequate level of protection (such as the United States), we ensure that the transfer is governed by the applicable standard contractual clauses. If you would like further information in this respect, please contact us at the contact details specified at the end of this Privacy Statement. Note that when your Personal Information is transferred from Brazil, the transfer will be governed by the European Commission’s standard contractual clauses until the Brazilian Data Protection Authority establishes standard contractual clauses.
+
+## U.S. State-Specific Privacy Rights
+
+Residents of certain states may have certain additional rights in relation to their Personal Information, subject to certain exceptions. For example, you may have the following rights, subject to exceptions and other applicable law:
+
+- Right to transparency. Right to receive notice regarding (i) the categories of Personal Information to be collected; (ii) the purposes for which the categories of Personal Information are collected or used; (iii) whether such Personal Information is sold or shared; (iv) the length of time they intend to retain each category of Personal Information, or if that is not possible, the criteria used to determine that period and (v) other relevant information. This Privacy Statement contains such information; please read this Privacy Statement, as well as any additional terms provided to you at or before the collection of your Personal Information, in their entirety.
+
+- Right to access. Right to access (i) the categories and specific pieces of Personal Information we have collected about you; (ii) the categories of sources from which we have collected such Personal Information; (iii) our business purpose for collecting such Personal Information and (iv) the categories of third parties with whom we have shared such Personal Information.
+
+- Right to data portability. Right to obtain a copy of the Personal Information you provided to us in a portable and, to the extent technically feasible, readily usable format.
+
+- Right to correct. Right to correct any inaccurate or incomplete Personal Information about you that we process.
+
+- Right to delete. Right to delete any Personal Information about you that we process, subject to certain circumstances.
+
+- Right to limit. Right to limit the use and disclosure of sensitive Personal Information. Because we do not collect any sensitive Personal Information, we do not provide this right.
+
+- Right to opt out of “sales” and “sharing” and processing for targeted advertising purposes. Right to opt out of (i) the “sale” or “sharing” of your Personal Information for cross-context behavioral advertising; and (ii) the processing of your Personal Information for purposes of “targeted advertising” (as such terms are defined by applicable laws). Oxy shares certain information with third parties through third-party cookies and trackers placed on our sites for statistical analytics and advertising purposes, including to deliver targeted and cross-context behavioral advertisements to you. You may opt out of the use of cookies and trackers on our sites for such purposes—and therefore, any sale or sharing of your Personal Information or processing of your Personal Information for purposes of targeted advertising—by clicking “Your Privacy Choices”. Residents of certain states may use the Global Privacy Control (“GPC”) to opt out of the “sale” or “sharing” of their Personal Information or the processing of their Personal Information for purposes of targeted advertising. Please visit https://globalprivacycontrol.org/ for information on how to download and use GPC. Your settings for cookies and trackers may need to be resubmitted if you use different browsers or devices to access our sites. We do not have actual knowledge that we “sell” or “share” the Personal Information of consumers under the age of 16.
+
+Oxy does not discriminate against you on the basis of exercising any of these rights.
+
+To request access to your Personal Information or correct or delete your Personal Information, you can (1) email your request to Privacy@oxy.com, (2) call the following toll-free phone number: 800-699-7702 or (3) click here to be taken to a web form to fill out a written request.
+
+Please specify in your request what Personal Information you would like to access, correct or delete.
+
+We will acknowledge receipt of your request within 10 business days. Within 45 calendar days, we will either provide a substantive response or notify you of an extension period (up to an additional 45 calendar days) and reason for the extension.
+
+To respond to your requests, we must verify your identity. We may do so by requiring you to log in to your account, provide additional information and/or give a declaration as to your identity under penalty of perjury.
+
+Only you or an authorized agent (as described below) may make a verifiable consumer request related to your Personal Information.
+
+- How to Authorize an Agent. You may designate an authorized agent to submit your verified consumer request on your behalf, only if the authorized agent has your written permission, including power of attorney, to do so and you have taken steps to verify your identity directly with us.
+
+- How We Verify Your Request. To respond to your request, we must verify your identity or the authority of your authorized agent. We will only use the Personal Information provided in that context to verify your identity or the authority of your authorized agent to make the request. Making a verifiable consumer request does not require you to create an account with us. To allow us to verify your request, we will require that you provide at least two pieces of Personal Information, including your email address and phone number, we already have in our possession. We will verify your consumer request by comparing the information you provide to information already in our possession and take additional steps to minimize the risk of fraud.
+
+If we deny your request, residents of certain states have the right to appeal our decision. You may do so by replying directly to our denial or emailing your appeal to Privacy@oxy.com.
+
+## Contact Us
+
+If you have any questions, you may contact us at:
+
+Occidental Petroleum Corporation
+Attn: Legal Department - Privacy
+5 Greenway Plaza, Suite 110
+Houston, Texas 77046
+Privacy@oxy.com
+
+Last Updated: October 7, 2025
+
+### Other Policies and Disclaimers
+
+-
+Accessibility Policy
+
+-
+Media Disclaimer
+
+-
+Terms of Use

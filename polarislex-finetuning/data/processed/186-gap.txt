@@ -1,0 +1,454 @@
+- The Gap Inc. Privacy Policy
+
+- Notice at Collection - Overview of Privacy Practices
+
+- Collection and Sources of Personal Information
+
+- Purposes for Processing Personal Information
+
+- Disclosure of Personal Information and Recipients
+
+- Encore Rewards/Notice of Financial Incentive
+
+- Your Privacy Rights and Choices
+
+- Children’s Privacy
+
+- Retention of Personal Information
+
+- Data Transfers
+
+- Information Safeguards
+
+- Third-Party Sites and Platforms
+
+- Additional Information for California Residents
+
+- Policy Revisions and Updates
+
+- Contact Us
+
+The Gap Inc. Privacy Policy
+
+The Gap Inc. Privacy Policy
+
+Last updated: June 22, 2026
+
+The Gap Inc. and our subsidiaries (collectively ‘Gap’) are committed to providing transparency and clear choices regarding the personal information we collect and process, including on behalf of our family of brands (Gap®, Old Navy®, Banana Republic®, and Athleta®).
+
+We want to empower you to exercise meaningful control over your personal information. Please read this Privacy Policy to understand how we process personal information and your privacy rights and choices.
+
+This Privacy Policy applies to and describes the personal information we collect online, offline, and from third parties and other sources, including when you:
+
+- Use our websites (‘sites’), mobile applications (‘apps’), and any other online services where this Privacy Policy is posted (collectively, our ‘online services’);
+
+- Visit our stores or interact with us offline (like when you shop in our stores, contact customer service, or attend our events);
+
+- Participate in contests, sweepstakes, our loyalty and rewards programs, or other promotions we offer.
+
+This Policy also applies to the personal information we collect and receive related to our marketing and advertising campaigns and any other interactions and communications with us—such as text, chat, email, messaging apps, or other communication channels—or with our content, including on social media and other digital or third-party platforms.
+
+This Privacy Policy is drafted in accordance with applicable laws in the places where we operate. While we strive to take a consistent approach to privacy compliance across jurisdictions, some terms, obligations, and rights may only apply or be available in certain jurisdictions. Use of the term ‘right’ in this Privacy Policy (and any supplements) is not intended to and shall not confer any legal rights or remedies on any person or party, and any such rights or remedies shall only exist to the extent expressly provided under applicable law.
+
+Employees and Job Applicants. If you are a Gap employee, please refer to the Gap Employee Privacy Policy applicable to you. If you are a job applicant, please refer to our Global Applicant Privacy Policy available by clicking ‘Privacy Rights Careers’ at the bottom of our corporate site (gapinc.com).
+
+Other Notices. We may also provide supplemental privacy notices for certain products and services, which apply in conjunction with this Privacy Policy. In addition, separate privacy policies may apply in certain regions or jurisdictions, where expressly stated in such policies.
+
+Notice at Collection - Overview of Privacy Practices
+
+This section provides an overview of our information practices and serves as our ‘Notice at Collection’ pursuant to the California Consumer Privacy Act (‘CCPA’). While we encourage you to read our full Privacy Policy, in this section you will find a summary of our information practices, including the categories of personal information we collect from consumers, as well the purposes for which we collect, use, and disclose such personal information, and whether it is ‘sold’ or ‘shared’ (as those terms may be defined by the CCPA or other applicable privacy laws).
+
+We collect the following categories of personal information:
+
+- Identifiers: such as name, username or user ID, online identifiers (including IP address, device identifiers, cookies and advertising IDs, and other unique identifiers), contact information (including email address, physical address, and phone number), and other personal identifiers (including account name, Social Security Number, driver’s license number, passport number, or other similar government identifiers).
+
+- Customer Records: information that we collect related to your purchases, payments, and other transactions with us (such as credit card number, payment and billing details, shipping address, identification and contact information).
+
+- Commercial Information: including shopping history, order details, loyalty program transactions, and other records of products and services purchased or considered.
+
+- Internet and Activity Information: internet and other electronic network activity information, such as browsing history, search history, information about your interactions with and through our online services, advertising and content, content you share in our public forums or through social media and other digital or third-party platforms, as well as other online activity and usage information obtained from your activity across others’ websites, apps, and services.
+
+- Other Audio, Video, or Electronic Data: including in-store video and electronic safety and anti-theft information, (such as CCTV, video monitoring, employee body-worn camera technology, and other theft detection tools), license plate numbers, call recordings, and related analytics (e.g., of customer service and support calls), your uploaded photos and previews from virtual try-on sessions, as well as records of your communications (online and offline) with us, including communications with customer service, through our online services and through other communication channels.
+
+- Characteristics of Protected Classifications: this may include, for example, disability information (e.g., that we collect in order to provide accommodations) and health information (e.g., if you are injured in one of our stores).
+
+- Location Data: including general location data that we may derive from your IP address as well as geolocation information from your mobile device (with your permission).
+
+- Inferences: including inferences we derive about you based on the above information, including your interests, preferences, and other characteristics or demographic information.
+
+- Sensitive Personal Information: in limited circumstances, the personal information we collect includes information that may be classified as sensitive personal information under applicable privacy laws, such as SSN, driver’s license and other government identifiers (e.g., where necessary for identity verification, fraud detection, and compliance purposes), credit card and financial account information (for transaction processing), precise geolocation data (with your permission), account log-in information (e.g., to prevent, detect, and investigate security incidents), ethnicity information and/or the contents of emails and texts (e.g., to investigate claims of racial discrimination or hate speech), information about protected classifications (e.g., where necessary to provide accommodations to you or respond to your requests or inquiries), virtual try-on previews (as further described below), and other sensitive information (e.g., to ensure the physical safety of others and resist malicious, deceptive, fraudulent, or illegal actions, and to share with law enforcement to prosecute those responsible for those actions).
+
+We collect, use, disclose, and process personal information for the following business and commercial purposes (which are further described in the ‘Purposes for processing personal information’ section below):
+
+- Providing the products and services you purchase and request
+
+- Responding to your inquiries and providing customer service
+
+- Operating and improving our operations, products, and services
+
+- Personalizing content and experiences
+
+- Marketing and advertising, including to measure our ad campaigns and reach consumers with more relevant ads and content on our online services and across third-party sites and services
+
+- Maintaining safety and security and combatting illegal activities in our stores and online, including preventing, detecting, investigating, responding to, and combating fraud, security incidents, network threats, and other illegal activities.
+
+- Complying with legal obligations supporting internal compliance processes
+
+- Protecting or defending our rights and the rights and safety of others
+
+We retain personal information for the length of time needed to fulfill the purposes for collection unless a longer retention period is required or permitted by applicable law.
+
+Sensitive personal information
+
+We do not use or disclose sensitive personal information for the purpose of inferring characteristics about you. In addition, notwithstanding the business purposes described above, we only use and disclose sensitive personal information where it is necessary to provide the goods or perform the services you have requested (such as processing or fulfilling orders and transactions), with your consent, or as otherwise authorized by applicable law (such as to prevent, detect, and investigate security incidents, ensure physical safety, and show non-personalized advertising as part of your current interaction with us).
+
+Virtual try-on. Some of our apps and online services may give you the option to virtually ‘try-on’ certain items. If you use virtual try-on, we process the photos you upload to create your requested virtual try-on previews (which may involve analysis of bodily measurements, biometric details, and other personal characteristics and information). Uploaded photos and previews are automatically deleted after 30 days and can be deleted sooner within your account settings. Photos and previews are never sold or shared for targeted advertising, and we do not use them to identify you or make health-related assessments.
+
+We may disclose personal information to certain categories of third parties for our own business purposes described above, including:
+
+Where reasonably necessary for one or more of our business and operational purposes, the personal information we collect may be disclosed to and processed by our service providers and contractors, brands and subsidiaries, external auditors, and agents and other representatives that are acting on our behalf, as well as regulators, law enforcement and public entities, as further described in this Policy. Personal information may also be disclosed to others where necessary to comply with legal obligations, protect and defend our rights and the rights and safety of others, and for fraud protection and security purposes, as well as where necessary to respond to your requests or as otherwise directed or authorized by you.
+
+We may also disclose certain categories of personal information to other third parties for one or more of our business purposes, including:
+
+- Analytics, marketing and advertising companies, and social networks may process Identifiers, Commercial Information, Internet and Activity Information, Location Data, Other Audio, Video. or Electronic Data, and Inferences to provide analytics, marketing and advertising-related services to us (e.g., to help us to create campaigns and audiences, reach you with targeted advertising, and distribute and measure our marketing and advertising campaigns).
+
+- Internet service providers (ISPs), operating systems and platforms that we use to operate our business and provide our online services may process Identifiers, Internet and Activity Information, Location Data, and Other Audio, Video, or Electronic Data.
+
+- Data providers that help us to update and enhance our customer records, including by providing us with demographics, interests, and other information about customers, may process Identifiers, Customer Records, Commercial Information, and Inferences to identify additional relevant information about certain consumers.
+
+Please review ‘Disclosure of personal information and recipients’ below for further details.
+
+You can request to opt out of certain uses and disclosures of your personal information (including sales and sharing for targeted advertising):
+
+We do not disclose or provide your personal information to third parties in exchange for monetary compensation. However, we may disclose Identifiers (e.g., online identifiers and contact information), Internet and Activity Information (e.g., browsing history), Commercial Information (e.g., shopping history and transaction data) and Inferences (e.g., demographics and interests) to third parties (including via cookies and pixels on our sites, in our online content, and in our email communications with you) to help us reach you with targeted advertising and for other analytics and marketing and advertising purposes. These activities may be considered ‘sales’ or ‘sharing’ of personal information under applicable privacy laws, including the CCPA.
+
+For additional information or to opt out of ‘sales’ and ‘sharing,’ click the Your Privacy Choices link in the footer of one of our sites or in the ‘Customer Service’ menu (of the ‘Account’ tab) in one our apps:
+
+- You can opt out of sales and sharing (e.g., via cookies and pixels), through the Privacy Preference Page (accessible via the Your Privacy Choices on one of our sites or apps). In addition, if we recognize that your browser is transmitting global privacy control (GPC) signals when you visit one of our sites, we will opt your browser out of sales and sharing on that site.
+
+- Depending on your jurisdiction you may also submit a request to opt out of sales and sharing of other data by completing our Privacy Preference Webform online (available by clicking the link).
+
+Find more information about opting out and other privacy rights and choices you may have in the ‘Your privacy rights and choices’ section of this Privacy Policy.
+
+Collection and Sources of Personal Information
+
+You can find a summary of the categories of personal information we collect above. This section provides additional information about the personal information we may collect and the sources of such information. Please keep in mind that the actual personal information we collect about you depends on your interactions with us, but typically consists of information you provide to us, information we generate or automatically collect through our online services, and information we receive from other sources. In addition, we may add to or combine information we have collected about you from different sources, including in order to infer information about your interests and preferences.
+
+If you do not allow us to collect certain personal information, we may not be able to provide certain products and services, and some products and services may not be able to take account of your interests and preferences.
+
+Information you provide to us
+
+- Contact and registration information. We collect contact and registration information (e.g., Identifiers and Customer Records) when you purchase, exchange, or return products, request services, create a customer account, participate in a Encore Membership Program, redeem promotions, or interact with us for other products and services, such as your name, email address, phone number, billing and shipping address, birthday (MM/DD), clothing size and fit preferences, and other information you may choose to provide (like your height, weight, interests and activity preferences, partial birthday, social media handle, preferred language, and your age and gender).
+
+- Transaction information. We collect transaction information (e.g., Commercial Information and Customer Records) you provide when you purchase, exchange, or return products, request services, or redeem promotions and loyalty program rewards, such as your order and service details and payment information. We may also identify the region you live in so we can show you prices for products in your local currency and improve the accuracy of your shipping address.
+
+- Communications information. We collect and record communications information and content you provide when you sign up to receive marketing emails or texts and communicate with us about a customer service issue or to make other inquiries. For example, we collect and record information and content you provide to us over the phone, text, or online chat (you may choose to chat with us without sharing your name or contact information) or when you communicate with us using any other service or communication method. This type of information and content in recordings and transcripts includes your contact information, the date and time you contacted us, the content of your communications, and your communication method.
+
+- Customer content. We collect information and content you provide or make available in our public forums (like online message boards, social and wellness community environments, and other forums that do not have a restricted audience) and when you provide feedback or product reviews, respond to surveys, or use features of our services which may require the collection of certain personal information (e.g., Identifiers and Other Audio Video, or Electronic Data) to utilize the features. We also collect information and content when you engage with us on social media (like when you tag us or our products and services or allow us to follow your social media profile). These types of information include any information and content you choose to provide or make available, such as opinions, feedback, preferences, wellness goals, photos, images, and social media profiles and handles. As further described below, if you use virtual try-on services in our apps or other online services, we collect photos you upload to generate your requested virtual try-on previews.
+
+Information we generate or automatically collect
+
+- Identifiers and Commercial Information. We generate internal customer identifiers (like a customer or account ID) to keep track of and manage your transactions and relationships with us and collect commercial information, such as records of products or services purchased, requested, considered, exchanged, or returned, and other purchasing or consuming histories and tendencies. We may draw inferences about you from the other types of information we collect reflecting your interests, preferences, online behaviors, and characteristics.
+
+- Device and usage information. We use automated technologies (some of which are provided by third parties) to collect certain device, usage, and activity information (with your consent, when required by applicable law) when you access or use our online services. This type of information includes:
+
+- Identifiers that can be used to recognize you or a device over time and across different services (like browser ID, device ID, IP address, cookies and app tracking technologies, or other forms of persistent or probabilistic identifiers).
+
+- Internet and Activity Information about your interactions with our online services and advertisements, including browsing activities and data that reflects the content you have accessed, clicked on, or viewed, use of our accessibility features, and information about the websites or apps visited immediately before or after interacting with our online services.
+
+- Information about your computer or device, such as the browser version and device model, that is derived from your Internet and Activity Information.
+
+- Location Information, which includes your precise location when you permit an online service to access your device location.
+
+- Analytics and inferences. We may also use automated tools and technologies to collect or derive information related to interactions and communications with us (e.g., Identifiers, Online and Activity Information, Location Data, Other Audio, Visual, or Electronic Data, and Inferences), such as customer service calls, marketing and related email communications. We may also use technologies, such as artificial intelligence (AI), including generative AI and machine learning (ML), to analyze the information you provide or that we collect about you from multiple sources and to infer or generate information about your interests, characteristics, and preferences. These technologies help us personalize your shopping experience, improve our products and services, and reach you with targeted advertising.
+
+For more information about the use of automated information technologies for targeted advertising and how you can opt-out, please see the ‘Your privacy rights and choices’ section of this Privacy Policy.
+
+- Safety and anti-theft information. In our stores and on our properties, we collect safety and anti-theft information (e.g., Identifiers, Commercial Information, Location Data, Other Audio, Visual, or Electronic Information and related Inferences) to help ensure your and our employees’ safety and security and to combat theft and other illegal activities, such as in-store video (like information from Closed-Circuit Television (CCTV) and electronic information from theft-prevention devices (like Radio Frequency Identification (RFID)) and, in some cases, we may collect information through employee body-worn camera technology.
+
+- In-store technologies. We offer Wi-Fi access points in some of our stores. If you choose to connect to our Wi-Fi Services, we will receive information (e.g., Identifiers and Internet and Activity Information) about you and your device, such as your MAC and IP address, signal strength indicators, and operating system. We may also collect information about the store location and areas of the store you visit, the names and internet addresses of the websites you visit, and the applications you use. We may collect de-identified data from Wi-Fi access points to understand traffic patterns in our stores.
+
+- Non-identifiable data. We may generate and use data related to our customers and our services and business operations that is not personal information. This includes, for example, aggregate or anonymous data that does not identify and is not reasonably linkable to a particular consumer. In addition, we may generate and maintain de-identified data, which is no longer linked or reasonably linkable with a particular consumer or household and cannot reasonably be used to identify you. For example, where permitted by applicable privacy laws, we may de-identify data in response to consumer deletion requests. Where we generate and rely on de-identified data, we will maintain and use this data only in a de-identified form and will not attempt to re-identify such data, except as permitted by applicable law.
+
+- Virtual try-on and preview images. Some of our apps and online services may give you the option to virtually ‘try-on’ certain items. If you use virtual try-on services, photos you upload will be processed to generate your requested virtual try-on previews (which may involve analysis of bodily measurements, biometric details, and other personal characteristics and information from your uploaded photos to generate your previews).
+
+Information we collect from others
+
+We may collect personal information about you from publicly available and other sources, including:
+
+- Service providers and contractors. Service providers and contractors may collect personal information when processing personal information on our behalf for specific business purposes we alone or jointly with other data controllers determine, including information you provide to us and that we generate and automatically collect.
+
+- NFT platforms and blockchains. If you participate in a NFT (non-fungible token) program (like Gap Threads), we may collect information (e.g., Identifiers, Customer Records and Commercial Information) from third parties operating and hosting such programs, including digital wallet providers (such as Kukai) and open source blockchain networks (such as Tezos). We may collect NFT ownership information, including digital assets and tokens, and other NFT-related information (such as transfers of NFTs between accounts, the corresponding smart contracts, amounts paid, and metadata describing each NFT and its properties as a digital asset). We may also collect cryptocurrency wallet address and related information, including your digital wallet types, amounts of digital assets you possess, and account balances.
+
+- Social media platforms and content distribution channels. When you interact with content or features provided by social media platforms on our online services or our content or ads on social media platforms (like login or sign in features or tools that allow you to share our content with others), we may obtain information (e.g., Identifiers, Internet and Activity Information, and Inferences) from the social media platforms, including your username, user ID, demographic information, and other service-related information, subject to the settings and privacy practices of the relevant social media platform. In addition, when you interact with our content, products, services, or ads available on third-party sites, apps, content distribution channels, or other media (like video sharing and social network websites and apps), we may obtain information from those third-party sources. The information we receive may include information about the content you view or access, your demographic information, and information about your interests.
+
+- Other third parties. Third-party data suppliers (such as data aggregators, data resellers and other data providers) may supply us with Identifiers (e.g., contact information and online identifiers), Internet and Activity Information (e.g., browsing data), and other information that helps us recognize and learn more about you and other users of our online services. We may also collect information from third-party fraud prevention companies and companies we allow to make their goods and services available to you on our online services, market and sell our products, or offer products on a co-branded, co-sponsored, or cross-promotional basis, such as contact, transaction, and automatically collected information.
+
+Franchisees
+
+We have franchise agreements with franchisees in a number of countries around the world. These franchisees are third parties and operate (or will operate) stores, shop-in-shops, and websites that sell apparel and related products under our brand names, pursuant to these franchise agreements. We do not share personal information with our franchisees, and they do not share personal information with us. Personal information collected by a franchisee is subject to the franchisee's own privacy policies. Please be sure to review other privacy policies that may apply.
+
+Purposes for Processing Personal Information
+
+We use, disclose, and otherwise process the personal information we collect to:
+
+- Provide products and services. These uses include providing products and services you purchase and request, such as processing transactions and payments, fulfilling orders, maintaining and servicing customer accounts and Encore Membership Programs, generating your preview images when you use our virtual try-on services, and providing promotions, events, and other offers. We also use information to improve and develop new products and services. If you participate in a NFT program (like Gap Threads), we may also use your digital wallet and other related NFT or cryptocurrency information to facilitate your participation in the program and related cryptocurrency transactions.
+
+- Communicate with you. These uses include responding to your inquiries, providing customer service and technical support, sending you transactional and related communications about your purchases, Encore Membership Programsloyalty, and product and policy changes, and sending you communications about promotions, events, and other offers and products and services we think may be of interest to you.
+
+- Operate and improve our operations, products, and services. These uses include operating, troubleshooting, improving, and developing new products, services, and features, as well as learning how you and other users interact with and respond to our online services, marketing and advertising. We also use AI and machine-learning based tools and technologies, some of which are provided by third parties, and the information we collect (including your inputs and interactions with these tools) may be used to train generative AI and large language models and machine learning algorithms.
+
+- Personalize online content and experiences. These uses include personalizing online content, providing recommendations and reminders, and enhancing the quality and your overall experience with our online services (like retaining your user preferences and presenting content in the most effective manner for the browser or device you use to access our online services). We may try to establish cross-device connections and link the different browsers and devices you use to access or use our online services to help us recognize you as a customer or visitor and provide you with a seamless and consistent personalized experience when interacting with us using different browsers or devices.
+
+- Market and advertise. These uses include developing, managing, and conducting advertising and marketing campaigns. We may use personal information to serve targeted ads and analyze and measure the performance and reach of our advertising and marketing efforts (on our online services and elsewhere) based on your online activities and how you interact with our advertising and marketing. We may also use personal information to create and identify audiences that are most likely to respond to ads based on information we have already collected or infer about your interests and preferences.
+
+- Maintain safety and security and combat illegal activities in our stores and online. These uses include protecting the health and safety of customers, employees and others, as well as preventing, detecting, and investigating actual or potential security incidents, fraud, illegal conduct, or other activities that may violate our policies or threaten our networks and information systems or the availability, authenticity, integrity, and confidentiality of stored or transmitted information.
+
+- Comply with legal obligations and support internal compliance processes. These uses include complying with our legal and regulatory obligations (such as maintaining records of your privacy requests, preferences, and choices), fulfilling our corporate obligations (such as internal accounting, auditing, recordkeeping, and other internal business functions).
+
+- Protect and defend rights. To protect and defend our rights and business or the rights or safety others, including related to litigation and other legal claims or proceedings in which we are involved.
+
+For residents in certain jurisdictions outside the United States, we may process your personal information on the following grounds (or ‘legal bases’):
+
+- To perform our contractual obligations to you. We process your information to communicate with you and to provide you with our online services and other products, services, and related content. For example, when you make a purchase from us, we process your contact and payment information to fulfill our commercial obligations, communicate with you about your purchases and requested services, and provide customer services you request. Failure to provide any requested information could prevent or delay the fulfillment of our contractual obligations.
+
+- To pursue our legitimate interests. We process your information to provide you with our online services and other products and services, to communicate with you, and for our advertising and marketing purposes. For example, our legitimate interests may include making improvements to and understanding how you interact with our online services and, as appropriate, sending you communications about our products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with other parties (as outlined in the ‘Disclosure of personal information and recipients’ section of this Privacy Policy), including for our advertising and marketing purposes. We maintain safeguards to protect the information we process to pursue our legitimate interests.
+
+- To comply with our legal obligations and protect our rights. We process and share your information as necessary to comply with our legal obligations and protect our rights and the rights of others. For example, we may be required to collect certain information from you when processing your purchase and payment information for tax, regulatory compliance, or financial reporting reasons.
+
+- With your consent. If we obtain your consent to process your information, you can withdraw your consent at any time (typically through the same method by which you provided your consent). If you have questions about the process to withdraw your consent, please write to us using the address in your area listed in the ‘Contact us’ section of this Privacy Policy.
+
+Disclosure of Personal Information and Recipients
+
+The types of personal information we disclose varies based upon your interactions with us and your privacy settings and choices.
+
+We may disclose the personal information we collect with:
+
+- Our brands and subsidiaries. We may share and jointly use personal information with and among our family of brands and subsidiaries to provide our products and services and for other purposes outlined in this Privacy Policy.
+
+- Service providers and contractors. We may provide or make available personal information to service providers and contractors to process on our behalf for specific business purposes we alone or jointly with others determine. For example, service providers and contractors may process personal information on our behalf to process payment card transactions, distribute communications, operate online and other communication methods, manage offers and promotions, and provide services for order fulfillment and logistics, data analytics, computer and cloud-based networks, and fraud prevention. They may also use the information they process on our behalf to improve the products and services they provide to us, including to train AI models and machine learning algorithms.
+
+We may also disclose or share certain personal information with other third parties for business and commercial purposes, including:
+
+- Advertising and marketing providers. We may share your information with advertisers (such as advertising agencies, networks and exchanges, and analytics providers), marketing businesses, third-party data suppliers (such as data aggregators and data resellers), and other entities that help us to create, deliver, and assess our advertising and marketing campaigns and learn more about you and other users of our online services. As explained above, such disclosures may be considered ‘sales’ or ‘sharing’ under the CCPA and other applicable privacy laws. These parties may also combine your personal information with their own records (and records available from other sources) for their own purposes, including for their own and other third-party marketing.
+
+For more information about how we may share information for targeted advertising and how you can opt-out, please see the ‘Your privacy rights and choices’ section of this Privacy Policy.
+
+- Social media platforms. If you interact with social media widgets, share content using social media share buttons or access features of our online services that contain content or features provided by social media platforms, the relevant social media platforms may collect or have access to personal information, subject to their own privacy policies.
+
+- Participants in public forums or the public. When you participate in our public forums (like online message boards, social and wellness community environments, and other forums that do not have a restricted audience), you may choose to make your personal information available to other participants, such as your opinions, feedback, goals, and personal information that may be considered sensitive. Your personal information can be viewed by other participants, and they may be able to comment on it and collect and store it elsewhere before you have a chance to remove it. We do not control and are not responsible for how others may use your personal information. We urge you not to post or make any information available that can be used to directly identify you (such as your name, age, address, email, and phone number) or you have any concern about being viewed or accessible by other participants or the public.
+
+- Our credit card provider. We may provide you with offers to apply for credit from Barclays Bank (our co-branded credit card provider). We may use information from your customer account to facilitate your request to apply, pre-populate your online application, or send you a pre-approved credit offer. This and any other personal information you provide in connection with your application may be provided to Barclays Bank and is subject to Barclays Bank's privacy policies. As part of applying for credit, you may be asked to provide a government identification number, such as your social security number, national identification number, or driver’s license number. We do not retain this information. Please review all applicable terms and conditions.
+
+- NFT platform and blockchain participants. If you participate in a NFT (non-fungible token) program (like Gap Threads), by virtue of the public nature of the blockchain, the holdings and transactions associated with your cryptocurrency wallet address will be publicly available and accessible to third parties.
+
+- Non-profit groups and programs. If you participate in third-party non-profit programs, we may provide your information to the program providers, administrators, and others when required by the programs. For example, it may be necessary to provide your contact and purchase information to those who run the programs and your purchase information to credit card processors, so part of your purchase may be donated to non-profit organizations or participants. Once your information is provided to these third parties, it is subject to their privacy policies. Please review other privacy policies that may apply.
+
+- Other third parties and payment providers. We may provide your information to other third-party companies that we allow to make their goods and services available to you on our online services, market and sell our products, or offer products on a co-branded, co-sponsored, or cross-promotional basis. These initiatives may be offered in-store, on our online services, or on other media. If you choose a third-party payment option (such as Klarna or PayPal), we share limited personal information, like your contact and order details, with that provider to process your payment. These providers use your information under their own privacy policies. Please review their privacy policies to learn how they handle your data.
+
+- Parties you direct us to share information with. We may share your information with other third parties as directed, requested or authorized by you.
+
+- Others when required by law or necessary to protect rights or support our internal compliance functions. We may share your information to comply with or enforce the law, legal process, or applicable industry standards (including responding to court orders, warrants, subpoenas, and other requests from public and government authorities) and as we believe is necessary or appropriate to protect, enforce, or defend our legal rights and the rights of others (including with third parties (a) to help us prevent, detect, and investigate security incidents and combat fraud or other illegal activities, or (b) where related to anticipated or actual legal claims or proceedings in which we are involved) and to protect individuals’ privacy, security, and safety.
+
+- Parties involved in corporate transactions. We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.
+
+Encore Rewards/Notice of Financial Incentive
+
+We may provide promotional programs, offers, rewards or benefits to customers who participate in Gap sweepstakes, contests, loyalty or rewards programs or other promotional campaigns (collectively, ‘Promotional Programs’). This includes our loyalty and rewards programs (like the Encore Membership Program and Japan’s Gap Membership Program and myRepublic Membership Program) (collectively, the ‘Encore Membership Programs’), which provide rewards, benefits and special offers (such us accrual of rewards points for purchases) to program members. Please review our Encore Membership Program Terms and Conditions presented to you when you sign up for complete program details. In addition, we may provide promotional offers (such as discounts, early access to sales, or other special offers) to customers who sign up for marketing and other promotional communications from us.
+
+You can sign up for Encore Membership Programs or promotional communications online or in stores. When you sign up for promotional communications we collect the email address and contact information which you would like to subscribe and allow you to set certain preferences. When you sign up for Encore Membership Programs membership, we will ask for your name, email address, and phone number and opt you in to marketing emails (for which you can later opt out). If you sign up for one of these Promotional Programs, we may also collect and process other personal information, including transaction information (such as purchases, rewards, and discount redemptions), information we generate, infer, or automatically collect about you and your purchases and interactions with us, and other information that allows us to tailor our communications, target ads, and provide offers, products, and services we think may be of interest to you.
+
+You can withdraw from any of our Promotional Programs at any time. To withdraw from Encore Membership Programs contact a customer service representative at 1-833-244-5556. You may opt-out of or unsubscribe from promotional communications, as explained under the ‘Your privacy rights and choices’ section of this Privacy Policy.
+
+The benefits, rewards, discounts, and other offerings we provide and make available to a participant in one of our Promotional Programs are reasonably related to the value of the participant’s data, which is based on our estimate of:
+
+- The value we receive from processing participant data, which enables us to help drive revenue and foster brand loyalty by providing tailored offers and ads, improving products and services, and fostering positive customer experiences. To assess the value of participant data for Encore Membership Programs members or promotional communications subscribers, we compare the average purchases by (member or subscriber) participants with those of non-participants for the same timeframe. We may also evaluate other factors including positive impacts on brand loyalty and customer satisfaction.
+
+- The costs and expenses associated with administering the Promotional Program. For Encore Membership Programs members or promotional communications subscribers this includes the costs of discounts, rewards, and promotions applied or redeemed, as well as the costs and expenses associated with IT, communications, administration, third party services, and service-development costs.
+
+If you participate in our Encore Membership Programs or other Promotional Programs, you will not be treated differently because you exercise a legal right or make a similar request. However, if you request deletion of your personal information, this includes your online accounts and Encore Membership Programs membership data (unless an exception applies) and all related rewards, benefits, and available promotions. We are not able to re-instate your membership and you may not access, use, or accrue any existing or future rewards, benefits, or promotions associated with such Encore Membership Programs Rewards account(s) after deletion.
+
+Your Privacy Rights and Choices
+
+Depending on where you reside and legal limitations, applicable laws in your jurisdiction may grant you the right to make certain privacy requests. Consumers that do not live in one of these jurisdictions, may still make the same privacy requests, and we will take reasonable steps to fulfill them.
+
+Subject to certain limitations and exemptions, consumers may make a request to:
+
+- Access (or to ‘know’). You may request a copy of the personal information we have collected about you.
+
+- Delete. You may request that we delete the personal information we have collected about you. Note: your deletion request applies to all of the personal information we maintain about you, including any online account(s) and Encore Membership Programs membership(s) and related records. You will no longer be able to access your account or any Encore Membership Programs membership or use, redeem, or continue to accrue any (existing or new) Encore Membership Programs rewards, benefits, or associated promotions. We cannot re-instate your account or Encore Membership Programs membership after deletion.
+
+- Correct. You may request to have inaccurate information about you corrected.
+
+- Opt-out. You may opt out of certain types of processing of your personal information, including ‘sales’ of personal information to third parties and ‘sharing’ and processing personal information to serve ‘targeted advertising.’
+
+How to make a request to access, delete, or correct:
+
+Consumers (and where applicable their authorized agents) may submit requests to access, delete, and correct by using our online Privacy Request Form (available by clicking the link), calling us toll-free at 1-866-237-4007, or email us at myprivacyrights@gap.com.
+
+If you have created a customer account, you may also review and update certain information and user preferences in your account. To do so, please sign in and click ‘your account’ in the top right corner of one of our sites or the account icon in our mobile apps.
+
+To fulfill your request to access, delete, or correct, we need to verify your identity. We will send you an email with a link to confirm your email address and may request additional information where necessary to verify your identity or process your request. We only use the information collected about your request to fulfill and maintain records of your request. Please follow the instructions provided in the communications sent to you, including how to access the fulfillment status and other information related to your request.
+
+In some cases, you may designate an authorized agent to make a request on your behalf. Your agent will be required to provide written proof of their authorization and, in some cases, we may also ask you to directly verify your identity or confirm to us that you provided the agent permission to submit the request on your behalf.
+
+We work to fulfill requests within the time frames provided by applicable law. Generally, requests to access, delete, and correct may take up to 30 or 45 days to complete, depending on where you reside. In some cases, we may need additional time (up to 45 to 60 more days) to process certain requests; we will try to notify you in advance when additional processing time is needed.
+
+Exceptions and other reasons we may deny a request to access, delete, or correct
+
+We may deny your request if we are unable to verify your identity. We use your confirmation of your email address as one way to verify your identity. For example, we may deny your request, if you don’t timely respond to our request to confirm your email address or provide other requested information necessary for us to verify your identity or process your request. We may deny a request from an authorized agent if the agent does not provide proof of their authorization.
+
+If you make a request to delete your personal information, we may not be able to delete certain personal information, including information that we need to process your purchase payments or fulfill your orders (exchanges or returns) or requested services, as well as information that we must maintain for legal, accounting, or compliance purposes.
+
+If you participate in a NFT program (like Gap Threads), smart contracts are employed that collect certain information that is then stored on a blockchain that we do not control. Your information will be cryptographically transmitted and stored on that blockchain, and any deletion or modification of that information (to the extent possible on a blockchain) is governed by the terms of the relevant smart contract associated with the NFT and may not be able to be modified or deleted due to the immutable nature of the blockchain.
+
+We may not be able to honor your request, to the extent it otherwise restricts our ability to comply with applicable law (including cooperating with law enforcement) or our regulatory obligations (like maintaining records of your requests and preferences) or in our good-faith judgment we believe information is necessary to exercise or defend a legal claim or protect our operations and property or the privacy, safety, and property of others.
+
+If we deny your request, you may appeal our decision by writing to us using the address in your area listed under the ‘Contact us’ section of this Privacy Policy. If you have concerns about the results of an appeal, you may contact the supervisory authority where you reside.
+
+How to opt-out of ‘sales’ and ‘sharing’ for targeted advertising
+
+We use and share your personal information with others to personalize your shopping experience, show you targeted ads on other sites (like Google and Facebook) based on your interests and your offline and online activities, and collect analytics. Information may be shared online via cookies, pixel tags, and similar technologies connected to your browser or device (‘Online Info’). We may also share information about you and your interactions with us (both online and offline) along with your email address or other unique identifiers (‘Offline Info’). The activities may be deemed a ‘sale’ or ‘sharing’ for ‘targeted advertising’ under applicable privacy laws. You can opt out of sales and sharing as explained below. Even if you opt-out, you may still see our ads, but they won’t be personalized for you.
+
+You can opt-out of both Online Info and Offiline Info sharing from 'Your privacy choices ' in the footer of one of our sites or the settings menu of one of our apps (click ‘Account’ > ‘Customer Service’ > ‘Your privacy choices ’). Online Info opt-outs apply directly from the Privacy Preference Page; Offline Info opt-outs are completed through a webform linked from that page. Details on each option below.
+
+Online Info. You can opt out of Online Info sharing. These opt outs are browser and device-specific. So, unless otherwise noted, you need to opt out for each site and app, as well as each browser and device you use.
+
+- Privacy Preference Page. Opt out of Online Info sharing for a site or app on our Privacy Preference Page. To access this page, click ‘Your Privacy Choices ’ in the footer of one of our sites or the settings menu of one of our apps (click ‘Account’ > ‘Customer Service’ > ‘Your privacy choices ’). If you delete your browser’s cookies after opting out, you will need to re-apply your opt out for that browser.
+
+- Browser Signals. Turn on Global Privacy Control (GPC) signals for your browser. If we recognize that your browser is transmitting global privacy control (GPC) signals (more info) when you visit one of our sites, we will opt your browser out of sales and sharing on that site. Once set, you’ll see ‘Browser Opt-Out Honored’ displayed when you access our Privacy Preference Page. You will need to set GPC for each browser and device used to access our sites. (Note: Our sites do not recognize browser ‘Do-Not-Track’ signals.)
+
+More info about online opt outs:
+
+- If you have a customer account, sign in first, and we’ll remember your preference next time you access our sites while you’re logged in.
+
+- Your preference is tied to your current browser or device. If you’re not signed in, use a different browser or device to visit our sites, or disable certain cookies, you may need to reset your preferences.
+
+- Opting out does not turn off all cookies, pixels, and similar technologies on our sites. We will still use cookies that are necessary for our site to function properly or enable core functionality such as security, network management, and accessibility. If you disable these by changing your browser settings, this may affect how the sites function. We may also use other automated means to collect information about your interactions with our online services for the other purposes described in this Privacy Policy (e.g., to remember user preferences).
+
+- You may also be able to use industry ad choice tools to control how certain third-party advertisers use the information that they collect about you on our online services and third party sites and apps. If you are in the U.S., you can obtain more information at aboutads.info/choices (Digital Advertising Alliance). You may also download the DAA AppChoices (https://youradchoices.com/appchoices) tool in order to help control interest-based advertising on apps on your mobile device.
+
+- You may also choose to control targeted ads you receive within our apps by using the settings and choices made available to you by your device manufacturer.
+
+Offline Info. You can also opt out of sales and sharing of Offline Info by completing our Privacy Preference Webform (accessible by clicking the link), by visiting ‘Your Privacy Choices ,’ or by emailing us at myprivacyrights@gap.com with the required information for the webform. Authorized agents may also submit requests to opt-out of the ‘sale’ or ‘sharing’ on behalf of consumers (for whom they are authorized to act) using our Privacy Preference Webform. We only use the information collected from opt-out requests to fulfill and maintain records of such requests. These requests may take up to 15 business days to process.
+
+You can read more about how websites and mobile apps collect and use your information and take additional steps to control targeted advertising from many ad networks and exchanges by visiting The Federal Trade Commission website. As online environments continue to evolve, additional opt-out mechanisms or privacy settings may become available to you. We encourage you to review the information on opt-outs and settings that browser owners, device manufacturers, technology companies, and industry associations make available to you.
+
+Other opt outs and privacy choices
+
+- Device location sharing. If you have granted one of our apps permission to access your location data, you can stop such sharing by turning off ‘location sharing’ with our app, using your device settings.
+
+- Email marketing. You may opt-out of receiving marketing or promotional emails from us by clicking on the ‘unsubscribe’ link contained in such emails. Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional communications, such as those relating to your purchases or Encore Membership Programs Rewards Program.
+
+- Text message marketing. You may opt out of receiving marketing or promotional texts from us by texting the word STOP in response to a text message or following other instructions provided to you when you elected to receive texts. You may have requested texts from more than one list, so you will need to opt-out from each list you are on. We do not sell or share SMS phone numbers or opt-in consent for third-party marketing.
+
+- Direct mail. You may request that we stop sending you postal mail offers through the United States post office by calling us at: 1-866-237-4007.
+
+- Push notifications. If an online service enables push notifications on your device, you may review and update your push notification preferences by adjusting the notification settings provided by your device manufacturer. Deactivation may not apply to our in-app notifications and alerts.
+- In-store technologies. If you choose to use our in-store Wi-Fi services, you can opt-out of the auto-reconnect feature by adjusting your mobile device settings provided by your device manufacturer or by visiting www.smart-places.org.
+
+- Co-branded, co-sponsored, or cross-promotional offerings. If you participate in a co-branded, co-sponsored, or cross-promotional offering, the relevant brand, sponsor, or other third party may use your information for their own purposes, including advertising and marketing. You must contact the relevant third party directly to exercise your opt-out choices with respect to their use of your information.
+
+Non-discrimination
+
+We do not discriminate against anyone for exercising their privacy rights or making similar requests.
+
+Automated individual decision making
+
+We do not make decisions about you based solely on automated processing of your personal information, including profiling, which produce legal or similarly significant effects, unless necessary for entering or performance of a contract with you based on your explicit consent or as authorized by applicable law.
+
+Children’s Privacy
+
+Our online services are intended for general audiences and are not specifically targeted to or intended for use by children and minors. We do not knowingly collect personal information directly from children under the age of 13 (16 in the United Kingdom or European Union) without parental consent, nor do we collect personal information from users we know are minors without obtaining consent where required by applicable law.
+
+Retention of Personal Information
+
+We retain personal information for the length of time needed to fulfill the purposes for collection unless a longer retention period is required or permitted by applicable law.
+
+Data Transfers
+
+We have operations and vendors in the United States, Canada, and other countries which means we may transfer your personal information to or store or access it in jurisdictions that may not provide levels of data protection that are equivalent to those of your home jurisdiction. Your personal information may also be subject to law enforcement requests in such jurisdictions. We provide adequate protection for the transfer of personal information in accordance with applicable law, such as by obtaining your consent, setting up contractual obligations with our service providers and third parties, relying on the European Commission’s adequacy decisions, or executing Standard Contractual Clauses. As applicable law may provide, you may request a copy of these Standard Contractual Clauses by contacting our representative in the United Kingdom and European Union identified in the ‘Contact us’ section of this Privacy Policy.
+
+Information Safeguards
+
+Our goal is to provide you with safe and convenient experiences when you interact with us. We maintain technical and organizational measures designed to protect your personal information. You should take steps to protect yourself and your account information as well (e.g., by using a strong password that is unique for each account and regularly changing your passwords). Please note that we will never email you asking for personal information (like your customer account access credentials, date of birth, or credit card information). Additionally, we will never email you with attachments that can be opened. If you receive a suspicious email that appears to be from us, please contact us as identified in the ‘Contact us’ section of this Privacy Policy.
+
+Third-Party Sites and Platforms
+
+When you provide information to us on sites, apps, and other platforms operated by third parties (like using one of our apps on a third-party platform through your mobile device), the information you provide may be separately collected by these third-party operators. In addition, you may interact with our content, products, services, or ads available on content distribution channels operated by third parties (like video sharing and social network websites and apps). The information we collect is subject to this Privacy Policy, and the information these third-party operators collect is subject to their own privacy policies. Privacy choices you make on third-party sites, apps, platforms, or content distribution channels will not apply to our use of the information we have collected directly through our online services.
+
+Please also keep in mind that our online services may contain links to other sites and platforms that we do not own or control. We are not responsible for the privacy practices of other sites and platforms. We encourage you to be aware when you leave our online services and to read the privacy policies published by relevant third parties that may apply.
+
+Additional Information for California Residents
+
+This section provides additional information as required by the CCPA and applies to the personal information we collect about California consumers (i.e., consumers who are residents of California).
+
+Collection and processing of personal information about California consumers as of the ‘Last Updated’ date of this Privacy Policy:
+
+- The categories and sources of the personal information we have collected about California consumers in the prior 12 months, as well as our business and commercial purposes for collecting, using and disclosing such information are identified in the ‘Notice at Collection – Overview of Privacy Practices‘ section of this Privacy Policy (and described in greater detail under the ‘Collection and sources of personal information’ and the ‘Purposes for processing personal information’ sections, respectively).
+
+- The categories of personal information we have disclosed for a business purpose in the past 12 months, the categories of personal information we have ‘sold’ or ‘shared’ in the past 12 months, and the respective categories of third parties to whom such disclosures and such sales or sharing have been made are identified in the in the ‘Notice at Collection – Overview of Privacy Practices’ section of this Privacy Policy (and described in greater detail under the ‘Disclosure of personal information and recipients’ section).
+
+- We do not sell or share personal information about consumers we know are under 16 years old, nor do we use or disclose sensitive personal information about consumers (including those we know are under 16 years old) beyond the purposes authorized by the CCPA (as specified in section 7027(m) of the CCPA Regulations).
+
+- California residents have the right to know (or access a copy of) their personal information that we have collected, the right to correct inaccurate personal information we maintain about them, the right to delete certain personal information we maintain about them (subject to exceptions), and the right to opt out of ‘sales’ and ‘sharing’ under the CCPA. You can find additional information about these CCPA privacy rights, including how to exercise these rights and how we process and handle requests such requests, in the ‘Your privacy rights and choices’ section of this Privacy Policy.
+
+Statistics on California consumer privacy requests we receive. The following are statistics on the number of privacy requests we’ve received from California residents during the prior calendar year.
+Requests from California residents January 1, 2025 — December 31, 2025
+Received
+Fulfilled
+Denied*
+Mean number of days for response
+Requests to know
+49
+32
+Requests to delete
+1,357
+1,078
+279
+12
+Requests to opt-out of sales/sharing
+5,118,478
+5,118,477
+1
+6
+*Lack of response to identity verification.
+
+California’s ‘Shine the Light’ law. If you are a California resident, we will not disclose your Personal Information to third parties for their own direct marketing purposes, if you have exercised your right to opt-out of such disclosures. To exercise this opt-out right, please do so at Your Privacy Choices located at the bottom of this page. See the ‘Your Privacy Rights and Choices’ section of this Policy for more information. If you have any questions about this right and how to opt-out, please write to us at CaliforniaSTL@gap.com.
+
+Minor content removal. If you are a California resident, under 18, and a registered user of our services, you may ask us to remove content or information that you have posted to these services by contacting us at myprivacyrights@gap.com. Please note that your request does not ensure complete or comprehensive removal of the content or information. For example, some of your content may have been reposted by another user on other media.
+
+Policy Revisions and Updates
+
+Because we may revise and update this Privacy Policy from time to time, we encourage you to review it regularly. If we make changes, we will notify you by revising the date at the top. If we make material changes, we will endeavor to provide you with additional notice, such as by adding a statement on the homepages of our websites or sending you a notification.
+If you are in the United States or Canada, you may email myprivacyrights@gap.com or write to us at:
+
+Privacy Requests
+Legal Department - Gap Inc.
+2 Folsom Street
+San Francisco, CA 94105
+United States
+
+If you are in the United Kingdom, you may email EUrep@gap.com or write to us at:
+
+Privacy Requests
+c/o Tmf Group
+One Angel Court
+London
+EC2R 7HJ
+United Kingdom
+
+If you are in the European Union, you may email EUrep@gap.com or write to us at:
+
+Alexandria House
+3 Ballsbridge Park
+Dublin, D04C 7H2
+Ireland
+
+If you are in the Japan, you may email Jpn_Privacy@gapinc.com or write to us at:
+
+5-32-10 Sendagaya
+Shibuy-ku, Tokyo 151-0051
+Japan
+
+6/23/2026, 3:30:43 AM | V83.32

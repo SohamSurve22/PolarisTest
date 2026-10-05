@@ -1,0 +1,363 @@
+Biometric Retention Policy
+
+Contractor Privacy Notice for California Residents
+
+HR Privacy Notice for California Residents
+
+# Privacy Policy
+
+Last Updated: June 16, 2025
+
+Marathon Petroleum Corporation and its affiliates (“Marathon”, “we”, “our”, or “us”) respect your concerns about privacy. This Privacy Policy applies to our use of personal information that we may collect through any means, including MarathonPetroleum.com and any other websites or mobile apps that link to this notice, as well when you communicate with us by email and other communication services, such as messaging apps (collectively, “Services”). This Privacy Policy describes the types of personal information we collect, how we use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe measures we take to protect the security of the information and how you can contact us about our privacy practices.
+
+This Privacy Policy applies only to Marathon and does not address the privacy practices of our third-party partners, such as jobbers, dealers or franchisees. The privacy practices of our partners may be subject to their own privacy notices describing how they process personal information. For information about how we process personal information in connection with Marathon ARCO Rewards, please see our Marathon ARCO Rewards Privacy Policy.
+
+If you are a California consumer, please see the section of this Privacy Policy called “California Consumer Privacy Statement” for more information about your privacy rights.
+
+Click on one of the links below to jump to the listed section:
+
+- Information We Obtain
+
+- Automated Data Collection
+
+- How We Use the Information We Obtain
+
+- Third-Party Analytics Services
+
+- Interest-Based Advertising
+
+- Information We Share
+
+- Data Transfers
+
+- Your Rights and Choices
+
+- How We Protect Personal Information
+
+- Retention of Personal Information
+
+- Children’s Privacy
+
+- Links to Third-Party Services and Features
+
+- Updates to Our Privacy Policy
+
+- How to Contact Us
+
+- California Consumer Privacy Statement
+
+#### Information We Obtain
+
+The types of personal information we may obtain include:
+
+- Contact information, including name, telephone number and postal and email address;
+
+- Account information, including login information, account preferences and other account details;
+
+- Payment information, including name, billing and delivery address, and payment card or gift card details;
+
+- Purchase information, including information about your visits to and purchases at our fuel stations and those of our partners, and other products and services you obtain from us, such as Marathon gift cards;
+
+- Professional information, including your job title, company name, industry and professional and employment background;
+
+- Demographic information, including gender, date of birth and other personal characteristics;
+
+- Device information, as described in the Automated Data Collection section below;
+
+- Location information;
+
+- Social media information, including your social media handle;
+
+- Job application information, including your resume and any additional application information provided to us (for example, employment history and education);
+
+- The contents of any communications between you and us, including those sent by email and other communications services such as messaging apps; and
+
+- Other information you choose to provide, such as through emails or other communications, social media pages, customer portals, surveys, registrations and sign-up forms and other features of the Services.
+
+We may collect this information when you use our Services or otherwise interact with us (for example, call or email us). In some cases, we also may obtain your personal information from other parties, such as from our affiliates, partners, jobbers, dealers, franchisees, customers, vendors and other third parties with whom we work. We also may obtain other personal information about you in ways that we describe at the time of collection.
+
+Automated Data Collection
+
+When you interact with our Services or open our emails, we may obtain certain information by automated means, such as cookies, pixel tags, server or device logs and other technologies. A “cookie” is a text file that websites send to a visitor’s device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “pixel tag” (also known as a web beacon) is a type of technology that is placed on a website or within an email to track certain activity, such as views of a website or when an email is opened. These technologies help us (1) remember your information so you do not have to re-enter it; (2) track and understand how you use and interact with the Services; (3) tailor the Services around your preferences; (4) measure the usability of the Services and the effectiveness of our communications; (5) authenticate your identity, protect against fraud and provide our products and services; and (6) otherwise manage and enhance our products and services, and help ensure they are working properly.
+
+We may use these automated technologies on the Services to collect information about your device, browsing actions and usage patterns. We obtain information about your device and web browser in this manner such as your device IP address, general location information, unique device identifiers, device type and model, device characteristics and settings, browser settings and characteristics, operating system type and version, language and country preferences, usage statistics, referring emails and web addresses, and other device details. In addition, we may collect your device’s geolocation information through GPS, Bluetooth, WiFi signals and other technologies. Your device’s operating platform may provide you with a notification when the Services attempts to collect your precise geolocation. Please note that if you decline to allow the Services to collect your precise geolocation, you may not be able to use all of the Services’ features or the offers available through the Services. We also may obtain information about your interactions with our Services, such as pages visited, links clicked, features used, dates and times of usage, session information and other information about your use of our Services. We also use third-party services that log, record and archive communications between you and us, including those sent by email and other communications services such as messaging apps.
+Your browser may tell you how to be notified about certain types of automated collection technologies and how to restrict or disable them. Please note, however, that without these technologies, you may not be able to use all of the features of the Services. For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your mobile device.
+
+#### How We Use the Information We Obtain
+
+We may use the personal information we obtain about you to carry out our contractual obligations, to perform certain legal or regulatory obligations and for our legitimate interests in providing our products and services, maintaining our business and for security and safety purposes, including to:
+
+- Provide our products and services;
+
+- Provide, onboard and manage your account;
+
+- Communicate with you, respond to inquiries and offer customer support;
+
+- Personalize your experience with our Services;
+
+- Advertise and market our products and services;
+
+- Administer participation in surveys, sweepstakes, promotions or other programs;
+
+- Perform analytics and market, trend or statistical research;
+
+- Compile, anonymize or aggregate personal information for our business purposes;
+
+- Operate, evaluate and improve our business (including developing new products and services; improving and analyzing our products and services; managing our communications; and performing accounting, auditing and other internal functions);
+
+- Manage career opportunities with us, including for recruitment purposes, candidate screening and evaluation and employee onboarding;
+
+- Manage our relationships with current or prospective partners, customers and vendors and other business partner personnel;
+
+- Maintain and enhance the safety and security of our products and services, prevent misuse and troubleshoot technical issues;
+
+- Monitor and archive the content of communications between you and us, including those sent by email and other communications services such as messaging services;
+
+- Verify your identity and protect against fraud and other criminal activity, claims and other liabilities;
+
+- Exercise our rights and remedies and defend against legal claims; and
+
+- Comply with and enforce applicable legal requirements, relevant industry standards and Marathon policies, including the Services’ terms of use and other terms and conditions.
+
+We also may use the information in other ways for which we provide specific notice at the time of collection.
+
+Third-Party Analytics Services
+
+We may use third-party analytics services on the Services, such as Google Analytics. The providers of these analytics services use technologies such as cookies and web beacons to help us analyze your use of the Services. The information collected through these means may be disclosed to or collected directly by these services. To learn more about Google Analytics, please visit https://www.google.com/policies/privacy/partners/.
+
+Interest-Based Advertising
+
+You may see our ads on other websites because we use third-party ad services on our Services. Through these ad services, we can tailor our messaging to individuals considering demographic data, inferred interests and browsing context. These ad services track information about your online activities over time and across third-party websites and apps by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. These ad services may collect data about your visits to websites and apps that participate in these services, such as the pages or ads you view and the actions you take on the websites or apps. This data collection takes place both on the Services and on third-party websites and apps that participate in these ad services. These ad services use this information to show you ads that may be tailored to your individual interests. This process also helps us track the effectiveness of our marketing efforts. Our Services are not designed to respond to “do not track” signals from browsers.
+
+To learn how to opt out of interest-based advertising in the U.S., please visit www.aboutads.info/choices, www.networkadvertising.org/choices/, and http://preferences-mgr.truste.com/. In addition, your Facebook account settings may allow you to adjust the ads you see while on Facebook and the information Facebook can use to show you ads on Facebook. If you delete your cookies or use a different browser or mobile device, you may need to renew your opt-out choices exercised through these mechanisms.
+
+#### Information We Share
+
+We may share personal information, as set forth below:
+
+- Affiliated Entities: We share personal information with our affiliates for the purposes described in this Privacy Policy.
+
+- Our Partners: We may share your personal information with jobbers, dealers, franchisees, joint marketing partners and other business partners.
+
+- Service Providers: We share personal information with vendors and other entities to perform services for us on our behalf, such as technology and communications, payment processing and billing, advertising and marketing, analytics, detecting and preventing fraud, security, customer service, gift card administration and others.
+
+- Social Networks: We may share your personal information with social media platforms if you use those services to connect with us through the features on our website. Where required under applicable law, we will ask for you consent to do so.
+
+- Business Transfers: We reserve the right to transfer any personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation).
+
+- Others: We may disclose personal information (1) if we are required to do so by law or legal process, such as a court order or subpoena; (2) in response to requests by government agencies, such as law enforcement authorities; (3) to establish, exercise or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss; (5) in connection with an investigation of suspected or actual illegal activity; or (6) otherwise with your consent or as directed by your representative.
+
+#### Data Transfers
+
+In connection with our Services, your personal information may be transferred to Marathon or our service providers in countries other than the country in which you reside. Those countries may not have the same data protection laws as the country in which you initially provided the personal information. When your personal information is transferred to these other countries (such as the U.S.), we will protect that information as described in this Privacy Policy, including, to the extent required by applicable law, by entering into Standard Contractual Clauses or other data transfer safeguards. You may request a copy of these safeguards by contacting us as described in the How to Contact Us section of this Privacy Policy.
+
+#### Your Rights and Choices
+
+To the extent provided by applicable law, you may (1) request access to certain personal information we maintain about you; (2) request that we update, correct, amend certain personal information we maintain about you; (3) delete certain personal information we maintain about you; (3) restrict sensitive personal information we maintain about you or object to the processing of your personal information; or (4) exercise your right to data portability. To exercise these rights, update your preferences, limit the communications you receive from us, or submit a request, please contact us as specified in the How to Contact Us section below.
+
+Where provided by law, you may withdraw any consent you previously provided to us, and we will apply your preferences going forward as appropriate. This will not affect the lawfulness of our processing based on your consent prior to such withdrawal. You may have the right to file a complaint with a regulator if you have concerns regarding our processing of your personal information.
+
+We may send you promotional emails regarding our products and services. You can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our relevant emails.
+
+If you are a California resident, please see the California Consumer Privacy Statement section of this Privacy Policy for more information about your privacy rights.
+
+#### How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized access, destruction, loss, alteration, disclosure or use.
+
+#### Retention of Personal Information
+
+To the extent required by applicable law, we keep the personal information we obtain about you for the time period necessary to achieve the purposes described in this Privacy Policy or any other notice provided at the time of collection, taking into account applicable statute of limitations and records retention requirements under applicable law. We may retain your personal information for a longer period in the event of a complaint or in reasonable anticipation of litigation.
+
+#### Children’s Privacy
+
+The Services are designed for a general audience and is not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information from children under the age of 18 without parental consent. If we learn that we have collected personal information from a child under age 18 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 18 may have provided us with personal information without parental consent, please contact us as specified in the How To Contact Us section of this Privacy Policy.
+
+Links to Third-Party Services and Features
+
+For your convenience and information, the Services may provide links to other online services (such as websites or social media platforms), and may include third-party features such as apps, tools, widgets and plug-ins. These online services and third-party features may operate independently from us. The privacy practices of the relevant third parties, including details on the information they may collect about you, are subject to the privacy statements of these parties, which we strongly suggest you review. To the extent any linked online services or third-party features are not owned or controlled by Marathon, we are not responsible for these third parties’ information practices.
+
+#### Updates to Our Privacy Policy
+
+We may update this Privacy Policy from time to time and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the policy when it was most recently updated.
+
+#### How to Contact Us
+
+To request that we remove your information from certain mailing lists, to withdraw any consent you previously provided or to ask us questions about this Privacy Policy, you can email us at [email protected] or call +1-419-421-2754. If contacting us by email, please include the words “Privacy Policy” in the subject line. You may also write to us at:
+
+Marathon Petroleum Corporation
+Law Organization – Data Privacy
+539 South Main Street
+Findlay, OH 45840
+
+For requests to exercise your privacy rights for access, deletion, correction, or to limit use and disclosure of your sensitive personal information, please complete the Marathon Privacy Rights Request Self-Service Webform . If you prefer to talk to someone on the phone, or you have a disability or situation that makes it difficult to submit your requests as described above, you may call +1-419-421-2754.
+
+For individuals located in the UK, Marathon Petroleum Corporation is the controller of the personal information we process about you pursuant to this Privacy Policy.
+
+#### CALIFORNIA CONSUMER PRIVACY STATEMENT
+
+Last Updated: June 16, 2025
+
+This California Consumer Privacy Statement supplements the MarathonPetroleum.com Privacy Policy (“Marathon Privacy Policy”) and applies solely to personal information collected about California consumers, such as our customers, website visitors, business partners and job applicants. This California Consumer Privacy Statement does not apply to personal information collected about Marathon personnel.
+
+This California Consumer Privacy Statement uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 (as amended by the California Privacy Rights Act of 2020) and its implementing regulations (collectively, the “CCPA”).
+
+For information about how we process personal information in connection with Marathon ARCO Rewards, please see our Marathon ARCO Rewards Privacy Policy.
+
+Notice of Collection and Use of Personal Information
+
+We may collect (and may have collected during the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement) the following categories of personal information about you:
+
+- Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers, and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), online identifier, IP address, email address, Social Security number, driver’s license number, passport number, and other similar identifiers
+
+- Additional Data Subject to Cal. Civ. Code § 1798.80: signature, state identification card number, insurance policy number, bank account number, credit card number, debit card number, or other financial information, education information and medical information
+
+- Protected Classifications: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, reproductive health decisionmaking, medical condition, ancestry, genetic information, disability, citizenship status, and military and veteran status
+
+- Commercial Information: commercial information, including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+
+- Online Activity: Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements, as well as the contents of any electronic communications between you and us, including those sent by email and other communications services such as messaging apps
+
+- Geolocation Data
+
+- Biometric Data
+
+- Sensory Information: audio, electronic, visual, and similar information
+
+- Employment Information: professional or employment-related information such as résumé information, occupation details, education details, certifications and professional associations, historical compensation details, previous employment details, emergency contact information, and pre-employment screening and background check information, including criminal records information
+
+- Education Information: education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)
+
+- Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+We may use (and may have used during the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement) your personal information for the purposes described in the Marathon Privacy Policy and for the following business purposes:
+
+- Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytics services, providing storage, or providing similar services;
+
+- Providing advertising and marketing services;
+
+- Auditing related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance;
+
+- Short-term, transient use, such as nonpersonalized advertising shown as part of your current interaction with us;
+
+- Helping to ensure security and integrity;
+
+- Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them;
+
+- Debugging to identify and repair errors; and
+
+- Undertaking internal research for technological development and demonstration,
+
+We do not collect or process sensitive personal information for purposes of inferring characteristics about consumers.
+
+To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+
+#### Retention of Personal Information
+
+We will retain your personal information as described in the "Retention of Personal Information” section of the Privacy Policy.
+
+#### Sources of Personal Information
+
+During the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement, we may have obtained personal information about you from the following categories of sources:
+
+- Directly from you, such as when you contact us, including through communication services such as messaging apps
+
+- Your devices, such as when you use our Services
+
+- Our affiliates, partners, jobbers, dealers and franchisees
+
+- Others who use our products or services, such as your family, friends or employer
+
+- Service providers, contractors and other vendors who provide services on our behalf
+
+- Our joint marketing and business partners
+
+- Online advertising services
+
+- Data analytics providers
+
+- Internet service providers (“ISPs”)
+
+- Operating systems and platforms
+
+- Social networks
+
+- Recruiting and talent agencies
+
+- Job references, such as your employers or teachers
+
+- Data brokers, such as public databases, credit bureaus, credit reporting service providers and background check services
+
+#### Sale or Sharing of Personal Information
+
+We do not sell your personal information in exchange for monetary compensation. We may share your personal information by allowing certain third parties (such as online advertising services) to collect personal information via automated technologies on our websites and apps for cross-context behavioral advertising purposes. This kind of sharing may be considered a “sale” under California law when the personal information is exchanged for non-monetary consideration. You have the right to opt out of these types of disclosures of your information.
+
+We may sell or share for cross-context behavioral advertising purposes (and may have sold or shared during the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement) the following categories of personal information about you to online advertising services:
+
+- Identifiers
+
+- Commercial Information
+
+- Online Activity
+
+- Inferences
+
+You have the right to opt-out of this disclosure of your information, as detailed below. We do not have actual knowledge that we sell or share the personal information of minors under 16 years of age.
+
+#### Disclosure of Personal Information
+
+During the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement, we may have disclosed the following categories of personal information about you for a business purpose to the following categories of third parties:
+Category of Personal Information
+Categories of Third Parties
+Identifiers
+
+- Vendors who provide services on our behalf
+
+- ISPs and operating systems and platforms
+
+- Data brokers, such as credit bureaus, credit reporting service providers, background check services
+Additional Data Subject to Cal. Civ. Code § 1798.80
+
+Protected Classifications
+
+Commercial Information
+
+Online Activity
+
+Geolocation Data
+
+Sensory Information
+
+Employment Information
+
+Education Information
+
+Inferences
+
+In addition to the categories of third parties identified above, during the 12-month period prior to the Last Updated date of this California Consumer Privacy Statement, we may have disclosed personal information about you to government entities, and third parties in connection with corporate transactions, such as mergers, acquisitions or divestitures.
+
+#### California Consumer Privacy Rights
+
+You have certain choices regarding your personal information, as described below.
+
+- Access: You have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed, and sold or shared about you.
+
+- Correction: You have the right to request that we correct the personal information we maintain about you, if that information is inaccurate.
+
+- Deletion: You have the right to request that we delete certain personal information we have collected from you.
+
+- Opt-Out of Sale or Sharing: You have the right to opt-out of the sale of your personal information or the sharing of your personal information for cross-context behavioral advertising purposes.
+
+- Limit: You have the right to request that we limit use and disclosure of sensitive personal information we have collected from you.
+
+How to Submit a Privacy Rights Request. For requests to exercise your privacy rights for access, deletion, correction, or to limit use and disclosure of your sensitive personal information, please complete the Marathon Privacy Rights Request Self-Service Webform. If you prefer to talk to someone on the phone, or you have a disability or situation that makes it difficult to submit your requests as described above, you may call +1-419-421-2754. For questions or concerns about our privacy policies and practices, please contact us as described in the “Contact Us” section of the Marathon Privacy Policy.
+
+Verifying Requests. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your deletion or correction request. If you have a Marathon account with us, we may verify your identity by requiring you to sign in to your account. If you do not have a Marathon account with us and you request access to, correction of or deletion of your personal information, we may require you to verify your email address or phone number in our records and/or provide any of the following information:
+
+- Contact information (such as name, email, phone number, and address); and
+
+- An indication of your prior contact with Marathon (such as status as participation in a focus group or survey, prior contact with customer service, or other contact).
+
+In addition, if you ask us to provide you with specific pieces of personal information, we may require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+
+Additional Information. If you choose to exercise any of your rights under the CCPA, you have the right to not receive discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.

@@ -1,0 +1,209 @@
+# Main content
+
+## Privacy Policy
+
+Westlake Corporation is pleased about your visit to our website and your interest in our company.
+
+The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to identify you personally. For detailed information on the subject of data protection, please refer to our privacy notice listed below this text.
+
+FURTHER PRIVACY INFORMATION IS AVAILABLE ON OUR WESTLAKE DATA PRIVACY PAGE, WHICH CONTAINS INFORMATION FOR CALIFORNIA AND CANADA RESIDENTS, JOB APPLICANTS AND BUSINESS PARTNERS.
+
+A. INFORMATION ABOUT THE CONTROLLER AND THE DATA PRIVACY TEAM
+
+Responsible for the website of Westlake Corporation (www.westlake.com) is:
+
+Westlake Corporation
+2801 Post Oak Blvd., Suite 600
+Houston, Texas 77056
+United States
+e-mail: privacy@westlake.com
+
+The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is all data with which you can be personally identified. For detailed information on the subject of data protection, please refer to our Privacy Notice listed below this text.
+
+B. INFORMATION ABOUT THE PROCESSING OF PERSONAL DATA
+
+I. INFORMATIONAL USE OF THE WEBSITE In the case of the purely informational use of the website, the browser used on your end device will, for technical reasons, send certain information to the server of our website, for example your IP address. We process this information to provide the content you have accessed on the site. To ensure the security of the IT infrastructure used for the provision of the website, this information is also stored temporarily in a so-called web server log file.
+
+To provide the search functions of our website, data that you enter into our search functions is temporarily processed on our web server.
+
+II. USE OF ONLINE CONTACT FORMS
+
+On the website, we offer you the opportunity to contact us via contact forms. We process the information provided by you in the contact forms to process your request. If necessary, we also store the information as evidence for the possible assertion, exercise or defense of legal claims or for the fulfilment of statutory, especially commercial and tax, storage requirements.
+
+When using the contact forms on the website, the browser used on your end device will, for technical reasons, send certain information to the server of our website, for example your IP address. We process this information to provide the contact forms on the Web and to ensure the security of the IT infra-structure used to deliver the form.
+
+III. HOSTING AND CONTENT DELIVERY NETWORKS (CDN)
+
+This website is hosted by an external service provider (host). Personal data collected on this website are stored on the servers of the host. These may include, but are not limited to, IP addresses, contact requests, metadata and communications, contract information, contact information, names, web page access, and other data generated through a web site.
+
+The host is used for the purpose of fulfilling the contract with our potential and existing customers and in the interest of secure, fast, and efficient provision of our online services by a professional provider.
+
+Our host will only process your data to the extent necessary to fulfil its performance obligations and to follow our instructions with respect to such data.
+
+We are using the following host:
+
+Amazon Web Services
+
+IV. USE OF THIRD-PARTY PLUG-INS (FOR EXAMPLE, SOCIAL MEDIA PLUG-INS OR ONLINE MAP SERVICE PLUG-INS)
+
+The website includes so-called third-party plug-ins that allow you to use third-party functionalities offered on the website. The plug-ins are integrated on the website via a so-called "2-click solution". With this solution, the respective plug-in is not activated directly when the website is called, but only when you activate the activation button for the respective plug-in.
+
+If you activate a third-party plug-in, you use a functionality offered by the provider of the respective plug-in on its own responsibility, which is only optically embedded in the presentation of our website. When activating the respective plug-in, the provider of the respective plug-in may possibly receive personal data from you. In addition, when the plug-in is activated, the provider of the particular plug-in may use cookies or similar technologies. We have no knowledge of the specific purposes, content and storage duration as well as the need for consent of the cookies or similar technologies used by the provider of the plug-in. Specific information on this can be found in the additional information provided by the respective third-party provider (see below).
+
+Below you will find more detailed information:
+
+1. PROCESSING OF PERSONAL DATA BY PROVIDERS OF THIRD-PARTY PLUG-INS
+
+The 2-click solution ensures that your Internet browser initially does not connect to servers of the provider of the respective plug-in when the web-site is accessed. When the website is called up, the provider of the respective plug-in cannot collect any personal data from you via the respective plug-in. The respective plug-in is activated only when you activate the button provided for activating the respective plug-in. As a result of the activation, a connection is made to servers of the provider of the respective plug-in. This allows the provider of the respective activated plug-in to collect personal data from you. Activation of the respective plug-in is technically comparable to clicking on a link to an external website, with the difference that the content called up does not appear in a new window / tab of your Internet browser but optically embedded in our website. The data ex-change initiated by you through the activation and use of the plug-in takes place exclusively between your Internet browser and the servers of the provider of the respective plug-in. If you activate a third-party plug-in, you are therefore using a functionality offered by the provider of the respective plug-in, which is optically embedded in the presentation of our website.
+
+When activating the respective plug-in, the provider of the respective plug-in (comparable to calling an external website via a link) can receive in particular your IP address as well as the address (URL) of the website from which you are activating. In addition, the provider of the respective activated plug-in can receive information from any cookies of the respective provider stored in your internet browser. The provider of the respective plug-in can thus at least receive the information that our website was called up under the IP address assigned to you at the time of the call by activating the respective plug-in. If you are registered as a user with the respective third-party provider, the provider of the respective plug-in can generally also as-sign the received data to your user account. We point out that we have no knowledge of the data collected specifically by the provider of the respective plug-in. In addition, we have no knowledge of the specific purpose of processing the data collected by the provider of the respective plug-in or other details of the data processing of the respective provider. In particular, we do not know whether the respective provider processes the data collected solely for the purpose of providing the functionality of the respective plug-in (eg for the sharing of specific content or the submission of comments) or, for any other purpose (eg Formation of user profiles or for the personalization of advertising).
+
+2. INFORMATION ABOUT THE OTHER THIRD-PARTY PLUG-INS USED
+
+We are using business accounts on Facebook and LinkedIn. When you visit our pages on these social media, you have the opportunity, among other things, to respond to our posts, comment on them and send us private messages. Your visit to our profile sets in motion a variety of data processing operations relating to your personal data. We inform you about the rights you have with regard to the processing of your personal data towards us. You are not obliged to provide us with your personal data. However, this may be necessary for individual functionalities of our profiles in social net-works. We process your data for customer-oriented company presentation, for market-effective external presentation and for exchange with users of our appearances in social media. This is necessary to protect our legitimate interests. Your interests or fundamental freedoms and rights are not to be regarded as predominant in this context, as you have voluntarily opted for this form of interaction and communication.
+
+If you use our profiles on social media to contact us, the data you provide us with will be processed by us solely for the purpose of being able to contact you.
+
+Data transfer to a third country
+
+Social media is based in the USA. However, several social media services which are in use at Westlake are self-certified under the Data Privacy Frame-work between EU and US, which also applies for UK. It provides a legal basis for data protection-compliant international data transfer. Nevertheless, this data transfer takes place through your voluntary use of the platforms in accordance with applicable Data Protection Laws.
+We would like to point out that the platform operators use web tracking and profiling systems that create extensive profiles about the users of these platforms but we have no influence on these systems. When you visit our appearances on social media, your personal data is collected, used and stored not only by us, but also by the operators of the social media. This happens even if you yourself do not have a profile in the respective social network. For details about the collection and storage of your personal data and about the type, scope and purpose of their use by the social media, please refer to their Privacy Statements:
+
+Facebook.com https://www.facebook.com/privacy/policy/
+Twitter.com https://twitter.com/en/privacy
+LinkedIn.com https://www.linkedin.com/legal/privacy-policy
+
+3. INFORMATION ABOUT THE OTHER THIRD-PARTY PLUG-INS USED
+
+GOOGLE ANALYTICS
+
+This website uses functions of the web analysis service Google Analytics. The provider is Google Inc, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so-called "cookies". These are text files that are stored on your computer and enable an analysis of your use of the website. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+
+ACTIVATION OF ANALYTICS COOKIES WILL ONLY HAPPEN WHEN YOU HAVE CONSENTED ON WESTLAKE'S COOKIE BANNER.
+
+IP anonymization
+
+We have activated the IP anonymization function on this website. This means that your IP address will be shortened by Google within member states of the European Union, the United Kingdom or in other states party to the Agreement on the European Economic Area before being transmitted to the USA. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. On behalf of Westlake, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage to Westlake. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.
+
+Browser Plugin
+
+You may refuse the use of cookies by using Westlake’s Cookie Banner or selecting the appropriate settings on your browser, however, please note that if you do this you may not be able to use the full functionality of this website. You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) to Google and the processing of this data by Google by downloading and installing the browser plugin available at the following link: https://tools.google.com/dlpage/gaoptout?hl=en.
+
+Joint Controllership
+
+In order to comply with the strict requirements of the European data protection authorities when using Google Analytics, we have concluded a joint responsibility agreement with Google. In this context, we would like to point out that Google carries out analyses on its own responsibility, over which we have no influence.
+
+Google Tag Manager
+
+This website uses the Google Tag Manager. Through this service, website tags can be managed via an interface. The Google Tool Manager only im-plements tags. This means that no cookies are used and no personal data is stored. The Google Tool Manager triggers other tags, which in turn may collect data. However, the Google Tag Manager does not access this data. If a deactivation has been made at domain or cookie level, it remains in place for all tracking tags, insofar as these are implemented with the Google Tag Manager.
+
+Google Web Fonts
+
+To ensure that fonts used on this website are uniform, this website uses so-called Web Fonts provided by Google. When you access a page on our website, your browser will load the required web fonts into your browser cache to correctly display text and fonts.
+
+To do this, the browser you use will have to establish a connection with Google’s servers. As a result, Google will learn that your IP address was used to access this website. Westlake has a legitimate interest in a uniform presentation of the font on Westlake’s website. If you have consented to the use of cookies on Westlake’s cookie banner, the data will be processed exclusively on this basis. Any such consent may be revoked at any time.
+
+If your browser should not support Web Fonts, a standard font installed on your computer will be used.
+
+For more information on Google Web Fonts, please follow this link: https://developers.google.com/fonts/faq and consult Google’s Data Privacy Declaration under: https://policies.google.com/privacy?hl=en.
+
+C. INFORMATION ABOUT THE USE OF COOKIES
+
+I. GENERAL INFORMATION ABOUT COOKIES
+
+Cookies are small text files containing information that can be placed on the user's device when visiting a website via the browser. When the website is called up again with the same device, the cookie and the information stored therein can be retrieved.
+
+FIRST- AND THIRD-PARTY-COOKIES – Depending on where a cookie comes from, so-called first-party and third-party cookies can be distinguished:
+
+First Party Cookies
+
+Cookies set and called by the operator of the website as controller or by a processor assigned to it.
+
+Third-Party-cookies
+
+Third-Party-cookies
+
+TRANSIENT AND PERSISTENT COOKIES – Depending on the validity period, so-called transient and persistent cookies can also be distinguished:
+
+Transient cookies
+(session-cookies)
+
+Cookies that are automatically deleted when you close your browser.
+
+Persistent cookies
+
+Cookies that remain stored on your device after closing the browser for a certain period of time.
+
+CONSENT-FREE AND CONSENT-REQUIRING COOKIES - Depending on their function and purpose, the use of certain cookies may require the consent of the user. In this respect, cookies can be differentiated according to whether their consent requires the consent of the user:
+
+Consent-free cookies
+
+Cookies whose sole purpose is to carry out the transmission of a message via an electronic communications network.
+
+Cookies that are strictly necessary for the provider of an information society service that was explicitly requested by the subscriber or user to be able to provide this service ("essential cookies")
+
+Consent-requiring cookies
+
+Cookies for all purposes other than those mentioned above.
+
+II. MANAGEMENT OF THE COOKIES USED ON THIS WEBSITE
+
+You can manage the use of cookies via Westlake’s cookie banner (choose the icon on our website) or in the settings of your browser. Different browsers offer different ways to configure the cookie settings in the browser.
+
+Absolutely necessary cookies cannot be deactivated via the cookie management function of this website. You can always deactivate these cookies in your browser at any time. However, we would like to point out that some features of the Website may not work or may not work properly if you generally disable cookies.
+
+D. INFORMATION ABOUT YOUR RIGHTS
+
+As the data subject, you have the following rights in relation to the processing of your personal data:
+
+I. RIGHT TO INFORMATION
+
+The right to information about your personal data processed by us and certain other information (such as those given in this Privacy Notice).
+
+II. RIGHT TO RECTIFICATION
+
+If your personal information is incorrect or incomplete, you have a right to rectification.
+
+III. RIGHT TO DELETION
+
+You can request the deletion of your personal data, unless there is a retention obligation. The right to deletion is not an unqualified right. We may, for ex-ample, continue to process your personal information if such processing is necessary to comply with our statutory obligations or to assert, exercise or de-fend legal claims.
+
+IV. RIGHT TO RESTRICTION OF PROCESSING
+
+This right includes limitation of use or manner of use. This right is limited to specific cases and exists in particular if: (a) the data is incorrect; (b) the pro-cessing is unlawful and you reject the deletion; (c) we no longer need the data, but you need the information to assert, exercise or defend your rights. If processing is restricted, we may continue to store but not use the data. We keep a list of those persons who have exercised the right to limit processing in order to ensure this restriction.
+
+V. RIGHT TO DATA PORTABILITY
+
+This right implies that, if technically possible, we transmit your personal data in a structured, common and machine-readable format for your own purpos-es;
+
+VI. RIGHT TO OBJECTION
+
+You may object to the processing of your personal data if it is processed based on legitimate interests.
+
+You have the right to object at any time, on grounds relating to your particular situation, object to the processing of personal data concerning you which is carried out on the basis of legitimate interest; this also applies to profiling based on these provisions.
+
+VII. RIGHT TO REVOKE CONSENT
+
+If the processing is based on a consent, you have the right to withdraw your consent at any time. The revocation of consent does not affect the legality of the processing carried out based on the consent until the revocation. We will inform you of this before submitting your consent.
+
+VIII. RIGHT TO COMPLAIN
+
+As the data subject, you have the right to lodge a complaint with us under privacy@westlake.com.
+
+E. FURTHER INFORMATION
+
+I. FORWARDING TO OTHER WESTLAKE WEBSITES
+
+Forwarding to other Westlake websites
+
+We have included links to the websites of third parties. When you click on these links, data is transmitted to the operator of these websites. This Privacy Notice does not regulate the collection, transfer or handling of personal data by third parties. Please check the Privacy Notice of the responsible party.
+
+II. USE OF SITE BY CHILDREN
+
+The Website contains information that may be of interest to children, but Westlake does not seek through the Website to gather personal information from or about persons under the age of 17. We are committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act (COPPA)
+
+F. STATUS AND MODIFICATION OF THIS PRIVACY NOTICE
+
+This Privacy Notice is effective February 2024
+
+Due to technical advances and/or due to changed legal and/or regulatory requirements, it may be necessary to adapt this privacy Notice.

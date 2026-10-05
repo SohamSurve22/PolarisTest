@@ -1,0 +1,395 @@
+## Policies
+
+Privacy Policy - International
+
+Talent Acquisition and Recruitment Privacy Notice - California Residents
+
+Talent Acquisition and Recruitment Privacy Notice – International (excluding USA)
+
+Consumer Health Data Privacy Policy
+
+Biogen Support Services Text Program Terms
+
+## U.S. Privacy Policy
+
+Biogen Inc. and its affiliates, including Apellis Pharmaceuticals, Inc. (the "Company", "us", "our" or "we"), respects the privacy rights of individuals and is committed to handling personal information responsibly. This Privacy Notice describes how we collect, use and process your personal information when you use or interact with us through our products, services and operations, including our websites, apps or other digital properties, that refer or link to this Privacy Notice (collectively "Services"), or we obtain and control your personal information from a third party as part of our Services. This Privacy Notices applies only to U.S. residents whose personal information is collected and used as listed under "Information We Collect; How We Use Your Information".
+
+Residents of certain states in the U.S. may be entitled to additional disclosures and rights with respect to personal information under the laws of those states. Please see the section "Supplemental U.S. Local Privacy Rights" (which is located at the end of this Privacy Notice) to review those disclosures and learn more about your rights.
+
+We are committed to ensuring the security of any personal information that we obtain about you through our Services. Michael Towers serves as our Global Chief Information Security & Digital Trust Officer and is responsible for overseeing cybersecurity at Biogen.
+
+ADDITIONAL PRIVACY NOTICES
+
+For the activities listed below, please instead refer to the following privacy policies available in our Privacy Center.
+
+- California job applicants: Please review our Talent Acquisition and Recruitment Privacy Notice – California Residents for details on how we process personal information that we collect during our hiring and talent acquisition process.
+
+- Washington and Nevada residents: Please see our Consumer Health Data Privacy Policy for information about how we handle your consumer health data.
+
+- Non-U.S. Residents - If you are located outside of the U.S., please visit our Privacy Center to find privacy policies and notices relevant to your country or region. You can also go to Contact Us | Biogen and select your country’s local website to see the privacy notice relevant to your country.
+
+INFORMATION WE COLLECT; HOW WE USE YOUR INFORMATION
+
+When you access or use our Services, Biogen may obtain or collect your Personal Information (meaning any information relating to you as an identified or identifiable natural person). Personal Information does not include certain types of information under data protection laws such as aggregated information or publicly available information from government records. Personal Information also does not include any information that is in de-identified or anonymous form, which we may use for any purpose permitted by law. When we obtain or process de-identified or anonymized data, we will not attempt to re-identify such data.
+
+Depending on the Services that are provided to you, Biogen may collect the following categories of Personal Information, which we use and process for the business purposes listed below. Please be aware that at any given time, the Services that you obtain from us may fall under more than one of the categories below and they may also change over time (for example if you are an attendee of a Biogen sponsored event and are also a patient enrolled in our patient support services). Where we rely on your consent to collect and/or process your Personal Information, we will obtain your consent in a separate form or notice that is provided to you.
+
+Users of our websites and digital properties
+Categories of Personal Information
+Purposes for Processing
+- Internet and other electronic activity, such as device ID, IP address, user or browsing activity.
+
+- Identifiers, such as name, e-mail address, telephone number, mailing address; written or digital signature.
+
+- Demographic information, such as zip code.
+
+- Non-precise geolocation data, such as your location based on internet activity.
+
+- Inferences drawn from other personal information, such as person's preferences, characteristics, predispositions, or behavior.
+- To provide Services, and respond to your questions or inquiries.
+
+- To monitor digital properties; maintain and improve performance, functionality and navigation, and analyze usage, for our sites and digital properties.
+
+- To conduct marketing and advertising activities for our products and services, including analytics to measure the effectiveness of advertising campaigns.
+
+- To ensure security of our operations, facilities, and digital properties.
+
+Office visitors and/or participants in our events or trainings
+- Identifiers, such as name, e-mail address, telephone number, mailing address; written or digital signature.
+
+- Audio, electronic, or visual information, such as photographs, video recordings or call recordings.
+
+- Inferences drawn from other personal information, such as person's preferences, characteristics, predispositions, behavior, or attitudes.
+
+- Other Personal Information from any communications that you send us or information collected from your interactions with us.
+- To provide Services such as events and training, and respond to your questions or inquiries.
+
+- To conduct marketing and advertising activities for our products and services.
+
+- To ensure security of our operations, facilities, and digital properties.
+
+Patients and Caregivers
+- Identifiers, such as name, e-mail address, telephone number, mailing address; written or digital signature.
+
+- Demographic information, such as gender, marital status, date of birth and zip code.
+
+- Health information such as information about physical or mental health diagnosis, conditions, or treatments, genetic information, family medical information and information about an individual’s prescribing physician or healthcare provider.
+
+- Financial and commercial information such as health insurance and benefits or financial credit information.
+
+- Audio, electronic, or visual information, such as photographs, video recordings or call recordings.
+
+- Inferences drawn from other personal information, such as person's preferences, characteristics, predispositions, behavior, or attitudes.
+
+- Protected class information, such as age, race, physical or mental disability, gender, or genetic information.
+
+- Other Personal Information from any communications that you send us or information collected from your interactions with us.
+- To provide Services, such as patient support services or patient access programs, and/or determine patient eligibility for these Services, and respond to your questions or inquiries. To help us improve our Services to you.
+
+- To administer and manage our engagement with you, including organizing events for patients
+
+- To conduct marketing and advertising activities and market research for our products and services.
+
+- To comply with quality, safety and regulatory requirements for our products. We may also record information about the individual reporting an adverse event of a product.
+
+Participants in clinical research studies
+- Identifiers such as participant ID.
+
+- Demographic information, such as gender or age.
+
+- Health information such as information about physical or mental health diagnosis, conditions, or treatments, genetic information, family medical information and information about an individual’s prescribing physician or healthcare provider.
+
+- Protected class information, such as age, race, physical or mental disability, gender or genetic information.
+
+- Other Personal Information from any communications that you send us or information collected from your interactions with us.
+- To facilitate enrollment in our clinical studies
+
+- To conduct clinical studies and other types of research and development for our products.
+
+- To comply with regulatory and legal obligations including safety and regulatory requirements for our products. We may also record information about the individual reporting an adverse event of a product.
+
+Healthcare professionals and healthcare personnel
+- Identifiers, such as name, e-mail address, telephone number, mailing address; username and password; written or digital signature.
+
+- Demographic information, such as gender or zip code.
+
+- Education information and professional or employment-related information, such as employer information, level of education, professional degrees, areas of specialty. This includes Personal Information related to your health care or medical practice, prescribing history, or participation in events or activities related to our products or disease areas.
+
+- Financial and commercial information such as financial information for transparency and transfer of value reporting requirements.
+
+- Audio, electronic, or visual information, such as photographs, video recordings or call recordings.
+
+- Inferences drawn from other personal information, such as person's preferences, characteristics, predispositions, behavior, or attitudes.
+
+- Protected class information, such as age or gender.
+
+- Other Personal Information from any communications that you send us or information collected from your interactions with us.
+- To provide Services to you or our patients (patient support programs or patient access programs), respond to your questions or inquiries.
+
+- To provide medical information services to consumers, patients and healthcare professionals to ensure patient safety for our products.
+
+- To administer and manage our engagement with you including organizing events and conferences.
+
+- To conduct marketing and advertising activities for our products and services including market research or surveys.
+
+- To conduct and administer our clinical studies; and register our clinical studies on government sites or our own trial link website in connection with trial transparency requirements.
+
+- To comply with our compliance obligations and quality, safety and regulatory requirements for our products. We may also record information about the individual reporting an adverse event of a product.
+
+External Stakeholders, Business Partners and their personnel
+- Identifiers, such as name, e-mail address, telephone number, mailing address; username and password; written or digital signature.
+
+- Education information and professional or employment-related information, such as employer information, level of education, professional degrees, areas of specialty.
+
+- Other Personal Information from any communications that you send us or information collected from your interactions with us.
+- To engage external stakeholders and business partners to provide consulting services to us or participate in advisory boards, congresses, or other events.
+
+- To perform due diligence to determine if we should enter or renew a business relationship.
+
+- To perform obligations under our engagements and contractual arrangements such as providing financial compensation.
+
+In addition, we may use your Personal Information to operate our business; to ensure safety and security of our offices, facilities and digital properties; prevent or detect unauthorized activities or misuse of our products or services; and comply with laws and regulations.
+
+Depending on the Services, we may combine or augment your Personal Information with Personal Information that we obtain from our affiliates, non-affiliated parties and other third-party sources. We may also combine information obtained from cookies and other tracking technologies, as further discussed below.
+
+We may also use your Personal Information for another purpose that we disclose to you at the time we collect your information.
+
+HOW WE OBTAIN YOUR PERSONAL INFORMATION
+
+We obtain Personal Information in the following ways:
+
+- from you, your caregiver or legal representative, including when you use our Services, participate in our programs or provide permission or submit information to us; or you visit or interact with our websites, apps or digital properties.
+
+- from other companies that we collaborate with, or that we jointly research, develop, or commercialize products including co-branded products.
+
+- from vendors who collect your information in the course of providing services to us.
+
+- from professional industry databases, patient organizations or advocacy groups, government databases and other third-party sources; from public sources including public websites or social media websites.
+
+- from healthcare providers and professionals in connection with adverse events, safety reports or inquiries about a product or third parties who may report a product adverse or safety event.
+
+- from healthcare providers and professionals, health insurance companies, pharmacy providers, or related third parties to provide patient support services if you agree to participate in our patient support programs and consent to it.
+
+- in the ordinary course of operating our business and working with business partners, stakeholders and vendors to provide services to us or that we engage for consulting and advisory activities.
+
+Please be aware that any of your information that is collected through a third-party website, or services that are not provided by us, are not covered by this Privacy Notice. You should instead consult with the relevant third party to review their privacy notices or practices.
+
+If you elect to provide us with any Personal Information about another individual, please be aware that you are responsible for complying with all applicable data protection laws, including obtaining all consents or authorizations that may be required, to provide us with this information.
+
+HOW WE DISCLOSE YOUR PERSONAL INFORMATION TO OTHERS
+
+Depending on the Services provided to you, we may disclose Personal Information to the following third parties for business purposes (as described above):
+
+- Our corporate affiliates.
+
+- Service providers or vendors who we engage for services, including internet service providers, and data analytic providers.
+
+- Third parties you request us to disclose your information to, when needed to fulfil requests or provide services to you.
+
+- Advertising agencies and partners who support marketing and advertising campaigns.
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or who jointly research, develop, or commercialize products with us, including co-branded products.
+
+- Regulatory or legal authorities in order to obtain or maintain regulatory approvals of our products, and comply with laws and regulations including safety and adverse event reporting for our products.
+
+- External advisors (accountants, auditors, and professional advisors).
+
+If we or our affiliates are involved with another company in a merger, restructuring, reorganization, sale or transfer, disposition or other corporate transaction relating to all or part of our business, we may disclose Personal Information that we have collected about you to this other company in addition to our external advisors who are involved in these transactions.
+
+THIRD PARTY WEBSITES AND CO-BRANDED WEBSITES
+
+Our websites may feature links to third-party websites that we believe you might find useful and informative. We are not responsible for the privacy practices of the operators of these third-party websites. When you visit these third-party websites, please remember that you are bound by the privacy practices and policies of the third party.
+
+Biogen may also partner with other companies to provide you with content or services on a joint or co-branded basis (with a co-branded site with both the Biogen logo and the logo of the co-branded partner displayed). Please review the individual privacy policies that are included on the co-branded sites, as these may differ in some respects from this Privacy Notice.
+
+STORAGE & RETENTION
+
+We provide products and services around the world. Accordingly, we store and process Personal Information on Biogen’s servers, and the servers of third parties we hire to provide our services, worldwide. These servers may be located outside the country from which you interacted with Biogen.
+
+We retain your Personal Information for no longer than is necessary for the purposes for which it has been collected and in accordance with any specific retention periods required by law and/or our record retention policies. Our record retention policies assign retention periods to record classifications and Personal Information is retained in accordance with those retention periods. The retention periods are based on the nature of the records, their business purposes, and applicable legal obligations.
+
+DATA SECURITY
+
+We maintain the levels of protection of your Personal Information in accordance with applicable data protection laws and use technical resources to prevent the loss, alteration and unauthorized access or processing of your data. The security measures we use to protect Personal Information are designed to meet industry standards to prevent intruders from gaining access, however you should be aware that no method of internet transmission or electronic storage is fully secure.
+
+CHILDREN’S NOTICE
+
+Our websites and online services are not meant for children under 13 years old, and we do not knowingly collect personal data from children under age 16 without parental consent. Children under 13 should not give us their personal data.
+
+CHANGES TO OUR PRIVACY NOTICE
+
+We will only use Personal Information in the manner described in the Privacy Notice in effect when the information was collected from you. However, we reserve the right to change the terms of this Privacy Notice at any time (for example due to changes in applicable laws) by posting revisions to this website. Any updated Privacy Notice will be effective when posted. We will take adequate and reasonable action to obtain your consent if required, as a result of any such change.
+
+SUPPLEMENTAL U.S. LOCAL PRIVACY RIGHTS
+
+Residents of certain states may have additional rights under the laws of those states. This section supplements the information contained in our Privacy Notice and applies if you reside in those states. We adopt this notice to comply with the privacy laws of those states.
+
+Please note that the privacy laws of your state may have slightly different definitions for certain words or terms used in our Privacy Notice. In this section, those words or terms (whether or not they are capitalized) shall have the meanings given to them in the applicable privacy laws of your state. In particular, the terms, Personal Information and Sensitive Personal Information, shall have the meanings assigned to them in the applicable privacy laws of the state.
+
+INFORMATION WE COLLECT
+
+Within the last twelve (12) months, we have collected the following categories of Personal Information as described in “Information We Collect” above.
+
+In some cases, your Personal Information may be considered to be sensitive depending on the jurisdiction that you reside and the context in which we collect or use the information. We refer to this type of Personal Information as “Sensitive Personal Information”. Within the last twelve (12) months, we have collected the following Sensitive Personal Information depending on our relationship with you:
+
+- Personal Information that reveals genetic data.
+
+If you are a patient, we may collect your genetic data to conduct genetic analysis or testing for research and development activities for our products or as part of our Services. If you agree to be a participant in a clinical study, we may collect and use your genetic data as described in the study. We may also use your genetic data to comply with regulatory requirements and to ensure patient safety and quality of our products.
+
+- Personal Information collected and analyzed concerning an individual's health.
+
+As described in our Privacy Notice, we may collect health information to provide Services to you, such as patient support services and patient access services, manage our engagement with you, and/or as part of conducting research or surveys to help us develop and improve our products and services. We also collect health data to ensure patient safety and quality of our products.
+
+We comply with all applicable laws to obtain your consent before we will collect your Sensitive Personal Information.
+
+HOW WE USE PERSONAL INFORMATION and SOURCES OF PERSONAL INFORMATION
+
+We collect your Personal Information from the categories of sources identified in the section, “How We Obtain Your Personal Information”. We collect this Personal Information for business purposes as set forth in section, “Information We Collect; How We Use Your Information".
+
+In some cases, your Personal Information may be considered to be Sensitive Personal Information. As discussed above, the types of Sensitive Personal Information that we may collect depends on our relationship with you, and may include Personal Information concerning your mental or physical health, including inferences about your health, and/or genetic information. We do not “sell” any Sensitive Personal Information for monetary or other valuable consideration, nor “share” it for online targeted advertising.
+
+HOW WE DISCLOSE, SELL OR SHARE PERSONAL INFORMATION
+
+We have collected and disclosed or shared the categories of Personal Information, as described below, in the past twelve (12) months. While we do not sell any Personal Information to third parties for monetary or other valuable consideration, certain of our practices could be considered “sharing”, or online targeted advertising, under the definitions of specific U.S. state laws.
+Categories of third parties with whom we may disclose Personal Information for business purposes
+Categories of third parties with whom we may share Personal Information for targeted advertising
+Identifiers
+- Our corporate affiliates
+
+- Service providers and vendors
+
+- Data analytic providers
+
+- Advertising agencies and partners
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+- Entities to which you have consented to the disclosure
+
+- Regulatory or legal authorities
+
+- External advisors
+
+- Third parties in connection with a corporate transaction
+- Data analytics providers
+
+Demographic information
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Health information (Sensitive Data)
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared (unless you consent)
+Education information and professional or employment-related information
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Internet and other electronic activity
+
+- Data analytics providers
+
+Other audio, electronic, or visual information (not including those identified elsewhere)
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Inferences drawn from other personal information
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Financial and commercial information
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Protected class information (Sensitive Data)
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+Other Personal Information
+
+- Collaborators, partners or other companies with whom we have contractual data sharing arrangements, or we jointly research, develop, or commercialize products
+
+Not shared
+
+We do not have actual knowledge that we sell or share for targeted advertising any Personal Information of individuals that are under 16 years of age.
+
+We also do not process Personal Information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects (which means a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services).
+
+YOUR PRIVACY RIGHTS
+
+This section describes certain rights that are available to you under your state law and explains how to exercise those rights. Note that the specific rights that may be available to you may depend on the state law where you are a resident.
+
+- Request to Confirm Processing- You have the right to confirm whether we are processing your personal information.
+
+- Request to Know - You have the right to request that we disclose certain information to you about our collection and use of your personal information and a right to request the specific pieces of personal information we collected about you (also called a data access request). This Request to Know covers:
+
+- the categories of personal information that we have collected about you;
+
+- the categories of sources from which your personal information is collected;
+
+- the business or commercial purpose for collecting, or “sharing” for online targeted advertising, your personal information;
+
+- the categories of personal information that we have disclosed, “shared” for online targeted advertising, and the categories of third parties with whom we have disclosed your personal information or “shared” it for online targeted advertising.
+
+- Data Portability – You have a right to request a copy of personal information that we maintain about you, where technically feasible and in readily usable format that allows you to easily transmit to another company. This right however may be subject to certain exceptions.
+
+- Request List of Third-Party Recipients - In some states, you may have the right to obtain a list of specific third parties to which we have disclosed personal information. For a list of the specific third parties to whom we have disclosed personal information, please submit a request via the Data Subject Request portal linked below. Please note, some areas also allow you to obtain a list of the categories of third parties to which we have disclosed personal information. You can find that information in the table above under the “How We Disclose, Sell or Share Personal Information” section.
+
+- Request to Delete - You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions.
+
+- Request to Correct - You may request that we correct any inaccurate personal information from our records.
+
+- Request to Opt-Out of Sharing for Targeted Advertising - You may have the right to request to opt-out of the sharing for targeted advertising of personal information (if applicable). Please note that after you opt-out of receiving targeted advertisements, your information may still be collected through cookies on our websites for certain purposes not related to targeted advertising. We recognize universal opt-out preference signals such as Global Privacy Control (GPC) that permits users to exercise opt-out of sharing their Personal Information for online targeted advertising. Please be aware that, opt out preference signals may be used and recognized only by certain website browsers or devices that support capabilities. For more information on how we use data collection technologies, including how to change or control your preferences, please refer to our Cookies and Other Technologies Policy.
+
+- Opting-Out of E-mails or Text Messages - If you have signed up to receive marketing or promotional emails from Biogen about our products, and you no longer wish to receive these emails, you can unsubscribe by clicking on the “Unsubscribe” link provided within the e-mail, or submit a request to our Data Subject Request portal linked below. You can also send an e-mail with the word “Unsubscribe” to privacy@biogen.com to initiate your request. You may opt out of text messages by following instructions in the text message.
+
+- Right to Non-Discrimination - You have a right not to be subject to discriminatory treatment for the exercise of your privacy rights.
+
+EXERCISING YOUR PRIVACY RIGHTS
+
+To exercise the rights described above, please submit a request to us online at our Data Subject Request portal, contact us toll-free at 1-877-318-6245, or email us at privacy@biogen.com.
+
+When you submit a request to us, you will be asked to affirm your state of residency and to indicate whether the request is on your behalf or for someone else. If you make a request related to Personal Information about you, we will need to verify your identity. For instance, we may request that you match specific pieces of information you have provided us, or provide a power of attorney or a signed declaration that you are the individual whose personal information is the subject of the request. For requests related to particularly sensitive information, we may require additional proof of identification. If you make a request through an authorized agent, we will require written proof that the agent is authorized to act on your behalf. We will use any information that we request to verify your identity only for these purposes.
+
+We will process your request within the time provided by applicable law. If we are not able to comply with your request, you will be provided with the reasons for such decisions. You may be entitled to appeal our decisions and can do so by following the instructions provided in the correspondence we send to you communicating our decision. You may also be entitled to lodge a complaint with regulators.
+
+CALIFORNIA’S SHINE THE LIGHT LAW
+
+Under California’s “Shine the Light” law (California Civil Code §1798.83), businesses are required to make certain disclosures to California residents about how they disclose personal information to third parties for the third parties’ direct marketing purposes. While we do not disclose your personal information to third parties for third parties’ direct marketing purposes, as discussed above, we do engage in targeted advertising.
+
+CONTACT US
+If you have any concerns about the way your Personal Information has been collected or handled by Biogen, or any queries regarding this Privacy Notice, you can contact Biogen’s Global Privacy Office at privacy@biogen.com.
+
+You can also write to us at the following address:
+
+Global Privacy Office
+
+Biogen MA Inc.
+
+225 Binney Street
+
+Cambridge, MA 02142
+
+USA
+
+Updated as of June 8, 2026
+
+## You may also be interested in
+
+Company
+
+About Biogen
+Policies
+
+Terms and Conditions
+
+Policies
+
+Community Guidelines

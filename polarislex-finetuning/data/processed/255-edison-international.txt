@@ -1,0 +1,193 @@
+# Privacy Notice
+
+The Edison International Privacy Notice was updated on December 30, 2020.
+
+It is important to Edison International (“we”, “our”, “us”) to protect your information and we want you to know how we collect, use, share, and store your information that we receive through our interactions with you, including your computer or mobile device.
+
+These include interactions from your computer or mobile device through: (a) www.Edison.com and the other websites operated by us from which you are accessing this Privacy Notice (the 'Websites'); (b) our social media pages we control through which you access this Privacy Notice (collectively, our 'Social Media Pages'); (c) HTML-formatted email messages that we send to you that link to this Privacy Notice (the 'Emails'); and (d) discussions with you, either in person, over the phone, or through written correspondence (the “Public Interactions”). Collectively, the Websites, our Social Media Pages, the Emails, and Public Interactions are the “Services”.
+
+Please familiarize yourself with our Privacy Notice and contact us with questions.
+
+California Consumer Rights to Personal Information
+
+California residents have rights to their Personal Information. Please access the California Consumer Privacy Act (CCPA) policy to review and exercise those rights.
+
+## Information We Collect
+
+There are different types of information we collect:
+
+Non-Personal Information
+
+Non-Personal Information includes publicly available information lawfully made available from federal, state, or local records, and deidentified or aggregated consumer information. Aggregated information includes browser type, device type, operating system, page views, referring URLs, destination URLs, dates and times of site visits, and other information collected primarily for statistical purposes but does not identify a specific individual or a group of individuals
+
+Personal Information You Voluntarily Provide
+
+Personal Information is defined as any information that identifies, relates to, describes, can reasonably be associated with, or could reasonably be linked, directly or indirectly, with a resident or household.
+
+This includes, but is not limited to, a first name or initial and last name, home or business mailing, physical, or email address, telephone number, user names, passwords, security question answers, or any other identifier that identifies, relates to, describes, is capable of being associated with, or could be reasonably linked, directly or indirectly, with a consumer or household.
+
+While we do not automatically collect Personal Information through your access or use of our website, unless you voluntarily provide it to us, you must provide Personal Information to participate in the following programs:
+
+-
+Applying for community funding and donation programs, including college scholarships, which we will use your Personal Information to evaluate program eligibility and awards, and contact you about our decision.
+
+-
+Signing up for certain services on our website, such as events, training, Investor Relations webcasts, email alerts, career-related news or opportunities, or other requests for information, which will be used to fulfill your request.
+
+-
+Submitting job applicant information for positions, or if chosen as a successful job candidate, providing additional information about yourself for us to perform an employment background check and sign up for payroll direct deposit. Click here for more information regarding how information is collected and used when using our Careers page.
+
+At any time, you may opt out of providing us with Personal Information by discontinuing your use of our website.
+
+## Use of Cookies and Related Technologies
+
+We use “cookies” and related technology, such as web beacons, JavaScript, pixel tags, locally shared objects, and clear GIFs to collect Non-Personal Information to provide a more convenient experience for you. While you are using our Websites, we will record your website interactions and over time collect your browsing habits to identify improvement opportunities. However, we do not track your online activities from any third-party website or digital services.
+
+-
+Cookies are used to quickly identify your computer or mobile device to ‘remember’ you. You may disable cookies or set your Internet browser to alert you when cookies are being sent to your computer’s browser or mobile device; however, disabling cookies will affect your ability to use certain features on our website.
+
+-
+Web beacons, JavaScript, pixel tags, locally shared objects, and clear GIFs are electronic images allowing us to count users who have visited certain pages on our Services. Like cookies, these do not collect Personal Information.
+
+We use cookies and related technologies for two purposes:
+
+- Interest-Based Communications - Our website pages contain pixels allowing us to display interest-based communications on third-party websites and mobile applications, including social media sites such as Facebook or Twitter.
+
+We use cookies and web beacons, and other technologies that allow us to learn about what interest-based communications you see and interact with. This allows us to provide you with more useful and relevant communications. We do not associate your interactions with unaffiliated sites with your identity in providing you with interest-based communications.
+
+Interest-based communications from other advertisers or third parties may also use cookies to measure the effectiveness of their ads and to personalize ad content. We do not have access to or control over cookies or other features advertisers and third-party sites may use, and the information practices of these advertisers and third-party websites are not covered by our Website Privacy Notice. Please contact them directly for more information about their privacy practices.
+
+To discover more about these communications and ways to opt-out with participating companies who have enabled interest-based communications, consult with the Digital Advertising Alliance.
+
+- Measuring Interactions - Emails, digital ads displayed on third-party websites, social media messages, and other electronic communications we send to you contain pixel tags enabling us to track your usage of an electronic communication, including whether you opened the communication or followed a link in such communication (if any).
+
+## California “Do Not Track” Disclosures
+
+Most browsers are programmed to accept cookies or other similar technologies to collect Non-Personal Information. You may set your browser to notify you when you receive a cookie, providing you the opportunity to accept or decline it. Declining a cookie, or similar technology, will affect your ability to use certain features on our Services. You may stop accepting cookies from a website, or by changing your browser’s settings, which are usually found in the ‘options’ or ‘preferences’ menu. You may also visit AboutCookies.org for instructions, by browser type, regarding how to control your cookies’ settings within your browser.
+
+While you are using our Services, we will record your interactions and over time collect your browsing habits to identify improvement opportunities. However, we do not track your online activities from any third-party website or digital services.
+
+## Using Your Browser’s Do Not Track Settings
+
+To improve your experience with our Services, and regardless of your browser’s “Do Not Track” setting, we will collect aggregated information on:
+
+- The number of users who use our Services;
+
+- The number of users who access our Services via a mobile device;
+
+- How users navigate through our Services;
+
+- What hardware and software settings are on the device accessing our Services;
+
+- Which Internet Service Providers are being used to access our Services; and
+
+- What Internet browsers are being used to access our Services.
+
+## Email Communications
+
+Email communication gives us another convenient method to communicate with our customers, including responding to your inquiries. By sending us an email, we will consider your email as consent for us to reply to you via email. You will receive emails from us (or our authorized third-party fulfilling agent) if you have signed up to receive email notifications of certain news or events, or if you have requested certain information; however, in some cases, you have the option to stop receiving emails from us.
+We do not control the information you provide to us via email. Email messages in transit are not confidential and are not secure. We are not liable for any use, disclosure, or modification of such messages. Please do not submit any Personal Information or other information you deem confidential or sensitive via email.
+
+## Targeted Communications on Social Media Sites
+
+We use social media sites like Facebook, Twitter, and LinkedIn to communicate with you about our programs, services, and career-related news and opportunities. You can follow us on these social media sites to receive regular updates. These social media sites also allow us to target ads to you using the personal information they maintain about you, even if you do not specifically follow us on their site. We may target ads or career-related news to you using information such as cookies, pixels, zip codes, and interests. We may also target communications to you using personal information we maintain, such as your email address or phone number.
+
+You will only see our targeted ads and career-related news if you agreed to receive this type of communication through your social media provider. You may disable some or all the advertising targeted to you on a social media site by adjusting your privacy settings on their site.
+
+## Use of Social Media and Other Public Forums
+
+Information you post to a public forum, such as a blog, forum, chat room, or wiki, is available to all users accessing these sites. Any information you share is available to any user and may be read, collected, or used by other people for any purpose, including sending you unsolicited information.
+
+We are not responsible for any information you provide to other individuals or post on these websites. To protect your information from potential misuse, we recommend never sharing your Personal Information with anyone who you do not trust.
+
+## Linked Websites and Online Web Services
+
+Our Services contain links to other websites, including social media sites, and icons to launch online web services. These websites may place a cookie on your computer or mobile device, enabling that site to recognize users who may have visited our site. Your use of any third-party site or web service may result in the collection or sharing of information about you, depending on the third party’s site or web service. We do not control those third-party sites or web services, or their privacy practices, which may differ from our practices. We do not endorse or make any representations about third party sites or web services. We have not verified the privacy and security policies and practices applicable to third party websites or hosted materials or determine what actions such parties will take regarding the user’s privacy.
+
+The Non-Personal and Personal Information that you provide or that is collected from you by such third parties is not covered by this Notice. We encourage you to review the privacy notices and settings on third party sites and services that you interact with to make sure you understand how they use your information. We are not responsible for any third-party content, policies, or actions.
+
+## Use and Disclosure of Personal Information
+
+We may use or disclose Personal Information we collect for one or more of the following business purposes:
+
+-
+To fulfill or meet the reason you provided the information. For example, if you share your name and contact information to ask about our products or services, we will use that personal information to respond to your inquiry.
+
+-
+To create, maintain, customize, and secure your account with us.
+
+-
+To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+
+-
+The third parties we contract with to provide business-related services such as needing access to such Personal Information, but only (a) to the extent necessary to render authorized, related services; and (b) provided they have agreed in writing to adhere to certain confidentiality and security obligations consistent with the terms of this Privacy Notice.
+
+-
+When good faith disclosure is necessary to protect our rights, your safety, or the safety of others, investigate fraud, or respond to the request of a governmental agency.
+
+-
+As ordered by state or federal governmental agencies with jurisdiction over us, when legally entitled to such information.
+
+-
+As required by law, such as to comply with a warrant, subpoena, or similar legal process.
+
+-
+To provide, support, personalize, and develop our Site, products, and services.
+
+-
+For testing, research, analysis, and product development, including to develop and improve our Website, products, and services.
+
+-
+To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all Company assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred.
+
+The Company will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+
+## How You Can Manage and Control Your Personal Information
+
+We offer certain choices about how we communicate with you and what Personal Information we obtain. You may limit, or opt-out of, the information you provide to us.
+
+-
+If you have signed up to receive Investor Relations or career-related emails from us, you may opt out at any time by clicking on the link at the bottom of the email in order to unsubscribe from future mailings. Additionally, for Investor Relations communications only, you may also update your communication preferences within the Investor Relations page.
+
+-
+To learn more about ways to limit, or opt-out of, the collection and sharing of your information use one of the contact methods listed in the below Contact Us section.
+
+## Children
+
+Although our website provides educational information on safety issues and scholarship opportunities, we do not solicit any information from or market to children under the age of 13. If you are a parent or legal guardian who discovers your child provided us with information without your consent, contact us. If you discover we collected any Personal Information from a child under the age of 13, we will immediately remove that information.
+
+## Retention of Personal Information
+
+We retain your Personal Information for as long as reasonably necessary to fulfill the transactions you have requested, or for legitimate business purposes, such as complying with our legal obligations, under applicable law, including United States’ federal, state, and local laws. As retention periods vary for different types of Personal Information, based on business purpose, actual retention periods vary. For example, Personal Information provided in an application for community funding and donation programs has a different retention period than a request for company information or submitting an employment application.
+
+## Security Safeguards
+
+We share your concerns regarding the safeguarding of your Personal Information. Edison complies with applicable privacy and security laws and generally accepted information security standards to ensure a level of security, integrity, and privacy, appropriate to the risk of your Personal Information in our possession.
+
+Although we take commercially reasonable efforts to prevent unauthorized third parties from acquiring Personal Information submitted via our Services an unlawful interception or acquisition by a third party may still be possible.
+
+We are not responsible for any password provided to a user is obtained by a third party or for any unlawful activities in connection with our Services. If a user believes any password, used to access our Services, is obtained without permission by third parties, immediately attempt to reset the password and contact us immediately.
+
+## Jurisdictional Authority
+
+Our Services are controlled and operated by us from the State of California, in the United States, and operation of our Services is not intended to subject us to the laws or jurisdiction of any other states, country or territory. Your use of our Services will indicate your acceptance and consent to the terms in this Notice.
+
+## Acceptance of Terms in this Notice
+
+We may change the terms in this Notice. Any changes made to the Notice will be posted on our website as soon as reasonably possible. We recommend you periodically review this Notice to find out if any changes have been made since your last visit to our website. Any changes made to the Notice will be effective as of the date at the beginning of this Notice. Your use of our website will indicate your acceptance and consent to the terms in the Notice then in effect.
+
+## Contact Us
+
+If you have questions regarding this Notice, please contact us at:
+
+Edison International
+
+Attention: Chief Ethics & Compliance Officer
+
+Post Office Box 976
+
+Rosemead, CA 91770
+
+Email: [email protected]
+
+Note that information regarding these contacts or correspondence with Edison International may be retained in a file specific to you

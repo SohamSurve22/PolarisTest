@@ -1,0 +1,158 @@
+UNITED STATES STEEL CORPORATION
+PRIVACY POLICY FOR CALIFORNIA RESIDENTS
+Updated: August 29, 2025
+This Privacy Policy provides specific information for residents of California. California laws, including the
+California Consumer Privacy Act (“CCPA”), require that United States Steel Corporation and its
+subsidiaries (collectively, U. S. Steel, “we,” “us,” or “our”) provide certain information to California
+residents about how we handle their personal information that we wi ll collect or have collected, whether
+online or offline.
+If you have questions or concerns about this Privacy Policy, or would like more detail on how we collect or
+use personal information, please email us at privacy@uss.com or call 877-817-8358 (toll free).
+Categories of Personal Information that We Collect or Disclose
+The table below identifies categories of personal information about California residents that we may collect or
+disclose or have collected and disclosed in the preceding 12 months for a business purpose. U. S. Steel does
+not collect or process sensitive personal information for the purpose of inferring characteristics about the
+consumer. U. S. Steel does not use or disclose sensitive personal information except as permitted by California
+Code § 7027(m). U. S. Steel does not sell or share the personal information of California residents, including
+those under the age of 16.
+Disclose for
+Categories of Personal Information1 Collect? business
+purpose?
+Basic Identifiers such as a real name, alias, postal address, unique personal
+identifier, online identifier, Internet Protocol address, email address, account
+name, social security number, driver’s license number, passport number, or other
+similar identifiers.
+✓ ✓
+Cal. Code 1798.80 Information such as signature, physical characteristics or
+description, telephone number, and education, employment, financial, medical,
+or health insurance information.
+✓ ✓
+Characteristics of protected classifications under California or federal law such
+as race, color, sex, age, religion, national origin, disability, and citizenship status. ✓ ✓
+Commercial Information such as records of personal property, products or
+services purchased, obtained, or considered, or other purchasing or consuming
+histories or tendencies.
+✓ ✓
+Biometric information such as fingerprints, retina scans, or facial recognition.
+Network activity information such as browsing history, search history,
+and information regarding interaction with an Internet website, application,
+or advertisement.
+✓ ✓
+Geolocation data. ✓
+
+1 This table does not include information publicly available in government records, de -identified or aggregated California
+resident information, or information excluded from the CCPA’s scope, such as health or medical information covered by HIPAA
+or personal information covered by certain other privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm -
+Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver’s Privacy Protection Act of
+1994.
+
+2
+Disclose for
+Categories of Personal Information1 Collect? business
+purpose?
+Sensory Information such as audio, electronic, visual, thermal, olfactory, or similar
+information.
+
+Professional or employment-related information, such as corporate service dates,
+emergency contact information, and job information. ✓ ✓
+Education information, defined as information that is not publicly available
+personally identifiable information as defined in the Family Educational Rights and
+Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99). ✓
+
+Inferential information drawn from any of the information identified above to create
+a profile about a resident reflecting the resident’s preferences, characteristics,
+psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and
+aptitudes.
+
+Sources of Personal Information
+We may obtain the categories of personal information described above from the following categories of
+sources:
+• Directly or indirectly from you or your agents. For example, from documents that you provide to us
+or from forms that you fill out.
+• Directly or indirectly from activity at our facilities or on our website (www.ussteel.com), intranet,
+U. S. Steel -provided internet service, or on U. S. Steel devices. For example, from submissions
+through our website portal or website usage details collected automatically. We also use Google
+Analytics, which uses cookies to gather information about website use. We use this information to
+analyze the use of our website and improve the user experience. Google’s privacy policy is available
+at https://www.google.com/policies/privacy.
+• From third parties who may provide us with your information. For example, from entities that you
+direct to disclose your personal information to us.
+Uses of Personal Information
+We may use the types of personal information described above for one or more of the following purposes:
+• To communicate with you or your company. For example, to provide information about your
+employment or to provide email alerts and other notices concerning our company, products, or
+services, or events or news, that may be of interest to you.
+• To facilitate transactions. For example, for shipping, delivery, or distribution, to make or receive
+payments, or for contract management.
+• As part of ordinary business processes. For example, as part of Human Resources processes like
+hiring or promoting employees, or for payroll and benefits.
+• To improve internal processes. For example, to improve our website or intranet and better present
+their contents to you.
+• For research, analysis, and product development.
+• As necessary or appropriate to protect the rights, property, security, or safety of U. S. Steel, our
+employees, customers, or others.
+• As necessary or appropriate to prevent, detect, and investi gate fraud or other suspected illegal
+activities or to investigate claims or allegations.
+• To establish, exercise, or defend legal claims.
+• To support reporting and legal compliance.
+
+3
+• In cooperation with law enforcement or as required or permitted by applicable law, court order, or
+regulation.
+• As described to you when collecting your personal information or as otherwise set forth in the
+CCPA.
+Our policy is to retain personal information as required to satisfy business needs and not longer than is
+reasonably necessary to complete the disclosed purposes for which it was collected , subject to our legal,
+regulatory, and other compliance obligations.
+We will not collect additional categories of personal information or use previously collected personal
+information for materially different, unrelated, or incompatible purposes without providing you notice,
+except as required or permitted by law.
+Disclosures of Personal Information
+U. S. Steel may disclose the personal information described above to various third parties. Such disclosures
+may be made to service providers or contractors who use the information in compliance with our
+instructions, to companies and individuals as necessary to facilitate the operation of U. S. Steel’s business,
+and to other entities, such as government authorities, as required or permitted by law. For example,
+U. S. Steel may disclose certain personal information as part of human resources or due diligence processes,
+or as necessary to make or receive payments for goods or services provided. U. S. Steel seeks to limit
+disclosures to only the information necessar y to fulfil the legal or business purpose for which the
+information is being disclosed.
+California Resident Rights
+California law grants certain rights to California residents and imposes restrictions on particular business
+practices. Subject to certain exceptions, California residents have the right to make the following requests:
+Deletion: The right to request deletion of personal information that we have collected about them, subject
+to certain exemptions (such as where the information is used by us to detect security incidents or to comply
+with a legal obligation).
+Correct: The right to request correction of any inaccurate personal information that we maintain.
+Right to Know: The right to request that we disclose information about how we have handled their personal
+information in the prior 12 months (or longer, if requested and certain conditions are met), at no charge, up
+to twice in a 12-month period, including the:
+• Categories of personal information collected;
+• Categories of sources of personal information;
+• Business and/or commercial purposes for collecting their personal information;
+• Specific pieces of personal information collected;
+• Categories of third parties to whom we have disclosed their personal information; and
+• Categories of personal information that we have disclosed for a business purpose.
+Submitting Requests. A request to exercise California resident rights can be submitted via online webform at
+www.ussteel.com/ccpa or by contacting us at 877-817-8358 (toll free). Authorized agents may submit requests
+using these same methods, but we may require proof of authorization during the verification process. Once we
+receive your request, we will respond within 10 business days confirming receipt and providing information
+about how we will process the request, including the verification process. We will attempt to respond to a
+California resident’s verified request within 45 days of its receipt. If we require more time (up to 90 days total),
+we will inform you of the reason and extension period in writing.
+Verification. We cannot respond to your request or provide you with personal information if we cannot verify
+your identity and/or your authority to make the request and confirm the relevant personal information relates
+to you. As such, we may request that you provide some form of identifying information during the verification
+
+4
+process, for example an employee number, date of birth, driver’s license number, or similar identifier. We will
+only use personal information provided in a California resident’s request to verify the requestor’s identity
+and/or authority to make the request.
+Incentives and Non -Discrimination. The CCPA prohibits discrimination against California residents
+(including retaliation against any employee, applicant for employment, or independent contractor) for
+exercising their rights under the CCPA and imposes requirements on any financial incentives offered to
+California residents related to their personal information. U. S. Steel does not provide any such financial
+incentives related to the personal information of California residents. U. S. Steel also does not discriminate
+or retaliate against individuals for exercising rights under the CCPA.
+Changes to Our Privacy Policy
+We reserve the right to amend this Privacy Policy at our discretion and at any time. To ask questions or
+comment regarding this Privacy Policy, please contact us at: privacy@uss.com.

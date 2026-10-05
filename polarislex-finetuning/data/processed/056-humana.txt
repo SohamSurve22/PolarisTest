@@ -1,0 +1,314 @@
+# Humana Privacy Policy
+
+Date Last Updated: June 1, 2026
+
+Effective Date: June 1, 2026
+
+This Privacy Policy applies to the collection of Personal Information by Humana, Inc. and our affiliated companies and subsidiaries (referred to herein as “Humana,” “us,” or “we”). This Privacy Policy applies to Humana products, communications, digital properties including websites, online platforms, and mobile applications, that refer to this Privacy Policy, any offline interactions that we may have with you, and where Humana may obtain and control your Personal Information (as defined herein) from a third party (collectively, the “services”). This Privacy Policy describes how Humana collects and uses the Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information.
+
+This Privacy Policy does not apply to Protected Health Information or information subject to the California Confidentiality of Medical Information Act that may be collected by Humana in its capacity as healthcare provider or payor (insurance company). Notices governing Humana’s processing of Protected Health Information are available here .
+
+We are committed to maintaining the highest level of confidentiality with all of the information we receive from you. For purposes of this Privacy Policy, Humana is a controller (i.e., responsible party) of your Personal Information including when we, or service providers acting on our behalf, administer the services. In certain situations, we also administer the services on behalf of our clients. In those instances, Humana may act as a processor or service provider to such clients, in which case the client’s privacy policy, if any, will apply. We are not responsible for the privacy or data security practices of our business client or other third parties, which may differ from those set forth in this Privacy Policy.
+
+Please read this Privacy Policy carefully. We want you to understand what information we collect from you when you use our services, how we use such information, and whether and with whom we disclose such information. Using our services is voluntary, and by accessing or using the services, you (i) acknowledge that you have read and understand this Privacy Policy; and (ii) agree that your access to and use of the services are subject to this Privacy Policy and related Terms of Use. We reserve the right to change the Privacy Policy at any time. Please review the Privacy Policy periodically to be aware of any modifications.
+
+## California Consumer Notice of Collection
+
+This section of the Privacy Policy, the Notice of Collection, is provided to all California consumers subject to this Privacy Policy. For the avoidance of doubt, the remaining sections of this Privacy Policy apply to all individuals in applicable jurisdictions. You can access specific topics in this Privacy Policy by clicking on the relevant links below:
+
+Categories of Personal Information we may collect
+Sources of Personal Information
+Use of your Personal Information
+Data retention
+Cookies
+Your privacy rights
+Exercising your rights and choices
+Opt-out of the “sale” or “sharing” of Personal Information
+Internal security procedures
+Third‑party sites
+Children’s privacy
+Privacy Policy changes
+Accessibility
+Contact us
+
+## Categories of Personal Information we may collect
+
+Through your use of the website and the services, we may collect your Personal Information. Personal Information generally refers to any information that can be linked to an identified or identifiable person. Please note that certain information may not be personally identifiable when standing alone (e.g., your age) but may become so when combined with other information (e.g., your age and address). The term Personal Information also covers certain categories of "sensitive" or "special" Personal Information that often receive additional protections and/or are subject to additional restrictions under applicable laws.
+
+The Personal Information that we may collect about you or have collected about you in the past 12 months, varies depending on the context of our interactions with you. Personal Information collected from or about you falls into the following categories:
+
+Direct and personal identifiers: This information includes your name, email, any username and password that you may provide, your address, your tax identification number or social security number, unique identifiers (such as a mobile device ID) and your email and other personal contact information.
+
+Demographic information: Under certain circumstances, we may collect Personal Information regarding your gender, race, or other protected classification data.
+
+Commercial information: We may collect data regarding products that you use or purchase of products or services. This data may include information about products or services you considered utilizing through mobile applications, application data, and pricing information. We collect information from you when you provide us with feedback, and we may collect information regarding your receipt and interaction with emails and other messages that you receive from us.
+
+Payment or banking information: Credit card number, name on credit card, expiration date, security code, and billing address.
+
+Electronic network activity: We collect information regarding your use of our websites and mobile applications. This data includes but is not limited to Internet Protocol address information, information obtained through weblogs concerning your activity on our websites and applications, mobile device identifiers and other related metadata regarding use of our mobile applications. We may collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, device ID, language preferences, referring website, the length of time you are visiting our website, and/or a date/time stamp for visitors. We may also collect such information in relation to monitoring potential malicious code on our systems, such as through the collection of metadata and traffic data, or portions or hashes (a file that has been converted into a numerical string by a mathematical algorithm) of any of the information listed here. For more information relating to the use of such tools, review our “Cookies” section.
+
+Geolocation information: We may collect information about the location from which you are accessing our mobile applications. For more information relating to the use of such tools, review our “Cookies” section.
+
+Audio, visual or other information: We may collect your photograph or other images identifying you through certain functions of our mobile applications. If you visit one of our locations, or call our call center, we may record your image or voice.
+
+Inferences: We may develop inferences about you using the data set forth above.
+
+Sensitive Personal Information:  Of the information listed above, geolocation, sensitive inferences such as preferred language or ethnicity, your Social Security or Driver’s License number, your login and password information for certain services, or health data in your myHumana.com member portal, may also qualify as sensitive Personal Information.
+
+The provision of the sensitive Personal Information listed above is voluntary. In certain instances, we will not be able to process your request for our services without the requested sensitive Personal Information.
+
+## Sources of Personal Information
+
+We collect your Personal Information in the following ways, pursuant to applicable law:
+
+Directly from you, when you use our services, register for an account, contact us, respond to a survey, sign up to receive emails, text messages, and/or postal mailings.
+
+Through our use of cookies and other automatic data collection technologies, when you visit our websites, use our mobile applications, open or click on emails we send you, or interact with our advertisements. We or third parties we work with automatically collect certain information using technologies such as cookies, web beacons, clear GIF, pixels, internet tags, web server logs, and other data collection tools. For more information, please see the “Cookies and Similar Tracking Technologies” section below.
+
+From our third‑party partners, including from third parties that we have partnered with to provide you the services that you have requested from us.
+
+Other sources, including data analytics providers or publicly available sources.
+
+## Use of your Personal Information
+
+We use your Personal Information and sensitive Personal Information for the following business purposes (“processing purposes”) associated with our general business operations. We may collect your Personal Information:
+
+Providing our services
+
+- To provide you the services, including health insurance products, wellness products or providers, or healthcare
+
+- To provide you non-insurance or healthcare products or services that may be of interest or at your request
+
+- To process your payments and send notifications to you related to your account
+- To enable you to access and use our websites and mobile applications
+
+Communicating with you
+
+- To communicate with you and to respond to your requests, questions, comments, and other inquiries
+
+- To understand what partner resources you use, if any, and to connect you to additional resources at your request
+
+- To offer you personalized advertisements, which you may be able to opt-out of as explained in the “Your choices” section
+
+- To send marketing and promotional materials, including information relating to our products, services, sales, or promotions or those of a third party
+
+Analytics and administration of website
+
+- To administer, maintain, evaluate, and improve our websites, mobile applications, and services, and to develop new products and services
+
+- To conduct research and analytics related to our websites and services, including combining any or all of the information that we collect or obtain
+
+Core business functions
+
+- To manage our business operations, perform our obligations and exercise our rights under any agreement that you or your organization has with us
+
+- For other purposes with your consent, or as otherwise permitted or required by applicable law
+
+Legal obligations
+
+-
+We use Personal Information to comply with our legal or regulatory obligations, to establish or exercise our rights, and to defend against a legal claim.
+
+Security and fraud prevention
+
+-
+We use Personal Information to detect, investigate, prevent, or take action regarding possible malicious, deceptive, fraudulent, or illegal activity, including fraudulent transactions, attempts to manipulate or violate our policies, procedures, and terms and conditions, security incidents, and harm to the rights, property, or safety of Humana and our users, customers, employees, or others.
+
+## Use of your sensitive Personal Information
+
+With regard to sensitive Personal Information, we only use your sensitive Personal Information to provide you with the requested products or services, to administer your account, or otherwise with your consent. We do not disclose Sensitive Personal Information for purposes other than those which cannot be limited under California law.
+
+In addition to the purposes noted above, we generally collect and use your Personal Information to fulfill our business operations and provide the requested services to you, such as processing or fulfilling claims, coordinating benefits, and processing payments; managing administrative matters such as invoicing, renewal, or to audit customer transactions; developing, maintaining, provisioning, or upgrading networks, services, or devices; and conducting analytics to determine how to improve our services and develop new ones. We may de-identify and aggregate your Personal Information to conduct analytics and improve our services. If we de-identify or aggregate Personal Information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information, except solely for the purpose of determining whether the deidentification processes satisfies applicable law.
+
+## Disclosures of Personal Information
+
+We respect the importance of privacy. Generally, we may disclose the Personal Information we collect to facilitate our communications with clients, to operate our business, to advertise or promote our services, or with your consent.
+
+We may disclose each category of your Personal Information to the following categories of third parties in the following ways:
+
+- Service providers: We may disclose your Personal Information to authorized third parties who perform services for us (including cloud services, data storage, sales, human resources, and marketing). Our contracts with our service providers include commitments that they agree to limit their use of Personal Information and to comply with privacy and security standards at least as stringent as the terms of this Privacy Policy.
+
+- Affiliated companies: We may disclose such Personal Information to subsidiaries, affiliates, or joint ventures as needed to provide our products and services and generally as necessary in the administration of a global organization.
+
+- Corporate transactions/purchasers: We may disclose your Personal Information in connection with a proposed or actual corporate merger, acquisition, consolidation, sale of assets, bankruptcy, insolvency, or other corporate change.
+
+- Other third parties: We may disclose your Personal Information to legal, governmental, or judicial authorities, as instructed or required by those authorities or applicable laws, or in relation to a legal activity, such as in response to a subpoena or an investigation. We may also disclose such Personal Information if we believe disclosure is necessary to prevent physical, financial, or other harm, injury, or loss.
+
+- Conferences and events: We disclose your Personal Information to our partners and affiliates when you register or attend a webinar or in-person event hosted or co-hosted by Humana. If required, we provide you with notice during event registration where your information may be disclosed with our partners, for instance, to confirm your attendance at a webinar or event, to confirm sessions attended, or to confirm products purchased.
+
+- De‑identified Personal Information: We may disclose or use aggregated or de-identified data for any lawful purpose. De‑identified information is generally not considered to be Personal Information under applicable laws.
+
+- Other disclosures with your consent: We may disclose your Personal Information with your consent to other unaffiliated third parties who are not described elsewhere in this Privacy Policy. For example, we may provide your Personal Information to healthcare providers and healthcare clearinghouses.
+
+- Other disclosures Required by law: We may disclose your Personal Information for legal reasons as we believe to be necessary or appropriate to: (a) satisfy any applicable law, legal process, or proper governmental request; (b) enforce any agreement we may have entered into with you or your organization, including investigating any violations or asserting remedies; (c) detect, prevent, or otherwise address fraud, security or technical issues; (d) protect against harm (whether tangible or intangible) to the rights, property, or safety of Humana, our users, or the public as required or permitted by law; and (e) establish or exercise our rights, defend against a legal claim, and investigate, prevent, or take action regarding possible illegal activities or a violation of our policies.
+
+## Data retention
+
+The time periods for which we retain your Personal Information depend on the purposes for which we use it and applicable law for the type of data and use. Humana will keep your Personal Information for as long as you are a registered customer or user of our services or for as long as we have a valid business purpose to do so and, thereafter, for no longer than is required or permitted by law, as reflected in Humana’s internal Records Retention Policy.
+
+## Cookies
+
+Cookies are small text files that are placed on your computer or mobile device when you visit a website. For purposes of this Privacy Policy, cookies also include similar technologies, such as pixels, web beacons, and social network plugins (collectively, “cookies”). Cookies help the website remember information about your visit, which can make it easier to visit the website again and make the site more useful to you. Some cookies are deleted once you close your browser (session cookies), while other cookies are retained even after you close your browser so that you can be recognized when you return to a website (persistent cookies). More information about cookies and how they work is available at www.allaboutcookies.org . To manage cookie preferences, please visit the “Your Privacy Choices” tool in the site footer below.
+
+### What types of cookies do we use?
+
+Cookies on our website are generally divided into the following categories:
+
+Print
+
+| |
+
+| |
+
+| |
+
+| |
+
+## Do Not Track and commercially recognized opt-out signal
+
+Do Not Track (“DNT”) is a privacy preference that visitors can set in their web browsers. There is no industry consensus for how to recognize DNT signals – for that reason, we do not currently respond to DNT signals.
+
+Instead, we process opt-out preference signals from Global Privacy Control (“GPC”) and potentially other commercially recognized signals. GPC is a technical specification you can use to automatically inform websites of your privacy preferences regarding “sales”, “sharing”, and “targeted advertising”. For more information on GPC, please visit the Global Privacy Control website .
+
+## Your privacy rights
+
+Depending on where you are located (for example, Colorado, Delaware, or California), you may have additional rights, as detailed below.
+
+- Right to access: You may have the right to obtain from us confirmation as to whether or not Personal Information concerning you is being processed, and, where that is the case, to request access to the Personal Information. This access to information includes the purposes of the processing, the categories of Personal Information concerned, and the recipients or categories of recipient to whom the Personal Information has been or will be disclosed, among other categories of information. However, this is not an absolute right and the interests of other individuals may restrict your right of access. You may have the right to obtain a copy of the Personal Information, subject to certain restrictions.
+
+- Right to correction: You may have the right to request that we correct any Personal Information about you that is inaccurate. Depending on the purpose of the processing, you also have the right to request that we complete the Personal Information we hold about you where you believe it is incomplete, including by means of providing a supplementary statement.
+
+- After completing the sign in process, website users have the option to change their password, email address, and security question and response. If the website user forgets or misplaces their password, Humana will use the security question and response to identify the website user and grant access to the website. To change personally identifiable information, registered members and patients must contact the appropriate Humana Customer Care representative listed on the Humana Customer Support .
+
+- Right to deletion: You may have the right to request that we erase your Personal Information, under certain conditions. However, because we keep track of past transactions, you cannot delete information associated with past transactions on the website. In addition, it may be impossible or disproportionately burdensome to completely delete your information.
+
+- Right to restrict processing: You may have the right to request that we restrict the processing of your Personal Information, under certain conditions. In such case, the data will be marked and may only be processed by us for certain purposes.
+
+- Right to data portability: You may have the right to request that we transfer the Personal Information we have collected about you to another organization, or directly to you, in a structured, commonly used, and machine-readable format, under certain conditions.
+
+- Right to opt-out of the “sale” or “sharing” of Personal Information: In certain circumstances, our use of cookies or other tracking technologies may be subject to an opt-out under applicable law. As such, you can opt-out of our use of tracking technologies and cookies by contacting us below or utilizing an opt-out preference signal (see sections titled, Do Not Track and commercially recognized opt-out signal” and “Exercising your rights and choices” for more information). We do not sell or share Personal Information, except to the extent cookies or other tracking technologies constitute sharing.
+
+- Humana does not have actual knowledge that it sells or shares the Personal Information of any individual under the age of 16.
+
+- Right to limit the use and disclosure of sensitive Personal Information: We will only use sensitive or special Personal Information as needed for the purposes for which it was collected or with your consent. If this changes, we will notify you, and you may have the right to restrict such additional uses.
+
+- Right to access and opt-out of automated decision making and the use of artificial intelligence: At this time, we do not use automated decision making or artificial intelligence in a way that may be limited under applicable law.
+
+We do not discriminate or retaliate against individuals for the exercise of any of their rights described in this Privacy Policy. In certain jurisdictions, you may have a right to appeal any denial of the rights outlined above. In such cases, Humana will respond within the timeframe required by applicable law (usually forty-five (45) days). Please note Humana may require the use of your Personal Information to provide access to the services. Therefore, when you exercise your deletion right, in particular, as well as other rights, you may lose access to certain aspects of the services that require your Personal Information.
+
+## Exercising your rights and choices
+
+To exercise your rights, or appeal a decision we have made regarding your rights, please contact us as stated in the “Contact us” section of this Privacy Policy, or you may submit a request to us by either:
+
+- By accessing our online tool, Individual Rights Request Form ; or
+
+- Calling us at 866-861-2762
+
+If you are a current or former California Humana employee, please reference our Humana Employee Policy.
+
+If you are a California applicant, please reference our Humana Applicant Policy on Humana’s careers website at Careers.Humana.com .
+
+If you choose to assert any of these rights under applicable law, we will respond within the time period prescribed by applicable law. Please note that many of the rights listed in the “Your rights” section are subject to exceptions and limitations. Further, we may request additional information to respond to or fulfill any requests regarding your rights under applicable laws or regulations. Your rights and our responses will vary based on your country or territory of residency.
+
+In certain jurisdictions, a person authorized to act on your behalf may make a verifiable consumer request related to your Personal Information. If you designate an authorized person to submit requests to exercise certain privacy rights on your behalf, we will require verification that you provided the authorized agent with such permission.
+
+Your verifiable request must: (i) provide sufficient information (e.g., name, address, phone number, and/or email address) that allows us to reasonably verify that you are the person about whom we collected Personal Information or an authorized representative; and (ii) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+
+Prior to complying with your request, we will need to verify your identity. Our verification procedure may differ depending on whether you have a registered account, the sensitivity of the Personal Information, and the risk of harm to you by unauthorized disclosure or deletion as applicable. You may also be asked to submit a signed declaration under penalty of perjury stating that you are the individual whose Personal Information is the subject of the request.
+
+## Your marketing choices
+
+Email
+
+We may, from time to time, send you email regarding Humana’s products and services. In addition, we may occasionally send you direct mail about products and services that we think may be of interest to you. Only Humana (or agents working on behalf of Humana) will send you emails and direct mailings. If you do not wish to receive such emails, you may opt-out of future emails by following the directions at the bottom of each email. If you do not wish to receive such mailings, we provide contact information on our mailings at which you can request removal from our mailing list. Or, if you have a registered account, you can easily edit your account information to specify that you no longer wish to receive such emails and mailings.
+
+Text messages
+
+When you opt-in for our text message service, we may also collect the information you provide, including your telephone number(s), when you read a text message, and information relevant to any request you make to opt-out or unsubscribe from receiving text messages. Website users who do not wish to receive such notifications via email or SMS (text) can choose to opt-out of receiving such information. It is our policy that email and SMS (text) messages will contain an "unsubscribe" and "STOP" function, along with instructions on how to execute the opt-out function. Some website users may have the ability to opt-out of receiving email and SMS (text) messages by updating their communications preferences within the secured area of the website.
+- When you opt-in to the marketing service, we will send you a message to confirm your signup for SMS which may include marketing messaging (e.g. cart reminders). When you opt-in to the informational service, we will send you a message to confirm your signup for SMS and may include informational messaging (e.g. details about programs and services you're eligible for, health reminders, and other information about using your plan.) Text Y or Yes to the number from which you want to receive Humana Alerts. Message and data rates may apply. Message frequency will vary based on your use. Text "HELP" for help. "STOP" to cancel. For all questions about the services provided by this number, you can call 800-457-4708.
+
+- For Multiple short codes: You may opt-out of Humana text alerts at any time. To stop receiving text alerts, text STOP to the number upon which you are receiving text alerts or the number from which you are receiving Humana alerts. After you submit a request to unsubscribe, you will receive one final text alert from Humana confirming that you will no longer receive text alerts. No additional text alerts will be sent unless you re-activate your enrollment to the text alert program. For questions about text alerts, text the word HELP to the number from which you are receiving Humana alerts. Text alerts may come from any one of these short codes and Humana may change, add or remove short codes as necessary.
+
+- You can cancel this service at any time. Just text "STOP" to the number from which you are receiving Humana alerts. After you send the message "STOP" to us, we will send you a reply message to confirm that you have been unsubscribed. After this, you will no longer receive messages from us. If you want to join again, just sign up as you did the first time and we will start sending messages to you again.
+
+- If at any time you forget what keywords are supported, just text "HELP" to the number from which you are receiving Humana alerts. After you send the message "HELP" to us, we will respond with instructions on how to use our service as well as how to unsubscribe.
+
+- Participating carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, U.S. Cellular, Boost Mobile, MetroPCS, Virgin Mobile, Alaska Communications Systems (ACS), Appalachian Wireless (EKN), Bluegrass Cellular, Cellular One of East Central, IL (ECIT), Cellular One of Northeast Pennsylvania, Cricket, Coral Wireless (Mobi PCS), COX, Cross, Element Mobile (Flat Wireless), Epic Touch (Elkhart Telephone), GCI, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri), Illinois Valley Cellular, Inland Cellular, iWireless (Iowa Wireless), Keystone Wireless (Immix Wireless/PC Man), Mosaic (Consolidated or CTC Telecom), Nex-Tech Wireless, NTelos, Panhandle Communications, Pioneer, Plateau (Texas RSA 3 Ltd), Revol, RINA, Simmetry (TMP Corporation), Thumb Cellular, Union Wireless, United Wireless, Viaero Wireless, and West Central (WCC or 5 Star Wireless). T-Mobile and other carriers are not liable for delayed or undelivered messages.
+
+- As always, message and data rates may apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this number, you can call 800-457-4708.
+
+- You may also manage your SMS preferences in your member account, which can be found at Humana Member Sign on Humana.com .
+
+- No mobile information will be shared with third parties/affilates for marketing/promotional purposes.  All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.  This includes affiliates or business partners the opt-in is not transferable to another party involved in their process.
+
+- If you have any questions regarding Terms of Use, please read our SMS Terms & Conditions  .
+
+## Internal security procedures
+
+Information that you share on the website is kept strictly confidential and fully secure. Your encrypted (encoded) sensitive information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and this website. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it.
+
+No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. Only authorized persons are permitted to access your Personal Information. All authorized persons must abide by security, privacy, and confidentiality agreements.
+
+## Third-party sites
+
+We may also partner with third parties to provide links to third-party websites to offer you additional information and services. You may see both the Humana logo and the third‑party's logo on these third-party websites. Users of these websites should be aware of who is collecting Personal Information and whose Internet Privacy Statement applies before providing Personal Information. Humana may not have control over third-party partners' use of your information. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties.
+
+## Children’s privacy
+
+We do not knowingly collect, use, or disclose Personal Information about persons under 13 years of age. Users under the age of 13 should not submit any Personal Information to us. If you believe we have collected Personal Information from your child in error or have questions or concerns about our practices relating to children, please notify us using the details in the “Contact us” section below. We will take prompt steps to remove the Personal Information from our systems.
+
+## Privacy Policy changes
+
+We reserve the right to modify, expand, or update this Privacy Policy at any time as we deem appropriate to reflect those changes. When we make changes to this Privacy Policy, we will post the updated Privacy Policy on the website and update the Privacy Policy’s “last updated” date above. It is important that you check back from time to time and make sure that you have reviewed the most current version of this Privacy Policy. If you do not agree with the changes, then you should stop using our website and services and notify us that you do not want your Personal Information used in accordance with the changes.
+
+## Accessibility
+
+We are committed to ensuring that our communications are accessible to people with disabilities. To make accessibility-related requests or report barriers, please see Humana accessibility resources .
+
+## Contact us
+
+This website is maintained by Humana, 101 E. Main St., Louisville, KY 40202. Questions concerning this website can be directed to the appropriate Humana Customer Care representative listed on the Customer Support  section of this website.
+
+You may also contact us by:
+
+- Emailing us at Privacyoffice@humana.com ; or
+
+- Calling us at 866-861-2762
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider   (free of charge).
+
+Humana
+
+101 E. Main St.
+
+Louisville, KY 40202
+
+#### Legal information
+
+- Privacy practices
+
+- Humana Privacy Policy
+
+- Disclaimer and licensure
+
+- Hospital provider notice
+
+- Special Investigation request to contact
+
+- Special Investigation request to contact – Spanish
+
+- Special Investigation referral form
+
+- Fraud, waste and abuse
+
+- Accessibility
+
+- Non-discrimination disclosure
+
+- Multi-language interpreter support
+
+- System requirements
+
+- Marketing practices
+
+- Communication assistance

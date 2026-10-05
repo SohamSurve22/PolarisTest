@@ -1,0 +1,312 @@
+## Expedia Group Privacy Statement
+
+Last Updated: January 30, 2026
+
+Please read the following statement to learn about our privacy practices. By visiting this website, www.expediagroup.com (the “Site”), you are accepting the practices described herein.
+
+Lawful bases for processing
+
+In the tables below, you will find the lawful basis we rely on to collect and use your personal data.
+
+In summary, whenever we collect or use your personal data, that collection or use must be based on one of the following criteria:
+
+- Consent: this means that you have given your consent for us to do so.
+
+- Legal obligation: this means that we have a legal obligation to collect personal data from you or use it for a specific purpose.
+
+- Legitimate interest: this means that the processing is in our legitimate interests and those interests are not overridden by your rights (as explained below),
+
+- Certain countries and regions allow us to process personal data on the basis of legitimate interests. If we collect and use your personal data in reliance on our legitimate interests (or the legitimate interests of any third-party), this interest will typically be to operate or improve our platform and communicate with you as necessary to provide our services to you, to respond to your queries, or for the purposes of potentially detecting or preventing illegal activities. Whatever our determination of our specific legitimate interests is for a given use of your personal data, when we assess its appropriateness, we will always assess it against the potential impact on your rights. While the concept of legitimate interest only exists in certain countries and regions, we balance our usage of your personal data against your rights globally.
+
+CATEGORIES OF PERSONAL DATA AND WHY WE COLLECT AND USE IT
+
+We collect personal data for the following purposes:
+
+- Platform Usage Purposes – including to:
+
+- Help display information better and more quickly
+
+- Communications Purposes – including to:
+
+- Respond to your questions and requests for information
+
+- Process your information choices and other rights requests
+
+- Contact you (e.g., by email) to provide information such as news, events, reports, etc.)
+
+- Analytics and Training Purposes to Improve our Services - including to:
+
+- Maintain, improve, research, and measure the effectiveness of our sites and apps, activities, tools, and services
+
+- Create aggregated or otherwise anonymized or deidentified data, which we may use and disclose without restriction where permissible
+
+- Security and Compliance Purposes – including to:
+
+- Promote security, verify identity of our partners, travelers, and other users, prevent and investigate fraud and unauthorized activities, defend against claims and other liabilities, and manage other risks
+
+- Comply with applicable laws, protect our and our users’ rights and interest, defend ourselves, and respond to law enforcement, other legal authorities, and requests that are part of a legal process
+
+- Comply with applicable security and anti-terrorism, anti-bribery, customs and immigration, and other such due diligence laws and requirements
+
+We collect the following categories of personal information for the following purposes:
+
+| Personal Data Category | Purposes for Collection | Sources of Personal Data | Lawful Basis
+Identification data –
+
+including name, email address, telephone number
+- Platform Usage Purposes
+
+- Communication Purposes
+
+- Analytics, and Training Purposes to improve our Services
+
+- Security and Compliance Purposes
+- Directly from you
+- Legal obligation
+
+- Performance of a contract with you, such as to facilitate reporting requests
+Geolocation data –
+
+including inferred location from IP address or country selected
+
+- Automatically from your device
+
+- From third parties, such as authorized service providers
+- Legal obligation, such as to establish identity of individuals to meet our obligations under applicable laws, including sanctions screening, money laundering and counterterrorism
+
+- Legitimate interest, such as displaying relevant content in your selected region/language
+
+- Consent, where requested
+Communications with us –
+
+including emails
+
+- From third parties, such authorized service providers
+- Legal obligation, such as to respond to law enforcement requests (where legally permitted)
+
+- Performance of a contract with you, such as to facilitate customer service interactions
+
+- Legitimate interest, such as responding to complaints or concerns
+
+Site interaction data -
+
+including interactions with you on our platform and online services
+
+- From third parties, such as and authorized service providers
+- Legal obligation, such as responding to law enforcement requests
+
+- Legitimate interest, such as improving our products and services
+
+Device data –
+
+including device type, unique device identification numbers, operating system, mobile carrier, and how your device has interacted with our online services, including the pages accessed, links clicked, and features used, along with associated dates and times
+
+- Marketing Purposes
+
+- From third parties, such as our business and affiliate partners and authorized service providers
+- Legal obligation
+
+- Legitimate interest, such as responding to complaints and concerns
+
+SHARING OF PERSONAL INFORMATION
+
+We share your personal data with the categories of third parties set out in the below table for the broad purposes stated which are each described in more detail in the section "Categories of Personal Data We Collect and Use." Although some of these third parties process your data on our behalf as our processor, others will process your personal data as a controller (either jointly with us or autonomously) rather than as our processor.
+
+| Recipient of Personal Information | Purpose Category
+
+| Expedia Group Companies. We share your personal data within Expedia Group, the main brands of which are listed on expediagroup.com. Expedia Group companies act either as joint data controllers or processors for another Expedia Group company when accessing your shared personal data. |
+
+- Communications and Customer Service Purposes
+
+- Security and Compliance purposes
+
+| Third-party service providers. We share personal data with third parties to assist with the delivery of services to you and the operation of our business.
+These third-party service providers are primarily independently responsible for their compliance with applicable data protection laws. They are required to properly protect personal data we share with them and they may not use any identifiable personal data other than to provide services the agreed services. For example, they are not allowed to use the personal data we share to target you with their own direct marketing (unless you have separately permitted them to do so). |
+
+- Communications and Customer Service Purposes
+
+| Recipients in relation to our legal rights and obligations. We may disclose your personal data and associated records to enforce our policies; or where we are permitted (or believe in good faith that we are required) to do so by applicable law, such as in response to a subpoena or other legal request, in connection with actual or proposed litigation, or to protect and defend our property, people and other rights or interests. |
+
+| Recipients in relations to corporate transactions. We may share your personal data in connection with a corporate transaction, such as a divestiture, merger, consolidation, assignments or asset sale, or in the unlikely event of bankruptcy. In the case of any acquisition, we will inform the buyer it may only use your personal data only for the purposes disclosed in this Privacy Statement. |
+
+JOINT USE OF YOUR PERSONAL DATA WITHIN EXPEDIA GROUP
+
+Expedia Group companies jointly use and are joint controllers of your personal data in the following manner:
+
+- We process all the categories of personal data identified in the "Categories of Personal Data We Collect and Use" section jointly for the uses identified in that table
+
+- The Expedia Group companies, the main brands of which are listed on expediagroup.com, process this personal data jointly
+
+- Expedia, Inc. is the party responsible for managing your personal data. More information about how to contact us regarding this joint use can be found in the "Contact Us" section below.
+
+OUR USE OF ARTIFICIAL INTELLIGENCE
+
+We use artificial intelligence (AI) and machine learning (ML) for various purposes to deliver our platform and associated services. We may use your personal data for the following purposes:
+
+| Category | Explanation | Examples
+
+| Fraud | To help detect fraud on our website and/or applications (where applicable) |
+
+- To keep our site safe by preventing and detecting fraud e.g., at a transaction level, listing level, or user level, and including any breach of our terms and conditions or other fraudulent activities
+
+| Security governance | To support our security systems and corporate governance, including helping to keep your personal data secure |
+
+- To provide security governance
+
+| Anomaly detection | To help spot unusual patterns that help us prevent problems |
+
+- To detect anomalies, for example, finding elements that don't match an existing trend
+
+- To ensure consistency with our policies and maintain platform integrity
+
+| Other | We may use AI/ML in various other ways that are not capture by the above categories to improve your overall experience with us and our services |
+
+- To enhance your user experience
+
+Automated decisions may be made by putting your personal data into a system and the decision is calculated using automatic processes.
+
+We will rely on our legitimate interests to keep our site safe and to enhance your user experience. We will not engage in automated decision-making that involves a decision with legal or similarly significant effects solely based on automated processing of personal data, unless:
+
+- You explicitly consented to the processing
+
+- The processing is necessary for entering into a contract, or for its performance
+
+- When otherwise authorized by applicable law
+
+You may have rights in relation to automated decision making, including:
+
+- The ability to request a manual decision-making process instead, or
+
+- Contest a decision based solely on automated processing.
+
+If you want to know more about your data protection rights, please see Your Rights and Choices section below.
+
+YOUR RIGHTS AND CHOICES
+
+You have certain rights and choices with respect to your personal information, as described below:
+
+- If you have an account with one of the Expedia Group brands, you can update the accuracy of your information or change your communication preferences by either logging in and updating the information in your account (not available for all Expedia Group companies) or contacting us through the customer service portal of the relevant brand
+
+- You can control our use of certain cookies by following the guidance in our Cookie Statement
+
+- If you no longer wish to receive marketing and promotional emails from one of the Expedia Group brands, you may unsubscribe by clicking the ‘unsubscribe’ link in the email. You can also log into your account to change communication settings (not available for all Expedia Group companies or via expediagroup.com or this Expedia Group Legal Center) or contacting us through the customer service portal of the relevant brand. Please note that if you choose to unsubscribe from or opt out of marketing emails, Expedia Group brand(s) may still send you important transactional and account-related messages from which you will not be able to unsubscribe
+
+- For Expedia Group mobile apps, you can view and manage notifications and preferences in the settings menus of the app and of your operating system
+- If we are processing your personal information on the basis of consent, you may withdraw that consent at any time by contacting us. Withdrawing your consent will not affect the lawfulness of any processing that occurred before you withdrew consent and it will not affect our processing of your personal information that is conducted in reliance on a legal basis other than consent
+
+Certain countries and regions provide their residents with additional rights relating to personal information. These additional rights vary by country and region and may include the ability to:
+
+- Request a copy of your personal information
+
+- Request information about the purpose of the processing activities
+
+- Delete your personal information
+
+- Object to our use or disclosure of your personal information
+
+- Restrict the processing of your personal information
+
+- Opt-out of the sale of your personal information
+
+- Port your personal information
+
+- Request information about the logic involved in our automated decision-making, the result of such decisions
+
+- Object to the use of fully automated decision making, including profiling, with significant legal effect, and request a manual decision-making process instead
+
+- Contest a decision based solely on automated processing
+
+More information on what data subject rights may be available to you can be found here.
+
+For questions about privacy, your rights and choices, and in order for you or (where applicable) your authorized agent to make a request to amend or update your information, or to inquire about deletion of your data, please contact us using the information in the "Contact Us" section below.
+
+In addition to the above rights, you may have the right to complain to a data protection authority about our collection and use of your personal data. However, we encourage you to contact us first so we can do our best to resolve your concern. You may submit your request to us using the information in the Contact Us section below.
+
+We respond to all requests we receive from individuals wanting to exercise their personal data protection rights in accordance with applicable data protection laws. Should you have the right to appeal a decision to not take action on a request under applicable law, instructions on how to make that appeal will be included in our response to you.
+
+INTERNATIONAL DATA TRANSFER
+
+The personal information that we process may be accessed from, processed, or transferred to countries other than the country in which you reside. Those countries may have data protection laws that are different from the laws of your country. Such cross-border transfer of your personal information is necessary for us to service your transaction with us, and for the purposes outlined in this Privacy Statement.
+
+The servers for our platform are located in the United States, and the Expedia Group companies and third-party service providers operate in many countries around the world. When we collect your personal data, we may process it in any of those countries. Our employees may access your personal data from various countries around the world. The transferees of your personal data may also be located in countries other than the country in which you reside.
+
+We have taken appropriate steps and put safeguards in place to help ensure that any access, processing, and/or transfer of your personal data remains protected in accordance with this Privacy Statement and in compliance with applicable data protection law. Such measures provide your personal data with a standard of protection that is at least comparable to that under the equivalent local law in your country, no matter where your data is accessed from, processed and/or transferred to. We will comply with obligations regarding personal information cross-border transfer in accordance with applicable data protection laws, regulations, and conditions set by the competent authorities. This may include fulfilling obligations such as security assessments and/or certifications and signing agreements with overseas recipients in accordance with the standard contract established by the competent authorities.
+
+Some measures that we have in place include the following:
+
+- Adequacy decisions of the European Commission confirming an adequate level of data protection in respective non-EEA countries. Please see the latest list of such countries published by the European Commission here.
+
+- Transferee countries’ participation in the Global-CBPR forum. Please see the latest list of participant countries here. Expedia Group holds the Global-CBPR certification, and we have accordingly established measures across all Expedia Group companies to ensure that data is shared only in accordance with the CBPR requirements. Further detail on Expedia Group’s participation in such forum may be found in the “Global Cross Border Privacy Rules System Participation” section below.
+
+- Ensuring that the third-party partners, vendors and service providers to whom data transfers are made have appropriate mechanisms in place to protect your personal information. For instance, our agreements signed with our third-party partners, vendors and service providers incorporate strict data transfer terms (including, where applicable, the European Commission's Standard Contractual Clauses issued by the European Commission and/or United Kingdom, for transfers from the EEA/UK), and require all contracting parties to protect the personal information they process in accordance with applicable data protection law. Our agreements with our third-party partners, vendors and service providers may also include, where applicable, their certification under the EU-U.S. DPF and the UK extension to EU-U.S. DPF and/or Swiss-U.S. DPF certification (and any other country specific extension to the DPF adopted from time to time), or reliance on the service provider's Binding Corporate Rules, as defined by the European Commission. In regard to the onward principle of the DPF Frameworks, if Expedia, Inc. learns that a third party is using or disclosing your Personal Information in a manner that is contrary to this Policy, we will take reasonable steps to prevent or stop such use or disclosure. Expedia, Inc. may be liable for onward transfers of Personal Information to third parties in violation of this Policy and the DPF Frameworks.
+
+- Intra-group agreements in place for our Expedia Group companies which incorporate strict data transfer terms (including, where applicable, reliance on our Global-CBPR and DPF certifications (as appropriate to the transfer), with Standard Contractual Clauses issued by the European Commission and/or United Kingdom for transfers from the EEA/UK incorporated as fallbacks in circumstances where we cannot rely on our DPF certifications) and require all group companies to protect the personal data they process in accordance with applicable data protection law.
+
+- Carrying out periodic risk assessments and implement various technological and organization measures to ensure compliance with relevant laws on data transfer.
+
+Data Privacy Frameworks
+
+All wholly owned U.S. affiliates of Expedia, Inc. (part of the Expedia Group of brands) have certified to the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (“the DPF Frameworks”) and that we adhere to the DPF Framework Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability for personal information from the EU, Switzerland, and the United Kingdom. The Federal Trade Commission has jurisdiction over such Expedia Group U.S. affiliates’ compliance with the DPF Frameworks. In addition, Expedia Group maintains intra-group Standard Contractual Clauses where applicable to cover the transfer of EU personal information to the U.S. Our certifications can be found here. For more information about the DPF Frameworks principles, please visit: https://www.dataprivacyframework.gov.
+
+In compliance with the DPF Frameworks, Expedia, Inc. U.S. affiliates commit to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO), the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the DPF Frameworks. Under certain circumstances, you may have the possibility to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms. Please visit this link for more information: https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2.
+
+Expedia, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the DPF Frameworks should first contact us via our Contact Us below.
+
+Global Cross Border Privacy Rules System Participation (Global-CBPR)
+
+The privacy practices of Expedia, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found here.
+
+SECURITY
+
+We want you to feel confident about using our platform and all associated tools and services, and we are committed to taking appropriate steps to protect the information we collect. While no company can guarantee absolute security, we do take reasonable steps to implement appropriate physical, technical, and organizational measures to protect the personal information that we collect and process.
+
+Our cybersecurity team develops and deploys technical security controls and measures to ensure responsible data collection, storage, and sharing that is proportionate to the data’s level of confidentiality or sensitivity. We take efforts to continuously implement and update security measures to protect your information from unauthorized access, loss, destruction, or alteration. We hold our data-handling partners to equally high standards.
+
+We have established an information security protection system based on industry best practices and perform regular assessment and certifications, such as PCI-DSS certification. We have also implemented appropriate security measures throughout the entire lifecycle of data collection, storage, processing, use, transmission, and sharing, and have taken certain technical and management measures including but not limited to verification and access controls, VPN, SSL encrypted transmission, and multi factor authentication mechanisms, based on our information classification and processing standards, to ensure the security of systems and services.
+
+We have management and approval mechanisms for employees who may have access to your information and provide regular information security training for employees.
+
+In the event of a personal data security incident that may affect your rights and interests, you will be notified in accordance with applicable data protection laws and regulations. We will also report the relevant incident to the competent regulatory authorities, if required by applicable laws and regulations.
+
+MINORS
+
+Our website is not directed at minors (as defined in applicable data protection laws) and we cannot distinguish the age of persons who access and use it. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us through the relevant Expedia Group brand.
+
+If you have any questions or concerns regarding our protection of minors’ personal information, or if you (in your capacity as the parent or guardian of the minor) wish to delete or correct the personal information of minors, please contact the relevant Expedia Group brand.
+
+RECORD RETENTION
+
+We will retain your personal data in accordance with all applicable laws, for as long as it may be relevant to fulfill the purposes set forth in this Privacy Statement, unless a longer retention period is required or permitted by law. We will deidentify, aggregate, or otherwise anonymize your personal data if we intend to use it for analytical purposes or trend analysis over longer periods of time.
+
+When we delete your personal data, we use industry standard methods to ensure that any recovery or retrieval of your information is impossible. We may keep residual copies of your personal data in backup systems to protect our systems from malicious loss. This personal data is inaccessible unless restored, and all unnecessary information will be deleted upon restoration.
+
+The criteria we use to determine our retention periods include:
+
+- Whether we have a legal obligation related to your personal data
+
+- Whether there are any current and relevant legal obligations affecting how long we will keep your personal data, including contractual obligations, litigation holds, statutes of limitations, and regulatory investigations
+
+- Whether your data is needed for secure backups of our systems
+
+UPDATES TO STATEMENT
+
+We may make changes to this Privacy Statement by updating it at any time for various reasons, including:
+
+- To improve it and make it clearer or easier to understand
+
+- To comply with legal, regulatory, and/or tax requirements
+
+- Where we make changes to our services or how we run our business, and/or
+
+- For security related reasons
+
+If we propose to make changes that will materially impact your rights or obligations, we will provide you with reasonable advance notice of such changes, unless the changes are urgently required to meet security, legal, or tax requirements. You can see when this Privacy Statement was last updated by checking the "last updated" date displayed at the top of this Privacy Statement.
+
+For more information on prior updates please Contact Us as mentioned below.
+
+CONTACT US
+For more information on how Expedia Group processes your personal data, please visit the applicable Expedia Group company’s website and view the privacy statement.
+
+If you have questions about this Privacy Statement, please contact us using our using our customer service and feedback form.
+
+The principal data controller for your personal data is Expedia, Inc. For information on our data controller and/or EU representative for personal data we process, please click here.

@@ -1,0 +1,134 @@
+The Service is intended for a general audience and not directed to children less than 16 years of age. We do not knowingly collect or sell the Personal Information of children under the age of 16. If we learn that we possess information from a child under the age of 16, we will delete such information in accordance with the Children’s Online Privacy Protection Act (“COPPA”) or other applicable laws (such as the California Consumer Privacy Act). If you are a parent or guardian and you believe that your child under the age of 16 has provided us with Personal Information, please contact us.
+
+## NEVADA PRIVACY NOTICE
+
+Nevada residents may opt-out of the sale of “covered information” to third parties, including but not limited to name, address, social security number, telephone number, email address, and other information through which a person may be contacted. Our uses of your Personal Information are not sales under Nevada law. If you have any questions or if you would like to receive notice by email in the event we should engage in sales of Personal Information under Nevada law in the future, please email us at LegalNotices.Shared@usfoods.com.
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+This section supplements the other parts of our Privacy Policy, and provides additional information for California residents pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act (“CCPA”), and other applicable California laws and regulations.
+
+If you a US Foods employee, please see our California Employee Privacy Notice for additional disclosures. If you are a job applicant, additional disclosures can be found here.
+
+California Notice of Personal Information Collected.
+
+The Personal Information we collect about you, the sources from which we collect it, and how we use and disclose it are described elsewhere in this Privacy Policy. Here is how the types of Personal Information we collected within the past 12 months fit within the categories defined by the CCPA:
+
+- Identifiers—including your name, alias, title, user ID, email address, email communication preferences, postal address, phone number, fax number, signature, social security number driver’s license or state ID card number, login information for our Service, IP addresses
+
+- Sensitive Personal Information within this category includes social security number, and driver’s license or state ID card number
+
+- Personal Information described in Cal. Civ. Code § 1798.80(e)—overlaps with the identifiers we collect, and also includes payment information
+
+- Characteristics of protected classifications under California or federal law—we collect your birthdate, age, gender, and languages spoken
+
+- Commercial information—including purchase history, products or services purchased, obtained or considered, and other purchasing or consuming histories or tendencies
+
+- Internet or other electronic network activity information—including device and usage information, browsing history, search history, and information regarding your interactions with our websites, apps and advertisements, email engagement activity, information from cookies and other tracking technologies, and website analytics information
+
+- Geolocation data—geolocation data inferred from your IP address or mobile device location
+
+- Sensitive Personal Information within this category includes precise geolocation, which is collected based on your mobile device location when you use our mobile apps
+
+- Audio, electronic, visual, thermal, olfactory, or similar information—audio data collected when you call our customer service numbers; security camera footage in our stores
+
+- Professional or employment related information—such as your employer and position if you choose to provide that information to us
+
+- Inferences drawn from other Personal Information—preferences, characteristics, predispositions, behavior, or attitudes based on other Personal Information collected about you
+
+- We also collect the contents of your communications with us, which may include Personal Information that does not necessarily fit within one of the specific categories defined by the CCPA
+
+Retention of Personal Information
+
+We keep the categories of Personal Information described above for as long as is necessary for the purposes described in this Notice or otherwise authorized by law. This generally means holding the information for as long as one of the following apply:
+
+- Your Personal Information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information;
+
+- Your Personal Information is reasonably necessary to carry out a disclosed purpose that is reasonably compatible with the context in which the Personal Information was collected;
+
+- The information is reasonably required to protect or defend our rights or property (which will generally relate to applicable laws that limit actions in a particular case); or
+
+- We are otherwise required or permitted to keep your information by applicable laws or regulations.
+
+Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. For more information about our retention policies, please contact us using the contact details below.
+
+Disclosures, Sharing, and Sales of Personal Information
+
+We may disclose to our Service Providers and Contractors any category of Personal Information we collect in order to further the business purposes described in this Privacy Policy, which include:
+
+- Auditing related to ad impressions
+
+- Ensuring security and integrity of Personal Information
+
+- Debugging to identify and repair errors that impair existing intended functionality
+
+- Short-term, transient use, including, but not limited to, non-personalized advertising
+
+- Performing services on our behalf
+
+- Providing advertising and marketing services (except for cross-context behavioral advertising)
+
+- Undertaking internal research for technological development and demonstration
+
+- Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us
+
+- Processing, maintaining, or collecting Personal Information on our behalf
+
+- Detecting or protecting against malicious, deceptive, fraudulent or illegal activity
+
+- Internal use by the service provider
+
+The categories of Service Providers and Contractors to which Personal Information is disclosed include order processing and delivery vendors, customer service providers, analytics and website support vendors, credit bureaus, marketing service providers, auditors, and service providers that help support our website, mobile apps, and business operations. For more information, please see the section of this Policy titled When Will We Share Your Information?
+
+Except for payment information, social security number, and driver’s license/state ID card number, we may also sell or share with third parties any of the categories of Personal Information we collect. Under California law, a “sale” of Personal Information does not necessarily involve an exchange of money. Instead, the term also includes disclosures of Personal Information to third parties under circumstances where the third parties may use the information for their own purposes. The third parties to which this information may be sold or shared include advertising and marketing companies, social media platforms, other businesses interested in marketing their products and services to you, data cooperatives and exchanges, and data brokers. Our purposes for selling and sharing Personal Information relate to certain types of marketing and advertising, as further described above. We do not have actual knowledge that we sell or share the Personal Information of consumers under 16 years of age.
+
+How to Use Your Rights Under the CCPA
+
+If you are a California resident, you have the right to submit certain requests relating to your Personal Information. To exercise any of these rights, please submit a request via our webform or by calling us at 1-800-292-5197.
+
+Please note that, if you submit a request to know, request to delete, or request to correct, we will need to take reasonable steps to confirm that the person submitting the request is the person to whom the information relates (or his or her authorized agent). We generally ask you to provide 2-3 pieces of Personal Information about you in order to verify your identity. The specific steps taken to verify the identity of the requesting person may vary based on the nature of the request, including the type, sensitivity and value of the information involved, the risk of harm posed by unauthorized access, deletion or correction, the likelihood of fraud, the robustness of Personal Information provided to verify your identity, the nature of our business relationship with you, and available technology for verification.
+
+You may designate an authorized agent to make the requests below on your behalf. An authorized agent must submit proof to us that he or she has been authorized by you to act on your behalf, and you will still need to verify your identity directly with us. An authorized agent may submit a request on your behalf using the webform or toll-free number listed above
+
+Right to Opt Out of Sale and Sharing of Personal Information. Although we do not sell your Personal Information in exchange for money, some of the ways in which we share your Personal Information for advertising or marketing may be considered a “sale” or “sharing” under California law. To opt out of the sale of your Personal Information or sharing for cross-context behavioral advertising, please click here. If you choose to use the Global Privacy Control (GPC) browser signal, you will be opted out of cookie-based sales or sharing of Personal Information, and will need to turn it on for each browser you use. To submit a request to opt out of offline sales and sharing, please use our webform.
+
+Right to Know. If you are a California resident, you have the right to request more information regarding the following:
+
+- The categories of Personal Information we have collected about you, including
+
+- The categories of sources from which the Personal Information was collected
+
+- Our business or commercial purposes for collecting, selling, or sharing your Personal Information
+
+- The categories of recipients to which we disclose Personal Information
+
+- The categories of Personal Information that we sold, and for each category identified, the categories of third parties to which we sold that particular category of Personal Information
+
+- The categories of Personal Information that we disclosed for a business purpose, and for each category identified, the categories of recipients to which we disclosed that particular category of Personal Information
+
+- The specific pieces of Personal Information we have collected about you
+
+- A list of the third parties to which we have disclosed Personal Information, as defined under California Civil Code Section 1798.83(e) (a/k/a the “Shine the Light Law”), during the preceding calendar year for third-party direct marketing purposes
+
+Please note that due to the different requirements of the applicable laws, our response times may vary depending on the specific type(s) of information sought. We respond to all verifiable requests for information as soon as we reasonably can and no later than legally required.
+
+Right to Request Deletion of Your Personal Information. California residents have the right to request that we delete Personal Information we collected from you, subject to certain exceptions.
+
+Right to Correct Inaccurate Information. If you believe that Personal Information we maintain about you is inaccurate, you have the right to request that we correct that information.
+
+Right to Limit Use and Disclosure of Sensitive Personal Information. You may direct us to limit the use and disclosure of your Sensitive Personal Information to uses/disclosures that are reasonably necessary to provide our goods and services, or as needed: to ensure security and integrity; to prevent fraud or illegal activity; for physical safety; for short-term, transient use, including for non-personalized advertising; to perform services on behalf of the business; and to verify or maintain the quality or safety of a service or device owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance such services or devices. To limit our use of your Sensitive Personal Information, please click here.
+
+Right to Non-Discrimination. If you choose to exercise any of the privacy rights conferred by the CCPA, you also have the right not to receive discriminatory treatment by us. This means that, consistent with California law, we will not deny providing our products or services to you, charge you different prices or provide a different level or quality of products or services to you unless those differences are related to the value of your Personal Information.
+
+## CHANGES TO THIS POLICY
+
+By using our Service, you consent to the terms of this Privacy Policy and our Terms of Use. We may change our Privacy Policy from time to time. Your use of our Service indicates your consent to the privacy policy posted at the time of use.
+
+On January 1, 2023, we changed our Privacy Policy to clarify the types of information we collect about you, the ways we collect your information, and how we use and share your information. We updated our Privacy Policy to use the same standards across all of our brands, websites, and apps. And we updated the parts of our Privacy Policy that explain the rights of California and Nevada residents.
+
+## HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy, please contact US Foods at LegalNotices.Shared@usfoods.com or by mail to US Foods, 9399 West Higgins Road, Suite 100, Rosemont, IL 60018 (Attention: Legal Department).
+
+Terms of Use |
+Privacy Policy

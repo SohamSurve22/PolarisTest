@@ -1,0 +1,594 @@
+# Voya Financial Privacy Notice
+
+## Voya Financial Privacy Notice
+
+### Last updated Sept. 24, 2026
+
+How We Collect Personal Information
+How We Use Personal Information
+Additional Disclosures for Residents of Certain U.S. States
+Cookies and Similar Technologies
+Your Privacy Rights and Submitting Privacy Requests
+Our Gramm-Leach-Bliley Act (GLBA) Privacy Notice
+HIPAA Notice of Privacy Practices
+
+We recognize the importance of protecting the privacy of your personal information. We have implemented policies and security measures to protect the information you provide to us. We understand that you care about how your personal information is collected, used and shared, and we appreciate the trust you place in us.
+
+### Scope
+
+This Privacy Notice (this “Notice”) describes the ways in which Voya Financial (“Voya,” “we,” “us” or, “our” in this privacy notice) collects, processes and discloses personal information about you. This privacy notice applies to: Benefit Strategies, LLC, Pen-Cal Administrators, Inc., ReliaStar Life Insurance Company, ReliaStar Life Insurance Company of New York, Security Life Assignment Corporation, Voya Benefits Company, LLC, Voya Capital Corporation, LLC, Voya Financial Advisors, Inc., Voya Financial, Inc., Voya Financial Partners, LLC, Voya funds, Voya Funds Services, LLC, Voya Institutional Plan Services, LLC, Voya Institutional Trust Company, Voya Investments, LLC, Voya Investments Distributor, LLC, Voya Retirement Advisors, LLC, and Voya Retirement Insurance and Annuity Company.
+
+Throughout this Notice, “you” refers to the individual or entity that is engaging with Voya. By interacting with Voya Sites (the term “Voya Sites” refers to all Voya websites and mobile applications and the content within them), you consent to the use of your information as set forth in this Notice.
+
+This Notice applies to any information we collect about you, including through our Voya Sites or services, any emails, texts or other electronic communications sent through the Voya Sites or services, as well as any offline interactions we have with you.
+
+This Notice does not apply to information collected through any other applications or websites (including websites you may access through our services) or by any third party. These other websites, applications, or third parties may have their own privacy policies, which we encourage you to read before providing information through them.
+
+For purposes of this Notice, “personal information” includes any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked with you, directly or indirectly. Personal information does not include information that cannot be reasonably linked to you. Personal information does not include information that is deidentified or anonymized (as defined under applicable privacy laws).
+
+### Personal Information and How We Collect and Use It
+
+#### Information You Provide Directly
+
+We collect personal information directly from you when you choose to share it with us, including when you:
+
+- Open an account
+
+- Provide us with your contact information
+
+- Apply for insurance
+
+- Seek investment advice
+
+- Inform us about your investment or retirement portfolio
+
+- Contact customer services
+
+- Apply for a job, or
+
+- When you navigate through our Voya Sites
+
+#### Information Collected Automatically
+
+When you download, access, or use our Voya Sites or services, we automatically collect certain information from your device or browser. This information may include any information about the computer system or other technological device that you use to access the Voya Sites, such as:
+
+- IP address used to connect your computer or device to the internet and broad geographic location
+
+- Cookie identification number
+
+- Pseudonymous identifiers
+
+- Advertising identification number
+
+- Device type and identification number
+
+- Internet service provider
+
+- Mobile network
+
+- Operating system type
+
+- Web browser type and version
+
+- System events
+
+- Approximate location from an IP address or connection to Wi-Fi, Bluetooth, or a wireless network service
+
+How your computer or mobile device interacts with the Voya Sites, including:
+
+- Date and time the Voya Sites are accessed
+
+- Interactions with our marketing emails, including if and when they are opened and the links clicked within those emails
+
+- Search requests and results
+
+- Mouse clicks and movements
+
+- Specific webpages accessed
+
+- Page scrolling and text keyed into website forms
+
+- Links clicked and videos watched
+
+- Traffic and usage measurements
+
+- Data about the third-party sites or services accessed before interacting with the Voya Sites.
+
+Certain laws classify some automatically collected information as personal information. This collection may occur through technologies such as cookies, log files, web beacons, and local shared objects (collectively, “Cookies and Similar Technologies”). We and our partners, such as advertising networks, analytics providers, social media platforms, business partners and other service providers, may also use Cookies and Similar Technologies to collect information about your activities over time and across third-party websites, applications, and other online services (sometimes referred to as “behavioral tracking”).
+
+Voya Sites Terms of Use govern your use of information, content, tools, products, and services on all of the Voya Sites. Visit Voya Sites Terms of Use for information regarding Voya’s use of cookies and similar technologies described above. See the “Cookies and Similar Technologies” and “Your Rights and Submitting Privacy Requests” section below for more information on your right to opt out of our use of these Data Technologies.
+
+#### Information From Third Parties
+
+We may collect information about you from third-party sources. These sources may include public records, including widely available federal, state, or local records, outside organizations that assist with preventing fraud, marketing, and supporting human resources, credit and insurance bureaus, program partners, financial institutions, and anyone authorized by you to provide your personal information to us.
+
+#### Combination of Information
+
+We may combine the information that you provide directly with information that we collect automatically, information we receive from our affiliates and subsidiaries, information obtained from third parties, and other sources. The combined information may include information about your use of the Voya Sites and services, your use of other websites, devices and mobile applications, and information from our affiliates and other sources.
+
+### How We Use Personal Information
+
+We use information that we collect about you or that you provide to us, including any personal information, to:
+
+- Provide you with financial products and services (e.g., maintaining accounts, processing payments, servicing customers)
+
+- Audit consumer interactions and transactions
+
+- Detect security incidents and prevent fraud
+
+- Identify and repair errors that impair functionality
+
+- Verify or enhance the quality of our services
+
+- For other internal uses permitted under applicable laws
+
+#### Use of Artificial Intelligence (AI)
+
+We use artificial intelligence (Al) tools, including machine learning, generative and agentic AI to help provide, protect and improve our services.
+
+##### How your information is used
+
+We use AI tools to process information and provide services to you (for example, answering questions or identifying unusual account activity).
+
+We do not use your personal information to train or improve AI systems unless we clearly tell you otherwise.
+
+##### Our service providers
+
+In some cases, we work with trusted service providers that help us operate AI tools.
+
+We require these providers to follow our privacy and security standards and to use your information only as permitted in our contracts.
+
+If our practices change and we begin using personal information to train or improve AI systems, we will update this notice and provide any required choices under applicable law.
+
+### Disclosure of Personal Information
+
+All financial companies need to share customers’ personal information to run their everyday business. Federal law gives consumers the right to limit some but not all sharing.
+
+We share your personal information with people and businesses that help operate the Voya Sites and carry out our business and when we are legally permitted or required to do so. We also share personal information when a user requests that we share it. Note that we do not share customers’ health information unless mandated or allowed by applicable law.
+
+We share personal information with the following categories of recipients:
+
+- Our service providers
+
+- Plan sponsors or their agents
+
+- Third party administrators
+
+- Brokers
+
+- Independent agents
+
+- Managing general agents
+
+- Program administrators
+
+- Our affiliates
+
+- Nonaffiliated third parties
+
+- Our advertising and lead generation partners
+
+We may also disclose your personal information to:
+
+- Comply with any court order, law or legal process, including a response to a government or regulatory request
+
+- Enforce or apply our Terms of Use and other agreements, including for billing and collection purposes
+
+- If we believe disclosure is necessary or appropriate to protect the rights, property or safety of our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Notwithstanding the above, mobile phone numbers and opt-in consent obtained through any Voya text messaging program will not be shared with, or sold, rented, disclosed or transferred to, any third party for marketing or promotional purposes, and will not be shared with any third party except (i) aggregators and providers retained to deliver the text messaging service on Voya’s behalf, and (ii) as otherwise required by law.
+
+If you are a participant in a retirement plan sponsored by your current or former employer, our contract with your plan sponsor may contain additional conditions or permissions on the use or sharing of your personal information.
+
+If you are a new customer, we can begin sharing your information 30 days from the date we send this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
+
+### Additional Disclosures for Residents of Certain U.S. States
+
+The personal information we collect about you includes information within the categories of data below. Inclusion of a category in the list below indicates only that we may collect some information within that category. We do not necessarily collect all information listed in a particular category, nor do we necessarily collect all categories of information for all individuals.
+
+We have disclosed personal information in each of the categories below with our affiliates, subsidiaries, and service providers, including marketing vendors, and other third parties, as well as with government entities as necessary, for our business purposes within the last 12 months. We have not necessarily shared all information listed in a category. We have also shared your internet or other electronic network activity information (as described below) with our advertising partners.
+
+| Category | Source | Purpose
+
+| Identifiers such as real name, alias, postal address, unique personal identifier, online identifier IP address, and email address. |
+
+Directly from you when you:
+
+Anyone authorized by you to provide your personal information to us.
+To provide you with our products and services;
+
+To audit consumer interactions and transactions;
+
+To communicate with you;
+
+To provide customer service and respond to requests or inquiries;
+
+To assist with marketing; and
+
+To protect against fraud or security incidents.
+
+| Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) such as name, address, telephone number, credit card number, and information you upload. |
+
+| Protected classification characteristics under state or federal law, such as familial status, disability, sex, national origin, religion, color, race, sexual orientation, gender identity and gender expression, marital status, veteran status, medical condition, ancestry, source of income, age, or genetic information. |
+
+To provide you with our products and services; and
+
+To provide customer service and respond to requests or inquiries.
+
+| Internet or other electronic network activity such as browsing history, search history, IP address, and information regarding your interaction with the Voya Sites, applications, and advertisements. | Automatically when you interact with the Voya Sites and our services. |
+
+To learn more about you;
+
+To provide you with marketing, including third-party marketing, targeted advertising, or other promotional information; and
+
+To improve our products and services.
+
+| Geolocation Data | Automatically when you interact with the Voya Sites and our services. |
+
+To learn more about you;
+
+To provide you with marketing, including third-party marketing, targeted advertising, or other promotional information; and
+
+To improve our products and services.
+
+| Commercial information such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. |
+
+Publicly available sites.
+
+To provide customer service and respond to requests or inquiries; and
+
+| Financial and Credit Information |
+
+| Educational information such as your school transcripts and academic credentials and achievements. |
+
+Directly from you when you apply for a job with us.
+
+Publicly available job or networking sites on which you post information.
+
+Third-party service providers or partners.
+
+| For employment purposes, including hiring or administering employee benefits.
+
+| Professional or employment-related information such as your job title and entity affiliation. |
+
+Directly from you when you apply for a job with us.
+
+Publicly available job or networking sites on which you post information.
+
+Third-party service providers or partners.
+
+| For employment purposes, including hiring or administering employee benefits.
+
+| Audio, electronic, or visual information | Directly from you when we record calls or videos. |
+
+To provide customer service and respond to requests or inquiries.
+
+| Information about your spouse or dependents |
+
+To provide you with our products and services; and
+
+To provide customer service and respond to requests or inquiries.
+
+| Inferences (defined as “the derivation of information, data, assumptions or conclusions from facts, evidence or another source of information or data”) drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, preferences, predispositions, behavior, attitudes, intelligence, abilities and aptitudes. | N/A |
+
+To learn more about you;
+
+To provide you with marketing, including third-party marketing, targeted advertising, or other promotional information; and
+
+To improve our products and services.
+
+In addition to the categories of personal information above, we also collect the following categories of sensitive personal information:
+
+| Category of Personal Data | Source of Personal Data | Purpose of Collection, Processing, and Disclosure
+
+| Personal identifiers such as a Social Security number, driver’s license number, passport number or other similar identifiers. |
+
+| Account log-in, financial account, debit card or credit card number in combination with any required security or access code, password, or credentials allowing access to an account. |
+
+Directly from you when you provide it to us.
+
+| To process your payments.
+
+| Personal information collected and analyzed concerning a consumer’s health. |
+
+Directly from you when you provide it to us.
+
+| To provide you with our products and services.
+
+| Biometric information processed to uniquely identify you. | Directly from you when you provide it to us. | To provide you with our financial products and services.
+
+### Data Retention
+
+Voya retains your personal information and sensitive personal information for as long as it is reasonably necessary for the purposes disclosed in this notice and for other related business purposes and as required or permitted by applicable laws and regulations. Voya reserves the right to retain and use personal data for as long as necessary to comply with our legal and regulatory obligations and business requirements and/or to resolve any ongoing disputes and enforce our agreements. For the avoidance of doubt, personal information will not be destroyed before any regulatory retention period expires, or during a pending investigation, whether legal or regulatory.
+
+To support us in managing how long we hold personal information and our record management, we maintain a data retention policy which includes clear guidelines on retention and deletion.
+
+We consider the following criteria when determining how long a particular record will be retained, including any personal data contained in that record:
+
+- How long the record is needed to provide you with the products and services you request
+
+- How long the record is needed to support and enhance our operational processes
+
+- How long the record is needed to protect our rights and legal interests
+
+- How long the record must be retained to comply with applicable laws and regulations
+
+The same personal information about you may be included in more than one record and used for more than one purpose, each of which may be subject to different retention periods based on the factors listed above.
+
+### Cookies and Similar Technologies
+
+Voya Sites Terms of Use govern your use of information, content, tools, products, and services on all of the Voya Sites. Visit Voya Sites Terms of Use for information regarding Voya’s use of the Cookies and Similar Technologies described above.
+
+If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website to your computer. To learn more about this technology, or to opt out of the ad serving cookie, please visit Networkadvertising.org. You can opt out of Google Analytics cookies.
+
+In addition, please see the “Your Rights and Submitting Privacy Requests” section below for more information on your right to opt out of our use of these Data Technologies and to limit the sharing of information collected about you through cookies to any third party.
+
+#### Do Not Track
+
+Currently, the Voya Sites support the necessary technology to respond to web browser “Do Not Track” signals or other comparable mechanisms. If you wish to exercise your right to opt out of the sale and sharing of your personal information, please submit a rights request using one of the methods described in this Notice.
+
+### Your Privacy Rights and Submitting Privacy Requests
+
+Depending on your state of residency and the type of data collected, you may have rights with respect to your personal information. We may choose to extend these rights to you even if we are not required to under applicable law.
+
+Right to access/know. Depending on your jurisdiction, you may have the following rights to know and access:
+
+- You have the right to know and request information about the categories and specific pieces of personal information we have collected about you within the last 12 months, as well as the categories of sources from which such information is collected, the purpose for collecting such information, and the categories of third parties, or specific third parties, depending on your jurisdiction, to whom we share such information, as well as the categories of personal information shared.
+
+- You may also have the right to know if we have sold or disclosed your personal information, including the categories of third parties, or specific third parties, to whom we have sold personal information and the categories of personal information sold.
+
+- You may also have the right to access any inferences derived from your personal information.
+
+- You may also have the right to know whether we use or sell your personal information for the purpose of training large language models.
+
+Right to access biometric data. If you are a resident of Colorado, you may have the right to request the category or description of your biometric data as well as: (i) the source of collection, (ii) the purpose of collection and processing the your biometric data and any associated personal information, (iii) the identity of any third party with which we have disclosed your biometric data and the purpose of disclosure, and (iv) the category or a description of the biometric data disclosed to third parties.
+
+Right to correct. You have the right to request correction of any inaccurate information we hold about you. We may not be able to accommodate your request if we believe it would violate any law, any legal requirements, or cause the information to be incorrect. Information solely retained for data backup purposes is generally excluded.
+
+Right to delete. You have the right to request the deletion of your personal information, subject to certain exceptions.
+
+Right to limit use and disclosure of sensitive personal information. Depending on your jurisdiction, to the extent we process or disclose your sensitive personal information, you may have the right to limit our use of this information to what is necessary to perform the services expected by an average consumer.
+
+Right to opt-in or opt-out of processing of sensitive personal information. Depending on your jurisdiction, to the extent we process your sensitive personal information, or the personal information of a known child, we may have to obtain your consent, or the consent of the child’s parent or lawful guardian, before processing it. If your jurisdiction does not provide the right to opt-in, then you may have the right to opt-out of the processing of your sensitive personal information.
+
+Right to opt-out of the sale or sharing of personal information, including for purposes of targeted advertising. Our disclosure of your personal information to third parties may constitute a “sale” and under certain state laws may also constitute “sharing.” You have the right to opt out by: (a) enabling an opt-out preference signal or Global Privacy Control on your browser which is recognized by our US-facing websites, (b) opting out of cookies as described above, or (c) submitting a request to us.
+
+Right to opt-out of targeted advertising or processing for purposes of targeted advertising. Depending on your jurisdiction, to the extent we share personal information for purposes of targeted advertising or cross contextual behavior advertising, you have the right to opt-out.
+
+Right to portable data. You have the right to obtain personal information about you in a portable and, to an extent technically feasible, readily usable format that allows you to transmit the information to another entity without hindrance.
+
+Right to non-discrimination. You have the right not to be discriminated against for exercising any of the above-listed rights.
+
+Right to appeal. Depending on your jurisdiction, you may have the right to appeal our decision regarding a request. Please submit your request to appeal using one of the methods listed in the “Contact Us” section below.
+
+We do not discriminate against you if you choose to exercise these rights.
+
+Personal information solely retained for data backup purposes is principally excluded from these rights until it is restored to an active system or next accessed or used for a sale, disclosure, or commercial purpose. These rights also do not apply to pseudonymous data if the information necessary to identify the individual is kept separately and is subject to controls that prevent access to the information. Pseudonymous data refers to personal information that cannot be linked to a specific individual without the use of additional data, provided that such additional data is stored separately and protected by safeguards designed to prevent re-identification of the individual.
+
+Further, California law permits California residents to request — from a business with whom the California resident has an established business relationship — certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes, and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+
+#### Exercising Your Rights
+
+If you would like to exercise any of the privacy rights outlined above, please submit a Personal Data Request, or use one of the other methods listed in the “Contact Us” section.
+
+You also may designate an authorized agent to make a request on your behalf. If you are submitting a request through an authorized agent, the authorized agent must provide us with your signed written permission stating that the agent is authorized to make the request on your behalf. Alternatively, your authorized agent may provide evidence of having power of attorney or acting as a conservator for you. We may also request that any authorized agents verify their identity and may reach out to you directly to confirm that you have provided the agent with your permission to submit the request on your behalf.
+
+When you exercise these rights and submit a request to us, we will verify your identity by asking you for the following pieces of information: your relationship with us, first and last name, email address, telephone number, postal address, or plan name.
+
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will use the personal information you provide to us when submitting a consumer request only to verify the requestor’s identity or authority to make the request.
+
+There may be circumstances where we will not be able to honor your request, in which case, we will notify you. For example, if you request deletion, we may need to retain certain personal information to comply with our legal obligations or other permitted purposes. Depending on your jurisdiction, you may have the right to appeal this decision or to contact your Attorney General if you have concerns about the results of the appeal.
+
+Please note that depending on your jurisdiction, we are only obligated to respond, free of cost, to personal information requests from the same consumer up to two times in a 12-month period. Depending on your jurisdiction, after you have exceeded the applicable number of requests, we have the right to charge a reasonable fee for fulfilling the request. In addition, under the applicable state privacy law, and for the protection of your personal information, we may be limited in what personal information we can disclose.
+
+Depending on your jurisdiction, we may maintain your rights requests for at least 2 years. This information will not be used for any other purpose except to review compliance processes; it will not be shared except as necessary to comply with a legal obligation.
+
+HIPAA Data Requests: The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) provides individuals with certain rights regarding their Protected Health Information (“PHI”). In the event Voya maintains PHI as part of the services or products it provides to you, and you wish to exercise these rights with regard to PHI, please submit a HIPAA Data Request.
+
+##### Data Security
+
+We maintain physical, electronic, and procedural safeguards designed to protect your personal data. We use reasonable best efforts to require that any person or institution to which we disclose personal data will protect the confidentiality of that information and use the information only for the purposes for which we disclose the information to them. In addition, we restrict access to nonpublic personal data to those employees who need to know that information in the course of their job responsibilities.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our Site. Any transmission of personal data is at your own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on the Voya Sites.
+
+##### Minors and Children
+
+The Voya Sites are not intended for children under 18 years of age. We do not knowingly collect, store, use, sell, or share the personal information of children under 16 unless the personal information is provided by a parent, legal guardian, or authorized adult, including when an adult names a child as a beneficiary of one of Voya’s products. If you believe we might have any information directly from a child under 16, please contact us.
+
+## Our Gramm-Leach-Bliley Act (GLBA) Privacy Notice
+
+| What does Voya Financial do with your personal information?
+
+| Why? | Generally, financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
+
+| What? |
+
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+
+- Contact information, like email address and phone number
+
+- Social Security number and account balance
+
+- Driver’s license or other government-issued identification number
+
+- Date of birth, gender, and other health information
+
+- Income, assets and transaction or loss history
+
+- Investment experience and employment information
+
+- Personal, demographic, or financial information of any joint owners or beneficiaries
+
+| How? | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Voya Financial, Inc. {hereinafter “Voya,” “we,” “us” or, “our”) chooses to share; and whether you can limit this sharing
+
+| Reasons we can share your personal information | Does Voya share? | Can you limit this sharing?
+
+| For our everyday business purposes — such as to process your transactions, maintain your account(s) and required records, respond to court orders and legal investigations, detect and prevent fraud, or report to credit bureaus | Yes | No
+
+| For our marketing purposes — to offer our products and services to you | Yes | No
+
+| For joint marketing with other financial companies | No | We don’t share
+
+| For our affiliates’ everyday business purposes — information about your transactions and experiences | Yes | No
+
+| For our affiliates’ everyday business purposes — information about your creditworthiness | No | We don't share
+
+| For our affiliates to market to you | Yes | Yes
+
+| For nonaffiliates to market to you | Yes | Yes
+| To limit our sharing |
+
+- Call our toll-free number (855) 685-9519 — our menu will prompt you through your choice. Please note: If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
+| Questions? | Call the telephone number listed on your statements and other correspondence or contact us.
+
+| Who we are
+
+| Who is providing this notice? | This notice is provided by certain companies owned by Voya Financial, Inc. A list of these companies is provided at the end of this notice.
+
+| What we do
+
+| How does Voya protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with state and federal law. These measures include computer safeguards and secured files and buildings.
+
+| How does Voya collect my personal information? |
+
+We collect your personal information, for example, when you
+
+- Open an account or give us your contact information
+
+- Apply for insurance or seek advice about your investments
+
+- Tell us about your investment or retirement portfolio
+
+-
+Navigate our website
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+
+| Why can’t I limit all sharing? |
+
+Federal law gives you the right to limit only
+
+- Sharing for affiliates’ everyday business purposes — information about your creditworthiness
+
+- Affiliates from using your information to market to you
+
+- Sharing for nonaffiliates to market to you
+
+State laws and individual companies may give you additional rights to limit sharing.
+
+| What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.
+
+| Definitions
+
+| Affiliates |
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+- Our affiliates include companies with the Voya name; financial companies such as Voya Retirement Insurance and Annuity Company; and nonfinancial companies such as Voya Services Company.
+
+| Nonaffiliates |
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. Nonaffiliate sharing may include:
+
+- Your current representative may transfer his or her securities registration to another financial services company, or an unaffiliated representative may purchase your representative's securities business, should your representative leave Voya. Voya may share your personal information and account information with these financial services companies or representatives. Your representative's ability to service your account will be restricted if you opt-out or do not opt-in to sharing your personal information. If you are a participant of any employer sponsored plan, your registered representative may be under a contractual agreement that restricts the transfer of your personal information and/or your employer sponsored plan account to the new firm.
+
+- If your account was opened because of your relationship with a third-party financial institution (such as bank, thrift or credit union), Voya may share your personal and account information if your financial institution enters into a new agreement with another broker-dealer.
+
+- Voya may share your personal and account information with other financial services companies that have an existing relationship with your employer or plan sponsor.
+
+| Joint marketing |
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+- Voya does not jointly market.
+
+| Other important information
+
+| If you live in a state where the laws further restrict the sharing of your personal information, we will not share information we collect about you with nonaffiliates, unless the law allows, and we will limit sharing among our affiliates to the extent required by state law. If you are a participant in a retirement plan sponsored by your current or former employer, our contract with your plan sponsor may contain additional instructions on the use or sharing of your personal information.
+
+| Voya affiliates
+
+| This notice is provided by: Benefit Strategies, LLC; Pen-Cal Administrators, Inc.; ReliaStar Life Insurance Company; ReliaStar Life Insurance Company of New York; Security Life Assignment Corporation; Voya Benefits Company, LLC; Voya Capital Corporation, LLC; Voya Financial Advisors, Inc.; Voya Financial, Inc.; Voya Financial Partners, LLC; Voya funds; Voya Funds Services, LLC; Voya Institutional Plan Services, LLC; Voya Institutional Trust Company; Voya Investments, LLC; Voya Investments Distributor, LLC; Voya Retirement Advisors, LLC; Voya Retirement Insurance and Annuity Company.
+
+## Our HIPAA Notice of Privacy Practices
+
+### HIPAA Notice of Privacy Practices for Protected Health Information
+
+The ReliaStar Life Insurance Company
+250 Marquette Avenue, Suite 900
+Minneapolis, Minnesota 55401
+
+To help you understand how we protect your health information, this Notice of Privacy Practices (the "Notice") describes the current privacy policy and practices of ReliaStar Life Insurance Company when health information is collected and maintained in connection with long-term care benefit riders offered with certain life insurance policies. This notice refers to ReliaStar by using the terms “Company” “us” “we” or “our.” While life insurance is not covered under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the long-term care benefit riders are covered under HIPAA. Therefore, information you provide to the Company in connection with the long-term care benefit riders are subject to this Notice. The Company will use and share protected health information of insureds as necessary to carry out payment and health care operations as permitted by law. We are required by law to maintain the privacy of our insureds' protected health information (“PHI”) and to provide insureds with notice of our legal duties and privacy practices with respect to their PHI. We are required to abide by the terms of this Notice so long as it remains in effect. We reserve the right to change the terms of this Notice and to make the new Notice effective for all PHI maintained by us.
+
+#### Uses and Disclosures of Your Protected Health Information
+
+Your Authorization: Except as described in this Notice, we will not use or disclose your PHI, including psychotherapy notes, without written authorization from you. In addition, use or disclosure of psychotherapy notes, or the use or disclosure of PHI for marketing purposes, or disclosure of PHI in a manner that constitutes a sale, requires your authorization. If you do authorize the Company to use or disclose your PHI for another purpose, you may revoke your authorization in writing at any time. If you revoke an authorization, the Company will no longer use or disclose your PHI in the manner covered by that authorization, except to the extent that the Company has taken action in reliance on the authorization.
+This section describes uses and disclosures of your PHI that we may make that do not require authorization.
+
+Uses and Disclosures for Payment: The Company will make uses and disclosures of your PHI as necessary and as permitted by law for payment purposes. For example, we may use information regarding your medical procedures and treatment to process and pay claims or to determine whether services are covered under the long-term care benefit rider. The Company may also forward such information to another health plan, which may also have an obligation to process and pay claims on your behalf.
+
+Uses and Disclosures for Health Care Operations: The Company will use and disclose your PHI as necessary, and as permitted by law, for our health care operations. This includes enrollment, underwriting, policy issuance, securing reinsurance, customer service, and other activities relating to the creation and servicing of your insurance coverage, compliance, auditing, rating, fraud and abuse detection, business management and general administrative activities, quality improvement and assurance, and other functions related to the long-term care benefit rider. Such activities may involve our use of third parties that perform services for us. When we hire other parties to help us conduct our business, we require them to protect your PHI. Further, we do not permit them to use or share your PHI for any purpose other than performing services for us.
+
+Payment of Claims: We may use and disclose PHI to pay benefits under the policy. For example, we may review PHI contained in claims to pay eligible benefits to the policy owner for qualified LTC services.
+
+Other Health-Related Products: We may use or disclose your PHI to offer you upgrades to your long-term care benefit rider, or other products or services which may be available to you because you are a policyholder with a long-term care benefit rider.
+
+Other Uses and Disclosures: We are permitted to disclose your Protected Health Information as described below without your authorization, although we anticipate any such disclosure to be quite rare:
+
+- To a legally authorized public health authority for public health purposes;
+
+- To a public health or other appropriate government authority authorized to receive reports of child abuse or neglect;
+
+- To a person subject to the jurisdiction of the Food and Drug Administration for purposes related to the quality, safety or effectiveness of FDA-regulated products or activities;
+
+- If authorized by law, to a person who may have been exposed to or at risk of contracting a communicable disease or condition;
+
+- To a government authority when there is reason to suspect abuse, neglect, or domestic violence;
+
+- To a health oversight agency for authorized oversight activities;
+
+- If authorized by law for judicial and administrative proceedings;
+
+- For law enforcement purposes; and
+
+- To a coroner or medical examiner, a funeral director, or for organ or tissue donation purposes.
+
+Your Rights: You have rights related to your protected health information that are described below. All communication and requests regarding those rights, where applicable, can be submitted at www.Voya.com, mailed to ReliaStar Life Insurance Company, 250 Marquette Avenue, Suite 900, Minneapolis, MN 55401 ATTN: HIPAA Privacy Officer, or emailed to HIPAAPrivacyOfficer@voya.com.
+
+Access to Your PHI: You have the right to copy and/or inspect protected health information in certain records that we retain on your behalf, including your application, billing, and benefit statements, claim forms, policy change requests, and records relating to your health or medical condition or treatment. We may charge you a reasonable, cost-based fee for any copies you request and mailing charges.
+
+Amendments to Your PHI: You have the right to request that certain PHI that we maintain about you be amended or corrected. We are not obligated to make all requested amendments but will give each request careful consideration. All amendment requests must state the reasons for the amendment/correction request. If we make an amendment or correction you request, we may also notify others who work with us and have copies of the uncorrected record, if we believe that such notification is necessary. Please understand that we will not amend PHI that we did not create, unless we are notified of the need for amendment by the entity that created it. For example, requests to amend information in your medical records need to be directed to the medical provider or facility that created the information.
+Accounting for Disclosures of Your PHI: You have the right to receive an accounting of certain disclosures we make of your PHI. The first accounting in any 12-month period is free; you may be charged a reasonable, cost-based fee for each subsequent accounting you request within the same 12-month period.
+
+Restrictions on Use and Disclosure of Your PHI: You have the right to request restrictions on certain of our uses and disclosures of your PHI for payment or health care operations. Your request must describe in detail the restriction you are requesting. We are not required to agree to your request for a restriction.
+
+Requesting Confidential Communication of Your PHI: You have the right to request that communications regarding your PHI from us be delivered by alternative means or at alternative locations. We will accommodate reasonable requests, such as instructions that messages not be left on voice mail or sent to a particular address.
+
+SUD Treatment Information: If we receive or maintain any information about you from a substance use disorder treatment program that is covered by 42 CFR Part 2 (a “Part 2 Program”) through a general consent you provide to the Part 2 Program to use and disclose the Part 2 Program record for purposes of treatment, payment or health care operations, we may use and disclose your Part 2 Program record for treatment, payment and health care operations purposes as described in this Notice. If we receive or maintain your Part 2 Program record through specific consent you provide to us or another third party, we will use and disclose your Part 2 Program record only as expressly permitted by you in your consent as provided to us. In no event will we use or disclose your Part 2 Program record, or testimony that describes the information contained in your Part 2 Program record, in any civil, criminal, administrative, or legislative proceedings by any Federal, State, or local authority, against you, unless authorized by your consent or the order of a court after it provides you notice of the court order.
+
+Notification Following a Breach of Unsecured PHI: You will receive notifications from the Company in the event of a breach of your PHI.
+Complaints: If you believe your privacy rights have been violated, you can file a complaint in writing with our HIPAA Privacy Officer at the email or physical address listed at the end of this Notice. You may also file a complaint in writing with the Secretary of the U.S. Department of Health and Human Services in Washington D.C. within 180 days of a violation of your rights. You will not be penalized for filing a complaint.
+
+Changes to This Notice: We reserve the right to change the terms of this notice at any time. A copy of the revised notice will be posted at www.Voya.com.
+
+More Information: If you have questions about this Notice, wish to request a paper copy of this Notice, or need further information about this Notice, please send your request to: ReliaStar Life Insurance Company, ATTN: HIPAA Privacy Officer, 250 Marquette Avenue, Suite 900, Minneapolis, Minnesota 55401.
+
+This Notice is effective as of September 1, 2025.
+
+If you have questions or concerns about Voya’s Privacy Notice and practices, call the telephone number listed on your statements and other correspondence or contact us.
+
+## Please refer to the section below for downloadable Privacy Notices
+
+View a PDF version of the Voya Financial Privacy Notice.
+
+If you are a client of Benefitfocus, visit the Benefitfocus privacy notice.
+
+If you are a client of ReliaStar Life Insurance Company, view a PDF version of the HIPAA Notice of Privacy Practices.
+
+If you reside in a state with consumer health data privacy laws, please review the Voya Financial Consumer Health Data Privacy Policy.
+
+If you are a client of Voya Investment Management, visit the Voya Investment Management Privacy Notice.
+
+If you are a client of Venerable Insurance and Annuity Company, visit the Venerable Insurance and Annuity Company Privacy Notice.
+
+If you are a client of Security Life of Denver Insurance Company (SLD) or Midwestern United Life Insurance Company (MULIC), view a PDF version of the SLD Privacy Notice.

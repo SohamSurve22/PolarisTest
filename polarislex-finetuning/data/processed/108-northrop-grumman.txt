@@ -1,0 +1,299 @@
+# Northrop Grumman Privacy Policy
+
+Privacy Policy Home Suppliers U.S. Employees US Applicants International Applicants Visitors Website
+
+Effective May 23, 2022
+
+Last Updated March 11, 2025
+
+We at Northrop Grumman (“we”, “us”, “our”, “Northrop Grumman”) respect your concerns about privacy. Northrop Grumman, through our independent regional subsidiaries (“subsidiaries”), provides various programs, features and services. Some of our services adopt different privacy statements or notices that supplement this statement in accordance with local or regional privacy laws. This Privacy Notice (“Notice”) is intended to provide you with the information that you need to understand how we may process your Personal Information.
+
+This Notice is supplemented by sections which provide further information related to the processing of your information depending on the relationship or interaction you may have with us. Please be aware that not all sections will be relevant to you. The Data Controller may vary depending on how you interact with Northrop Grumman, our subsidiaries, and our services. If you are unsure which Data Controller controls your data or if you have any questions, please do not hesitate to contact us using one of the means provided in the “How to Contact Us” section below.
+
+This Notice describes the types of Personal Information we may collect, how we use the information, with whom we share it and the choices available to individuals regarding our use of the information. We also describe the measures we take to protect the security of the information and how individuals can contact us about our privacy practices.
+
+This Notice uses certain terms that have the meaning given to them in the California privacy laws. This notice is also applicable to California residents employed by Northrop Grumman.
+
+- Suppliers and Subcontractors
+
+- US Employees
+
+- US Applicants and Prospects
+
+- International Applicants and Prospects
+
+- Visitors to our Locations
+
+- Website Users
+
+Northrop Grumman may collect information directly from you or from third parties where we are offering services. We may obtain the following categories of Personal Information about you. The following examples are not exhaustive and are intended to illustrate the categories and types of information we process:
+
+- Contact Information (such as name, postal address, telephone number and email address)
+
+- Transaction Information (such as details of your inquiry to Northrop Grumman, marketing preferences)
+
+- Professional or Employment Information (such as title, division and employer, including military rank)
+
+- Log-in Credentials (such as username, password, time and date of login)
+
+- Sensory Information (such as audio, electronic, visual, thermal, and similar information)
+
+- Other Personal Information found in content that users provide
+
+- Inferences: inferences about customers and suppliers, including their representatives, and employees, and job applicants drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Of the Personal Information collected, we may collect the following categories of Sensitive Personal Information which may have special protections under the laws of your region:
+
+- Log-in Credentials; (such as username, password, time and date of login)
+
+- Identifying Information (such as including ethnicity, citizenship, gender, disability, military and veteran status)
+
+We may use the above categories of personal information and sensitive personal information for certain business and/or commercial purposes, including as described in this table:
+
+| Purposes
+| Categories of Personal Information
+| Legal Basis
+
+| To provide products and services
+| Contact Information; Transaction Information; Professional or Employment Information; Log-in Credentials; Sensory Information
+Consent
+Necessary for the performance of a contract that governs the services we provide
+Necessary for our legitimate interests
+
+| To provide you with support and to respond to your requests or inquiries, including to investigate and address any concerns
+| Contact Information; Transaction Information; Professional or Employment Information; Log-in Credentials
+Consent
+Necessary for the performance of a contract that governs the services we provide
+To operate, evaluate and optimize our business and strategies (including developing new products and services; enhancing and improving our products and services; managing our communications and business relationships; identifying business opportunities and creating profiles to better understand your needs and interests; analyzing our products, services and communications; and performing accounting, auditing and other internal functions)
+
+| Contact Information; Transaction Information; Professional or Employment Information; Log-in Credentials; Inferences
+
+| To perform data analyses (including analytics, anonymization and aggregation of Personal Information)
+| Contact Information; Transaction Information; Professional or Employment Information
+| Necessary for our legitimate interests
+
+| To protect against, identify, and prevent cybersecurity and other security events, espionage, fraud and other unlawful activity, claims and other liabilities; and prosecuting those responsible
+Contact Information; Transaction Information; Professional or Employment Information;
+Log-in Credentials
+| Necessary for our legitimate interests
+
+| To comply with Northrop Grumman policies
+
+| Necessary for our legitimate interests
+To comply with and enforce applicable legal or regulatory requirements, contractual obligations, relevant industry standards;
+Necessary for us to comply with a legal, obligation
+To respond to law enforcement requests
+
+| Necessary for us to comply with a legal obligation
+To communicate with you about, and administer your participation in, special events, programs, offers, surveys and market research
+Contact Information; Transaction Information; Professional or Employment Information
+Consent
+
+| To send you promotional materials or other communications
+Contact Information; Transaction Information; Professional or Employment Information
+Consent
+To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us is among the assets transferred
+Contact Information; Transaction Information; Professional or Employment Information
+
+We may have collected and used your Personal Information, as described in “Information We Collect” and “How We Use the Information We Collect” sections above, during the 12-month period prior to the effective date of this Statement.
+
+For Personal Information collected during such timeframe, we describe below:
+
+- the categories of sources from which we may have obtained the Personal Information,
+
+- the categories of Personal Information we may have disclosed for a business purpose and the categories of persons to whom we may have disclosed such information, and
+
+- the categories of Personal Information we may have sold or shared to a third party, if any.
+
+Sources of Personal Information
+
+We may have obtained Personal Information about you from various sources, including as described below.
+
+| Categories of Sources of Data Collection
+| Categories of Personal Information
+
+| Directly from you (such as when you provide identifiers to gain access to one of our facilities)
+| Contact Information; Transaction Information; Professional or Employment Information; Log-in Credentials; Sensory Information; Employee Information
+
+| Our subsidiaries
+| Contact Information; Transaction Information; Professional or Employment Information; Log-in Credentials; Employee Information
+
+| Vendors who provide services on our behalf
+
+| Our customers and business partners (such as subcontractors and suppliers)
+
+| Government agencies, law enforcement, courts and regulators
+
+| Cybersecurity information sharing resources
+
+| Social networking services
+| Contact Information; Transaction Information; Professional or Employment Information
+
+| Public databases
+| Contact Information; Professional or Employment Information
+
+.
+Disclosure of Personal Information for a Business Purpose
+
+We may have disclosed certain categories of personal information to certain categories of persons for a business purpose, including as described below.
+
+| Categories of Persons
+| Categories of Personal Information
+
+| Our subsidiaries
+
+| Vendors who provide services on our behalf
+
+| Our customers and business partners (such as subcontractors and suppliers)
+
+| Participants in cyber security information resources (when related to a cyber threat indicator)
+| Contact Information; Transaction Information; Professional or Employment Information
+
+| Government agencies, law enforcement, courts and regulators
+
+| Other parties in the event of a corporate transaction, such as an acquisition, merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our business or assets, whether as a going concern or as part of a reorganization, spin-off, dissolution, bankruptcy, liquidation, or similar proceeding, in which personal information held by us is among the assets transferred
+
+.
+For a list of relevant service providers, please contact us using one of the means identified in the “How to Contact Us” section below for more information.
+
+Sale or Sharing of Personal Information
+
+Except as described in this Notice, we do not sell or otherwise disclose Personal Information we collect about you to third parties or in exchange for monetary or other valuable consideration. We may also share Personal Information with service providers who perform services on our behalf based on our instructions. We may share certain Personal Information with our affiliates for the purposes described in this Notice.
+
+We offer you certain choices in connection with the Personal Information we collect from you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as indicated in the “How To Contact Us” section of this Notice.
+
+Depending on your region or country, you may have certain rights regarding the handling of your Personal Information. Please select your region or country from below for an explanation of the rights and choices you have under applicable laws regarding your Personal Information:
+
+European Union (EU), Switzerland, South Korea, United Arab Emirates (UAE), Algeria
+
+Subject to applicable law, you have the right to request access to and rectification or erasure of your Personal Information, or the restriction of our use of your information, or to object to such a use. Where you have provided consent for us to process your information, you have the right to withdraw that consent. You have the right to receive, in a structured, commonly used and machine-readable format, the Personal Information about you that you provided to us for the performance of your employment contract, and to transmit this information to a third party organization. You also have the right to reject, object, or request explanations regarding decisions made solely by automated systems, including artificial intelligence systems, that process personal information and substantially impact your rights. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+United Kingdom
+
+Subject to applicable law, you have the right to request access to and rectification or erasure of your Personal Information, or the restriction of our use of your information, or to object to such a use. Where you have provided consent for us to process your information, you have the right to withdraw that consent. You have the right to receive, in a structured, commonly used and machine-readable format, the Personal Information about you that you provided to us for the performance of your employment contract, and to transmit this information to a third party organization. You also have the right to reject, object, or request explanations regarding decisions made solely by automated systems, including artificial intelligence systems, that process personal information and substantially impact your rights. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In the United Kingdom. If you are dissatisfied with our response, you have the right to raise a data protection complaint in writing directly with us in the first instance. We will acknowledge your complaint within 30 days and respond without undue delay. If you remain dissatisfied following our response, you may then escalate your complaint to the ICO: Make a complaint about how an organisation has used your personal information | ICO.
+
+Japan
+
+Subject to applicable law, you have the right to request access to and rectification or erasure of your Personal Information, or the restriction of our use of your Personal Information, or to object to such a use. Where you have provided consent for us to process your Personal Information, you have the right to withdraw that consent. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+Saudi Arabia
+
+Subject to applicable law, you have the right to request access to and rectification or erasure of your Personal Information, or the restriction of our use of your Personal Information, or to object to such a use. Where you have provided consent for us to process your Personal Information, you have the right to withdraw that consent. You have the right to receive, in a structured, commonly used and machine-readable format, the Personal Information about you that you provided to us for the performance of your employment contract, and to transmit this information to a third-party organization. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+Australia, Singapore, Hong Kong
+
+Subject to applicable law, you have the right to request access to and rectification of your Personal Information. Where you have provided consent for us to process your Personal Information, you have the right to withdraw that consent. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+Taiwan
+
+Subject to applicable law, you have the right to request access to and rectification of your Personal Information. You also have the right to object to any and all marketing activities towards you. Where you have provided consent for us to process your Personal Information, you have the right to withdraw that consent. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+India
+
+Subject to applicable law, you have the right to request access to and rectification or erasure of your Personal Information. Where you have provided consent for us to process your Personal Information, you have the right to withdraw that consent. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+California
+
+Subject to applicable law, you have the right to request access to and correction or deletion of your Personal Information. You have the right to receive the requested information in a commonly used machine-readable format to the extent feasible, and to transmit this information to a third-party organization without cost. We will not discriminate against you for exercising any of these rights. You can exercise these rights by contacting us as indicated in the “How to Contact Us” section below. In addition, you have the right to make a complaint with a data protection authority.
+
+How to Submit a Request.
+
+To exercise your rights, you must submit a verifiable request to us using one of the means identified in the “How To Contact Us” section below. Only you, or someone legally authorized to act on your behalf, may make a verifiable request for your Personal Information. If you are a California Resident you may only submit a request twice within a 12-month period. We do not typically charge a fee to process a verifiable request. If we determine that your request warrants a fee due to its nature, we will explain our rationale for assessing a fee and provide you with a cost estimate before completing your request.
+
+To exercise your rights as a data subject or consumer, please click the link below:
+
+Global Data Subject Access Form
+
+We may transfer the Personal Information we collect about you to recipients in countries other than the country in which the information originally was collected, including the U.S. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your Personal Information to recipients in other countries (such as the U.S.), we will protect that information as described in this Notice.
+
+If you are located in the European Economic Area (“EEA”), the United Kingdom (“UK”), or Switzerland, we comply with applicable legal requirements by protecting your Personal Information when it is transferred to countries outside of the EEA, the United Kingdom or Switzerland that have not been recognized by either the European Commission or the United Kingdom as providing an adequate level of data protection. The steps we take include concluding data transfer agreements incorporating the European Commission’s Standard Contractual Clauses or the United Kingdom’s International Data Transfer Agreement with the relevant data recipient or ensuring that the data recipient has implemented Binding Corporate Rules. You may obtain a copy of these agreements by contacting us as indicated in the “Contact Us” Section below.
+
+Further, Northrop Grumman and its U.S. subsidiaries complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Northrop Grumman and its U.S. subsidiaries has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Northrop Grumman and its U.S. subsidiaries has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. View our EU-U.S. and Swiss-U.S. Data Privacy Framework Privacy Notices and our participating US subsidiaries. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Northrop Grumman commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/DPF-Dispute-Resolution for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, as more fully described on the U.S Department of Commerce’s website, you may invoke binding arbitration when other dispute resolutions procedures have been exhausted.
+
+Northrop Grumman is responsible for the processing of personal data it receives under the Frameworks (EU-US DPF and the UK Extension, Swiss-EU DPF) and subsequently transfers to third parties acting as an agent on its behalf. Northrop Grumman complies with the Frameworks’ applicable principles for all onward transfers of personal data from the EU, the UK, and Switzerland, including the onward transfer liability provisions.
+
+Personal information that is shared with third party processors in Canada is done so under the adequacy decision granted by the European Commission in 2001 declaring that Canada’s Personal Information Protection and Electronic Documents Act (the “PIPEDA”) provided an adequate level of protection for personal data transferred from the EU to organizations in Canada.
+
+If you are located outside the EEA, the United Kingdom or Switzerland, you acknowledge that we may transfer the information to countries in which the laws may not offer the same level of data protection as the laws of your own country.
+
+We maintain appropriate technical and organizational safeguards designed to protect your Personal Information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We also require our service providers with whom we share your Personal Information to do the same.
+
+Northrop Grumman will retain your Personal Information only for a period reasonably necessary to fulfil the legitimate purposes for which it was collected, in alignment with our business needs, unless a longer retention period is required or permitted by applicable law, regulation or contractual obligation. When determining how long to retain Personal Information, we take into account the necessity of the Personal Information for the provision of our purposes, applicable laws and regulations, and compliance with our legal, regulatory or contractual obligations. We may retain data to establish, exercise or defend against legal claims. When retention of the Personal Information is no longer necessary for a legitimate purpose, the information will be deleted or anonymized.
+
+Our Sites may provide links to third-party websites for your convenience and information. These websites may operate independently from Northrop Grumman. This General Notice only applies to Personal Information collected on this website and does not apply to your use of a third-party site. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked websites are not owned or controlled by us, we are not responsible for the websites’ content, any use of the websites, or the privacy practices of the websites, even though you may enter that site directly from visiting our website.
+
+This General Notice may be updated periodically, and without prior notice to you, to reflect changes in our Personal Information practices. We will post the updated version on our website and indicate at the top of the notice when it was most recently updated.
+
+If you have any questions or comments about this Notice or the ways in which we collect, use and protect your Personal Information described here, or if you wish to exercise the rights and choices you may have available under applicable law, or want to request this Notice in an alternate form, please contact us using one of the methods described below:
+
+Online Form: Global Data Subject Access Form
+
+Email: privacy@ngc.com
+
+Mail:
+
+Northrop Grumman Systems Corporation
+
+Attn: Privacy Office
+
+2980 Fairview Park Drive
+
+Falls Church, VA 22042
+
+Call: 1-855-737-8364
+
+- Northrop Grumman International Asia Services, Inc.
+
+- Northrop Grumman International Middle East Services, Inc.
+
+- Adaptive Optics Associates, Inc.
+
+- Amherst Systems, Inc.
+
+- Orbital Sciences, LLC
+
+- Northrop Grumman Innovation Systems, LLC
+
+- ATK Space Systems, LLC
+
+- ATK Launch Systems, LLC
+
+- Sonoma Photonics, Inc.
+
+- Northrop Grumman Worldwide Enterprise Corp.
+
+- Northrop Grumman Overseas Holding, Inc.
+
+- Northrop Grumman Holding, Inc.
+
+- Northrop Grumman Electronic Systems International, Inc.
+
+- Cutting Edge Optronics, Inc.
+
+- Northrop Grumman International Trading, Inc.
+
+- Northrop Grumman Systems Corporation
+
+- NGC International, Inc.
+
+- Northrop Grumman International Services Company, Inc.
+
+- Northrop Grumman Information Technology Global Corp.
+
+- Northrop Grumman ISS International, Inc.
+
+- Orbital International LLC
+
+- Space Logistics LLC
+
+- Alliant Techsystems Operations LLC
+
+- Northrop Grumman Global Services, Inc.
+
+- Scaled Composites LLC
+
+- Alliant Techsystems Operations LLC
+
+- Northrop Grumman Overseas Services Corporation

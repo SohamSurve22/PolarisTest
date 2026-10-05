@@ -1,0 +1,167 @@
+none
+
+Global Privacy Notices
+
+none
+
+none
+
+Learn more about our global commitment to privacy and select the region that corresponds to your geographical location.
+
+LEARN MORE
+
+LEARN MORE Opens in same window
+
+_self
+
+none
+
+chevron
+
+after
+
+false
+
+none
+
+style
+
+grid-section, grid-cols-4, order-1
+
+language
+
+none
+
+style
+
+grid-container, regular-padding, padding-bottom, bg-f1f3ff, content-regular
+
+language
+
+none
+
+Team members group discussion
+
+false
+
+false
+
+Team members group discussion
+
+none
+
+style
+
+grid-section, grid-cols-6, order-1
+
+language
+
+none
+
+style
+
+grid-section, grid-cols-1, order-2
+
+language
+
+none
+
+# We honor your choices
+
+none
+
+none
+
+When it comes to your Personal Data, you have choices. AbbVie honors those choices. Your decisions include having the ability to update your communication and marketing preferences, the cookies used on our websites or request access to the Personal Data relating to you.
+
+You may have the right to deny, block, or delete Personal Data, which includes withdrawing your consent at any time. If AbbVie is unable to undo these privacy requests, users will receive information regarding AbbVie’s decision and next steps.
+
+style
+
+grid-section, grid-cols-5, order-3
+
+language
+
+none
+
+Women operating laptop
+
+false
+
+false
+
+Women operating laptop
+
+none
+
+style
+
+grid-section, grid-cols-6, order-4
+
+language
+
+none
+
+style
+
+grid-section, grid-cols-1, order-5
+
+language
+
+none
+
+# Committed to your privacy
+
+none
+
+none
+
+We are committed to protecting your privacy, and being transparent with how we use your data.
+
+- We comply with international data-transfer restrictions and requirements for data collected from website users outside of the United States. Personal Data shared across International borders
+
+- We use cookies to improve user experiences on our websites and, in some cases, to deliver personalized content. You may set your cookie preferences. Get more about our cookies policy
+
+- For California residents, we do not “sell” your Personal Data as defined under California law. Learn more
+
+style
+
+grid-section, grid-cols-5, order-6
+
+language
+
+none
+
+# We prioritize your security
+
+none
+
+false
+
+none
+
+none
+
+Information shared with AbbVie is protected against risks and potential data loss. AbbVie maintains appropriate technical, administrative, and physical controls to reasonably safeguard any Personal Data collected through AbbVie Relationships. However, there is always some risk that an unauthorized third party could intercept an Internet transmission, or that someone will find a way to thwart our security systems. We urge you to exercise caution when transmitting Personal Data over the Internet, especially your health-related information. We cannot guarantee that unauthorized third parties will not gain access to Personal Data about you; therefore, when submitting Personal Data to us, you must weigh both the benefits and the risks.
+
+We will only keep Personal Data as long as necessary for the fulfillment of the purposes outlined in this Privacy Notice, except if otherwise required by applicable laws or legal orders. The criteria used to determine our retention periods include (i) the length of time we have an ongoing Abbvie Relationship with you; (ii) whether there is a legal or best practice retention obligation to which we are subject; and (iii) whether retention is needed in light of litigation or regulatory investigations.
+
+style
+
+content-regular, container-medium, height-short, no-bottom-margin
+
+language
+
+none
+
+false
+
+none
+
+style
+
+content-wide, no-bottom-margin
+
+language
+
+none

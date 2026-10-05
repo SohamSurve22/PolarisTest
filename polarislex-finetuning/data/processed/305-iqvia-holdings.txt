@@ -1,0 +1,287 @@
+# Our Difference
+
+## Online Privacy Policy
+
+Effective Date: January 23, 2026
+
+At IQVIA, we are strongly committed to protecting your privacy. You can navigate the majority of our websites without giving us any personal information about yourself. However, sometimes we need additional information about you in order to provide the information or services you are requesting. Your privacy is important to us. To protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+
+##### Scope
+
+This Policy applies to Personal Information that is Processed by IQVIA on IQVIA websites (each a “Site”), mobile applications, and other online offerings (together with any and all future online offerings) operated by or on behalf of IQVIA (the “Services”). “Personal Information” is any information relating to an identified or identifiable natural person. This Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.
+
+To learn more about how we process information in other settings, please review our general Privacy Policy. If you are a California resident, you can review our California Privacy Addendum for additional rights that may apply to you. Additionally, if we process your “consumer health data” under Washington’s My Health My Data Act or a similar health privacy law in another jurisdiction, please review our Consumer Health Data Policy.
+
+##### Topics
+
+-
+What information do we collect about you?
+
+- The way we use your information
+
+- Do we share your information?
+
+- Our commitment to data security
+
+- Cookies, log files, and other technologies
+
+- Analytics and Targeted Advertising
+
+- Your Privacy Choices
+
+- Our commitment to children's privacy
+
+- Texas Data Broker
+
+- Data retention
+
+- Other third party websites
+
+- International users and transfers
+
+- Notification of changes
+- How to contact us
+
+- Available translations
+
+##### What information do we collect about you?
+
+- We may collect the following types of Personal Information from you through this Site: name, title, contact details, including e-mail address, and telephone numbers. We also may collect additional information when you register to access services available through our network of websites.
+
+- On some pages, you may opt to provide us information about yourself, for example, if you are interested in (a) an employment opportunity at IQVIA; or (b) having IQVIA participate at your event. The information requested from you will be based on your area of interest.
+
+- On occasion, IQVIA may request that you voluntarily participate in a survey or poll such as feedback on website content or services. Your responses will be anonymous, unless you opt in to being contacted by email to provide further information regarding the survey.
+
+- In order to improve the design and content of our Site, to enable us to better personalize your user experience, and for other purposes outlined in this Policy, we may collect certain technical information about our visitors when you visit our Website pages, such as the IP address or the type of browser you are using, the type of operating system you are using, the domain name of your Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the Services, and other actions taken through use of the Services such as preferences.
+
+- We may receive information about you from other sources, including through third-party services and organizations to supplement information provided by you. This supplemental information allows us to verify information that you have provided to us and to enhance our ability to provide you with information about our business, products, and Services. For example, if you access third-party services, such as Facebook or Twitter, to login to the Services or to share information about your experience with IQVIA, we may collect information from these services.
+
+- From time to time, we may provide Services that are specifically designed to be compatible with and used on mobile devices. IQVIA will collect certain information (including Personal Information) that your mobile device sends when you use such Services, like a device identifier, user settings and the operating system of your device. Mobile versions of IQVIA’s Services may require that users log in with an account. In such cases, information about use of mobile versions of the Services may be associated with user accounts. In addition, we may enable you to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to IQVIA to enable you to access user accounts and to enable us to track use of these tools. Some of these tools may enable you to email reports and other information from the tool. IQVIA may use Personal Information or non-identifiable information transmitted to us to enhance these tools, to develop new tools, for quality improvement, and as otherwise described in this Policy or in other notices IQVIA provides. IQVIA may also collect log data from other devices that you use to interact with the Site, such as connected televisions.
+
+- The information that we collect about you, as described in this Policy, may include Sensitive Personal Information. Sensitive Personal Information is a category of Personal Information that reveals or is processed to uniquely identify a person, including:
+
+- All government-issued identification numbers (including US Social Security numbers, EU Social Security numbers, Canadian Social Insurance numbers, driver’s license numbers, and passport numbers);
+
+- All financial account numbers (bank account numbers, credit card numbers, and other information if that information would permit access to a financial account);
+
+- Reports of individual background checks;
+
+- Data elements revealing race, ethnicity, national origin, political opinion, religious or philosophical beliefs, trade union membership, citizenship or citizenship status, any information that concerns sex life or sexual orientation, or information relating to the commission of a criminal offense.
+
+- Precise geolocation data related to workplace locations of healthcare professionals;
+
+- Any other category of information that is regulated as sensitive data or sensitive personal information under applicable data protection laws.
+
+##### The way we use your information
+
+We acquire, hold, use, and process Personal Information based on the legal grounds and for the legitimate business purposes outlined in this Policy or as otherwise clearly identified at point of collection. Our legitimate business purposes for processing Personal Information include:
+
+- To provide products, Services, and information requested: We use your Personal Information to enable you to receive access to our products and services on-line, obtain information about our products and services and receive updates, participate in surveys or questionnaires posted on our Site, provide you with opportunities to learn about our other products, programs, or services that we believe may be of interest to you, and to enable us to respond to your requests.
+
+- For administrative purposes: We also may use your Personal Information for our administrative purposes, such as to measure interest in and/or develop our services, ensure internal quality control, comply with regulatory requirements, prevent potentially prohibited or illegal activities, and enforce the IQVIA Terms and Conditions of Use (“Terms”). We may also share the personal information of the employees of our customers in order for our customers to evaluate our Services.
+
+- To market our products and Services: Our use of Personal Information may also include providing you with materials about offers, products, and Services that may be of interest, including new content or Services. IQVIA may provide you with these materials by phone, postal mail, facsimile, or email, as permitted by applicable law.
+
+- For research and development: IQVIA may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. From time to time, IQVIA may perform research (online and offline) via surveys. We may engage third party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If you participate in a survey, the information given will be used along with that of other study participants. We may share anonymous individual and aggregate data for research and analysis purposes.
+
+- For marketing purposes: Individuals who provide us with Personal Information, or whose Personal Information we obtain from third parties, may receive periodic emails, newsletters, mailings, or phone calls from us with information on IQVIA’s or our business partners’ products and services or upcoming special offers/events we believe may be of interest. In some cases, we may only contact you with your permission and we always offer the option to decline these communications at no cost to the individual by following the instructions below.
+
+- Marketing, advertising, and data analytics services. IQVIA may use the Personal Information that we receive and collect, including information from websites or mobile devices (or other devices), web and mobile logs, and connected television data, to provide marketing and advertising services to customers. These services can include creating create online, mobile or other consumer audiences, represented by Personal Information grouped together based on common interests or preferences (“Data Segments”). IQVIA may also use Personal Information to help marketers and other data platforms in “cross-channel” or “cross-device” marketing, which may involve linking Personal Information and browsers or devices to the same user (based on inferences we have made), so that a marketer can find and remarket to their same audiences through web-based, mobile, or other advertising channels. IQVIA may also use your Personal Information to help marketers reach audiences by “onboarding” their offline data online for digital advertising purposes such as display advertising. When IQVIA does this, IQVIA often works with partners that de-identify this data and connect it in de-identified fashion to display media, or other marketing channels. IQVIA may use your Personal Information for other marketing and advertising purposes, which may include market research, media campaign measurements, verification, data or audience analytics, and data modeling.
+
+- Other purposes: IQVIA may use Personal Information for other purposes for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide Personal Information and/or with your consent.
+
+- To create anonymous and/or aggregated information:IQVIA may use Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access IQVIA’s Services, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Anonymized or aggregated information is not Personal Information, and we may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within IQVIA and with third parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
+
+- Information you submit via the Services:You agree that IQVIA is free to use the content of any communications submitted by you via the Services, including any ideas, inventions, concepts, techniques, or know-how disclosed therein, for any purpose including developing, manufacturing, and/or marketing goods or Services. IQVIA will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so; (b) we first send notice to you that the materials or other information you submit to a particular part of a Service will be published or otherwise used with your name on it; or (c) we are required to do so by law.
+
+- Our commercial purposes: We may choose to rent, release, disclose, disseminate, make available, or sell any of the Personal Information or Sensitive Personal Information described in the “What information do we collect about you?” section, above, to our business partners, affiliates, subsidiaries, and successors (as described below) in return for monetary or other valuable consideration. We may use your Personal Information for purposes of targeted advertising. We do not use your Personal Information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects.
+
+Please note that in certain jurisdictions (such as in Canada, the EU, and the UK), we implement additional protections (such as by obtaining consumer consent in relation to the use cases described above) to ensure that our data processing activities are in compliance with applicable law.
+
+##### Do we share your information?
+
+We may share any of the Personal Information described in the “What information do we collect about you?” section, above, as described in this Policy (e.g., with our third-party service providers; to comply with legal obligations; to protect and defend our rights and property) or with your permission.
+
+- Vendors and Service Providers:We may share any information we receive with vendors and service providers. The types of service providers (processors) to whom we entrust Personal Information include service providers for: (i) provision of IT and related services; (ii) provision of information and services you have requested; (iii) payment processing; (iv) customer service activities; and (v) in connection with the provision of the Site. IQVIA has executed appropriate contracts with the service providers that prohibit them from using or sharing Personal Information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
+
+- Business Partners:IQVIA may share Personal Information with our business partners, affiliates, and for our affiliates’ internal business purposes, to provide you with a product or service that you have requested, or for our commercial purposes. We may also provide Personal Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner’s name will appear, along with IQVIA’s. IQVIA requires our affiliates and business partners to agree in writing to maintain the confidentiality and security of Personal Information they maintain on our behalf and not to use it by any means or for any purpose other than the means and purpose for which we provided it to them. Further, IQVIA may share with its customers the names of a customer’s employees who utilize IQVIA services if and to the extent necessary to enable the customer to evaluate our Services.
+
+- Displaying to Other Users: The content you post to the Site may be displayed on the Site if you submit a review. In such case, other users of the Site may be able to see some information about you, such as your name. We are not responsible for privacy practices of the other users who will view and use the posted information.
+
+- Marketing, Interest-Based Advertising, and Third-Party Marketing: Through our Services, IQVIA may allow third party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day). We may also share such de-identified information as well as selected Personal Information (such as demographic information and past purchase history) we have collected with third party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-IQVIA-related websites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising”. Subject to applicable law, we may allow access to other data collected by the Site to facilitate transmittal of information that may be useful, relevant, valuable, or otherwise of interest to you. If you prefer that we do not share your Personal Information with third party advertising partners, you may opt-out of such sharing at no cost by following the instructions below.
+
+- Analytics Providers: We may disclose your personal information with analytics providers, as we elaborate on below.
+
+- Disclosures to Protect Us or Others (e.g., as Required by Law and Similar Disclosures): We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) protect yours’, ours’ or others’ rights, property, or safety; (iv) to enforce IQVIA policies or contracts; (v) to collect amounts owed to us; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable. In addition, from time to time, server logs may be reviewed for security purposes – e.g., to detect unauthorized activity on the Services. In such cases, server log data containing IP addresses may be shared with law enforcement bodies in order that they may identify users in connection with their investigation of the unauthorized activities.
+
+- Merger, Sale, or Other Asset Transfers: If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. Should such an event occur, IQVIA will endeavor to direct the transferee to use Personal Information in a manner that is consistent with the Policy in effect at the time such Personal Information was collected, and will comply with any legal or regulatory additional requirements applicable to those transfers.
+
+We may also share your Personal Information to the extent reasonably necessary to: (i) correct technical problems and malfunctions; (ii) protect the security and integrity of our Site; (iii) protect our rights, interests and property and the rights, interests and property of others; (iv) comply with laws or respond to judicial process; or (v) provide information to law enforcement agencies or for an investigation of a matter as applicable, or otherwise as required or permitted by law.
+
+##### Our commitment to data security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+
+By using the Site or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. If we learn of a security system’s breach, we may attempt to notify you electronically, by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing.
+
+##### Cookies, log files and other technologies
+
+We receive IP addresses in the normal course of the operation of our Site. An IP address is a number assigned to you by your Internet service provider so you can access the Internet.
+
+We, as well as third parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through the Services. We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, and tools, and to recognize you across devices.
+
+- Cookies: A cookie is a piece of data or file that a website can send to your browser, which may then store it on your computer system. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly or you may not be able to receive personalized content. IQVIA may use cookies on our Site in order to:
+
+- provide access to our content: for example, allow you to personalize your experience by keeping you logged in, accessing information, products, and services relevant to your areas of interest.
+
+- show adverts that are more relevant to you: for example, with your consent, we use tracking technologies to remember content that has interested you. Cookies will also help limit the number of times that you see an ad, measure the effectiveness of advertising campaigns and help us and others track whether ads have been properly displayed. We also allow other organizations to use tracking technologies for these advertising purposes too.
+
+- analyze and improve your browsing experience: for example, to track your session within our Site, so we can learn what content has interested you. We will also use cookies to understand general information about users, such as areas of interest. We also check for bugs and glitches in the content.
+
+- prevent duplication: for example, when voting or participating in surveys.
+
+- Pixel tags/Web beacons: A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+
+-
+SDKs and mobile advertising IDs. We may also work with partners who use mobile “SDKs” (software development kits) to collect information about how users interact with mobile apps, platforms, and systems, including third party ad networks. The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, or to optimize or improve their apps in other ways. These SDKs may collect (and provide to us) information such as mobile identifiers (e.g., Apple IDFAs and Android Advertising IDs), and information about what apps a user engages with, mobile devices information, and how users interact with ads.
+
+- Social Media Features: Our Site includes social media integrations such as the Facebook “Like” button and LinkedIn (that might include widgets such as the “share this” button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+##### Analytics and Targeted Advertising
+
+We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. You can opt out of Google’s collection and processing of data generated by your use of the Services by going to http://tools.google.com/dlpage/gaoptout. Our uses of such Technologies fall into the following general categories:
+
+- Operationally Necessary. We may use cookies, web beacons, or other similar technologies that are necessary to the operation of our sites, services, applications, and tools. This includes technologies that allow you access to our sites, services, applications, and tools; that are required to identify irregular site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions, such as shopping-carts, saved search, or similar functions;
+
+- Performance Related. We may use cookies, web beacons, or other similar technologies to assess the performance of our websites, applications, services, and tools, including as part of our analytic practices to help us understand how our visitors use our websites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools;
+
+- Functionality Related. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools. This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites;
+
+- Advertising or Targeting Related. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our sites or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
+
+If you would like to opt-out of the Technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by opting out here, or of companies participating in the Digital Advertising Alliance by opting out here.
+
+##### Your Privacy Choices
+
+Depending on your jurisdiction, you may also have certain legal rights in relation to the processing of your Personal Information. These rights may include:
+
+- The right to confirm whether your personal information is being processed and to access such data, including any inferences derived from such data;
+
+- The right to obtain a copy of your personal information in a portable, readily usable format;
+
+- The right to correct or amend any personal information we have on file about you;
+
+- The right to delete your personal information;
+
+- The right to limit the use of your “sensitive” personal information;
+
+- The right to opt-out of the sale or “sharing” of your personal information;
+
+- The right to obtain a list of specific third parties (or categories of third parties) to which your personal information has been disclosed;
+
+- The right to opt-out of the use of your personal information for targeted advertising purposes;
+
+- The right to restrict or object to the processing of your personal information (such as for direct marketing purposes);
+
+- The right to restrict the use of your personal information for certain automated decision-making (including profiling in furtherance of decisions that produce legal or similarly significant effects);
+
+- The right to question and challenge the results of profiling in furtherance of decisions that produce legal or similarly significant effects; and
+
+- The right to revoke your consent (to the extent applicable).
+
+All of these rights are subject to certain exceptions under applicable law.
+
+To exercise any of these rights, please fill out this webform or contact us by email at privacyofficer@iqvia.com with your name, physical address, email address, the email address associated with your interactions with IQVIA (if different), telephone number, and details about your interactions with IQVIA (including whether you are a patient or a healthcare professional). You may also designate an authorized agent to submit a request on your behalf. To designate an agent, please also send us a written and signed document by both you and the agent that authorizes the agent to act on your behalf. You may also use a power of attorney. Please note that we will still require you to provide sufficient information to allow us to reasonably verify that you are the person about whom we are receiving a request. We will respond to any request you submit in the time period required by applicable law and will allow you to appeal any decision we make in response to such request in accordance with applicable law. Appeals may be submitted to privacyofficer@iqvia.com.
+
+If you have implemented an opt-out preference signal (sometimes known as a global privacy control) through your browser or device, we will treat that opt-out preference signal as a valid request to exercise the opt-out rights available to you under your jurisdiction’s privacy law(s). Once we recognize the opt-out preference signal on our Services, we will automatically apply your right to opt-out to the browser or device through which we recognize the signal. The Services respond to opt-out preference signals in a frictionless manner (i.e., you do not need to take any additional steps for your opt-out preference signal to be recognized). To learn more about opt-out preference signals, please visit https://globalprivacycontrol.org/.
+
+Although IQVIA makes good faith efforts to provide individuals with access to their Personal Information, there may be circumstances in which IQVIA is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question or where it is commercially proprietary. If IQVIA determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries.
+
+Depending on your jurisdiction, you may also have the right to lodge a complaint with your supervisory authority or challenge our decision with regard to any of your data protection rights. For example, for a list of EU supervisory authorities, please see this directory for contact details: https://edpb.europa.eu/about-edpb/board/members_en.
+
+If you are a California user, you may also have additional rights available to you under the California Consumer Privacy Act. Please review our California Consumer Privacy Act Notice for additional details. California law also permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their Personal Information (if any) for direct marketing purposes in the prior calendar year, as well as the type of Personal Information disclosed to those parties. IQVIA does not share Personal Information with third parties for their own marketing purposes.
+
+If we process your “consumer health data” under Washington’s My Health My Data Act or a similar health privacy law in another jurisdiction, please review our Consumer Health Data Policy. Additionally, if you are an EU, Swiss, or UK resident, please review our EU-US DPF Policy that may provide you with additional information regarding your rights in relation to international data transfers.
+
+##### Our commitment to children's privacy
+
+Protecting the privacy of the very young is especially important. For that reason, we do not intend to collect or maintain information at our Site from those we know are under 13 years of age, and no part of our Site is structured to attract anyone under 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at PrivacyOfficer@IQVIA.com. If we learn that we have collected any Personal Information from children under 13 (and in certain jurisdictions under the age of 16), we will promptly take steps to delete such information and terminate the child’s account. We do not sell or share the data of consumers under the age of 16.
+
+##### Texas Data Broker
+
+IQVIA Digital (a subsidiary of IQVIA Inc., the entity maintaining this website) is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
+
+Please review the “Your Privacy Choices” section, above, for more information on how to exercise your consumer privacy rights.
+
+##### Data retention
+
+The information you provide to us may be archived or stored periodically by us according to backup processes and will only be retained for as long as is required for the purposes for which it was collected, as well as to provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+
+##### Other third party websites
+
+Our Site may contain links to other third party websites. You should carefully review the privacy policies and practices of other websites, as we cannot control or be responsible for privacy policies or practices of third-party websites that are not IQVIA’s websites.
+
+For links to other IQVIA websites, please review the privacy terms on those sites as well, as they may differ from those on this Site.
+
+##### International users and transfers
+
+By using the Site, IQVIA will transfer data to the United States. By choosing to visit the Site, utilize the Services, or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of Delaware and the adjudication of any disputes arising in connection with IQVIA or the Site will be in accordance with the Terms. If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy.
+
+Where information is transferred outside the European Economic Area (“EEA”) to a country that is not subject to an adequacy decision by the EU Commission, data is adequately protected by EU Commission approved standard contractual clauses or another appropriate data transfer mechanism. When appropriate, IQVIA complies with the EU-US Data Privacy Framework (“DPF”), the UK extension to the DPF (“UK Extension”), and the Swiss-U.S. Data Privacy Framework (“Swiss DPF”), respectively, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, UK, and Switzerland to the United States.
+
+You can read more about our compliance with the DPF here.
+
+##### Notification of changes
+We keep our privacy statement under regular review, and we will place any updates on this web page. If you continue to visit this Site and use the services made available to you after such changes have been made, you hereby provide your consent to the changes. If there are any material changes to this Policy, IQVIA will notify you as required by applicable law, including by emailing you at the email address that you have provided to us. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable). If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+
+##### How to contact us
+
+If you wish to access, correct, update, request removal of or exercise your rights in relation to any of your information you provided to us or if you have any questions regarding this statement or would like more information on our privacy practices, please contact us at: PrivacyOfficer@IQVIA.com.
+
+For investor relations queries, please contact ir@iqvia.com.
+
+For queries by post, please write to us at:
+
+83 Wooster Heights Road, Danbury, CT 06810
+
+Or
+4820 Emperor Boulevard, Durham, North Carolina 27703
+
+Available Translations
+
+- Deutsch
+
+- Español
+
+- Italiano
+
+- Nederlands
+
+- Polski
+
+- Português
+
+- Русский
+
+- Svenska
+
+- 日本語
+
+- 中文
+
+- Ελληνικά
+
+- 조선말, 한국어
+
+- ภาษาไทย
+
+- Türkçe
+
+- French
+
+Contact Us
+You are about to exit for another IQVIA country or region specific website
+
+Please be aware that the website you have requested is intended for the residents of particular country or region, as noted on that site.
+
+For this browsing session please remember my choice and don't ask again.

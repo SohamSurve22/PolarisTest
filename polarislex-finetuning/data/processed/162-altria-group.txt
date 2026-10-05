@@ -1,0 +1,200 @@
+# Privacy
+
+Last Updated: June 6, 2025
+
+Altria Group, Inc., along with its affiliates, Philip Morris USA Inc., U.S. Smokeless Tobacco Company LLC, John Middleton Co., Helix Innovations LLC, and NJOY, LLC (together, the affiliates may be referred to as the "Tobacco Companies"), respect your concerns about privacy. This Privacy Statement describes the types of personal information collected by Altria Group, Inc. and its affiliates (individually and collectively "Altria", "we" "us" "our" and how that information is used, disclosed, and safeguarded.
+
+We may update this Privacy Statement periodically in response to changing legal, technical, or business developments. The most current version is always available through our website.
+
+When we update this Privacy Statement, we will post the updated version and change the Last Updated Date above. If there are significant changes to our Privacy Statement that we believe affect your privacy rights, we will post a prominent notice on our website and/or provide other notice as required by law. When required by applicable privacy laws, we will obtain your consent to changes before the revised Privacy Statement applies to you. Please regularly check this Privacy Statement to ensure you are aware of the updated version. Use of our website following such changes constitutes your acceptance of the updated Privacy Statement then in effect.
+
+The Privacy Statement is organized into the following sections:
+
+- Your Personal Information We Collect and How We Use It
+
+- How We Disclose Information About You
+
+- Your Choices for How We Use Your Personal Information
+
+- How We Protect Your Personal Information
+
+- How Long We Retain Your Personal Information
+
+- Links to Third Party Websites
+
+- How to Contact Us
+
+- California Notice at Collection
+
+Your Personal Information We Collect and How We Use It
+
+When we refer to "personal information" (referred to as "personal data" under some laws) in this Privacy Statement, we mean any information that identifies you or can be used to identify you. Listed below are the ways we collect personal information about you, the types of information we collect, and how we use it.
+
+Information You Provide
+
+We collect directly from you the personal information you choose to give us. In the past 12 months, we have collected Identifiers such as your name, street address, zip code, telephone number, email address, and birthdate. Specifically:
+
+- We collect name, zip code, telephone number, and email when you communicate with us through a "Contact Us" page or sign up to receive Email Alerts. We use this information to communicate with you, including to send you information about Altria Group and its companies, to verify your identity, and to provide you information, products, or services you have requested.
+
+- We collect name, street address, zip code, telephone number, email address, and birthdate when you choose to communicate with us about a product quality concern through one of the Product Quality Complaints & Questions functions available on a Contact Us page. We use this information to reply to your message.
+
+- We may also use Identifiers for purposes of detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+
+Certain of our corporate websites offer additional engagement opportunities, including:
+
+- Search bars and/or fillable forms on certain corporate websites. Information you input into the search bar or form is collected, which may include personal information if you choose to provide it.
+
+- At times we provide webcast services through altria.com. If you choose to register for one of these webcasts, we ask you to provide certain information, such as your name and email address, so you may participate in the webcast.
+
+- In the Investors section of altria.com, we offer Investor Tools (such as Share Price Lookup, Total Return Calculator and Dividend Calculator) that allow you to view Altria Group stock information based on criteria you provide. We do not collect any personally identifiable information when you use Investor Tools. These tools allow you to view Altria Group stock information based on criteria you provide.
+
+- From time to time, we may ask you to complete a survey to better understand your opinions. We don't collect any personal information about you when you respond to an online survey unless you specifically provide it to us.
+
+In addition, when you contact us by phone, we may collect Sensory Information (audio).
+
+We do not collect personal information that is deemed “sensitive” under U.S. state privacy laws.
+
+Information We Collect from Your Device
+
+When you visit one of our corporate websites, we, and certain third parties collect information from your device using automated data collection tools, such as:
+
+- Cookies, which are small text files that are placed on the device that you are using when you visit a website and may be used to help a website recognize your device on future visits and enhance or improve your online experience.
+
+- Web beacons (also known as pixel tags), which are a type of technology placed on a website to track certain activity, such as whether a website page has been viewed.
+
+In the past 12 months, we have collected Identifiers such as your Internet Protocol (IP address) and Internet and Network Activity Data such as browsing history, search history, and information regarding your interaction with our websites or applications. The automated data collection tools also collect information about the type of device you’re using, web browser characteristics, language preferences, referring/exit pages, clickstream data, and the dates and times of visits to the website.
+
+We use automated data collection tools to better understand how visitors use our corporate websites and to enhance the online experience of our visitors. We may also use this information for other purposes such as debugging to identify and repair errors that impair existing intended functionality.
+
+Information Collected by Online Analytics Services
+
+We may collect your personal information from third-party web analytics services such as Google Analytics. Google Analytics uses technologies such as cookies to help us analyze how visitors use our corporate websites.
+
+The information collected through these means (including IP address) is disclosed to this analytics provider to help us evaluate use of our corporate websites, including engagement with videos accessible on certain websites such as altria.com, and to diagnose technical issues.
+
+To learn about how Google Analytics collects and processes data and the Google Analytics Opt-out Browser Add-on, you can visit https://policies.google.com/technologies/partner-sites and https://support.google.com/analytics/answer/181881?hl=en.
+
+How We Disclose Information About You
+
+During the 12-month period prior to the last updated date of this Privacy Statement, we may have disclosed your personal information to certain categories of entities, as described below.
+
+- We disclose Identifiers, Sensory Information, and Internet and Network Activity Data to our affiliates or companies in which we have an economic interest.
+
+- We disclose Identifiers and Sensory Information to service providers, consultants, and advisors that perform services on our behalf or on behalf of our affiliates or companies in which we have an economic interest. When we contract with these entities, we do not permit them to use or disclose your information for any purpose other than the work they are doing on our behalf or as required by law.
+
+- We disclose Identifiers and Internet and Network Activity Data to data analytics providers.
+
+- We may disclose Identifiers to acquiring or merging entities in the event of a liquidation, reorganization, merger, consolidation, change of control, asset or stock acquisition/disposition or other corporate combination. Should such an event occur, we will use reasonable efforts to ensure the transferee uses your information in a manner consistent with this Privacy Statement.
+
+- We may disclose Identifiers to government entities and investigatory bodies, including regulatory agencies and law enforcement, if we are required to do so by law or legal process; if we believe there has been a violation of our website policies; when we believe disclosure is necessary or appropriate to prevent injury, harm, or financial loss; or in connection with an investigation of suspected or actual illegal activity.
+
+We do not sell your personal information for monetary consideration. For clarity, we do not sell personal information of minors under 16 years of age. We also do not disclose your personal information for purposes of targeted advertising (also sometimes referred to as “sharing” for cross-context behavioral advertising.)
+
+Your Choices for How We Use Your Personal Information
+
+You can make choices about how we use your personal information.
+
+Your Browser Settings
+
+Your browser may give you the ability to control cookies or other tracking tools. The Help portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to delete existing cookies. Choices you make are browser and device specific. For more information on deleting or controlling cookies, visit www.aboutcookies.org.
+
+To opt-out of Google Analytics, see section above titled "Information Collected by Online Analytics Services."
+
+Do Not Track Requests
+
+Some browsers incorporate a "Do Not Track" (DNT) feature that signals to websites not to track you. Not all browsers offer a DNT option, and DNT signals are not all uniform. For this reason, we do not currently respond to DNT signals.
+
+Email Alerts Service
+
+If you register for our Email Alerts Service on altria.com, you will receive the communications that you've requested. You may review the information you provided or unsubscribe from the service by visiting the Email Alerts page.
+
+Other Choices Under Specific State Laws
+
+Consumer Rights. Depending on where you live, you may have certain rights in your data. We honor these rights according to the requirements of the relevant state law.
+
+- Access: You have the right to request that we confirm whether we have your personal information and, if we do, to provide you access to that data. If we processed your data using automated means, you can also request that we provide you a copy of that data in a portable and readily usable format that allows you to transfer it to another company. In certain jurisdictions, you may also have the right to request a list of the third parties to which we have disclosed personal information.
+
+- Correction: You have the right to request that we correct inaccuracies in the personal information we have collected about you. We may deny certain requests, or fulfill a request only in part, based on our legal rights and obligations.
+
+- Deletion: You have the right to request that we delete certain personal information we have collected from or about you, subject to certain exceptions under the law. In the case of requests submitted online, if we are able to verify your identity (as described below), we may ask you to confirm that you would like your personal information deleted prior to deleting any of your personal information.
+
+How to Submit a Request
+
+You may submit a request to exercise your privacy rights using one of the methods listed here:
+
+- For Altria Group, Inc. online through the Altria Privacy Portal
+
+- For the Tobacco Companies online through the Tobacco Companies Privacy Portal
+
+- By Phone at 1-800-787-6700
+
+Verifying Identity
+
+To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request.
+
+- If you request to access, correct or delete your personal information, we may require you to provide information such as: zip code, email address, and phone number.
+
+- In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+
+Appealing Rejected Requests
+
+If you reside in a state with a right to appeal requests that are rejected, you will receive a notification with the details of the reasons for rejection and instructions about how to make an appeal. An appeal must be submitted within 15 days of receipt of the rejection notice. We will respond to you within 45 days of your appeal submission.
+Authorized Agents
+
+If you reside in California, you can have an authorized agent submit an Access, Correction, or Deletion request on your behalf. If you choose to use an agent, and the agent does not have power of attorney under the California Probate Code, we cannot process the request until:
+
+- The agent provides a copy of your signed permission authorizing the agent to make the request; and
+
+- You verify your identity directly with us, or you provide us direct confirmation that you provided the agent permission to submit the request.
+
+Residents in California and certain other states may authorize another person, acting on their behalf, to opt-out of the sale of the consumer’s personal information or the processing of the consumer’s personal information for targeted advertising. We do not sell personal information for monetary consideration. We do not process personal information for targeted advertising.
+
+Non-discrimination: We will not discriminate against you if you exercise any of your rights under state privacy laws.
+
+How We Protect Your Personal Information
+
+We value keeping your information secure. We maintain technical, administrative, and physical safeguards for our corporate websites that are designed to protect against unauthorized disclosure, use, alteration, and destruction of the information you provide on these sites. We cannot guarantee that your information will be free from unauthorized access by third parties.
+
+How Long We Retain Your Personal Information
+
+We will retain your personal information for the time period reasonably necessary to achieve the purposes described in this Privacy Statement, or any other notice provided at the time of collection, taking into account applicable statutes of limitation and records retention requirements under applicable law.
+
+Links to Third-Party Websites
+
+Our corporate websites may contain links to other websites, some of which are operated by us and others of which are operated by third parties. We provide these links solely for your convenience and information. These sites may have their own privacy notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of these sites, any products or services that may be offered through these sites, or any other use of these sites.
+
+How to Contact Us
+
+If you have any questions or comments about this Privacy Statement, you may contact us by email as follows:
+
+Altria Group, Inc. Email: AltriaPrivacyStatement@consumerconnectioncenter.com
+
+Philip Morris USA Inc. Email: PMUSAPrivacyStatement@consumerconnectioncenter.com
+
+U.S. Smokeless Tobacco Company LLC Email: USSTCPrivacyStatement@consumerconnectioncenter.com
+
+John Middleton Co. Email: JMCPrivacyStatement@consumerconnectioncenter.com
+
+NJOY, LLC Email: NJOYPrivacyStatement@consumerconnectioncenter.com
+
+You may also write to us at:
+
+Altria Client Services LLC
+
+Law Department
+
+2325 Bells Road
+
+Richmond, VA 23234
+
+California Notice at Collection
+
+This Notice at Collection of personal information describes our personal information collection practices, how we use the information, whether we sell or “share” your information, and the length of time we retain personal information.
+
+- What personal information do we collect? We collect the following categories of personal information: Identifiers and Internet and Network Activity Data.
+
+- How do you use my information? We use your personal information for a variety of purposes, including to communicate with you; provide information, products, or services you have requested; and comply with legal obligations.
+
+- Do you sell or share my information? We do not sell your information for monetary consideration, and we do not share your information with third parties for targeted or cross-context behavioral advertising. We disclose your information to third party analytics providers.
+
+- How long do you keep my information? We will retain your personal information for the time period reasonably necessary to achieve the purposes described in this Privacy Statement, or any other notice provided at the time of collection, taking into account applicable statutes of limitation and records retention requirements under applicable law.

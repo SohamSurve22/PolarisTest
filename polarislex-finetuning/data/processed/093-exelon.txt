@@ -1,0 +1,132 @@
+Privacy Policy
+
+Last updated: August 28, 2026
+
+Exelon Corporation, its subsidiaries and affiliated companies, including Atlantic City Electric Company (ACE), Baltimore Gas and Electric Company (BGE), Commonwealth Edison Company (ComEd), Delmarva Power & Light Company (DPL), PECO Energy Company (PECO), Potomac Electric Power Company (Pepco), and their respective subsidiaries (hereinafter referred to collectively as “Exelon” or the “Exelon companies,” “us,” “we,” or “our”), are strongly committed to protecting personal information you provide to us, as well as that of our customers and the users of our websites, mobile applications and products and services, including short code text messaging services (collectively, “Services”). In light of this commitment, we adhere to the practices provided below.
+
+Please read this Privacy Policy carefully. By using Exelon’s websites and mobile applications (each, our “Site”) and/or our Services, you agree to our collection, use, and sharing of your personal information (“PI”), including personally identifiable information (“PII”), as described in this Privacy Policy.
+
+From time to time, we may change this Privacy Policy. When this happens, we will make reasonable efforts to publish such changes. Any changes will become effective immediately upon posting the updated Privacy Policy. Your continued use of our Site represents your consent to the terms of the Privacy Policy as revised. Please regularly check this Privacy Policy for any such updates.
+
+Collecting and Using Personal Information
+
+Your use of our Site and Services may require that you provide certain PI, which is information that identifies you as an individual or relates to you as an identifiable individual. PI may include, but is not limited to, your first and last name, home or business address, email address, and/or telephone number. We may also combine the PI that we collect on our Site with information we collect about you offline.
+
+We may acquire the following types of information:
+
+PI and PII Provided by You
+
+We may collect PI from you when you use our Site and Services. While we do not require you to provide PI to navigate our Site, we must collect certain PI and PII if you choose to use our Services. PII includes information such as your Social Security number, driver’s license number, state identification card number, financial account number, or unique biometric data, when that information is associated with your name. We may also collect PI and PII when you create or modify an online account, complete any self-service transaction with us online, or otherwise provide us with PI and PII in any correspondence. This information may include any of your questions, comments, or suggestions submitted through our Site or if you fill out a survey.
+
+When you provide us with a cell phone number on our Site, you are giving us express written consent to use that number for the purpose indicated, or if given with regard to your utility account or other account with us, you are giving us express written consent to communicate information to you that is closely related to such account. You may revoke this consent at any time by any reasonable method.
+
+Device and Usage Information
+
+We may automatically collect the following types of information as you use our Site:
+
+- Usage Information: We collect certain information automatically through your use of our Site, such as which pages on our Site you access, the frequency of access, information about purchases or other transactions made on our Site, and what you click on while on our Site.
+
+- Location Information: We may collect information about your actual location that may be determined from GPS, other sensors or the IP address from which the Site is accessed that may reveal information on nearby devices, Wi-Fi access points, and cell towers.
+
+- Device Information: We may collect information about the device you are using, such as hardware model, operating system, application version number, browser, and IP addresses.
+
+- Mobile Device Information: In addition to the “Device Information” listed above, when you access our Site via a browser on your mobile device or through the use of one of our mobile applications, we may also collect mobile network information including telephone number, the unique device identifier assigned to that device, mobile carrier, operating system, and other device attributes. You may also grant the application permission to access functions on your mobile device for the operation of our mobile application, which can include telephone, camera, browser, social media apps, authentication features, or GPS.
+
+Cookies and Other Tracking Technologies
+
+“Cookies” are small text files that are stored within your computer’s or mobile device’s memory by a website through your browser. Cookies enable a website such as ours to track your activities on that website, and to improve your use of the website, such as by remembering your preferences. We use the following categories of cookies:
+
+| Necessary | Make a website usable by enabling functions like page navigation, language selection, and access.
+
+| Functional | Provide the functionality and personalization of our website and services.
+
+| Performance |
+
+Allow us and our third-party service providers to analyze usage behavior and performance of our sites and services.
+
+| Marketing | Used to help us and our third-party service providers to deliver advertising that is more relevant to your interests. If you choose not to accept these cookies, you may still see our ads while browsing online, but they will not be tailored to your preferences and may be less relevant to you.
+
+Exelon does not sell PI/PII for monetary value. However, our use of certain website cookies may be considered a “sale” of information under certain laws. You can change your browser settings on your personal computer or mobile device so that these and other non-essential cookies are not stored or select to opt out of specific categories of cookies in our Cookie Manager, linked at the bottom of our websites. If you accept cookies in the Cookie Manager, your selection will override Global Privacy Signals that you may have in your browser for as long as your selection persists. If you reject non-essential cookies, you may still use our Site, but you may not have access to some of our Site’s functions, and your ability to use some areas of our Site may be limited. You can update your choices at any time in the Cookie Manager.
+
+We use Google Analytics, a service provided by Google, with privacy-enhancing settings and data minimization practices intended to prevent the collection and disclosure of identifiable information to analyze usage behavior and performance of our sites and services. Accordingly, we do not knowingly provide Google Analytics with information that directly identifies individuals. You can learn more about Google’s privacy practices by visiting their website at http://www.google.com/policies/privacy/partners/.
+
+We also use the web customer satisfaction survey services of Survale, Usabilla (also known as SurveyMonkey) and Medallia, which is another example of a Performance cookie. You can learn more about each of their privacy practices at https://survale.com/survale-privacy-policy/, https://www.surveymonkey.com/mp/legal/privacy/, and https://www.medallia.com/privacy-policy/, respectively. In addition, we use third-party session replay technologies provided by Medallia. Session replay services employ software code to record an anonymized version of users’ interactions with our Site, which helps us diagnose online experience problems to improve the Site.
+
+If you subscribe to receive our emails, those emails may contain technologies to measure engagement like whether the email was opened and if links were clicked. This information is used to help us improve our communications.
+
+Use of Aggregate Information
+
+Aggregate information is statistical or aggregated information that does not directly identify you or any specific person, but it may be derived from information you provide to us, including PI. For example, we may aggregate PI to calculate the percentage of users in a particular ZIP code.
+
+#### Links to Third-Party Websites; Third-Party Data Collection
+
+There may be content or applications accessible through our Site or via links on our Site provided by third parties, including analytics companies, payment processors, advertising providers and the like. Our Site may also include social media features, such as the Facebook “Like” button and other widgets, such as the “Share” button or interactive mini-applications provided by third parties. These third parties may use cookies or other tracking technologies to collect information about you when you use our Site. The information the third parties collect may be associated with your PI, or they may collect additional information, including PI, about your online activities over time and across different websites and other online services.
+
+There are also certain pages on our Site that are hosted by third parties. For example, https://jobs.exeloncorp.com/careers-home/, https://investors.exeloncorp.com/, https://hourlypricing.comed.com/, https://www.bgenow.com/, and https://thesource.pepcoholdings.com/opco/pepco/. We do not control and are not responsible for the privacy policies, practices, and/or content of these third-party websites. Any PI or PII collected on a third-party website is governed by the privacy policy of that website. Please contact such third-party website directly for more information about the privacy of your PI or PII, or to exercise a privacy right. We also do not control the third-parties’ tracking technologies that are accessible through our Site or how they may be used. If you have any questions about an advertisement or other targeted content, you should read the associated privacy policy provided by the third-party website or contact the responsible provider directly. Some of these third parties may provide you with ways to choose not to have your information collected or used for targeted advertising. For example, some of these third parties may be members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”), which provide a single location where you can opt out of certain types of data collection or opt out of receiving targeted ads from member companies. To opt out with respect to members of the NAI, you may visit http://www.networkadvertising.org/managing/opt_out.asp. To opt out with respect to members of the DAA, you may visit www.aboutads.info.
+
+#### How We Use and Share Information
+
+We use the PI we collect in any and/or all of the following ways:
+
+- To Provide Services: We use PI that we collect to provide any Services that you may request.
+
+- Communicate: We use PI to communicate with you about our Site or Services. We may also use your PI to send you account updates or other communications regarding your account or to inform you of any changes to our Site or Services, or to send you information, recommendations and promotions that we believe will be of interest to you. Exelon companies may send your contact information collected through our Site to other Exelon companies, to the extent permitted by applicable law, or such communications may be sent directly to you through our Site, such as push notifications. Please note that Exelon companies may use other electronic media for communications (such as social media), which may have their own separate privacy policies.
+- Specific Purposes: You may be asked to provide information for a specific purpose (other than those described in this Privacy Policy). We will only use that information for that purpose.
+
+- Customer Support: We may use your PI to provide you with support or other services you request. For example, we may need certain information to provide technical support or answer questions about our Site or Services.
+
+- To Improve Our Services: We may use your PI for statistical analyses, generating surveys, and doing market research to improve our Services. We may also use information collected on our Site to personalize your experience on our Site.
+
+- Site Maintenance: We analyze how our users interact with our Site to maintain and improve our Site. We also use information that we collect to diagnose any problems with our Site.
+
+- Legitimate Business Purposes. We may use your PI or PII for any other business purpose we deem legitimate, as permitted by applicable law.
+
+You agree that we may share information, including PII, with third parties, for the purposes described below:
+
+- Service Providers: We may share information with service providers that (i) help us perform Site functions and process your transactions, or (ii) provide services to us for legitimate business purposes, as permitted by applicable law. This information sharing is subject to a confidentiality agreement protecting that information. For example, we share information with electronic bill payment service providers so that you may pay for Services. We also sometimes share utility usage information with service providers to support the utilities’ legal obligation to perform energy efficiency services.
+
+- Within Our Corporate Family: We may share information with our parent company, franchisees, subsidiaries, joint ventures, or other companies under common control with us, to the extent permitted by applicable law.
+
+- Corporate Structure: We may share information in connection with a contemplated or actual merger, acquisition, consolidation, change of control, or sale of all or a portion of our assets or if we undergo bankruptcy or liquidation.
+
+- To Prevent Harm: We may share information if we believe it is necessary to detect, investigate, prevent, or take action against illegal activities, fraud, or situations involving potential threats to the rights, property, or personal safety of any person.
+
+- For Legal Purposes: We will share information where we are legally required to do so, such as in response to or in compliance with court or regulatory agency orders, legal proceedings, or legal process; to exercise our legal rights; to defend against legal claims or demands; and/or to comply with the requirements of any applicable law.
+
+With Your Consent: We may request your permission to share your PI for a specific purpose not described above. In such case, we will notify you and request consent before you provide the PI or before the PI you have already provided is shared for such purpose. SMS opt-in consent information is not shared with third parties for promotional purposes (but may be provided to our third-party service providers as described above).
+
+#### Security
+
+The security of your PI and PII is important to us. We maintain physical, technical, and administrative security controls to protect and limit access to your PI and PII. However, no method of information transmission over the Internet or electronic storage technology is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your PI and PII, we cannot guarantee its absolute security.
+
+You should exercise discretion in what information you send to us by email. Email sent over the Internet may not be secure and can be intercepted by others before it reaches us. We are not responsible for the security of information contained in emails sent to us over the Internet.
+
+#### Applicable Law
+
+This is a United States-based Site that is subject to United States law. If you access our Site from a location outside the United States, you hereby agree that your use of our Site and our collection and use of your PI and PII are subject to this Privacy Policy and applicable state and federal laws. When you submit PI or PII to us, you agree to permit us and our subsidiaries and affiliates to access, store, and use the information wherever in the world we and our subsidiaries and affiliates do business, both inside and outside the United States.
+
+#### Children’s Privacy
+
+Our Site is intended to provide general information about the Exelon companies and their Services. We do not knowingly collect PI from children under 13 years of age, nor do we knowingly allow children under 13 years of age to use certain features of our Site without the consent of a child’s parent or guardian. We do not knowingly disclose PI collected from children. If we become aware that a child under 13 years of age has provided us with PI, we take immediate steps to delete such PI.
+
+#### Disclosure to Government
+
+We reserve the right to monitor and disclose, without your consent, any communications, PI or PII, to the United States government to protect our network from unauthorized usage or penetration, or whenever requested to do so by courts, government agencies, or by law enforcement authorities.
+
+#### Questions About This Privacy Policy
+
+For questions or concerns about this website or intellectual property, please contact WebAgent@exeloncorp.com. We will use reasonable efforts to address those questions and concerns.
+
+For requests relating to your PI and PII, please submit your request via Exelon's Privacy Center.
+
+### About Exelon
+
+Exelon (Nasdaq: EXC) is a Fortune 200 company and one of the nation’s largest utility companies, serving almost 11 million customers through six fully regulated transmission and distribution utilities — Atlantic City Electric, BGE, ComEd, Delmarva Power, PECO, and Pepco. Exelon’s more than 20,000 employees dedicate their time and expertise to supporting our communities through reliable, affordable and efficient energy delivery, workforce development, economic development and volunteerism. Follow @Exelon on X and LinkedIn.
+
+Learn More
+
+#### Related
+
+More in the Newsroom
+
+[{"pagePath":"/newsroom/exelon-adds-continuum-industries-to-2c2i-portfolio,-supporting-smarter-grid-planning-and-long-term-affordability","releaseDate":{"year":2026,"month":8,"dayOfMonth":16,"hourOfDay":0,"minute":0,"second":0},"title":"Exelon Adds Continuum Industries to 2c2i Portfolio, Supporting Smarter Grid Planning and Long-Term Affordability","companyTags":["exelon:company/exelon-corporate"]},{"pagePath":"/newsroom/exelon-announces-key-leadership-position-changes","releaseDate":{"year":2026,"month":7,"dayOfMonth":25,"hourOfDay":0,"minute":0,"second":0},"title":"Exelon Announces Key Leadership Position Changes","companyTags":["exelon:company/exelon-corporate"]},{"pagePath":"/newsroom/exelon-adds-public-grid-and-buckstop-to-2c2i-portfolio-advancing-affordable-and-sustainable-energy-solutions","releaseDate":{"year":2026,"month":7,"dayOfMonth":11,"hourOfDay":0,"minute":0,"second":0},"title":"Exelon Adds Public Grid and Buckstop to 2c2i Portfolio, Advancing Affordable and Sustainable Energy Solutions","companyTags":["exelon:company/exelon-corporate","exelon:company/exelon-foundation"]}]

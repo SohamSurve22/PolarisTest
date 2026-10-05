@@ -1,0 +1,198 @@
+# PRIVACY NOTICE FOR AUTOLIV WEBSITE
+
+Updated 19-dec-2025
+
+At Autoliv, we care about the safety of your data. In this notice, you will find information about how we manage information about you and how to exercise your data protection rights.
+
+## WHO IS RESPONSIBLE FOR YOUR DATA?
+
+Autoliv AB („Autoliv”), registered with the Swedish Companies Registration Office under company number 556687-7345 and with registered office at Klarabergsviadukten 70, Section B7, 111 64, Stockholm, is processing your data on behalf of all legal entities in the Autoliv Group (please find a list of these at the end of this notice, in Annex No. 1) All personal data processing is done following the applicable privacy legislation. If you have any questions regarding the use of your data, please contact our team at the Autoliv Privacy Office at [email protected]
+
+Autoliv operates globally through subsidiaries and affiliated companies. Because of this structure, additional privacy notices may apply depending on the website or service/business activity:
+
+For example:
+
+- Career and recruitment data are processed under the Autoliv privacy notice for recruitment
+
+- Regional sites may have their own local privacy notices to reflect local laws.
+
+- Supplier or partner portals may have separate notices when you log into secure platforms
+
+- Attending Autoliv public events
+
+- Participants in research and user studies
+
+- Data collection and use of specific connected products
+
+- Data Collection when using the compliance Speak-up portal and compliance investigations.
+
+- Participants in Microsoft Teams meetings
+
+## WHAT PERSONAL DATA DO WE USE AND WHY?
+
+This notice applies to data processed via Autoliv.com and any services offered through it, unless otherwise stated. This notice primarily covers Autoliv.com and other global informational websites.
+
+We collect personal data through:
+
+- Forms you submit
+
+- Email or phone correspondence
+
+- Automated technologies such as cookies and analytics tools
+
+We use your data for:
+
+- Operating and maintaining our website
+
+- Responding to requests and communications
+
+- Providing information about Autoliv products and services
+
+- Analyzing site usage to improve performance
+
+- Ensuring legal and regulatory compliance
+
+| Category of Personal Data
+| Examples
+| Purpose of Processing
+| Legal Basis (GDPR)
+| Typical Retention
+
+| Identification & Contact Data
+| Name, email address, phone number, job title, company name
+| To respond to contact requests, manage relationships, and provide services or information
+| Consent
+| Until your declaration of consent is revoked
+
+| Communication Data
+| Emails, form submissions, messages, feedback
+| To handle inquiries, support requests, and customer service
+| Legitimate interest
+| 18 months
+
+| Technical & Device Data
+| IP address, browser type, OS, device ID, session data, time zone, website interactions
+| To maintain and improve the website, ensure security, and gather analytics
+| Legitimate interest (improving site) / Consent (where cookies apply)
+| Max. 24 months
+
+| Marketing & Preference Data
+| Cookie identifiers, consent preferences, newsletter subscriptions, ad interaction data
+| To personalize content, deliver marketing, and manage opt-ins and preferences
+| Consent
+| Until consent is withdrawn
+
+| Legal & Compliance Data
+| Audit logs, regulatory correspondence, consent records
+| To comply with legal and regulatory obligations
+| Legal obligation
+| Max. 5 years
+
+## WHO DO WE SHARE YOUR PERSONAL DATA WITH?
+
+If we need to share your data, we ensure that such recipient processes it by this notice, such as by entering into data transfer agreements or data processing agreements with the recipients. Those agreements include all reasonable and appropriate contractual, legal, technical, and organizational measures to ensure that your information is processed with an adequate level of protection and following the applicable law. Categories of recipients include:
+
+- Autoliv companies within the Autoliv Group are listed in Annex 1. To ensure the data management processes, enabling better customer service and operational efficiency, subject to the provisions of local law, the personal data and information you provide may be accessed, processed, and used by the relevant personnel of Autoliv or its affiliates or subsidiaries on need-to-know basis, including Management, Human Resources, Finance, IT, Internal Audit, Legal, Compliance, Marketing, etc.
+
+- Third parties that Autoliv Group engages as processors.
+
+- Subcontractors/consultants engaged by Autoliv to provide technical support under locally applicable laws (e.g. IDX Inc), including our affiliates and vendors that conduct operational, technology, and customer or prospect service functions in various jurisdictions.
+
+- Authorities and law enforcement agencies, if requested for audit purposes or to verify compliance with legal requirements
+
+- Legal or professional advisers, where necessary for the establishment, exercise, or defense of legal claims.
+
+We do not otherwise reveal your data to non-Autoliv persons or businesses for their independent use unless: (1) you request or authorize it; (2) the information is provided to comply with the law (for example, to comply with a search warrant, subpoena, or court order), enforce an agreement we have with you, or to protect our rights, property or safety, or the rights, property or safety of our employees or others; (3) the information is provided to our agents, vendors or service providers who perform functions on our behalf; (4) to address emergencies or acts of God; or (5) to address disputes, claims, or to persons demonstrating legal authority to act on your behalf; Those individuals and official authorities may be in one of the countries from Annex 1.
+
+If we need to share your data, we ensure that such recipient processes it in accordance with this notice, such as by entering into data transfer agreements or data processing agreements with the recipients. Those agreements include all reasonable and appropriate contractual, legal, technical, and organizational measures to ensure that your information is processed with an adequate level of protection and following the applicable law.
+
+## HOW DO WE ENSURE APPROPRIATE PROTECTION OF PERSONAL DATA WHEN TRANSFERRED ACROSS BORDERS?
+
+Autoliv always ensures that the same high level of protection applies to your data according to the EU General Data Protection Regulation [Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons concerning the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC] and other applicable privacy acts, even when the data is transferred and processed outside of the jurisdiction you are operative in. Your rights concerning your data are not affected when data is transferred to a third country. If you want more information about the technical and organizational measures or the implemented safeguards for third-country transfers, please contact our Privacy Office at [email protected]
+
+## WHAT RIGHTS DO YOU HAVE RELATED TO THE PROCESSING OF YOUR DATA?
+
+You have several rights related to your data and to receive information directly from us about how we process personal data about you. If you want to know more or meet us to exercise your rights and for other types of privacy questions, please email us at [email protected].
+
+- The right to have your data deleted
+You have the right to ask us to delete personal data about you, for example, personal data that we no longer need for the purpose it was collected for, or personal data that we process based on a consent that you wish to revoke.
+
+- Right to be informed
+You have the right to be informed of how we process your data. We inform you through this privacy notice, by general employee privacy notices issued from time to time, and by answering your questions at any given time.
+
+- Right to receive access to your data
+You have the right to know if Autoliv processes personal data about you, and to receive a copy (“data extract”) of such data. Through the data extract, you will receive information about what personal data we hold about you and how we process it.
+
+- Right to rectification
+You have the right to request that we rectify inaccurate information or complete information about you that you consider is inaccurate or incomplete.
+
+- Right to restrict processing
+If you believe that your data is inaccurate, that our processing is unlawful, or that we do not need certain information for a specific purpose, you have the right to request that we restrict the processing of such personal data. You also can request that we stop processing your data while we assess your request.
+
+- Right to object to our processing of your data
+You have the right to object to processing your data, for example when the processing is based on legitimate interest, by referencing your circumstances. When you object to our processing, you may also request us to restrict the processing of that personal data (as described above) while we make our assessment.
+
+- Right to object to an automated decision that significantly affects you
+You have the right to object to our use of automated decisions or conclusions if the decision produces legal effects or significantly similarly affects you. Please note that no automated decision-making is being conducted within the scope of the survey.
+
+-
+Right to withdraw your consent – opt out.
+If marketing materials as newsletters etc are sent out to customers, there will always be an opt-out link the customer can access to block them from further notifications or send outs.
+
+Where we process your data based on your consent, you have the right to withdraw that consent at any time. Autoliv will respect your decision by ceasing the processing of your data and discontinuing its use. For each internal competition/campaign organized by Autoliv a specific consent will be collected and a Privacy Notice will be made available at the Point of Data Collection to ensure transparency and compliance. If you have any concerns or you want to exercise your right to withdraw your consent, please email us at [email protected].
+
+- Right to lodge a complaint
+If you have complaints about our processing of your personal data, you may lodge a complaint with the lead supervisory authority (https://www.imy.se/en/individuals/forms-and-e-services/file-a-gdpr-complaint/). Please email us at [email protected] in case you need our support to identify a different lead authority or the proper authority to contact in your country.
+
+Profiling and automated decision-making
+Autoliv does not take any solely automated decisions, including those based on profiling, that have a legal or similarly significant effect on you.
+
+## HOW DO WE USE COOKIES AND OTHER TYPES OF TRACKING TECHNOLOGY
+
+To provide a good experience and personalized content, we may use cookies in different interfaces, such as on our website. Information about how you can accept or decline cookies, including managing specific cookie preferences, is available in each respective. For a detailed overview of which cookies we have implemented on the Autoliv website, please consult the Autoliv Cookie notice available here.
+
+## UPDATES TO THIS NOTICE
+
+We are constantly working to improve our data protection practices, which may involve modifications to our processing of your data. If that improvement requires a notice or consent following applicable law, you will be notified or allowed to give your consent. Last update of this Notice was made in December 2025.
+
+## HOW TO CONTACT THE AUTOLIV GLOBAL PRIVACY OFFICE
+
+We are constantly working to improve our data protection practices, which may involve modifications to our processing of your data. If that improvement requires a notice or consent following applicable law, you will be notified or allowed to give your consent. Last update of this Notice was made in December 2025.
+
+## HOW TO CONTACT THE AUTOLIV GLOBAL PRIVACY OFFICE
+
+Autoliv has a group data protection officer and a team of data protection specialists. You can reach all these individuals at [email protected].If you specifically wish to contact Autoliv’s data protection officer, please type so in the subject line.
+
+## LINKS TO OTHER PRIVACY NOTICES
+
+Autoliv operates multiple websites and systems that each process data for specific purposes.
+
+Please refer to the privacy notice that applies to your interaction:
+
+- Global Recruitment (career.autoliv.com) → Recruitment Privacy Notice
+
+- Regional / Country Websites → Local Privacy Notices
+
+- Suppliers and Business Partners → Supplier Privacy Notice
+
+- Private events → Privacy Notice for events (Images & Video)
+
+- Participants Notice for research studies→ Autoliv Privacy Notice for Research Participants
+
+- Use of specific connected products → Privacy Notice for the ALV ACSP App
+
+- Use of on-board cameras for research → Privacy Notice for Data Collection through On-Board Cameras
+
+- Clients and prospects → Privacy Notice for Autoliv CRM- HubSpot
+
+- Reporting compliance concerns → Privacy Notice for Speak-up line and Compliance Investigations
+
+- Attending a meeting through Microsoft Teams → Privacy Notice for Microsoft Teams
+
+- Privacy Notice for HBM Safety Suite
+
+These linked notices describe additional or specific processing that complements this global Privacy Notice.
+
+## ANNEX NO.1
+
+List of Autoliv legal entities can be found here.

@@ -1,0 +1,778 @@
+General Privacy Statement
+
+Security Classiﬁcation: Unclassiﬁed Page 1 of 14 Uncontrolled When Printed
+Owner: Compliance and Ethics Revision: 0.0 Revision Date: 05/22/2018
+
+Cheniere Energy, Inc.
+General Privacy Statement
+
+Revision History
+Rev
+Number
+Reason for
+Revision Approver Approver Title Date
+Approved
+0 New Document Sean Markowitz General Counsel and
+Corporate Secretary
+03/03/2026
+
+Contents
+1.0 Information About Cheniere, Our Websites and Our Business ............................. 3
+2.0 Data Collection and Use ....................................................................................... 3
+3.0 Data Automatically Collected ................................................................................ 6
+4.0 Site Traffic Data and Cookies ............................................................................... 6
+5.0 Data Retention ...................................................................................................... 7
+6.0 Access to Your Personal Data .............................................................................. 7
+7.0 Choice and Opt-Out .............................................................................................. 7
+8.0 Children ................................................................................................................ 7
+9.0 Security ................................................................................................................ 7
+10.0 International Transfers .......................................................................................... 7
+11.0 Contact Us ............................................................................................................ 8
+12.0 EU / UK Addendum .............................................................................................. 8
+How Personal Data is Collected .................................................................... 8
+Legal Bases for Processing Personal Data ................................................... 9
+Who We Share Personal Data With ............................................................ 10
+13.0 Access, Amend or Take Back the Personal Data You Have Given to Us ............ 11
+14.0 Attachment 1: Cookies List ................................................................................. 13
+
+1.0 Information About Cheniere, Our Websites and Our Business
+Cheniere Energy, Inc. and its subsidiaries and affiliates (collectively “Cheniere” or “we” or “us” or
+“our”) respects your privacy and is committed to protecting personal data. We provide this privacy
+statement to inform you of our data privacy practices, what data we’ve collected from you, and
+the choices you can make about how your information is collected and used.
+For the purpose of applicable data protection legislation, the company responsible for your
+personal data is Cheniere Energy , Inc. Our corporate headquarters are located at 845 Texas
+Avenue, Suite 1250, Houston, TX 77002. We also maintain international offices in the United
+Kingdom, Singapore, China, Japan and Dubai.
+Applicable data protection legislation includes, but is not limited to, the General Data Protection
+Regulation (Regulation (EU) 2016/679 , "EU GDPR") which forms part of the laws of the UK by
+virtue of Section 3 of the European Union (Withdrawal) Act 2018 and other related UK legislation
+("UK GDPR"), Singapore PDPA, and China PIPL, and the Dubai International Financial Centre
+(DIFC) Data Protection Law.
+This statement applies to:
+• Individuals who have or have had a business relationship with Cheniere such as:
+o counter parties (including our customers); and
+o suppliers or vendors;
+• Visitors of Cheniere's websites such as Cheniere.com and Ingr.Cheniere.com;
+• Visitors of Cheniere's premises or attendees of Cheniere hosted events;
+• Job applicants; and
+• Individuals that we target to provide with information about Cheniere and its stance on
+issues that are important to us.
+
+This statement does not apply to current or former employees of Cheniere, who should refer to
+the Staff Privacy Policy.
+Cheniere can be contacted at privacy@cheniere.com, or using this Direct Link.
+
+This General Privacy Statement replaces and supersedes any previous policies addressing the
+same or similar issues, whether formal or informal. Cheniere reserves the right in its absolute
+discretion to alter, amend, or terminate this General Privacy Statement in whole or in part at any
+time with or without notice. The applicable version of this General Privacy Statement is maintained
+on the Cheniere intranet site. You should always check that you are referring to the latest version
+of this General Privacy Statement if you have previously downloaded hard copies of this General
+Privacy Statement.
+
+2.0 Data Collection and Use
+The purpose of this section is to detail the personal data collected, and the purposes for which
+we process this personal data for the following types of individuals. In some jurisdictions we are
+also required to identify a legal basis in order to process your personal data for the purposes set
+out below. Type of
+Individual
+Data Collected or
+Processed Purpose of Processing Legal basis relied upon
+Counterpartie
+s (including
+customers)
+Contact data of
+relevant individuals
+in your organization
+(e.g., name, job title,
+addresses, phone
+numbers, email)
+
+Identity documents
+of relevant
+individuals in your
+organization (e.g.,
+national ID or
+passport number)
+
+Company data
+(ownership
+structure, material
+relationships)
+
+Background check
+results of relevant
+individuals in your
+organization
+Perform financial due
+diligence prior to
+engaging in a financial
+transaction with
+Cheniere
+
+Entering and maintaining
+our business relationship
+with you and other
+interactions
+
+To help us to establish,
+exercise or defend legal
+claims
+Legitimate interests,
+namely it is in our interests
+to:
+• safeguard our
+interests;
+• ensure our operations
+run smoothly;
+• manage and maintain
+our relationship with
+you;
+• verify the individuals
+we deal with; and
+• establish and defend
+our legal rights and
+understand our
+obligations, and seek
+legal advice in
+connection with them
+
+We may also need to
+process your data to
+comply with our legal
+obligations
+Vendors and
+suppliers
+Contact data of
+relevant individuals
+in your organization
+(e.g., name, job title,
+addresses, phone
+numbers, email)
+
+Intake supplier
+proposals, engage
+contracting process,
+onboard individual
+suppliers or vendors
+
+To help us to establish,
+exercise or defend legal
+claims
+
+Legitimate interests,
+namely it is in our interests
+to:
+• safeguard our
+interests;
+• ensure our operations
+run smoothly;
+• manage and maintain
+our relationship with
+you;
+• verify the individuals
+we deal with; and
+• establish and defend
+our legal rights and
+understand our
+obligations, and seek
+legal advice in
+connection with them.
+To enter into and perform
+a contract with you (to the
+extent that you operate as
+a sole trader)
+
+We may also need to
+process your data to
+comply with our legal
+obligations
+Cheniere
+visitors and
+Contact data (e.g.,
+Name, job title,
+Invite you to Cheniere
+and to events, and for
+Legitimate interests,
+namely it is in our interests
+to: Type of
+Individual
+Data Collected or
+Processed Purpose of Processing Legal basis relied upon
+event
+attendees
+addresses, phone
+numbers, email)
+
+Event data (e.g.,
+meal elections,
+seating selections)
+
+Visitor data (e.g.
+CCTV footage, ID
+badge data)
+Cheniere to manage
+your visit and events
+• keep a record of all
+visitors to our
+premises for visitor
+management
+purposes; and
+• ensure the protection
+and security of our
+staff, property and
+premises
+Job
+applicants
+Contact data (e.g.,
+name, addresses,
+phone numbers,
+email)
+
+Applicant data (e.g.,
+cover letter, resume,
+education history)
+
+Identity documents
+(e.g., national ID or
+passport number,
+SSN)
+
+Background check
+results
+
+Intake and review Job
+applicants, assess
+potential for an interview,
+and to perform
+background checks prior
+to starting employment
+
+Legitimate interests,
+namely it is in our interests
+and your interests to:
+• carry out our
+recruitment activities;
+• consider whether to
+offer employment to
+you; and
+• establish and defend
+our legal rights and
+understand our
+obligations, and seek
+legal advice in
+connection with them
+
+To enter into and perform
+a contract with you, we
+may also need to process
+your data to comply with
+our legal obligations
+
+We may also process
+special category personal
+data or data regarding
+criminal offences if the
+processing is necessary
+for the purposes of
+performing or exercising
+obligations or rights which
+are imposed or conferred
+by law on us or you as a
+data subject
+Website
+visitors
+IP address, cookie
+data
+Provide website
+functionality and ensure
+website security
+
+Understanding how
+website users interact
+with our websites
+For strictly necessary
+cookies legitimate
+interests, namely to
+ensure the safety and
+usability of our websites
+
+For other cookies and
+similar technologies we
+will obtain your consent Type of
+Individual
+Data Collected or
+Processed Purpose of Processing Legal basis relied upon
+Individuals
+that we target
+Publicly available
+contact data (e.g.,
+name, title, email,
+social media
+accounts data)
+
+Publicly available
+employment and
+details of positions
+held (e.g., current
+and former places of
+employment,
+political
+appointments,
+leadership and
+committee positions)
+
+Provide information
+about Cheniere and our
+stance on matters that
+are important to us for
+PR, policy making,
+lobbying, research and
+other similar purposes
+Legitimate interests,
+namely to
+• provide our views on
+matters that have
+importance to us and
+our business to
+decision makers; and
+• encourage decision
+makers to learn more
+about our goals and
+business practices
+
+To the extent this
+information contains
+special category personal
+data, such as information
+about political opinions,
+we only process personal
+data that has been
+manifestly made public
+3.0 Data Automatically Collected
+For website visitors, IP address is automatically collected. Cheniere uses this information to
+understand where website visitors are from as well as to ensure website security.
+Cheniere does not use automated mechanisms to collect personal data about the other types of
+individuals.
+4.0 Site Traffic Data and Cookies
+When you first visit our website, you will be presented with a pop-up screen informing you of our
+use of cookies and asking you to provide your consent for such use.
+The pop-up screen may not reappear for all your subsequent visits to our website, but if you wish,
+you can withdraw your consent at any time by changing the cookie settings in your browser to
+block or reject certain cookies, delete existing ones, or change them.
+A "cookie" is a bite-sized piece of data that is stored on your computer's hard drive. They are not
+harmful to your system, and are used by nearly all websites. We use cookies to track your activity,
+which helps us ensure you get the smoothest possible experience when visiting our website.
+Cookies also allow us to tailor what options you are presented with on your next visit. We can
+also use cookies to analyze traffic and for advertising purposes.
+Servers hosted by Cheniere as well as third party service providers (which may be located outside
+the EEA) automatically log website visitor data based on your IP Address using cookies. Cheniere
+uses this information to understand where website visitors are from as well as to ensure website
+security. Cheniere uses three types of cookies:
+• Strictly necessary cookies which enable core website functionality such as accessibility
+• Functionality cookies which enable us to remember your preferences • Performance analytic cookies which provide information to Cheniere about how visitors
+use the website. We use this information to enhance the website
+A list of website cookies can be found in Cookies List below.
+Cheniere does not collect cookie data or website visitor data to send you targeted advertising.
+5.0 Data Retention
+Cheniere will ordinarily process your data throughout the course of our interactions with you and
+will then generally retain it for an appropriate amount of time afterwards. Cheniere retains data
+for the minimum necessary length of time depending on the type of data, the purposes for which
+Cheniere need to process the data and Cheniere's legal, regulatory and risk management
+obligations. Cheniere has a records retention schedule and manages data in accordance with it.
+6.0 Access to Your Personal Data
+To inquire about accessing your personal data, or if there are questions about this General Privacy
+Statement or Cheniere’s privacy practices, please send an email to privacy@cheniere.com or use
+this Direct Link.
+Upon written request, we will provide you with a copy of the personal data we retain about you
+but will require proof about your identity. We will allow you to make requests about your personal
+data such as: being provided a copy, making corrections, or requesting deletion. We reserve the
+right to refuse to provide or perform these requests but will give reasons for our refusal. You will
+be able to appeal our decision to refuse a request. Please note that we are required by law to
+retain certain personal information.
+7.0 Choice and Opt-Out
+You may unsubscribe from processing at any time, the process to opt-out my vary based on the
+type of individual you are. If Cheniere were to begin processing your personal data for a different
+purpose than the one stated, Cheniere will provide you the opportunity to opt out.
+8.0 Children
+Cheniere does not process the personal information of children except in limited situations where
+a child attends a Cheniere event with their parent and/or guardian.
+Cheniere does not knowingly collect information from children under the age of 16 and does not
+target its websites to children under 16.
+9.0 Security
+Cheniere has an information security program and has implemented appropriate information
+security controls to protect personal data from unauthorized use, access, modification,
+destruction, or loss.
+10.0 International Transfers
+Cheniere is an international organization, headquartered in Houston, Texas, USA , but has
+affiliates and/or operations in Singapore, the United Kingdom, Japan, China and Dubai. As such,
+your personal data may be transferred to Cheniere subsidiaries or affiliates in these jurisdictions.
+As we are an international organization, your data may also be transferred to third-party service providers outside of these jurisdictions for the purposes described in this General Privacy
+Statement.
+Cheniere only transfers personal data outside of the EEA, UK, and Japan where there are
+adequate safeguards in place, for example:
+• There is a valid data transfer agreement in place, such as incorporating approved standard
+contractual clauses
+• By way of a scheme approved by the European Commission and/or the UK Information
+Commissioners office
+• Where a destination country offers adequate data privacy protections as determined by
+the originating country; or
+• Where there is a contractual requirement for us to do so and it is in your interests or where
+you provide consent for such transfer
+To ensure that your personal data receives an adequate level of protection, we have put in place
+appropriate procedures with the third parties with whom we share your personal data, to ensure
+that your personal data is treated by those third parties in a way that is consistent with and that
+respects data protection laws.
+If you require more information about these safeguards, please contact us as described in the
+Contact Us section below.
+11.0 Contact Us
+Please reach out to us at Privacy@Cheniere.com or using this Direct Link if you have any
+questions related to this policy, Cheniere’s personal data practices or if you would like to make a
+personal data request.
+12.0 EU / UK Addendum
+Both the EU GDPR and the UK GDPR require us to set out certain information that only applies
+to individuals based within the EU or the UK or if your personal data is processed by our affiliate
+in the UK ("Cheniere UK"). We have set out this additional information below.
+How Personal Data is Collected
+We collect customer personal data in three ways:
+- Personal data that we receive directly from you, (which includes the situations where we
+specifically ask you to provide us with certain information of where you decide to provide
+any information that we have not specifically asked for);
+- Personal data that we receive from other sources (including by way of due diligence or
+other market intelligence, such as third- party market research, use of digital marketing
+partners and other similar sources); and
+- Personal information that we collect automatically (when you visit our website or contact
+us) Legal Bases for Processing Personal Data
+Under the EU / UK GDPR, there are a number of specific ways that we are lawfully able to
+process your personal data.
+We have identified the legal bases that we rely upon to process your personal data above in
+Section 4 (Data collection and usage) and describe here in more detail what each of these
+legal bases mean.
+Depending on the type of personal data in question and the grounds on which we are
+processing it, should you decline to provide us with such data or ask us to stop processing it,
+we may not be able to fulfil our contractual, legal or regulatory requirements or, in extreme
+cases, may not be able to continue with our relationship.
+Data Type Processing Actions
+Contractual
+Obligations
+
+Where this processing "is necessary for the performance of a contract to
+which [you] are a party" (Article 6(1)(b) of the EU / UK GDPR)
+
+We rely on this legal basis to collect and otherwise use your personal data to
+enable us to perform our part of our contract with you and our obligations to
+third parties, and to ensure that you are properly fulfilling your obligations to
+us
+
+Legal
+Obligations
+Where this processing "is necessary for compliance with a legal obligation to
+which [we] are subject" (Article 6(1)(b) of the EU / UK GDPR)
+
+It is not possible to provide a comprehensive and exhaustive list of the legal
+obligations that may give rise to such requirements. New laws may be
+enacted, or other obligations become binding which may require processing
+your data in accordance with other legal obligations.
+
+Legitimate
+Interests
+
+Where it "is necessary for the purposes of the legitimate interests pursued by
+[us] or by a third-party, except where such interests are overridden by the
+interests or fundamental rights or freedoms of [you] which require protection
+of personal data" (Article 6(1)(f) of the EU / UK GDPR).
+
+We do not believe that the processing activities in relation to which we rely on
+the legitimate interest condition prejudice you or your privacy in a manner that
+overrides our legitimate interest in engaging in such processing activities.
+However, you do have the right to object to us processing your personal data
+on this basis. If you would like to know more about these circumstances and
+how to object to our processing activities, please see the "Right to object"
+section below
+Consent to
+Process Your
+Personal Data
+In very limited circumstances, we are required to obtain your opt-in consent
+before we can undertake certain processing activities with your personal
+data. Article 4(11) of the EU / UK GDPR states that opt-in consent is "any
+freely given, specific, informed and unambiguous indication of the Data
+Subject's wishes by which he or she, by a statement or by a clear affirmative
+action, signifies agreement to the processing of personal data relating to him
+or her". In plain language, this means that:
+• You have to give us your consent freely, without us putting you under
+any type of pressure Data Type Processing Actions
+• You have to know what you are consenting to – so we will make sure
+we give you enough information
+• You should only be asked to consent to one processing activity at a
+time – we therefore avoid "bundling" consents together so that you do
+not know exactly what you are agreeing to
+• You need to take positive and affirmative action in giving us your
+consent – we are likely to provide a tick box for you check so that this
+requirement is met in a clear and unambiguous fashion
+Additional
+Conditions
+for
+Processing
+Sensitive
+Personal
+Information
+Sometimes it is necessary for us to process your sensitive personal data
+during the course of our relationship. The EU / UK GDPR (Article 9(2)(b))
+allows us to do this when the processing is "necessary for the purposes of
+carrying out the obligations and exercising [our or your] specific rights… in
+the field of employment and social security and social protection law," where
+permitted by law
+
+We are committed to ensuring that our job application processes align with
+our approach to equal opportunities and so we will process certain sensitive
+personal data about you to facilitate this. This information is sometimes called
+"diversity" or "demographic" data
+
+Sometimes it may be necessary for us to process sensitive personal data in
+connection with exercising or defending legal claims. Article 9(2)(f) of the EU /
+UK GDPR allows this where the processing "is necessary for the
+establishment, exercise or defense of legal claims or whenever courts are
+acting in their judicial capacity"
+Who We Share Personal Data With
+Where appropriate and in accordance with local laws and requirements, we may share your
+personal data, in various ways and for various reasons, with the following categories of
+people:
+- Where appropriate and in accordance with local laws, we may share your personal data
+with our group companies, regulatory bodies or other authorities where we are required
+to do so, and third-party service providers
+- If you are a job applicant, we may share your personal data with individuals and
+organizations that hold information about your application (e.g., with your previous
+employers). We may also share your personal data with third parties who provide
+services such as reference, qualification, and criminal convictions checks
+- If you are a counter party with which we have a business relationship, we may share
+your personal data with other customers, counter parties where necessary for the
+transaction
+- If Cheniere merges with or is acquired by another business or company in the future, we
+may share your personal data with the new or prospective owners of the business or
+company as part of the merger or acquisition process 13.0 Access, Amend or Take Back the Personal Data You Have Given
+to Us
+If you are based within the European Union or the United Kingdom or if your personal data is
+processed by our affiliate in the UK (Cheniere UK), you should be aware that the EU and the
+UK offers various protections and clarifies the rights of EU and UK citizens and individuals
+within those areas with regard to data privacy. To communicate about these rights, please
+contact us. We will seek to deal with your request without undue delay within one month,
+subject to any extension to which we are lawfully entitled.
+Rights Description
+Right to
+Object
+This right enables you to object to us processing your personal data if we do so
+for one of the following four reasons: (i) because it is within our legitimate
+interests; (ii) to enable us to perform a task in the public interest or exercise
+official authority; and/or (iii) to send you direct marketing materials; and (iv) for
+scientific, historical, research, or statistical purposes
+
+If your objection relates to us processing your personal data because we deem
+it necessary for our legitimate interests, we must act on your objection. We will
+cease activity in question unless we can show that we have compelling
+legitimate grounds for Processing that overrides your interests, or we are
+processing your personal data for the establishment, exercise or defense of a
+legal claim
+Right to
+Withdraw
+Consent
+Where we have obtained your consent to process your personal data for
+certain activities, you may withdraw this consent at any time. We will cease to
+carry out the particular activity that you previously consented to unless we
+consider that there is an alternative legal basis to justify our continued
+processing of your data for this purpose, in which case we will inform you of
+this
+Right to
+Submit a
+Data Subject
+Access
+Request
+(DSAR)
+You may ask us to confirm or receive a copy of what information we hold about
+you at any time, and request us to modify, update, or delete such information.
+Where you have provided consent as a legal basis for processing, you may
+change your consent. We may ask you for more information about your
+request. Where we are legally permitted to do so, we may refuse your request.
+If we refuse your request, we will always tell you the reasons for doing so
+Right to
+Erasure
+You have the right to request that we "erase" your personal data in certain
+circumstances
+
+Normally, the information must meet one of the following criteria:
+
+• Personal data is no longer necessary for the purpose for which we
+originally collected and/or processed it
+• As above, where you withdraw your consent
+• Personal data was processed unlawfully (i.e., in a manner which does not
+comply with the EU / UK GDPR)
+• It is necessary for the data to be erased in order for us to comply with our
+obligations as a data controller
+• As above, if you if we process the data because we believe it necessary to
+do so for our legitimate interests, you object to the processing, and we are Rights Description
+unable to demonstrate overriding legitimate grounds for our continued
+processing
+We are only entitled to refuse to comply with your request for erasure for one of
+the following reasons:
+• To exercise the right of freedom of expression and information
+• To comply with legal obligations or for the performance of a public interest
+task or exercise of official authority
+• For public health reasons in the public interest
+• For archival, research, or statistical purposes
+• To exercise or defend a legal claim
+When complying with a valid request for the erasure of data, we take all
+reasonably practicable steps to delete the relevant data
+Right to
+Restrict
+Processing
+You have the right to request that we restrict our processing of your personal
+data in certain circumstances. This means that we can only continue to store
+your personal data and are not able to carry out any further processing
+activities with it until either: (i) one of the circumstances listed below is
+resolved; (ii) you consent; or (iii) further processing is necessary for either the
+establishment, exercise or defense of legal claims, the protection of the rights
+of another individual, or reasons of important public interest
+The circumstances in which you are entitled to request that we restrict the
+processing of your personal data are:
+• If you dispute the accuracy of the personal data that we are processing
+about you. In this case, our processing of your personal data is restricted
+for the period during which the accuracy of the data is verified
+• If you object to our processing of your personal data for our legitimate
+interests. In this case, you can request that the data is restricted while we
+verify our grounds for processing your personal data
+• If our processing of your data is unlawful, but you would prefer us to restrict
+our processing of it rather than erasing it
+• If we have no further need to process your personal data but you require
+the data to establish, exercise, or defend legal claims
+• If we have shared your personal data with third parties, we will notify them
+about the restricted processing unless this is impossible or involves
+disproportionate effort. We will notify you before lifting any restriction on
+processing your personal data
+Right to
+Rectification
+You also have the right to request that we rectify any inaccurate or incomplete
+personal data that we hold about you, including by means of providing a
+supplementary statement. If we have shared this personal data with third
+parties, we will notify them about the rectification unless this is impossible or Rights Description
+involves disproportionate effort. Where appropriate, we will also tell you which
+third parties we have disclosed the inaccurate or incomplete personal data to.
+Where we think that it is reasonable for us not to comply with your request, we
+will explain our reasons for this decision
+Right of Data
+Portability
+You have the right to transfer your personal data between data controllers. This
+means that you are able to transfer the details we hold on you to another
+employer or a third party. To allow you to do so, we will provide you with your
+data in a commonly used machine-readable format so that you can transfer the
+data to another employer. Alternatively, we may directly transfer the data for
+you. This right of data portability applies to: (i) personal data that we process
+automatically (i.e. without any human intervention); (ii) personal data provided
+by you; and (iii) personal data that we process based on your consent or in
+order to fulfil a contract
+Right to
+Lodge a
+Complaint
+with a
+Supervisory
+Authority
+
+You also have the right to lodge a complaint with your local supervisory
+authority
+If you would like to exercise any of these rights or withdraw your consent to the
+processing of your personal data (where consent is our legal basis for processing your
+personal data) please contact us.
+It is important that the personal data we hold about you is accurate and current. Contact
+us as if your personal data changes during the period for which we hold your data.
+We will, where necessary, keep a record of your communications to help us resolve any
+issues which you raise.
+14.0 Attachment 1: Cookies List
+Cookie Name Cookie
+Purpose
+Data
+Collected
+How Data
+is Shared
+Cookie
+Duration
+Cookie
+Provider
+Privacy
+Policy
+Cheniere.com
+Maintains
+user session
+on the site
+Session ID,
+user
+preferences
+
+www.cheniere.com
+Stores
+user’s
+cookie
+consent
+preference
+Consent
+status Cookie Name Cookie
+Purpose
+Data
+Collected
+How Data
+is Shared
+Cookie
+Duration
+Cookie
+Provider
+Privacy
+Policy
+Bidr.io Advertising
+User ID,
+interaction
+data,
+determines
+if the user
+has
+accepted
+the cookie
+consent
+form
+
+Doubleclick.net
+User
+tracking to
+deliver
+personalized
+ads
+User ID,
+user’s
+browser’s
+cookie
+handling
+capabilities
+
+Google.com
+Advertising,
+analytics,
+and
+functionality
+User ID,
+site usage
+data
+
+Googleadservices.com
+Advertising,
+analytics,
+and
+functionality
+User ID,
+site usage
+data
+
+Region1.google-
+analytics.com
+Google
+Analytics
+data
+User ID,
+site usage
+data

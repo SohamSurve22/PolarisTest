@@ -1,0 +1,354 @@
+Effective Date: February 13, 2026
+
+# KDP PRIVACY POLICY
+
+The KDP Privacy Policy explains how Keurig Dr Pepper Inc and its subsidiaries (collectively, “KDP” or “we,” “us,” or “our”) use and disclose Personal Information (defined below) in connection with your use of our websites (each a “Site”), mobile applications (each an “App”), and Internet connected devices such as our smart brewers (collectively, the “Services”), and your corresponding privacy rights.
+
+We appreciate that you trust us with your information and we intend to honor that trust.
+
+YOUR PRIVACY IS IMPORTANT TO US. PLEASE READ THIS PRIVACY POLICY CAREFULLY. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SERVICES.
+
+This Privacy Policy is incorporated into and made a part of the Terms of Use posted on our Sites. If you have not done so already, please also review the KDP Terms of Use. The KDP Terms of Use include provisions that limit KDP’s liability to users and other important terms. By using the Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy, and agree to the KDP Terms of Use, which are incorporated by reference.
+
+This Privacy Policy applies to the Services to which it is linked. If a particular Service has its own privacy policy, then that policy – not this Privacy Policy – applies. This Privacy Policy does not apply to information that is collected by any third-party websites or services that you may access through the Services.
+
+There are several ways we may obtain information about you, including through (A) information you provide to us directly; (B) information that we automatically collect; and (C) information we receive from third parties. Some of the information directly or indirectly identifies you as an individual. When information identifies or is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you or your household, we refer to it as “Personal Information.” The Personal Information we collect about you includes the following categories:
+
+• Audio and Visual Information:
+This includes photos you share from your devices and recorded conversations with KDP representatives where permitted by law.
+
+• Biometric information:
+THair color, eye color, and other details from your face when you submit a photograph, voice, and other biometric data.
+
+• Characteristics of protected classifications:
+Your race, religion, sexual orientation, gender identity, gender expression, age.
+
+• Commercial Information:
+Your purchase and usage history (such as beverage variety, brew size and strength preference for your brews), goods and service preferences, and payment information.
+
+• Identifiers/Contact Information:
+These include your name, account name, postal and email address, phone number, physical characteristics or description, and unique identifiers that may identify your device or browser but not you by name.
+
+• Internet/Electronic Activity:
+IP address, web/app browsing and search history related to our Services, and information regarding your interaction(s) with the Services or KDP advertising.
+
+• Geolocation Data: Data about the location of the device you use to access the Services as more fully described below.
+
+• Profile Inferences: The inferences that we draw from your Personal Information and online activity to create a personalized profile so we can better identify goods and services that may be of interest.
+
+We also work with various types of data that are de-identified or aggregated, and not reasonably capable of being associated with, or of reasonably being linked, directly or indirectly, with you or your household. This data is not Personal Information. We will never attempt to re-identify de-identified information, and we contractually obligate our partners to do the same.
+
+As provided in more detail below, we collect Personal Information from a variety of sources, including from:
+
+• Our service providers
+
+• Data analytics providers
+
+• Operating systems and platforms
+
+• Social networks
+
+• Ad Networks
+
+• Data vendors
+
+• Connected devices, and
+
+• From you directly.
+
+Personal Information You Provide
+
+We collect Personal Information from a variety of sources, as follows:
+
+• Personal Information you provide when you create or use your account or other Services, or contact us. You must create a KDP account (“KDP Account”) to use certain Services, including the Keurig® App. A KDP Account, as well as certain services we may offer such as subscription to our auto-delivery services, require you to provide Personal Information so we can identify you and process your purchases, enable you to customize the Services to your liking (e.g., identify your brewing preferences), and so we can link your product preferences to your KDP Account. Also, when you contact us, we may monitor and record your conversation with the KDP representative (where and as permitted by law).
+
+• Personal Information you provide when you make a purchase. We collect Personal Information to process your purchases from us, and to provide you with the goods or services you ordered.
+
+• Personal Information you provide for customer support. We collect your feedback and questions that you provide to us for customer support, including voice recordings of your calls with our customer support team. In answering your questions, we may ask for supporting data from your device, such as brewer serial number. If you use our online video chat or device screen share feature, we collect and maintain a record of our interactions with you, including screen shares of your Keurig App screen if you enable it. When you do so, our access to the screen share is limited to during the active session that you allow.
+
+• Personal Information collected with your consent. We also may ask you for your consent to collect Personal Information in a particular interaction with you as described to you in those circumstances.
+
+Personal Information Collected Automatically
+
+Whenever you visit or interact with the Services, KDP, as well as third-party advertisers and/or service providers, may use a variety of technologies to collect Personal Information, such as:
+
+• Service usage information.. We collect Personal Information about your activity on the Services, such as login date and time, features you use, and website, mobile app, and product interactivity.
+
+• Device & device usage information. We collect Personal Information from and about the electronic devices that you use to access the Services, including IP address, device ID and type, device and app settings and characteristics, app crashes, advertising IDs, browser type and language, operating system, time zones, software version, domain name, identifiers associated with cookies or other technologies that may uniquely identify your device or browser, and information on your wireless and mobile network connection, like your service provider and signal strength.
+
+Through our Internet connected devices, such as our smart brewers for home use, we collect usage history (such as beverage variety, brew size, and strength preference for your brews). These brewers also include a camera designed to collect an image of the area where a pod is positioned within the brewer. This is required to enable some connected Services and may also be used for diagnostic purposes to help ensure the brewer is working properly.
+
+• Geocation information. We may collect data about the location of the device you use to access the Services including a smart brewer, if applicable (“Location Data”) using IP address, GPS, cellular towers and information from your mobile service provider, sensors that provide KDP with information on nearby devices, Bluetooth address, Wi-Fi access points, and information made available by you or others that indicates the current or prior location of your device. How we collect Location Data depends on how you use the Services.
+
+• Third party analytic and advertising technologies. KDP also may use third parties’ analytics and tracking tools, such as Google Analytics, and others, to help us track, segment, and analyze usage of KDP Services, and to help us or those third parties serve more targeted advertising to you on the Services and across the Internet. These tools may use technology such as cookies, web beacons, pixel tags, log files, Flash cookies, or other technologies to collect and store information and may also combine such information with information that they collect from other sources. KDP also may use session replay software, which collects information about your interaction with the Services, including keystrokes, mouse movements, and form field entries, and may monitor your interactions with the Services, including for our compliance verification purposes. To learn more about your choices relating to advertising tracking, please see the “Your Choices and Opt Out” section below.
+
+Personal Information Received from Other Third Parties
+KDP collects Personal Information about you from third parties, such as social media platforms, public databases, third party smart virtual assistants, or data vendors. This may include:
+
+Personal Information collected when you connect with third parties through the Services. Certain Services may link with third-party platforms and plug-ins, such as social media platforms, plug-ins, and virtual smart assistants (such as an Alexa or Google Home). When accessing the Services through an account with a third party, we may automatically receive certain information about you based on your registration and privacy settings on those third-party services, and use such Personal Information as described in this Privacy Policy.
+
+Personal Information collected from data vendors. KDP may supplement your Personal Information with information that we obtain from third parties, such as public databases or data aggregators.
+
+Personal Information collected through service providers. Our service providers also may collect and use Personal Information on our behalf to assist us with our business operations. For example, our service providers may need Personal Information to help us analyze the performance of the Services, detect and prevent fraud, or to improve user experiences.
+
+Combination of information
+We may combine the Personal Information we receive from and about you. We treat and protect combined Personal Information in accordance with this Privacy Policy. As noted, we may also de-identify or aggregate information so it is no longer Personal Information.
+
+KDP uses Personal Information – including Identifiers, Geolocation Data, commercial or purchase-related information, Internet or other electronic network activity, and inferences drawn from your Personal Information in accordance with applicable data protection laws and this Privacy Policy for a variety of business and commercial purposes, including:
+
+To administer your account and provide the Services to you, such as to:
+
+- • Create and manage your KDP Account, your Keurig App and your Loyalty Program Membership, either at Keurig.com, Keurig.ca or our Pepper Perks or Pepper Packs programs
+
+- • Provide you with customer support and respond to your requests
+
+- • Complete your transactions
+
+- • Communicate with you about the Services, including order management and billing
+
+To ensure a consistent experience across your devices, such as to:
+
+- • Synchronize your usage across the various devices you use to interact with us
+
+- • Personalize your experience with our Services
+
+To offer promotions and ads, such as to:
+
+- • Administer sweepstakes, contests, discounts, or other promotions
+
+- • Develop, display, and track content and advertising tailored to you on the Services and on other websites
+
+- • Provide or contact you with customized Services content and offers from KDP or on behalf of our partners and affiliates
+
+- • Engage in targeted advertising
+
+To improve the services and develop new ones, such as to:
+
+- • Administer focus groups and surveys
+
+- • Conduct consumer research
+
+- • Use demographic, profile and other data for analytical and demographic purposes (this processing may involve profiling – for example to create audiences based on demographic or location-based information for marketing and customization purposes)
+
+- • Develop new features and services
+
+To prevent, detect, and fight fraud or other illegal or unauthorized activities, such as to:
+
+- • Enforce our Terms
+
+- • Address fraud or alleged unlawful activity
+
+- • Assist law enforcement
+
+- • Conduct data analysis to better understand and design countermeasures against fraud
+
+- • Protect the security and integrity of the Services and our business
+
+To ensure legal compliance, such as to:
+
+- • Comply with legal requirements
+
+- • Enforce or exercise our rights or those of third parties
+
+- • Due diligence and required disclosures for corporate acquisitions and sales
+
+- • Address problems with the Services or our business
+
+We may share your Personal Information as described below.
+
+Sharing of Personal Information by You
+The Services offer many ways to find, enjoy, and share content. Any Personal Information you disclose in public areas on the Services or other third-party services may become visible to other individuals without restriction. Please exercise caution when disclosing Personal Information in public areas. If you provide any Personal Information to a third party while using our Services, the third party’s privacy policy will apply to your Personal Information disclosed to such third party.
+
+Sharing of Personal Information by Us
+
+With our service providers. We may disclose each category of your Personal Information that we collect to our service providers to help us operate and improve the Services, such as for data hosting and maintenance, analytics, customer care, marketing, payment processing, order fulfillment, and security operations.
+
+We also may disclose a more limited set of Personal Information in a hashed or pseudonymous format, including identifiers/contact information, certain commercial information, geolocation (not precise), internet/electronic activity, and profile inferences, to the following recipients:
+
+With our analytics partners. We disclose this limited form of your Personal Information to our partners that assist us in performing analytics and help us measure the effectiveness of our Services’ content and our marketing and advertising efforts.
+
+With our marketing and advertising partners. We disclose this limited form of your Personal Information to third parties for marketing and advertising purposes, including social media platforms, advertising technology vendors, third-party advertising networks, and other parties that assist us in serving and optimizing our advertisements.
+
+In certain circumstances, we may disclose each category of your Personal Information:
+
+With other KDP businesses. We disclose your Personal Information with our subsidiaries and joint venture partners (collectively, “Affiliates”) who adhere to the privacy protections set forth in this Privacy Policy.
+
+Promotions. If you choose to enter into one of our promotions (e.g., a sweepstakes or contest), we may disclose your Personal Information to service providers or the public in connection with the administration of such promotion, as required by law, as otherwise permitted by the promotion’s official rules and this Privacy Policy.
+
+For corporate transactions. We may transfer your Personal Information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy, or other change of ownership or control. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use Personal Information provided through the Services in a manner that is consistent with this Privacy Policy.
+
+Legal obligations; safety. We may access and disclose your Personal Information to respond to subpoenas, judicial processes, or government requests and investigations, in connection with an investigation on matters related to public safety, or as permitted or otherwise required by law. We may disclose your Personal Information to protect the security of our Services, servers, network systems, and databases.
+
+To enforce legal rights. We may also share Personal Information (i) if disclosure would mitigate our liability in an actual or threatened lawsuit; (ii) as necessary to protect our legal rights and those of our users, business partners, or other interested parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent, or take other action regarding suspected illegal activity, fraud, or other wrongdoing.
+
+With your consent or at your request. We also may share your information as disclosed to you at the time of collection.
+
+We may use various practices and tracking technologies to allow us and third parties to develop and deliver targeted advertising on the Services and on websites or applications of third parties, and to analyze and report on such advertising you see.
+
+Cookies. Certain parts of the KDP Services require cookies, which include the following types:
+
+• Strictly necessary cookies, which are required for the operation of the Services. Without them, for example, you would not be able to register or log in for the Services that KDP offers.
+
+• Analytical/performance cookies, which allow KDP to recognize and count the number of visitors, learn how visitors navigate the Services and improve the Services.
+
+• Functionality cookies, which KDP uses to recognize you when you return to the Services.
+
+• Targeting cookies, which record your visits to the Services, the pages you visited and the links you followed. Targeting cookies help KDP deliver digital advertisements that are targeted to your interests (as inferred from your online activity). KDP also shares information collected through targeting cookies with third parties that send you targeted advertisements
+
+• Interaction cookies, which allow you to recommend KDP on Social Media.
+
+Web Beacons. KDP also uses web beacons (also called pixel tags or clear GIFs). Some of KDP’s content and emails may contain embedded web beacons that allow a server to read certain types of information from your device, as well as allow us to count the number of people who have viewed content and to know when you opened an email message and the IP address of your device. Web beacons help KDP develop statistical information to provide better and more personalized content. To learn more about web beacons, visit www.allaboutcookies.org.
+
+Session Replay Technology. KDP (or our third-party vendors) may also use tools and software to monitor and record information (including screenshots and videos) about your interactions with our Services, including keystrokes, mouse movements, form field entries, and overall engagement with our Services.
+
+Access and Updates to Your Personal Information
+
+For Keurig.com and Keurig.ca account holders, if you would like to correct your Account information or delete your profile information from your Account page, please visit the “Profile” tab in the “Account” section on a Site or in the App, visit the Settings screen, My Account and then choose the Profile option. You may also send your request via the Contact Us link for the US, or the following Contact Us link for Canada. KDP reserves the right to request that you provide information that will enable KDP to confirm that you have the authority to correct or delete the profile information that you want corrected or deleted. KDP may not be able to correct or delete information shared with third parties. Pursuant to applicable law, we may be entitled to refuse to act on the request.
+
+You may refer to your browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving cookies or control your tracking preferences. On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising. Your mobile device may also offer options to decline targeted advertising without the use of cookies.
+
+As described above, we may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. To learn more about cookies, visit www.allaboutcookies.org. The Digital Advertising Alliance (DAA) offers browser-based opt-out tools for the companies that participate in them. Please visit the DAA’s AdChoices site for more information: https://youradchoices.com/control. If you delete cookies generally, you will need to opt out using this tool again.
+
+If you are a U.S. resident, see below for additional options to opt out of sales, shares, and targeted advertising,
+
+Explanation of Applicable Privacy Rights
+
+Residents of California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Texas, Tennessee, Utah, Virginia, or any other state with an applicable privacy law have certain rights relating to the collection, use, disclosure, and other processing of their Personal Information. The exact scope of these rights may vary by state and depending on certain exceptions:
+
+• Right to Know:You may have the right to know what Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, the categories of third parties to whom we disclose Personal Information (for residents of certain states, also the names of such third parties),the categories of Personal Information disclosed to third parties, and the specific pieces of Personal Information we have collected about you.
+
+• Right to Request List of Categories of Third Parties.You may have the right to request a list of the categories of third parties with which we have disclosed your Personal Information.
+
+• Right to Request Specific List of Third Parties.You may have the right to request a list of the specific third parties to which we have disclosed or sold Personal Information.
+
+• Right to Data Portability:You may have the right to request access to your information in a portable format.
+
+• Right to Delete:You may have the right to request that we delete Personal Information that we have collected from you or about you..
+
+• Right to Correct:You may have the right to request that we correct inaccurate Personal Information that we may maintain about you, subject to appropriate verification.
+
+• Right to Opt Out of Certain Types of Personal Information Uses and Disclosure:You may have the right to opt out of the “sale” or “sharing” of your Personal Information, or the use and disclosure of your Personal Information for “targeted advertising” (as these terms are defined in applicable law).
+
+• Right to Appeal:You may have the right to appeal a decision we have made in connection with your privacy rights request.
+
+How to Submit Access/Deletion/Correction Requests
+
+To take advantage of your privacy rights to know/portability, request the categories or specific third parties with which we have disclosed Personal Information, delete, or correct Personal Information, please click here. You may also contact our customer care centers at the telephone numbers and contact pages below (including to submit an appeal of a denial of your privacy rights):
+
+In the U.S.
+
+Keurig (hot beverages, brewers and coffee brands) at 866-901-BREW (2739) or click here
+Dr Pepper brands (cold beverages and food) at 800-696-5891 or click here and scroll down to Contact Us
+
+In Canada
+
+Keurig (hot beverages, brewers and coffee brands) at 1-800-361-5628 or click here
+Canada Dry Mott's Inc. brands (cold beverages and food) at 1-877-350-6590 or click here
+
+Keurig (hot beverages, brewers and coffee brands) at 1-800-361-5628 or click here
+Canada Dry Mott’s Inc. brands (cold beverages and food) at 1-877-350-6590 or click here
+
+KDP may take steps to verify your identity based on the information we have on file about you before responding to your access/portability, deletion, or correction request. You may need to provide your email address to be used for this purpose. We will respond to your request within 45 calendar days if you are a U.S. resident, 30 calendar days if you are a Canadian resident, unless we need additional time, in which case we will let you know.
+
+If we process your Personal Information based on your consent, you may withdraw any consent you previously provided by contacting us as described in this section, and we will apply your preferences going forward.
+
+How to Submit Opt-Out Requests
+
+If you are a U.S. resident, to take advantage of your right to opt out of the sale or sharing of Personal Information or to opt out of targeted advertising, please click here. You may also submit a request by contacting our U.S. customer care centers as described above. If you wish to receive information about your disclosure choices or stop communications from third parties, you will need to contact non-affiliated third parties directly.
+
+Alternatively, if you are a U.S. resident, you can use certain preference signals to exercise your sale and sharing opt-out right automatically with all businesses that you interact with online, including KDP. If you enable a browser-based opt-out preference signal, such as Global Privacy Control (GPC), upon receipt or detection, we will treat the signal as a valid request to opt out of the sale or sharing of Personal Information linked to that browser and any consumer profile we have associated with that browser. Please note that if you use different browsers or browser profiles, you may need to enable the signal on each browser or profile.
+
+We value your privacy and will not discriminate in response to your exercise of your privacy rights. You are not required to create an account to exercise the above listed privacy rights.
+
+Agent Request
+
+You may authorize someone to make a privacy rights request on your behalf (an authorized agent). Authorized agents will need to demonstrate that you’ve authorized them to act on your behalf or must demonstrate they have power of attorney pursuant to applicable probate law. KDP retains the right to request confirmation directly from you confirming that the agent is authorized to make such a request, or to request additional information to confirm the agent’s identity. An authorized agent shall not use a consumer’s personal information, or any information collected from or about the consumer, for any purpose other than to fulfill the consumer’s requests, for verification, or for fraud prevention.
+
+Additional Data Protection Disclosures
+
+Categories of Personal Information Sold or Shared
+
+KDP has “sold” or “shared” the following categories of Personal Information (as these terms are defined in applicable law), namely for analytics and personalized advertising purposes:
+
+• Identifiers/Contact Information: sold or shared to third party advertisers, data analytics providers, and internally with KDP’s Affiliates;
+
+• Geolocation data (non-precise): sold or shared to third party advertisers, data analytics providers, and internally with KDP’s Affiliates;
+
+• Internet/Electronic Activity: sold or shared to third party advertisers, data analytics providers, and internally with KDP’s Affiliates; and
+
+• Profile Inferences: sold or shared to third party advertisers, data analytics providers, and internally with KDP’s Affiliates.
+
+We do not knowingly “sell” or “share” Personal Information about persons under the age of 18.
+
+Categories of Personal Information Disclosed for Business Purposes
+
+KDP has disclosed the following categories of Personal Information for a business purpose (such as with our service providers who are restricted from using your Personal Information outside the scope of their services for KDP):
+
+• Identifiers/Contact Information: disclosed internally within KDP and with KDP’s Affiliates, as well as to service providers;
+
+• Geolocation data: disclosed internally within KDP and KDP’s Affiliates, as well as to service providers;
+
+• Commercial Information: disclosed internally within KDP and with KDP’s Affiliates, as well as to service providers’
+
+• Internet/Electronic Activity; disclosed internally within KDP and with KDP’s Affiliates, as well as to service providers;
+
+• Audio and visual Information; disclosed internally within KDP and with KDP’s Affiliates, as well as to service providers; and;
+
+• Profile Inferences: disclosed internally within KDP and with KDP’s Affiliates, as well as to service providers.
+
+Use and Disclosure of Sensitive Personal Information: We may collect, share or sell Sensitive Personal Information, specifically gender, ethnicity and age. To the extent that we collect, use, or share “sensitive personal information” as that term is defined in applicable law, we limit our use or disclosure of the sensitive personal information for permitted business purposes.
+
+For Former Employees and Employee Candidates
+
+To submit a privacy request please click here.
+
+KDP offers several loyalty programs (“Programs”) that provide the opportunity to earn redeemable points or other rewards. Participation in these Programs is voluntary.
+
+Currently, the Programs that we offer are: In the U.S., Pepper Perks, Pepper Pack, and Keurig Perks and in Canada, Keurig Loyalty Program for Canada. KDP may also provide discounts or promotions when you sign-up to receive marketing messages or claim a specific offer when you interact with our Services (“Offers”). The terms of each Offer will be provided to you when the offer is made available. You may opt-out of marketing messages at any time as described in our messages to you, and you may exercise your other choices as described above under “Your Choices and Opt-out.”
+
+We collect Personal Information to support and fulfill the Programs and Offers and for the purposes of targeted advertising, which includes identifiers/contact information, commercial information, internet or other electronic network activity information, social media handles, and profile inferences. We may share your Personal Information with third parties as described in the “How We Share Your Personal Information” section above, including data analytics providers and advertising technology vendors.
+
+Because we collect Personal Information, the Programs and Offers may be considered to be “financial incentives” or “price or service differences” under California law or “bona fide loyalty programs” under Colorado law. The value of Personal Information we collect will vary based on the Program and/or Offer, and we calculate this value based on the expenses related to offering the Program or Offer (such as the costs of providing discounts or promotions, IP or marketing costs, and other related expenses).
+
+You have the right to opt-out of any Program or Offer at any time in accordance with the terms of each Program and Offer. If you have any questions or require assistance, please contact us as described below.
+
+In the U.S.
+
+Keurig (hot beverages, brewers and coffee brands) at 866-901-BREW (2739) or click here
+
+Dr Pepper brands (cold beverages and food) at 800-696-5891 or click here and scroll down to Contact Us
+
+In Canada
+
+Keurig (hot beverages, brewers and coffee brands) at 1-800-361-5628 or click here
+Canada Dry Mott's Inc. brands (cold beverages and food) at 1-877-350-6590 or click here
+
+We will retain your Personal Information consistent with applicable law and our retention policies. What this means in practice will vary between different types of information, and when we consider our approach, we take into account satisfying any legal, accounting, or reporting requirements. We also may aggregate or de-identify the information so that it no longer identifies you, in which case we may use this information indefinitely without further notice to you.
+
+KDP takes precautions intended to help protect Personal Information that we collect and store. Unfortunately, no system or electronic data transmission is completely secure. Any transmission is at your own risk and we expect that you will use appropriate security measures to protect your information.
+
+You are responsible for maintaining the security of your KDP Account. KDP will treat access to the Services through your KDP Account as authorized by you.
+
+STORING AND PROCESSING YOUR INFORMATION – FOR CANADA RESIDENTS ONLY
+
+Your information may be collected, accessed, processed and stored in Canada as well as in any other country where we, our affiliates, or our third party partners maintain facilities. Your information may be accessed by law enforcement agencies in these countries, and the privacy laws in these countries may not offer the same level of protection as those in the country where you reside.
+
+CHILDREN'S PRIVACY
+
+KDP is committed to protecting the privacy of children. We do not direct the Services to, nor do we knowingly collect any Personal Information from children under the age of 18 in the United States. In Canada, we may collect Personal Information of children 13 years of age or older to administer sweepstakes, contests, discounts, or other promotions. Where required under applicable law, we will not collect Personal Information of a child without obtaining consent for such collection from the child’s parent or guardian. If a minor has provided us with Personal Information, his or her parent or guardian may contact us using the contact information below to request deletion of such information.
+
+We also may from time to time offer services that are co-branded (i.e., operated in partnership with an unaffiliated business). We and our co-branding partner may collect Personal Information on co-branded websites or services. Our processing of your Personal Information is subject to this Privacy Policy, but the processing of your Personal Information by a co-branding partner is subject to its privacy policy and practices, not ours.
+
+The date of this Privacy Policy was last updated is stated at the top of this Policy. As we add new features, we may revise or supplement this Privacy Policy. If we change the Privacy Policy in a material way, we will provide appropriate notice. Such notice may be provided via a temporary banner on our Site, an email sent to users for whom we have an email address, or by temporarily noting “UPDATED” next to the Privacy Policy link on the footer of our Site. Your continued use of the Services after such change constitutes your acceptance of the Privacy Policy, as amended. As of the date of last update, the amended Privacy Policy supersedes all previous versions of or agreements, notices, or statements about the Privacy Policy.
+
+## CONTACT US
+
+If you have any questions, comments, or concerns regarding this Privacy Policy or the Services, please contact us at privacy@kdrp.com.
+
+For Canada, you can also contact our Privacy Office by mail at:
+
+Keurig Dr Pepper Canada
+
+30 Eglinton Av. West suite 600, Mississauga ON L5R 3E7
+
+Attn: Privacy Office

@@ -1,0 +1,601 @@
+# Global Privacy Notice
+
+- Back to Global Privacy Portal
+
+- العربية
+
+- Bosanski
+
+- Български
+
+- 简体中文
+
+- 繁體中文
+
+- Hrvatski
+
+- Čeština
+
+- Dansk
+
+- Nederlands
+
+- English (United Kingdom)
+
+- English (United States)
+
+- Eesti
+
+- Suomi
+
+- Français Canadien
+
+- Français
+
+- ქართული ენა
+
+- Deutsch
+
+- Ελληνικά
+
+- עִבְרִית‎
+
+- हिन्दी
+
+- Magyar
+
+- Íslenska
+
+- Bahasa Indonesia
+
+- Italiano
+
+- 日本語
+
+- Қазақша
+
+- 한국어
+
+- Latviešu
+
+- Lietuvių
+
+- Македонски
+
+- Bahasa Melayu
+
+- Norsk
+
+- Polski
+
+- Português do Brasil
+
+- Português Europeu
+
+- Română
+
+- Русский
+
+- Српски
+
+- Slovenčina
+
+- Slovenščina
+
+- Español (Latin America)
+
+- Español (Spain)
+
+- Svenska
+
+- ภาษาไทย
+
+- Türkçe
+
+- Українська
+
+- Oʻzbekcha
+
+- Tiếng Việt
+
+Last updated: October 2025
+
+This Privacy Policy discusses:
+
+- Collection of Personal Information
+
+- Use of Personal Information
+
+- Recipients
+
+- Cross-Border Transfer
+
+- Your Choices and Data Subject Rights
+
+- Security
+
+- Retention
+
+- Notice of Financial Incentive Program
+
+- Third-Party Payment Service
+
+- Use of Services by Minors
+
+- Changes to This Privacy Policy
+
+- Contact
+
+U.S. State Consumer Privacy Supplement
+
+We – Stanley Black & Decker, Inc. and our affiliates (“Stanley Black & Decker”, “we”, “us”, “our”) – provide you with this Privacy Policy to inform you about how and when we process personal information that we collect through:
+
+- Our websites, microsites, and mobile sites operated by us from which you are accessing this Privacy Policy;
+
+- Our software applications made available for use on or through computers, mobile devices, and connected devices;
+
+- Our social media pages and apps that we control from which you are accessing this Privacy Policy (collectively referred to as our “Social Media Pages”);
+
+- Our business and vendor relationships;
+
+- Our products and services;
+
+- HTML-formatted email messages that we send to you that link to this Privacy Policy or other communications with you;
+
+- Offline interactions such as when you visit our stores or retail kiosks, attend a tradeshow; and
+
+- Your interactions with us when you place an order or request for customer support, including through chat bots.
+
+Collectively we consider the above our “Services”.
+
+This Privacy Policy does not apply to any third-party websites, service or applications, even if they are accessible through our Services. Please consult their respective privacy policies to learn more about how they process your Personal Information and how they make it available to others.
+
+## 1. Collection of Personal Information
+
+“Personal Information” is information that identifies an individual or relates to an identifiable individual, including as such term is defined in the applicable law. We collect Personal Information through your use of our Services and in certain instances from third parties. We also use and combine data to infer insights about you, for example, your product preferences, characteristics, predispositions, or behaviors.
+
+### 1.1 Personal Information We Collect From You
+
+We collect Personal Information through your use of our Services, for example, when you register an account to access our Services, register your products, interact with our customer support or our franchisees or licensees, when you participate in contests or competitions, when you sign up for marketing communications, make inquiries regarding product warranties, navigate the Services, utilize one of our connected devices, participate in an event, make a purchase, communicate with us, or become a partner or vendor.
+
+Depending on how you use our Services, we collect different types of Personal Information from you:
+
+- Contact Information: such as your name, email address, phone number, address, and country of residence;
+
+- Account Information: such as login credentials (related to your account), consumer profile, username, alias, registered products history, browsing history, cart contents, wish list, and purchase history;
+
+- Audio, Electronic, Visual and Similar Information: such as images and audio, video or call recordings created in connection with our business activities;
+
+- Transaction Information: such as purchase and order information and payment details, including debit or credit card details, bank account details, and billing address;
+
+- Device Information: technical information associated with the device you use, such as the device type and model, system language, browser type, geographical location, and operating system, and technical identifiers that identify the device you use, such as IP address, IDFA (identifier for advertisers), and other unique identifiers;
+
+- Connected Products Information: usage information while you use any of our connected products;
+
+- User Content: such as information related to customer satisfaction surveys, reviews you leave about our products, customer requests or queries, and other content you may create, such as posts on our Social Media Pages, along with any related name, username, alias, or other account information;
+
+- Images and Videos: such as photos and videos submitted by you (for example, as part of a redemption campaign) or taken at one of our events;
+
+- Physical Location: your physical location including if your precise geolocation that can be derived from your IP address, GPS coordinates, use of our connected products, your interactions with our emails, or your manually selected location, zip code or postal code, depending on your preferences;
+
+- Professional Characteristics: such as your trade, industry, employment status, profession, work or trade skill levels, and experience;
+
+- Demographic Characteristics: such as the number of household members, country of residence, age, birthdate, ethnicity, affiliation, industry, income, education, employment status, profession, trade, trade union membership and gender;
+
+- Usage Information: such as information concerning your browsing behavior, your purchasing patterns and trends, and engagement, such as how long you visit a page, what links you click on, what pages you visit, how many times you visit a page and how long it takes for you to come back;
+
+- Preferences: your preferences, either based on purchasing habits or on information about your preferences, including your preferred payment method, your purchased, viewed and recommended products, your preferred language, and your preferences regarding marketing communications and use of cookies;
+
+- Social Media Information: your name, email address, photo, list of social media contacts, and any other information that may be or you make accessible to us when you connect your social media account to your Services account;
+
+- Relationship History: details of your contact with us, as well as order history; and
+
+- Other Personal Information that you provide us.
+
+Like many other website owners and operators, we use automated data collection tools such as cookies and web beacons to collect certain information. To learn more about our collection and use of cookies, please visit our Cookie Policy at https://www.stanleyblackanddecker.com/privacy-policy/cookie-notice. Depending on how you use our Services, we may also collect:
+
+- Online Activity Data: Pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access, and whether you have opened our marketing emails or clicked links within them;
+
+- Device Information: Your mobile device’s operating system type and version, manufacturer and model, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, language settings, mobile device carrier, radio/network information (e.g., WiFi, LTE, 3G), advertising ID, and general location information. This includes data obtained through cookies and similar technologies;
+
+- Audio/Visual Data: Audio, electronic, visual, and similar information, such as call and video recordings, photos and videos taken at one of our events/conferences, CCTV and site security information; and
+
+- Geolocation Data: Such as device location and approximate location derived from IP address.
+
+We need to collect Personal Information to provide the requested Services to you. If you do not provide the information requested, we may not be able to provide the Services. If you disclose any Personal Information relating to other people to us or to our vendors in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy and our Terms of Use available on the brand site you access.
+
+### 1.2 Personal Information Provided by Third Parties
+
+In certain cases, we also receive Personal Information about you from other sources, for example:
+
+- Publicly Available Information from publicly available databases, such as LinkedIn, product review websites, or local trade or industry associations’ registries, or following the monitoring of social media channels for feedback and direct mentions of Stanley Black & Decker or following web data extraction;
+
+- Purchase Information from associated dealers or retailers of Stanley Black & Decker products or our service providers;
+
+- Contact Information, Professional Characteristics and Other Information from data brokers, publicly available databases, business partners, including for joint marketing and promotion events, and from event managers, influencers, and privately-owned marketing or survey/enquiry databases; and
+
+- Third-Party Logins when you link, connect, or login to our Services with a third-party service (e.g., social media services). In such cases, you direct the service to send us information as controlled by that service or as authorized by you via your privacy settings on that service.
+
+### 1.3 Sensitive Information
+
+We may collect and process information that may be interpreted as sensitive information. We will do so only when permitted by Applicable Law and will follow all applicable processing restrictions associated with processing of such data. Where applicable, we will obtain your express permission when any of your sensitive Personal Information is processed.
+
+Depending on applicable law, sensitive information may include: race, religion, ethnicity, nationality or national origin, age, gender identity, marital status, medical or health information (including disability status), biometric information, biometric templates, trade union membership, veteran status, background check information, judicial data such as criminal records, financial and bank account data, personal identification information, or precise geolocation information.
+
+If the information that you voluntarily provide to us does include sensitive information, as defined by applicable law, you expressly authorize SBD to process such personal information in accordance with this Privacy Policy.
+
+## 2. Use of Personal Information
+
+We use your Personal Information to the extent necessary to achieve our legitimate business purposes, including the purposes described below. We may anonymize and aggregate Personal Information that does not identify you or another individual and use and share such data for our own business purposes.
+
+### 2.1 Process Orders and Returns
+
+We process your Contact Information, Account Information, Transaction Information, Device Information, Location, Preferences, Relationship History, Publicly Available Information, and other Personal Information you provide us with, in order to process your orders and returns, including warranty and product registration, related payments, exchanges or refund requests.
+
+We will engage in these activities to manage our contractual relationship with you, and/or to take steps at your request prior to entering into a contract.
+
+### 2.2 Provide Services
+
+We process your Contact Information, Account Information, Device Information, User Content, Location, Preferences, Social Media Information, Relationship History, Publicly Available Information, Physical Location, and other Personal Information you provide us with, in order to provide you with the Services you request from us in a personalized and efficient way, including: 1) opening and arranging access to your registered account, and updating and maintaining the information in your account; 2) utilizing the functionality of any smart devices, including geolocation-based requests (such as local weather or proximity to a specific location) or device pairing; and 3) sending you administrative information related to your account, such as changes in our terms, conditions and policies.
+
+We will engage in these activities to manage our contractual relationship with you, and/or to take steps at your request prior to entering into a contract.
+
+### 2.3 Provide Customer Service
+
+We process your Contact Information, Account Information, Device Information, User Content, Location, Preferences, Relationship History, and other Personal Information you provide us with, in order to follow-up on your customer service requests, such as to provide you with assistance, and handle your enquiries and complaints.
+
+We engage in these activities to manage our contractual relationship with you.
+
+### 2.4 Send You Marketing Communications, Tailor Our Content for You, and Organize and Communicate Promotions and Contests
+
+We use your Contact Information, Account Information, User Content, Professional Characteristics, Preferences, Social Media Information, Relationship History, Purchase Information, Physical Location, and other Personal Information you provided us with, including any inferences we infer about you using such information, to identify your preferences and tailor our content and recommendations for you, to send you personalized advertising and marketing-related communications about our Services, new and recommended products, and other news about our company, and to organize and communicate promotions and contests. We engage in these marketing activities and tailoring based on our legitimate interest, such as to promote our Services and to provide tailored Services based on your preferences.
+
+If we have a prior relationship, we may send you communications about products and Services that are similar to products and Services you requested information about or purchased before. You will be able to opt out from marketing communications at all times.
+
+We may obtain your consent in certain instances, including when legally required, to send you marketing emails and to tailor our content to you using the information described above. We may also obtain your consent if we do not have a prior relationship with you. If you provide your consent, we will use the Personal Information outlined above to ensure that the marketing content is tailored to your interests. If you no longer wish to receive these marketing communications, you are free to unsubscribe at any time by selecting the “Unsubscribe” button at the bottom of any of our marketing communications, where applicable, replying “STOP” to any SMS message we send, by calling us at +1 (888) 997-6648, or filling out our Data Privacy Rights Inquiry Form.
+
+We will try to comply with your inquiry as soon as reasonably practicable. Please note that if you opt out of receiving marketing from us, we may still send you important administrative messages, from which you cannot opt out. Where applicable, we have a legitimate business interest to send you marketing communications, and to organize and communicate promotions and contests.
+
+### 2.5 Facilitate and Host Visits, Conferences, and Events
+
+We use your Contact Information, Account Information, Professional Characteristics, Preferences, Relationship History, Purchase Information, Photographs and Videos, and other Personal Information you provided, to facilitate and host conferences and events, such as trade shows, and to welcome visitors at our premises.
+
+We will engage in these activities to manage our contractual relationship with you, and/or to take steps at your request prior to entering into a contract.
+
+### 2.6 Improve Our Products and Services
+
+We use your Account Information, Professional Characteristics, Demographic Characteristics, Usage Information, Purchase Information, Relationship History, and other Personal Information you provide us with to allow you to read and leave product reviews and to conduct data analyses and customer surveys and studies, for example, to improve the efficiency of our Services, to develop new products and Services, to identify usage trends (e.g., which parts of our Services are of most interest to users), and to determine the effectiveness of our marketing campaigns. Similarly, we may use your Personal Information for quality and training purposes.
+
+Where applicable, if we process your Personal Information to improve our products and Services, we do this for the preservation of our legitimate interests to continuously improve our products and Services to ensure that you have the best experience possible. Where legally required, we will obtain your consent for such processing activities.
+
+### 2.7 Advertisements
+
+We use your Personal Information obtained by cookies and similar technologies to help us select advertising to serve to you and where to serve it based on your experience on our Services and other sites that you visit. To learn more about our collection and use of cookies, please visit our Cookie Policy at https://www.stanleyblackanddecker.com/privacy-policy.
+
+Where required under applicable law, we obtain your consent to send you direct marketing. Where permitted by applicable law, we also engage in targeted advertising based on our legitimate interest, such as providing tailored Services based on your preferences.
+
+### 2.8 Build New and Maintain Existing Partner Relationships
+
+We use your Contact Information, Account Information, Professional Characteristics, Relationship History, and other Personal Information you provide us with, to build new partner relationships with vendors, suppliers and distributors, to facilitate bids, proposals and contracting, to onboard partners, to facilitate performance of Services, to provide feedback and manage relationships, and to facilitate contract renewals and termination.
+
+Where applicable, if we process your Personal Information to build and maintain partner relationships, we rely on our legitimate interests and the legitimate interests of our partners or of a third party to conduct business and to ensure that you have the best experience possible. Where legally required, we will obtain your consent for such processing activities.
+
+### 2.9 Inform a Third Party in the Context of a Sale or Business Transaction
+
+We may process your Personal Information for disclosing or transferring some or all of the Personal Information collected about you to a third party if Stanley Black & Decker were ever merged with or acquired, or involved in a corporate reorganization, joint venture, assignment, sale, or transfer or other disposition of all or any portion of our business, assets, or stock (including in connection with bankruptcy or similar proceedings). Such third parties may include, for example, an acquiring entity and its advisors.
+
+Where applicable, we would process your Personal Information in the context of such a sale or business transaction based on our legitimate interest to conduct business. Furthermore, depending on your jurisdiction, we engage in these activities to manage our contractual relationship with you.
+
+### 2.10 Keep Our Services Safe From Misuse and Illegal Activity
+
+We use your Personal Information to keep our Services safe from misuse and illegal activity. This includes conducting security audits, verification that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements, monitoring for and prevention of fraud, and verification that your registration with or use of our Services is compliant with our terms and conditions of purchase and Terms of Use. For example, we may review the public reviews you provide on a relevant store website in order to verify compliance with our Terms of Use available on the brand site you access.
+
+Where this is the case, we process your Personal Information as necessary for the fulfillment of our statutory duties and obligations and, where applicable for the preservation of our legitimate interests or the legitimate interests of our partners or of a third party to prevent misuse and illegal activity, such as fraudulent transactions.
+
+### 2.11 Comply With Legal Obligations
+
+We use your Personal Information as necessary to comply with our legal obligations. This may include instances where we have received a reasonable request from competent law enforcement agents or representatives, judicial authorities, governmental agencies or bodies, including competent data protection authorities. For example, we may be required to collect and transfer your Personal Information to our financial institution or payment service provider to allow your financial institution and the payment service provider to comply with their legal obligations, such as obligations under applicable anti-money laundering and counter-terrorism financing legislation.
+
+Similarly, we may share your Personal Information, after considering your privacy interests and other factors, with law enforcement or judicial authorities, as evidence or if there are justified suspicions of any unlawful act or crime committed by you through our Services or other interaction with us. Such action may be necessary, for example, to conform to legal requirements or comply with legal processes, including laws outside of your country of residence; to enforce or apply our terms of use and other agreements, including for billing and collections purposes; to protect our property rights and safety or property rights and safety of a third party, our affiliated companies, or the public in general; or to stop any activity that we consider illegal, unethical or legally actionable. Where we process or share your Personal Information for these purposes, we do this to comply with our legal obligations, to manage our contractual relationship with you, and/or based on our legitimate interest, such as our interest in enforcing our terms and conditions and bringing and defending legal claims.
+
+### 2.12 Emergency and Incident Response
+
+We use your Personal Information as necessary to ensure the safety of on-site personnel and visitors, to respond to, handle, and document on-site accidents and medical and other emergencies, to actively monitor properties to ensure adequate incident prevention, response, and documentation, to request assistance from emergency services, and to send notifications and alters in the event of incidents or emergencies (such as vis SMS, email, call, audio-visual device prompts, etc.).
+Where we process or share your Personal Information for these purposes, we do so to manage our contractual relationship with you, to protect individuals’ vital interests, to comply with our legal obligations, and/or based on a legitimate interest, such as ensuring the safety of our premises.
+
+## 3. Recipients
+
+We will only share your Personal Information with third parties as described in this Privacy Policy.
+
+### 3.1 Information We Share in Order to Provide Our Services
+
+You understand that if you purchase or use our products or Services, your Personal Information may also be processed by third parties, who process your Personal Information on our behalf in order to provide you with our products and Services and to improve them and as necessary to achieve the other purposes set out in Section 2 - Use of Personal Information. This includes, but is not limited to, product registrations, website hosting, data analysis, information technology and related infrastructure provision, and advertising and analytic services.
+
+We will only engage third parties for the processing of your Personal Information to the extent this is necessary to achieve the purposes as set out in Section 2 - Use of Personal Information. Our third-party processors are only allowed to process your Personal Information on our behalf and upon our written instructions. Some of these third-party processors may be located in a country whose data protection legislation is different from your country, and they will have access to your Personal Information as necessary to perform their functions, but they may not share your Personal Information with any other third party or use that data for any other purpose.
+
+### 3.2 Information We Share With Our Affiliates, Licensees and Franchisees
+
+We may share your Personal Information with our affiliates to the extent this is necessary to achieve the purposes as set out in Section 2 - Use of Personal Information. Please consult the list and location of our affiliates here: Subsidiaries of Stanley Black & Decker. For information collected by our Japanese affiliate(s) and jointly used with Stanley Black & Decker, Inc., Stanley Black & Decker, Inc. is the party responsible for the management of the jointly-used Personal Information.
+
+We may share your Personal Information with our licensees and franchisees for their use in relation to the marketing, distribution, advertising sale, and servicing of products sold under license from us.
+
+### 3.3 Information We Share With Business Partners to Market Their Products or Services
+
+Consistent with your choices, and with your consent where required by applicable law, we may disclose your Personal Information to third parties to market their products or services to you.
+
+### 3.4 Information We Share With Other Third Parties
+
+We may disclose your Personal Information as necessary to comply with our legal obligations, in the context of a sale or business transaction, to improve the Services, or to keep our Services safe from misuse and illegal activity. This may include professional advisors, such as accountants, actuaries, auditors, experts, consultants, lawyers, banks, and financial institutions.
+
+We contract with third party advertising companies to tailor online advertising to be directed to you on other websites and online services. These third-party advertising companies place, use, or rely on technology, such as cookies and pixel tags, to obtain information about your interactions with our Services. They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. In addition to information the companies receive from your access to and use of other websites or online services on any of your devices, and information received from third parties, this information helps us select relevant advertising for you.
+
+To learn more about our collection and use of cookies and how to opt out, please visit our Cookie Policy at https://www.stanleyblackanddecker.com/privacy-policy. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns.
+
+We process your Personal Information in accordance with this Privacy Policy and such processing is limited to what is necessary to achieve the purposes set out in this Privacy Policy.
+
+### 3.5 Information You Choose to Share via the Services
+
+By using the Services, you may elect to disclose Personal Information:
+
+- On message boards, public chat rooms, profile pages, blogs, research panels and communities, surveys, product review pages, and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services may become public and may be available to other users and the general public; or
+
+- When you connect your Services account with your social media account, you may share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
+
+## 4. Cross-Border Transfer
+
+Your Personal Information may be stored and processed in any country or region where we have facilities or in which we engage vendors, and by using the Services you understand that your Personal Information may be transferred to countries outside of your country or region of residence, including to the United States, which may have data protection rules that are different from those of your country or region.
+
+Several countries require that organizations put in special protections when information is shared cross border. We comply with those obligations and have implemented intercompany mechanisms to meet those requirements. For example, if our processing of your Personal Information is subject to the United Kingdom (“UK”) or the European Economic Area (“EEA”) data protection laws, each recipient of your Personal Information will observe appropriate safeguards with regard to the processing of your Personal Information. Such safeguards will be the consequence of:
+
+- The recipient country having legislation in place which is considered as providing an adequate level of data protection according to UK and EEA standards;
+
+- Other appropriate measures, as available under applicable laws, including standard contractual clauses for transfers adopted by the European Commission or the UK Information Commissioner’s Office. You may obtain a copy of these by contacting us via the Data Privacy Rights Inquiry Form.
+
+If the applicable law requires your prior consent for the cross-border transfer of your Personal Information, we will ask you for such consent.
+
+## 5. Your Choices and Data Subject Rights
+
+### 5.1 Consent and Opt-Out
+
+You have choices about your Personal Information that we collect about you and how we use and disclose your Personal Information, according to the applicable law.
+
+Where legally required, we will obtain opt-in consent prior to collecting or processing your Personal Information. You have the right to withdraw your earlier given consent for processing your Personal Information. Note that withdrawal of your consent may mean that certain functionalities within our Services are not accessible to you.
+
+You may opt out of the following:
+
+- Marketing Communications: You may opt out of our marketing communications by following the instructions listed in the email that you received, or by filling out our Data Privacy Rights Inquiry Form as indicated below. We will try to comply with your request(s) as soon as reasonably practicable. However, even if you opt-out, you may still receive non-marketing communications, such as order/shipping confirmation, changes to service, product registrations, product recalls, or other important customer services communications.
+
+- Text Messaging/IM Marketing: You may opt out of marketing sent by mobile text messages (e.g., SMS, MMS) and other instant messages (e.g., WhatsApp, Facebook Messenger) from us by replying “STOP.”
+
+- Direct Marketing: We may share your Personal Information with third parties for their direct marketing purposes, where allowed by applicable law. If you would prefer that we discontinue sharing your Personal Information with third parties for their direct marketing purposes, you may opt out of this sharing – please refer to Section 5.3 Requests below.
+
+- Location: You can opt-out of collection and use of your location information by checking your browser settings and your email program settings, and not allowing the app downloaded on your mobile device to access Bluetooth® settings on your device. Your desktop or mobile device settings may allow you to disable or block location-based services, which may prevent our Services from accessing your location information. If you choose not to provide this information, you may not be provided with content specific to your location, and we or our marketing partners may not be able to provide you with the applicable personalized services and content.
+
+- Cookies: to learn more about opting out of cookies, please visit our Cookie Policy at https://www.stanleyblackanddecker.com/privacy-policy.
+
+### 5.2 Data Subject Rights
+
+To the extent provided to you by applicable law, you may have the following rights with regard to your Personal Information.
+
+#### 5.2.1 Right of Access
+
+You may have the right to request access to your Personal Information processed by us.
+
+#### 5.2.2 Right to Rectification
+
+You may have the right to ask that Personal Information pertaining to you that is inaccurate is corrected, at no cost to you. Your request for correction must be accompanied with proof of the inaccurate nature of such data.
+
+#### 5.2.3 Right to Erasure and to Limit Processing
+
+You may have the right to request that your Personal Information be deleted if it is no longer required considering the purposes outlined in this Privacy Policy, or if you withdraw your consent. Depending on your jurisdiction, this request will be evaluated in light of:
+
+- Our overriding interests or the overriding interests of any other third party; and
+
+- Legal or regulatory obligations or administrative or judicial orders that may prevent such deletion.
+
+Instead of deletion, you can also ask that we limit the processing of your Personal Information if and when you contest the accuracy of your Personal Information, you consider the processing to be illegitimate, your Personal Information is no longer needed for the purposes listed in this Privacy Policy, or as otherwise allowed by applicable law.
+
+#### 5.2.4 Right to Object
+
+You may have the right to object to the processing of your Personal Information on grounds relating to your particular situation. However, you can always object to processing for direct marketing purposes free of charge and without justification.
+
+#### 5.2.5 Right to Data Portability
+
+When we process your Personal Information based on your consent or in order to perform a contract, you may have the right to receive the Personal Information you have provided us with in a structured, commonly used, and machine-readable format, and you may have the right to transmit such data to another entity.
+
+#### 5.2.6 Right to Not Be Subject to Automated Individual Decision-making
+
+You may have the right not to be subject to a decision that is solely based on automated processing, if that decision produces legal effects concerning you or significantly affects you, unless the decision is made as a consequence of our agreement in order to provide you with the Services you requested or when we obtained your explicit consent.
+
+### 5.3 Requests
+
+If you wish to submit a request to exercise one or more of the rights listed above, you can access our Data Privacy Rights Inquiry Form or you contact us at +1 (888) 997-6648.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+- If applicable, you may also contact our data protection officer responsible for your country or region. See our list of data protection officers (and similar functions).
+
+Your request should state the right you wish to exercise and, if required, the reasons or necessary proof. We may require certain Personal Information from you to verify your identity. Upon validating your request, we will try to comply with your request to the extent required by applicable law as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). Further, certain Personal Information may be exempt from requests pursuant to applicable data protection laws or other laws and regulations.
+
+Depending on your location, for example, if our processing of your Personal Information is subject to European data protection law, including Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of Personal Information and on the free movement of such data (“GDPR”), you may lodge a complaint with a competent supervisory authority if you are unhappy with any aspect of our handling of your Personal Information. For example, a list of EEA data protection authorities is available at: http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm, and information regarding the UK data protection authority is available at: https://ico.org.uk/.
+
+For more information about the requests you may make under the applicable law in specific U.S. states, please refer to the following:
+
+- U.S. State Consumer Privacy Supplement.
+
+## 6. Security
+
+We want you to feel confident about using our Services, so we implement security safeguards designed to protect your data. We seek to use reasonable technical, administrative, organizational, and physical measures designed to protect your Personal Information from unauthorized access or theft, as well as accidental loss, tampering or destruction. However, no data transmission or storage system can be guaranteed to be 100% secure and we cannot warrant or guarantee the safety or security of your data. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with Section 12 - Contact below.
+
+## 7. Retention
+
+Your Personal Information is only processed for as long as needed to achieve the purposes set out in this Privacy Policy (considering contextual elements, such as the length of time we have an ongoing relationship with you and provide you our Services), or up until such time where you withdraw your consent for processing them.
+
+In such case, we will delete or de-identify your Personal Information. In certain jurisdictions, we may not delete or de-identify your Personal Information if:
+
+- We have an overriding interest in keeping your Personal Information identifiable (when retention is advisable in light of applicable statutes of limitations, we believe there is a prospect of litigation, or in the event of regulatory investigations or audits or legal proceedings about a claim related to your Personal Information), or
+
+- A legal or regulatory obligation or a judicial administrative order prevents us from de-identification or deletion (for example, we may preserve Personal Information required to contact you in the event of a product recall or identify you to honor a commercial product warranty. We may also preserve Personal Information subject to a preservation order or search warrant, and certain laws require us to keep records of your transactions for a certain period of time before we can delete them).
+
+Please note that if you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing communications in the future.
+
+## 8. Notice of Financial Incentive Program
+
+We offer our customers incentive programs that provide certain benefits to program members, such as coupons for signing up for our mailing lists or SMS messaging, rebate programs, and promotional events that may require you to opt into marketing communications. To operate our incentive programs and provide you with these benefits, we process your name, email address, phone number, product ownership history, and address. Otherwise, the types of Personal Information that we collect from program members are generally similar to the types of Personal Information that we collect from non-members. We collect Personal Information from both members and non-members related to their personal preferences in order to provide personalized services, as described above in Section 2. The amount of Personal Information that we collect from a member or non-member may vary and depends on the interactions that the member or non-member has with us.
+
+Because opting into our marketing incentive programs involves the collection and processing of Personal Information, the programs may qualify as “financial incentive” or “Bona Fide Loyalty” programs under the California Privacy Rights Act (“CCPA”) and the Colorado Privacy Act (“CPA”), respectively. We “sell,” as the term is defined under the CCPA and the CPA, Personal Information of both members and non-members to third parties to personalize online advertising content, as described below in the U.S. State Consumer Privacy Supplement. The U.S. State Consumer Privacy Supplement also discloses the following details: categories of Personal Information “sold” to third parties, if applicable; categories of Personal Information processed for purposes of targeted advertising, if applicable; and categories of third parties that will receive members’ Personal Information, including Sensitive Personal Information, if applicable.
+
+We estimate the value of your Personal Information to us, solely for purposes of the CCPA and pursuant to the valuation options mandated by the CCPA regulations, to correspond to the value of the coupon or benefit that you receive when you consent to receiving marketing communications, minus the expenses associated with offering those coupons or benefits. We base this good faith estimate on: the value that arises from our commercial relationships, such as with business partners, vendors, and customers; the costs and expenses we incur in offering benefits to members; the types of benefits provided; and the collection, use, and retention of the Personal Information of consumers who have voluntarily signed up and chosen to remain members. The value of program benefits to members varies significantly because individual members take advantage of program benefits in different ways and to varying degrees.
+
+Members who are California or Colorado residents may exercise their privacy rights, including the rights to know, correct, and opt out of the “sale” or “sharing” of Personal Information, without any impact on their membership status or eligibility to receive benefits, and members who exercise their privacy rights receive the same benefits as members who do not except in the event of requests not to receive marketing communications in which case SBD cannot contact you with such benefits. If a member exercises their deletion right by choosing to delete their Personal Information, then we will no longer be able to contact them in order to provide them with program benefits once we have honored their deletion request.
+
+You may opt out of these incentive programs at any time. To do so please use our Data Privacy Rights Inquiry Form, contact us at +1 (888) 997-6648, or reply “STOP” to any SMS message.
+
+## 9. Third-Party Payment Service
+
+The Services may provide functionality allowing you to make payments to Stanley Black & Decker using third-party payment services with which you have created your own account. When you use such a service to make a payment to us, your Personal Information will be collected by such third party and not by us and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use, and disclosure of your Personal Information.
+
+## 10. Use of Services by Minors
+
+The Services are not directed to individuals under the age of eighteen (18), and we do not knowingly collect Personal Information from such individuals. In the event we become aware of such processing, we will take steps to delete it.
+
+## 11. Changes to This Privacy Policy
+
+We may make changes to this Privacy Policy from time to time, so please review it periodically. We will update the effective date of the Privacy Policy at the time a change is made. We will notify you of any changes by posting the changes on our website or our Services, or notifying you by email. The revised Privacy Policy will become effective when we post it on our website or our Services, or when we notify you of the revised Privacy Policy. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+## 12. Contact
+
+If you wish to submit a request to exercise one or more of the rights listed above you can do this by:
+
+- Filling out our Data Privacy Rights Inquiry Form;
+
+- Emailing us at PrivacyPolicyManager [at] sbdinc.com (PrivacyPolicyManager[at]sbdinc[dot]com); or
+
+- Contacting us at +1 (888) 997-6648.
+
+Please refer to Section 5.3 Requests.
+
+Stanley Black & Decker, Inc., located at the below address, is the company responsible for collection, use, and disclosure of your Personal Information under this Privacy Policy. If you have questions or concerns with respect to our Privacy Policy, please contact our corporate office at the following postal address:
+
+Stanley Black & Decker, Inc.
+1000 Stanley Drive
+New Britain, CT 06053
+ATTN: Legal / Privacy Policy Manager
+
+Please include your question or concerns in your letter to us, including the Stanley Black & Decker brands and Services relevant to your question or concern.
+
+If applicable, you may also contact our data protection officer responsible for your country or region. See our list of data protection officers (and similar functions).
+
+## U.S. State Consumer Privacy Supplement
+
+Last Updated: October 2025
+
+The following chart includes the categories of Personal Information that we collect and process, as well as which categories of Personal Information we disclose to third parties for our operational business or commercial purposes, including within the preceding 12 months. The chart also details the categories of Personal Information that we “sell” to third parties or “share” for purposes of cross-context behavioral or targeted advertising, including within the preceding 12 months.
+
+| Categories of Personal Information | Disclosed to Which Categories of Third Parties for Operational Business or Commercial Purposes
+See the “Recipients” section above for further details | Sold To | Shared With
+
+| Identifiers, such as name, contact information, online identifiers, IP address, account identifier, or email address. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; event partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Personal information, as defined in the California customer records law, such as name, contact information, education, employment, employment history, financial information, medical information and health insurance information. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; event partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Characteristics of protected classifications under California or federal law, such as sex, age, race, religion, national origin, disability, medical conditions and information, citizenship, immigration status and marital status. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); law enforcement; professional advisors; event partners; third parties for business transactions | None | None
+
+| Commercial information, such as transaction information, purchase history and financial details. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Internet or network activity information, such as browsing history, online behavior, and interactions with our and other websites, applications and systems. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Geolocation data, such as device location, your physical location, and IP location. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Audio, electronic, visual and similar information, such as images and audio, video or call recordings created in connection with our business activities. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); law enforcement; professional advisors; business partners; event partners; third parties for business transactions | None | None
+
+| Education information, such as education history. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); law enforcement; professional advisors; business partners; event partners; third parties for business transactions | None | None
+
+| Professional or employment-related information, such as employer. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); law enforcement; professional advisors; business partners; event partners; third parties for business transactions | None | None
+
+| Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; business partners; event partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+| Sensitive Personal Information, such as precise/specific geolocation information and financial account information. | Affiliates; licensees; franchisees; vendors (such as customer service providers, payment processors, contest fulfillment providers, and IT vendors); advertising networks; analytics providers; law enforcement; professional advisors; business partners; third parties for business transactions | Advertising networks; business partners | Advertising networks; business partners
+
+We retain each category of Personal Information, including Sensitive Personal Information, as described above under Section 7 – Retention.
+
+Please note that some of this Personal Information qualifies as Sensitive Personal Information under U.S. state privacy laws. We collect, use and disclose Sensitive Personal Information for purposes of performing services for our business, providing goods or performing Services as requested or reasonably expected by you, ensuring safety, security and integrity, countering wrong or unlawful actions, short term transient use, servicing accounts, providing customer service, verifying customer information, processing payments, activities relating to quality and safety control or product improvement, and other collection and processing that is not for the purpose of inferring characteristics about an individual.
+
+We collect, use, and disclose Personal Information for the purposes described above under Section 2 – Use of Personal Information.
+
+We collect Personal Information from several sources as described above under Section 1 – Collection of Personal Information.
+
+## 13. Individual Rights
+
+You may make the following requests:
+
+Right to Disclosure of Information: You may request to know whether we process your Personal Information and request that we disclose to you the following information:
+
+- The categories of Personal Information we have collected and process about you.
+
+- The categories of sources from which we collected that Personal Information.
+
+- Our business or commercial purpose for collecting, selling, or “sharing” that Personal Information.
+
+- The categories of third parties with whom we “shared” or to whom we sold that Personal Information.
+
+- The specific third parties to whom we disclosed that Personal Information.
+
+- The specific pieces of Personal Information we collected about you, including a copy of that Personal Information in a portable format.
+
+- If we disclosed your Personal Information to a third party for a business purpose, a list of the Personal Information types that each category of recipient received.
+
+Right to Delete Personal Information: You may request that we delete your Personal Information c, subject to certain exceptions.
+
+Right to Correct Your Personal Information: You may request that we correct inaccuracies in your Personal Information.
+
+Right to Limit Use of Sensitive Personal Information: You may request that we limit our use or disclosure of your Sensitive Personal Information. You may do so either by contacting us according to Section 15 – How to Exercise These Rights below or by clicking on the link titled “Your Privacy Choices” in the footer of our website.
+
+Right to Out of the Sale of Your Personal Information and Targeted Advertising: You may request to opt-out of the sale of your Personal Information, and you may request to opt-out of targeted advertising, including the “sharing” of your Personal Information for cross-context behavioral advertising. You may do so by either contacting us according to Section 15 – How to Exercise These Rights below or by clicking on the “Your Privacy Choices” link in the footer of our website.
+
+Right to Non-Discrimination: You have the right not to be discriminated against for the exercise of your privacy rights described above.
+
+## 14. Your Rights Under California’s Shine the Light Act
+
+If you prefer that we discontinue sharing your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt out of this sharing by contacting us in accordance with Section 15 – How to Exercise These Rights below. If you would prefer that we discontinue sharing your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt out of this sharing by contacting us in accordance with Section 15 – How to Exercise These Rights below.
+
+## 15. How to Exercise These Rights
+
+If you wish to submit a request to exercise one or more of the rights listed above you can do this by:
+
+- Filling out our Data Privacy Rights Inquiry Form;
+
+- Emailing us at PrivacyPolicyManager [at] sbdinc.com (PrivacyPolicyManager[at]sbdinc[dot]com); or
+
+- Contacting us at +1 (888) 997-6648.
+
+Please refer to Section 5.3 – Requests above for more detailed instructions on submitting requests.
+
+We will verify and respond to your request consistent with applicable law, considering the type and sensitivity of the Personal Information subject to the request. To protect your privacy and the security of your information, we verify consumer requests by requesting identification documents and other documentation necessary to confirm your identity.
+
+If you have questions or concerns with respect to our Privacy Policy, please contact our corporate office at the following postal address:
+
+Stanley Black & Decker, Inc.
+1000 Stanley Drive
+New Britain, CT 06053
+ATTN: Legal / Privacy Policy Manager
+
+Please include your question or concerns in your letter to us, including the Stanley Black & Decker brands and Services relevant to your question or concern.
+
+## 16. Browser Opt-Out Preference Signals
+
+In addition to the privacy controls that you can access using our Data Privacy Rights Inquiry Form, Stanley Black & Decker recognizes Global Privacy Control signals where legally required. The Global Privacy Control (“GPC”) is a browser setting that a user can set in order to send a signal to each website visited regarding the user’s privacy preferences, such as not to “share” or sell user’s Personal Information for purposes of Advertising. If your browser or browser extension has GPC enabled, our websites will recognize that signal and opt you out of the sale and “sharing” of your personal information for the particular browser or device you are using. For more information about GPC and how to implement GPC opt-out preference signals, please visit https://globalprivacycontrol.org/.
+
+## 17. Appeals
+
+To the extent available under applicable law, if we refuse to act on your request, you may appeal this refusal within a reasonable period after you have received notice of the refusal. You may file an appeal by contacting us as described in Section 15 – How to Exercise These Rights above.
+
+## 18. Authorized Agents
+
+If you want to make a request as an authorized agent on another person’s behalf as permitted by applicable law, you may use the submission methods noted above. As part of our verification process, we may request that you provide, as applicable, proof concerning your status as an authorized agent. In addition, we may require the individual on whose behalf you are making the request to verify their own identity or your permission to submit the request.
+
+## 19. De-Identified Information
+
+Where we maintain or use de-identified information, we will continue to maintain and use that information only in a de-identified form and will not attempt to re-identify the information.

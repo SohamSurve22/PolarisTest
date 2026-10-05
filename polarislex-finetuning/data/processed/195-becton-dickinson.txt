@@ -1,0 +1,388 @@
+Policies, Guidelines and Statements
+
+# Privacy Notice
+
+This Privacy Notice was last updated on November 17, 2025.
+
+Privacy Notice Introduction
+
+1. Sources of Personal Data
+
+2. Types of Personal Data We Collect
+
+3. How We Use Personal Data
+
+4. How We Disclose Personal Data
+
+5. Cookies and Other Tracking Technologies
+
+6. Data Security and Data Retention
+
+7. Children’s Privacy
+
+8. External Links
+
+9. Terms of Use
+
+10. Contact Information
+
+11. Supplemental U.S. State Privacy Disclosures
+
+12. Privacy Policies for non-US residents
+
+Privacy Notice Introduction
+
+1. Sources of Personal Data
+
+2. Types of Personal Data We Collect
+
+3. How We Use Personal Data
+
+4. How We Disclose Personal Data
+
+5. Cookies and Other Tracking Technologies
+
+6. Data Security and Data Retention
+
+7. Children’s Privacy
+
+8. External Links
+
+9. Terms of Use
+
+10. Contact Information
+
+11. Supplemental U.S. State Privacy Disclosures
+
+12. Privacy Policies for non-US residents
+
+Important Note
+
+The Site is offered in the USA only, is directed at US residents only and is governed by laws in the United States only. By accessing or using this Site, you agree without restriction to be bound by the most recent version of this Privacy Notice. If you do not agree to follow and be bound by this Privacy Notice, you may not access or use this Site or share your personal data with BD directly or through a BD partner. By visiting the Site and sharing your personal data, you agree that we may use your personal data as described in this Privacy Notice.
+
+If you are a resident of certain US states that have adopted generally applicable privacy laws, please click here for more information about your specific privacy rights.
+
+Privacy Notice Introduction
+
+Becton, Dickinson, and Company, together with its subsidiaries and affiliates (collectively, “BD,” “Company,” “us,” “we,” or “our”), is committed to protecting the privacy of Personal Data (i.e., information reasonably related to a specific person). This Privacy Notice (“Notice”) informs you of our practices concerning the processing of Personal Data collected through our websites, social media accounts, online advertising, email, and mobile applications (collectively, our “Digital Properties”) and through other online and offline interactions, such as when you attend our events or educational programs. Whenever you interact with us on behalf of another individual or entity, such as if you refer a friend to us, you must obtain their consent (or have the legal authority without consent) to share their Personal Data with us.
+
+Scope: This Privacy Notice does not apply to:
+
+- Data that is subject to the Health Insurance Portability and Accountability Act (“HIPAA”). Such data will instead be subject to: (a) our Notice of Privacy Practices when we handle such data as a Covered Entity or (b) contractual requirements with our business customers when we act as a Business Associate (in which case you should direct questions about how such information is handled to that customer because we do not control and are not responsible for their privacy and data processing practices).
+
+- Data about our own employees, contractors, agents and job applicants.
+
+Changes: We may update this Privacy Notice from time to time. Any updated Privacy Notice will be effective when posted. Please check this Privacy Notice periodically for updates. If required by law, we will obtain your consent or contact you directly if there are material changes to this Privacy Notice.
+
+Quick links
+
+-
+Terms of Use
+
+-
+Cookie Policy
+
+1. Sources of Personal Data
+
+We collect Personal Data about you from the following sources:
+
+A. Directly from you. We may collect Personal Data you provide to us directly, such as when you contact us through our Digital Properties, interact with us in person, sign up for offers, newsletters or webinars/webcasts, communicate with us, place or customize orders, or sign up for an account or other services.
+
+B. Data collected automatically and through tracking technologies. We may automatically collect information or inferences about you, such as through cookies, pixels, tags, scripts, and other tracking technologies (collectively, “Cookies”), when you interact with our Digital Properties as described in our Cookie Policy. This may include information about how you use and interact with our Digital Properties, information about your device, and internet usage information.
+
+C. From third parties. We may collect Personal Data from third parties, such as service and content providers, our affiliated companies and subsidiaries, business partners (such as in connection with joint marketing arrangements), health care providers, family members, data brokers, tradeshows and conferences, and social media companies. This includes third parties that we partner with to provide our services, such as via mobile applications.
+
+D. From publicly available sources. We may collect Personal Data about you from publicly available sources, such as public profiles and websites.
+
+We may combine information that we receive from the various sources described in this Notice, including third-party sources. We may also use or disclose the combined information and inferences for the purposes identified below.
+
+2. Types of Personal Data We Collect
+
+We may collect the following types of Personal Data about you:
+
+A. Identifiers, such as your name, email address, physical address, telephone number, business contact information, and device identifiers (e.g., cookie IDs and IP address).
+
+B. Records About You, such as signatures; your physical characteristics or a description of you; the content, timing and method of communications you have with us, such as online chats, calls, and emails; marketing preferences; information you may provide to enable us to determine your eligibility for our patient-specific programs, such as patient-support programs; and other information entered into or shared with one of our mobile applications.
+
+C. Protected class and demographic information, such as age (including birthdates) and gender.
+
+D. Commercial information, such as purchase or subscription information, information about products you order or are interested in, payment details, delivery details, and other commercial or financial information; and legal information relating to your transactions, such as fraud checks or flags raised about your transactions, payment card refusals, complaints and information related to their resolution, and legal requests and communications.
+
+E. Internet or other electronic network activity information, such as your browsing history, search history, preference information (including online marketing preferences), account settings (including any default preferences), and other information regarding your interactions with and use of the Digital Properties described in our Cookie Policy.
+
+F. Non-precise geolocation data, such as your location as derived from your IP address.
+
+G. Audio, electronic, visual, or other sensory information, such as photographs (including ones taken at conferences or events) and audio/video recordings (including recordings of webinars and training programs).
+
+H. Professional or employment-related information, such as job title, organization, professional licenses, credentials, professional specialty, professional affiliations, and other professional information.
+
+I. Education information.
+
+J. Inferences drawn from any of the information we collect about your preferences or behavior. For example, we may assess the level of interest in our products and services based on frequency of visits and contact and determine your preferred frequency for receiving offers.
+
+K. Sensitive Personal Data, including the following:
+
+- Account log-in information.
+
+- Precise geolocation.
+
+- Content of mail, email, and text messages where we are not the intended recipient (such as messages that we host as a Controller but are not sent to us).
+
+- Information about your health, including physical or mental disability; and diagnostic test results, medications taken, and reactions to medication if you provide it through one of our mobile applications or provide it to us in the context of participating in one of our patient-support or other patient-specific programs.
+
+- Medical or health insurance information, including insurance policy number.
+
+3. How We Use Personal Data
+
+We may use Personal Data for the following purposes:
+
+A. To provide you or your company with products and services, such as providing and delivering you the Digital Properties and goods and services you request; providing customer service; processing or fulfilling orders and transactions and fulfilling our contracts; verifying customer information; processing payments; communicating with you about your product, service, inquiry, or subscription; hosting informational webinars; verifying eligibility for certain programs or benefits; responding to requests, complaints, and inquiries; and providing similar services or otherwise facilitating your relationship with us.
+
+B. For our internal business purposes, such as maintaining or servicing accounts; operating our Digital Properties and customizing the content; maintaining internal business records, such as accounting, commercial, procurement, document management, and other similar activities; enforcing our policies and rules; organizational analysis; management reporting; managing Company assets and our global workforce; project management; auditing; budgeting; real estate management; IT administration of our network, intranet, and other technologies; and IT security management and tasks.
+
+C. For our internal research and product improvement purposes, such as verifying or maintaining the quality or safety of our products or services; improving our products or services; designing new products and services; developing and improving algorithms, artificial intelligence or machine learning tools and models; evaluating the effectiveness of our advertising or marketing efforts; and debugging and repairing errors with our systems, networks, and equipment.
+
+D. For legal, safety or security reasons, such as complying with legal, reporting, and similar requirements (including mandatory reporting obligations to public health authorities if applicable); investigating and responding to claims against the Company, its personnel, and its customers; for the establishment, exercise or defense of legal claims; protecting our, your, our customers’, and other third parties’ safety, property or rights; detecting, preventing, and responding to security incidents; and protecting against malicious, deceptive, fraudulent, or illegal activity.
+
+E. In connection with a corporate transaction, such as if we acquire, merge, spinoff, divest, or some or all of our assets are acquired by another entity, including through a sale in connection with bankruptcy and other forms of corporate change.
+
+F. For marketing and targeted advertising, such as marketing our products or services or those of our affiliates, business partners, or other third parties. For example, we may use Personal Data we collect to personalize advertising to you (including by developing product, brand, or services audiences and identifying you across devices/sites), to analyze interactions with us or our Digital Properties, or to send you newsletters, surveys, questionnaires, promotions, or information about events or webinars. You can unsubscribe from our email marketing via the link in the email, by responding “STOP” to the text message, or by contacting us using the information in the Contact Information section below.
+
+We may use anonymized, de-identified, or aggregated information for any purpose permitted by law.
+
+4. How We Disclose Personal Data
+
+We may disclose Personal Data to third parties, including the categories of recipients described below:
+
+A. Affiliates and subsidiaries, including parent entities, corporate affiliates, subsidiaries, business units, and other companies that share common ownership.
+
+B. Service providers that work on our behalf to provide the products and services you request or support our relationship with you, such as IT providers, internet service providers, web hosting providers, data analytics providers, and companies that provide business support services, financial administration, or event organization.
+
+C. Professional consultants, such as accountants, lawyers, financial advisors, and audit firms.
+
+D. Vendors necessary to complete transactions you request, such as shipping companies and logistics providers.
+
+E. Law enforcement, government agencies, and other recipients for legal, security, or safety purposes, such as when we share information to comply with law or legal requirements, to enforce or apply our Terms of Use and other agreements or policies, and to protect ours, our customers’, or third parties’ safety, property, or rights.
+
+F. Other entities in connection with a corporate transaction, such as if we acquire assets of another entity or if we, or some or all of our assets, are acquired by another entity, including through a sale in connection with bankruptcy or other forms of corporate change.
+
+G. Business partners that may use Personal Data for their own purposes, such as:
+
+- Advertisers, ad platforms and networks, and social media platforms;
+
+- Third parties whose Cookies we use as described in our Cookie Policy.
+
+- Commercial data partners to whom we make information available for their own marketing purposes; and
+
+- Partners who work with us on promotional opportunities, including co-branded products and services.
+
+For example, if you input Personal Data on a co-branded registration page, relating, for example, to a contest co-sponsored by both BD and a partner company or while using a mobile application hosted by a BD Partner, then your Personal Data will be available both to BD and to such partner company. Where recipients use your Personal Data for their own purposes, we are not responsible for the privacy practices or personal data processing policies of such partners. You should consult the privacy notices of those third-party services for details on their practices.
+
+H. The public, such as when you have an opportunity to make comments regarding us or our products that we may share with the public, including comments on our blog posts and reviews on our product pages. Any Personal Data in comments, reviews, or other content that you share in public areas of our Digital Properties may be read, collected, or used by other users or the public.
+
+I. Entities to which you have consented to the disclosure.
+
+We may disclose anonymized, de-identified, or aggregated information for any purpose permitted by law.
+
+5. Cookies and Other Tracking Technologies
+
+Our Digital Properties and authorized third parties use Cookies to collect information about you, your device, and how you interact with our Digital Properties over time and across websites as described in our Cookie Policy. Some browsers have incorporated Do Not Track (“DNT”) preferences. At this time, we do not honor Do Not Track signals.
+
+6. Data Security and Data Retention
+
+We maintain reasonable security procedures and technical and organizational measures to protect your Personal Data against accidental or unlawful destruction, loss, disclosure or use. Unless otherwise stated on the relevant page of the website or through a BD or BD partner mobile application, BD uses general security standards but has not taken additional action to secure data provided to its Digital Properties or from its applications or from a BD partner mobile application, and such transmissions are subject to normal Internet security risks. As noted, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mails sent to or from this website may not be secure, and you should therefore take special care in deciding what information you send to us or to BD partners. Please keep this in mind when disclosing any Personal Data to BD or to any other party via the Internet. Moreover, when you use passwords, ID numbers, or other special access features on this website, it is your responsibility to safeguard them.
+
+Your Personal Data will be retained as long as necessary to fulfill the purposes we have outlined above or as required under applicable law. This includes retaining your Personal Data to provide you with the products or services you have requested and interact with you; maintain our business relationship with you or your company; improve our business over time; ensure the ongoing legality, safety, and security of our services and relationships; or otherwise in accordance with our internal retention procedures. Once you have terminated your relationship with us, we may retain your Personal Data in our systems and records in order to ensure adequate fulfillment of surviving provisions in terminated contracts or for other legitimate business purposes, such as to enable easier future user onboarding, demonstrate our business practices and contractual obligations, or provide you with information about our products and services in case of interest.
+
+7. Children’s Privacy
+
+We do not knowingly collect or use any Personal Data from children under 18 or knowingly allow children under 18 to order or use our products, to communicate with us, or to use any of our Digital Properties. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
+
+The BD Veritor™ At-Home COVID-19 Test and accompanying mobile application collects data only from minors once their parent(s) or legal guardian(s) has set up an account to allow the creation of a minor profile. All data related to minors under 14 is collected from a parent or guardian of that minor who consents to the use of the BD Veritor™ At-Home COVID-19 Test on that minor.
+
+8. External Links
+
+Our Digital Properties may contain links to external sites or other online services that we do not control, including those embedded in third-party advertisements or sponsor information. We are not responsible for the privacy practices or data collection policies of such third-party services. You should consult the privacy notices of those third-party services for details on their practices.
+
+9. Terms of Use
+
+Use of the Digital Properties and our services is governed by and subject to Terms of Use. By using or accessing the Digital Properties or our other services, you agree to be bound by our Terms of Use.
+
+10. Contact Information
+
+If you have questions regarding this Privacy Notice, please contact us at:
+
+Becton, Dickinson and Company
+
+1 Becton Drive
+
+Franklin Lakes, New Jersey 07417-1880
+
+Attention: Privacy Officer for the Americas
+NA_Privacy@bd.com
+
+11. Supplemental U.S. State Privacy Disclosures
+
+A. Data Subject Rights
+
+Depending on our relationship with you and in which state you reside within the United States (such as California, Colorado, Oregon, or Delaware), you may have certain rights regarding Personal Data that you can exercise via our Your Privacy Rights webform, by emailing us at NA_Privacy@bd.com, or by calling us at (800) 490-2177
+
+- Right to Know. You may have the right to request information about the categories of Personal Data we have collected about you, the categories of sources from which we collected the Personal Data, the purposes for collecting, selling, or sharing the Personal Data, and to whom we have disclosed your Personal Data and why. You may also request the specific pieces of Personal Data we have collected about you. Oregon and Minnesota residents may also request a specific list of third parties to whom we disclose your Personal Data.
+
+- Right to Delete. You may have the right to request that we delete Personal Data that we have collected about you.
+
+- Right to Correct. You may have the right to request that we correct inaccurate Personal Data that we maintain about you.
+
+- Right to Opt-Out of Sale, Sharing, and Targeted Advertising. You may have the right to opt out of selling, sharing, and targeted advertising (as such terms are defined under applicable laws). We do not knowingly sell data about minors under age 16. You can exercise the Right to Opt Out of Sale, Sharing, and Targeted Advertising by completing our Your Privacy Rights webform or emailing us at NA_Privacy@bd.com.
+
+- Right to Opt-Out of Profiling. You may have the right to opt out of certain automated processing activities that are used to evaluate characteristics about you.
+
+To the extent required by law, we will honor opt-out preference signals sent in a format commonly used and recognized by businesses, such as an HTTP header field or JavaScript object. We will process opt-out preference signals at the browser level.
+
+We will not discriminate against you for exercising your privacy rights.
+
+Nevada residents: Individuals may contact us at NA_Privacy@bd.com to inquire about your right to opt out of the sale of your Personal Data.
+
+Locating Your Information and Verifying Your Identity: To process rights requests, we may need to obtain information to locate you in our records or verify your identity depending on the nature of the request.
+
+- For Requests to Opt-Out of Sale, Sharing, and Targeted Advertising: We collect information including name and email address to locate you in our records.
+
+- For Requests to Know, Delete, and Correct: We collect information necessary to verify your identity and that you are a resident of a state that provides for these rights, including name, email address, and request details.
+
+Authorized Agents: Authorized agents may exercise rights on your behalf by submitting a request via NA_Privacy@bd.com.
+
+- If you designate an authorized agent to submit a Request to Know, Delete, or Correct, we may reach out to you directly to verify your own identity or to confirm that you provided the authorized agent with permission to submit the request.
+
+- If you designate an authorized agent to submit a Request to Opt Out of Sale, Sharing, and Targeted Advertising, we may seek additional information directly from the authorized agent to process the request.
+
+Appeal: If we deny your rights request, you may have the right to appeal. To submit an appeal, contact us at NA_Privacy@bd.com. We will inform you in writing our response to your appeal.
+
+Authorized Agents: Authorized agents may exercise rights on your behalf by submitting a request via NA_Privacy@bd.com.
+
+- If you designate an authorized agent to submit a Request to Know, Delete, or Correct, we may reach out to you directly to verify your own identity or to confirm that you provided the authorized agent with permission to submit the request.
+
+- If you designate an authorized agent to submit a Request to Opt Out of Sale, Sharing, and Targeted Advertising, we may seek additional information directly from the authorized agent to process the request.
+
+Appeal: If we deny your rights request, you may have the right to appeal. To submit an appeal, contact us at NA_Privacy@bd.com. We will inform you in writing our response to your appeal.
+
+California Shine the Light: California's "Shine the Light" law (Civil Code Section § 1798.83) permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to NA_Privacy@bd.com.
+
+Right to Removal of Posted Information—California Minors: If you are under 18 years of age, reside in California, and have posted content or information on our Digital Properties, you have the right to request removal of unwanted information that you publicly post on the Digital Properties. To request removal of such information, you can contact us as provided in the Contact Information section above, detailing where the content or information is posted and attesting that you posted it. Upon receiving such a request, we will make reasonable, good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified to the extent required by applicable law, but the information may not be completely or comprehensively removed. For instance, third parties may have republished or archived content that we do not control.
+
+B. Additional Data Processing Disclosures
+
+Although we have not “sold” Personal Data for money in the past 12 months, we engage in routine practices with our Digital Properties involving third parties that could be considered a “sale” or “sharing” (i.e., for targeted advertising).
+
+We only use and disclose Sensitive Personal Data for the following purposes: (i) performing services or providing goods reasonably expected by an average consumer; (ii) detecting security incidents; (iii) resisting malicious, deceptive, or illegal actions; (iv) ensuring the physical safety of individuals; (v) for short-term, transient use, including non-personalized advertising; (vi) performing or providing internal business services; (vii) verifying or maintaining the quality or safety of a service or device; or (viii) for purposes that do not infer characteristics about you.
+
+Below please find a chart detailing the categories of Personal Data we collected and with whom it was sold, shared, or disclosed for a business purpose in the past 12 months.
+Categories of Personal Data We Collect
+Categories of Third Parties With Whom We Disclose Personal Data for a Business Purpose
+Categories of Third Parties to Whom Personal Data is Sold or Shared
+Identifiers (Section 2.A)
+- Affiliates and subsidiaries
+
+- Service providers
+
+- Professional consultants
+
+- Vendors necessary to complete transactions you request
+
+- Law enforcement, government, agencies, and other recipients for legal, security, or safety purposes
+
+- In connection with a corporate transaction
+
+- Entities to which you have consented to the disclosure
+- Advertisers, ad platforms and networks, and social media platforms
+
+- Third parties whose cookies and tracking tools we use as described in our Cookie Policy.
+
+- Commercial data partners to whom we make information available for their own marketing purposes
+
+- Partners who work with us on promotional or sponsorship opportunities, including co-branded products and services
+Personal information described in the California Customer Records Act (Section 2.B)
+
+Characteristics of protected classifications under California or federal law (Section 2.C)
+
+- Not Sold or Shared
+Commercial information (Section 2.D)
+
+Internet or other electronic network activity (Section 2.E)
+
+Geolocation data (Section 2.F)
+
+Audio, electronic, visual, or other sensory information (Section 2.G)
+
+Professional or employment-related information (Section 2.H)
+
+Education information (Section 2.I)
+
+Inferences (Section 2.J)
+
+Sensitive personal information (Section 2.K)
+
+- Not sold or shared
+
+12.Privacy Policies for non-US residents
+
+The US Privacy Notice is directed at US residents only. If you are a resident of the below jurisdictions, please refer to the appropriate link for information about your specific privacy rights.
+
+| Market | Privacy Policy URL
+
+| América Latina (ES) | https://www.bd.com/es-latam/about-bd/policies/privacy-policy-statement
+
+| América Latina (PT) | https://www.bd.com/pt-latam/about-bd/policies/privacy-policy-statement
+
+| Australia/New Zealand | https://www.bd.com/en-anz/about-bd/policies/privacy-policy-statement
+
+| België | https://www.bd.com/nl-be/privacy-policy
+
+| Belgique | https://www.bd.com/fr-be/privacy-policy
+
+| Canada (EN) | https://www.bd.com/en-ca/about-bd/policies/privacy-policy-statement
+
+| Canada (FR) | https://www.bd.com/fr-ca/about-bd/policies/privacy-policy-statement
+
+| Česká republika | https://www.bd.com/cs-cz/privacy-policy
+
+| Deutschland | https://www.bd.com/de-de/about-bd/policies/privacy-policy-statement
+
+| España | https://www.bd.com/es-es/about-bd/policies/privacy-policy-statement
+
+| France | https://www.bd.com/fr-fr/about-bd/policies/privacy-policy-statement
+
+| Greater Asia | https://www.bd.com/en-ga/about-bd/policies/privacy-policy-statement
+
+| India | https://www.bd.com/en-in/about-bd/policies/privacy-policy-statement
+
+| Italia | https://www.bd.com/it-it/about-bd/policies/privacy-policy-statement
+
+| Middle East, North Africa | https://www.bd.com/en-mena/privacy-policy
+
+| Nederland | https://www.bd.com/nl-nl/privacy-policy
+
+| Nordics | https://www.bd.com/en-no/about-bd/policies/privacy-policy-statement
+
+| Österreich | https://www.bd.com/de-at/about-bd/policies/privacy-policy-statement
+
+| Polska | https://www.bd.com/pl-pl/privacy-policy
+
+| Schweiz | https://www.bd.com/de-ch/about-bd/policies/privacy-policy-statement
+
+| Sub Saharan Africa | https://www.bd.com/en-za/privacy-policy
+
+| Southeast Asia | https://www.bd.com/en-sea/privacy-policy
+
+| Taiwan | https://www.bd.com/zh-tw/privacy-policy-statement
+
+| United Kingdom | https://www.bd.com/en-uk/about-bd/policies/privacy-policy-statement
+
+| ישראל | https://www.bd.com/he-il/privacy-policy
+
+| 대한민국 | https://www.bd.com/ko-kr/about-bd/policies/privacy-policy-statement
+
+| 中国 | https://www.bd.com/zh-cn/about-bd/policies/privacy-policy-statement
+
+| 日本 | https://www.bd.com/ja-jp/about-bd/policies/privacy-policy-statement
+
+true

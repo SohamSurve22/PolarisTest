@@ -1,0 +1,359 @@
+My Account
+
+# Online Privacy Notice for Visitors to Citigroup.com
+
+This page was last updated on September 21, 2026.
+
+## Related Citi Privacy Notices
+
+- Citi Real Estate Services Privacy Notice (California Addendum)
+
+This Privacy Notice (the "Notice") governs how Citigroup Inc. and our subsidiaries and affiliated companies (collectively, “Citi,” “we,” or “us”) collect, use, and disclose Personal Information (as defined below) from and about users (“you”) of this website. We advise you to read the Notice in its entirety, including the jurisdiction-specific provisions in the appendix to this Notice, which will apply to users in certain jurisdictions.
+
+If you are a California resident, the California Privacy Rights Act may give you certain privacy rights related to your Personal Information, which are in addition to any rights set forth in this Notice. Please read the California Supplemental Provision below for additional information.
+
+Please note that if you are a Citi customer, additional privacy notices may apply to you as a customer of a particular Citi business, and this Notice does not replace any other privacy notice that may be applicable to Personal Information collected or used by Citi through that customer relationship with Citi.
+
+- PERSONAL INFORMATION COLLECTED THROUGH THE SERVICES
+
+- HOW PERSONAL INFORMATION IS USED
+
+- HOW PERSONAL INFORMATION IS DISCLOSED
+
+- CHILDREN
+
+- LINKS TO OTHER WEBSITES
+
+- SECURITY
+
+- YOUR CHOICES
+
+- CHANGES TO THIS NOTICE
+
+- CONTACT US
+
+- APPENDIX
+
+## Personal Information Collected Through the Services
+
+The type of personal information we collect is classified as Other Information.
+
+"Other Information" is information that does not and cannot reveal an individual's specific identity, such as information that has been de-identified or aggregated.
+
+Citi collects and uses certain Personal Information in order to operate and provide you with access to the Services. This includes Personal Information that we collect automatically when you visit or interact with the Services.
+
+### Information That We Collect About Your Use of the Services
+
+We automatically collect certain information about your use of the Services and about the device you use to access the Services, which may include:
+
+- The pages you request and visit;
+
+- Information obtained in the course of maintaining or supporting the Services;
+
+- Information about your internet use, such as your IP address, the URLs of sites from which you arrive or leave the Services, your type of browser, your operating system, your internet provider; and
+
+- If you access the Services via your mobile device, we may also collect information about your mobile provider and type of mobile device.
+
+We (and others that control collection of Personal Information) use different technologies to collect this information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about cookies and how to disable them, please see "Your Choices" below.
+
+### Advertising and Analytics
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through mobile apps used for behavioral advertising purposes.
+
+## How Personal Information Is Used
+
+We use the Personal Information we collect to provide, maintain, and improve the Services. We may also use the Personal Information we collect to:
+
+- Send you technical notices, updates, security alerts, and support and administrative messages (such as changes to our terms, conditions, and policies) and to respond to your comments, questions, and customer service requests;
+
+- Monitor and analyze trends, usage, and activities in connection with our Services;
+
+- Develop new products and services and enhance current products and services;
+
+- Detect, investigate, and prevent fraudulent transactions and other illegal activities, and protect the rights and property of Citi and others; and
+
+- Carry out any other purpose described to you at the time the information was collected.
+
+## How Personal Information Is Disclosed
+
+We may disclose your Personal Information for the following purposes or as otherwise described in this Notice:
+
+- With our service providers, who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, processing your transactions, e-mail delivery, auditing, and other services;
+
+- To cooperate with public and government authorities and law enforcement, and to respond to their requests, or to provide them with information as required;
+
+- For other legal reasons, such as to monitor compliance with and enforce our terms and conditions, to protect our rights, privacy, safety, or property, and/or that of our affiliates, you
+or others, to protect against fraud, crime, illegal activity, anti-money laundering, or anti- terrorism, and for risk management purposes; and
+
+- In connection with a sale or business transaction, such as to an acquiring entity or its advisors in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+
+We may also disclose aggregated or de-identified information that cannot reasonably be used to identify you to help deliver products, services, and content that are tailored to the users of our Services and for other purposes.
+
+## Children
+
+Our Services are not designed for children and we do not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child has provided Personal Information to us, please contact us, and we will take appropriate action.
+
+## Links to Other Websites
+
+The Services may contain links to other websites. Please note that Citi is not responsible for the privacy or information security practices of other websites. You should carefully review the applicable privacy and information security policies and notices for any other websites you click through to via the Services.
+
+## Security
+
+We seek to use reasonable physical, electronic, and procedural measures to safeguard Personal Information within our organization against loss, theft, and unauthorized use, disclosure, or modification. Unfortunately, however, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we cannot guarantee its security.
+
+## Your Choices
+
+### Cookies
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For additional information on our cookies policy please refer to the Citigroup Websites Cookie Policy.
+
+### Managing your Cookie preferences
+
+We respect your right to privacy, and you can choose not to allow some types of cookies. You can disable cookies by clicking on the different category headings that is available in the pop-up cookies banner when you first access the site.
+
+### Cookie List
+
+#### Strictly Necessary Cookies
+
+Always Active
+Allow our services to operate in a secure and reliable manner and provide basic functionalities. These cookies are essential and are used for website operations, navigation and allowing images to load. Strictly Necessary cookies cannot be disabled, and your internet browser will accept them by default. You can set your browser to delete them after each online session or at any time thereafter.
+
+#### Functional Cookies
+
+These cookies allow the website to remember choices you make, like what language you prefer and your location. Functional cookies can include first-party, third-party, persistent or session cookies. Like Strictly Necessary cookies, Functionality cookies are used to provide services that you request. These cookies can remember preferences to boost the user experience on a website.
+
+#### Performance Cookies
+
+These cookies collect information about how you use the website, like which pages you visit, and which links you clicked on. Their sole purpose is to improve website functions. This includes cookies from third-party analytic services as long as the cookies are for Citi’s exclusive use.
+
+#### Targeting Cookies
+
+These are also known as “marketing” cookies. These cookies track online activity to help advertisers deliver more relevant advertising or to limit how many times you see an advertisement. These cookies can share that information with other organizations or advertisers. These are persistent cookies and almost always of third-party provenance.
+
+### Updating Your Personal Information
+
+Keeping your account information accurate and up to date is very important. If your account information is incomplete, inaccurate or not current, please use the Contact Us option on our website, or call or write to us at the telephone numbers or appropriate address for changes listed on your account statements, records, online or other account materials. You can also speak to a branch representative, your financial advisor or your designated account representative.
+
+## Changes to This Notice
+
+From time to time, we may revise this Notice. Changes may be made for any number of reasons, including to reflect industry initiatives, changes in the law, and changes to the scope of the Services, among other reasons. You can tell when we last updated the Notice by checking the date at the beginning of the Notice. Any changes will become effective when we post the revised Notice on the Site.
+
+## Contact Us
+
+If you have any questions about this Notice, please contact us using the contact information listed below.
+
+If you are contacting us from outside the United States, please refer to the relevant Citi country page or use the contact details in the local privacy notice for your product.
+
+## Appendix
+
+### Additional information for individuals in European countries (European Union and European Economic Area member States, Switzerland, the United Kingdom and the Bailiwick of Jersey)
+
+If you are in any European jurisdiction in this subtitle, you have certain specific rights and protections under applicable data protection laws. Please read the following paragraphs, which complement the main provisions.
+
+### 1. Lawful Basis for Processing Personal Data
+
+We process your personal data under the lawful basis of legitimate interest where:
+
+We need to use your personal data for the purposes indicated here How Personal Information is Used AND
+We are not under an obligation to process your personal data.
+
+We find such processing is proportionate and within your expectations when providing your personal data. If we intend to use personal data collected under the lawful basis of legitimate interest, such repurposing shall meet two conditions (a) the new purpose will have to be closely aligned with the original purpose for processing and (b) we will inform you of the new purpose and provide you the ability to opt-out, or decline such further processing, within a certain period.
+
+### 2. Data Subject Requests and Enforcement of Rights
+
+- You have rights with respect to the personal data which Citi holds about you.
+To request or enforce any of these rights please Contact Us.
+Alternatively, individuals or ‘Data Subjects’ in Europe can contact:
+GDPR Data Protection Officer at Citi, Citigroup Centre, 25 Canada Square, London, E14 5LB, United Kingdom (Email: gdprdpo@citi.com).
+
+- Clients of the Private Bank in Switzerland can contact our Data Protection Advisor ad Citi, Hardstrasse 201, 8005 Zurich, Switzerland. Email: swissdataprotectionadvisor@citi.com
+
+### 3. Contact the Data Protection Officers or the Data Protection Authority
+
+If you are unsatisfied on how we processed your personal data, depending on your country of residence, you may contact the European Union and European Economic Area: Data Protection Commissioner, in Ireland, our Lead Supervisory Authority for cross border operations in the EU/EEA. http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm
+
+Switzerland: Federal Data Protection and Information Commissioner (FDPIC): https://www.edoeb.admin.ch/edoeb/en/home.html
+
+United Kingdom: Information Commissioner’s Office (ICO): ico.org.uk/
+
+Bailiwick of Jersey: Office of the Information Commissioner: https://jerseyoic.org/
+
+### B. Additional Information for persons in Nigeria
+
+#### Data Controller
+
+The Data Controller for Citi Events in Nigeria is Citibank Nigeria Limited (CNL) a commercial bank licensed by the Central Bank of Nigeria, with registered offices at 27 Kofo Abayomi Street, Victoria Island, Lagos, Nigeria. CNL is responsible for the lawful collection, use, processing and disposal of personal data in Nigeria and its lawful transfer across national borders. CNL has ensured that it has appropriate contractual, technical and operational measures in place with its affiliates and parent companies, and any sub-processors of personal data gathered in Nigeria.
+
+You can request or enforce your personal data rights by emailing or writing to the Data Protection Officer at our registered address or by Email to CNL Data Protection Officer at dponigeria@citi.com
+
+#### Legal Basis for Processing personal information
+
+CNL relies on various lawful basis as permissible by law for the collection and processing of Personal Data in Nigeria and will rely on your consent for the transfer of personal information, where appropriate. These will be gathered, for example in the Release of Permission to Record images, sounds or videos.
+
+We may rely on other lawful basis for processing, including for compliance with applicable law or in the public interest recognized in a statute, or if it is necessary for the establishment, exercise or defense of legal claims.
+
+#### Silence
+
+Your silence will never be assumed to be consent to the processing of your Personal Information.
+
+#### Your Rights when our processing is for Legitimate Interests
+
+Citi shall discontinue the processing of your Personal Information upon your request, unless Citi demonstrates a public interest or other legitimate grounds, which overrides your fundamental rights and freedoms and interests.
+
+#### Further Protections for Processing of Sensitive Personal Data
+
+Without prejudice to the principles set out in the Nigeria Data Protection Act 2023, Citi shall not process your sensitive personal data, unless:
+
+- you have given and not withdrawn consent to the processing for the specific purpose or purposes for which it will be processed;
+
+- processing is necessary for the purposes of performing the obligations of Citi or exercising your rights under employment or any other similar laws;
+
+- processing is necessary to protect your vital interests or of another person, where the data subject is physically or legally incapable of giving consent;
+
+- processing is carried out in the course of its legitimate activities, with appropriate safeguards, by a foundation, association, or such other non-profit organisation with charitable, educational, literary, artistic, philosophical, religious, or trade union purposes, and the
+
+- processing relates solely to the members or former members of the entity, or to persons, who have regular contact with it in connection with its purposes, and
+
+- sensitive personal data is not disclosed outside of the entity without the explicit consent of the data subject;
+
+- processing is necessary for the establishment, exercise, or defense of a legal claim, obtaining legal advice, or conduct of a legal proceeding;
+
+- processing is necessary for reasons of substantial public interest, since a law, which shall be proportionate to the aim pursued, and provides for suitable and specific measures to safeguard the fundamental rights, freedoms and interests of the data subject;
+
+- processing is carried out for purposes of medical care or community welfare, and undertaken by or under the responsibility of a professional or similar service provider owing a duty of confidentiality;
+
+- processing is necessary for reasons of public health and provides for suitable and specific measures to safeguard the fundamental rights, freedoms and interests of the data subject; or
+
+- processing is necessary for archiving purposes in the public interest, or historical, statistical, or scientific research, in each case since a law, which shall be proportionate to the aim pursued, and provides for suitable and specific measures to safeguard the fundamental rights and freedoms and the interests of the data subject.
+
+#### Notification of Security Incidents and Breaches of Personal Information
+The safety, security and integrity of your personal information are paramount to banking operations. We will promptly notify the Nigeria Data Protection Commissioner and in any case within 72 upon becoming aware of any accidental or intentional damage, alteration, destruction, unauthorized disclosure, loss, misuse, inability to access, extraction or theft of personal information that is stored or processed by Citi, where there is a risk to your rights or freedoms. If the risks are significant, we will also communicate directly with you, providing details of the data exposed to risk, with advice and measures we take to mitigate any adverse effects.
+
+#### Right to File Claims before the Nigeria Data Protection Commission
+
+In the event that the protection of your Personal Information is compromised or interfered with, you may lodge a complaint with the Nigeria Data Protection Commission No.12 Clement Isong Street, Asokoro, Abuja or info@ndpc.gov.ng.
+
+#### You may communicate with CNL
+
+Through Citi’s Data Protection Officer at Citibank Nigeria Limited, 27, Kofo Abayomi Street, Victoria Island, Lagos, Nigeria or dponigeria@citi.com or,
+Through your relationship manager or customer services at https://www.citigroup.com/global/privacy/contact-us.
+
+### Supplemental provision applicable to California residents
+
+#### Supplemental Provision – California
+
+Last Updated and Effective Date: December 4, 2023
+
+This California Supplemental Provision (the “Supplement”) supplements the information contained in the Citigroup.com Privacy Notice (the “Privacy Notice”) and applies solely to residents of California who have rights under the California Privacy Rights Act (“CPRA”) (“consumers” or “you”). Unless otherwise defined in the Privacy Notice, any terms defined in this Supplement have the meaning used in the CPRA.
+We do not collect other forms of Personal Information called “sensitive” Personal Information, which are subject to additional protections under applicable data privacy laws. Because we do not collect “sensitive” Personal Information, we do not need to provide a Limit Use and Disclosure of Sensitive Personal Information right under the CPRA.
+
+##### Summary of Personal Information Handling Practices
+
+We provide in the chart below a summary of our prior 12-month Personal Information handling practices. We do not sell your Personal Information to third parties for monetary consideration. However, we may share your Personal Information with third parties for advertising purposes. We do not have actual knowledge of any collection, use, sale, or sharing of Personal Information of consumers under 16 years of age.
+
+| Categories of Personal Information | Sources | Purposes of Processing such Personal Information | Recipients of Personal Information
+
+| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement. | From You |
+
+- To recognize you, your device or your browser when you use the websites/services so that we can facilitate navigation, display information more effectively, store your preferences and otherwise personalize your experience and enhance the use of the websites/services;
+
+- To manage our business, such as for data analysis, audits, fraud monitoring and prevention, information security, ensuring that the websites/services function properly and otherwise administering and improving them, developing new products and services, identifying usage trends, and expanding our business activities;
+
+- To review statistical information about use of the websites/services in order to improve their design and functionality, to understand how they are used, and to assist us with resolving questions about the Websites/services; and
+
+- To fulfill our compliance or legal obligations or as otherwise permitted by applicable laws.
+Sold
+
+We have not sold this information to third parties for monetary consideration.
+
+Shared
+
+We may have shared this information with third party cookie and tracker providers for targeted advertising purposes. See the Advertising and Analytics section in the Privacy Notice for more details.
+
+Service Providers
+
+We have disclosed this information to our affiliates and to other parties that provide services to us or act on our behalf in connection with the operation of our business. See the How Personal Information is Disclosed section in the Privacy Notice for more details.
+
+| Geolocation data. | From your usage of the site |
+
+- To recognize you, your device or your browser when you use the websites/services and enhance the use of the websites/services;
+
+- To manage our business, such as for data analysis, audits, fraud monitoring and prevention, information security, ensuring that the websites/services function properly and otherwise administering and improving them, developing new products and services, identifying usage trends, and expanding our business activities;
+
+- To review statistical information about use of the websites/services in order to improve their design and functionality, to understand how they are used, and to assist us with resolving questions about the Websites/services; and
+
+- To fulfill our compliance or legal obligations or as otherwise permitted by applicable laws.
+Sold
+
+We have not sold this information to third parties.
+
+Shared
+
+We have not shared this information with third parties for targeted advertising purposes.
+
+Service Providers
+
+We have disclosed this information to our affiliates and to other parties that provide services to us or act on our behalf in connection with the operation of our business. See the How Personal Information is Disclosed section in the Privacy Notice for more details.
+
+### Retention of Personal Information
+
+We store Personal Information for as long as necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations.
+
+### Your Rights and Choices
+
+The CPRA affords consumers residing in California certain rights with respect to their Personal Information, subject to certain exceptions. Subject to certain limitations, you have the following rights in California:
+
+- (1) Right to Delete. You have the right to request us to delete the Personal Information we have collected about you.
+
+- (2) Right to Correct. You have the right to request us to correct inaccurate Personal Information we maintain about you.
+
+- (3) Right to Know and Access. You have the right to know and access the Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we have collected about you.
+
+- (4) Data Portability. You have the right to receive the information under right (3) in a format, to the extent technically feasible, that is portable, usable, and allows you to transmit the Personal Information to a person without impediment, where the processing is carried out by automated means.
+
+- (5) Right to Opt-Out. You have the right to opt out of certain processing, such as opting out of profiling or our sale or sharing of your Personal Information.
+
+- (6) Right to No Discrimination. You have the right not to be discriminated against for exercising any of your privacy rights. This includes us not: (a) denying you goods or services; (b) charging you different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; (c) providing you a different level or quality of goods or services; and (d) suggesting to you that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+### Exercising Your Rights
+
+To exercise your rights described above, please submit a verifiable consumer request to us by either:
+
+- Visiting Citi Privacy Hub; or
+
+- Calling us at (833) 971-1191 (TTY: 711)
+
+Except for the right to opt-out related to selling or sharing your Personal Information, we will need to verify your identity before honoring your privacy right request. Subject to certain limitations, we will honor your privacy rights request within 45 calendar days of receipt of your request, unless we request an extension as permitted by data privacy laws. However, we will honor opt-out of sale and sharing requests within 15 business days.
+
+### Authorized Agents
+
+You may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request, please contact us by either:
+
+- Visiting Citi Privacy Hub; or
+
+- Calling us at (833)-981-0270 (TTY: 711)
+
+### Additional Disclosure for California Residents
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us by either:
+
+- Visiting Citi Privacy Hub; or
+
+- Calling us at (833)-981-0270 (TTY: 711)
+
+### Contact Information
+
+If you have any questions about this Supplement, the ways in which we collect and process your Personal Information described in this Supplement, your choices and rights regarding such use, or wish to exercise your rights under the CPRA, please visit Citi Privacy Hub or call us at (833) 971-1191 (TTY: 711).
+
+### Supplemental provision applicable to users registering from the UAE
+
+Your use of the Services signifies that you agree to waive your material privacy rights under the laws of the UAE. You also agree not to hold Citi liable for any publicity, any publication of news, or comments pertaining to the secrets of your or any other person's private or family lives on the Services. Your use of the Services signifies your consent to allowing Citi to disclose any information that you may consider a secret to anybody at any time. You agree not to hold Citi liable for any disclosure of such information that you may think to be a secret to anyone. Please do not use the Services if you disagree with any part of this Notice.
+
+### Supplemental provision applicable to users registering from Korea
+
+Your consent of the Notice and User Agreement upon joining the Citi Alumni Site is deemed that you agreed that your personal information will be controlled, not by Citibank Korea Inc. nor other subsidiaries and affiliates in Korea ("Citi Korea"), but by Citigroup Inc. NY, USA and/or Citi entity which operates the Services you are accessing. Citi Korea is solely responsible for the use of your
+personal information within Korea, when it is used by Citi Korea, under the applicable Korean laws including; Personal Information Protection Act, Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., and other relevant Korean laws. Your personal information and the Submitted material can be shared with Citi Korea but Citi Korea will not collect and use such personal information and material for any marketing purpose without your prior consent. When Citi Korea obtains personal information our personal information via the Services, the use will be controlled by and be bound to the necessary process and procedure following the applicable Korean laws.
+
+## Subscribe to Citi Global Perspectives: trends and insights shaping business worldwide, delivered to your inbox.
+
+Email Address*

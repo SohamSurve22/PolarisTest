@@ -1,0 +1,631 @@
+3M United States
+
+# 3M Global Privacy Statement
+
+## Introduction
+
+3M Company and its subsidiaries and affiliates (“3M,” “we,” “our” or “us”) respect your privacy. This 3M Global Privacy Statement (“Statement”) describes the Personal Data we may collect about you; how we use, disclose and otherwise process it; how we protect it; and the rights and choices you may have regarding your Personal Data. For more information about our processing and the rights that may be available to you in the jurisdiction where you reside, see “Additional Information for Residents of Certain Jurisdictions” below.
+
+This Statement applies to the Personal Data (as defined below) that we process when you use this Website (“Website”), our mobile applications (“Apps”), and our other Websites and services or products that reference this Statement (collectively, our “Services”), and when you otherwise interact with us as described in more detail below. Unless you are in a jurisdiction where this is not permitted, your use of our Website, and any related dispute over privacy, is subject to our Terms of Use. Where required by applicable law, we will first obtain your consent before we collect, use, or disclose your Personal Data.
+
+Throughout this Statement, we use the following defined terms:
+
+- "3M," "we," "us," or "our" refers to the entity that is responsible for the collection and use of your Personal Data (also referred to as a data controller), which is usually the entity that originally obtains your Personal Data. For a list of 3M data controllers and contact details by country, please click here: 3M Global Data Controllers List (PDF, 114 KB).
+
+- "Personal Data" refers to any information relating to an identified or identifiable individual, or as related terms, such as "personal information," are defined under applicable law.
+
+Our Statement is organized in the following sections. For immediate access to a particular section, click on the title.
+
+Jump to
+
+-
+Scope
+
+-
+Personal Data 3M Collects
+
+-
+How 3M Collects Your Personal Data
+
+-
+Information from Business Partners and other Third Parties
+
+-
+How 3M Uses Your Personal Data
+
+-
+How 3M Discloses Your Personal Data
+
+-
+Cookies and Similar Automated Data Collection Technologies
+
+-
+Your Rights
+
+-
+Cross-Border Transfers
+
+-
+Protecting Personal Data
+
+-
+Links to Third Party Internet Sites and Plugins
+
+-
+Retention of Your Personal Data
+
+-
+Children
+
+-
+Questions about this Statement
+
+-
+Changes to this Statement
+
+-
+Additional Information for Residents of Certain Jurisdictions
+
+-
+Supplemental Information for Residents in Other Jurisdictions
+
+## Scope
+
+-
+This Statement applies to Personal Data that we may process through your interactions with us, including, but not limited to:
+
+- Through online activities and Services we offer (including our Websites, Apps, social media pages, webinars, digital events, and other online Services);
+
+- Through third-party sources, including ad networks;
+
+- When we provide Services directly to you and in other situations where you interact with us, including but not limited to interacting with us through our telephone customer service centers, through email, chat, SMS/text or social media direct messages, or by visiting our sites and offices or our events (e.g., tradeshows and conferences);
+
+- Related to activities we undertake in recruiting participants for participation in clinical trials or activities related to identifying and contracting with study investigators and their staff;
+
+- When you interact with us in a professional capacity, for example, if you are a former, current, or prospective customer, distributor, or other business partner (collectively, “Business Partners”) as well as our suppliers and vendors; or
+
+- Anywhere this Statement is posted or referenced.
+
+Some of our Services are regulated by certain state, federal or local laws and may have specific privacy requirements ("Specific Privacy Notices"). When a Specific Privacy Notice exists, the content of the Specific Privacy Notice applies to your use of that specific product and/or service.
+
+Some of our Services are intended for use by our Business Partners, including our business customers (“3M B2B Services”). When Business Partners purchase and use our 3M B2B Services, we may process your Personal Data at their direction and on their behalf, as a service provider, and your use of 3M B2B Services is administered by that company, our Business Partner. In such cases, the privacy policies of the respective Business Partner apply to the processing of your Personal Data and not this Statement. If you have any privacy questions related to your Personal Data processed related to a 3M B2B Service, you should contact the relevant Business Partner directly.
+
+Back to Top
+
+## Personal Data 3M Collects
+
+-
+When you interact with us, we may collect Personal Data such as:
+
+- Contact Information, including your name, company name, job title, address, e-mail address, and phone number.
+
+- Device Information, including browser and device type, IP address, operating system, device identifier, internet service provider, and other technical information about your device.
+
+- Website Interactions, including information about your interactions with our Website (including features on our site, like our chat feature and the video content that we make available), such as referring Websites, pages visited, links or buttons clicked, or information about your preferences, such as your preferred methods of communication and product types in which you are interested.
+
+- Transaction Data, including purchase and order history, as well as payment or other financial information if you make purchases, such as credit card or account information or tax identification number.
+
+- Communication Records, including call and video recordings and transcriptions, email exchanges, text details, and chat contents and logs from your communications with us, which we may keep as records of those conversations.
+
+- Log-in Information, including, if applicable, social media account information for login purposes.
+
+- Social Media Information, including social media name, profile, and any direct messages exchanged with us.
+
+- Clinical Trial Information, including potentially health or biometric information, relating to your use of a 3M product in the context of a clinical trial or study involving that product.
+
+- Health and Safety Information, including information about general health information or adverse events or other health and safety incidents involving the use of 3M products.
+
+- Other information you voluntarily provide to 3M, such as your gender, age, date of birth, nationality, professional associations and registration numbers, demographics, and other information about how you use our Services.
+
+Back to Top
+
+## How 3M Collects Your Personal Data
+
+When you interact with us, we may collect Personal Data directly from you, automatically from your browser or device, and from other sources such as our Business Partners and other third parties.
+
+-
+### Personal Data Collected Directly from You
+
+We collect Personal Data you choose to provide to us on our Website, through our Apps, or when you contact us by phone or email. For example, we may collect Personal Data from you when you:
+
+- Purchase products and Services from us, including through our Website or when you download our Apps;
+
+- Register or create an account with us;
+
+- Engage with us in response to our marketing activities, including by expressing an interest in our Services through a web form, participating in a promotion or survey, attending our marketing events, or subscribing to our email updates and newsletters;
+
+- Contact customer service or make use of our customer support tools;
+
+- Connect with, link to, or "share" our Website via social networking sites; or
+
+- Provide ratings, reviews, or feedback for our Services.
+
+If you provide us with any Personal Data relating to a third party, you represent that you have the authority to do so and to permit us to use the information in accordance with this Statement.
+
+-
+### Personal Data Collected through Automated Means
+
+We automatically collect information from you when you interact with us and use our Services, such as:
+
+- Device and browser information, such as device type, browser type, IP address, operating system, device identifier, and Internet service provider, as well as other information such as general location information, domain name, page views, a date/time stamp, referring and exiting URLs, language, clickstream data and similar device and usage data.
+
+- Information about how you interact with us, such as your usage of 3M Websites and Apps and how you interact with our digital advertisements and promotions, such as video and other content viewed or downloaded and information about your viewing, features used, links clicked, keystrokes and mouse clicks, 3M promotional emails opened, and dates and times of interactions.
+
+Our Business Partners and other third parties may also use these technologies to collect information about your online activities. For more information, see the section below on Cookies and Similar Automated Data Collection Technologies.
+
+Back to Top
+
+## Information from Business Partners and other Third Parties
+
+-
+3M may collect, use, or supplement the Personal Data we have about you with information obtained from other publicly or commercially available sources, such as our Business Partners, suppliers, vendors, and other third-party sources (e.g., public databases and social media platforms).
+
+For example, we may use such third-party information to confirm contact or financial information, or to better understand your interests by associating demographic information with the information you have provided.
+
+Back to Top
+
+## How 3M Uses Your Personal Data
+
+We use your Personal Data to:
+
+-
+### Develop and manage our relationships with you and our Business Partners.
+
+This may include:
+
+- Delivering services or carrying out transactions that you or our Business Partners have requested;
+
+- Providing information about 3M products, services, transactions, and advertisements, that may be of interest to you;
+
+- Providing you and our Business Partners a more consistent experience in interacting with 3M, including by learning more about you and how you use and interact with 3M’s Services; and
+
+- Planning, managing, and performing under our contractual relationships with you, our Business Partners, vendors and suppliers.
+
+-
+### Communicate with you or your company.
+
+- Informing You of 3M’s products, services, events, programs, competitions and promotional activities that may be of interest to you or your company;
+
+- Providing personalized products, communications and targeted advertising as well as product recommendations to you;
+
+- Providing information about relevant 3M products, services, and transactions, including, for example, pricing information, technical data, invoice, shipping, or production information, warranty or recall information, or information about product or service improvements;
+
+- Responding to questions or inquiries that you make, including customer service requests; and
+
+- Inviting you to participate in, or informing you of the results of, customer satisfaction or market research surveys.
+
+-
+### Provide and improve our Services.
+
+- Customizing them to your preferences or interests, making them more compatible with your technology, or otherwise making them easier to use;
+
+- Maintaining the security of and otherwise protecting them;
+
+- Developing new 3M services, as well as conducting trials and studies of new products using human subjects; and
+
+- Performing data analytics.
+
+-
+### Address legal issues.
+
+- Complying with our obligations to retain certain business records for minimum retention periods;
+
+- Establishing, exercising, or defending legal claims;
+
+- Complying with laws, regulations, court orders, or other legal process;
+
+- Detecting, preventing, and responding to fraud, intellectual property infringement, violation of our contracts or agreements, adverse events and other health and safety incidents involving our products, violations of law, or other misuse of 3M’s Services; and
+
+- Protecting 3M’s rights or property, or your or others’ health, safety, welfare, rights, or property.
+
+3M may also use your Personal Data for other uses consistent with the context in which the information was collected or with your consent.
+
+3M may anonymize, aggregate or de-identify any of the information we collect from you and, where permitted by applicable law, use it for any purpose, including for research, product-development, and service and product quality review purposes. Such information will not identify you individually, and we will maintain and use the information in deidentified form and will not attempt to reidentify the information.
+
+Back to Top
+
+## How 3M Discloses Your Personal Data
+
+-
+We may disclose your Personal Data to the following recipients and for the purposes described below. In each case, we will take appropriate steps (including obtaining your consent where required by applicable law) to protect your Personal Data.
+
+3M Affiliates. Our 3M affiliates will use your Personal Data in a manner consistent with this Statement, any applicable Specific Privacy Notices, and all applicable laws.
+
+Service Providers. We may disclose your Personal Data to contractors, service providers and other vendors we engage to perform support services for us, such as hosting providers, payment processors, customer service agencies, analytics service providers and ad companies.
+
+Business Partners. We may disclose your Personal Data with third parties who partner with us to support our products, services and marketing efforts to our customers; to our partners who provide us with analytics services (for example, to better understand our customers); and to our authorized partners and service providers.
+
+In connection with business transfers. We may disclose your Personal Data with third parties (including potential or prospective buyers, sellers, lenders and their respective affiliates, agents, advisers and representatives) in connection with the actual or contemplated sale, purchase, merger, reorganization, liquidation, dissolution or other disposal of assets or interests of 3M or a 3M business unit.
+
+With your consent. We may disclose your Personal Data with your permission or at your request.
+
+To comply with law or to protect. We may disclose your Personal Data with third parties when we have a good faith belief that disclosure is necessary:
+
+- to comply with a law, regulation, court order, or other legal process;
+
+- to detect, prevent, and respond to fraud, intellectual property infringement, violation of our contracts or agreements, violation of law, or other misuse of 3M services;
+
+- to protect the health, safety, welfare, rights, or property of you, our customers, the public, 3M, or others; or
+
+- under similar circumstances.
+
+In the aggregate / de-identified. To the extent permitted by applicable law, 3M may share anonymized, aggregated or de-identified information internally and with third parties for any purpose. Such information will not identify you individually.
+
+-
+### Analytics and Advertising
+
+3M uses third-party analytics services to better understand how users engage with 3M Internet Sites and Apps, including services provided by Google and Adobe. These third-party analytics companies may collect usage data (using cookies, pixels and similar tools) about our Services in order to provide us with reports and metrics that help us to evaluate usage of our Services and improve performance and user experiences. Please use the following links for more information about how Google and Adobe collect and use data when you visit their partners' websites or apps:
+
+www.google.com/policies/privacy/partners/
+
+http://www.adobe.com/privacy/marketing-cloud.html
+
+3M also uses third-party advertising services to provide advertisements for 3M products or services that may be of interest to you when you visit websites or other online services.
+
+Back to Top
+
+## Cookies and Similar Automated Data Collection Technologies
+
+-
+### Cookies
+
+We and our service providers and Business Partners may collect information about you by using cookies, web beacons, pixel tags, session replay and other similar automated data collection tracking technologies (collectively, "Cookies"). A Cookie is a bit of data that we can send to your browser when you link to our Website or Apps.
+
+Subject to local law requirements, we may also collect your electronic identification data (obtained by means of cookies, pixel tags, or similar technologies), including personal data about how you access, use and interact with our Services. This may include information such as your IP address, MAC address, mobile device identifier (IDFA or GAID), cookie ID, cookie content, browser type, browsing and click behavior and other activities, purchase information, domain name, referrer-URL, access dates and times, hardware and software information and settings, information about the device you use (e.g., device ID, device type), operating system, language, and approximate location. We also may use pixels in HTML emails to understand if you read the emails we send to you.
+
+Subject to your prior consent (to the extent required), we and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local/session storage, log files, and other mechanisms to automatically collect and record information about your browsing activities, and use of the Services. We may combine this “activity information” with other personal data that we collect about you.
+
+Generally, we use this activity information to understand how our Services are used, track bugs and errors, improve our Services, verify account credentials, allow logins, track sessions, prevent fraud, and protect our Services, as well as for targeted marketing and advertising purposes, to personalize content and for analytics purposes.
+
+For more information on the Cookies we use or your choices related to them, please visit our Cookie Notice.
+
+-
+### Do Not Track Browser Settings
+
+Certain web browsers and other programs may transmit “opt-out” signals, such as the Global Privacy Control (or GPC) signal (“GPC Signal”), to websites with which the browser communicates. For users that access our Websites from U.S. states, we will recognize and apply the GPC Signal to deactivate all of the cookies for that Website, except for cookies that are necessary for the Website to operate (“Strictly Necessary Cookies”). You can determine if your browser GPC Signal has been recognized by clicking on the “Your Privacy Choices” link in the footer of the Website, where you will see the message “You have opted-out” under Manage Preferences.
+
+Note that if you come back to our Websites from a different device or use a different browser on the same device, you will need to enable GPC or set your cookie preferences for each browser and device you use to access our Websites and Services. More information about GPC is available at: https://globalprivacycontrol.org/.
+
+-
+### Mobile Device Settings
+
+You may use mobile device settings to limit mobile tracking technologies and associated activities. For instance, Android users can visit Google settings > Ads > Reset advertising ID to adjust or reset the advertising identifiers on their mobile device in the device settings. Apple users can go to settings > Privacy & Security > Tracking, and turn off “tracking” to limit apps from tracking their activities across apps and websites for targeted advertising.
+
+Back to Top
+
+## Your Rights
+
+Subject to certain conditions and exceptions, and depending on the applicable laws in your jurisdiction, you may have the right to make the following requests with respect to your Personal Data, free of charge. We will not discriminate against you for exercising any of your rights.
+
+-
+### Access / Copy
+
+You may request (i) to access your Personal Data, including the specific pieces of your Personal Data that we maintain, and (ii) that we provide your information in a portable format to you or your authorized representative (i.e., the right to data portability).
+
+-
+### Know
+
+You may request to know certain information about the Personal Data that we process about you, including the:
+
+- Purposes for our collection, use, disclosure and other processing of Personal Data;
+
+- Categories and specific pieces of Personal Data collected (and under CCPA, the categories ‘sold’ to or ‘shared’ with third parties);
+
+- Categories of sources from which the Personal Data is collected;
+
+- Business and/or commercial purpose for collecting your Personal Data;
+
+- The categories of third parties to whom we disclose Personal Data (and under CCPA, the categories of third parties to whom we ‘sell’ or ‘share’ Personal Data);
+
+- Categories of Personal Data that we have disclosed to third parties for a business purpose; and
+
+- The consequences of not granting consent, or withdrawing consent, to our processing of your Personal Data.
+
+-
+### Correct
+
+You may request correction of your Personal Data if it is inaccurate or incomplete.
+
+-
+### Delete
+
+You may request deletion of your Personal Data (i.e., the “right to be forgotten”).
+
+-
+### Object or Restrict
+
+You may object to or restrict our processing of your Personal Data, including to:
+
+- The “sale” (as such term is defined under applicable law, including the CCPA) of your Personal Data;
+
+- The processing your Personal Data for direct marketing or targeted advertising purposes (or in California, the right to opt out of “sharing,” as defined under the CCPA);
+
+- The processing of your Personal Data on a ‘legitimate interest’ basis under the GDPR;
+
+- The use of profiling or automated decision-making which might significantly affect you;
+
+- Restrict (or limit) our use or disclosure of your sensitive Personal Data; and
+
+- If we are processing your Personal Data based on your consent, to withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of our processing before your withdrawal.
+
+-
+### De-register an account
+
+You may request de-registration of any account you maintain with us, if applicable.
+
+-
+### Exercising Your Rights
+
+You or (where permitted by applicable law) your authorized agent may exercise your rights by completing our request form or by contacting us (toll free in the United States) at 1-833-256-1792. Before responding to your request, we will first take steps to verify your request by matching the Personal Data you provide to us with the information we have in our records. Your request must provide sufficient information for us to reasonably verify you are the person about whom we collected Personal Data or an authorized representative (e.g., by completing all required fields on our request form. We may, after receiving your request, require additional information from you (or your authorized agent) to honor your request and verify your identity. For more information on how you can exercise the rights available to you in certain jurisdictions, see “Additional Information for Residents of Certain Jurisdictions” below.
+
+Please note that for Personal Data that we process on behalf of a Business Partner, in our capacity as a processor or service provider, we will provide reasonable assistance to that Business Partner as necessary to enable them to respond to your requests to exercise your privacy rights. You should submit your request directly to the relevant Business Partner.
+
+-
+### Appeals
+
+In some jurisdictions, you have the right to approach us or the competent data protection authority or equivalent regulatory body with requests or complaints in the jurisdiction(s) in which you reside, including with respect to cross-border transfers of your data.
+
+If we deny your request to exercise a privacy right, you may request the right to appeal the decision to 3M by contacting us or by submitting your appeal through our request form.
+
+Back to Top
+
+-
+## Cross-Border Transfers
+
+3M operates in many countries. Your Personal Data may be transferred across international borders to other 3M affiliates, or to other companies performing support functions on our behalf (as described in this Statement), located outside of the country where you live. Many of these transfers are to the United States, Costa Rica, Philippines and Poland. Regardless of where your Personal Data is processed, we ensure that the recipient offers an adequate level of protection and security, for instance by entering into the appropriate agreements and, if required, standard contractual clauses or an alternative mechanism for the transfer of data as approved by the European Commission or in accordance with applicable laws and regulations.
+
+Back to Top
+
+-
+## Protecting Personal Data
+
+3M maintains appropriate technical, physical and organizational measures designed to protect the confidentiality, security, and integrity of your Personal Data. Data protection measures include, but are not limited to, adoption of industry standard encryption tools and access controls.
+
+Back to Top
+
+-
+## Links to Third-Party Internet Sites and Plugins
+
+3M Websites and Apps may contain links to websites or mobile apps that are not operated by us. In addition, our Websites and Apps may include or incorporate plugins, widgets, buttons or similar features which are operated by third-party social media platforms and other third-party networks. We provide these links and plugins as a service solely for your convenience and information. We have no responsibility or liability for, nor any control over, those websites, apps, or social media platforms or their operators’ processing of Personal Data. We encourage you to review the privacy policies for the websites, apps, and social media platforms you visit before using them or providing your Personal Data.
+
+Back to Top
+
+-
+## Retention of Your Personal Data
+
+We will retain your Personal Data for as long as reasonably necessary or permitted in light of the purposes for which it was collected, and as described in this Statement or as otherwise disclosed to you at the time of collection. How long we keep your Personal Data varies and may depend on criteria that include:
+
+- The date of your last interaction with us;
+
+- Whether retention is necessary or advisable due to applicable statutes of limitations, litigation, or other legal, regulatory, accounting or reporting obligations; or
+
+- Any relevant retention requirements under applicable laws or in agreements with you or others.
+
+If Personal Data is either no longer necessary or relevant for the purposes for which it was collected, or no longer required to be retained by applicable laws, then we will take reasonable steps to have it deleted, destroyed, erased, or, if permitted by applicable law, aggregated, made anonymous, or de-identified.
+
+If you have questions about our retention policies, please contact us at privacy_office@mmm.com.
+
+Back to Top
+
+-
+## Children
+
+3M’s Websites and Apps are not directed to children under the age of sixteen (16), and we do not knowingly collect Personal Data from anyone under 16. If you believe we have unintentionally collected such information, please notify us as set out in the Questions about this Statement section below.
+
+Back to Top
+
+-
+## Questions about this Statement
+
+If you have any questions about this Statement or our use of your Personal Data, please email us at privacy_office@mmm.com or write to us at:
+
+3M Company
+
+Privacy Office
+
+3M Center, 220-9E-01
+
+St. Paul, MN 55144-1000
+
+Back to Top
+
+-
+## Changes to this Statement
+
+We reserve the right to modify this Statement at any time. Where required by applicable law, we will seek your consent to any material changes. Any modifications will apply only to the Personal Data we collect after publication of the revised Statement.
+
+You can determine when this Statement was last revised by referring to the Last Revised date set forth below.
+
+Last Revised: October 16, 2024.
+
+Back to Top
+
+## Additional Information for Residents in Certain Jurisdictions
+
+### Supplemental Information for Residents of Certain U.S. States (including California)
+
+-
+In this section, we provide additional information to residents in certain U.S. states (including California) about the categories of Personal Data we collect about you and your privacy rights under applicable privacy laws including, where applicable, the California Consumer Privacy Act (“CCPA”). This section does not address or apply to our collection and processing of data that is exempt from applicable law, or information about our employees, personnel, applicants and candidates.
+
+Our collection, use and disclosure of Personal Data varies based upon our relationship and interactions with you. The sections below briefly explain our collection, use, and disclosure of Personal Data and are followed by a chart showing how each category of Personal Data is typically used and disclosed by 3M.
+
+-
+#### Collection of Personal Data
+
+As described above, under “How 3M Collects Your Personal Data”.
+
+-
+#### Use and Disclosure of Personal Data
+
+We use Personal Data for the reasons described above, under “How 3M Uses Your Personal Data,” including customer service, communication, fulfillment, customer experience, personalization, direct marketing, promotions, and security and integrity. We disclose Personal Data to our affiliates, service providers, Business Partners, and for the purposes, including to support our business operations, described above, under “How 3M Discloses Your Personal Data.”
+
+The chart below generally describes each category of Personal Data that we collect, why we collect it, and who we may disclose it to, and reflects our practices during the past twelve (12) months. We collect the types of Sensitive Personal Information (as defined under the CCPA) about California residents for the purposes described in the table below; however, we do not collect, use, disclose or process Sensitive Personal Information about California residents beyond the purposes authorized by the CCPA (pursuant to Cal Civ. Code § 1798.121 and § 7027(m) of the CCPA regulations).
+
+Certain privacy laws define a ‘sale’ as disclosing or making available to a third-party Personal Data in exchange for monetary or other valuable consideration, and ‘sharing’ broadly, including as disclosing or making available Personal Data to a third party for purposes of cross-context behavioral advertising. While we do not disclose Personal Data to third parties in exchange for monetary compensation, we may ‘sell’ or ‘share’ Identifiers and Internet and Electronic Network Activity Usage Information to advertising networks, data analytics providers and social networks. We do so to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content. We do not sell or share Sensitive Personal Information, nor do we sell or share any Personal Data about individuals who we know are under sixteen (16) years old.
+
+-
+#### Exercising Your Rights
+
+If you are a resident of a U.S. state you may exercise your rights as described above, under “Your Rights.”
+
+In addition, we offer other ways for California residents to opt out of ‘sales’ and ‘sharing’ of their Personal Data. Our U.S. Websites responds to global privacy control—or “GPC”—signals, which means that if we detect that your browser is communicating a GPC signal, we will, subject to applicable law, process that as a request to opt that particular browser and device out of sales and sharing on our Websites. Certain residents may also opt out of any cookie and pixel related ‘sales’ and ‘sharing’ or targeted advertising on any of our Websites by adjusting your cookie privacy preferences for that Website, in our cookie preference manager, which you can access by clicking the “Privacy Choices” link, accessible in the footer of our Websites. Note that if you come back to our Websites from a different device or use a different browser on the same device, you will need to enable GPC or set your cookie preferences for each browser and device you use to access our Websites and services. More information about GPC is available at: https://globalprivacycontrol.org/.
+
+Back to Top
+
+### Supplemental Information for Residents in Other Jurisdictions
+
+-
+Supplemental Information for Residents of Certain U.S. States (including California)
+
+United States - English
+
+Puerto Rico - English
+
+-
+Supplemental Information for Residents of Canada
+
+Canada - English
+
+Canada - Français
+
+-
+Supplemental Information for Residents of EEA, UK and Switzerland
+
+Switzerland (Suisse) - Français
+
+Switzerland (Schweiz) - Deutsch
+
+United Kingdom - English
+
+-
+Supplemental Information for Residents of the People’s Republic of China
+
+Mainland China (中国) - 简体中文
+
+-
+Supplemental Information for Residents of Japan
+
+Japan (日本) - 日本語
+
+-
+Supplemental Information for Residents of South Korea
+
+Korea (대한민국) - 한국어
+
+-
+Supplemental Information for Residents of Brazil
+
+Brazil (Brasil) - Português
+
+-
+Supplemental Information for Residents of Latin America (Except Brazil)
+
+Argentina - Español
+
+Chile - Español
+
+Colombia - Español
+
+Costa Rica - Español
+
+Mexico (México) - Español
+
+Nicaragua - Español
+
+Peru (Perú) - Español
+
+Back to Top
+
+## Related Links
+
+-
+Legal Information
+
+-
+Send Us a Message
+
+Back to Top
+
+-
+Our Company
+
+-
+3M Careers
+
+-
+Investor Relations
+
+-
+Customers and Suppliers
+
+-
+Sustainability
+
+-
+People and Community
+
+-
+Ethics & Compliance
+
+-
+News
+
+-
+News Center
+
+-
+Press Releases
+
+-
+Regulatory
+
+-
+SDS, RDS, More Regulatory & Compliance Information
+
+-
+Transport Information Search
+
+-
+CPSIA Certification Search
+
+-
+Lithium Battery UN 38.3 Test Summary Search
+
+-
+Batteries and Battery Embedded Products
+
+-
+Transparency in Supply Chains and Modern Slavery Disclosures
+
+-
+US Ingredient Communication
+
+-
+Product Recalls
+
+-
+Help
+
+-
+Help Center
+
+-
+Site Map
+
+-
+Where to Buy
+
+Legal
+Privacy
+HIPAA Privacy
+DMCA
+Accessibility Statement
+Your Privacy Choices
+Cookie Preferences
+
+© 3M 2026. All Rights Reserved.
+
+Follow Us
+
+-
+The brands listed above are trademarks of 3M.

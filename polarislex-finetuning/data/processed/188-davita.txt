@@ -1,0 +1,401 @@
+# DaVita Privacy Notice
+
+We collect personal information and use that information to provide service and operate our business. This notice explains our commitment to trust, transparency, and responsible use of personal information. We encourage you to contact us if you have any questions or concerns.
+
+Last Updated: July 15, 2026
+
+DaVita Inc. and its U.S. affiliates and subsidiaries (“DaVita,” “we” or “us”) provides this privacy notice to describe how we collect, use, and disclose to others personal information we collect from or about you when you use our websites (“Sites”), mobile applications (“Apps”), and otherwise interact with us (collectively, the “Services”) unless other privacy policies or notices apply as noted below. Where applicable, it also describes the rights you may have with respect to such information, often depending upon your state of residency.
+
+This notice is a part of DaVita’s Terms of Use. By using our Services, including our Sites, you agree to our Terms of Use.
+
+Where Other Privacy Notices Apply – This Privacy Notice does not apply to the following:
+
+- Personal information collected from DaVita employees, independent contractors, and job applicants.
+
+- DaVita International operations (https://www.davita.com/international) and data processed outside the U.S.
+
+- Information subject to HIPAA and state medical privacy laws (e.g., California Confidentiality of Medical Information Act) which is covered by our Notice of Privacy Practices at https://www.davita.com/privacy-practices. The Notice of Privacy Practices applies to our delivery of healthcare or other services covered by these laws.
+
+- Information processed by our suppliers are bound by DaVita’s Code of Conduct found here: https://davita.com/about/suppliers/.
+
+We may have collected the following categories of personal information in the 12 months prior to the date of this Privacy Notice.
+
+## Notice at Collection – Purposes for Collection of Personal Information
+
+| Categories of Personal Information | Purposes for Collection
+
+| Personal identifiers:Name, physical addresses, IP address, email address, phone numbers, date of birth, mobile ad identifier and other unique device identifiers
+Health information: Patient status, connection to kidney disease, interest in treatment options
+Biometric information: Information regarding your health goals (e.g., food and exercise tracking) and biometric data where defined by applicable law
+Audio and visual information – Recordings of customer service calls; photographs created with your account | To provide you with the information and Services you request; to contact you from time to time; for customer support improvement; voluntary media promotions; and account authentication
+
+| Personal identifiers – Name, physical addresses, IP address, email address, phone numbers, date of birth, mobile ad identifier and other unique device identifiers
+Protected class information – Race, ethnicity, gender, national origin
+Internet or other electronic activity information: Browsing history, search history, information about your operating system, information regarding your interaction with our Services and advertisements
+Health information: Patient status, connection to kidney disease, interest in treatment options
+Geolocation information: Precise location Inferences drawn from personal information we collect | To deliver advertisements and marketing promotions and offers about products or Services we think may be of interest to you; and to analyze the placement and effectiveness of our advertisements and other marketing efforts
+
+| Personal identifiers – Name, physical addresses, IP address, email address, phone numbers, date of birth, mobile ad identifier and other unique device identifiers
+Protected class information – Race, ethnicity, gender, national origin
+Internet or other electronic activity information: Browsing history, search history, information about your operating system, information regarding your interaction with our Services and advertisements
+Health information: Patient status, connection to kidney disease, interest in treatment options Geolocation information: Precise location Inferences drawn from personal information we collect | For internal business analytics and operations
+
+| Personal identifiers:Name, physical addresses, IP address, email address, phone numbers, date of birth, account name and password, mobile ad identifier and other unique device identifiers
+Internet or other electronic network activity information: Browsing history, search history, information about your operating system, information regarding your interaction with our Services and advertisements
+Visual information: Images obtained through security cameras at our offices and clinics
+Audio information: recordings of customer service calls for quality assurance purposes | To monitor or improve the security and functionality of our Sites and Apps; network and physical security; to identify activities that violate our Terms of Use or that are illegal; to protect our rights and the rights and safety of our users or others
+
+| Personal identifiers: Name, physical addresses, IP address, email address, phone numbers,
+Professional information: Job title, information about your employer | To work with our vendors and suppliers
+
+## Notice at Collection: Categories of Personal Information We Sell or Share or Use for Targeted Advertising
+
+When we engage in digital advertising, we may sell the following categories of personal information (according to the broad definition of “sell” under select state privacy laws), share them for purposes of cross-context behavioral advertising, or use them for targeted advertising: personal identifiers (IP address and mobile ad identifiers), and internet or other electronic activity information.
+
+These categories of personal information are sold to or shared for cross-context behavioral advertising or targeted advertising with advertising networks and other companies that facilitate digital advertising. We engage in such sales and sharing to facilitate digital advertising that can reach people that are most likely to be interested in our Services. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section “Our Use of Cookies and Other Trackers” below.
+
+To opt out of such sales (as broadly defined under applicable state laws) and sharing of personal information, click here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+We do not sell or share for cross-context behavioral advertising any of the other categories of personal information we collect.
+
+We also do not sell or share your mobile number or data collected via our SMS service with any third parties for their independent marketing or promotional purposes. Such data is solely used by DaVita for the purposes outlined in this statement and our general Privacy Notice. We may use third-party service providers to facilitate our SMS messaging, but they are strictly prohibited from using your data for their own marketing purposes.
+
+## Notice at Collection: Retention Periods
+
+We retain your personal information for the length of time needed to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law or contract. We may, however, retain a copy of your personal information for archival purposes.
+
+## Sources From Which We Collect Personal Information
+
+We collect personal information directly from individuals who visit our Sites and download our Apps or otherwise use our Services, people acting on their behalf (e.g., caregivers) and representatives of entities with which we do business or may do business.
+
+We do not purchase personal information from data brokers.
+
+## Use or Disclosure of Sensitive Personal Information
+
+We may use certain types of personal information, known as sensitive personal information, to infer information about you that we use to market our Services to you. You have the right to ask us to not use your sensitive personal information for such marketing or advertising purposes. To make a request in this regard, please visit the following website: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+## No Profiling to Facilitate Decisions with Legal or Other Significant Effects
+
+We do not engage in the automated processing of personal information to create profiles about individuals that are used in furtherance of decisions with legal or other similarly significant effects, such as the provision or denial of financial or lending services, housing, insurance, or access to essential goods or services.
+
+## Business Purposes for Such Disclosures
+
+We disclosed these categories of personal information to the categories of third parties identified in the chart below for the following purposes: to deliver our Services, including to manage customer, supplier and vendor accounts and relationships; to verify customers’ identities; to engage in advertising and marketing; to operate our IT systems and secure our systems; to prevent fraud and other illegal activities; and to obtain professional advice about legal and accounting matters.
+
+## Additional Information About How We May Disclose Personal Information and Purposes for Disclosures
+
+We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.
+
+## Disclosure of Personal Information for Business Purposes in Last 12 Months
+
+This chart describes the categories of personal information we may have disclosed to third parties for a business purpose in the 12 months prior to the date of this Privacy Notice:
+
+| Categories of Personal Information | Categories of Third Parties to Which We Disclosed Personal Information for Business Purposes
+
+| Personal identifiers:Name, physical addresses, IP address, email address, phone numbers, date of birth, account name and password, mobile ad identifier, and other unique device identifiers | Service providers that verify and manage customer information, provide customer service, facilitate email communications, provide security services and cloud-based data storage, host our website and assist with other IT-related functions, assist with advertising and marketing our Services, provide analytics information, and provide legal and accounting services.
+
+| Protected class information – Race*, ethnicity*, national origin, gender | Service providers that assist with advertising and marketing our Services and analytics
+
+| Health information: Patient status, connection to kidney disease, interest in treatment options* | Service providers that provide security services and cloud-based data storage, host our website and assist with other IT-related functions, assist with advertising and marketing our Services, and provide analytics information
+
+| Internet or other electronic activity information:Browsing history, search history, information about your operating system, information regarding your interaction with our Sites or advertisements | Service providers that provide security services and cloud-based data storage, host our website and assist with other IT-related functions, assist with advertising and marketing our Services, and provide analytics information
+
+| Geolocation information: Precise location information* | Service providers that assist with advertising and marketing our Services and analytics
+
+| Biometric information: Biometric data andinformation regarding your health goals (e.g., food and exercise tracking) where considered biometric information under applicable law | Service providers that assist with security services, authentication, customer service and provide analytics information
+
+| Audio and visual information – Recordings of customer service calls; photographs created with your account; images obtained through security cameras at our offices and clinics | Service providers that assist in providing customer service and who provide security services
+
+| Professional information: job title, information about your employer | Service providers that manage our vendor and supplier communications and contracts
+
+| Inferences drawn from personal information collected | Service providers that assist with advertising and marketing our Services and analytics
+
+* – Sensitive personal information
+
+## Our Use of Cookies and Other Tracking Technologies
+
+Like many other websites, we use cookies and other tracking technologies such as pixels, tags, software development kits, application program interfaces and web beacons (collectively, “cookies”) to identify users who have previously used our Services so that the user is recognized upon returning. These technologies vary from lines of code on our website to small data files placed on your browser or device that record certain pieces of information when you visit our Sites or Apps. We may use these tracking technologies to help identify irregular behavior, prevent fraudulent activity and improve security, as well as to make it possible for you to save your preferences and help us understand how you interact with our Services.
+
+We also allow third parties to use third party cookies, and other storage technologies to collect or receive information about how you interact with our Sites and Apps and elsewhere on the Internet and use that information to provide analytics and other measurements services, and to deliver and target advertisements tailored to you. Third parties may also use some of these technologies to assist us in determining if you require assistance or are having problems navigating on our Sites or Apps, and this may include technologies that record your interactions with the Services, including without limitation, your keystrokes, mouse clicks, screen touches, and information about when, how and from where you accessed our Services.
+
+You may set your browser to notify you when you receive a cookie. Many web browsers also allow you to block cookies. You can disable cookies from your computer system by following the instructions on your browser or at https://allaboutcookies.org/how-to-manage-cookies.
+
+We may use analytics tools to evaluate the use of our website. Analytic tools use cookies and other identifiers to collect information, such as how often users visit a Site, what pages they visit when they do so, and what other websites they visited prior to visiting our Site.
+
+## Automated Bot and Spam Prevention
+
+We use bot and abuse prevention controls for the legitimate business purpose of protecting our websites and services from spam, fraud, and automated attacks. Depending on the page, these controls may collect and analyze network information (such as IP address), device and browser attributes, and interaction signals to determine whether activity appears legitimate. Where we use third party providers for these controls, they process this information on our behalf to provide the security service.
+
+## How We Interact With Third Parties
+
+### Links to Third-Party Websites
+
+As a resource to users of our Services, DaVita may provide links to other unaffiliated websites. DaVita, however, cannot guarantee the policies or standards used by such third-party websites. DaVita does not endorse, nor is it responsible for, the content of, or the privacy practices employed by, any non-DaVita websites. If you visit a third-party website through use of our Services, information you provide on the third-party website is not subject to this Privacy Notice or any other DaVita notice. You should consult the privacy policies of each website you visit.
+
+### Social Media Plugins
+
+DaVita’s Services may use social media plugins to enable you to easily share information with others. When you visit a website, the operator of the social media plugin can place a cookie on your computer or device enabling that operator to recognize individuals who have previously visited that website. If you are logged into a social media account while browsing our Services, the social plugins allow that social media company to receive information about your use of our Services. Social media plugins also allow the social media company to share information about your activities when using our Services with other users of their social media website. For more information about plugins from other social media websites and to opt-out, you should refer to those companies’ privacy policies.
+
+## How We Protect and Secure Your Information
+
+DaVita employs certain procedural and technological security measures designed to protect your information from unauthorized access and disclosure.
+
+We maintain physical, technical and administrative safeguards designed to protect your information, including restricting access to systems that process personal information to those employees who need to know that information to provide our Services.
+
+However, all security systems can fail, and transmission of information over the Internet is not completely secure. While we take steps to protect your information, we cannot guarantee its privacy or security. If you have any questions about the security of your information, please reach out to us using the contact information in the “Questions, Complaints and Contacts” section below.
+
+## Children’s Privacy
+
+DaVita’s Services are not intended for children under the age of 16. and we do not knowingly collect personal information from children under 16 without parental consent.
+
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us.
+
+## Changes to this Privacy Notice
+
+DaVita reserves the right to change this Privacy Notice at any time without prior notice, so check back frequently to review our current terms. If we believe that the changes are material, we will let you know by doing one (or more) of the following: (i) posting the changes through our Services, (ii) sending you an email or message about the changes, or (iii) revising the ‘Last Updated’ date at the top of this Privacy Notice. Any changes we make to this Privacy Notice will be effective for any information we already have about you. Your continued interaction, use of, or registration with our Services (defined in the “Our Services” section above) after the Last Updated date constitutes your acceptance and agreement to the practices described in this Privacy Notice.
+
+## Questions, Complaints and Contact Us
+
+If you have a question about DaVita’s Privacy Notice, your information, or DaVita’s uses of your information, you may contact us by clicking on the contact us link or by using the information below.
+
+DaVita Privacy Office
+
+2000 16th Street
+
+Denver, CO 80202
+
+855-472-9822 Option 1
+
+Email: privacy@davita.com
+
+## Your Rights
+
+Residents of certain states have specified privacy rights under applicable state privacy laws. DaVita respects privacy regardless of the state at issue, and we will reasonably respond to privacy requests from residents of any state for the following:
+
+- request access to and rectification or erasure of their personal data;
+
+- opt-out of targeted advertising or the sale of personal data
+
+- restrict or object to the processing of their personal data; and
+
+- obtain a copy of their personal data in a portable format.
+
+If you make a request related to personal data about you, you may be required to supply a valid means of identification as a security precaution. We will process your request within the time provided by applicable law.
+
+We strive to maintain the accuracy of your personal information and will use commercially reasonable efforts to respond promptly to update our database when you tell us any such information in our database is not accurate. To make changes or delete your information, to delete your account, or for other requests or issues, please reach out to us using the contact information in the “Questions, Complaints and Contacts” section below.
+
+In some cases, we may not act on your requests (e.g., if we cannot do so under other laws that apply). When this is the case, we will explain our reasons for not providing you with the information or taking the action (e.g., correcting data) you requested. You may appeal our decision by contacting us at here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights within 30 days after your receipt of our decision. Please provide us with any additional information required to address the denial of the request. We will respond to your appeal within 60 days of our receipt of the request.
+
+## CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, the California Consumer Privacy Act (“CCPA”) and other laws provide you with the following rights with respect to personal information we collect and process about you:
+
+### Your Right To Know About Personal Information We Collect
+
+You can ask us for the following information from us with respect to the personal information we have collected about you in the 12 months prior to the date of your request:
+
+- Specific pieces of personal information we have collected about you;
+
+- Categories of personal information we have collected about you;
+
+- Categories of sources from which such personal information was collected;
+
+- Categories of personal information that the business sold or disclosed for a business purpose about the consumer;
+
+- Categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+
+- The business or commercial purpose for collecting or selling your personal information.
+
+### Your Right To Request Deletion of Personal Information We Have Collected From You
+
+Upon your request and subject to exceptions in the law, we will delete the personal information we have collected from you.
+
+### Your Right to Request to Correct Personal Information We Hold About You
+
+You have the right to request that we correct personal information we hold that you believe is not accurate. We will take steps to determine the accuracy of the personal information that is the subject of your request to correct, and in doing so will consider the totality of the circumstances relating to the personal information you have identified as being incorrect. We may ask that you provide documentation regarding your request to correct to assist us in evaluating the request.
+
+### Your Right to Ask Us Not to Sell or Share Personal Information We Have Collected About You
+
+With respect to those categories of personal information that we sell to third parties or share with third parties for the purpose of cross-context behavioral advertising, you have the right to opt out of such sales and sharing.
+
+#### Opt-out Preference Signals
+
+An opt-out preference signal is sent by a platform, technology, or mechanism on behalf of consumers and communicates a consumer’s choice to opt out of the sale and sharing of personal information for cross-context behavioral advertising with all businesses that recognize the signal, without having to make individualized requests. The signal can be set on certain browsers or through opt-out plug-in tools.
+
+We recognize the Global Privacy Control signal and do so at the browser level and it does not apply to personal information we may collect offline or that we may associate only with your name or email address. This means that if the signal is sent through a specific browser, we will recognize it for that browser only, and only with respect to the identifiers for that browser. If you would like more information about opt-out preference signals, including how to use them, the Global Privacy Control website has such information (https://globalprivacycontrol.org/).
+
+### Your Right to Ask Us to Limit the Use of Your Sensitive Personal Information
+
+To the extent we use or disclose your sensitive personal information to infer characteristics about you, you have the right to request that we not do so and limit our use of such information to providing our Services and other business or operational purposes set forth in the CCPA relating to the use of sensitive personal information.
+
+To exercise this right, please visit our website: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+### California Shine the Light
+
+California Civil Code Section 1798.83, also known as the “Shine the Light” law, permits California residents to annually request, free of charge, information about the personal information (if any) disclosed to third parties for direct marketing purposes in the preceding calendar year. To make a request, please contact us at privacy@davita.com or send us a request to our mailing address noted above.
+
+### Our Commitment to Honoring Your Rights
+
+If you exercise any of the rights explained in this Privacy Notice, we will continue to treat you fairly. If you exercise your rights under this Privacy Notice, you will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services than others.
+
+### Exercising Your Rights and How We Will Respond
+
+To exercise your rights to know, delete or correct your personal information, or to limit the use of your sensitive personal information, submit your request here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights or contact us at privacy@davita.com. For such requests, we will first acknowledge receipt of your request within 10 business days of receipt of your request. We will then provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request in certain jurisdictions or under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know. We will then provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request in certain jurisdictions or under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+
+You can direct us not to sell your personal information or share it for purposes of cross-context behavioral advertising here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights. For such requests, we will comply no later than 15 business days after receipt of your request.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
+### Verification of Identity – Requests to Know, Delete or Correct
+
+We may ask you for information sufficient to verify your identity.
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+### Authorized Agents
+
+You may designate an agent to submit requests on your behalf. The agent can be a natural person or a business entity.
+
+If you would like to designate an agent to act on your behalf, you and the agent will need to comply with our verification process:
+
+- Requests to Know, Delete or Correct Personal Information: If the agent submits a request, the agent will need to provide us with your signed permission indicating the agent has been authorized to submit the request on your behalf. We will also require that you verify your identity directly with us or confirm with us that you provided the agent with permission to submit the request.
+
+- Requests to Opt Out: If the agent submits a request to opt out of the sale of your personal information or the sharing of your personal information for purposes of cross-context behavioral marketing, the agent will need to provide us with your signed permission indicating the agent has been authorized to submit the opt-out request on your behalf.
+
+Please note that this subsection does not apply when an agent is authorized to act on your behalf pursuant to a valid power of attorney. Any such requests will be processed in accordance with California law pertaining to powers of attorney.
+
+## COLORADO PRIVACY RIGHTS
+
+If you are a Colorado resident, the Colorado Privacy Act (“CPA”) grants the rights described below with respect to personal information we collect and process about you.
+
+- Right to Know: The right to confirm whether we are processing your personal information and to access such data
+
+- Right to a Copy: The right to a portable copy of the personal information we have collected from you
+
+- Right to Delete: The right to request deletion of their personal information that we have collected about you and to have such information deleted, subject to certain exceptions
+
+- Right to Correct: The right to ask that we correct inaccuracies in your personal information, considering the nature of personal data and purposes of processing such information
+
+- Right to Opt Out of Targeted Advertising: The right to ask us to stop processing your personal information for such purposes
+
+- Right to Opt Out of the Sale of Personal Information: The right to ask us to stop processing your personal information for such purposes
+
+Please note that for the purpose of this section of this Privacy Notice, we consider “personal information” to have the same meaning as “personal data” as defined under the CPA.
+
+To exercise your rights to know, request a copy of, delete or correct your personal information, or to ask a question, contact us at 855-472-9822 Option 1 or contact us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights. We will respond to such requests within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+
+You can opt out of the sale of your personal information or the use of your personal information for targeted advertising here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
+### Our Commitment to Honoring Your Rights
+
+If you exercise any of the rights explained in this Privacy Notice, we will continue to treat you fairly. If you exercise your rights under this Privacy Notice, you will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services than others.
+
+### Verification of Identity – Requests to Know, Receive a Copy, Delete, Correct
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+### When We Do Not Act on a Request – Appeal Process
+
+In some cases, we may not act on your requests (e.g., if we cannot do so under other laws that apply). When this is the case, we will explain our reasons for not providing you with the information or taking the action (e.g., correcting data) you requested.
+
+Additionally, you have the right to appeal our decision by contacting us at privacy@davita.com within 30 days after your receipt of our decision. Please provide us with any additional information required to address the denial of the request. We will respond to your appeal within 45 days of our receipt of the request, unless we need additional time to do so (up to 60 additional days), in which case we will notify you.
+
+### Authorized Agents
+
+You may designate an agent to submit an opt-out request on your behalf. If you would like to designate an agent to act on your behalf, we will use reasonable methods to validate their authority to submit a request on your behalf.
+
+Authorized agents can submit a request to opt out of targeted advertising by contacting us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+## CONNECTICUT PRIVACY RIGHTS
+
+If you are a Connecticut resident, the Connecticut Data Privacy Act (“CTDPA”) grants the rights described below with respect to personal information we collect and process about you.
+
+- Right to Know: Connecticut residents have the right to confirm whether we are processing their personal information and to access such data.
+
+- Right to Access: Connecticut residents have the right to a portable and technically feasible copy of the personal information we have collected from them.
+
+- Right to Correct: Connecticut residents have the right to ask that we correct inaccuracies in their personal information, considering the nature of personal data and purposes of processing such information.
+
+- Right to Delete: Connecticut residents have the right to request deletion of the personal information that we have collected about them and to have such information deleted, subject to certain exceptions.
+
+- Right to Opt Out of the Sale of Personal Information: Connecticut residents have the right to ask us to not to sell their personal information for such purposes.
+
+- Right to Opt Out of Targeted Advertising: Connecticut residents have the right to ask us to stop processing their personal information for such purposes.
+
+Please note that for purpose of this section of this Notice, we consider “personal information” to have the same meaning as “personal data” as defined under the CTDPA.
+
+To exercise your rights to know, access, delete, or correct, or to ask a question, contact us at 855-472-9822 Option 1 or by contacting us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights. We will respond to such requests within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+
+You can opt out of the sale of your personal information or the use of your personal information for targeted advertising here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
+### Our Commitment to Honoring Your Rights
+
+If you exercise any of the rights explained in this Privacy Notice, we will continue to treat you fairly. If you exercise your rights under this Privacy Notice, you will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services than others.
+
+### Verification of Identity – Requests to Know, Access, Delete, Correct
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+Authorized Agents
+
+You may designate an agent to submit an opt-out request on your behalf. If you would like to designate an agent to act on your behalf, we will use reasonable methods to validate their authority to submit a request on your behalf.
+
+Authorized agents can submit a request to opt out of targeted advertising by contacting us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+## UTAH PRIVACY RIGHTS
+
+The Utah Consumer Privacy Act (“UTCPA”) grants Utah residents the following rights with respect to their personal information we collect and process about you:
+
+- Right to Know: The right to confirm whether we are processing their personal information and to access such data.
+
+- Right to a Copy: The right to obtain a portable and readily usable copy of the personal information that they previously provided to us that, where the processing is automated, can be transmitted to another data controller without impediment.
+
+- Right to Delete: The right to request deletion of their personal information that we have collected about them and to have such information deleted, subject to certain exceptions.
+
+- Right to Opt Out of Targeted Advertising: To the extent we engage in targeted advertising, the right to ask us to stop processing their personal information for such purposes.
+
+While the UTCPA provides the right to opt out of the sale of personal information, we do not sell personal information consistent with the definition of “sale” under Utah law.
+
+Please note that for purpose of this section of this Notice, we consider “personal information” to have the same meaning as “personal data” as defined under the UTCPA.
+
+Contact us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights or contact us at davita@privacy.com to exercise the right to know, obtain a copy of, or delete your personal information. We will respond to such requests within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+You can direct us not to process your personal information for purposes of targeted advertising here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations.
+
+### Verification of Identity – Requests to Know and Delete
+
+We will ask you for two pieces of personal information and attempt to match those to information that we maintain about you.
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+## VIRGINIA PRIVACY RIGHTS
+
+The Virginia Consumer Data Privacy Act (“VCDPA”) grants Virginia residents the following rights with respect to their personal information we collect:
+
+- Right to Know: The right to confirm whether we are processing their personal information and to access such data.
+
+- Right to a Copy: The right to a portable copy of the personal information we have collected from them.
+
+- Right to Delete: The right to request deletion of their personal information that we have collected about them and to have such information deleted, subject to certain exceptions.
+
+- Right to Correct: The right to ask that we correct inaccuracies in their personal information, considering the nature of personal data and purposes of processing such information.
+
+- Right to Opt Out of Targeted Advertising: To the extent we engage in targeted advertising, the right to ask us to stop processing their personal information for such purposes.
+
+While Virginia law provides the right to opt out of the sale of personal information, we do not sell personal information consistent with the definition of “sale” under Virginia law.
+
+Please note that for purpose of this section of this Notice, we consider “personal information” to have the same meaning as “personal data” as defined under the VCDPA.
+
+Contact us here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights or contact us at davita@privacy.com to exercise the right to know, obtain a portable copy of, delete, or correct your personal information. We will respond to such requests within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+You can direct us not to process your personal information for purposes of targeted advertising here: https://www.davita.com/privacy-policy/exercise-your-privacy-rights.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations.
+
+### Verification of Identity – Requests to Know, Request a Copy, Delete, Correct
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.

@@ -1,0 +1,721 @@
+# Enterprise Privacy Statement
+
+Effective 2/2026
+
+## We value your privacy.
+
+We are committed to properly safeguarding consumer personal information and only using information in a manner that is necessary for servicing or better understanding our customers and potential customers. Our policy is to protect the confidentiality of the personally identifiable information that we receive, and to limit access to that information only to those with a need to know. This privacy statement addresses our privacy practices including the collection and use of personal information in offline, online, and mobile environments. Specific information regarding online and mobile privacy provisions may also be found in this privacy statement. This Enterprise Privacy Statement along with certain customer privacy notices and product-specific privacy notices are available in our Privacy Center. Those privacy notices should be read together with this Enterprise Privacy Statement as applicable.
+
+## What information do we collect and how do we use it?
+
+We may collect the categories of personal information listed in the chart below.
+
+## Consumers
+
+The following disclosure applies to consumers who do not have an employment, agency, or contractor relationship with us. We may collect the following categories of personal information for the purposes identified below. Please note that the examples are not an exhaustive list and may fall into multiple categories. Categories and specific pieces of information collected may vary depending on the nature of your relationship with us.
+
+Category
+
+Examples
+
+Personal Identifiers
+
+Name, alias, address, social security number, date of birth, passport number, unique personal identifier, on-line identifier, IP address, e-mail address, account name, government issued identification number, phone number, signature
+
+Personal Characteristics
+
+Gender, demographic, medical and health, convictions, marital status, offspring, driving record, family member/other status, and other descriptions of your physical characteristics
+
+Commercial Information
+
+Personal property, insurance policy number, medical information, or health insurance information, purchased products or services, considered products or services, purchasing or consuming histories or tendencies
+
+Biometric Information
+
+Voice print, photo
+
+Internet or network activity
+
+Information regarding your interactions with websites, applications, and advertisements, browser type, electronic communications, IP address, cookies
+
+Geolocation
+
+IP address, physical address, telephone number, state, municipality, location, devices, applications on mobile and computer devices
+
+Audio, electronic, visual, thermal, olfactory
+
+Audio, electronic, photo, visual information, such as a call or video recording, voicemail messages
+
+Professional information and Employment information
+
+Job titles, work history, school(s) attended, employment status, veteran, or military status
+
+Education Information
+
+Job titles, work history, school attended, marital and family status, e-mail, telephone recordings
+
+Inferences
+
+Preferences, behaviors, characteristics, trends, predispositions, attitudes, abilities, and aptitudes
+
+Sensitive Personal Information
+
+Social Security number, driver’s license number, state ID card, account log-in, precise geo-location, bank account number, credit or debit card number, or any other financial information, trade union membership, your communications with us
+
+Category
+
+Examples
+
+Name, alias, address, social security number, date of birth, passport number, unique personal identifier, on-line identifier, IP address, e-mail address, account name, government issued identification number, phone number, signature
+
+Category
+
+Examples
+
+Gender, demographic, medical and health, convictions, marital status, offspring, driving record, family member/other status, and other descriptions of your physical characteristics
+
+Category
+
+Examples
+
+Personal property, insurance policy number, medical information, or health insurance information, purchased products or services, considered products or services, purchasing or consuming histories or tendencies
+
+Category
+
+Examples
+
+Voice print, photo
+
+Category
+
+Examples
+
+Information regarding your interactions with websites, applications, and advertisements, browser type, electronic communications, IP address, cookies
+
+Category
+
+Geolocation
+
+Examples
+
+IP address, physical address, telephone number, state, municipality, location, devices, applications on mobile and computer devices
+
+Category
+
+Examples
+
+Audio, electronic, photo, visual information, such as a call or video recording, voicemail messages
+
+Category
+
+Examples
+
+Job titles, work history, school(s) attended, employment status, veteran, or military status
+
+Category
+
+Examples
+
+Job titles, work history, school attended, marital and family status, e-mail, telephone recordings
+
+Category
+
+Inferences
+
+Examples
+
+Category
+
+Examples
+
+Social Security number, driver’s license number, state ID card, account log-in, precise geo-location, bank account number, credit or debit card number, or any other financial information, trade union membership, your communications with us
+
+## Purposes for Collection of Personal Information – Consumer
+
+We collect and use your personal information to offer, provide, and maintain insurance products and related services to you. We may use your personal information for one or more of the following purposes:
+
+- To offer, provide, maintain and improve insurance products, operations, and related services, including the use and development of artificial intelligence (AI) systems and/or automated decision-making tools in the areas of marketing, underwriting, pricing, policy service, policy administration and claims-related services;
+
+- To authenticate and verify your identity, to maintain your preferences, and to communicate with you;
+
+- For safety and security purposes, including: prevention, detection and investigation of data security incidents or protection against malicious, deceptive, fraudulent or illegal activity; debugging and ensuring the integrity of our systems;
+
+- To provide appropriate or relevant products and services, conduct analytics, research, and development on our products and services including through the use of AI systems and/or automated decision-making tools;
+
+- Provide marketing communications to you;
+
+- To provide quality assurance;
+
+- To provide a location-based product or service requested by you;
+
+- To apply relevant discounts;
+
+- To create profiles based on personal information collected and reflecting individual preferences;
+
+- To comply with applicable laws and regulations or other governmental or judicial orders.
+
+## Employment and Contractor Relationship
+
+The following disclosure applies to current or former employees of our companies or applicants for employment to our companies. It also applies to personal information collected about current or former contractors of our companies. We may collect the following categories of information for the purposes identified below. Please note that the examples are not an exhaustive list and that all examples may not be collected for everyone for whom information is collected in an employment or contractor context.
+
+Category
+
+Examples
+
+Name, alias, address, social security number, date of birth, driver’s license number, mother’s maiden name, passport number, IP address, e-mail address, account name
+
+Ethnicity, race, sex, gender, medical and health, marital or relationship status, veteran, or military status, sexual orientation, caregiver status, disability status
+
+Insurance policy number, medical information, or health insurance information, bank account, income, tax records, W2, W4, garnishments
+
+Temperature results
+
+Information regarding your interactions with websites, applications, and advertisements, browser type, electronic communications, browsing behavior, IP address
+
+Geolocation
+
+IP address, e-mail address, physical work and home address, telephone number
+
+Audio, such as a call recording, voicemail messages
+
+Work history, wage history, performance history, drug history
+
+Educational background
+
+Inferences
+
+Behaviors, characteristics, attitudes, abilities, and aptitudes
+
+Social Security number, driver’s license number, state ID card, account login, precise geo-location, bank account number
+
+Category
+
+Examples
+
+Name, alias, address, social security number, date of birth, driver’s license number, mother’s maiden name, passport number, IP address, e-mail address, account name
+
+Category
+
+Examples
+
+Ethnicity, race, sex, gender, medical and health, marital or relationship status, veteran, or military status, sexual orientation, caregiver status, disability status
+
+Category
+
+Examples
+
+Insurance policy number, medical information, or health insurance information, bank account, income, tax records, W2, W4, garnishments
+
+Category
+
+Examples
+
+Temperature results
+
+Category
+
+Examples
+
+Information regarding your interactions with websites, applications, and advertisements, browser type, electronic communications, browsing behavior, IP address
+
+Category
+
+Geolocation
+
+Examples
+
+IP address, e-mail address, physical work and home address, telephone number
+
+Category
+
+Examples
+
+Audio, such as a call recording, voicemail messages
+
+Category
+
+Examples
+
+Work history, wage history, performance history, drug history
+
+Category
+
+Examples
+
+Educational background
+
+Category
+
+Inferences
+
+Examples
+
+Behaviors, characteristics, attitudes, abilities, and aptitudes
+
+Category
+
+Examples
+
+Social Security number, driver’s license number, state ID card, account login, precise geo-location, bank account number
+
+## Purposes for Collection of Personal Information – Employee & Contractor
+
+We may use your personal information for one or more of the following purposes:
+
+- To contact you, maintain your preferences, provide relevant work-related information and other communications;
+
+- To make employment or job-related decisions, including through the use and development of artificial intelligence (AI) systems and/or automated decision making tools for human resource administration purposes, administer and process employee benefits;
+
+- For safety and security purposes, including: prevention, detection and investigation of data security incidents or protection against malicious, deceptive, fraudulent or illegal activity; debugging and ensuring the integrity of our systems, authentication and verification of your identity;
+
+- To comply with applicable laws and regulations or other governmental or judicial orders;
+
+- To maintain a safe workplace, and make necessary accommodations, administer applicable health and worker’s compensation programs;
+
+- For training and development purposes, conducting performance reviews, including through the use and development of artificial intelligence (AI) systems and/or automated decision making tools;
+
+- To provide for compensation, reimbursements, tax related information;
+
+- To conduct analytics, research, and development, including through the use and development of artificial intelligence (AI) systems and/or automated decision-making tools, on programs and services related to facilities and workforce management and human resource administration; including, but not limited to, recruitment, retention, development opportunities and promotions;
+
+- To comply with applicable laws and regulations or other governmental or judicial orders.
+
+## Agents and District Managers
+
+The following disclosure applies to those individuals who have appointment relationships with us or who work for an agent or district manager of ours. This includes current and former agents, district managers, and their staff. We may collect the following categories of information for the purposes identified below. Please note that the examples are not an exhaustive list and may fall into multiple categories. Categories and specific pieces of information collected may vary depending on the nature of your relationship with us.
+
+Category
+
+Examples
+
+Name, alias, address, Social Security number, driver’s license number, government issued identification, date of birth, unique personal identifier, online identifier, IP address, e-mail address, account name, bank account.
+
+Name, username, government issued identification, social security number, gender identity, browsing behavior, age range, income bracket
+
+Bank account, income, tax records, records of real or personal property, credit history, Forms W-9 and 1099-MISC
+
+Fingerprint
+
+Information regarding your interactions with websites, applications, and advertisements. Browser type, electronic communications, browsing history, search history, IP address, cookies, Farmers® e-mail, operating systems, Farmers system entries, and other electronic communications
+
+Geolocation
+
+IP address, e-mail address, physical address, telephone number, state, municipality, location, Farmers applications, with respect to computer, mobile device, contact location, tablet, cell phone
+
+Audio, electronic, Photo, visual information, such as a call or video recording
+
+Job titles, compensation, employment history, professional licenses, certifications or designations, criminal convictions, marital status, contract and agency performance information, Farmers® Agent Benefit Program information
+
+Education level
+
+Inferences
+
+Social Security number, driver’s license number, state ID card, account log-in, precise geo-location, bank account number, credit or debit card number or any other financial information, trade union membership, your communications with us.
+
+Category
+
+Examples
+
+Name, alias, address, Social Security number, driver’s license number, government issued identification, date of birth, unique personal identifier, online identifier, IP address, e-mail address, account name, bank account.
+
+Category
+
+Examples
+
+Name, username, government issued identification, social security number, gender identity, browsing behavior, age range, income bracket
+
+Category
+
+Examples
+
+Bank account, income, tax records, records of real or personal property, credit history, Forms W-9 and 1099-MISC
+
+Category
+
+Examples
+
+Fingerprint
+
+Category
+
+Examples
+
+Information regarding your interactions with websites, applications, and advertisements. Browser type, electronic communications, browsing history, search history, IP address, cookies, Farmers® e-mail, operating systems, Farmers system entries, and other electronic communications
+
+Category
+
+Geolocation
+
+Examples
+
+IP address, e-mail address, physical address, telephone number, state, municipality, location, Farmers applications, with respect to computer, mobile device, contact location, tablet, cell phone
+
+Category
+
+Examples
+
+Audio, electronic, Photo, visual information, such as a call or video recording
+
+Category
+
+Examples
+
+Job titles, compensation, employment history, professional licenses, certifications or designations, criminal convictions, marital status, contract and agency performance information, Farmers® Agent Benefit Program information
+
+Category
+
+Examples
+
+Education level
+
+Category
+
+Inferences
+
+Examples
+
+Category
+
+Examples
+
+Social Security number, driver’s license number, state ID card, account log-in, precise geo-location, bank account number, credit or debit card number or any other financial information, trade union membership, your communications with us.
+
+## Purposes for Collection of Personal Information – Agent & District Manager
+
+We may use your personal information for one or more of the following purposes:
+
+- To process commissions and other folio transactions, including credits and debits related to appointment or requested transactions with third parties;
+
+- To process an application; complete the appointment process and provision system access;
+
+- To contact you, establish communication preferences;
+
+- To service or process an application, policy, account, or claim;
+
+- For safety and security purposes, including: prevention, detection and investigation of data security incidents or protection against malicious, deceptive, fraudulent or illegal activity; debugging and ensuring the integrity of our systems, authentication and verification of system users and callers;
+
+- To conduct analytics, research, and development on programs and services, including through the use and development of artificial intelligence (AI) systems and/or automated decision-making tools
+
+- To comply with applicable laws and regulations or other governmental or judicial orders.
+
+## How Long Do You Retain My Information
+
+We retain your personal information for as long as reasonably necessary to fulfill the purposes for which it was collected and to comply with applicable legal or regulatory requirements and in accordance with our internal procedures.
+
+## Sources of Personal Information
+
+With respect to consumers, customers and prospects, current and former employees and job applicants, and agents and district managers, we obtain the categories of personal information listed above from the following categories of sources:
+
+- Directly from you - We collect personal information when you provide it to us in a request for a quote, claim, or policy on any of our website(s) or mobile applications, or through interactions with an agent or our call center.
+
+- Indirectly from you - We may collect personal information, including, but not limited to, geolocation and driving data (when using mobile applications), IP address, cookies, and device ID when you visit our website(s), interact with our online advertisements, or use or mobile application(s).
+
+- Provided by third-party service providers - We may collect personal information from third-party service providers including consumer reporting agencies, marketing companies and data providers.
+
+- Obtained from government entities - We may obtain personal information from public records maintained by various government entities.
+
+## Sharing your information
+
+In accordance with CCPA and other applicable laws, we may disclose your personal information, for business purposes, to third-party service providers. When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires the recipient to keep that personal information confidential and not use it for any purpose, except in performing the contract, or as otherwise required or permitted by law. In addition to sharing your personal information with third-party service providers, we may share your information as permitted by applicable federal law as described in our customer privacy notices.
+
+We may share your personal information as required or permitted by law including with:
+
+- Companies involved in insurance and other related transactions
+
+- Agents and brokers
+
+- Service providers which may include, but are not limited to:
+
+- Internet service providers
+
+- Data analytics providers
+
+- Companies that provide marketing, advertising, and related services
+
+- Legal, tax, accounting, and other similar support function providers
+
+- Payment processors
+
+- Government entities, including law enforcement and regulators
+
+- Consumer reporting agencies
+
+- Insurance support organizations
+
+In the previous twelve (12) months, we may have disclosed the following categories of personal information with the following service providers or contractors:
+
+Category
+
+Examples
+
+Companies involved in insurance transactions, agents, brokers, service providers, law enforcement, or regulators
+
+Biometric information
+
+Companies involved in aggregation of preferences, characteristics, behaviors, and trends; service providers, law enforcement, or regulators
+
+Geolocation
+
+Professional information and employment information
+
+Service providers or entities who can validate employment or professional information, law enforcement, or regulators
+
+Education information
+
+Service providers or entities who can validate education information, law enforcement, or regulators
+
+Inferences
+
+Companies involved in aggregation of preferences, characteristics, behaviors and trends, service providers, law enforcement, or regulators
+
+Category
+
+Examples
+
+Category
+
+Examples
+
+Category
+
+Examples
+
+Category
+
+Biometric information
+
+Examples
+
+Category
+
+Examples
+
+Companies involved in aggregation of preferences, characteristics, behaviors, and trends; service providers, law enforcement, or regulators
+
+Category
+
+Geolocation
+
+Examples
+
+Category
+
+Examples
+
+Category
+
+Professional information and employment information
+
+Examples
+
+Service providers or entities who can validate employment or professional information, law enforcement, or regulators
+
+Category
+
+Education information
+
+Examples
+
+Service providers or entities who can validate education information, law enforcement, or regulators
+
+Category
+
+Inferences
+
+Examples
+
+Companies involved in aggregation of preferences, characteristics, behaviors and trends, service providers, law enforcement, or regulators
+
+Category
+
+Examples
+
+In the previous twelve (12) months, we have not sold or shared your personal information to third parties as those terms are defined by the CCPA.
+
+All of the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with or sold to any third parties, excluding aggregators and providers of text message services. No mobile information will be shared with or sold to third parties for marketing/promotional purposes.
+
+## Your California Privacy Rights
+
+Right to Access/Right to Know
+
+You have the right to request that we disclose additional information to you about our collection and use of your personal information in the previous 12 months. The categories of personal information collected are identified in this privacy policy. Once we receive and confirm your verifiable consumer request, we will disclose to you (as applicable to your request):
+
+- The categories of personal information we collected about you;
+
+- The categories of sources for the personal information we collected about you;
+
+- Our business or commercial purpose for collecting, selling, or sharing that personal information;
+
+- The categories of third parties to whom we disclose that personal information
+
+- The specific pieces of personal information we collected about you;
+
+- If we sold or shared your personal information or disclosed your personal information for a business purpose, separate lists disclosing
+
+- the categories of personal information sold or shared and the categories of third parties to whom the personal information was sold or shared by category of personal information; and
+
+- the categories of personal information disclosed for a business purpose, and to whom the personal information was disclosed by category.
+
+You may only make a verifiable consumer request for access twice within a 12-month period.
+
+Right to Request Deletion
+
+We retain your personal information for as long as reasonably necessary to fulfill the purposes for which it was collected and to comply with applicable legal or regulatory requirements and in accordance with our internal procedures.
+
+Examples of business purposes include: servicing policies, handling claims, and establishing premiums. Legal obligations include: reporting requirements, dispute resolution, and compliance matters. You have the right to request that we delete any of your personal information that we collected and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
+
+Right to Request Correction
+
+You have the right to request that we correct any inaccuracies in the information provided by you. Types of errors may include: errors in the spelling of your name, inaccurate phone number or address, incorrect e-mail spelling, etc. Once we receive and confirm your verifiable consumer request, we will take appropriate steps to correct the error.
+
+Submitting a CA Privacy Rights Request:
+
+- Dial 1-855-327-6548 Mondays to Fridays from 8 a.m. to 5 p.m. Pacific Time. The representative will collect information from you for verification and to initiate your request.
+
+- Submit a request through our CCPA Web Form. Within three to five days of your request, a representative will call you at the number you provide in order to collect any additional information from you necessary for verification and to initiate your request.
+
+You may also designate another person or business entity (“Authorized Agent”) to submit a request on your behalf. You must provide the Authorized Agent written permission to do so. One way to do so is to provide us with a notarized affidavit. A sample affidavit is available for download from the CCPA Web Form.
+
+## Do Not Sell/Share My Personal Information/Notice of Right to Opt Out
+
+Under the California Consumer Privacy Act (“CCPA”), the sale of your personal information means the sharing of your personal information with certain third parties under certain circumstances. Under CCPA, consumers have the right to direct a business that sells or shares personal information about the consumer to third parties to not sell or share the consumer’s personal information.
+
+We may use tracking tools like cookies and pixels to collect information which may be considered a sale under CCPA. Under the CCPA, a consumer has the right to direct a business that sells a consumer’s information, to not sell the consumer’s information. Information about your on-line activities, along with other information, may be used to determine product advertisement for you. You may exercise choice regarding the collection of information by changing the setting on your browser or visiting third-party websites, such as Global Privacy Control. Selections you make are device and browser specific. You can also manage individual cookie preferences by visiting Your Privacy Choices at the bottom of each webpage. You can ‘toggle’ within Sale and Sharing of Personal Information and save your changes.
+
+If we share your information for purposes of cross-context behavioral advertising, this policy will be updated and provide specific methods to make an opt-out selection.
+
+## Notice of Right to Opt-In
+
+If you choose to opt in after opting out of the sale or sharing of your personal information, you may do so by changing the setting on your browser or visiting third-party websites, such as Global Privacy Control. Selections you make are device and browser specific. You can also manage individual cookie preferences by visiting Your Privacy Choices at the bottom of each webpage. You can ‘toggle’ within Sale and Sharing of Personal Information and save your changes.
+
+Additionally, we do not and will not share the personal information of consumers we actually know are younger than 16 years of age.
+
+How We Verify Your Identity
+
+Additional information will be required for verification purposes. The specific elements may vary depending on the nature of your relationship with us but will begin with name, address, phone number and date of birth. These elements will be matched with data in our systems. Only you, or an authorized agent, may make a request related to your personal information. You may also make a request on behalf of your minor child.
+
+- If you designate an Authorized Agent to act on your behalf with regard to a request to know or delete, you must provide us with a notarized affidavit. A sample affidavit is available or download from the CCPA Web Form. Alternatively, a valid power of attorney may be provided. Responses to requests for access will be provided directly to the consumer.
+
+- For requests that seek the disclosure of specific pieces of information, you may be asked to complete and provide a signed declaration under penalty of perjury that you are the consumer who is the subject of the request. A sample declaration is available or download from the CCPA Web Form.
+
+If we are unable to verify you based on the information you have provided and the information in our systems, we will advise you that we cannot complete your request based on an inability to verify you.
+
+How we’ll respond to your request
+
+We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to an additional 45 days), we will inform you of the reason and extension period in writing. We will deliver our written response by mail.
+
+Disclosures we provide may only cover the 12-month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
+
+## Notice of Financial Incentive
+
+The Signal Rewards Sweepstakes is designed to promote an increased awareness of distracted driving by offering qualified customers the chance at rewards. Meeting the qualifications does not automatically make you a winner; instead, every customer who meets the qualifications for the given month is entered into a drawing, and everyone who qualifies has the same odds of winning. Under CCPA law, the Signal Rewards Sweepstakes may be considered a financial incentive program in exchange for the collection and retention of personal information.
+
+By agreeing to participate in the Signal program your access or use of the Signal program services, or applications (including mobile applications) made available by Farmers and TrueMotion, is governed by the Signal Terms of Use and Privacy Policy.
+
+## Notice of use of Artificial Intelligence and Automated Decision Making
+
+Farmers Insurance Group of Companies® may utilize artificial intelligence (AI) systems and/or automated decision making tools as part of our operations to enhance the quality and efficiency of our services, including, without limitation, marketing, underwriting, pricing, policy service, policy administration, claim service, and claim administration
+
+## Non-Discrimination
+
+We will not discriminate against you for exercising any of your CCPA rights.
+
+## Contact for More Information
+
+If you have additional questions related to our privacy policies and practices, please contact us at 1-855-327-6548.
+
+## Hyperlinks/Third-Party Sites and Services
+
+We have agreements with third parties that allow you to go to their websites, or mobile applications, from our websites and/or mobile applications. If you go to these sites from our site, you may be asked to give non-public personal information for access to their services or products. You may become a part of that business’ customer base and be subject to its policies regarding the handling of customer information.
+
+Please be aware that we are not responsible for the privacy practices of those sites or applications, even though our name or logo may appear on those sites and applications. We encourage you to be aware of this when you leave our site and to read the privacy statements of each and every website and mobile application that you visit, as the privacy policy of those sites may differ from ours. Our privacy statement applies solely to our websites and applications.
+
+## Security
+
+Our policy is to restrict access to nonpublic personal information about you only to those employees who need to know that information to provide products or services to you, or to provide necessary technical support. We require the employees with access to your nonpublic personal information, including your social security number, to use safeguards against unauthorized access, use, and unlawful disclosure. We require our employees to adhere to high standards of ethics and integrity in performing their jobs and conducting business. We also require the same standards of confidentiality from the service vendors that assist us. We may use encryption (data scrambling) on some or all public portions of our websites and up to 2048- bit encryption on other portions - typically, where you can enter personally identifiable information. When you are on any website that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information.
+
+## Logging In
+
+In addition to the information you provide us, we collect information about your activities while you are on our websites. While you are logged in our sites, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site.
+
+## Push Notifications
+## Interest-based ads
+
+Interest-based ads are on-line ads tailored to your likely interests based on your use of various apps and websites across the Internet. If you are using a browser, then cookies and web beacons can be used to collect information to help determine your likely interests. If you are using a mobile device, tablet, or streaming media device that includes an advertising identifier, then that identifier can be used to help determine your likely interests. For your choices about interest-based ads from us, please see the “Cookies” section(below).
+
+## Cookies
+
+A cookie is a message sent to your browser from a web server that is stored on your computer’s hard drive. The message is sent back to the web server whenever the browser requests a page from that server. Many commercial Internet sites use cookies. While a code in the cookie file enables the site to label you as a particular user, it does not identify you by name or address, unless you have provided the site with such information or set up preferences in your browser to do so automatically. You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions. In general, cookies allow us to identify you as a particular user and, thus, provide you with a more customized service. We may also use cookies to track or user requests, inquiries, and traffic patterns or to determine audience size and repeated usage. We use web beacons (also known as pixel tags, or transparent GIF files), to help manage on-line advertising. These files enable us to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. With both cookies and other technologies to measure and optimize on-line advertising, the information that we collect, and share is anonymous and not personally identifiable. It does not contain your name, address, telephone, nor e-mail address.
+
+When you visit our website, other parties may collect personally identifiable information about your on-line activities over time and across different websites. Notwithstanding any other provision, we may work with third parties who may collect information from you, such as your IP address and information about your browser or operating system and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third-party service providers contain no personally identifiable information: they may contain demographic or other Internet-based data in a de-identified form. The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address, or e-mail, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to https://www.aboutads.info/choices.
+
+## Location-Based Services
+
+To provide location-based products and services, we and our service providers may collect, use, and share precise location data, including the real-time geographic location of your mobile device. Where available, location-based services may use GPS, Bluetooth, and IP address, along with crowd-sourced Wi-FI hotspot and cell tower locations, and other technologies to determine your device’s approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by us and our service providers to provide and improve location-based products and services.
+
+## Legal Terms
+
+We also recommend you read the applicable terms and conditions for use on our websites and mobile applications that address applications that address the content in our sites and information about your responsibilities when using these sites.
+
+## Children and Minors
+
+We make no active effort to collect personal information from children under the age of 13, and do not wish to receive any such information. If we learn that we have collected the personal information of a child under the age of 13, we will take steps to delete the information as soon as possible.
+
+## Changes to our Privacy Notice
+
+We reserve the right to amend this privacy notice at our discretion at any time. We will update this privacy policy no less frequently than annually. When we make changes to this privacy notice, we will post the updated notice on our websites and in our mobile applications and update the notice’s effective date. Your continued use of our website(s) and mobile applications following the posting of changes constitutes your acceptance of such changes.
+
+## California Privacy Rights Reporting
+
+(as of 12/2025)
+
+Requests Submitted
+
+Requests Completed in Whole Or In Part
+
+Average Days to Respond
+
+Requests to Delete
+
+157
+
+0
+11.3
+
+Right to Know
+
+97
+Requests to Correct
+
+4
+13.4
+
+Requests to Opt Out
+
+3588
+
+3588
+
+1
+Requests to Delete
+
+157
+
+0
+11.3
+
+Right to Know
+
+97
+Requests to Correct
+
+4
+13.4
+
+Requests to Opt Out
+
+3588
+
+3588
+
+1

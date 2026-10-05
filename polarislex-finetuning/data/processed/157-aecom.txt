@@ -1,0 +1,706 @@
+Select a page
+
+- Privacy Policy
+
+- Recruitment Privacy Notice Policy
+
+- 1. Purpose and Scope
+
+- 2. How might we collect your Personal Data
+
+- 3. What Personal Data we use and why
+
+- 4. Change of Purpose for Processing Your Personal Data
+
+- 5. Retention of Your Personal Data
+
+- 6. Your Data Privacy Rights
+
+- 7. Sharing of Personal Data
+
+- 8. International Transfers
+
+- 9. Data Security
+
+- 10. External Links and Features
+
+- 11. Other Important Information
+
+- 12. Contacting AECOM Privacy Office
+
+- 13. Jurisdictional Specific Provisions
+
+- 14. Terms and Definitions
+
+- 15. Records
+
+## Your Privacy Matters to Us
+
+AECOM is committed to protecting your personal information in accordance with the UK General Data Protection Regulation (UK GDPR) and guidance from the Information Commissioner’s Office (ICO). We collect and process your data only for the purpose of handling your inquiry or complaint, and we keep your information secure and confidential.
+
+You have the right to access, correct, or request deletion of your data. For more information about your rights, please see the ICO website. You may also visit the website of your local regulator if you are not the resident of the United Kingdom.
+
+To submit a privacy-related complaint, please use our online complaint form.
+
+For further questions, contact us at privacyquestions@aecom.com.
+
+Revision 5 January 29, 2025
+
+## 1. Purpose and Scope
+
+- This Privacy Notice (the “Notice”) describes how AECOM and its subsidiaries and affiliates (individually and collectively, “AECOM”, “Company”, “we”, “us” and/or “our”) may Process your Personal Data, including the reasons AECOM collects it, how and how long it is stored, who may access it and under what conditions, and what rights you have to control, delete, correct, and be informed about your Personal Data—including rights that may differ depending on your location. Please read this Notice carefully
+
+- If you have questions, contact the AECOM Privacy Office at privacyquestions@aecom.com. Please note that this Notice does not apply to AECOM’s recruitment activities. If you are applying for a job with us, please see the AECOM Recruitment Privacy Notice.
+
+- For purposes of this Notice:
+
+- “Personal Data” means any information relating to an individual who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.
+
+- “Process” means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, either by automated means, such as collection, recording, saving, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+
+- If you do not provide the Personal Data requested, we may not be able to provide certain of our services to you. We will notify you where this applies to you.
+
+- Additional information for certain jurisdictions: For residents in the EU/UK, Brazil, California, Thailand, Kingdom of Saudi Arabia, Chinese Mainland, Singapore, Australia, Hong Kong SAR, and Canada we provide additional information as required by local law;
+
+please review the following sections of our Notice that apply to you:
+
+- Section 13.1: EU / UK Residents
+
+- Section 13.2: Brazil Residents
+
+- Section 13.3: California Residents
+
+- Section 13.4: Thailand Residents
+
+- Section 13.5: Kingdom of Saudi Arabia Residents
+
+- Section 13.6: Chinese Mainland Residents
+
+- Section 13.7: The Republic of Singapore Residents
+
+- Section 13.8: Australia Residents
+
+- Section 13.9: Hong Kong SAR Residents
+
+- Section 13.10: Canada Residents
+
+Refer to AECOM Privacy Policy to view this Notice in other languages.
+
+## 2. How might we collect your Personal Data
+
+We use different methods to collect data from and about you:
+
+- Direct Interactions: AECOM may collect Personal Data that you provide when contacting us through phone, email, web forms, projects, bids, quality and compliance questionnaires, proposals, or other means.
+
+- Third Parties or Publicly Available Sources: Subject to applicable law, AECOM may obtain Personal Data from: a representative of your company (such as if we are performing work for your company, or your company is performing work for AECOM), publicly available online professional organizations, social media, and other networking platforms (e.g., LinkedIn, ZoomInfo).
+
+- Combining “Personal Data” from Different Sources: AECOM may combine the Personal Data we receive from various sources with Personal Data we collect from you and use it as described in this Notice, such as for the marketing purposes described at Section 3.3.
+
+## 3. What Personal Data we use and why
+
+AECOM may collect the Personal Data listed in the below subsections, for the specified reasons and in the specified manner.
+
+## 3.1 When you visit our Websites
+
+| Type of Personal Data Collected | Purpose for AECOM’s Use | Lawful Basis for AECOM’s Use
+
+| Contact details and contact preferences.The products, or services we, or our customers/clients provide to you, and/or your use of them.Personal Data related to your support request or any other type of inquiry you need our assistance with. | To manage our interactions with you, communicate with one another, and respond to queries and complaints through available communication channels, including chat, email, social media platforms, webforms, telephone, surveys (telephonic/online and in-person).To comply with client requirements. | Our legitimate interest in delivering satisfactory customer service to you and ensure a good customer experience of our brand.Your consent where required.Performance of a public task in the public interest handed down by public official authority, such as conducting a census for a government function.
+
+| Contact details (e.g., name, phone, email address).Age and title.Email open/click rates.Other Personal Data you provide to us. | To understand your experiences, interests and concerns about our products, services, and brand, by means of conducting insight related initiatives such as surveys and research studies.To comply with client requirements. | Our legitimate interest in improving our products, services, and customer experience; understanding overall performance and efficiency of our insight related initiatives.Your consent for marketing purposes in those countries where required to track email open / click rates, or to conduct surveys and research studies.
+
+| Information provided in connection with your event registration and participation such as your contact details, dietary requirements, or other needs when relevant. | To plan, organize, and manage events you have agreed to and/or participated in. | Our legitimate interest in advertising our business services and products.Your consent, where required.
+
+| Personal Data that we collect during the event (including, where applicable, photographs and videos depicting you) | |
+
+| Contact details.Professional details. | To Process your Personal Data for the purpose of lead management if you are not yet a customer | Our legitimate interest to handle prospective customers.Your consent, where required.
+
+AECOM Processes certain Personal Data when you use our websites. For further information about the Personal Data we Process and the technologies we use, please see our cookie policy.
+
+## 3.2 When we Communicate and Connect with you
+
+AECOM collects Personal Data when you contact us or when we contact you on behalf of our clients through projectrelated work.
+
+## 3.3 For Marketing our Services and Products to you
+
+AECOM collects Personal Data to personalize news, marketing content, and offers, which may be communicated to you via various channels such as postal mail, phone, email, and social media. Where we obtain information about you from third parties, we have implemented checks and reviews to confirm that the information was lawfully obtained by the relevant third party and that the third party has the right to provide us with this information. If you no longer wish to receive marketing offers from us, you can always let us know by selecting ‘unsubscribe’ at the bottom of each marketing email or similar in the other channels.
+
+| Contact details (name, email address).Contact preferences for marketing communications.Record of your privacy choices, such as opt-out of marketing, cookie settings (date and time of your choice). | To record and manage your choices.To send marketing communications that you have requested or may be of interest to you, according to your preferences. | Your consent to receive direct marketing communications (e.g., email marketing) from us.Where you have bought a service from us, and where applicable, where we send marketing communications to you as a representative for a business, our legitimate interest to send you marketing communications.Our legal obligation to document and demonstrate whether you have consented to receiving marketing communications from us and record and respect your contact preferences and when and what you have opted out from.
+
+## 3.4 For Employees of our Clients or Business Partners
+
+AECOM collects Personal Data to: manage existing and prospective clients, customers, suppliers, or other third-party relationships (e.g. in relation to the initiation, conclusion, or fulfillment of a contract); Communicate about products or services we offer or intend to offer; improve our products or services; and review our business relationship; perform accounting, auditing, billing, and collection activities; meet legal obligations (e.g. financial and administrative obligations); and establish, enforce or defend against legal claims.
+
+| Identification data, such as full name, preferred name, business/mailing address, email address, and telephone number.Other business data, such as data on invoices, purchase orders, agreements, bids, proposals, and other related business records that may contain Personal Data.Other information you make available to us throughout our business relationship. | To maintain our business relationship with you, communicate with you and otherwise address matters concerning our business relationship. | Our legitimate interest in maintaining our business operations.
+
+| Electronic and voice communications data – a record of our contacts with you, including interviews, and disposition (which may include CCTV footage captured within our offices), visitor sign-in logs, and business communications content and data, including IP address and session identification through all applicable communication channels, including email, text, instant message or chat, transcriptions and/or telephone communications, voice recordings, and video recordings. | To manage safety and security at our facilities. | Our legitimate interest to maintain security and safety, prevent theft and fraud on our premises.
+
+## 3.5 For Shareholders
+
+As AECOM a publicly traded company, AECOM has certain obligations to you, as a shareholder, pursuant to Securities and Exchange Commission (SEC) regulations. To meet these obligations, AECOM collects and stores the following information about you in your role as a shareholder:
+
+| Contact information.Proof of identification.Information regarding proxies representing shareholders, where applicable.Information about your shareholding.Visual material and/or audio recordings (such as recordings during a general meeting).Other information that you make available to us (such as via e-mail, notifications to a general meeting, request to address a specific matter at a general meeting and other communication). | To identify shareholders, manage the shareholder register, prepare for shareholder meetings, and conduct shareholder meetings.To fulfill our obligations towards you as a shareholder under applicable law.To fulfill our obligations under applicable law.To manage company holdings, including any share distributions where applicable.To communicate with you as a shareholder. | To comply with our legal obligation, including those required by the Security and Exchange Commission.Our legitimate interest in identifying you as a shareholder and to communicate with you.Our legitimate interest in managing and, where applicable, distributing our holdings and sharing relevant information (including but not limited to Personal Data relating to you as a shareholder) with third parties such as central securities depositories and banks issuing depository receipts, as relevant.
+## 3.6 Contractors and Subcontractor
+
+-
+- AECOM collects the following Personal Data when onboarding contractors and subcontractors in order to satisfy AECOM’s contractual obligations:
+
+| Identification data, such as: full name, preferred name, business address, home address, email address, telephone number, username/password, date of birth, nationality, citizenship status, country of birth, photo/image, and biometric data (i.e., fingerprint scan) where applicable.Emergency contacts, such as full name, address, and telephone number.Employment and professional information, such as: job title/position, prior work or project experience, reference contacts, CV/resume, academic/professional qualifications, skills, work-related licenses, education, references, military status, work permits, and training reports.Government-issued data, such as Social Security Number, federal tax identification number, national identification number, driver’s license number, and passport number.Financial/insurance data, such as bank name and routing and account number, and insurance policy information. | To maintain our business relationship with you, communicate with you, and otherwise address matters concerning our business relationship.Conduct legal due diligence/anti-corruption screening, denied or restricted party checks, recording of administration of work time, business continuity, and incident response communications.To evaluate your skills and experience, verify your data, and contact you for project opportunities and general business operations.Accounting/government tax and auditing business purposes.Administer quality, safety, and compliance checks and reviews to qualify third-party contractors for performing work in accordance with applicable quality standards such as ISO 9001 and NQA-1.Administration of safety and protection of AECOM employees, resources, workplaces, and physical site access. | Legitimate interest (to maintain our business operations and to secure our network).Legal obligation (laws that require us to carry out requirements such as background or denied party screening, tax reporting, and OSHA requirements).Your express consent when required by law for background checks, including denied party screening.
+
+| Medical/Health data, such as medical certificates, work site incident, and accident reports. | Security, including the use of individuals who are required to maintain specific qualifications or certifications, and to manage AECOM business and client project-related operations. | –
+
+| Demographic data, such as gender, ethnicity, race, disability status, gender identity, transgender status, sexual orientation, and religion. | AECOM processes demographic data for a variety of reasons, which vary in different jurisdictions.Where the processing of demographic data is not required by law, we will ask for your express consent.To carry out equal opportunities monitoring, analyze procurement practices, support efforts to create and maintain a diverse workforce, and produce diversity statistics. | AECOM only collects this personal data with your consent.** If you choose to consent, you can withdraw this at any time by contacting us.
+
+| Electronic and voice communications data, such as record of our contacts with you, including interviews and disposition (which may include CCTV footage captured within our offices), and business communications content and data, including IP address and session identification through all applicable communication channels, including email, text, instant message or chat, transcriptions, and/or telephone communications, voice recordings, and video recordings. | To manage AECOM business and project-related operations.To manage safety and security at our facilities.Administration of safety and protection of AECOM systems for recording and monitoring network activity for the purpose of identifying, predicting, and preventing the entry of malicious activity onto or the release of information from the AECOM network and computing resources. | Our legitimate interest to maintain security and safety, prevent theft, and fraud on our premises.
+
+- In addition to the Personal Data identified in the above table, AECOM may collect the following additional Personal Data about you:
+
+- CCTV monitoring and Fleet Vehicle Dash Cams:
+AECOM may use Closed Circuit Television (“CCTV”) monitoring at its physical sites, and/or dash cams in fleet vehicles where permitted by law. CCTV monitoring is generally used to control and prevent unauthorized access to AECOM’s premises and equipment, however in some countries it may also be used for the purpose to ensure compliance with health and safety guidelines and procedures and for overall production improvement purposes. Fleet vehicle CCTV is used for driver safety. CCTV and fleet vehicle dash cam images and recordings are securely stored and only accessible on a need-to-know basis (for example, to investigate an incident).
+
+- Special categories (Sensitive Personal Data)
+Certain Personal Data may be regarded as “Special Category” Personal Data under applicable data privacy laws, such as certain Personal Data about religion, ethnicity, genetics, biometrics, sex life, political opinions or health data. Any such Special Category Personal Data must be handled with extra care and requires additional protective measures. Where AECOM Processes Special Category Personal Data, we will only do so where there is a lawful basis and/or where you provide your explicit consent. In such cases, AECOM will inform you and (if required by law to do so) seek your explicit consent to Process such data.
+
+## 4. Change of Purpose for Processing Your Personal Data
+
+- AECOM will only use your Personal Data for the purposes for which it was originally collected unless we reasonably consider that we need it for another purpose compatible with the original purpose and there is a legal basis for such Processing.
+
+- If Personal Data covered by this Notice is to be used for a new purpose that is materially different from that for which the Personal Data was originally collected or subsequently authorized or is to be disclosed to a third party for their own purposes, AECOM will provide you with an opportunity to choose whether to have your Personal Data so used or disclosed.
+
+## 5. Retention of Your Personal Data
+
+- Your Personal Data will be retained only for as long as required to achieve the purposes for which it was collected, in line with this Notice, and will be securely destroyed when no longer required.
+
+- The following criteria are what determine the period for which the Company will keep your Personal Data:
+
+- When it is no longer required to be retained to comply with regulatory requirements or financial obligations
+
+- Until we are no longer required to do so by any applicable law
+
+- Until all purposes for which the data was originally gathered have become irrelevant or obsolete; or
+
+- Until the goods and/or services we have provided are no longer in active use.
+
+We may also use aggregated, anonymized, and/or pseudonymise datasets which are de-identified so that they no longer constitute Personal Data.
+
+## 6. Your Data Privacy Rights
+
+- Where required by applicable law, AECOM extends certain data privacy rights to you, as listed below and subject to the conditions set out in applicable law:
+
+- The right to request access. You may have the right to request copies of your Personal Data. Note that we may be unable to provide you access to your Personal Data in instances where we have destroyed, erased, or anonymized the data, if we are unable to verify your identity using information we have on file for you, or if it would reveal Personal Data about another person. We may also refuse any request if applicable law allows or requires us to do so. We will inform you of the reasons for refusal.
+
+- The right to request rectification. If any Personal Data is inaccurate or incomplete, you may request that your Personal Data be corrected or completed.
+
+- The right to request erasure. You have the right to request AECOM delete your Personal Data under certain conditions. Note that AECOM may not always be able to accomplish such deletion because of overriding legal requirements. In those cases, AECOM will provide an explanation of why we could not delete the data.
+
+- The right to withdraw consent. Where you have provided written consent to the collection, Processing, or transfer of Personal Data, you have the legal right to withdraw consent. Where we have Processed your Personal Data based only on your written consent, you can withdraw that consent at any time, but this may mean that we cannot provide certain services to you. Note that withdrawing consent will not affect the lawfulness of any Processing the Company conducted prior to your withdrawal of consent, nor will it affect the Processing of the Personal Data conducted in reliance on a lawful basis other than consent.
+
+- The right to request portability. You have the right to request AECOM transfer your Personal Data that we have collected from you to another organization, or directly to you, in a structured, commonly used, and machine-readable format, when technically feasible.
+
+- The right to restrict Processing. You have the right to request that AECOM restrict the Processing of your Personal Data, under certain conditions, such as to opt-out of “sale” and “sharing” of your Personal Data.
+
+- The right to opt-out of email marketing. You have the right to opt-out of email marketing communications at any time by selecting the email’s “Opt-out” or “Unsubscribe” link or following the instructions in each email subscription communication.
+
+- Results of automated decision making. You have the right to request to review automated decision-making that impacts you.
+
+- The right to file a complaint. If you consider that your privacy rights have not been adequately addressed, you have the right to submit a complaint to the AECOM Privacy Office or to the supervisory authority in your country of residence.
+
+- Object to Processing. You may be able to object to our Processing where AECOM is using your Personal Data for marketing purposes. You may also be able to object to our Processing where AECOM is using your Personal Data for other purposes, such as legitimate interests, unless the company can demonstrate compelling legitimate grounds for the Processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims.
+
+- If you choose to contact us to submit a request, you will need to provide us with:
+
+- Enough information to identify you [e.g., your full name, address, birth date, or other identifier].
+
+- A description of what right you want to exercise and the information to which your request relates. Note: AECOM will not disclose data if we cannot verify that the person making the request is the person about whom we collected information, or if someone authorized to act on such person’s behalf.
+
+- You can submit a request to exercise these data privacy rights to the AECOM Privacy Office via the Data Subject Access Request (DSAR) – AECOM Global or email privacyquestions@aecom.com. You may also call 888.299.9602. AECOM will request specific information to help confirm identity and rights.
+
+- AECOM will not discriminate against individuals for exercising any of their privacy rights allowed or required by applicable data protection law or regulation.
+
+## 7. Sharing of Personal Data
+
+AECOM shares Personal Data in the following ways and circumstances:
+
+- AECOM Staff: AECOM shares Personal Data among staff having a legitimate business need to know based on their respective role with the Company.
+
+- Subsidiaries and Affiliates: AECOM shares Personal Data among AECOM subsidiaries and affiliates for the purposes described in this Privacy Notice, consistent with applicable legal requirements.
+
+- Vendors: AECOM shares Personal Data to selected vendors to perform services on behalf of the organization. These vendors may include, for example:
+
+- Cloud providers / Data hosting / storage providers: for example, in connection with our customer relationship management or subcontractor onboarding systems.
+
+- Denied and Restricted Party Screening Providers: for example, to help us to comply with sanctions rules.
+
+- Clients: AECOM shares certain Personal Data as part of our solicitation of and provision of professional services to our clients for bids and proposals, project-related work, security clearances or as required by security protocols.
+
+- Other Third Parties: AECOM discloses certain Personal Data to other third parties:
+
+- where required by law or legal process (e.g., to tax and social security authorities, or in response to judicial subpoenas)
+
+- where AECOM determines it is lawful and appropriate
+
+- to protect AECOM’s legal rights (e.g., to defend a litigation suit or under a government investigation or inquiry) or to protect its employees, resources, and workplaces; or
+
+- in an emergency where health or security is at stake.
+
+- Public Security/Law Enforcement: in exceptional circumstances, AECOM may be required to disclose Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
+
+## 8. International Transfers
+
+AECOM is a global company, with offices, Clients, and Suppliers located throughout the world. As a result, Personal Data may be transferred to (including through remote access by) other AECOM offices, data centers, and servers in Europe, Asia, Central and South America, the Middle East, or the United States for the purposes identified. Any such transfer of Personal Data will take place in compliance with applicable law through legally appropriate methods, including adequacy decisions, international data transfer agreements, Standard Contractual Clauses, or other similar methods that have been recognized by Data Protection Authorities as providing a legally adequate level of protection to Personal Data. AECOM will further ensure all such transfers of Personal Data are subject to legally appropriate safeguards. You may request a copy of these safeguards using the contact details provided at Section 12 of this Notice.
+
+## 9. Data Security
+
+- AECOM has adopted and maintains reasonable and appropriate information security policies, processes and/or procedures to safeguard Personal Data from loss, misuse, unauthorized access, disclosure, alteration, destruction, and other Processing. However, because no method of transmission over the Internet or electronic storage is entirely secure, AECOM does not warrant the security of any Personal Data that you may provide.
+
+- AECOM’s information security processes provide for the classification of information and the assignment of protection requirements and information security controls based on the classification of information. The safeguards used to protect Personal Data is commensurate with the level of risk involved.
+
+## 10. External Links and Features
+
+Communications from AECOM may contain links to third-party websites or features or provide certain third-party connections or integrated services. Any access to and use of such linked websites, features, or third-party services is not governed by this Notice, but instead is governed by the privacy policies of those third parties. Your use of those third party provided websites, features and services is done at your sole discretion and AECOM is not responsible for the information practices of such third parties, including their collection, use, and disclosure of your Personal Data. You should review the privacy policies and terms for any third parties before proceeding to those websites or using those third-party features or services.
+
+## 11. Other Important Information
+
+Privacy laws and guidelines are part of a constantly changing environment. AECOM reserves the right, at its discretion, to modify, add, or remove portions of this Privacy Notice or any supplemental privacy notice at any time. Any material change to this Privacy Notice will be available at AECOM Privacy Policy and the date of this notice will indicate its last update.
+
+## 12. Contacting AECOM Privacy Office
+
+- Any questions regarding this Notice or general privacy-related questions or concerns related to your Personal Data should be addressed to the AECOM Privacy Office at: privacyquestions@aecom.com.
+
+- For Germany inquiries, you may use the following email address: datenschutz@aecom.com.
+
+## 13. Jurisdictional Specific Provisions
+
+## 13.1 EU / UK Residents
+
+AECOM cooperates with European Union data protection authorities and complies with the advice given by such authorities regarding human resources data transferred from the European Union in the context of the employment relationship. If you consider that your rights as described in Section 6 of this Notice have not been adequately addressed, you have the right to submit a complaint with the supervisory authority in your country of residence, place of work, or the country in which the alleged infringement of data protection law has occurred.
+
+## 13.2 Brazil Residents
+
+-
+- The Brazilian General Data Protection Law and this subsection apply to Personal Data collected and Processed about Brazil citizens and/or individuals located inside of Brazil.
+
+-
+In addition to those rights stated above, you have the following additional rights pursuant to the law:
+
+- Confirmation of the existence of the Processing.
+
+- Access to the Personal Data.
+
+- Correction of incomplete, inaccurate, or out-of-date Personal Data.
+
+- Anonymization, blocking, or deletion of unnecessary or excessive Personal Data or Personal Data Processed in noncompliance with the provisions of the Brazil Data Protection Law.
+
+- Portability of the Personal Data to another service provider or product provider, by the means of an express request, pursuant with the regulations of the Autoridade Nacional de Proteção de Dados (ANPD), and subject to commercial and industrial secrets.
+
+- Deletion of Personal Data Processed with your consent, except in the situations provided in Article 16 of the Brazil General Data Protection Law.
+
+- Information about public and private entities with which AECOM has shared Personal Data.
+
+- Information about the possibility of denying consent and the consequences of such denial.
+
+- Revocation of consent as provided in Section 5 of Article 8 of the Brazil General Data Protection Law.
+
+## 13.3 California Residents
+
+- This section of the Notice (“California Notice”) describes how we Process the personal information of California residents, pursuant to applicable California privacy laws, including the California Consumer Privacy Act (the “CCPA”). This California Notice also explains your rights concerning your personal information. This California Notice describes our information practices under the CCPA, specifically our offline and online collection and Processing of “Personal Information”. Under the CCPA, “Personal Information” is any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California resident, household, or device. This California Notice does not address or apply to our handling of publicly available information or Personal Information that relates to Company employees or job applicants with whom the Company engages; different notices apply. This California Notice also does not apply to our information practices that are otherwise exempt under the CCPA. Depending on how you interact or engage with us, we may provide you with other privacy notices with additional details about our information practices.
+
+- Categories of Personal Information AECOM May Collect or Disclose The table below sets out generally the categories of Personal Information AECOM may collect about you (and may have collected in the prior 12 months), as defined by the CCPA, as well as the categories of other entities to whom we may disclose this information for a business or commercial purpose. Our collection and disclosure of Personal Information will vary depending upon the circumstances and nature of our interactions or relationships with You.
+
+| Categories of Personal Information | To Whom AECOM May Disclose for a Business or Commercial Purpose
+
+| i. Identifiers, generally. Includes direct identifiers such as name, alias, account name/user ID/username, email address, phone number, postal address, unique personal identifier, online identifier, IP address, or other similar identifiers. | Affiliates and subsidiaries
+Service providers and vendors
+Advisors and agents
+Data analytics providers
+Advertising networks
+Social networks
+Other clients, customers, or website users
+Others as required by law
+
+| ii. Identifiers, government identification. Includes identifiers provided by a government institution, such as social security number, driver’s license number, state identification card number, passport number, or other similar identifiers. | Affiliates and subsidiaries
+Service providers and vendors
+Advisors and agents
+Others as required by law
+
+| iii. Customer Records. As defined by Cal. Civil Code § 1798.80, this category includes information such as signature and physical characteristics or description. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOthers as required by law
+
+| iv. Commercial Information. Includes records of our products and services that you have purchased, obtained, or considered, or other purchasing or use histories or tendencies. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsData analytics providersAdvertising networksSocial networksOthers as required by law
+
+| v. Internet or Other Electronic Network Activity Information. Includes, but is not limited to, browsing history, clickstream data, search history, and information regarding interactions with our website, advertisements, or emails, including other usage data related to your use of any of our products or services. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsData analytics providersAdvertising networksSocial networksOthers as required by law
+
+| vi. Location Data. Includes, but is not limited to, general location information about a particular individual or device. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOthers as required by law
+
+| vii. Audio, Electronic, Visual, or Similar Information. Includes, but is not limited to, information collected via call recordings (or transcripts) if you are interacting with us in a customer service capacity or if you call us on a recorded line, CCTV monitoring, recorded meetings and webinars, videos, photographs, and user profile images. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOther clients, customers, or website usersOthers as required by law
+
+| viii. Professional Information. Includes, but is not limited to, job title, company name, business email, business phone number, and other similar professional-related information. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOther clients, customers, or website usersOthers as required by law
+
+| ix. Protected Classifications. We may collect some information that is considered a protected classification under California or United States federal law, such as your gender or sex, age, date of birth, religion or creed, or medical condition or disability information. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOthers as required by law
+
+| x. Sensitive Personal Information. In some circumstances, we may collect: (1) government identification information, (2) account log-in information, (3) religious or philosophical beliefs, and (4) health or medical information. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOthers as required by law
+
+| xi. Inferences. Includes, but is not limited to, inferences drawn from any of the information described in this table about a California resident including inferences reflecting an individual’s preferences, characteristics, behaviors, attitudes, abilities, and aptitudes. | Affiliates and subsidiariesService providers and vendorsAdvisors and agentsOthers as required by law
+
+- Sources of Personal Information. AECOM generally collects Personal Information from the following sources:
+
+- Directly from individuals
+
+- Other AECOM clients, customers, and users
+
+- Government agencies and public records
+
+- Vendors and service providers
+
+- Data brokers and business partners
+
+- Data analytics providers and advertising networks
+
+- Social media platforms
+
+- Internet service providers and operating systems and platforms
+
+- Business customers and clients
+
+- Purposes of Collection, Use, and Disclosure. In general, we collect and Process Personal Information for the following business or commercial purposes, or as otherwise directed or consented to by you:
+
+- When you visit our websites
+
+- To establish a connection to our website
+
+- To detect fraud and misuse when you interact with our web functions, e.g., misuse of forms and detection of bots
+
+- To remember the choices you have made on our websites (such as privacy settings and language)
+
+- To measure how our websites are being used and to gain insight into how the services are used
+
+- To better understand user behavior and improve the usability, reliability, and user experience of our websites
+
+- When we communicate and connect with you (through any channel such as chat, email, social media platforms, webforms, telephone or when you respond to surveys, or when we visit you in person)
+
+- To manage our interactions with you and respond to queries and complaints
+
+- To comply with client requirements, such as conducting landowner surveys, emergency response outreach
+
+- To obtain a better understanding of your experiences, interests, and concerns about our products, services, and brand by means of conducting insight-related initiatives such as surveys and research studies
+
+- To plan, organize, and manage in-person and virtual events to which you have agreed to and/or in which you have participated
+
+- For lead management purposes, if you are not yet a client
+
+- For marketing our products and services to you
+
+- To record and manage your marketing choices, e.g., for email newsletters and website marketing and analytics preferences
+
+- To send marketing communications that you have requested or that may be of interest to you, according to your preferences
+
+- For our clients, employees of our clients, or business partners
+
+- To maintain our business relationship with you, communicate with you, and otherwise address matters concerning the business relationship
+
+- To manage safety and security at our facilities
+
+- For shareholders
+
+- To identify shareholders, manage the shareholder list, and prepare for and conduct the general meeting and related meetings
+
+- To fulfill our obligations under applicable laws, e.g., disclosure of shareholder lists as legally required
+
+- To manage Company holdings, including any share distributions where applicable
+
+- To communicate with you as a shareholder
+
+- For legal and compliance purposes
+
+- To protect our websites, services, and business operations, as well as our rights and those of our stakeholders and investors
+
+- To prevent and detect fraud, unauthorized activities and access, and other misuse of our websites and services, including where we believe necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety or legal rights of any person or third party, or violations of the AECOM Terms of Use
+
+- To comply with applicable legal or regulatory obligations, including as part of a judicial proceeding, responding to a subpoena, warrant, court order, or other legal Process, or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority
+
+- To conduct financial, tax and accounting audits, operational audits and assessments (including privacy, security and financial controls), as well as for risk and compliance purposes
+
+- To maintain appropriate business records and enforce our policies and procedures
+
+- To assess and implement mergers, acquisitions, reorganizations, bankruptcies, and other business transactions such as financings
+
+- To administer our business, accounting, auditing, compliance, recordkeeping, and legal functions
+
+- Sales and Sharing of Personal Information. For purposes of this California Notice, a “sale” means disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration; and “sharing” includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose Personal Information to third parties in
+
+## 13.4 Thailand Residents
+
+- This section supplements and prevails over this Notice in the event of a conflict regarding our Processing of your Personal Data.
+
+- If you fail to provide your Personal Data, we may be unable to provide you with our services (or any part thereof), including onboarding you as a subcontractor, or comply with any applicable laws or regulations or guidelines and codes issued by regulatory or other authorities.
+
+- If you are a Thai national holding a Thai national identification card, we may collect your sensitive Personal Data, i.e. religion and/or blood type, when collecting a copy of said identification document from you for management of our contractual relationship. If required by applicable data protection laws, we will collect this sensitive Personal Data with your explicit consent.
+
+- During the background check review process, we may collect sensitive Personal Data, in that case we will seek your explicit consent to the extent required by applicable law.
+
+- You have the following additional privacy rights:
+
+- Right to Data Portability. You have the right to request a copy of your Personal Data, in a machine-readable format, for the purpose of transferring it to another data controller.
+
+- Right to Withdraw Consent. If you have given your consent to anything we do with your Personal Data, you have the right to withdraw your consent at any time (although if you do so, it does not mean that anything we have done with your Personal Data with your consent up to that point is unlawful). Please note that where your Personal Data is required for the purpose of contractual necessity, we may not be able to perform our contractual obligation or proceed with your request to enter into a contract with us if you withdraw your consent laws which are as strict as the ones required by your local Personal Data protection law.
+
+## 13.5 Kingdom of Saudi Arabia Residents
+
+- This section supplements and prevails over the Global Privacy Notice in the event of a conflict regarding our Processing of your Personal Data.
+
+- We will only collect and Process your Personal Data where we have a lawful basis to do so. We will usually ask for your consent before Processing your Personal Data (and, in particular, any sensitive Personal Data), however we may also rely on the following bases, where applicable:
+
+- Where the Processing is pursuant to another law
+
+- Where the Processing is in implementation of a previous agreement to which the Data Subject is a party
+
+- If the controller is a public entity and Processing is required for security purposes or to satisfy judicial requirements; or
+
+- If the Processing is necessary for the purpose of our legitimate interest, without prejudice to your rights and interests, provided that no sensitive data is Processed.
+
+## 13.6 Chinese Mainland Residents
+
+This section supplements and prevails over the Global Privacy Notice in the event of a conflict regarding our Processing of your Personal Data if you are a resident in the People’s Republic of China (for the purpose of this portion of the Notice only, excluding Hong Kong SAR, Macau SAR and Taiwan) (“Chinese Mainland”). Our Processing is subject to the People’s Republic of China’s Personal Information Protection Law (the “PIPL”).
+
+- The data controller of your Personal Data is the AECOM entity that operates the website you are visiting or the entity with which you communicate or conduct business.
+
+- Reference to Personal Data in this Notice section includes, where relevant, reference to sensitive Personal Data under the PIPL. For the purposes of this Notice subsection, we do not expect to Process sensitive Personal Data, but if we do, we will request your separate consent and will take enhanced protection measures to protect the sensitive Personal Data. The following categories of Personal Data constitutes your sensitive Personal Data under the PIPL: criminal records, proof of identification (if government issued ID), biometric data (i.e., fingerprint scan), social security number, national identification number, driver’s license number, passport number, bank account number, medical / health data (e.g. medical certificates, work site incident and accident reports), demographic data (i.e. disability status, gender identity, transgender status, and sexual orientation) and other types of sensitive Personal Data that you provided to us (e.g. in response to surveys, interaction with the website and your communication with us). To Process your Personal Data for the purposes described in Section 3 of this Notice, we may rely on the following bases: (i) where the Processing is necessary to conclude or perform a contract to which you are a party; (ii) where the Processing is necessary for us to comply with legal obligations; (iii) where the Processing is necessary to protect the life, health or property of natural persons under emergency; or (iv) your consent.
+
+- Among the third parties with which we share your Personal Data as described in Section 7 of this Notice, some are entrusted data Processors that Process your Personal Data on our behalf in accordance with our instructions. We are responsible for their Processing activities; while the others are separate data controllers having their independent purposes and means of Processing your Personal Data. They are responsible for their own Processing activities. If you would like to know further details about any overseas recipient, please contact privacyquestions@aecom.com.
+
+- We may transfer your Personal Data outside of Chinese Mainland as described in Section 8 of this Notice. If you would like to know further details about any overseas recipient, please contact us at privacyquestions@aecom.com.
+
+## 13.7 The Republic of Singapore Residents
+
+If you are a resident in the Republic of Singapore (“Singapore”) or if a Singapore entity is Processing your Personal Data, this section supplements and prevails over any conflicting portion of this Notice in the event of a conflict with regard to our Processing of your Personal Data. Our Processing is subject to Singapore Personal Data Protection Act (2012) (“PDPA”).
+
+- You may receive marketing communications as described in Section 3.3 of this Notice. You will only receive marketing messages (e.g., voice calls, text or fax messages) to your Singapore telephone number, if we have an ongoing relationship with you, if your Singapore telephone number is not listed in the Do Not Call Registry, or if we have obtained your clear and unambiguous written consent. You may at any time opt out of such messages by using the same medium by which the message is sent. Exceptions to the foregoing include our communications regarding services purchased by you, market survey or research and business-to-business messages.
+
+- You may receive unsolicited commercial electronic messages (e.g., email, electronic message sent to instant messaging account) from us. If you do not wish to continue to receive any such message, you may utilise the unsubscribe facility provided in such message.
+
+- We may transfer your Personal Data outside of Singapore as described in Section 8 of this Notice. We will put in place contractual measures to ensure the overseas recipients Process your Personal Data in accordance with our instructions and have in place technical and organizational measures to protect your Personal Data with a level of protection comparable to the protection under PDPA.
+
+- At your request, we will transmit your Personal Data that is in the organisation’s possession or under its control, to another organisation in a commonly used machine-readable format.
+
+## 13.8 Australia Residents
+
+This section supplements and prevails over this Notice in the event of a conflict with regard to our Processing of your Personal Data. If you are residing in Australia, the following country-specific provisions will be applicable to you:
+
+- Complaints. You may contact us on the details provided in Section 12 of this Notice. If you remain unsatisfied about any privacy matters, you may contact the Office of the Australian Information Commissioner for guidance at www.oaic.gov.au.
+
+- International data transfers. We may transfer your data outside of Australia as described in Section 8 of this Notice to recipients located in other countries for storage, Processing and use.
+
+## 13.9 Hong Kong SAR Residents
+
+This section supplements and prevails over the Global Privacy Notice in the event of a conflict with regard to our Processing of your Personal Data if your Personal Data is Processed by a Hong Kong entity or if you are a resident of Hong Kong.
+
+- We will notify you if our Processing of your Personal Data is mandatory or voluntary (for example, by using asterisks on application forms). If the Processing of your Personal Data is mandatory and you do not provide such mandatory Personal Data to us, we may not be able to engage or respond to you or fulfil your request.
+
+- Regarding direct marketing, the provisions of Section 3.3 of this Notice shall be replaced to the extent of any conflict with the following:
+
+- We want to keep you updated and to be able to provide you with relevant news, marketing content and offers about us and our products and services, via email, SMS, post or other similar channels using your contact information you provide us, but we cannot do so without your consent.
+
+- If you do not wish to receive direct marketing communications from us, you can always let us know by selecting ‘unsubscribe’ at the bottom of each marketing communication.
+
+## 13.10 Canada Residents
+
+This Canada Privacy Addendum supplements the information contained in this Notice and applies solely to clients and others who reside in Canada. Any terms defined in the Personal Information Protection and Electronic Documents Act or a Personal Information Protection Act have the same meaning when used in this Canada Privacy Addendum. In the event of a conflict between the provisions of the Global Privacy Notice and the provisions of this Canada Privacy Addendum, the provisions of this Canada Privacy Addendum shall govern and control.
+
+- We collect, retain, Process, and disclose personal information generally for business and commercial purposes as described in Section 3 of this Notice.
+
+- Please be aware that information we collect, including personal information involving Canadian residents, may be transferred to, Processed, stored and used by AECOM, its clients or service providers in various provinces within Canada, the United States, and other countries.
+
+- We use physical, technical, and administrative security measures designed to reduce the risk of unauthorized access, use, disclosure, or alteration of your personal information. However, no system of security safeguards can guarantee the security of the Personal Data we collect. In addition, you share the responsibility for keeping your Personal Data secure while browsing our websites.
+
+- Quebec Privacy Laws provide Quebec residents with the following rights. Please see Section 6 of this Notice for instructions on how to exercise these rights:
+
+- The right to be informed. You have the right to know what personal information is collected from you, the means of collection of the personal information, the purposes of use of the collected information, the categories of persons who have access to collected data, and the duration of time that the personal information will be kept.
+
+- The right of access. You have the right to access to the personal information we hold about you (subject to certain restrictions). We may charge a reasonable fee, taking into account the administrative costs of providing the information. Unfounded, excessive or repetitive requests may be ignored.
+
+- The right to rectification. You have the right to have your personal information rectified if it is incorrect or outdated and/or completed if it is incomplete.
+
+- The right to erasure/right to be forgotten. In some cases, you have the right to have your personal information erased or deleted, de-indexed from association with your name, or to otherwise have us cease disseminating your personal information. Note this is not an absolute right, as we may have legal or legitimate grounds for retaining your personal information.
+
+- The right to withdraw consent. You can withdraw your consent to our Processing of your data when such Processing is based on consent. The withdrawal of consent will not affect the lawfulness of Processing based on consent before its withdrawal.
+
+- The right to restrict Processing. You have a right not to have your personal information subject to automated Processing (e.g. profiling).
+
+- The right to data portability. You can request that computerized personal information held by AECOM be provided to you in a structured and commonly used technological format.
+
+- Right to Challenge Compliance. You have the right to challenge AECOM’s compliance with Quebec’s Law 25. If you believe your privacy rights have been violated, you can file a complaint with the Commission d’accès à l’information du Québec.
+
+- Non-Quebec residents have the following rights:
+
+- The right to be informed. You have the right to know what personal information is collected from you, the means of collection of the personal information, the purposes of use of the collected information, the categories of persons who have access to collected data, and the duration of time that the personal information will be kept.
+
+- The right to access. You have the right to access to the personal information we hold about you (subject to certain restrictions). We may charge a reasonable fee taking into account the administrative costs of providing the information. Unfounded, excessive or repetitive requests may be ignored.
+
+- The right to rectification. You have the right to have your personal information rectified if it is incorrect or outdated and/or completed if it is incomplete.
+
+- The right to withdraw consent. You can withdraw your consent to our Processing of your data when such Processing is based on consent. The withdrawal of consent shall not affect the lawfulness of Processing based on consent before its withdrawal.
+
+- Right to Challenge Compliance. You have the right to challenge AECOM’s compliance. If you believe your privacy rights have been violated, you can file a complaint with the following:
+
+- Office of the Privacy Commissioner of Canada
+
+- Commission D’accès à L’information du Quebec
+
+- Office of the Information and Privacy Commissioner for British Columbia
+
+- Office of the Information and Privacy Commissioner of Alberta
+
+## 14. Terms and Definitions
+
+- Data Privacy means the legal rights and expectations of individuals to control how their “Personal Data” is collected and used.
+
+- Personal Data means any information relating to an individual who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.
+
+- Process means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, either by automated means, such as collection, recording, saving, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+
+Sensitive Personal Data has definitions that vary from country to country. For example, European data protection laws treat certain categories of “Personal Data” as especially sensitive, e.g., biometric, information about racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, information specifying medical or health conditions, or sex life.
+
+In the United States, sensitive information may include, but is not limited to, Social Security numbers, bank account numbers, passport information, healthcare related information, medical insurance information, credit and debit card numbers, drivers’ license and state ID information, information from children under the age of 13, biometric information, genetic data, precise geo-location, and information about racial or ethnic origin, religious or philosophical beliefs, sex life, sexual orientation or union membership.
+
+## 15. Records
+
+Data Subject Access Request (DSAR) – AECOM Global L1-007-FM8
+
+| Rev # | Change Date | Description of Change | Location of Change
+
+| 0 | 12-Feb-2020 | Initial release as L1-007-PL5 |
+
+| 1 | 14-Aug-2020 | Section 6, subsection 1 – the inclusion of a chart that outlines specific rights for California residents.Section 6, subsection 1 – the inclusion of the Ethics hotline as a secondary method for California residents to submit privacy rights requests.Section 1, updated to include applicability to job applicants and sub-consultants.Section 2, inclusion of a table representing examples of “Personal Data” collected to comply with transparency requirements under GDPR, CCPA and other data protection laws.Section 12 – updated definitions for “Personal Data” and “Sensitive Personal Data” to comply with CCPA.Section 7 – removed reference to Privacy Shield principles as a mechanism to transfer “Personal Data” from the European Union.Section 7 – inclusion of the use of European Union Standard Contract Clauses and data protection agreements as a mechanism for transfer of “Personal Data” from the European Union.Removed section 8 – reference EU-US Privacy Shield. |
+
+| 2 | 26-Aug-2020 | Removed references to Privacy Shield in sections 4, 6, and 9 |
+
+| 3 | 20-Jan-2023 | Section 1 – updated entire section to clarify terms and requirements.Section 2.1 – added new section 2.1 for public website data collection.Section 2.2 – added new section 2.2 for collection and processing of candidate data.Section 2.3 – added new section 2.3 for collection and processing of contractor and subcontractor data.Section 2.4 – added new section 2.4 for collection and processing of client and vendor data.Section 3 – added new section 3 for change of purpose of processing data.Section 5 – Updated section 5 for lawful basis of processing data.Section 6 – made updates to use and retention of data.Section 7 – added right of human intervention for automated decision-making results.Section 8 – made updates for sharing and onward transfer of data.Section 10 – added new section 10 for California residents.Section 13 – updated section to reflect email contact for Germany operations. |
+
+| 4 | 22-Sept-2023 | Section 1 to Section 8 – made minor updates throughout |
+
+| 5 | 29-Jan-2025 | Added country addendumsRemoved applicability to job candidates and replaced with hyperlink to new Recruitment Privacy Notice. | ALL
+
+-
+#### Privacy related complaints
+
+Submit here
+
+-
+#### Privacy related questions
+
+Get in touch
+
+-
+#### Recruitment Privacy Notice Policy
+
+Read more
+
+-
+#### Website Cookie Policy
+
+Read more
+
+-
+#### 全球隐私声明
+
+Learn more
+
+-
+#### Avis général de protection des données
+
+Learn more
+
+-
+#### Politica de Privacidad Global
+
+Learn more
+
+-
+#### Globale Datenschutzerklärung
+
+Learn more
+
+-
+#### Aviso de Privacidade Global
+
+Learn more
+
+-
+#### Oświadczenie o Prywatności Globalnej
+
+Learn more
+
+-
+#### 第三方隐私声明 – 中国大陆
+
+Learn more
+
+-
+#### Third-Party Privacy Notice – Chinese Mainland
+
+Learn more
+
+-
+#### إخطار الخصوصیة العالم ي
+
+Learn more
+
+-
+#### Promotion of Access to Information ActSouth Africa
+
+Learn more
+
+-
+#### Recruitment Policy
+
+Read more
+
+-
+#### 全球隐私声明
+
+Learn more
+
+-
+#### Avis général de protection des données
+
+Learn more
+
+-
+#### Politica de Privacidad Global
+
+Learn more
+
+-
+#### Globale Datenschutzerklärung
+
+Learn more
+
+-
+#### Aviso de Privacidade Global
+
+Learn more
+
+-
+#### Oświadczenie o Prywatności Globalnej
+
+Learn more
+
+-
+#### 第三方隐私声明 – 中国大陆
+
+Learn more
+
+-
+#### Third-Party Privacy Notice - Chinese Mainland
+
+Learn more
+
+-
+#### إخطار الخصوصیة العالم ي
+
+Learn more
+
+-
+#### Promotion of Access to Information Act
+
+South Africa
+
+Learn more

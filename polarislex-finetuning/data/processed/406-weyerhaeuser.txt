@@ -1,0 +1,249 @@
+- Account Information
+
+#### JURISDICTIONAL PRIVACY NOTICES
+
+- Your State-Specific Privacy Rights
+
+- Your Nevada Privacy Rights
+
+- Your Canadian Privacy Rights
+
+#### CHANGES TO OUR PRIVACY STATEMENT
+
+#### ACCESSIBILITY TO USERS WITH DISABILITIES
+
+#### CONTACT US
+
+## COLLECTION OF PERSONAL INFORMATION
+
+### Personal Information
+
+“Personal information” is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you. Personal information does not include information that is publicly available, de-identified, or aggregated.
+
+### Personal Information You Provide to Us
+
+We collect personal information that you provide directly to us or through our service providers, vendors, and consultants (collectively, “Service Providers”), including when you:
+
+- enter search terms or other information on our websites or apps;
+
+- register a product or make a warranty claim;
+
+- request technical support, warranty service or other customer support;
+
+- license, download, or use our software or mobile applications;
+
+- sign up for our newsletters;
+
+- create an account with us;
+
+- use our apps, including searching for and saving documentation;
+
+- communicate with us by email, phone, mail, etc.;
+
+- participate in any interactive features of the Services (e.g., when you use our live chat feature, use our training materials, or participate in our trainings);
+
+- apply for a job;
+
+- apply for or purchase a recreational lease or permit;
+
+- provide feedback, respond to a survey, or review one of our products;
+
+- participate in one of our contests or promotions; or
+
+- engage with us via social media sites.
+
+The types of personal information we may collect directly from you include:
+
+- Basic User Information: such as your name, email address, postal address, phone number, company or employer name, job title or position, username or user ID. We may also collect your drivers' license or hunting license when applying for a recreational lease;
+
+- Purchase Information: such as information about the Services you purchase from us, purchasing authority, purchasing timeframe, and shipping, ordering, billing and other similar information;
+
+- Job Application Information: such as resumes, work history, educational background, and job interest data. (Additional information for California job applicants can be found here, on the CCPA Job Applicant Notice);
+
+- Information about Protected Classifications: such as age, and disability if you apply for a Disabled Hunter Companion Permit. We also collect this and other demographic information—such as race, ethnicity, and gender—from job applicants; and
+
+- Other Information: any other information you choose to provide (such as answers to survey questions).
+
+### Personal Information We Automatically Collect When You Use Our Services
+
+When you access or use our Services, we may automatically collect personal information about you, including:
+
+- Log Information: such as the type of browser you use, access times, pages viewed, your IP address, and the page(s) you visited before and potentially after navigating to our websites;
+
+- Device Information: such as the computer or mobile device you use to access our Services, including the hardware model, operating system and version, and unique device identifiers;
+
+- Location Information: such as information we may derive about your location from your browser;
+
+- Information Collected by Tracking Technologies: such as the following:
+
+- Cookies, which are small files that are sent to your computer or device when you visit a website. Cookies allow our Services to recognize your browser or device, store user preferences, and track your usage each time you visit. You can usually decline or remove cookies through your browser or device but doing so may interfere with your use of our Services. For more information about cookies, and how to disable them, please see “Cookies and Other Tracking Technologies” and “Your Choices” below;
+
+- Pixel tags, which are small blocks of code often used in connection with cookies. Pixel tags (or web beacons) may be placed on our websites and emails, and allow us to track usage, including to determine when emails have been opened and acted upon;
+
+- Mobile device identifiers, which are used in mobile applications and perform functions similar to cookies and pixel tags; and
+
+- Session storage and local storage technologies, which store user preferences and other data locally in your browser. In certain instances, we may also contract with vendors to help us analyze activity on our websites through session replay technologies to help us understand and analyze how visitors use our Services, and to improve the Services. These technologies may collect the following types of information, among others: IP address; screen size; device type (unique device identifiers); browser information; geographic location; and preferred language.
+
+### Personal Information We Collect from Other Sources
+
+We may also collect personal information about you from other sources and combine that with information we collect through our Services. For example, we may collect information about you from publicly available resources, our Service Providers, joint marketing partners, social media platforms, identity verification services and credit agencies, mailing list providers, references, and other partners when you interact with them. When submitting personal information to another party, you are subject to that party’s terms of use and privacy policies.
+
+## COOKIES AND OTHER TRACKING TECHNOLOGIES
+
+We and some of our Service Providers use cookies or other tracking technologies (such as web beacons and tracking pixels) to collect and store information about your interactions with our websites, including information about your browsing behavior. A cookie is a small file that is placed on your device when you visit a website. The information the cookie contains can be used by the website server to recognize you whenever you use your device to return to the website. The information collected by cookies and other technologies includes IP addresses, browser characteristics, device IDs and characteristics, operating system versions, language preferences, dates and times of your access to the website, referring URLs, email receipts and opens, and information about your usage of the website.
+
+We use cookies to ensure that our websites function properly, to personalize content and ads, to provide social media features, to analyze website traffic, and to evaluate and improve our websites. We may also disclose information about your use of our websites with our social media, advertising and analytics partners who may combine it with other information about you to provide us with insights about you.
+
+Cookies on our websites are either first-party or third-party cookies. First-party cookies are set by us and share the same domain as our websites. Third-party cookies are stored by third-party providers and organizations with different domains. Some cookies expire once you close your browser (called session cookies), and other cookies stay on your device until you delete them or they expire (called persistent cookies).
+
+We use the following categories of cookies on our websites:
+
+- Necessary: These cookies allow us to operate certain features of our websites—for example, allowing you to log in or displaying content.
+
+- Functionality: These cookies optimize the functionality of our websites, such as by personalizing content for you, greeting you by name and remembering your preferences (e.g., your choice of language or region).
+
+- Performance/Analytics: These cookies collect data about how you use our websites to measure and report statistics about user interactions and to improve how our websites work. More information on website analytics is provided below.
+
+- Advertising: These cookies are used to deliver digital advertisements relevant to you or your interests, including retargeting on social media platforms or other areas of the Internet. They are also used to limit the number of times you see an advertisement and to help measure the effectiveness of our advertising campaigns. Information collected through advertising cookies may be disclosed to other organizations (e.g., advertisers).
+
+## ANALYTICS AND ADVERTISING SERVICES PROVIDED BY OTHERS
+
+We use analytics and advertising services, such as Google Analytics, to help us understand and analyze how visitors use our websites and to serve ads on our behalf across the internet. We’ve implemented Google Analytics Advertising features such as remarketing with analytics, demographic and interest reporting, and impression reporting. We and our vendors may use first-party or third-party cookies or other identifiers to deliver advertisements, measure your interests, report demographics, detect your location, and personalize your content.
+
+For more information on how Google Analytics uses data collected through our websites, visit www.google.com/policies/privacy/partners. To opt out of Google Analytics cookies, visit https://www.google.com/settings/ads and https://tools.google.com/dlpage/gaoptout.
+
+We also use Hotjar to help us understand and analyze how visitors use our Services, and to improve the Services. Hotjar may collect the following types of information from users of our websites: device IP address; device screen size; device type (unique device identifiers); browser information, geographic location (country only); preferred language used to display our website. For more information regarding Hotjar's collection and use of information, please visit Hotjar's privacy policy.
+
+To find out more about how these third-party analytics services manage the privacy of information in conjunction with delivering ads online, and to find out how to opt out of information collection by these networks, please visit https://youradchoices.com, https://youradchoices.com/appchoices or https://www.networkadvertising.org.
+
+We may also work with other websites or platforms (such as Facebook, LinkedIn, Twitter, Instagram, and other social media providers) to serve ads to you as part of a customized campaign as service providers to Weyerhaeuser.
+
+Please note that we do not control how other parties manage their opt-out processes.
+
+### DO NOT TRACK SIGNALS
+
+Some internet browsers include the ability to transmit “Do Not Track” or “DNT” signals. Like many websites, our websites are not designed to respond to “Do Not Track” signals received from browsers. To learn more about “DNT” please visit https://allaboutdnt.com.
+
+### USE OF PERSONAL INFORMATION
+
+We use personal information collected about you for various purposes, including to:
+
+- provide, maintain, deliver, and improve our Services, and develop future Services;
+
+- process transactions and send you related information, including confirmations and invoices;
+
+- communicate with you about Services, products, promotions, and events offered by us and others, and provide news and information we think will be of interest to you;
+
+- respond to your inquiries, provide warranty support or other customer service, and send you notices and updates;
+
+- show you relevant ads while you browse the internet, use social media, or use another party's apps;
+
+- improve web and mobile user experiences, help run our websites and apps more efficiently, gather demographic information, and evaluate the effectiveness of our advertising;
+
+- monitor and analyze trends, usage, and activities in connection with our Services;
+
+- detect, investigate, and prevent fraudulent transactions and other illegal activities, and protect the rights and property of us and others;
+
+- carry out any other purpose described to you before or at the time the information was collected; and
+
+- as permitted by applicable law.
+
+## DISCLOSING YOUR PERSONAL INFORMATION WITH OTHERS
+
+We may disclose your personal information as follows:
+
+- with our Service Providers who need such information to perform services or carry out work on our behalf. For example, we may disclose your personal information to process or deliver your orders, provide customer service, operate and improve our business, websites, and apps (including our Careers and Investor Relations pages), improve our products and customer service, process payments, perform auditing and quality control, communicate with you on our behalf, and otherwise operate our business;
+
+- when selling products or services, including with our dealers and distributors;
+
+- when selling land or developing real estate projects, such as with independent brokers, builders, and developers;
+
+- with our marketing partners to send you newsletters, alerts, or other communications on our behalf;
+
+- with our advertising partners for the purpose of ad targeting, remarketing, and customized advertising content;
+
+- in response to a request for information if we believe disclosure is in accordance with, or required by, applicable law, regulation or legal process;
+
+- if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or others;
+
+- in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+
+- with our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;
+
+- with your consent or at your direction; and
+
+- as permitted by applicable law.
+
+## SOCIAL NETWORKS
+
+We may collect personal information from you when you engage (e.g., like, comment, or share) with our content or interact with us on social media sites.
+
+Our Services may also provide social media links that enable you to disclose information with your social networks. Your use of these links may result in the collection or disclosure of personal information about you on those social media sites. We encourage you to review the privacy policies and settings on those social media sites to make sure you understand the personal information that may be collected, used, and disclosed.
+
+If you post, comment, or disclose personal information, including photographs, to any public forum, social network, blog, or other forum, your personal information can be read, viewed, collected, or used by others. Any personal information you provide to these forums is not covered by this Privacy Statement.
+
+## TRANSFER OF PERSONAL INFORMATION TO THE U.S.
+
+Weyerhaeuser is headquartered in the U.S. and the servers for our websites and apps are in the United States. By accessing or using the Services or otherwise providing information to us, you consent to our collection, processing, transfer, and storage of information in and to the U.S.
+
+In this regard, the information we collect is subject to applicable U.S. laws, which do not have the same data protection rights as in the European Union or other countries, and may permit government and national security authorities to access information in certain circumstances. For more information about our policies with respect to these practices and to answer any questions about how these practices may impact you, please contact us using the contact information outlined at the end of this Privacy Statement.
+
+## OUR COMMITMENT TO DATA SECURITY
+
+We maintain reasonable security procedures and practices, including administrative, physical, and technical safeguards, to help protect personal information that we collect about you from loss, theft, misuse or unauthorized access, disclosure, alteration, and destruction.
+
+While we implement these and other security measures, we cannot guarantee that the security measures we have in place to safeguard personal information will always be sufficient or will not be defeated.
+
+Personal information is retained for as long as necessary to reasonably fulfill the purposes for which it was intended, for legal or business purposes, and in accordance with Weyerhaeuser retention policies. Where we retain data, we do so in accordance with obligations imposed by applicable law and under this Privacy Statement.
+
+## NOT INTENDED FOR CHILDREN
+
+You must be sixteen (16) or older to use our Services. We do not knowingly collect or solicit information from anyone under the age of sixteen (16). If we learn that we possess information from a child under the age of sixteen (16), we will delete such information in accordance with the Children’s Online Privacy Protection Act or other applicable laws (such as the California Consumer Privacy Act). If you are a parent or guardian and you believe that your child under the age of sixteen (16) has provided us with personal information, please contact us.
+
+## YOUR CHOICES
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually activate a setting on your browser to remove or reject cookies. Please review your browser’s Help menu for instructions, or visit www.allaboutcookies.org for more information. Additional options for opting out of interest-based advertising can be found at https://optout.networkadvertising.org. Please note that if you choose to remove or reject all cookies, this could affect the availability and functionality of our Services and you may be unable to access certain parts of our websites.
+
+## Marketing Emails
+
+You may opt out of receiving marketing emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+
+## Corrections to Personal Information
+
+We use commercially reasonable efforts to ensure that personal information in our possession is accurate and complete. If you are aware of an error in personal information about you that is under our control, please contact the site or application owner and we will correct it on request whenever possible. In some cases, we may ask for a written request for correction. We may also take reasonable steps to verify your identity before granting making corrections.
+
+## Account Information
+
+If you have an online account with us, you may update, correct, or delete your account information at any time by logging into your online account. If you wish to delete your account, please email us at software@weyerhaeuser.com, but note that we may retain certain information as required for legal, business, or compliance purposes. We may also retain cached or archived copies of personal information about you for a period of time.
+
+## JURISDICTIONAL PRIVACY NOTICES
+
+### Your State-Specific Privacy Rights
+
+If you are a resident of certain U.S. states, you may have state-specific privacy rights as outlined in our Privacy Addendum.
+
+### Your Canadian Privacy Rights
+
+Under Canadian privacy laws, individuals have the right to request access to their personal information in our custody or control. If you would like to request access to your personal information in our custody or control or if you wish to correct or amend inaccurate or incomplete information, please contact our privacy officer at privacyofficercanada@weyerhaeuser.com. In some circumstances, we may not provide access to personal information. We will take reasonable steps to verify your identity before granting access. In the event that access is refused, we will provide reasons for the refusal, the name of the person who can answer questions about the request and advise of the right to have the decision reviewed by the applicable authority.
+
+## CHANGES TO OUR PRIVACY STATEMENT
+
+We may update or revise this Privacy Statement from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Statement. Please check back for updates to stay informed about our information practices and the ways you can help protect your privacy.
+
+## ACCESSIBILITY TO USERS WITH DISABILITIES
+
+Our websites and this Privacy Statement are accessible to users with disabilities, including keyboard-only users and those with visual impairments. Users with visual impairments can use a screen reader to access information on our websites and this Privacy Statement. A list of available screen readers can be found by searching the Internet, including the website for the National Library Service for the Blind and Print Disabled.
+
+## CONTACT US
+
+If you have any questions about our privacy policies and practices, you may contact us by email at privacy@weyerhaeuser.com, by phone at (844) 330-7632, or by mail at the following address:
+
+Weyerhaeuser Company
+
+220 Occidental Ave. S.
+
+Seattle, WA 98104
+
+Attn: Privacy - Legal Department

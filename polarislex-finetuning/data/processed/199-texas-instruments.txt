@@ -1,0 +1,509 @@
+# Privacy policy
+
+At Texas Instruments (TI), we know that our online users, customers, suppliers, business partners and other individuals we engage with care about how we collect and use their Personal Data. We go to great lengths to ensure that we protect and handle your Personal Data appropriately. Our privacy policy (“Privacy Policy”) describes how TI collects and processes your Personal Data in the context of (1) your use of our TI websites, online services, design and computing tools, blogs, mobile applications and social computing environments (together, “sites”), (2) your interest in our products and/or services, and (3) our (prospective) business relationship with you, or the company you work for or represent, as our customer, supplier or other business partner. TI sites are primarily intended for business and engineering users of TI semiconductor products. Separate or additional terms may apply where specifically stated for tools, mobile applications, social computing environments or third-party sites.
+
+If you do not agree with the practices described in the current version of this Privacy Policy, please do not access or use our sites or engage with us.
+
+#### Info we collect | Usage | Third parties | International transfers | Marketing | Cookie policy | Data rights | Social media | Data security | Protection of children | Changes to privacy policy | Contact TI | Supplemental info U.S. | Supplemental info non-U.S. | Educational account supplemental policy | Translated versions
+
+This Privacy Policy explains how Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA and its subsidiaries (together, “TI”, “we”, or “our”; individually, a “TI group company”) handle your Personal Data. This Privacy Policy is not a contract and does not create any legal rights or obligations.
+
+Where your Personal Data will be processed by a TI group company other than Texas Instruments Incorporated, this Privacy Policy also governs the processing of your Personal Data by such TI group company as responsible controller. A list of the relevant TI group companies can be found in the list of subsidiaries section of TI’s most recent Form 10-K, available under the SEC Filings by selecting the “Annual Filings” filter on the page located at https://investor.ti.com/financial-information/sec-filings. You can contact the TI group companies at any time using our Information Request Form.
+
+This Privacy Policy is intended to comply with all applicable data protection laws, including but not limited to:
+
+- The California Consumer Privacy Act (“CCPA”); the Colorado Privacy Act (“CPA”); the Connecticut Data Privacy Act (“CTDPA”); the Virginia Consumer Data Protection Act (“VCDPA”); and the Utah Consumer Privacy Act (“UCPA”);
+
+- The European General Data Protection Regulation (“GDPR”); the UK General Data Protection Regulation (“UK-GDPR”); and the Federal Act on Data Protection of Switzerland (“FADP”);
+
+- The Digital Personal Data Protection Act of India (“DPDPA”);
+
+- The Personal Information Protection and Electronic Documents Act of Canada (“PIPEDA”);
+
+- The Personal Information Protection Law of the People’s Republic of China (“PIPL”);
+
+- The Act on the Protection of Personal Information of Japan (“APPI”);
+
+- The Personal Data Protection Act of Malaysia (“PDPA”); and
+
+- Any other applicable state, federal, or international law regulating your Personal Data.
+
+For processing of Personal Data of employees, job applicants and for TI’s Education Technology business, separate privacy policies may exist that are made available through appropriate means.
+
+### 1. Information we collect
+
+When you visit our sites, indicate interest in our products and/or services, establish or maintain a business relationship, and/or otherwise interact with us, TI collects a broad variety of information relating to you as an identified or identifiable person (“Personal Data”). Personal Data may include, for example, email addresses, names, or phone numbers. TI may collect and use your Personal Data consistent with this Privacy Policy. You are not under any contractual nor legal obligation to provide us with your Personal Data. However, if we cannot collect this information, we may not be able to provide you (or the company you work for or represent) with products or services, or enter into a respective contract, and/or you (or the company you work for or represent) may not be able to take advantage of certain features and programs.
+
+Categories of the information we may collect and store include:
+
+- Webpages you have visited (for example, whether you look at support forums, or product information);
+
+- Information transmitted by the device used to access the sites (technical information such as operating system, device identifier, IP address, language and geolocation, etc.), including information obtained by cookies and other tracking technologies used on our sites (for more information regarding cookies and tracking technologies used on our sites, please review our Cookie Policy below);
+
+- Any information that you post or submit (for example, where you request more information, register for an event, or post information or a request in forums on the sites), including identity verification data (such as ID/passport information or other proof of identity); and
+
+- Business information we receive when you (or the company you work for or represent) establish(es) or maintain(s) a business relationship with us as customer, supplier or other business partner, including for example (i) name, address, contact information, (ii) work title, business function, and related business information, and (iii) transaction information and history (including shipping and billing information, bank account/credit card information used for payment, business interactions, support experience, and product usage and preferences).
+
+We collect the information either directly from you or from other sources, such as the company you work for or represent, other TI group companies, our external business partners, or from publicly available sources, information databases or credit agencies.
+
+### 2. How we use your information
+
+TI uses the Personal Data it collects for the purposes explained in the table below.
+
+The data protection laws of some jurisdictions (like the GDPR) also require TI to explain the legal bases supporting our use of Personal Data. As explained more specifically below, TI processes Personal Data on the following grounds or bases: your consent (which, where applicable, may be withdrawn at any time); the performance of a contract with you or pre-contractual steps for a contract with you; compliance with our legal obligations; legitimate interests pursued by TI or third parties to whom we transfer the Personal Data; and/or as otherwise permitted by applicable laws.
+Purpose
+Detailed Description
+Legal bases for using your information (as specifically applicable under the GDPR and similar laws)
+To provide you with the functionalities and services of our sites.
+To ensure that our sites and services are secure and function properly, to provide you with the requested services, and to optimize the functionalities and services of our sites.
+Establishing and/or performing a contractual relationship with you, or taking necessary steps prior to entering into a contract, and/or safeguarding our legitimate interests in providing and optimizing the functionalities and services on our sites.
+To personalize your experience on TI sites by presenting products, marketing messages, offers, and content tailored to you.
+To provide you with relevant information and content that reflects your preferences and interests; this may include that we connect information you provide to TI with other information from you or about you to build segments or profiles on your preferences and interests to enable relevant targeted advertising by TI.
+Safeguarding our legitimate interests in an effective marketing of our products and services, in particular in providing personalized products, services and marketing content. Where necessary under applicable laws, we will obtain your prior consent.
+To complete and fulfill orders for products and services requested by you, including customer support, accounting, billing and auditing.
+To plan, execute and administrate the (contractual) business relationship, e.g., to process orders for products and services, for accounting, billing and auditing purposes, including the collection of debts and enforcement of claims, as well as to perform deliveries, services, customer service and maintenance activities.
+Establishing and/or performing a contractual relationship with you, or taking necessary steps prior to entering into a contract.
+
+To the extent the business relationship exists between us and the company you work for or represent, we rely on our legitimate interests in the establishment, performance and handling of the business relationship with your company.
+To maintain, manage and support the business relationship with you (or the company you work for or represent) as a customer, supplier or other business partner.
+To administer, manage and develop our business relationship with you or your company, and to provide effective and service-oriented support and care to our business contacts, including to communicate with you in connection with the business relationship between us and you or your company.
+Safeguarding our legitimate interests in an appropriate customer relationship management.
+To respond to inquiries made by you.
+To effectively and appropriately respond to requests made by you.
+Safeguarding our legitimate interest in ensuring efficient, compliant, and user-friendly communication and processing of your requests.
+To send you marketing communications (including through direct outreach, social media or other sites) related to TI and selected third parties, and otherwise contact you for marketing purposes.
+To send marketing messages and to otherwise communicate with you (such as email marketing, phone calls, postal mailings); this may include that we connect information you provide to TI with other information from you or about you to build segments or profiles based on your characteristics, preferences and interests to enable relevant targeted advertising by TI.
+Safeguarding our legitimate interests in the marketing of our products and services. Where necessary, we will obtain your consent before we create profiles and send marketing messages.
+To identify usage trends, and conduct and
+
+perform market and data analysis, including for quality assurance, and for product
+
+and service improvement/development purposes.
+To perform market and data analysis to better understand trends and developments, to monitor and assure quality of our products and services, to carry out product research and development, and to improve our products and services.
+Safeguarding our legitimate interests in market analysis, quality assurance, and product and service improvement.
+To support crime/fraud/compliance monitoring and prevention, audits, business partner due diligence, and security.
+To protect IT-infrastructure and assets, intellectual and industrial property, know-how and business secrets and other rights of TI group companies or third parties, to detect, investigate and prevent illegal behavior, to ensure the security of our sites, and to meet and document our compliance obligations with respect to our customers and business partners.
+Safeguarding our legitimate interests in protecting the rights and interests of TI group companies and/or third parties, meeting our compliance obligations, and ensuring the security of our sites.
+To confirm compliance with the terms governing the use of TI sites.
+To verify and ensure compliance of the use of our sites with our applicable terms, and to protect you and us against misuse of our sites and other inappropriate behavior.
+Safeguarding our legitimate interests in
+
+verifying and ensuring a compliant and lawful use of our sites.
+To ensure and document compliance with applicable laws and regulations.
+To comply with applicable legal requirements, including data retention obligations, to demonstrate compliance with applicable laws and regulations, to fulfill reporting obligations, and to respond to requests by courts and authorities.
+Compliance with our legal obligations, and safeguarding our legitimate interests in ensuring and documenting compliance.
+To establish, exercise and defend legal claims.
+To protect and enforce the rights of TI group companies or third parties, and to defend ourselves against legal claims.
+Safeguarding our legitimate interests in
+
+establishing, exercising and defending legal claims.
+Use of cookies and similar tracking technologies for providing the functionalities and services of the sites, and for functionality, performance, analytics and marketing purposes.
+We use different types of cookies, including strictly necessary cookies, functional cookies, social media cookies, analytics & performance cookies, and advertising & marketing cookies, as described in our Cookie Policy.
+To the extent that the information collected by cookies can be attributed to your person:
+
+Strictly necessary cookies: Safeguarding TI’s legitimate interests in effectively and securely providing the functionalities and services of the sites.
+
+Advertising & marketing cookies, analytics & performance cookies, functional cookies and social media cookies: Consent.
+To facilitate and enable access to and use of certain educational account-based software applications.
+We collect user’s official name, email address, chosen user name and password, to facilitate and enable user’s access and use of the EdTech Apps, as further outlined below.
+Establishing and/or performing a contractual relationship with you, or taking necessary steps prior to entering into a contract, and/or safeguarding the legitimate interests of TI or third parties
+
+to whom we transfer the data in the performance of the business relationship concerning your access and use of the EdTech Apps, and ensuring and documenting compliance.
+
+TI collects Personal Data that is reasonably necessary for the above specified purposes and avoids using Personal Data for purposes that are incompatible with those disclosed, in accordance with applicable data protection laws.
+
+For the above purposes, we may connect information you provide to TI with other information from you or about you, including to analyze your data and derive further information about you. If you have or register for a myTI.com account, TI will also connect Personal Data with your saved account profile. We may use automated tools to personalize your experience. We do not make decisions based solely on automated processing that produce legal effects concerning you.
+
+We may provide you with additional information regarding the business purpose for which we use your data when you enter your Personal Data in a particular site, online form, or tool, or otherwise provide your data in the context of our business relationship with you (or the company you work for or represent).
+
+For Personal Data subject to the laws of specific non-U.S. jurisdictions, please see further details on Personal Data usage in section 14 below.
+
+### 3. Disclosure to third parties
+
+TI may share Personal Data with third parties such as suppliers and service providers, in accordance with this Privacy Policy and to provide services to TI or on our behalf. For example:
+
+- TI may share your Personal Data with technical service providers for storing and processing of your data, including hosting, cloud service and IT-service providers;
+
+- TI may share information about shipping addresses and preferences with its fulfillment service providers in order to fulfill your order and deliver items to you (or the company you work for or represent);
+
+- TI may share information including Personal Data, such as analytics and about how and when users visit our sites, with web analytics companies and marketing companies in order to improve or personalize the content and services offered to you, or to provide you with information about products and services that may be of interest to you;
+
+- TI may share information including Personal Data as needed to respond to your requests, for example: for more information or for support or customer service;
+
+- TI may share information related to your orders of our products and/or services, including payment and transaction information, with payment services providers in order to secure and process payments, exchanges, or refunds (which permits us to offer credit card and other payment options);
+
+- TI may share information about your person with background screening service providers, including for purposes of export control/sanction screening, business partner due diligence and compliance checks, and
+
+- In connection with a proposed or actual corporate transaction such as a merger, consolidation, sale or restructuring, TI may share Personal Data with prospective parties to the transaction, typically under confidentiality or non-disclosure agreements with those parties.
+
+More detailed information regarding TI’s disclosure of specific categories of Personal Data to third parties is provided in the table below. The table provides more information about the categories of personal data we collect, the purposes for which we collect and disclose that information, the categories of parties to which we disclose personal data for business purposes, and – as applicable to Personal Data subject to U.S. state privacy laws – supplementary specific disclosures on the categories of third parties to which we may “sell” or “share” for cross-context behavioral advertising personal data (as those terms are defined under relevant U.S. state privacy laws).
+Category of Personal Data
+Purpose(s) for Collecting & Disclosing Personal Data
+Recipients of Disclosures for Business Purposes
+Specific disclosures under U.S. state privacy laws: Recipients of “Sales” or “Sharing” (as defined under relevant US state privacy laws)
+Identifiers, such as name, email
+
+address, telephone number, physical address, unique identifiers associated with
+
+user or user account, IP address
+• Providing the sites and services
+• User authentication
+
+• Billing and order fulfillment
+
+• Analytics
+
+• Marketing and advertising
+
+• Detecting security incidents
+
+• Fraud prevention
+
+• Debugging
+
+• Research and development
+
+• Service enhancements
+
+• Customer support
+
+• Customer due diligence
+
+• Compliance and other business purposes
+• Technical service providers
+• Fulfillment service providers
+
+• Background screening providers
+
+• Security or fraud prevention providers
+
+• Analytics providers
+
+• Advertising and marketing providers
+
+• Social media networks
+
+• Professional advisors
+
+• Affiliates
+
+• Law enforcement or other legal authorities
+
+Commercial information, such as purchase details, transaction records, billing information billing address, payment card details
+
+• Analytics
+
+• Debugging
+
+Characteristics which may be protected under certain laws, such as your date of birth or gender
+
+• Background screening providers Professional advisors
+
+Not applicable
+Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address
+
+• Analytics
+
+• Debugging
+
+Audio, electronic, or visual information, such as your picture, CCTV footage, or call recordings
+• Internal research
+
+Professional or employment information, such as your occupation, employer, industry, professional licenses, work experience and employment history, and other qualifications
+
+• Analytics and research
+
+• Marketing
+
+• Debugging
+
+• Internal research
+
+Education information, such as your educational background and training records
+• Analytics
+
+• Technical service providers • Background screening providers Security or fraud prevention providers
+
+Inferences drawn from the information above, such as a profile of your preferences
+
+• Analytics
+
+• Debugging
+
+• Recruiting
+
+• Background screening providers Security or fraud prevention providers
+
+• Advertising
+
+and marketing providers
+
+Sensitive personal data
+
+We do not use or disclose sensitive Personal Data for purposes other than permitted under applicable law.
+
+• Government identifiers, such as driver’s license number, Social Security number, or passport number;
+
+• Account log-in information;
+
+• Racial or ethnic origin;
+
+• Citizenship or immigration status;
+
+• Limited biometric data;
+
+• Religious or philosophical beliefs; or
+
+• Union membership.
+
+### 4. International transfers
+
+TI is a global business, and the information we collect, including Personal Data, may be transferred to and stored, processed, and accessed by, entities located in the United States and in other countries. TI entities worldwide are governed by this Privacy Policy with regard to the Personal Data collected and processed through TI sites and/or otherwise in the context of the business relationship with our customers, suppliers or other business partners. Data protection laws differ around the world, and your information and Personal Data may be subject to access requests from governments, courts, or law enforcement in multiple jurisdictions.
+
+For more information regarding international transfers of Personal Data subject to the laws of certain non-U.S. jurisdictions, please see section 14 below.
+
+### 5. Marketing preferences
+
+When you register for an online account with TI, visit our sites or online store, subscribe to a newsletter, register for or attend an event, or enter a contest, drawing, or other promotion, you may receive marketing communications from TI in accordance with applicable law. You may unsubscribe from those marketing communications and/or withdraw your consent at any time, using applicable unsubscribe links within marketing communications, your account preferences (if registered) or our Information Request Form.
+
+Even if you choose not to receive marketing emails from us, you will still receive our transactional emails, such as messages related to your orders, updates or notifications about hardware, software or other products and/or services you have purchased from us, or information about your account.
+### 6. Cookie policy
+
+We use cookies and other tracking technologies online on our sites. Please read our Cookie Policy, which is part of this Privacy Policy, and is incorporated herein by reference. Our Cookie Policy provides information on the types of cookies we use on our sites, your related choices, and how you can control, block and delete the cookies used on our sites. Note that some of the cookies and other tracking technologies on the sites may be provided by third parties that collect personal data about your online activities over time and across different websites when you use our sites.
+
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (“GPC”). For more information on the GPC and how to use a browser or browser extension incorporating the GPC signal, see https://globalprivacycontrol.org/.
+
+### 7. Your personal data rights
+
+In accordance with applicable data privacy laws and depending upon our use or basis for processing, you have specific rights regarding your Personal Data, which may include the right to:
+
+- Request information regarding your Personal Data, including the categories of Personal Data collected about you and categories of sources from which the Personal Data was collected;
+
+- Request the purpose for collecting Personal Data and the categories of third parties with whom we may share that information;
+
+- Request that TI correct, delete, or provide you a copy of your Personal Data;
+
+- Object to or restrict TI’s processing of your Personal Data; and
+
+- Contact or lodge a complaint with the relevant data protection authority of your country if you have concerns about TI’s use of your Personal Data.
+
+- Withdraw consent for TI’s future processing of your Personal Data.
+
+Requests regarding your Personal Data may be submitted to TI using our Information Request Form. In order to process your request, TI may need to verify your identity. TI will reply to requests in accordance with our internal policies and as required by applicable laws.
+
+Additional information regarding the Personal Data rights granted to individuals in specific jurisdictions is included in sections 13 and 14 below.
+
+### 8. Social media platforms, forums, and public areas
+
+Content or information (including profile information such as name, location, pictures, etc.) that you choose to post or submit to publicly available portions of the sites, forums, or on social media platforms is non-confidential and can be accessed and used by third parties who are not subject to this Privacy Policy. Whether on TI sites, forums, or any social media platforms, you should exercise caution in deciding what information you publish or disclose. Your interaction with third-party social media platforms (such as Facebook or X) is subject to, and governed by, the terms applicable to those platforms.
+
+### 9. Data security and retention
+
+TI cares about the security of your Personal Data, and we use a variety of administrative and technical measures to help protect it, including commercially available security technologies such as secure servers, firewalls, and encryption. It is your responsibility to safeguard any password, user ID, and other Personal Data while using our sites. Regardless of protective efforts, transmissions over the Internet are never guaranteed to be entirely secure or error-free. If we become aware of a security incident affecting your Personal Data, we will notify you and/or relevant authorities where required in accordance with applicable law.
+
+TI may retain information, including your Personal Data, for the length of time necessary to fulfill the purposes for which it was collected, consistent with this Privacy Policy and applicable law, unless a longer retention period is required or permitted by law. The length of retention may vary depending upon factors such as recordkeeping or legal compliance requirements, the need to resolve inquiries or complaints, and the existence of an ongoing relationship with you. Please note that even if TI deletes your Personal Data, it may persist on backup or archival media for an additional period of time in accordance with applicable law.
+
+### 10. Protection of children
+
+TI sites are not primarily intended for children, and TI does not knowingly collect Personal Data from children without obtaining parental consent where it is required by law. However, TI may collect a limited amount of Personal Data of minors in relation to TI’s Educational Technology software applications as further outlined in TI’s Educational Account Supplemental Policy.
+
+If you believe that we may have collected Personal Data from someone under the applicable age of consent without obtaining parental consent, please let us know using our Information Request Form and we will take appropriate measures to investigate and address the issue.
+
+### 11. Changes to this privacy policy
+
+We reserve the right to change this Privacy Policy at any time. We recommend that you periodically review this Privacy Policy to learn of any changes and stay informed regarding TI’s current practices. This Privacy Policy supersedes all previous versions. For more information on using TI sites, see our Terms of Use.
+
+### 12. Contact TI regarding this policy
+
+You can contact TI regarding this Privacy Policy using our Information Request Form. If you are unable to review this Privacy Policy due to a disability, please use the linked form to request this Policy in an alternative format.
+
+For product inquiries or to contact our customer support center by telephone, click here.
+
+### 13. Supplemental information for processing of personal data subject to U.S. law
+
+The disclosures in this section are intended to supplement the Privacy Policy with information required by applicable data protection laws in the United States. This additional information should be read in conjunction with and supplements the TI Privacy Policy and is not intended to supersede or override it.
+
+Your rights: If you are a U.S. resident, you may have the following rights regarding your personal data:
+
+- The right to know / “Shine the Light”. You may have the right to confirm whether we process your Personal Data and know what Personal Data we have collected about you, including the categories of Personal Data, the categories of sources from which we collect Personal Data, the business or commercial purposes for collecting, selling, or sharing Personal Data, and the categories of third parties to whom we disclose Personal Data.
+
+- The right to access. You may have the right to request a copy of the specific pieces of Personal Data we have collected about you.
+
+- The right to correct. You have the right to request that we correct inaccurate Personal Data that we maintain about you.
+
+- The right to delete. You have the right to request the deletion of the Personal Data that we have collected from you, subject to certain exceptions.
+
+- The right to opt out of the “sale” or “sharing” of personal data / targeted advertising. You may also opt out of “sales” of personal data to third parties and “sharing” of personal data for purposes of cross-context behavioral advertising by clicking here and following the instructions. Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (“GPC”). For more information on the GPC and how to use a browser or browser extension incorporating the GPC signal, see https://globalprivacycontrol.org/. We do not knowingly sell or share the Personal Data of consumers under 16 years of age.
+
+- The right not to be discriminated against. You have the right not to receive discriminatory treatment for the exercise of your privacy rights.
+
+How to exercise your rights: To exercise your rights, please use our Information Request Form.
+
+You may also authorize an agent to exercise your rights on your behalf. To do this, you must provide the authorized agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from the agent when they make a request on your behalf. We may also ask you to verify your own identity or directly confirm with you that you have granted permission to the authorized agent.
+
+### 14. Supplemental information for processing of personal data subject to non-U.S. jurisdictions
+
+The disclosures in this section are intended to supplement the Privacy Policy with information required by applicable data protection laws in the below listed jurisdictions. This additional information should be read in conjunction with and supplements the TI Privacy Policy and is not intended to supersede or override it.
+
+a. Additional Information for Processing of Personal Data Subject to EU/EEA, Swiss and UK Data Protection Law
+
+This section applies to the extent the processing of your Personal Data is subject to the European General Data Protection Regulation (“GDPR”) or Swiss or United Kingdom (“UK”) data protection law, such as, in particular, in case you are located in the European Union (“EU”), a contracting state of the European Economic Area (“EEA”), or in Switzerland or the UK.
+
+General Information: Insofar as the processing of your Personal Data is subject to Swiss and/or UK data protection law, any general and specific references to the GDPR and/or EU/EEA data protection law in this Privacy Policy shall also have the same meaning as the equivalent reference under Swiss and/or UK data protection laws, as applicable. The terms “controller”, “joint controller”, “data subject”, “supervisory authority” and “processing” used in this Privacy Policy, and related variations thereof, have the meaning as defined and/or interpreted under the GDPR.
+
+Responsible Entity and Contact Details: Unless specifically stated otherwise, Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA is responsible for the processing of your Personal Data as controller (within the meaning of the GDPR) in the context of the operation of the sites.
+
+If you (or the company you work for or represent) are located in the EU/EEA, the UK or Switzerland, your Personal Data will be further transferred to Texas Instruments EMEA Sales GmbH, Haggertystrasse 1, 85356 Freising, Germany, which acts as joint controller with Texas Instruments Incorporated for the processing of your Personal Data in the context of your use of the sites. In addition, Texas Instruments EMEA Sales GmbH is generally responsible as controller for the processing of your Personal Data in the context of the business relationship with you (or your company) as our customer, supplier or other business partner located in the EU/EEA, and for this purpose uses global databases and systems, including group-wide integrated business, security and IT functions, provided by Texas Instruments Incorporated as joint controller. Further information on the joint controllership as well as the essence of the respective agreement between Texas Instruments Incorporated and Texas Instruments EMEA Sales GmbH can be obtained at any time upon request by contacting us at any time using our Information Request Form.
+
+You can reach the data protection officer of Texas Instruments EMEA Sales GmbH and the other European TI group companies via email at dataprotection@ti.com or our Information Request Form.
+
+International Data Transfers: Your Personal Data may be transferred to recipients located in countries outside the EU/EAA, Switzerland and the UK (“Third Countries”), such as the United States. The laws of these countries may not ensure a level of data protection as determined to be adequate by the European Commission based on an adequacy decision. In these cases, we have put into place appropriate measures to ensure that your data will be protected adequately by the recipients in Third Countries and that the level of data protection does not fall below the level required by EU/EEA data protection laws (e.g., by entering into contracts on the basis of the EU Standard Contractual Clauses and implementing supplementary measures). For additional information on the recipients of your data, the countries concerned and the measures implemented by us to protect your Personal Data, and in order to receive a copy of these measures, you may submit a written request to Texas Instruments EMEA Sales GmbH (Attn.: Data Privacy Officer), Haggertystrasse 1, 85356 Freising, Germany, or reach out to us using our Information Request Form. The data protection laws of Switzerland and the UK are considered adequate under an adequacy decision issued by the European Commission.
+
+Your Rights: You have certain rights with respect to your Personal Data, subject to and in accordance with applicable law:
+
+- to obtain information on your Personal Data processed and to obtain a copy of such data (right of access);
+
+- to obtain the rectification of any inaccurate Personal Data and, taking into account the purposes of the processing, to have incomplete Personal Data completed (right to rectification);
+
+- if there are legitimate grounds, to obtain the erasure of your Personal Data (right to erasure);
+
+- to obtain the restriction of the processing of your Personal Data, if the legal requirements are met (right to restriction of processing);
+
+- if the legal requirements are met, to receive the Personal Data provided by you in a structured, commonly used and machine-readable format and to transmit this data to another controller or, where technically feasible, to have it transmitted by us (right to data portability); and
+
+- not to be subject to a decision based solely on automated processing which produces legal effects concerning you or similarly significantly affects you, if the legal requirements are not met. TI does not make such decisions based solely on automated decision-making processing.
+
+You further have the right to object at any time, in accordance with the statutory provisions, to the processing of your data, which is necessary for the purposes of TI’s or a third party’s legitimate interests, on grounds relating to your particular situation (right to object). If your Personal Data is processed by us for direct marketing purposes, you have the right to object to this processing at any time, without any special reason.
+
+If the data processing is based on your consent, you can withdraw the consent at any time, without affecting the lawfulness of processing of your data based on your consent before the withdrawal.
+
+You can exercise or address these rights as allowed under applicable law, ask questions about our use of your Personal Data, or raise other issues or disputes by contacting us using our Information Request Form. We will respond to rights requests as soon as reasonably possible according to our internal processes and in accordance with applicable law.
+
+With respect to the processing of your Personal Data carried out under the joint controllership between Texas Instruments Incorporated and Texas Instruments EMEA Sales GmbH, you may exercise your rights in respect of and against each of the controllers.
+
+Without prejudice to any other remedies, you also have the right to lodge a complaint with a supervisory authority at any time.
+
+b. Additional Information for Processing of Personal Data Subject to Data Privacy Laws of the People’s Republic of China, including PIPL
+
+General Information: Under the PIPL, “personal information” means any information, whether recorded in electronic or another format, that relates to an identified or identifiable natural person, excluding anonymised information. “Sensitive personal information” means personal information that, if leaked or if used illegally, is likely to cause harm to a natural person’s personal dignity or endanger his or her personal safety or the safety of his or her property.
+
+Responsible Entity and Contact Details: Unless specifically stated otherwise, Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA is responsible for the handling of your personal information (within the meaning of the PIPL) in the context of the operation of the sites. Your Data may be stored in China or transferred outside of China as provided below.
+
+Additional Purpose Information: We may process your personal information for the purposes set out in this Privacy Policy if one of the following applies:
+
+- With your prior consent to the processing for one or more specific purposes as set out in this Privacy Policy;
+
+- Processing of your personal information is necessary to conclude or perform a contract to which you are party, or for human resources management in accordance with the labor rules and regulations established in accordance with the law;
+
+- Processing is necessary for compliance with any statutory duties or legal obligations;
+
+- Processing is necessary in order to, in an emergency, protect the lives, health or property of natural persons;
+
+- Your personal information has been made public by you or has otherwise been lawfully made public, the processing is done pursuant to the PIPL and the extent the processing is reasonable; or
+
+- The processing is done in other circumstances provided for in applicable laws or administrative regulations.
+
+We will only share your personal information for specific and definite purposes pursuant to the principles of lawfulness, fairness, necessity and good faith, and only share the personal information to the extent necessary for the specific purposes you are informed of.
+
+Cross-Border Data Transfers: We may transfer your personal information outside of China for lawful purposes, including for the purposes discussed in Sections 2 and 4 above, and to those individuals discussed in Sections 3 and 4 above. To the extent that we transfer your personal information to any recipient that is based outside of China, we will do so in strict compliance with relevant laws and regulations, such as by obtaining your prior consent, redacting sensitive personal information, signing agreements with receiving parties, and/or conducting cross-border data transfer security assessments. The specific names and contact information of these overseas recipients and the types of personal information that we will provide depend on the circumstances of each engagement. You can request further details by contacting us using our Information Request Form.
+
+We will only transfer your personal information to the extent necessary and will work with the overseas recipient to process it in a secure manner to protect your legitimate interests and to avoid causing harm to you. We and the overseas recipient will only retain your personal information for the minimum necessary retention period unless otherwise required by applicable laws.
+
+Your Rights: You have certain rights with respect to your personal information:
+
+- You have the right to obtain access to your personal information and an explanation of the rules for processing.
+
+- You have the right to ask that your personal information that is incorrect, inaccurate, or incomplete be corrected.
+
+- You have the right to request that your personal information be deleted.
+
+- You have the right to request the restriction of the processing of your personal information in specific cases.
+
+- You have the right to object to the processing of your personal information for marketing purposes or on grounds relating to your particular situation.
+
+- You have the right to receive your personal information in a machine-readable format and to send it to another personal information processor.
+
+- You have the right to withdraw consent.
+
+- You have the right to lodge a complaint, as applicable, with the relevant authorities of the P.R.C.
+
+You can exercise or address these rights as allowed under applicable law, ask questions about our use of your personal information, or raise other issues or disputes by contacting us using our Information Request Form. We will respond to rights requests as soon as reasonably possible according to our internal processes and as required by applicable law.
+
+c. Additional Information for Processing of Personal Data Subject to Data Privacy Laws of India, including DPDPA
+
+Your Rights: You have certain rights with respect to your personal information:
+
+- To request a copy of all Personal Data we hold about you;
+
+- To request corrections if your data is inaccurate or incomplete;
+
+- To request deletion of your Personal Data. We retain data as described in section 10 above. When data reaches its retention period, we automatically delete or anonymize it through our data deletion schedule. You can request earlier deletion as instructed below.
+
+- To request your data in a portable format to transfer to another service;
+
+- To opt-out of processing for marketing and related analytics tracking.
+
+You can exercise or address these rights as allowed under applicable law, ask questions about our use of your personal information, or raise other issues or disputes by contacting us using our Information Request Form. We will respond to rights requests as soon as reasonably possible according to our internal processes.
+
+Contact Details & Grievance Resolution: You can reach TI’s data protection officer via email at dataprotection@ti.com or by using our Information Request Form.
+If you believe we have violated your data rights under DPDPA, contact us using our Information Request Form with details of the grievance. We will investigate and respond as required by applicable law. If you are not satisfied, you can escalate to the Data Protection Board of India: grievances@dpb.gov.in.
+
+## EDUCATIONAL ACCOUNT SUPPLEMENTAL POLICY
+
+### 1. Scope
+
+This Educational Account Supplemental Policy (“EdTech Supplemental Policy”) is part of the Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA and its subsidiaries (together, “TI”, “we” or “our”) Privacy Policy. If there is a conflict between the terms of the Privacy Policy and the EdTech Supplemental Policy related to EdTech products, the terms of the EdTech Supplemental Policy control.
+
+This section applies to the extent we process Personal Data to facilitate access to and use of certain educational account-based software applications (“EdTech Apps”) by students, parents/guardians, teachers and other individuals (“App User”). This section supplements TI’s Privacy Policy.
+
+Many of TI’s education technology products can be used without collection of Personal Data. Where we do collect Personal Data to enable access and use of the EdTech Apps as described herein, we follow the data privacy principles described in TI’s Privacy Policy and this EdTech Supplemental Policy, which are summarized below:
+
+- TI does not use or share Personal Data of App Users for marketing or advertising purposes.
+
+- TI does not rent or sell Personal Data of App Users.
+
+- Personal Data of App Users for the EU, Switzerland and UK is only stored within the EU and not transferred to other third countries.
+
+- For questions, contact TI using our Information Request Form.
+
+### 2. Data collection and use
+
+TI collects and uses Personal Data of App Users, which is limited to user account information, user’s official name, email address, chosen user name and password, only for the purposes of associating and validating App User accounts with EdTech App licenses, facilitating App User’s access and use of the EdTech Apps as requested by or on behalf of the App User, for related technical support functions, and for the establishment, exercise or defense of our legal claims and compliance with our legal obligations. We do not use Personal Data of App Users for any other purpose.
+
+In order to access and use an EdTech App, App Users must have a valid user account. App User accounts may either be created directly by the App User (or their parent/guardian) upon purchasing a license to an EdTech App, or by a school/school district administrator on an individual’s behalf.
+
+Alternatively, App Users may log in to the EdTech App using Google single-sign-on, in which case use of such Google single-sign-on functionality will be governed by the applicable Google terms of service and policies.
+
+TI processes Personal Data of App Users on the following grounds or basis: Establishing and/or performing a contractual relationship with you, or taking necessary steps prior to entering into a contract, and/or safeguarding the legitimate interests of TI or third parties to whom we transfer the data in the performance of the business relationship concerning your access and use of the EdTech Apps, establishing, exercising or defending our legal claims and ensuring and documenting compliance, and/or as otherwise permitted by applicable laws.
+
+### 3. Data sharing
+
+We do not rent or sell Personal Data of App Users to third parties. TI only discloses Personal Data of App Users in limited circumstances. Specifically, we may work with certain third parties who support the provision of services described in this EdTech Supplemental Policy. These third-party service providers may only access Personal Data of App Users to the extent necessary to fulfill the purpose for which they are retained and under strict confidentiality, security and privacy terms. In certain circumstances, we may disclose Personal Data of App Users to a requesting parent/guardian or school/school district administrator who registered the App User account.
+
+### 4. FERPA compliance
+
+The Family Educational Rights and Privacy Act of 1974 (FERPA) (20 U.S.C. §1232g) (FERPA) is a United States federal law that governs access to student educational records. Personal Data of App Users falls within the category of “directory information” under FERPA and is not generally considered harmful or an invasion of privacy if disclosed. Where applicable, TI will handle Personal Data of App Users as required by FERPA. To the extent TI is provided with Personal Data of App Users from a school/school district administrator, TI will only use Personal Data of App Users for authorized school purposes.
+
+### 5. Data sharing
+
+The Children’s Online Privacy Protection Act (COPPA) is a United States federal law that sets forth requirements for operators of websites and on-line services directed to children under 13 years of age. EdTech Apps are not intended for or targeted to children under 13 years of age. Where a school/school district provides TI with Personal Data of App Users and to the extent COPPA applies, TI requires the school/school district to obtain requisite consent on behalf of App User’s parents/guardians to permit App User’s access and use of an EdTech App. TI does not knowingly collect personally identifiable data from children without obtaining parental consent where it is required by law. If you believe that TI may have collected personally identifiable data from someone without obtaining the required consent, please let us know using our Information Request Form, and we will take appropriate measures to investigate and address the issue.
+
+Last Updated: August 7, 2026
+
+### Translated versions
+
+- English
+
+- French (Canadian)
+
+- German
+
+- Japanese
+
+- Korean
+
+- Spanish
+
+- Simplified Chinese
+
+- Traditional Chinese

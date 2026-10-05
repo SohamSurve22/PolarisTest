@@ -1,0 +1,464 @@
+# Boston Scientific Privacy Notice
+
+Effective Date: April 27, 2026
+
+The Boston Scientific Website Privacy Notice (the “Privacy Notice”) explains how Boston Scientific Corporation (“Boston Scientific,” “BSC,” “we,” “our,” or “us”) collects, uses, discloses, and safeguards your personal data when you access or use our websites and applications that display or link to this Privacy Notice (collectively, the “Sites”), as well as certain products and services where such notice is required (collectively, the “Services”).
+
+This Privacy Notice also describes how you can access and update your information, and more generally how to exercise your privacy rights under applicable laws.
+
+Certain Sites and Services may be governed by separate or supplemental privacy notices that we make available when we collect your personal data, as necessary. Where a separate or supplemental privacy notice applies, that notice will control to the extent it differs from this Privacy Notice. Please review the specific website, mobile application, or associated documentation for privacy information specific to that Site or Service.
+
+In particular:
+
+-
+This Privacy Notice does not apply to information that we collect about employees, contingent workers, and job applicants separate from information that we collect through our publicly-available websites.
+
+-
+This Privacy Notice does not apply to Protected Health Information (“PHI”) that is subject to HIPAA. If you are a Cardiac Monitoring Patient of Boston Scientific’s Cardiac Diagnostic Services (CDx) in the United States, you may review CDx’s Notice of Privacy Practices for details on what constitutes PHI, how such PHI may be used or disclosed, and your rights with respect to PHI. If you are a patient utilizing other Sites or Services and have questions about your PHI that is subject to HIPAA, please review the privacy documentation specific to that Site or Service, or contact your healthcare provider for a copy of its Notice of Privacy Practices.
+
+-
+This Privacy Notice does not pertain to “deidentified” information, meaning information about you that cannot reasonably be used to identify you. We may use, disclose, or license such deidentified information to the extent permitted by law, such as for research. When we maintain and use de-identified data, we will not attempt to re-identify the data unless expressly permitted or required by applicable law.
+
+- This Privacy Notice does not apply to information that has lawfully been made publicly available, except as required by law.
+
+From time to time, we may change this Privacy Notice. If we do, we will post an amended version on this Site. Please review this Privacy Notice periodically.
+
+## 1. Personal Data We Collect
+
+Personal data refers to information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, with an individual or household. Personal data includes similar terms such as personal information.
+
+Personal Data We Collect
+
+Depending on the nature of your relationship with Boston Scientific and the purpose of the data processing activity, we may collect different types of personal data directly from you, through your use of our Sites (which includes our use of cookies and other tracking technologies on our Sites) or the provision of our Services (which includes related activities such as promotion or marketing), and from other sources described below. This may include:
+
+| Identifiers | Name; contact information; address; email address; phone number; username and related information
+
+| Financial Information | Signature, health insurance information, bank information and account number, credit card number
+
+| Demographics and Protected Characteristics | Date of birth, age, disability, veteran status, primary language, family status
+
+| Account Information | Login credentials, username, password, other account registration information
+
+| Commercial or Order Information | Current order/purchase information, purchase history, shipping and delivery details, transaction history, types of products or services that you use or are interested in
+
+| Professional or Employment-related Information | Company/employer information, job title, licenses or certifications, professional affiliations. For healthcare providers, this also may include information necessary to register in Sites with restricted access (e.g., profession, title, Medical ID and clinical affiliation) and information from other sources through your National Provider Identifier (NPI)
+Health Information
+
+| Medical condition, diagnoses and treatment data; test results; family or personal medical history; cardiac or vital signs monitoring information; identification information such as medical record number or study ID number; and health care providers
+
+| Device and Browsing Information | IP address; hardware or device identifier, model, operating system, and browser; browsing history, such as pages on the Sites you access, the frequency of access, and what you click on while on the Sites, including search terms and quiz results
+
+| Product or Medical Device Information | Identification information such as model, type, serial number(s), personal data stored in products or medical devices, and associated healthcare provider
+
+| Adverse Event or Product Complaint Information | Nature of the event and related product, drug or device; health and other information related to the event; information on management of the event; contact information of the reporting individual or any healthcare professionals involved in the event
+
+| Geographic Location | Geographic or location information, including the country, state, or zip code; precise geolocation information from visitors to the Sites; IP addresses associated with a particular location or organization
+
+| Audio, electronic, visual, or similar information | Phone, email or chatbot recordings or transcripts; video recordings if we operate closed-circuit television (CCTV) systems in a company location you visit; photographs from your visit or participation in a program
+
+| Visitor and Participant Information | Contact information and details about your visit or participation in a program, such as your name, arrival/departure time and date, and photograph
+
+| Sensitive data | Login credentials, race, color, national origin, sexual orientation, medical information (including information about your condition, symptoms, diagnoses, history, procedures, and healthcare providers), national origin, citizenship, religious or philosophical beliefs, biometric information (such as facial photographs), and contents of certain emails or text messages.
+
+We also may process any personal data you provide through user-generated content and posts you may make on public forums or on interactive features of the Sites and Services (e.g., testimonials, comments).
+
+For more information about website tracking technologies, please review our “Cookies and Other Tracking Technologies” section below or our Cookie Notice here.
+
+Sources of Personal Data That We Collect
+
+We may receive certain personal data about you from the following categories of sources, depending on the nature of your interactions or relationship with us and any applicable consent that you provide:
+
+-
+You, your authorized representatives, and caregivers or others assisting you;
+
+-
+Third parties with whom you have established a relationship, such as your healthcare provider;
+
+-
+Health insurance companies (health plans), payment processors, and other financial institutions;
+
+-
+Service providers and vendors who provide services to BSC for the purposes described in this Notice;
+
+-
+Third parties who collect and provide personal data to us in accordance with applicable law, such as through mailing lists or cookies and similar tracking technologies;
+
+-
+Consumer reporting agencies and other third parties who verify the information you provide to us.
+
+In relation to our Sites, we may also receive information from cookies and tracking technologies (such as Google Analytics) or from social media and advertising platforms, where permitted by your user settings, such as when you access our Sites or Services from other websites or social media channels. For more information, please review our “Cookies and Other Tracking Technologies” section below and our Cookie Notice here.
+
+Additionally, if you share someone else’s personal data with us, you must ensure you have the authority to do so and that the individual is informed about how we may process their personal data in accordance with this Privacy Notice, as necessary.
+
+User Generated Content
+
+We may invite you to post content on the Sites and Services or on third-party or social media platforms, including your comments, recommendations, or testimonials that may be available to the public (“User Generated Content”). Such platforms may include Facebook, Instagram, Yelp, or other social media channels. We may use and disclose User Generated Content to the extent permitted by law.
+
+To request removal of your User-Generated Content, please follow the instructions provided by the third-party or social media platform to delete or remove your comment, or contact us at webmaster@bostonscientific.com.
+
+## On this page
+
+Personal Data We Collect
+
+How We Use Personal Data
+
+How We Disclose Personal Data
+
+Security
+
+Third-Party Links and Embedded Media
+
+Users Outside of the United States
+
+Minors
+
+Data Retention
+
+Cookies and Other Tracking Technologies
+
+Your Privacy Choices
+
+Supplemental Information For Residents of California and Other States
+
+Contact us
+## 2. How We Use Personal Data
+
+We may use personal data that we collect for the following business purposes:
+
+-
+Fulfilling and supporting the Services or products you have requested or that were recommended by your healthcare provider, including responding to your questions and requests;
+
+-
+Creating and administering your account;
+
+-
+Sending you product updates, programs, promotions, or marketing communications about Sites and Services that you have used or shown your interest;
+
+-
+Understanding your interests and preferences to optimize your user experience;
+
+-
+Offering and facilitating your participation in virtual or in-person events (e.g., workshops, trainings, meetings, webinars);
+
+-
+Conduct a survey or market research;
+
+-
+Market our products or services or the products and services of our subsidiaries or affiliates;
+
+-
+Testing and analysis to maintain the effectiveness, quality and safety of our Sites and Services, and to identify and repair errors or bugs that impair intended functionality;
+
+-
+Chatbot interactions may be recorded and retained for quality assurance, training, analytics, and compliance purposes;
+
+-
+Exercising or defending legal claims, including enforcing our contractual rights;
+
+-
+Engaging in regulatory monitoring and reporting obligations related to adverse events, product complaints, post-market surveillance, recalls, and patient safety, and similar quality assurance or safety measures;
+
+-
+Protecting the safety and security of our property, workforce, your health and safety, or the health and safety of others;
+
+-
+Protecting against fraudulent, illegal or unethical activity, detect and prevent fraud, including monitoring activities in our facilities, devices, networks, communications and resources; performing identity verification; and conducting risk and security control and monitoring;
+
+-
+Evaluating or conducting a commercial transaction, acquisition, merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets;
+
+-
+Conducting our business, such as vendor management, accounting, auditing, conducting internal investigations, maintaining records, and as necessary to comply with industry standards and our internal policies;
+
+-
+Complying with this Privacy Notice or our legal obligations, including responding to requests from courts or government agencies;
+
+-
+Enforcing our Terms of Use.
+
+-
+For any purpose that is reasonably necessary to or compatible with the original purposes for which you provide your personal data to us.
+
+## 3. How We Disclose Personal Data
+
+We and our third parties may disclose your personal data for our business purposes as permitted by applicable law and to the following categories of recipients:
+
+-
+Our Affiliated Entities, including our current or future parent companies or subsidiaries.
+
+-
+Your authorized representatives such as your caregivers or others assisting you, in situations where you consent, where we believe disclosure is necessary to avoid a serious and imminent threat of physical harm, or as permitted by law.
+
+-
+Service providers, suppliers or vendors that provide services to us for the purposes described in this Privacy Notice and the Cookie Notice, such as those that provide IT or technical support, tax advice, auditing, accounts payable, legal services, communication tools, customer relationship management systems, survey tools or platforms, event organization management tools, website management and cloud hosting services. We enter into a contractual agreement that contains appropriate safeguards, including that the service provider, supplier or vendor must implement appropriate technical and organizational measures to protect personal data;
+
+-
+Site analytics vendors that collect and process certain personal information when you use our Sites, such as Google Analytics. Web analytics vendors use cookies to help us analyze how users interact with the Sites, compile reports on their activity, and provide other services related to their activity and usage. The information generated by web analytics vendors may be transmitted to and stored by the vendor and may be subject to the vendor’s privacy policies and applicable laws and contractual obligations. To learn more about Google Analytics’ privacy policies and how to control your information collected by Google, please refer to Google’s Privacy Policy here.
+
+-
+Healthcare providers including your physician, hospital, clinic and other provider(s) who are involved with the management of your care or related healthcare services.
+
+-
+Legal and Regulatory Authorities: This may include health oversight, law enforcement, or other government agencies who are legally permitted to collect personal data; in the course of a judicial or administrative proceeding; in accordance with a court order or specific legal process; and to support audits, investigations, and inspections.
+
+-
+Other Partners: External organizations that we partner with to provide products and services, such as research partners or collaborators, or co-branding initiatives.
+
+-
+Interested parties in corporate transactions such as disclosures to prospective buyers in connection with a sale, merger, reorganization, corporate dissolution, or similar event, or to a successor company in the event of insolvency, bankruptcy or receivership.
+
+-
+Sales: Depending on how the applicable privacy law defines a “sale” or “share,” we may sell or share personal data to third parties for the purposes described in this Privacy Notice, such as our use of certain cookies and tracking technologies for targeted advertising.
+
+-
+With other persons or third parties with whom you have consented to receiving your personal data or as necessary to protect against fraud, illegal activity, and pursue or defend legal claims.
+
+To ensure your personal data will still be processed in compliance with our policies and applicable law, BSC uses contractual and technical safeguards as appropriate based on the nature of the personal data and local requirements.
+
+If you have any questions regarding a third party’s processing of your data, please refer to the request form available on this Privacy Notice to determine whether this information is accessible in your jurisdiction.
+
+## 4. Chatbots and Automated Assistance
+
+We may offer an AI-powered chatbot or virtual assistant feature on certain Sites. When you interact with our chatbot, we collect the information you choose to provide in your messages, which may include identifiers, contact information, and other information relevant to your inquiry.
+
+We use and share this information with service providers and third-parties for the purposes described in this Privacy Notice, such as to:
+
+-
+Respond to your questions and provide customer support;
+
+-
+Improve our customer service operations;
+
+-
+Monitor and enhance the performance of our chatbot technology;
+
+-
+Support the chatbot functionality; and
+
+-
+Maintain the security and integrity of our systems.
+
+Chatbot interactions may be recorded and retained for quality assurance, training, analytics, and compliance purposes.
+
+Note that specific chatbots or virtual assistants may caution you against providing certain personal data when you engage with them, and you should carefully adhere to such instruction.
+
+## 5. Security
+
+We take the security of personal data seriously. We maintain reasonable administrative, technical and physical safeguards to protect the personal data we collect and store from loss, misuse, destruction, or unauthorized access. However, no security measure or method of transmitting data is 100% secure and we cannot guarantee that the measures we maintain will ensure the security of your personal data.
+
+We encourage you to take reasonable precautions to safeguard your personal data. This includes maintaining the security of your login credentials, password, username, or other forms of accessing password protected or secure areas of the Sites and Services.
+
+## 6. Third-Party Links and Embedded Media
+
+Our Sites may provide links to websites or apps that are managed by third parties, such as links to our social media pages.
+
+Some of our Sites also may include embedded features such as videos or “plug-ins” offered by YouTube or other third parties. When you access a page containing embedded video content, your browser may automatically transmit certain information to the third-party provider, such as your IP address, device information, browser type, and information about your interactions with the content.
+
+We do not control the privacy practices of those websites, apps or apps that are managed by third parties, and they are not covered by this Privacy Notice. We encourage you to review the privacy policies of any third party that you interact with to learn about their policies.
+
+## 7. Users Outside of the United States
+
+This Privacy Notice describes how we use and disclose your Personal Information pursuant to United States law. If you are located outside of the United States and proceed in using our Sites and Services that are intended for users in the United States, your personal data will be processed in the United States or where our vendors are located.
+
+In some situations, we may transmit or store personal data in other countries. When we do so, we use administrative and technical measures to provide appropriate safeguards under applicable law.
+
+## 8. Minors
+
+This website or mobile application is intended for adults and does not knowingly collect personally identifiable information from children. If you believe this website or mobile application might collect information from children, please contact us as described in this Notice.
+
+## 9. Data Retention
+
+We will retain your personal data for as long as necessary or appropriate to fulfill the purposes for which it was originally collected (as described above). Afterwards, we may retain personal data for additional time to comply with applicable contractual, regulatory, or legal obligations.
+
+We will retain your personal data for as long as necessary or appropriate for the purposes for which it was collected or as set out in this Privacy Notice and to comply with any applicable laws, contracts or legal requirements. Once our relationship with you has come to an end, we may retain your personal data for a period of time that enables us to:
+
+-
+Maintain business records for analysis and/or audit purposes.
+
+-
+Perform internal research to assess and improve our business.
+
+-
+Comply with relevant legal requirements or our internal document retention policy.
+
+-
+Defend or bring any existing or potential legal claims.
+
+For information about the time we retain personal data collected from cookies or tracking technologies, see our Cookie Notice here.
+
+## 10. Cookies and Other Tracking Technologies
+
+We use cookies, pixels, web beacons, and similar tracking technologies (collectively, “technologies”) based, where appropriate, on your consent as required by applicable regulations to:
+
+-
+Operate our Sites, through the use of technical and preference cookies and similar technologies;
+
+-
+Understanding your interests and preferences to optimize your user experience, including by analyzing how you interact with the Sites (e.g., through Google Analytics by identifying the number of visits or average time spent on a webpage) to understand which features and contents will be most relevant to you;
+
+-
+Analyze your browsing habits using targeting and advertising cookies and similar technologies (sometimes with the assistance of third-party partners) to create a user profile and provide more personalized content to you, including deliver ads on other websites or social media channels.
+
+For more detailed information about the cookies and tracking technologies that we use, please review our Cookie Notice here.
+
+Depending on your country and relationship to Boston Scientific, we may request your consent before collecting personal data through these technologies. Even if you do consent, in some situations we may not collect or use your personal data unless it is necessary to operate the Site.
+
+You may manage your consent choices at any time through our Cookie Preference Center here.
+
+## 11. Your Privacy Choices
+
+You have choices when it comes to certain processing of your personal data. Residents of certain states may have additional privacy rights that are outlined in the Supplemental State Consumer Privacy Rights section below.
+
+-
+Cookie Preferences: You may manage your preferences at any time through our Cookie Preference Center here.
+
+-
+Browser Settings: You also can change your Internet browser settings to refuse all or some technologies. You can consult the instructions offered by different browsers using the following links:
+
+Firefox
+
+Chrome
+
+Microsoft Edge
+
+Safari
+
+For more information in this regard, please visit our Cookie Notice here.
+
+-
+Universal Opt-Out Mechanisms: Our Sites recognize the Global Privacy Control (“GPC”) signal. If you are using a browser setting or plug-in that sends an opt-out preference signal to each website you visit, we will treat that as a valid request to opt out of non-essential cookies. To download and use a browser supporting the GPC browser signal, click here: https://globalprivacycontrol.org/orgs. If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.
+
+-
+Do Not Track: Certain browsers offer a “Do Not Track” feature that sends signals to websites indicating that you do not want your online activities tracked. The Do Not Track feature does not work for every website or webpage and is separate from Global Privacy Control. To learn more about DNT, please visit http://www.allaboutdnt.com.
+
+-
+Geolocation Data linked to a specific Site or Service: Delete the mobile application or disable the location settings on your browser or device if you do not wish to share this information through our Sites. You may not be eligible to use certain Sites or Services if we cannot identify your geolocation.
+
+-
+Marketing Communications: We may periodically send you newsletters, e-mails, or similar communications about our products and services, requests for your feedback, or other information we think may be of interest to you. If you do not wish to receive such communications, please follow the directions in the communication to unsubscribe (such as email), stop (such as SMS text message), or log into your account to update your communication preferences.
+
+-
+Opt-Out of Internet-Based Ads: We work with advertising networks and ad service providers to display our ads on third-party websites or platforms. Many participate in industry self-regulatory programs that allow you to opt-out of Internet-based advertising, such as the Digital Advertising Alliance (“DAA”) and the Network Advertising Initiative (“NAI”). To learn more, visit: http://www.aboutads.info/choices, http://www.aboutads.info/appchoices (mobile apps), http://www.networkadvertising.org/choices
+
+Please note that exercising your privacy choices does not eliminate all ads or communications. Your choices also may not be effective if you block or delete cookies on your browser, use a different device or browser, or access services through other methods, such as mobile applications.
+
+----------If you would like to opt out of targeted advertising, please visit our cookie preferences center.
+
+## 12. Supplemental Information For Residents of California and Other States
+
+This section applies to the personal data of residents of California and other states with applicable consumer privacy laws and supplements the other sections of this Privacy Notice.
+
+For information on the categories of personal data that we have collected in the past 12 months, the purposes for which we process that personal data, and how we disclose that personal data, please refer to Sections 1, 2, and 3 of this Privacy Notice. We use and disclose sensitive personal data only for purposes expressly permitted under applicable law.
+
+We may disclose your personal data to third parties for the business purposes outlined in Sections 2 and 3 of this Privacy Notice, including:
+
+-
+Our Affiliated Entities
+
+-
+Your authorized representatives
+
+-
+Service providers and vendors
+
+-
+Healthcare providers
+
+-
+Other partners
+
+We do not sell your personal data for money in the traditional sense. However, we may “sell” or “share” certain personal data for cross-context behavioral advertising with third parties, as those terms are defined and permitted by applicable state laws.
+
+In particular, in the preceding twelve (12) months, we may have sold or shared (a) your Device and Browsing Information collected through cookies and tracking technologies for targeted advertising, and/or (b) your email address if you specifically consented to such disclosure for targeted advertising, with the following categories of third parties:
+
+-
+Third party advertising and analytics providers
+
+-
+Joint marketing partners
+
+-
+Social media platforms
+
+We do not have actual knowledge that we sell or share personal data of minors under 16 years of age.
+
+You also may have additional privacy rights depending on the state where you reside and your relationship to Boston Scientific. Such privacy rights may include:
+
+-
+Know categories and specific pieces of personal data we have collected about you, the categories of sources from which we collected it, the categories of personal data and categories of recipients to whom we disclosed personal data; and categories of personal data that we sold or shared with others (if applicable); and the business or commercial purposes for collecting or, if applicable, selling or sharing personal data about you.
+
+-
+Access your personal data.
+
+-
+Transfer or obtain a copy of your personal data in a structured, machine-readable, or portable format (to the extent technically feasible, and the requested format is commercially reasonable).
+
+-
+Correct or amend if your personal data is incomplete, inaccurate, or outdated.
+
+-
+Request deletion of your personal data, subject to certain exceptions, and which may be fulfilled by restricting, obfuscating, de-linking, or deidentifying that data.
+
+-
+Restrict or limit certain processing of your sensitive personal data.
+
+-
+Withdraw (or manage) your prior consent to process your personal data.
+
+-
+Opt-out targeted advertising or the “sale” or “sharing” of your personal data in the following ways: (1) by adjusting your preferences in your browser and in our Cookie Preference Center to opt out of cookies and tracking technologies used for targeted advertising; and (2) by submitting a request through our Consumer Data Request Form to opt out of Boston Scientific disclosing your email address to advertising platforms for targeted advertising, if you expressly consented to such disclosures.
+
+-
+Not to receive discriminatory treatment or retaliation by us for the exercise of your privacy rights.
+
+These rights are not absolute and may be subject to certain exceptions, such as when we must retain personal data to meet our legal obligations.
+
+Exercise Your Privacy Rights
+
+Again, please see “Your Privacy Choices” section above for information about how to exercise privacy choices, regardless of the state where you live.
+
+Otherwise, if you live in a state that offers one of the above privacy rights as it pertains to Boston Scientific, and you would like to exercise that right, please contact us by:
+
+-
+Visiting our Consumer Data Request Form, or
+
+-
+Calling 1 (888) 914-9661 and entering PIN#: 554 415
+
+Please provide us with a description of the information we require to address your rights request, including your name, email address, phone number, and the nature of your request.
+
+Verification Process. We are required to verify your identity, your right to access the information requested, and, if an authorized agent is making a request for you, your authorized agent’s authority to act on your behalf. We may need to ask you for additional information that will help us verify your identity or relationship to Boston Scientific, including asking for a copy of your government-issued ID containing your name and address, utility bills containing that same information, and/or unique identifiers like usernames. We will only use that additional information in the verification process, and not for any other purpose. Verification is not required for opt-outs of targeted advertising, “sales,” or “sharing” as described above.
+
+Fees. We may charge a reasonable fee in some limited situations and if permitted by applicable law. If a fee is warranted, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+Additional options. Depending on your state, you may have additional options if you are dissatisfied with our response. For example, certain decisions allow for an internal appeal process. You also may complain to a data protection or regulatory authority (such as your state Attorney General’s office) if you have further concerns about our data practices or our response to a request.
+
+If you need additional information about which authority may apply to you depending on your location and circumstances, please contact us.
+
+Consumer Health Data Privacy Notice for residents of Nevada and Washington
+
+Please see our Consumer Health Data Privacy Policy for additional information about our practices involving “consumer health data” as defined in those state laws.
+
+Notice of Financial Incentive for California Residents
+
+We may offer programs, benefits, and other offerings related to the collection, retention, use, or sale of your Personal Information that may be deemed a “financial incentive” or “price or service difference” under California law. Participation is always optional.
+
+California Shine The Light Law
+
+If you are a California resident, California’s “Shine the Light Law” (Civil Code § 1798.83) allows you to opt out of having your personal data disclosed to third parties for their own direct marketing purposes. To make such a request, please send an email to GlobalPrivacy@bsci.com with the subject line “California Shine the Light Request.”
+
+## 13. Contact us
+
+In addition to the options for exercising your privacy rights and preferences as described above, you may contact Global Privacy through the following channels if you have questions or complaints related to our privacy practices. When doing so, please include information about your identity, your relationship with us, and other relevant details.
+
+Consumer Data Request Form
+
+Global Privacy
+
+Boston Scientific Corporation
+
+300 Boston Scientific Way
+
+Marlborough, MA 01752-1234 (USA)
+
+E-mail: GlobalPrivacy@bsci.com

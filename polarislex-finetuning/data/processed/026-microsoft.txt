@@ -1,0 +1,58 @@
+Learn more about Privacy at Microsoft and how we put our privacy principles into practice in the following links and resources.
+
+### Privacy Statement
+
+### Privacy Statement
+
+Your privacy is important to us. The privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
+
+### Privacy for Young People
+
+Privacy for young people is a page where young users can learn about and understand Microsoft's privacy practices and how to use our products in a way that protects their privacy. This page also highlights topics that may be helpful for parents and guardians.
+
+### Privacy Report
+
+The privacy report includes new developments in privacy at Microsoft. Find the latest information on what personal data we collect, how it may be used, and how you can manage and control your data.
+
+### Privacy Frequently Asked Questions
+
+Do you have a question about Microsoft privacy? We explain how customers can export or delete personal data and more in the Privacy FAQs.
+
+### Microsoft Corporate Social Responsibility
+
+Learn more about how Microsoft approaches building a more inclusive, equitable, sustainable, and trusted future for everyone, and how technology can and must benefit the future of humanity and our planet.
+
+### U.S. State Data Privacy Notice
+
+If you are in the U.S, please see our U.S State Data Privacy Notice.
+
+What's new?
+
+Check out the latest articles, blog posts, and news from Microsoft about protecting your privacy at home and at work.
+
+### GDPR and generative AI - a guide for the public sector
+
+This whitepaper offers practical support for public sector organizations as they consider generative AI services such as Copilot for Microsoft 365 and Azure OpenAI Service. Discover how public sector organizations can harness the power of generative AI while complying with their obligations under the General Data Protection Regulation (GDPR).
+
+Read more
+
+### Protecting the data of our commercial and public sector customers in the AI era
+
+Learn more about Microsoft’s commitment to protecting the data of our commercial and public sector customers and how our approach to AI is built on a foundation of privacy across all our AI products and solutions.
+
+Read more
+
+### Enhancing trust and protecting privacy in the AI era
+
+Discover how Microsoft’s privacy commitments apply to AI and how Microsoft empowers customers to use new AI technologies while advancing trust and protecting privacy.
+
+Read more
+
+### Microsoft Cloud enables customers to keep personal data within the European Data Boundary
+
+Microsoft’s EU Data Boundary enables customers to store and process their data within the EU. Read about the latest enhancements and new features building on prior progress.
+
+Read more
+
+Contact our team
+If you have a privacy concern, request or question, please contact us

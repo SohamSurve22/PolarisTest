@@ -1,0 +1,85 @@
+{
+  "total_files": 332,
+  "file_sizes": [
+    52491,
+    29635,
+    12422,
+    24744,
+    41242,
+    14288,
+    4392,
+    31018,
+    119639,
+    45536
+  ],
+  "sample_files": [
+    {
+      "name": "001-walmart.txt",
+      "size": 52491,
+      "lines": 937,
+      "privacy_starts_at_line": 325
+    },
+    {
+      "name": "002-exxon-mobil.txt",
+      "size": 29635,
+      "lines": 271,
+      "privacy_starts_at_line": 8
+    },
+    {
+      "name": "003-apple.txt",
+      "size": 12422,
+      "lines": 389,
+      "privacy_starts_at_line": 84
+    },
+    {
+      "name": "005-amazon-com.txt",
+      "size": 24744,
+      "lines": 489,
+      "privacy_starts_at_line": 0
+    },
+    {
+      "name": "006-unitedhealth-group.txt",
+      "size": 41242,
+      "lines": 556,
+      "privacy_starts_at_line": 0
+    },
+    {
+      "name": "008-cvs-health.txt",
+      "size": 14288,
+      "lines": 125,
+      "privacy_starts_at_line": 0
+    },
+    {
+      "name": "009-at-and-t.txt",
+      "size": 4392,
+      "lines": 241,
+      "privacy_starts_at_line": 84
+    },
+    {
+      "name": "010-amerisourcebergen.txt",
+      "size": 31018,
+      "lines": 287,
+      "privacy_starts_at_line": 0
+    },
+    {
+      "name": "012-ford-motor.txt",
+      "size": 119639,
+      "lines": 1288,
+      "privacy_starts_at_line": 2
+    },
+    {
+      "name": "013-general-motors.txt",
+      "size": 45536,
+      "lines": 453,
+      "privacy_starts_at_line": 0
+    }
+  ],
+  "total_chars": 12419097,
+  "files_by_size": {
+    "50K-100K": 41,
+    "20K-50K": 140,
+    "5K-20K": 96,
+    "<5K": 41,
+    ">100K": 14
+  }
+}

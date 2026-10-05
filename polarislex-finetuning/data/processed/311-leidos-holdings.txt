@@ -1,0 +1,396 @@
+# Privacy Statement
+
+Last Updated: August 2025
+
+### Introduction
+
+Leidos, Inc.’s (“Leidos,” “we” or “us”) Privacy Statement (“Statement”) provides you with information about how Leidos collects, uses, and discloses your Personal Information, and the rights you may have with respect to your Personal Information.
+
+### Scope
+
+This Statement generally applies to leidos.com and any Leidos-owned websites or mobile applications that link to this Statement (collectively, our “Sites and Apps”).
+
+Leidos is a business-to-business (B2B) and business-to government (B2G) products and services provider. Accordingly, while we may collect, use, and disclose customer data, which may include Personal Information (collectively, “Customer Data”), our normal business practice is to do so only at the direction of our customers and solely for the purpose(s) agreed to in the applicable customer contract. For information about how we use such Customer Data, please refer to the relevant privacy notice.
+
+This Statement applies to and sets out information in relation to our use of Personal Information for our own purposes. We act as a "controller" of the Personal Information processed as described in this Statement, meaning we determine and are responsible for how this Personal Information is processed.
+
+Residents of jurisdictions with comprehensive data protection/privacy laws that provide for data subject rights, such as the UK, European Economic Area (EEA) or California, may have additional rights with respect to the processing of their Personal Information. Information about these rights and how to exercise them is provided in the Additional Rights under Local Laws section. In jurisdictions where these rights apply, you may exercise them, to the extent permitted by applicable data protection/privacy laws, with respect to any personal information that Leidos processes for our own purposes.
+
+In addition, we maintain a separate Leidos Australia Privacy Policy for individuals in Australia.
+
+Whether this Statement applies to your Personal Information also depends on your relationship with Leidos and how your Personal Information was collected. For example, if you are a Leidos employee, Leidos’ Global Employee Privacy Notice applies to any employment-related information about you. And if you are a job applicant, Leidos’ Recruitment Privacy Notice applies to any Personal Information we collect in connection with recruiting and hiring new employees.
+
+Some Leidos Sites and Apps may also have a supplemental privacy statement, policy, or notice.
+
+If there is a conflict between this Statement and the terms of any written agreement between a Leidos customer and Leidos, the terms of such written agreement will control.
+
+If you have any questions about our use of Personal Information as set out in this Statement, please contact us using the contact details set out in the "Questions and Complaints" section below.
+
+Current Privacy Statement Changes since PRIOR Privacy Statement
+
+### What Categories of Personal Information Are Collected via Leidos Sites and Apps?
+
+For the purposes of this Statement, “Personal Information” generally means data, or a combination of data from one or more sources, that identifies or could reasonably be used to identify an individual.
+
+When you visit Leidos Sites and Apps, Leidos may collect the following categories of Personal Information from or about you. These categories of Personal Information may include, but are not limited to, the types of Personal Information identified for each category of Personal Information:
+
+- Contact Information – name, postal address, e-mail address, telephone number;
+
+- Professional Information – organization name and job title;
+
+- Network Information – IP address, network and geo-location;
+
+- Usage Information – the searches you perform and actions you take while visiting or using our Sites and Apps;
+
+- Questions and Comments – customer support queries and questions you submit to us about our products and services;
+
+- Visitor Information – information collected about your visit to our facilities and premises, including date and time of visit; and
+
+- Voluntarily Disclosed Information – any information you provide to us through web forms or other communication tools available to you while visiting or using our Sites or Apps.
+
+Leidos also collects Analytics Data as described in the “Data Collected for Analytics, Marketing and Advertising Purposes” section of this Statement.
+
+In addition, when you visit a Leidos portal related to one of our vocational or medical case management or medical evaluation businesses (e.g., Leidos QTC Health Services, Independent Medical Evaluation and Review Services), you may voluntarily disclose the following additional types of Personal Information:
+
+- Health Care Provider Information – if you are a health care provider, you may disclose your state of licensure, medical license number, specialty, referral information, current practice setting, whether you are board certified, provider portal username and password, information about the services you provide, the location of your offices and other information that is necessary to conducting a business relationship with you.
+
+- Medical Evaluation Information – if you are referred to us for a medical evaluation, you may disclose your preferred method of contact, your availability for an appointment, your login information for our online portal, and any information our client requests that you provide through our online portal.
+
+If you choose not to provide us with this Personal Information when prompted, we may be unable to provide you with the information or services you have requested.
+
+### Why is this Personal Information Collected?
+
+Certain areas of Leidos Sites and Apps may request your Personal Information so that you can use specific features, learn more about Leidos, or access certain content and for us to deliver certain services. For example, we may ask you to submit Personal Information if you:
+
+- express an interest in our products, such as by requesting a product demo, downloading or accessing information about our products, services or programs;
+
+- watch video content on our Sites and Apps;
+
+- submit a contact form to request customer or technical support;
+
+- access Investor Relations information;
+
+- apply to become one of our subcontractors;
+
+- ask to have a Leidos employee contact you;
+
+- request that we send materials to you;
+
+- are an account manager for one of our customers and communicate with us in relation to that customer's account; or
+
+- to verify your identity.
+
+Additionally, when you visit Leidos Sites and Apps related to one of our vocational or medical case management or medical evaluation businesses, you may provide us with Personal Information if you:
+
+- create a user account;
+
+- apply to become a health care provider in our network;
+
+- are scheduled for an evaluation, for example, through our relationship with your employer or an insurance company; or
+
+- refer a client, healthcare provider or examinee, where you are legally permitted to disclose such Personal Information to us.
+
+### Use of Personal Information
+
+We use the Personal Information we collect for the following purposes:
+
+- to communicate with you about our products and services that you have shown an interest in;
+
+- to send you advertising and marketing messages;
+
+- to provide you with access to our services and content on our Sites and Apps;
+
+- to manage our contractual relationship with you or the company you work for;
+
+- to conduct research, analytics and development;
+
+- to identify and address bugs or system errors;
+
+- to protect the security and integrity of our systems and facilities, including protecting our systems from and investigating malicious or unauthorized activity;
+
+- to protect the safety of our guests, employees and visitors to our facilities, including through contact tracing, temperature scanning or other methods of identifying and/or preventing the spread of infectious diseases;
+
+- to conduct internal auditing;
+
+- to protect our property and enforce our rights;
+
+- as required by law;
+
+- for any other purpose stated when you provide your Personal Information to us.
+
+If you are referred to us for an evaluation, your Personal Information may be used:
+
+- to schedule appointments and for related administrative purposes; and/or
+
+- for a health care provider to perform an evaluation.
+
+Where permitted, we may also use what we know about you to highlight products and services that may be of interest to you, or we may combine your Personal Information and other information about you with information collected from offline sources or information we already have.
+
+### Disclosure of Personal Information
+
+We process and share your Personal Information for the purposes set out in this Statement. We may disclose Personal Information to:
+
+- our parent company or affiliates;
+
+- companies that provide services to us, including without limitation providers of artificial intelligence (“AI”) services;
+
+- our advisors, such as legal advisors or accountants;
+
+- our advertising partners, as further described in the "Interest-Based Advertising" section;
+
+- potential buyers of our company or our business;
+
+- regulators, government agencies or law enforcement; and
+
+- other third parties if required to enforce our rights or defend legal claims.
+
+We may share Personal Information with the above third parties to:
+
+- provide our products and services;
+
+- respond to questions about our product or services;
+
+- send communications, including email newsletters, or other marketing materials;
+
+- comply with applicable laws, obey judicial orders, respond to subpoenas and regulatory inquiries; cooperate with law enforcement authorities, and respond to law enforcement requests;
+
+- detect or prevent suspected or actual illegal activities or harm to our personnel or property;
+
+- help us run our day-to-day business operations;
+
+- protect our legal rights under any applicable laws or regulations, or to enforce our Terms of Use or Leidos policies;
+
+- protect the rights or property of others, including our customers;
+
+- detect, suppress, and prevent fraud;
+
+- protect the health and safety of us and others; or
+
+- respond to and/or assist our auditors and legal advisors.
+
+We may also disclose Personal Information:
+
+- when legally required (e.g., for government reports);
+
+- in connection with or in the performance of a sale, merger, acquisition, or other transfer of all or part of our business to another company, or as part of a bankruptcy proceeding or business reorganization or any due diligence relating to any such sale, merger, acquisition, or other transfer;
+
+- for other legitimate business purposes, such as product or service development, marketing, sales and website administration, where permitted;
+
+- as otherwise permitted or required by law; or
+
+- with your consent.
+
+We may disclose information that does not personally identify you when necessary for our business operations.
+
+We sometimes hire or contract with other companies and individuals to perform certain functions and services on our behalf. This is a common industry practice. We may need to disclose Personal Information to these Authorized Service Providers so that they can perform these functions and services, which may include, for example, call center/customer service support, sending or processing postal mail or email, and analyzing or hosting data on cloud-based servers.
+
+### Data Collected for Analytics, Marketing and Advertising Purposes
+
+We and our third-party service providers automatically collect certain information such as IP addresses, geo-location data, preference and setting information, browser and device used, number of page visits, pages viewed, durations of visits, dates and times of visits, documents downloaded, videos viewed, search engine referrals, referrals from other websites, browsing activities over time and across other websites (following your visit to one or more of our Sites and Apps), and responses to offline marketing campaigns (together, “Analytics Data”).
+
+We and our third-party service providers may use (i) cookies or small data files that are stored on an individual’s computer and (ii) other, related technologies, such as web beacons, pixels, embedded scripts, location-identifying technologies and logging technologies (together, “cookies”) to collect this Analytics Data. You can learn more about our use of cookies in the Cookies section.
+
+We, and our service providers, use several industry standard analytics and tracking cookies to collect Analytics Data.
+
+We use Analytics Data to:
+
+- develop, maintain, and improve our Sites and Apps;
+
+- collect and store information about your preferences and settings, including the browser and device you use to visit our Sites and Apps;
+
+- collect information about your engagement with our Sites and Apps;
+
+- review whether our Sites and Apps are operating properly;
+
+- identify new visits to Leidos websites;
+
+- recognize returning visits;
+
+- analyze the effectiveness of our Sites and Apps, and of our content and marketing or advertising-related activities;
+
+- better understand Leidos’ current and potential customers, website visitors and mobile app users;
+
+- determine whether Leidos’ current and potential customers, website visitors, and mobile app users might be interested in additional content, new products or services; and
+
+- tailor our marketing and business development campaigns to individuals who we think may be interested in learning more about our products and services.
+
+Where permitted, we market our business in a number of ways, primarily through digital advertising, social media platforms, email marketing and offline marketing, such as at trade shows and conferences. You can learn about the choices available to you to opt out of receiving marketing from us in the Your Choices section.
+
+### Use of Cookies
+
+We may use cookies to enhance your experience on our Sites and Apps and to collect information about your visits to our Sites and Apps as described above. We may also allow certain third parties to place cookies on your browser when you visit our Sites and Apps, so they can collect Analytics Data on our behalf.
+
+If you are in the European Union, European Economic Area or the United Kingdom, other than cookies that are necessary to operate our Sites and Apps, we will only use cookies with your consent.
+
+You can change your cookie preferences for Leidos Sites and Apps by reviewing the Cookie Settings. This feature allows you to set your cookie preferences when you visit Leidos domains.
+
+You may be able to use your browser or device settings to limit our ability to use cookies to collect information about your use of our Sites and Apps.
+
+Review the following information on the types of cookies we set. Note that limiting the placement of cookies may result in certain features of our Sites and Apps not functioning as intended.
+
+Please also note that we may use Google Analytics to measure and understand how visitors use our Sites and Apps. You can learn more about how Google uses the information it collects by visiting its website at www.google.com/policies/privacy/partners. You can opt out of Google’s collection of this information by downloading the Google Analytics Opt-Out Browser Add-On at https://tools.google.com/dlpage/gaoptout?hl=en.
+
+### Your Choices
+
+You have certain choices with respect to the information we may collect for advertising and marketing purposes. This section provides you with information about the choices you may have to control the information we collect about you for these purposes and how we use it.
+
+You can opt out of receiving direct marketing from us or change your marketing preferences.
+
+You can opt out of receiving email marketing communications at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we may continue to send you service-related communications even after you opt out of receiving marketing communications.
+
+You may also be able to opt out of receiving push notifications from mobile apps and text messages if you decide you no longer wish to receive such communications. You may be able to use your device or app settings to manage your push notification preferences with respect to any of our Sites and Apps. If you previously agreed to receive text messages from us, but you no longer want to receive such messages, you can follow the instructions provided to you, which may include replying “STOP” to any such messages.
+### Interest-Based Advertising
+
+We may engage third-party advertising service providers to help us target our advertisements to individuals who may be interested in our products and services or who may be interested in employment with Leidos. These service providers may also help us deliver advertisements to you, provide us with information about whether you engaged with our advertisements, and provide us with other analytics relating to the performance of our online advertisements. These service providers may use cookies to collect information about your activity on our Sites and Apps. They may also combine this information with the information they collect about you, including information about your activities on other websites and applications over time and any personal information you or a third party may provide to them. They may also associate any information they collect about you across the various browsers and devices you use.
+
+In some jurisdictions, our disclosure of Personal Information to third-party advertising service providers may be considered a “sale” or “sharing” of Personal Information for targeted advertising purposes that individuals have the right to opt out of. You can request to exercise this right here.
+
+You can also learn more about interest-based advertising by visiting the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”) websites. You can also learn how to opt out from the collection of your information for interest-based advertising purposes by third parties that participate in these self-regulatory programs by visiting the NAI and DAA opt- out pages.
+
+### Social Media Plugins
+
+Our Sites and Apps may include plugins from social networks or other third parties. An example of a plugin is the link to Leidos’ X feed or LinkedIn page. These plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the web page you are visiting on our Sites and Apps. Loading, using, or clicking the plugins may also place, read and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns to you for use in associating information collected about your browser, so they can deliver interest-based advertising to you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
+
+### Minors and Children under 16
+
+Leidos Sites and Apps are not directed to nor intended for use by minors. We do not knowingly collect any Personal Information or knowingly track the use of Leidos Sites and Apps by children under the age of 16.
+
+### Data Retention
+
+We will retain your Personal Information for as long as required for the purposes for which it was collected. How long we retain it depends on a number of factors, including the purpose for which it was obtained and/or our legal or regulatory obligations. For example, we may store your Personal Information for longer periods of time where we are required to do so to meet legal, regulatory, tax, or accounting requirements. We may also store it for longer periods of time to have an accurate record of your interactions with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation.
+
+### Other Websites
+
+You should be aware that hyperlinks on our Sites and Apps may direct you to other websites that we do not control. These websites may be subject to a different privacy statement. Leidos is not responsible for the privacy practices or the content of websites to which we link, list, rank, or identify by means of a search. Leidos takes no responsibility for the products, services, policies, or actions of third parties or the content of third-party websites. We encourage you to be aware when you are leaving our Sites and Apps and to read the privacy policies of each website you visit.
+
+### Additional Rights under Local Laws (Depending on Where You Live)
+
+Depending on where you live, local laws may require that we provide you with additional notices and rights. These rights may include:
+
+- the right to access your Personal Information;
+
+- the right to delete your Personal Information;
+
+- the right to data portability;
+
+- the right to correct your Personal Information;
+
+- the right to restrict our processing of your Personal Information;
+
+- the right not to be subject to automatic decision-making;
+
+- the right to know what Personal Information we collect;
+
+- the right to opt-out of sales or sharing of your Personal Information;
+
+- the right to opt-out of processing for targeted advertising;
+
+- the right to opt-out of processing for profiling;
+
+- the right to know the categories of Personal Information being processed;
+
+- the right to know the specific pieces of Personal Information being processed;
+
+- the right to limit our processing of Sensitive Personal Information; and
+
+- the right to withdraw your consent to our processing of Personal Information.
+
+You may also have the right to object to our processing of your Personal Information in certain circumstances.
+
+If you are a resident of the European Union (“EU”), the European Economic Area (EEA), or the United Kingdom (“UK”), please refer to the "Additional Information for residents of the EU, EEA and UK" section below to learn more about the rights available to you under local law. If you are a resident of California, please visit our California Privacy Notice for more information about our processing of your Personal Information and your rights under California law. Individuals who reside in a country, state, or other jurisdiction with a law that provides for data subject rights may submit a request to exercise these rights by completing Leidos’ Privacy Rights Request Form.
+
+### Additional information for residents of the EU, EEA and UK
+
+This section applies to you if are a resident of the EU, EEA or UK.
+
+We rely on the following lawful bases for processing Personal Information:
+
+| How we use Personal Information | Categories of Personal Information used | Lawful basis
+
+| To communicate with you about our products and services that you have shown an interest in. | Contact Information, Professional Information and Questions and Comments. | Our legitimate interests, namely communicating with prospective customers.
+
+| To send you advertising and marketing messages. | Contact Information and Professional Information. | Our legitimate interests, namely promoting our products and services, or consent where required under applicable law.
+
+| To conduct interest-based advertising. | Network Information, Usage Information and Analytics Data. | Consent.
+
+| To provide you with access to our services and content on our Sites and Apps. | Contact Information, Network Information, Usage Information. | Performance of a contract with you or, if our services are provided under a contract with someone else, our legitimate interests, namely performing our obligations under that contract.
+
+| To manage our contractual relationship with you or the company you work for. | Contact Information and Professional Information. | Performance of a contract with you or, if our services are provided under a contract with someone else, our legitimate interests, namely managing our relationship under that contract.
+
+| To conduct research, analytics and development. | Network Information, Usage Information and Analytics Data. | Consent.
+
+| Questions and Comments | Our legitimate interests, namely informing our product development and improvement.
+
+| To identify and address bugs or system errors. | Network Information, Usage Information and Analytics Data. | Consent.
+
+| Questions and Comments. | Our legitimate interests, namely informing our product development and improvement.
+
+| To protect the security and integrity of our systems and facilities, including protecting our systems from and investigating malicious or unauthorized activity. | Network Information, Usage Information and Analytics Data. | Our legitimate interests, namely ensuring the security and integrity of our systems.
+
+| To protect the safety of our guests, employees and visitors to our facilities. | Contact Information, Professional Information and Visitor Information. | Our legitimate interests, namely protecting the safety of our facilities and visitors.
+
+| To conduct internal auditing. | Contact Information, Professional Information. | Our legitimate interests, namely ensuring the accuracy of our accounts and record keeping.
+
+| To protect our property and enforce our rights. | Contact Information, Professional Information, Usage Information, Network Information and Visitor Information. | Our legitimate interests, namely protecting and enforcing our rights.
+
+| To schedule appointments and for related administrative purposes. | Health Care Provider Information and Medical Evaluation Information. |
+
+Performance of a contract with you or, if our services are provided under a contract with someone else, our legitimate interests, namely performing our obligations under that contract.
+
+The additional condition we rely on for processing any health data is that processing is necessary for the purposes of preventive or occupational medicine, the provision of health or social care or treatment or the management of health or social care systems and services.
+
+| For a health care provider to perform an evaluation. | Health Care Provider Information and Medical Evaluation Information.
+
+In accordance with applicable privacy law, you have the following rights in respect of your Personal Information that we hold:
+
+- Right of access. You have the right to obtain:
+
+- confirmation of whether, and where, we are processing your personal information;
+
+- information about the categories of personal information we are processing, the purposes for which we process your personal information and information as to how we determine applicable retention periods;
+
+- information about the categories of recipients with whom we may share your personal information; and
+
+- a copy of the personal information we hold about you.
+
+- Right of portability. You have the right, in certain circumstances, to receive a copy of the personal information you have provided to us in a structured, commonly used, machine-readable format that supports re-use, or to request the transfer of your personal information to another person.
+
+- Right to rectification. You have the right to obtain rectification of any inaccurate or incomplete personal information we hold about you without undue delay.
+
+- Right to erasure. You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified.
+
+- Right to restriction. You have the right, in some circumstances, to require us to limit the purposes for which we process your personal information if the continued processing of the personal information in this way is not justified, such as where the accuracy of the personal information is contested by you.
+
+- Right to object. You also have a right, in some circumstances, to object to any processing based on our legitimate interests. There may, however, be compelling reasons for continuing to process your personal information, and we will assess and inform you if that is the case.
+
+If you wish to exercise one of these rights, please submit your request using the Privacy Rights Request Form, identifying the rights you wish to exercise in the "Additional Details" box.
+
+### International Data Transfer
+
+Leidos operates all over the world, but it is headquartered in the United States. If you use a Leidos Site or App, your Personal Information may be transferred to or accessible by individuals working in the United States. It may also be stored and processed in any other country where Leidos or its affiliates, subsidiaries, or service providers have facilities. The data protection authority in your jurisdiction may not have determined that these countries have an adequate level of data protection. When we transfer your Personal Information from your jurisdiction to such countries, we use a variety of legal mechanisms, including contracts and written assurances from service providers, to help ensure your rights and protections travel with your Personal Information.
+
+If you are in the EU, EEA or UK, we ensure that any transfers are:
+
+- to recipients in countries deemed to provide adequate protection for personal data as set out in a decision of the European Commission, the UK Data Protection Act 2018 and regulations made by the UK Secretary of State; and/or
+
+- subject to standard contractual clauses approved by the European Commission and standard clauses approved by the UK government.
+
+Where required under applicable law, by continuing to use Leidos Sites and Apps, you authorize Leidos and its service providers to transfer your Personal Information to – or make it available in – destinations outside your home country and to process it according to this Statement.
+
+By continuing to use Leidos Sites and Apps, you authorize Leidos and its service providers to transfer your Personal Information to – or make it available in – destinations outside your home country and to process it according to this Statement. You may contact us at [email protected] for more information about the safeguards used to protect your privacy if we transfer your Personal Information outside of your country of residence.
+
+### Questions and Complaints
+
+If you have any questions, complaints, or wish to send us comments about this Statement, please send an e-mail to [email protected]. We will investigate your complaint and respond as soon as possible.
+
+If you submit a complaint that relates to processing of Customer Data, Leidos will communicate your complaint to the relevant customer for a response (unless it has been agreed otherwise with such customer).
+
+### Right to Lodge a Complaint with your Local Supervisory Authority
+
+You may also have a right to file a complaint with your local supervisory authority if you have concerns about how we are processing your Personal Information. We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. If you need assistance identifying the appropriate supervisory authority, you can request assistance by sending an email to the email address provided above.
+
+### Changes to this Privacy Statement
+
+We may update this Statement periodically. We will notify you of any changes by posting the new Statement at leidos.com/privacy, and we will change the "Last Updated" date above. You should consult this page regularly for any changes.
+
+If you expand the + symbol next to the dates below, you will see a summary of the recent substantive changes to this Statement and the dates these updates came into effect.

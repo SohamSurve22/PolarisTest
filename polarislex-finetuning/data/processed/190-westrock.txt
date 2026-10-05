@@ -1,0 +1,323 @@
+# Smurfit Westrock Privacy Notice
+
+#### 1. About this Privacy Notice
+
+The Smurfit Westrock domain (“www.smurfitwestrock.com”) is operated by Smurfit Westrock plc (“Smurfit Westrock”, “Group”, “we”, “us” or “our”). In this Privacy Notice, your personal data means any information which Smurfit Westrock processes about you from which you can be directly or indirectly personally identified (“Personal Data”). This Privacy Notice applies to Personal Data that we and/or on our behalf by our third-party service providers collected and process in the course of your dealings with us. Smurfit Westrock acts as data controller in this regard and your Personal Data will be under the responsibility of the Group.
+
+Smurfit Westrock plc is a global company with locations around the world. As part of our global approach, we endeavor to adopt consistent approaches to our processing of Personal Data to the extent possible. Depending on the region in which you are located, the entities within the Group have established procedures in place to ensure that your Personal Data is protected.
+
+Controller Contact Details
+
+Smurfit Westrock plc is the Controller for the processing activities identified in this Notice. If you have any questions about this Privacy Notice, please contact the Smurfit Westrock Privacy Office at globalprivacy@smurfitwestrock.com
+
+#### 2. How We Collect Your Personal Data
+
+i). Information you provide to us:
+
+We will collect and store any information you provide to us when you:
+
+- have opted-in for marketing and / or business communications;
+
+- communicate with us via email, phone, post, online forum, or chats
+
+- use our website to access our services;
+
+- use our social media accounts;
+
+- invest in our group;
+
+- are an existing Smurfit Westrock customer or supplier; and
+
+- access our vendor portal.
+
+ii) Other Information we collect:
+
+- when you visit our website we collect cookie data
+
+#### 3. Categories of Personal Data Collected
+
+Please find listed below details of categories of Personal Data that we collect in connection with our domain and the relevant activities listed below. Smurfit Westrock acts as controller with respect to this Personal Data.
+
+WHEN YOU OPT-IN TO OUR MARKETING AND/OR COMMUNICATIONS
+
+i) CONTACT DETAILS
+
+- Personal data we collect: Name, Email address, Telephone number and Address
+
+- Description: We process this information when you agree to receive marketing or other communications from us
+
+ii) EMPLOYMENT DETAILS
+
+- Personal data we collect: Company and location
+
+- Description:
+
+iii) BUSINESS ACTIVITIES AND INTERESTS
+
+- Personal data we collect: Area of Interest and Marketing Preferences
+
+- Description: We process this information when you agree to receive marketing or other communications from us
+
+iv) CONTENTS OF COMMUNICATIONS
+
+- Personal data we collect: Content of Messages, Emails, Faxes, Invoices and Purchase Orders
+
+- Description: We process this information when you agree to receive marketing or other communications from us
+
+WHEN YOU USE OUR WEBSITE
+
+i) DEVICE/IP DATA
+
+- Personal data we collect: IP address, Operating System, Browser information, Internet Service Provider, URLs of Pages Visited, Device Identifiers, Time and Date of Access
+
+- Description: This information is collected through the settings on our website. See Smurfit Westrock's Cookie Policy.
+
+WHEN YOU USE OUR SOCIAL MEDIA ACCOUNTS
+
+- Personal data we collect: Name, Email Address, Telephone Number and Social Media Handle
+
+- Description: We process this information when you interact with our social media accounts to enable communication.
+
+ii) LOCATION DETAILS
+
+- Personal data we collect: Location and Country
+
+iii) EMPLOYMENT DETAILS
+
+- Personal data we collect: Job Title, Company and Area of Interest
+
+iv) CONTENTS OF COMMUNICATIONS
+
+- Personal data we collect: Content of Messages, Emails, Communication sent through Social Media.
+
+IF YOU ARE A SMURFIT WESTROCK CUSTOMER OR SUPPLIER
+
+- Personal data we collect: Name, Email Address, Telephone Number, Postal address and other information to communicate with you.
+
+- Description: This information is collected to process and deliver your order, enable payments, or conduct business with you.
+
+ii) EMPLOYMENT DETAILS
+
+- Personal data we collect: Name of Employer, Job Title, Managers and Associates
+
+- Description: This information is collected to process and deliver your order, enable payments, or conduct business with you.
+
+iii) PAYMENT INFORMATION
+
+- Personal data we collect: Name of Employer, Job Title, Managers and Associates
+
+- Description: This information is collected to process and deliver your order, enable payments, or conduct business with you.
+
+IF YOU USE OUR VENDOR PORTAL OR HOLD AN ONLINE ACCOUNT
+
+i) SUPPLIER DETAILS
+
+- Personal data we collect: Name, Address, Tax Identification Number
+
+- Description: We process this information, collected through our system, vendor portal, or online account, when you create and interact with such systems.
+
+ii) SUPPLIER BANK DETAILS
+
+- Personal data we collect: Bank Name, Account Number, IBAN Bank Account key
+
+- Description: We process this information, collected through our system, vendor portal, or online account, when you create and interact with such systems.
+
+iii) EMPLOYMENT DETAILS – CONTACT PERSON
+
+- Personal data we collect: Name, Telephone, Email Address and Job Title
+
+- Description: We process this information, collected through our system, vendor portal, or online account, when you create and interact with such systems.
+
+iv) ONLINE ACCOUNT CREDENTIALS AND USAGE DATA
+
+- Personal data we collect: Username, Password and Device Usage Data
+
+- Description: We process this information, collected through our system, vendor portal, or online account, when you create and interact with such systems.
+
+IF YOU ARE AN INVESTOR IN OUR GROUP
+
+- Personal data we collect: Name, Email Address, Telephone Number and Address
+
+- Description: We process this information, collected through the investment process, to contact you or mail information to you.
+
+#### 4. Purposes for Processing Personal Data
+
+If you are from a jurisdiction that requires a legal basis for processing your Personal Data (such as the EU or the UK), our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it. We will only process your Personal Data if we have a lawful basis for doing so.
+
+The lawful bases are explained below:
+
+i. Performance of a Contract: When it is necessary for Smurfit Westrock to process your Personal Data to
+
+- Comply with legal obligations under a contract with you. This includes our obligations under the terms and conditions of your order, or
+
+- To verify information before entering into a contract with you.
+
+ii. Legitimate Interest: Where Smurfit Westrock has an interest in using your Personal Data in a certain way, which is necessary and proportionate in light of improving our customer experience and audience & targeting.
+
+iii. Consent: When Smurfit Westrock asks you to actively indicate your agreement to our use of your Personal Data for a certain purpose.
+
+iv. Compliance with Legal Obligations: When Smurfit Westrock must process your Personal Data to comply with a law.
+
+Listed below are details how Smurfit Westrock will use your Personal Data and the accompanying lawful basis.
+
+A) PROVISION OF GOODS
+
+To provide Goods in accordance with our contract with you. For example, when we use your Personal Data to i) confirm your order; ii) fulfill your order.
+
+- Legal basis: Performance of a Contract, Legitimate Interest in communications and business operations
+
+- Categories of personal data processed: Contact Data, Telephone Number, Business Address, Business Email Address, Employer
+
+B) USE OF OUR VENDOR PORTAL OR WEBSITE PORTALS AND ACCOUNTS
+
+To provide access to and use of our portals and accounts.
+
+- Legal basis: Legitimate Interest including to provide an efficient way of communicating with our customers/suppliers and administering the customer/supplier relationship
+
+- Categories of personal data processed: Name of the supplier, Address, Contact Details, Content of Communications, Bank Details, Bank Name, Account Number, IBAN, Bank Account key, Tax Identification Number. Mandatory Attachments include Legal Representative ID (copy), Company registration document, Bank Letter / Statement, Company Tax ID document (copy) and Letterhead.
+
+C) NETWORK AND INFORMATION SECURITY MONITORING
+
+To ensure the safety of our environment and provide effective platforms to interact with you
+
+- Legal basis: Legitimate Interest in network and information security
+
+- Categories of personal data processed: IP address Location, Operating System Browser, URLs of Pages Visited, Device Identifiers
+
+D) PAYMENT PROCESSING
+
+To process your payment to Smurfit Westrock
+
+- Legal basis: Performance of a Contract
+
+- Categories of personal data processed: Payment Information
+
+E) MARKETING
+
+For marketing, promotion and advertising purposes where the law requires us to collect your consent. For example, when the law requires consent for email marketing.
+
+- Legal basis: Consent, Legitimate Interest
+
+- Categories of personal data processed: Contact Details, Advertising Preferences
+
+F) INFORMATION PROVIDED ON A VOLUNTARY BASIS
+
+To provide certain voluntary services as part of your Smurfit Westrock experience. When this is the case, we will ask for your consent. For example, when we use your Personal Data to i) develop and maintain relationships with you, or ii) to monitor and analyze your interest in the marketing material we send you.
+
+- Legal basis: Consent, Legitimate Interest, including to provide our goods
+
+- Categories of personal data processed: IP address Location, Operating System Browser, URLs of Pages Visited, Device Identifiers
+
+G) LEGAL CLAIMS
+
+To establish, exercise or defend legal claims. For example, if we are involved in litigation and we must provide information to our lawyers in relation to that legal issue.
+
+- Legal basis: Legitimate Interest, including to seek legal advice and to protect ourselves, our clients or others in legal proceedings
+
+- Categories of personal data processed: Device/IP Data, Contact Data, Identifier(s), Payment Information, Contact Details, All Relevant Information
+
+H) COMPLIANCE WITH LEGAL OBLIGATIONS
+
+To comply with legal obligations we are subject to. For example, to comply with an obligation under the law of the country / region you are in.
+
+- Legal basis: Compliance with Legal Obligations, Legitimate Interest, including compliance with international legal requirements
+
+- Categories of personal data processed: Device/IP Data, Contact Data, Identifier(s), Payment Information, Contact Details , All Relevant Information
+
+I) COMPLIANCE WITH LAW ENFORCEMENT REQUESTS
+
+To comply with a request from law enforcement, courts, or other competent authorities.
+
+- Legal basis: Compliance with Legal Obligations, Legitimate Interest, including to assist law enforcement authorities with prevention or detection of serious crime
+
+- Categories of personal data processed: Device/IP Data, Contact Data, Identifier(s), Payment Information, Contact Details, All Relevant Information
+
+J) RESEARCH AND SURVEYS
+
+To conduct research and surveys. For example, when we contact you to ask for feedback on your experience
+
+- Legal basis: Consent, Legitimate Interest, including to improve our service provision
+
+- Categories of personal data processed: Customer Request
+
+Where required by applicable data privacy laws, we will only use your Personal Data for the purposes for which we collect it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your Personal Data for any other reasonable purposes in connection with our engagement with you, the purpose and legal basis for any other further processing will be notified in advance from time to time.
+
+Where we rely on a legitimate purpose of Smurfit Westrock or a third-party recipient of the personal data in order to use and disclose personal data, you are entitled to object to such use or disclosure and if you do, we will stop processing your personal data for that purpose unless we can show there are compelling legitimate reasons for us to continue to do so.
+
+#### 5. How We Share Your Personal Data
+
+Depending on your relationship with us, we may disclose some or all of your Personal Data to service providers and other parties listed in this section.
+
+Service Providers and Affiliates
+
+We will share Personal Data with our service providers and affiliates so that they can provide services to us. Our service providers help us to provide the website and support our marketing and PR services to you. We carefully select our service providers, and we take corresponding measures to protect your Personal Data when service providers are engaged. Smurfit Westrock may provide the personal information above to the following categories of third parties:
+
+- Vendors performing services on behalf of Smurfit Westrock;
+
+- Vendors offering services to you; and
+
+- Third parties who offer our market services to you.
+
+Legal Obligations
+
+We may share any Personal Data where this is required by law or regulation, or court or administrative order having force of law, or where required by any of Smurfit Westrock’s regulators.
+
+Business Transfers
+
+Your Personal Data may be transferred to a different entity, and our legal or other advisors, if we undergo or evaluate a merger, acquisition, bankruptcy or other transaction (or proposed transaction) in which that entity assumes control of our business or assets of our business (in whole or in part).
+
+#### 6. Transfers of Personal Data
+
+Because of the global nature of our business, your Personal Data may be transferred to Smurfit Westrock affiliate companies, subcontractors, and partners located in countries across the world. We will always take steps to ensure that any international transfer of Personal Data is carefully managed to protect your rights and interests.
+
+Some transfers may be outside of the European Economic Area (“EEA”) or an originating jurisdiction to countries which do not have equivalent protections. For those transfers, Smurfit Westrock’s policy is to implement an appropriate transfer mechanism to protect your Personal Data, including as required by applicable law, standard contractual clauses and appropriate technical, organizational, contractual and/or other lawful measures to protect your personal data.
+
+You have the right to ask us for more information about the safeguards we have put in place (including a copy of the transfer mechanism as mentioned above). Contact us if you would like to receive further information or to request a copy of the relevant safeguard (which may be redacted to ensure confidentiality).
+
+#### 7. Data Security and Retention
+
+We seek to protect your Personal Data from unauthorized access, use, and disclosure using appropriate physical, technical, and organization security measures based on the type of Personal Data and how we are processing that Personal Data.
+
+We retain Personal Data about you for as long as necessary to provide you with our products or marketing purposes. In some cases, we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, to defend a legal claim or is otherwise required by applicable law, rule, or regulation. In general, Smurfit Westrock (or its service providers on its behalf) will retain Personal Data only for as long as is necessary for the purposes provided in this notice in accordance with our retention policy or to meet other legal, regulatory, tax, or accounting requirements.
+
+Any Personal Data is deleted or rendered unavailable as soon as the purpose of processing no longer applies. The data is also rendered unavailable or deleted when a prescribed storage duration mandated by the laws in your jurisdiction expires unless there is a necessity for the continued storage of the data for the conclusion of a contract or the fulfilment of a contract.
+
+#### 8. Your Rights in relation to Personal Data
+
+Under applicable privacy laws, you may have rights over your Personal Data as a data subject. We have set out in this section certain data subject rights under GDPR, which apply to individuals based in the EEA.
+
+i. Request access to your Personal Data. This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+
+ii. Request correction of the Personal Data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+
+iii. Request erasure of your Personal Data. This enables you to ask us to delete or remove Personal Data where there is no good reason for us to continue to process it. You also have the right to ask us to delete or remove your Personal Data where you have exercised your right to object to processing (see below).
+
+iv. Object to processing of your Personal Data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation, which makes you want to object to processing on this ground.
+
+v. Request the restriction of processing of your Personal Data. This enables you to ask us to suspend the processing of your Personal Data, for example if you want us to establish its accuracy or the reason for processing it.
+
+vi. Request the transfer of your Personal Data to another party.
+
+vii. Withdraw your consent at any time if your Personal Data is processed on the basis of consent. If you withdraw your consent, this will not affect the lawfulness of how we used your Personal Data before you withdrew consent.
+
+viii. Lodge a complaint with a competent supervisory authority if you consider that the processing of your Personal Data infringes applicable law. We request that you contact us in the first instance so that we can respond to your complaint. The contact details are available here: https://edpb.europa.eu/about-edpb/about-edpb/members_en.
+
+You can request to exercise the rights above by contacting us using the details below. Your rights will in each case be subject to the restrictions set out in applicable data protection laws. Further information on these rights, and the circumstances in which they may arise in connection with our processing of your Personal Data, can be obtained by contacting our Data Protection Representative in writing to globalprivacy@smurfitwestrock.com.
+
+#### 9. Changes to this Privacy Notice
+
+We constantly try to improve our services, so we may need to change this Privacy Notice from time to time to reflect changes in technology, law, business operations, or any other reason we determine is necessary or appropriate.
+
+If we decide to use your Personal Data in a manner significantly different from that stated in this notice, or otherwise disclosed to you at the time it was collected, we will notify you by e-mail or post, or we will post an updated version of this notice with a revised “Last Updated” date included. In certain circumstances, you may have a choice as to whether or not we use your Personal Data in the new manner.
+
+#### 10. Contact Information
+
+If you have any questions or queries about this Privacy Notice, the ways in which we collect and use your Personal Data or your choices and rights regarding such collection and use, please do not hesitate to contact us at globalprivacy@smurfitwestrock.com.
+
+Alexa Limeres serves as the Data Protection Officer in Canada and Brazil. You may contact her via email at globalprivacy@smurfitwestrock.com.
+
+Last Updated: July 1, 2024
+
+## SPECIAL NOTICES
+
+-

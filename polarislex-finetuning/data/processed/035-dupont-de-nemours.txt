@@ -1,0 +1,385 @@
+# PRIVACY STATEMENT
+
+LAST UPDATED: December 1, 2025
+
+DuPont de Nemours, Inc. and its affiliates (“DuPont”, “we”, “our”, “us”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. Together with DuPont’s Global Information Privacy Policy, this Privacy Statement describes DuPont’s practices in connection with information that we collect through the website or mobile application owned and controlled by DuPont from which you are accessing this Privacy Statement (respectively, the “Site” and the “App”), as well as offline where notice is legally required. By providing Personal Information to DuPont, you agree to the terms and conditions of this Privacy Statement.
+
+If you apply for a job through the Site, DuPont’s use of the Personal Information you provide through the Career Center is governed by the DuPont Applicant Notice which can be found when applying for a job on-line at the Career page of dupont.com. If you are an employee, your Personal Information is governed by the Employee Personal Information Protection Notice, which is available to you by contacting local Human Resources. If you are making a report about any suspected violations of relevant laws or regulations by our personnel, DuPont’s use of Personal Information will be governed by the DuPont Ethics Hotline Data Protection & Privacy Notice which can be found by accessing the Ethics Hotline Web Portal at the Ethics Hotline page of dupont.com (Home | DuPont).
+
+## PERSONAL INFORMATION
+
+Personal Information DuPont Collects
+
+“Personal Information” is information that identifies you as an individual or relates to you as an identifiable individual. In some jurisdictions, some Personal Information DuPont processes may be considered “sensitive personal information” (also known as “sensitive personal data” or “special category data” in some jurisdictions). DuPont collects and processes the following types of Personal Information:
+
+- Name;
+
+- Postal address (including billing and shipping address);
+
+- Telephone and/or fax number;
+
+- Email address;
+
+- Credit card number;
+
+- National ID number, such as Social Security Number;
+
+- Company issued ID number;
+
+- Passwords and reminder questions/answers;
+
+- IP address (to the extent it is considered Personal Information under applicable laws);
+
+- Location of device data (to the extent it is considered Personal Information under applicable laws); and
+
+- Web browsing information (to the extent it is considered Personal Information under applicable laws).
+
+We will only collect and process Personal Information if we have a legal basis of doing so under applicable data protection or privacy laws (e.g. if we have a legitimate interest, if we enter into a contractual relationship/initiation of a contract, or if we have your consent to do so).
+
+DuPont collects Personal Information when you participate in various opportunities that we provide, for example:
+
+- When you order a product or service, or make a request;
+
+- When you register your purchase of a product;
+
+- When you submit a warranty card;
+
+- When you register for subscriptions, technology forums or other communications through the Site or App;
+
+- When you participate in a contest, promotion, sweepstakes, survey or other promotion;
+
+- When you participate in a blog or forum;
+
+- When we conduct market research, meet you at a trade show or other event.
+
+We need to collect Personal Information in order to provide requested services and products to you. You need to carefully consider whether your Personal information should be disclosed to us. If you do not provide the information requested by us, we may not be able to provide the assistance you request from us. If you disclose any Personal Information relating to other people directly to us or to our service providers in connection with our products and/or services, you represent and warrant that you have the authority to do so (including, where required under applicable laws, obtained the relevant consent) and to permit us to use the information in accordance with this Privacy Statement.
+
+We may combine Personal Information that we collect about you with Personal Information you provide to DuPont through other sources, such as product registrations, inquiries or marketing events. We will use the combined Personal Information in accordance with this Privacy Statement for as long as it is combined.
+
+How We Use Personal Information
+
+We and our service providers use Personal Information for our business purposes, including to:
+
+- Fulfill your purchases and respond to your requests and inquiries
+
+-Process your business’ payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+
+- Send you important information regarding the Site or App, changes to DuPont’s terms, conditions and policies and/or other administrative information.
+
+-Allow you to communicate and interact with others through the Site or App (for example through a blog, message board, messaging functionality, chat functionality, profile or other social media). By using this functionality, you represent and warrant that you have the authority (including, where required under applicable laws, obtained the relevant consent) to use and provide to DuPont your friend’s name, email address and social media account information.
+
+We will engage in these activities: (i) to manage our contractual relationship with you; (ii) to comply with a legal obligation; and/or (iii) (where required under applicable data privacy laws) only with your consent to do so.
+
+- Send you email alerts, text messages and other written or electronic communications
+
+We will engage in these activities: (i) to manage our contractual relationship with you; (ii) to comply with a legal obligation; and/or (iii) (where required under applicable data privacy laws) only with your consent to do so.
+
+- Personalize your experience by presenting products and offers tailored to you
+
+- To better understand you and personalize our interactions with you.
+
+- Send marketing communications that we believe may be of interest to you, including information about trade shows.
+
+We will engage in this activity with your consent or where we have a legitimate interest.
+
+- Allow you to sign up for contests, technology forums and other activities
+
+- Allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+
+- Permit you to register and participate in technology forums and other events with DuPont.
+
+We will use Personal Information in this way to manage our contractual relationship with you or with your consent.
+
+- For data analysis, audits, researching and developing new products, enhancing DuPont’s Site and App, improving DuPont’s services, developing marketing events and identifying usage trends.
+
+We will engage in these activities: (i) to manage our contractual relationship with you; (ii) to comply with a legal obligation; (iii) to determine the effectiveness of marketing activities; (iv) (where required under applicable data privacy laws) only with your consent; and/or (v) because we have a legitimate interest to do so.
+
+We may also use Personal Information as we believe to be necessary or appropriate (and, in some jurisdictions, we may not be required to obtain your consent): (a) to comply with applicable laws, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including those outside your country of residence; (d) to enforce DuPont terms and conditions; (e) to protect DuPont's operations; (f) to protect DuPont’s rights, privacy, safety or property, you or others; and/or (g) to allow DuPont to pursue available remedies or limit the damages that we may sustain.
+
+How Personal Information is Disclosed
+
+Your Personal Information may be disclosed:
+
+- Within the DuPont Group of Companies for the purposes described in this Privacy Statement.
+You may obtain a list of DuPont’s significant subsidiaries attached as an exhibit to DuPont’s annual report (form 10k) in the US SEC’s site: EDGAR Search Results (sec.gov). The locations of DuPont’s subsidiaries may be found at DuPont Offices and Locations | DuPont.
+
+The local affiliate with whom you are interacting are each responsible for the management of the Personal Information which it processes for its own purposes.
+
+- To DuPont’s third party service providers.
+
+These third parties provide services such as website hosting, data analysis, payment processing, order fulfillment, product distribution, infrastructure provision, IT services, customer service, email delivery services, credit card processing for your business, auditing services and other similar services to enable them to provide services.
+
+- To third parties such as agents, retailers and distributers to facilitate the sale and distribution of DuPont products and services, which may include marketing communications consistent with your choices.
+
+- To third party sponsors of sweepstakes, contests and similar promotions.
+
+- To a third party that may offer you credit to purchase products or services offered by DuPont.
+
+- To identify you to anyone to whom you send messages through the Site.
+
+- To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of DuPont business, assets or stock including in connection with any bankruptcy or similar proceedings.
+
+- To third parties whom we work with in connection with our licensing, joint development or similar arrangements with such third parties.
+
+- By you, when you participate in features on a DuPont Site or App that provide the opportunity to interact with DuPont and others (for example a blog, message board, messaging functionality, chat functionality, profile or other social media).
+
+When you use these features you should be aware that any information you submit, including your name, location and email address, may be publicly available to others. We are not responsible for any information you choose to submit through these features and we strongly discourage you from disclosing any sensitive Personal Information (such as health or credit card information) through these features. If you use these features, your Personal Information may remain on the Site or App even after you cease use of the Site or App.
+
+We may also disclose Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including those outside your country of residence; (d) to enforce DuPont terms and conditions; (e) to protect DuPont operations; (f) to protect DuPont rights, privacy, safety or property, you or others; and (g) to allow DuPont to pursue available remedies or limit the damages that we may sustain.
+
+We do not sell consumer personal information to third parties.
+
+## OTHER INFORMATION
+
+Other Information We Collect
+
+“Other Information” is any information that does not reveal your specific identity or relate to you as an identifiable individual.
+
+Other Information includes:
+
+- Browser information;
+
+- Information collected through cookies, pixel tags and other technologies;
+
+- Demographic information and other information provided by you;
+
+- Aggregated information.
+
+However, in some jurisdictions, such Other Information may be considered Personal Information, in which case we shall process such Personal Information in accordance with this Privacy Statement.
+
+How We Collect Other Information
+
+DuPont and DuPont’s third party service providers may collect Other Information in a variety of ways, including:
+
+- Through your browser or device
+Certain information is collected by most browsers and devices, such as your Media Access Control (MAC) address, computer type, screen resolution, operating system version, device manufacturer and model and Internet browser type and version.
+
+- Through your use of an App
+When you download and use an App, we and our service providers may track and collect App usage data, such as your location, or the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+
+- Through your use of an App, connected device or vehicle, including unmanned aerial vehicles
+The physical location of your device and its associated date and time is collected by satellite, cell phone tower, Wi-Fi signals or other technologies. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our partners may not be able to provide you with the applicable personalized services and content.
+
+- From you
+Information such as your location as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site or App.
+
+- By aggregating information
+Aggregated Personal Information does not personally identify you or any other user of the Site or App. For example, we may use Personal Information to calculate the percentage of DuPont users who have a particular telephone area code.
+
+Please read our Cookie Policy to learn how we and our service providers use cookies and similar tracking technologies including to serve interest-based advertising to you.
+
+How We Use and Disclose Other Information
+
+Because Other Information does not personally identify you, we may use and disclose Other Information for any purpose. If we are required to treat Other Information as Personal Information under applicable law, then we use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Statement.
+
+## IP ADDRESSES
+
+Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).
+
+How We Collect IP Addresses
+
+An IP Address is identified and logged automatically in DuPont server log files whenever a user visits the Site, along with the date and time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
+
+How DuPont Uses and Discloses IP Addresses
+
+DuPont uses IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, administering the Site and presenting content that is tailored to your country. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Other Information, except where we are required to do otherwise under applicable law and classify it as Personal Information, in which case we shall process the IP Addresses in accordance with this Privacy Statement.
+
+## THIRD PARTY SITES
+
+This Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which the Site or the App contains a link. The inclusion of a link on the Site or the App does not imply endorsement of the linked site by DuPont. We are not responsible for the information collection, use, disclosure or security policies or practices of any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps.
+
+## DO NOT TRACK
+
+DuPont does not currently respond to browser do-not-track signals.
+
+## SECURITY
+
+DuPont uses reasonable organizational, technical and administrative measures to protect Personal Information under DuPont control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you suspect or have reason to believe that your interaction with DuPont is no longer secure, immediately notify us of the problem by any means described in the “Contacting DuPont” section below.
+
+## CHOICES AND ACCESS
+
+Your choices regarding DuPont’s use and disclosure of your Personal Information
+
+DuPont gives you many choices regarding our use and disclosure of your Personal Information for marketing purposes. To opt-out from receiving future electronic marketing messages and request that we not share your Personal Information with unaffiliated third parties for their marketing purposes, please see “Contacting DuPont” below.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from DuPont, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+How you can access, change or suppress your Personal Information
+
+If you would like to request to review, correct, update, suppress or delete, or object to, restrict or otherwise limit DuPont’s use of, your Personal Information that has been previously provided to DuPont, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), or exercise other data subject rights to which you are entitled under data privacy or protection laws in your jurisdiction, please see “Contacting DuPont” below.
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from a DuPont database or otherwise let DuPont know what limitations you would like to put on DuPont’s use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
+
+## RETENTION PERIOD
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or allowed by law.
+
+The criteria used to determine our retention periods include:
+
+- The length of time we have an ongoing relationship with you and provide requested services to you;
+
+- Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them);
+
+- Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations);
+
+- Upon your request or objection, provided there are no overriding legal grounds requiring DuPont to maintain that information; and/or
+
+- If our data collection was based on your consent and you revoke it.
+
+## USE OF SITE BY CHILDREN
+
+DuPont is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. DuPont does not target the Site or the App to children less than sixteen (16) years of age or knowingly collect Personal Information from children for the purpose of selling products or services.
+
+DuPont may, from time to time, participate in select educational programs such as science and environmental awareness in support of schools and communities.
+
+## CROSS-BORDER TRANSFER
+
+Your Personal Information may be stored and processed in any country where we have facilities or where we have engaged a service provider, including to the United States, which may have different data protection rules than in your country.
+
+If you are located in the European Economic Area (EEA): Some non-EEA countries are recognized by the European Commission (EC) as providing an adequate level of data protection according to EEA standards (see the full list of countries).For transfers from the EEA to countries not considered adequate, we have put in place adequate measures, such as standard contractual clauses adopted by the EC to protect your Personal Information. You may obtain a copy of these measures by “Contacting DuPont” (see below).
+
+DUPONT’S USE OF ANALYTICS
+
+We use Adobe Analytics, or potentially other analytical tools such as ScanTrust, etc., which uses cookies and similar technologies to collect and analyze information about your use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources.
+
+We also use this other information for purposes such as calculating Site usage levels, helping diagnose server problems, administering the Site and presenting content that is tailored to your country.
+
+Please be aware that, in some jurisdictions, such non-personal, other information may be considered personal information, in which case we shall process such personal information in accordance with this Privacy Statement.
+
+## SENSITIVE INFORMATION
+
+We ask that you not send DuPont, and you not disclose, any sensitive Personal Information (as defined under applicable laws) (for example, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or App or otherwise to DuPont, unless you are required to provide such sensitive Personal Information to us in order to receive the benefit of our products or services.
+
+## AUTOMATED DECISION MAKING
+
+For the purposes of this Privacy Statement, “Automated Decision Making” means the use of computer programs or algorithms to automatically analyze or assess personal behaviors, habits, interests or hobbies, or financial, health, credit or other statuses, and make automated decisions based on such analysis or assessment.
+
+From time to time we may process your IP address, location, cookies or previous browsing behavior data through Automated Decision Making for the purpose of enhancing your browsing experience at our Sites, and tailor the content we present to you to better match your preferences and interests.
+
+You may have certain rights under applicable data protection or privacy laws in respect of Automated Decision Making, such as the following
+
+- where we process your Personal Information through Automated Decision Making to send direct marketing messages or push notifications to you, you have the right to opt-out from such Automated Decision Making processing; and
+- where the decision made through the Automated Decision Making has a material impact on your personal interest, you also have the right to request for an explanation of such decision, and the right to refuse our processing through Automated Decision Making.
+
+If you have any queries or if you would like to exercise your rights with regards to Automated Decision Making, please contact us as set out under “Contacting DuPont” (see below).
+
+## UPDATES TO THIS PRIVACY STATEMENT
+
+We may change this Privacy Statement. View the “LAST UPDATED” legend at the top of this page to see when this Privacy Statement was last revised. Any changes to this Privacy Statement will become effective when we post the revised Privacy Statement on the Site or App. Your use of the Site or App following these changes means that you accept the revised Privacy Statement, except in the case where we are required to first obtain your consent under applicable laws, in which case you will have accepted the revised Privacy Statement upon giving us your consent.
+
+## CONTACTING DUPONT
+
+If you have questions about this Privacy Statement, please contact: [DK1]
+
+David Kahng
+
+Chief Privacy Officer
+
+Phone Number: 302-256-2642
+
+david.b.kahng@dupont.com
+
+DuPont
+
+Chestnut Run Plaza, Legal Department
+
+974 Centre Road
+
+Wilmington, DE 19805
+
+USA
+
+## ADDITIONAL INFORMATION FOR THE EEA
+
+In the EEA, you may lodge a complaint with the data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available on the European Commission’s website.
+
+## ADDITIONAL INFORMATION FOR BRAZIL
+
+Brazilian Privacy Officer: Allan J Gorham
+
+Email address: dpo@dupont.com
+
+DuPont and its affiliates may transfer and store Personal Data on servers located in other countries, including the United States, always in compliance with applicable legislation. These transfers are carried out to support management activities, including human resources and relationships with customers and suppliers. Personal Data is retained only for as long as necessary to fulfill the established purposes or as required by law.
+
+Data may be shared with DuPont affiliated companies and/or third parties, and such transfers are made based on applicable legislation and the Standard Contractual Clauses approved by the National Data Protection Authority (ANPD). These practices ensure the protection of your rights in accordance with the General Data Protection Law (LGPD) and Resolution CD/ANPD No. 19/2024.
+
+You may exercise your rights of access, correction, deletion, portability, among others, through the contact below. Additionally, complaints can be filed directly with the ANPD.
+
+## ADDITIONAL INFORMATION FOR CANADA
+
+Canadian Privacy Officer (including Quebec): Paul Klasios
+
+Email address: Privacy_Canada@dupont.com
+
+## ADDITIONAL INFORMATION FOR GERMANY
+
+Contact details for the German Data Protection Officer: datenschutz@dupont.com
+## ADDITIONAL INFORMATION FOR MAINLAND CHINA (People’s Republic of China)
+
+This section applies to you if are located in Mainland China, and should be read in conjunction with the terms of this Privacy Statement, as set out above.
+
+Controller Entity
+
+The controller entity of your Personal Information are the entities set out further in Appendix 1 below. All references to “DuPont”, “we”, “us”, “our” with respect to Personal Information of individuals located within Mainland China shall refer to the entities mentioned in this paragraph.
+
+Personal Information DuPont Collects
+
+Please see the types of Personal Information listed under the “Personal Information DuPont Collects” section above.
+
+How Personal Information is Disclosed
+
+If applicable, we will only share your Personal Information to third parties for specific purposes where permitted by law or upon your separate consent. If you wish to have more information about the third parties who may process your Personal Information for their own purposes, or if you would like to exercise your statutory rights with respect to those third parties, please contact us as set out in “Contacting DuPont” above.
+
+Cross-Border Transfer
+
+We will only transfer and/or disclose your Personal Information to our affiliates and other third parties (including our service providers) outside Mainland China upon obtaining your separate consent, and in accordance with applicable data protection laws in Mainland China. DuPont may not be able to provide certain services or products to you if we do not carry out such transfer. DuPont has adopted contractual and security measures to protect your relevant rights and interests in relation to the transfer. If you have any queries regarding how we carry out cross-border transfers, or if you would like to exercise your statutory rights with respect to the third parties located outside Mainland China, please contact us as set out under “Contacting DuPont” (see above).
+
+Data Subject Rights
+
+In addition to the data subject rights set out above, you (and your next of kin) are also entitled to additional data subject rights subject to and under applicable data protection laws, including:
+
+- Rights relating to Automated Decision Making. Where Automated Decision Making is involved in processing your Personal Information, you have the right not to be subjected to decisions made merely through Automated Decision Making, including profiling, which produces legal effect for you or has a similar significant effect. If you believe you have been subject to an automated decision which has a material impact on your personal interest, you can contact us and ask us to explain the decision, and you also have the right to refuse the decisions made only through Automated Decision Making methods;
+
+- Right to withdraw consent. We may ask for your consent to process your Personal Information in specific cases. When we do this, you have the right to withdraw your consent at any time. We will stop the further processing as soon as possible after the withdrawal of your consent. However, this does not affect the lawfulness of the processing before consent was withdrawn;
+
+- Right to access, copy, transfer, supplement, delete Personal Information. You have the right to access, copy, transfer, supplement, or delete your Personal Information; and
+
+- Right to require us to explain the rules of our processing of your Personal Information. You have the right to ask us to explain the details of our processing activities in relation to your Personal Information, as well as to restrict such processing.
+
+- Right to deregister the account. You have right the deregister your account and we will terminate our service accordingly.
+
+If you have any queries or if you would like to exercise your statutory rights, please contact us as set out under “Contacting DuPont” (see above).
+
+Retention Period
+
+Generally, we will keep your Personal Information for a period of three (3) years upon the end of your engagement with us, unless a longer retention period is required or allowed by law. Upon expiration of the retention period, Personal Information will be deleted in accordance with applicable laws.
+
+Use of Site by Children
+
+DuPont’s Site or App are not targeted at children less than fourteen (14) years of age and DuPont does not knowingly collect Personal Information from children.
+
+To the extent children’s data will be collected and processed, DuPont will only process personal data of children if there is a legal basis to do so (e.g. if we have obtained consent as required under applicable laws) and in accordance with this Privacy Statement (and any other notices which we are required to provide under applicable laws). Please kindly provide this Privacy Statement to your parents or guardians. We retain our right to reject providing services and products to you if we have no legal basis to do so.
+
+List of DuPont Affiliates in Mainland China
+
+A list of DuPont affiliates in Mainland China are set out as follows. For the contact information for these DuPont affiliates, please see “Contacting DuPont” above.
+Mainland China
+- DuPont (China) Research & Development and Management Company Limited 杜邦（中国）研发管理有限公司
+
+- DuPont (Shenzhen) Investment Co., Ltd. 杜邦（深圳）投资有限公司
+
+- DuPont (Zhangjiagang) Company Limited 杜邦（张家港）有限公司
+
+- DuPont Materials (Wuhan) Co., Ltd. 杜邦材料（武汉）有限公司
+
+- DuPont International Trade (Shanghai) Co., Ltd. 杜邦国际贸易（上海）有限公司
+
+- DuPont Materials Technology (Shanghai) Co., Ltd. 杜邦材料技术（上海）有限公司
+
+- DuPont (Shanghai) Sourcing Center Co., Ltd. 杜邦（上海）采购中心有限公司
+
+- DuPont Specialty Materials (Shanghai) Co., Ltd.  杜邦特种材料（上海）有限公司
+
+- Zhejiang OMEX Environmental Engineering Co., Ltd. 浙江欧美环境工程有限公司
+
+- FilmTec Membrane Technology (Ningbo) Co., Ltd. (in the process of name change) 孚泰可膜科技（宁波）有限公司（更名进程中）

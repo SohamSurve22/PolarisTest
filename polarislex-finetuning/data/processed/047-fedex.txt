@@ -1,0 +1,166 @@
+# FedEx Global Privacy Policy
+
+Global Privacy Policy
+
+Note: The English version of fedex.com global privacy policy govern in the U.S. The Spanish translation is provided as a courtesy. FedEx makes no representation or warranties with regard to the accuracy of the translation.
+
+## Introduction
+
+Purpose
+
+FedEx Corporation (together with its subsidiaries and affiliated companies around the world, “FedEx”) recognizes the importance of having effective privacy protections in place and is committed to compliance with applicable data privacy laws, regulations, internal policies, and standards. These protections form the foundation of a trustworthy company, are necessary to maintain the confidence of customers, employees, and ensure the company’s compliance with applicable laws. The Global Privacy Policy (“Policy”) memorializes FedEx’s commitment to data privacy and establishes proper controls to responsibly handle Personal Data.
+
+Policy Overview
+
+This Policy is based on globally accepted, basic principles of data protection and guides Team Members in the Processing of Personal Data. Team members must follow this Policy and other relevant related FedEx policies, procedures, standards, notices, and guidelines when Processing Personal Data. No affiliated operating company or region may adopt policies inconsistent with this Policy. Supplemental personal data protection requirements for affiliated operating companies or regions may be created with the approval of the FedEx Chief Compliance Officer (“CCO”).
+
+Definitions
+
+Applicable Law — means all applicable laws and regulations relating to the privacy, confidentiality, retention and security of personal data, as may be amended or supplemented.
+
+Personal Data — means any information relating to an identified or identifiable natural person. This could also mean any information that can directly or indirectly be used to identify a natural person, whether that individual is an employee, a customer or employee of a customer, a vendor or employee of a vendor, a job applicant, or any other third party.
+
+Examples of Personal Data:
+
+- Names
+
+- Government-issued identification numbers (social security and driver’s license numbers, etc.)
+
+- Addresses
+
+- Phone numbers
+
+- Email addresses
+
+- Photos or videos
+
+- Data that has been anonymized such that individuals cannot be identified does not constitute Personal Data.
+
+A useful shorthand you can use to help determine whether something
+
+is Personal Data:
+
+Ask yourself, "Can I use this information to identify someone?"
+
+If so, it is likely Personal Data.
+
+Processing — means any operation performed on Personal Data, with or without the use of automated systems, such as to collect, store, organize, retain, archive, record, view, modify, adapt, alter, query, use, retrieve, forward, transmit or combine data. This also includes disposing of, deleting, erasing, destroying or blocking data.
+
+Examples:
+
+- Storing information in databases
+
+- Viewing information stored on another computer or system
+
+- Transferring information from one database to another
+
+Scope
+
+This Policy applies to every officer, director, manager, and employee (collectively, “team member”) of FedEx.
+
+## Policy Details
+
+Team Member Responsibilities
+
+Team members are prohibited from any unlawful and/or unauthorized Processing of Personal Data. Unlawful and unauthorized Processing of Personal Data includes, but is not limited to:
+
+- Any Processing of Personal Data that violates Applicable Law;
+
+- Any Processing of Personal Data that violates FedEx policies, procedures, standards, notices, and guidelines including the Global Privacy Notice, FedEx Binding Corporate Rules, and Information Security Standards;
+
+- Using Personal Data outside of the scope of team members’ employment at FedEx;
+
+- Disclosing Personal Data to unauthorized persons (including team members, customers, vendors, suppliers, contractors, or other individuals who do not have a legitimate need for the Personal Data) or making it available in any other way outside the permitted business use; and
+
+- Any Processing undertaken by a team member that is not part of their legitimate duties.
+
+All team members are responsible for ensuring appropriate safeguards are in place to protect Personal Data. Supervisors must inform their employees at the start of the employment relationship about the obligation to protect Personal Data. This obligation shall remain in force even after employment has ended.
+
+Application of Local Laws
+
+Each affiliated operating company and region is responsible for compliance with this Policy. If there is reason to believe that a local Applicable Law requirement or other legal obligation contradicts the duties under this Policy, the relevant affiliated operating company must inform the CCO. In the event of conflicts between a local Applicable Law requirement and the Policy, FedEx will work to find a practical solution that reconciles these requirements.
+
+Data Protection Principles
+
+Personal Data will be collected, recorded and used in a proper and professional manner, whether the Personal Data is on paper, in computer records or recorded by any other means.
+
+FedEx is accountable for and must be able to demonstrate compliance with the following principles of data protection:
+
+- Fair and Lawful. When Processing Personal Data, the rights of the individual related to their Personal Data must be protected. Personal Data must be collected and Processed fairly and lawfully.
+
+- Purpose Specification. Personal Data can be used or Processed only for the purpose defined at the time of collection and shall not be further used or Processed in any manner incompatible with that purpose. Personal Data may not be collected and stored for potential future use unless allowed by Applicable Law.
+
+- Collection Limitation. FedEx only collects Personal Data necessary to meet the specified purpose at the time of collection and only to the extent allowed by Applicable Law.
+
+- Deletion. Personal Data no longer needed for the purpose specified at the time of collection shall be deleted according to applicable retention schedules unless it is subject to an exception from the Legal Department.
+
+- Data Quality. Personal Data should be accurate, and if necessary, kept up to date.
+
+- Security Safeguards. Personal Data must be protected using technical, managerial and physical security measures against the risk of loss or unauthorized access, destruction, use, modification or disclosure.
+
+- Transparency. Individuals must be notified at the time of collection how their Personal Data is being used or Processed. They must be aware of who is collecting the Personal Data, the purpose for the Processing of the Personal Data and if third parties will Process the Personal Data, that adequate safeguards are in place. All such notices must be approved by the Legal Department.
+
+- Individual Participation. To the extent required by Applicable Law, individuals have a right to access their Personal Data and, where appropriate, to correct or delete it and exercise any other right provided by Applicable Law.
+
+Security and Access
+
+Personal Data must be safeguarded from unauthorized access or disclosure. This applies regardless of whether Personal Data is Processed electronically or in paper form. Team members are expected to follow FedEx Information Security Standards, which can be found by searching keyword “standards.” For example, team members may only have access to Personal Data only as is appropriate for the type and scope of the task in question and based on their job roles and responsibilities. Team members should verify that a vendor, service provider, contractor, or other non-FedEx entity or individual has the proper approvals to Process Personal Data prior to disclosing or providing access to the Personal Data.
+
+Before the introduction of new methods of data Processing, a privacy impact assessment should be performed for new IT systems, which may lead to implementing technical and organizational measures to protect Personal Data.
+
+In the event of suspicious activity, suspected cyberattack, suspected security incident, or possible breach of Personal Data, all FedEx employees must notify Information Security immediately via the Incident Notification Website, keyword “incident,” or email C3@fedex.com to report the incident.
+Data Transferring or Processing by Third Parties
+
+Personal Data may not be transferred to a country outside the country of origin unless the transfer has been approved by the Legal Department, who will ensure an adequate level of data protection or suitable safeguards are in place. If a vendor or third party is engaged to Process Personal Data, a data transfer agreement must be in place with that external provider. An external provider can Process Personal Data only in accordance with instructions from FedEx.
+
+Processing of Special Categories of Personal Data
+
+Special categories of Personal Data that are highly sensitive can be Processed only under certain conditions. These categories include an individual’s racial and ethnic origin, political beliefs, religious or philosophical beliefs, union membership or the health and sexual life of the data subject. Under Applicable Law, further data categories may necessitate special treatment. For Example, Personal Data that relates to a crime can often be Processed under special requirements of a local Applicable Law. Additionally, Leave requests, that include special categories of data, will be handled by local Human Resources and Legal Departments.
+
+If there are plans to implement a new system, procedure or Process that includes Personal Data in a special category, the CCO must be informed in advance.
+
+Review Period
+
+The Policy Owner will review this Policy at least once per fiscal year to ensure relevance, applicability, and alignment with any legal or regulatory obligations of FedEx, or management decisions that could affect this Policy.
+
+Acknowledgement
+
+Team members may be required, from time to time, to attest that they have received a copy of the policy, understand it, and will comply with the policy.
+
+## Policy Compliance
+
+Compliance with this Policy is required. Compliance also includes timely completing any mandatory training and following any procedures that may be issued under this Policy. All managers are responsible within their teams for enforcement and compliance with this Policy, including its communication to their team members, providing all necessary training and/or guidance to assist with the implementation process, and for monitoring compliance with this Policy. Anyone who does not comply with this Policy shall be subject to disciplinary action, up to and including termination.
+
+## Reporting and Anti-Retaliation
+
+If you know or suspect there is a violation of this Policy, speak up and report it to your manager, human resources, legal department, or the FedEx Alert Line.
+
+Go to fedexalertline.com, to report online or find the phone number that applies to your country or territory. In the U.S., the phone number is 1.866.42.FedEx (1.866.423.3339). We prohibit retaliation against anyone who reports a known or suspected violation in good faith. We also prohibit retaliation against anyone who assists in an investigation.
+
+Anyone who is found to have retaliated against a person who, in good faith, has reported a violation of this Policy, or assisted in an investigation, will be subject to discipline, up to and including termination.
+
+## Related Policies and Procedures
+
+- Code of Business Conduct and Ethics
+
+- Information Security Standards
+
+- FedEx HR Employee Privacy Policy
+
+- Your company’s Use of Computer Resources or Acceptable Use of FedEx Technologies Policy
+
+- Your company’s Data Retention and Destruction Schedules
+
+- Keyword “incident”
+
+## Approvals
+
+FedEx Chief Compliance Officer
+
+Policy Adopted Effective: 7 January 2025
+
+## Download global privacy policy
+
+Download FedEx Global Privacy Policy (PDF)
+
+Download FedEx Global Privacy Policy FAQs (PDF)

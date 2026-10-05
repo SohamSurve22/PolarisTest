@@ -1,0 +1,327 @@
+# Privacy Notice
+
+We know that privacy is important to you. Your privacy is important to us too. This Notice explains how Quest Diagnostics and its affiliates (“Quest”, “we”, “our”) collect information from or about you (“you” or “your”) when you visit the websites or any applications, social media networks, interactive features, and other services that link to this Notice (the “Platforms”), and how we use, maintain, protect and disclose that information.
+
+If you are using our Platforms in connection with our HIPAA covered services, please refer to our HIPAA Notice of Privacy Practices, which describes how we use and disclose your protected health information, our legal duties with respect to your protected health information, and your rights with respect to your protected health information and how you may exercise them. In connection with HIPAA covered services, in the event of conflict between this Notice and our HIPAA Notice of Privacy Practices, our HIPAA Notice of Privacy Practices will prevail.
+
+## Information We Collect
+
+We may collect information about you including non-personally identifiable information and/or “Personal Information,” which is information that may identify, relate to, describe, or be capable of being associated with or reasonably linked, directly or indirectly, with a particular identified or identifiable person or household.
+
+Personal Information we might collect includes data such as the following:
+Type of Information
+Categories of Sources
+Business or commercial purposes for collection
+Disclosed for a Business Purpose?
+Third parties to whom Disclosed for Business Purpose
+Identifiers such as a real name, postal address, unique personal identifier, online identifier, Internet Protocol address, signature, email address, account name, or other similar identifiers.
+Direct contact with users through the Platforms, phone, email, web form and social media; collection of IP address from your internet service provider.
+As described below, e.g., to provide you with products and services, for internal purposes, and for search engine optimization and enhancement.
+Yes
+Service providers, marketing and promotional partners, other entities that provide a service directly to you.
+Financial information such as credit card number or debit card number and address or other information related to a billing or payment transaction.
+Direct contact with users through the Platforms, phone, email and social media; from subsidiaries and affiliates and third parties.
+As described below, e.g., to provide you with products, schedule an appointment, or complete transactions, and for internal purposes.
+Yes
+Service providers and affiliates.
+Professional or employment-related information.
+Direct contact with users through the Platforms, phone, email and social media and from service providers assisting in filling open positions.
+To process applications for potential employment and for internal employment and benefit purposes.
+Yes
+Service providers; where permitted or with consent, with third parties such as future employers or pursuant to legal request.
+Commercial information, including products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Platforms, cookies and other tracking technologies, third parties and affiliates such as service providers.
+As described below, e.g., for internal and marketing purposes.
+Yes
+
+| Service providers, analytics, marketing, and promotional partners.
+Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, form submissions, email unsubscribes and subscribes, email engagement or advertisement.
+Platforms.
+As described below regarding cookies, e.g., for internal purposes and for marketing purposes, as described in our Cookie Notice.
+Yes
+Service providers, analytics, marketing, and promotional partners.
+Geolocation data.
+Platforms; e.g. to provide nearby Patient Service Center locations.
+As described below regarding cookies, e.g., for internal, marketing, and other operational and business purposes.
+Yes
+Service providers, marketing and promotional partners.
+Inferences drawn from any personal information collected to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+Direct contact with users through the Platforms, phone, email and social media; cookies and other tracking technologies, third parties and affiliates such as service providers.
+As described below, in order to facilitate more targeted marketing, as well as for internal reporting and analytics purposes.
+Yes
+Service providers, marketing and promotional partners, third parties for operational purposes.
+Quest employee information, including employee identification number, identifiers and address details, contact information, employment details, job location, financial or payroll related information, other potentially sensitive personal information including National or State Identification Numbers for various employment-related purposes or background checks, and dependent information for the administration of certain employee benefits or programs.
+Direct contact with Quest employees and any third-party employee recruitment sources.
+To conduct background checks and for other purposes in the ordinary course of employment (e.g., to facilitate onboarding processes, manage compensation, provide benefits, review performance, etc.).
+Yes
+Service providers, marketing and promotional partners, third parties for operational purposes.
+Sensitive personal information, including driver’s license number, national or state identification number, citizenship status, immigration status, race, national origin, religious or philosophical beliefs, sexual orientation, sex life, precise or specific geolocation, information concerning your health, and genetic information.
+Direct contact with users and Quest employees, or through Platforms (e.g. to provide nearby Patient Service Center locations).
+Internal reporting and analytics purposes, for other purposes in the ordinary course of employment, and to facilitate more targeted marketing.
+Yes
+Service providers, analytics, marketing, and promotional partners, and third parties for operational purposes.
+
+We do not consider Personal Information to include information that can no longer be used to identify a specific natural person, whether in combination with other information or otherwise. For example, de-identified or aggregated consumer information.
+
+Additionally, the following types of information are not considered Personal Information:
+
+- publicly available information from government records; or
+
+- information excluded from the applicable data privacy law’s scope, including but not limited to PHI covered by HIPAA, information derived from PHI that is de-identified in accordance with HIPAA, and personal information we handle in our capacity as a service provider to a business.
+
+If we combine non-personally identifiable information with Personal Information, we will treat such information appropriately, but not all rights may apply to the non-personally identifiable information portion.
+
+## How We Use Personal Information That We Collect for Business or Commercial Purposes
+
+We may use your Personal Information:
+
+- to fulfill the purposes for which the information was provided (e.g., to provide a service or perform on a contract); to identify you in order to respond to requests, provide services or products, personalize information we provide to you, or otherwise as described below;
+
+- to communicate with you about your account or our relationship, such as making announcements about the Platforms or our privacy policies and terms;
+
+- to send push notifications and other information through our Platforms;
+- to design, improve and administer our Platforms;
+
+- to improve our products and services;
+
+- to recruit and evaluate job applicants and candidates for employment and to conduct background checks;
+
+- to engage in the ordinary course of employment (e.g., facilitate onboarding processes, manage compensation, provide benefits, review performance, etc.) and for other internal human resources purposes;
+
+- to audit and measure user interaction with our Platforms, so we can improve the relevancy or effectiveness of our content and messaging;
+
+- to develop and carry out marketing, advertising and analytics;
+
+- to improve and develop search engine optimization/enhancement to help search engines find and display our content more effectively;
+
+- to provide texts or emails containing information about our products or services, or events or news, that may be of interest to recipients, as permitted by law;
+
+- to deliver content and products or services relevant to your interests, including targeted ads on third party sites;
+
+- to detect security incidents or monitor for fraudulent or illegal activity;
+
+- to enable security measures (such as, to protect our Platforms, customers, employees and business partners);
+
+- debugging to identify and repair errors;
+
+- to protect our rights and to protect your safety or the safety of others;
+
+- to investigate fraud or respond to government inquiries;
+
+- to complete corporate transactions (from time to time, we sell, buy, merge or otherwise reorganize our businesses, and these corporate restructurings may involve disclosure of Personal Information to prospective or actual purchasers, or the receipt of it from sellers);
+
+- to comply with laws, regulations or other legal process; or
+
+- otherwise use your Personal Information with your consent.
+
+We may also use your Personal Information to:
+
+- provide you with the services and products you request or that have been ordered and/or requested by your healthcare provider;
+
+- process or collect payments for our services; or
+
+- respond to your questions and otherwise provide support you request.
+
+We may use Precise Location Data from your device in accordance with the device’s consent process on some of our Platforms to help us improve your user experience and provide information that is relevant to you, such as nearby Patient Service Center locations.
+
+When you choose to print or email one of your results from within the MyQuest application, the result file is temporarily stored on your mobile device to aid in more efficient delivery of your result. The result file will be deleted from your mobile device storage once the action of printing or emailing is complete.
+
+## How Long We Retain Your Personal Information
+
+Quest Diagnostics retains your Personal Information only for as long as is necessary for our legitimate business purposes. We will retain and use your Personal Information to the extent necessary to comply with our legal, accounting, or reporting obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies. Additionally, we may continue to store your Personal Information contained in our standard back-ups. This applies to all categories of Personal Information in use by us.
+
+## Selling Personal Information or Disclosing of Personal Information for Targeted Advertising
+
+We do not sell Personal Information. We may disclose the following categories of Personal Information to the categories of third parties listed below for the purpose of targeted or cross-context advertising (under California law, this is called “Sharing”):
+Type of Information
+Disclosed for Targeted Advertising?
+Third parties to whom Disclosed for Targeted Advertising
+Business or commercial purposes for Disclosing for Targeted Advertising
+Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+Yes
+Marketing and promotional third parties such as advertising and social networks.
+For marketing our products and services to you, and promoting career opportunities.
+Commercial information, including products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Yes
+Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, or advertisement.
+Yes
+Geolocation data.
+Yes
+Inferences drawn from any personal information collected to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+Yes
+
+No text message opt-in status information will be shared with or sold to third parties/affiliates for their own marketing/promotional purposes. Text messaging originator opt-in data and consent information will not be shared with any third parties, including affiliate or business partners. We also use and disclose your information pursuant to a subpoena, court order or other legal process, to establish or exercise our legal rights, or defend against legal claims. The opt-in is not transferable to another party involved in the process.
+
+## Cookie Notice
+
+Our websites, like almost all other websites, use cookies and other technologies to make the website work as you expect and to collect and share information. Please see our Cookie Notice for more information.
+
+## Keeping Your Information Secure
+
+Quest Diagnostics has adopted physical, technical and administrative measures that are designed to prevent unauthorized access or disclosure, maintain data accuracy, and ensure appropriate use of Personal Information. We cannot, however, ensure or warrant the security of information. No security measures are infallible.
+
+## How can you help protect your information?
+
+If you are using a Quest Diagnostics Platform for which you registered and chose a password, you should not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the Quest Diagnostics Platform and close your browser window when you have finished your work.
+
+Please note that unencrypted email is not a secure method of transmission, as information in such emails may be accessed and viewed by others while in transit to us. For this reason, we prefer that you not communicate confidential or sensitive information to us via regular unencrypted email. We will, however, honor patient requests for communications through unencrypted email.
+
+## Links to Other Sites
+
+Our Platforms may be accessed from or contain links to other websites that we do not own or operate. If you access those links, you will leave our Platforms. Quest does not control those third party websites or their privacy practices, which may differ from ours. We do not endorse or make any representations about third-party sites, including about the content or security of those sites. The information you choose to provide to or that is collected by these third parties is not covered by this Notice.
+
+## Children's Privacy
+
+We do not knowingly collect information from children (as defined by COPPA) and we do not target our Platforms to children. If we learn that we have collected any information from children, we will delete it. For more information about the Children’s Online Privacy Protection Act (“COPPA”), which applies to websites that direct their services to children under the age of thirteen (13), please visit the Federal Trade Commission’s website https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions.
+
+## Additional Rights of Individuals in Certain Jurisdictions
+
+Depending on where you live, you may have certain rights with respect to Personal Information that we have collected and used under certain circumstances, which may include the following:
+
+- The right to "know" or access your Personal Information.
+
+- The right to receive a portable copy of your Personal Information.
+
+- The right to correct inaccurate Personal Information.
+
+- The right to request deletion of your Personal Information.
+
+- The right to opt out of certain uses and disclosures of your Personal Information, including from:
+
+- the sale of your Personal Information,
+
+- the use of your Personal Information for targeted advertising, and
+
+- the use of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. (For more information about your right to opt-out, please see our Notice of Right to Opt-Out).
+
+- The right to limit the use or disclosure of Sensitive Personal Information.
+
+- The right to appeal a denial of your privacy rights requests.
+
+If you are a resident of a state that confers any of these rights, and would like to make a request to exercise these rights, you may visit your state’s section below for more information.
+
+- California
+
+- Colorado
+
+- Connecticut
+
+- Delaware
+
+- Indiana
+
+- Iowa
+
+- Kentucky
+
+- Maryland
+
+- Minnesota
+
+- Montana
+
+- Nebraska
+
+- New Hampshire
+
+- New Jersey
+
+- Oregon
+
+- Rhode Island
+
+- Tennessee
+
+- Texas
+
+- Utah
+
+- Virginia
+
+## Notice of Right to Opt-Out
+
+Residents of California have a right to direct businesses not to sell their Personal Information or share their Personal Information for targeted advertising. Residents of other certain U.S. states have the right to direct businesses not to process their Personal Information for other specified purposes, which may include: (i) targeted advertising, (ii) sale, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. This is known as the “right to opt out.” We do not sell your Personal Information. However, when you visit our websites, we may share information about your use of our website with our advertising and analytics partners. You can opt out of sharing or using your Personal Information for the purposes of targeted advertising, by interacting with the cookie banner that may appear at the bottom of Quest websites the first time you come to the website or the “Your Privacy Choices” link that may appear in the footer of our websites. You can also opt back into these cookies through the same link. We do not use your Personal Information for profiling to make decisions that would have a legal or similarly significant effect concerning you.
+
+## Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+You have a right not to receive discriminatory treatment by Quest for exercising any of your privacy rights conferred by your state’s consumer privacy laws. Quest will not discriminate against any consumer because such person exercised any of the consumer’s rights under these privacy laws, including, but not limited to:
+
+- denying goods or services;
+
+- charging different prices or rates for goods and services, including through the use of discounts or other benefits or imposing penalties;
+
+- providing a different level or quality of goods or services; or
+
+- suggesting that the consumer will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+Quest may, however, charge a different price or rate, or provide a different level or quality of goods or services, if that difference is related to the value of your data.
+
+## Making a Request, Appeals, and Authorized Agents
+
+To make a request to exercise your privacy rights you may visit our online request form. You may also call (833) 341-0196. To exercise your right to appeal, you may email us at privacy@questdiagnostics.com and include the Request ID from your previous request.
+
+Certain state residents may designate an authorized agent to make a request on your behalf. We will comply with requests made by authorized agents as required by applicable law. We will deny requests from agents that do not submit proof of authorization from you. To verify that an authorized agent has authority to act for you, we may require a copy of a power of attorney or require that you provide the authorized agent with written permission and verify your own identity with us.
+
+We will confirm our receipt of your request within 10 days. If you have not received a response within a few days after that, please let us know by contacting us at the webpage or phone number listed above. We will respond to your request within 45 days. If necessary, we may need additional time to respond, up to another 45 days, but we will reply either way within the first 45-day period and, if we need an extension, we will explain why.
+
+For certain types of requests, we may need to verify your identity. In those cases, you will need to provide us with certain information such as your name, email address, physical address, or other information, as relevant, so that we can verify that you are who you say you are. Which information may depend on the type and sensitivity of information requested.
+
+In certain cases, we may deny a request. For example, we may deny a request if we cannot verify your identity or if providing you the information could create an unreasonable risk to someone’s security (for example, we do not want very sensitive information disclosed inappropriately), or we may deny a request for deletion if the law requires that we maintain the information (e.g., to comply with federal and state medical record retention requirements); or, if we need the information for internal purposes such as to continue to provide you services. If we deny your request, we will explain why we denied it.
+
+## International Transfer of Your Personal Information
+
+Your personal information may be transferred to, stored, and processed in a country other than the one in which it was provided, including transfers to the U.S. (i.e., a 'Recipient' country). Quest Diagnostics will use mechanisms for any such transfer as required under applicable law. If You have questions concerning the transfer of your Personal Information, please contact us using the contact details set out below.
+
+## Individuals Outside of the United States
+
+If you are located outside of the United States, please click the following link(s) for additional information regarding your privacy rights: Europe (EU/EEA/UK/Switzerland); Canada.
+
+## Data Privacy Framework
+
+As further described in our Data Privacy Framework Policy, Quest Diagnostics and certain US-based affiliated companies comply with the EU-US Data Privacy Framework (EU-US Framework), UK Extension to the EU-US Framework, and Swiss-US Data Privacy Framework (collectively the Data Privacy Framework) as set forth by the U.S. Department of Commerce. Quest Diagnostics has certified to the U.S. Department of Commerce that it adheres to the Data Privacy Framework with regard to the processing of personal data received from the European Economic Area, United Kingdom and Switzerland in reliance on the Data Privacy Framework. If there is any conflict between the terms in this privacy notice and the Data Privacy Framework, the Data Privacy Framework shall govern. To learn more about the US Department of Commerce Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+
+## Non-Discrimination Notice and Language Assistance Services
+
+Please refer to our Non-Discrimination Notice which includes language assistance services.
+
+## Updates To This Privacy Notice
+
+From time to time, we may change this Privacy Notice. If we make changes, we will revise the “Last Updated” date at the bottom of this Notice. We encourage you to review this Notice periodically to be sure you are aware of those changes. Changes will become effective as of the “Last Updated” date.
+
+## Contact Us
+
+Should you have any questions about this Notice or our privacy practices more generally, please email us at Privacy@QuestDiagnostics.com or write to us at:
+
+Quest Diagnostics
+
+Attention: Privacy Office
+
+500 Plaza Drive
+
+Secaucus, NJ 07094
+
+You can also call us at 800-222-0446, ext. 1020123.
+
+Last Updated: December 31, 2025.
+
+Privacy
+
+## Privacy
+
+-
+HIPAA Notice of Privacy Practices
+
+-
+Privacy Notice
+
+-
+Cookie Notice
+
+-
+Canada
+
+-
+Global Privacy Notice (Jurisdictions Outside North America)
+
+-
+Data Privacy Framework

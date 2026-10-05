@@ -1,0 +1,139 @@
+# Qualcomm Privacy Policy
+
+Last Updated and Effective Date: 1/29/26
+
+Download (PDF)
+
+Other languages
+
+Skyhook Privacy Policy
+
+On this page
+
+NOTICE AT COLLECTION
+
+A. Collection of Information
+
+B. Disclosure of Information
+
+C. Retention of Information
+
+D. Sources of Information
+
+ADVERTISING AND ANALYTICS
+
+GLOBAL TRANSFER OF INFORMATION
+
+SECURITY
+
+YOUR RIGHTS
+
+A. The Rights Available Depending on Your Jurisdiction
+
+B. Opt-Out Preference Signals and “Do Not Track” Requests
+
+C. Instructions on How to Exercise Your Privacy Rights
+
+COMPLAINTS
+
+CHILDREN
+
+CONTACT US
+This Privacy Policy describes how Qualcomm Incorporated and our subsidiaries and affiliated companies (collectively, “Qualcomm,” “we,” “our,” or “us”) collect, use, and disclose personal information and certain other forms of data about you (collectively, “information”) and your data privacy rights. Personal information is sometimes also referred to as personal data, personally identifiable information, or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or, in certain jurisdictions, your household. This Privacy Policy applies to any and all of our information collection scenarios that refer to, or provide a link directing you to, this Privacy Policy, such as when you use our websites, products or services, conduct business with us, apply for a job, or otherwise interact with us (collectively the “Services”).
+
+This Privacy Policy is supplemented by additional notices, such as our Supplemental Job Application Privacy Notice for candidates applying for a position with Qualcomm, Additional Disclosures for Individuals in the United States, additional China provisions (中国隐私附录), and any other supplemental notices that we currently are providing or will provide in the future regarding our products and services, which should be read together with this Privacy Policy. We may also provide privacy notices with respect to other information collection practices not within the scope of this Privacy Policy, in which case this Privacy Policy will not apply. For example, if you are a Qualcomm employee, separate privacy policies apply. Qualcomm employees may visit the company’s internal employee portal or contact their local human resources department to get a copy of the applicable employee privacy policy.
+
+Data Controller. If you are using a service (including visiting one of our websites) that links to this Privacy Policy, the controller of your personal information is Qualcomm Incorporated or its subsidiaries and affiliated companies, depending on the specific service and the privacy disclosure you receive. A list of Qualcomm group entities and their addresses is located here. Additionally, this Privacy Policy does not apply to the extent we process information as a processor (or a comparable role such as a “service provider”) on behalf of our customers, including customers who purchase Services directly from us and customers who purchase the Services through one of our authorized business partners. Each of our customers controls what information about you they submit to, publish on, or generate in connection with the Services (“Customer Data”). For more information about collection and use of your information as part of Customer Data, please reach out to such customer directly. We are not responsible for the privacy or data security practices of our customers, which may differ from those set forth in this Privacy Policy. If you wish to exercise any rights you may have under applicable data protection laws, please inquire with the applicable customer directly. Customer Data is controlled by the respective privacy policy of the applicable customer, which we encourage you to review for more information about their practices.
+
+We may change this Privacy Policy from time to time. If we make changes, we may notify you of the change and revise the date at the top of this Privacy Policy.
+
+NOTICE AT COLLECTION
+
+This Notice at Collection describes how we may collect, use, and disclose information and the sources from which we collect such information.
+
+A. Collection of Information
+
+Below, we identify the purposes for which we process information and related categories of information, legal basis and (if applicable) special condition for processing. For details regarding job applications, please refer to our Supplemental Job Application Privacy Notice. Some of our Services may provide additional service-specific information processing details through privacy disclosures published on their websites or applications. We may disclose the categories of information we collect, as outlined below, to service providers or contractors that perform services on our behalf.
+
+We will only process your personal information as permitted by applicable law. The legal basis listed above generally has the following meanings:
+
+- Contract: to perform our responsibilities under our contract with you (e.g., provide the product or service you purchased) or take pre-contractual steps at your request;
+
+- Legitimate Interests: when we have legitimate interests in processing your personal information to operate the Services (for instance, in applicable jurisdictions, we rely on our legitimate interest in administering, improving, protecting, and operating our business and Services where we collect information regarding the usage of our Services);
+
+- Legal Obligations: to comply with our legal obligations;
+
+- Consent: when we have your consent to do so (e.g., when you consent to voluntarily provide us your personal information for the Services), where you may withdraw such consent at any time (unless the law requires us to retain your personal information);
+
+- Vital Interests: to protect your vital interests or those of another natural person (e.g., if you or someone else are in danger or risk of harm); or
+
+- Other: any other lawful bases stipulated in the law in your jurisdiction.
+
+Additionally, if required or permitted by law, we may collect and use the sensitive personal information (special category data) described in this section Collection of Information but only for limited purposes as authorized by law, such as to ensure the physical safety of natural persons or for other purposes for which we have obtained your specific consent. In some jurisdictions outside Europe, those purposes may include to perform the services or providing the goods reasonably expected by an average consumer who requests those goods or services; to prevent, detect, and investigate security incidents that compromise the availability, authenticity, integrity, or confidentiality of stored or transmitted personal information; to resist malicious, deceptive, fraudulent, or illegal actions directed at Qualcomm and to prosecute those responsible for those actions; to verify or maintain the quality or safety of a product, service, or device that is owned, manufactured, manufactured for, or controlled by Qualcomm; and to improve, upgrade, or enhance the service or device that is owned, manufactured by, manufactured for, or controlled by Qualcomm. We generally do not collect sensitive personal information for the purpose of inferring characteristics about you.
+
+B. Disclosure of Information
+
+We may disclose your information in the following circumstances for the purposes as outlined in the Collection of Information section or as otherwise described in this Privacy Policy.
+
+- Our Service Providers, Contractors, and Processors: We may disclose your information where necessary to service providers, contractors, and processors who provide us services, such as customer service, payment processing, fraud prevention, cybersecurity, IT, cloud storage, video/audio conferences, event planning, analytics, marketing, and advertising.
+
+- Business Customers: We may offer training or other Services to the employees, workers and agents of our business customers. In such cases, we may need to disclose information including your personal information, where necessary, relating to the use of our training and other Services with the identified business customers.
+
+- Research Program Partners: We may disclose your information with our partners in research programs where the information is necessary to and will only be used to achieve the specific purposes of these programs.
+
+- Legal Disclosures: We may disclose your information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements. We may also disclose your information in legal proceedings and with legal authorities if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, or safety of Qualcomm, our users, the public, or others.
+
+- Our Advisors and Lawyers: We may disclose your information with our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
+
+- Disclosed During Corporate Transactions: We may disclose your information where necessary in connection with, or during negotiations concerning and consummation of, any merger, sale of company assets or securities, financing, or acquisition of all or a portion of our business by another company, or other corporate transactions, such as bankruptcy, reorganization, or restructuring.
+
+- Among Our Family of Companies: Your information may be disclosed between and among Qualcomm and our subsidiaries and affiliates.
+
+- With Your Consent: We may disclose your information in instances where you have provided us with your consent or at your direction.
+
+- Disclosure of Non-Personal Information: We may disclose anonymized, aggregated, or de-identified information that cannot reasonably be used to identify you or be related to you. When doing so, we publicly commit to maintain and use the information in an anonymized, aggregated, or de-identified form and not attempt to re-identify the information, unless permitted or required by law.
+
+To learn more about our personal information disclosure practices in connection with your job application, please see our Supplemental Job Application Privacy Notice.
+
+C. Retention of Information
+
+We store information for as long as necessary to carry out the purposes for which we originally collected your information and for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations. We have a general policy of retaining personal information for as long as necessary in view of the purposes for which we process it, including for the purpose of satisfying any legal, regulatory, tax, accounting or reporting requirements.
+
+In some circumstances we may retain personal information for other periods of time, for instance where we are required to do so in accordance with legal requirements, or by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required. We may also retain your personal information for a longer period in the event of a complaint.
+
+D. Sources of Information
+
+We generally collect personal information from the following categories of sources: directly or indirectly from you; affiliates and subsidiaries; business partners; vendors and service providers; public sources; social media platforms and websites; internet service providers; organizers of events we sponsor; operating systems and platforms; and marketing and data analytics providers.
+
+ADVERTISING AND ANALYTICS
+
+We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms, such as social media. You can learn more about our use of cookies and other trackers on qualcomm.com or other sites where this Privacy Policy is posted in our Cookie Policy. Other group company sites may be subject to a different cookie policy, in which case it will be posted on the relevant site.
+
+GLOBAL TRANSFER OF INFORMATION
+
+Qualcomm is a global business and your information may be transferred and be accessed from around the world, such as from countries where Qualcomm and its service providers operate and which may not provide levels of data protection that are equivalent to those of your home jurisdiction. You can view the locations of our offices here. We will take steps to ensure that your information receives appropriate safeguards in the jurisdictions in which we or our service providers process it, for example, by entering into appropriate safeguards to protect personal information, which will include entering into approved standard contractual clauses with the recipient (where required under applicable law). You can get a copy of the standard contractual clauses for the EEA by clicking here and for the UK here.
+
+SECURITY
+
+We use reasonable security measures to safeguard your information by taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of processing, as well as the risk of varying likelihood and severity for the rights and freedoms of consumers. We also enter into agreements with service providers, contractors, and processors for processing your information. These parties have their own security standards for personal information protection. In light of the evolving risk environment, particularly the risks of security incidents on the Internet, we encourage you to be vigilant with your personal information and exercise caution.
+
+YOUR RIGHTS
+
+COMPLAINTS
+
+If you have a concern about our processing of personal information that we are not able to resolve, we encourage you to contact us with any questions or concerns by sending us an email at privacy@qualcomm.com. In any event, you also have the right to lodge a complaint with the data protection authority where you reside or to institute civil proceedings, depending on the law of your jurisdiction.
+
+CHILDREN
+
+Unless otherwise specifically indicated in a site-specific privacy policy, the qualcomm.com website or other Qualcomm group website where this Privacy Policy is posted is not intended for or directed at children under the age of 13. In addition, and except where specifically indicated, we do not knowingly collect personal information from children under the age of 13 on this website or other Qualcomm group website where this Privacy Policy is posted.
+
+CONTACT US
+To contact us, send us an email at privacy@qualcomm.com, or write to us at Qualcomm Incorporated, Attn. Privacy Office, Legal Department, 5775 Morehouse Drive, San Diego, CA 92121.
+
+You may also reach out to our Data Protection Officer as assigned regionally or other regional contacts as follows:
+
+- EU/UK: privacy@qualcomm.com
+
+- India: see here
+
+- Singapore: dpo.singapore@qualcomm.com

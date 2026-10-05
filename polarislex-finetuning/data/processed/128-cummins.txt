@@ -1,0 +1,103 @@
+# Privacy and Legal
+
+## Privacy Policy
+
+This Privacy Policy describes how Cummins Inc., and our subsidiaries and affiliated companies (collectively, “Cummins”, “our”, “we”, or "us") collect, use, and disclose personal information about you and provides information regarding your rights. Personal information is sometimes also referred to as personal data, personally identifiable information or other like terms to mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. This Privacy Policy applies to personal information we collect online and offline, and applies in the following situations:
+
+- Websites: Your use of this or other Cummins websites that post or link to this Privacy Policy;
+
+- Products and Services: Your interactions with Cummins in relation to our products and/or services that refer to or link to this Privacy Policy;
+
+- Business Partners and Suppliers: Your interactions with us if you visit our facilities or otherwise communicate with us in your role as a representative of a vendor, supplier, service provider or an entity conducting business with us; and
+
+- Digital Tools: Your use of the variety of digital tools (including apps) offered by Cummins in connection with our diagnostics and repair services for commercial vehicles and equipment, such as Guidanz®, INSITE™, INLINE®, QuickServe® Online, etc.
+
+We may provide different or additional notices of our privacy practices with respect to other personal information collection practices not within the scope of this Privacy Policy, in which case this Privacy Policy will not apply. For example, if you are applying for a job on our websites, the Notice for Job Applicants applies to our personal information handling practices, instead of this Privacy Policy.
+
+Source and Type of Personal Information We Collect
+
+You may visit our website without providing any information about yourself. However, for Cummins to provide certain web-based services to you or to permit you to enter certain sections of our website, we require you to provide some personal information relative to the type of interaction or service. For example, we may collect your personal information directly from you when you register a product, submit a query, purchase an item, apply for a job, participate in a survey, conduct business dealings with us. We may also collect your personal information from other parties, such as our service providers, contractors, processors, and others.
+
+The personal information we collect may include:
+
+- Your identifiers, such as your name, company name, job title, email address, phone number, mailing address, Internet Protocol address, unique personal identifier, and other similar identifiers;
+
+- Your business relationship with us, such as whether you are a customer, business partner, vendor, service provider, or supplier;
+
+- Commercial information, such as your purchase history, payment and invoicing history, financial information, interest in our particular products or services, warranty information, service history, product or service interest, VIN number of engines/generators that you have purchased, and identification of your dealer and/or service centers;
+
+- Your enrollment in any of our programs, such as newsletter, sign up for emails, participate in a survey, or other similar services that we offer;
+
+- Your online or offline interactions with us, such as your “likes” and feedback via social media sites, interactions with our call centers;
+
+- Your use of commercial vehicles or equipment containing activated telematics devices that transmit information to Cummins in relation to the proper functioning and maintenance of the vehicle/equipment on which it is installed, such as vehicle or equipment identifiers, fault codes and similar functioning information, applicable dates and times, precise geolocation data (for evaluating road conditions and similar factors impacting performance), and braking and speed information. To learn more, see our Telematics Data Protection Notice for Vehicles and Equipment or Generators.
+
+- Your limited personal information through use of our digital tools and apps that are offered by Cummins in connection with our diagnostics and repair services for commercial vehicles and equipment, such as name and contact details, tools and/or apps for which you choose to use online and/or via apps, vehicle and/or equipment identifiers, precise geolocation data (for repair assistance, support and scheduling), payment details. To learn more, see our Digital Tools Data Protection Notice below.
+
+We and others that control collection of personal information use tracking technologies, such as cookies and web beacons, to collect information about you. For more information about cookies and how to disable them, see our Cookie Website Notice and Disclosure Statement.
+
+We may derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address or infer that you are looking to purchase certain products based on your browsing behavior and past purchases.
+
+Purposes and Use of Personal Information
+
+Cummins may use the categories of personal information identified above for the following purposes:
+
+- To manage and support your interactions with us, such as answering your questions about our products or services, processing orders or returns, enrolling you in programs at your request, or similar activities that respond to your request or relate to our business activities;
+
+- To manage and improve the quality of our products, services, websites, social media interactions and our offerings;
+
+- To manage and improve the services that we provide in connection with our telematics business;
+
+- To manage and improve the services that we provide in connection with our digital tools;
+
+- To support and enhance our customer relationships, such as by gathering information and interacting with you in relation to other products and services that may be of interest, based on your preferences;
+
+- To conduct business dealings with our partners and service providers;
+
+- To send you technical notices, security alerts, and support and administrative messages;
+
+- To monitor and analyze trends, usage, and activities in connection with our services;
+
+- To detect, investigate, and prevent security incidents and other malicious, deceptive, fraudulent, or illegal activity and protect the rights and property of Cummins and others;
+
+- To debug to identify and repair errors in our services;
+
+- To comply and fulfill applicable legal, compliance, financial, export and regulatory obligations; and
+
+- To carry out any other purpose described to you at the time the personal information is collected.
+
+Disclosure of Personal Information
+
+We disclose personal information in the following circumstances or as otherwise described in this policy:
+
+- Our Service Providers, Contractors and Processors: We may disclose your personal information to our services providers, contractors and processors, such as those who assist us with our websites; IT security; data centers or cloud services; communications services; social media; those that partner with us in relation to our products and services such as dealers, distributors, service centers and telematics partners; and those that assist us with other types of services. Cummins evaluates those service providers, contractors and processors in advance to ensure that they are capable of upholding a similar level of protection for the data and also requires them to enter into a written agreement confirming their understanding that they are expressly prohibited from using the personal information for any unrelated purposes or from selling or sharing the information.
+
+- Sale of Personal Information to Third Parties: We do not sell or disclose your personal information for monetary consideration or profit.
+
+- Legal Disclosures: We may disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements. We may also disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of Cummins, our users, the public, or others.
+
+- Disclosure to Advisors and Lawyers: We may disclose personal information to our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
+
+- Disclosure of Personal Information During Change of Ownership: We may disclose personal information in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.
+
+- Among Our Family of Affiliated Companies and Others: Personal information is disclosed between and among Cummins and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership. When personal information is disclosed to our group companies or third-party partners assisting us, we require them (as well as any of their subcontractors) to uphold a substantially equivalent level of protection for that personal information.
+
+- With Your Consent: We disclose personal information with your consent or at your direction.
+
+- Disclosing Non-Personal Information: We may disclose aggregated or de-identified information that cannot reasonably be used to identify you.
+
+Legal Basis for Processing Personal Information
+
+The legal basis for processing personal information varies in accordance with the purpose(s) for collection. This may include:
+
+- Consent, such as managing our services, or responding to website user inquiries;
+
+- Performance of a contract, such as managing your access to your customer or supplier account, processing and tracking service requests and orders;
+
+- Fulfill business or legal obligations such as when processing is required by law, such as retention of purchase or service invoices); or
+
+- Our legitimate interests, such as improvement of our products, services or website; prevent misuse or fraud; secure our website or other Cummins software or property, or tailor our communications.
+
+Retention of Personal Information
+
+We store your personal information as long as necessary to carry out the purposes for which we originally collected it and for other legitimate business purpose, including to meet our legal, regulatory or other compliance obligations. You can find more details about our personal information retention by contacting [email protected].

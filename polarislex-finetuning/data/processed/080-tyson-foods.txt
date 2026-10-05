@@ -1,0 +1,670 @@
+# Tyson Foods Global Privacy Notice
+
+February 28, 2026
+
+This Privacy Notice applies to the websites, applications and platforms where it appears, as well as any other points of contact with Tyson Foods.
+
+Maintaining the security of your data is a priority for Tyson Foods, Inc. and its subsidiaries, affiliates and related entities (collectively, "Tyson Foods," "we" or "us"). Tyson Foods is committed to being transparent about what data we collect about you and how we use it. This Privacy Notice applies to all users of our websites, applications, platforms and features (collectively, "Site(s)"), as well as all communication with us or participation in any of our programs or events. We may provide additional privacy notices in connection with certain activities, programs or offerings. We may also provide "just-in-time" notices that may supplement or clarify our privacy practices or provide you with additional choices regarding your personal information.
+
+This Privacy Notice applies to Tyson Foods’s information practices for you to understand how personal data is collected through our Sites and how it is used, stored and disclosed. This Privacy Notice also describes your rights regarding the personal data we hold about you, including how you can exercise those rights.
+
+We are committed to protecting the privacy of minors. To comply with various privacy regulations, at this time our Sites are not intended to be used by anyone under the age of 18 and are not designed to attract children under the age of 18. Anyone under the age of 18 using our Sites should only do so with participation of a parent or other guardian. If a parent or other guardian becomes aware that his or her child has provided us with information without their consent, the parent or other guardian should contact us at privacy@tyson.com. Tyson Foods will delete such information within a reasonable time.
+
+This Privacy Notice may change from time to time. You should review this Privacy Notice periodically. We will bring any material changes to your attention by posting an updated version.
+
+This Privacy Notice does not address concerns about Tyson Foods products. FOR CONSUMER RELATIONS OR TO CONTACT A REPRESENTATIVE REGARDING OUR PRODUCTS, please call 1-800-233-6332.
+
+Who is the controller of your personal data?
+
+Under certain privacy laws, the “Controller” or “Personal Information Processor” of your data is Tyson Foods, Inc. We will only process your personal data according to this Privacy Notice, unless otherwise required by applicable law. We take steps to ensure that the personal data that we collect about you is adequate, relevant, not excessive and processed for limited purposes.
+
+What is personal data?
+
+Personal data is information that identifies, relates to, describes, is reasonably capable of being associated with or could reasonably be linked, directly or indirectly, to an identified or identifiable living natural person or household. An ‘identifiable person’ is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person or other factors that can identify an individual.
+
+What personal data do we collect and how do we use it?
+
+Tyson Foods only processes your personal data as the law allows or requires or according to this Privacy Notice.
+
+We may collect the following categories of personal information that you provide directly when you use our Sites, or otherwise participate in our programs or events. (Please note, not all categories may be collected on every individual):
+
+- Personal Identifiers: such as name, phone number, email address, postal address, signature
+
+- Government Identifiers: such as driver’s license numbers, or other similar government identifier
+
+- Demographic Information: such as gender, age, or date of birth
+
+- Financial Information: such as credit or debit card number
+
+- Device Information: such as IP address, MAC address or device identifier, cookies, beacons, pixel tags, mobile ad identifier, social media information or similar unique identifiers
+
+- Internet or Other Network Activity: such as browsing or search history and information regarding your interactions with our Sites, emails, or advertisements
+
+- Geolocation Data: such as if you manually provide location information or enable your mobile device to send us precise location information
+
+- User Content: such as communications from you with us, signing up for the receipt of emails or other preferences data (such as contact preferences or email, SMS or subscription information) and any other content you provide (such as social media profiles, photographs, images, videos, survey responses, comments, complaints, inquiries or information you provide when you participate in a survey, contest or promotion or request information, information you provide when you contact us by phone or email, and other content, chat with an automated virtual agent or live person, create an account on a Site, register for a Tyson Foods brand loyalty program or marketing lists or create an account on one of our Sites)
+
+- Images: such as photograph or video footage, film, tape, reproduction and other images or likenesses that may identify you, including your name, and/or any statements or record of your voice, in part or in whole
+
+- Inferences: the derivation of information, data, assumptions, or conclusions from facts, evidence, or another source of information or data drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting a consumer’s preferences, characteristics, psychological trends, preferences, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+- Health Information: such as reactions, allergies, conditions or diagnoses
+
+Where we request personal information and Sensitive Data from you, you can choose not to provide it to us. However, unless otherwise indicated, the information we request from you may be required to enter into a contract of purchase with you or in order to comply with our legal obligations. Failure to provide it may prevent us from effectively administering our contractual relationship with you and/or complying with our legal obligations, which may mean we are unable to continue your order, purchase, or other engagement.
+
+To comply with various privacy laws, including without limitation those of Canada, the European Union, the United Kingdom and Thailand, we are providing the following additional details regarding our legal bases for processing your personal data.
+#### Processing Purpose
+#### Categories of Personal Information
+#### Legal Basis for Processing
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+Personal Identifiers
+
+Financial Information
+
+Geolocation Data
+
+User Content
+
+Inferences
+
+Health Information
+To meet our legitimate business interest to provide you with the service you requested with us (e.g. create an account, complete a survey or purchase a product)
+Managing our customer relationships by regularly updating our existing and potential customer records
+
+Government Identifiers
+
+Demographic Information
+
+Inferences
+
+To meet our legitimate business interest to effectively run our business
+
+To comply with our legal obligations
+Ensuring functionality and security of our Sites
+Internet or Other Network Activity
+
+Device Information
+To meet our legitimate business interest to ensure the security and functionality of our online presence and the products we offer
+Improving our services; communicating with you about products, offers, promotions, benefits and events and share information that may interest you; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and append information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Images
+
+Inferences
+
+You have consented to the use of your personal information
+
+To ensure we are providing you with Sites, advertising and communications that are working properly and are continually improving for cookies that are essential to the functioning of our Sites, and to keep our Sites safe and secure
+Publishing and disseminating materials, for public relations, advertising, marketing, and promotions, including email and text messaging (SMS) communications; providing you with information and training on our products, services, and brands; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Images
+
+Inferences
+
+You have consented to the use of your personal information
+
+To tailor our marketing communications, understand their effectiveness, and ensure you receive the most relevant experience; to help us better understand your needs and expectations and therefore improve our services, products and brands; to invite you to seminars and events that we organize, manage, or participate in as part of our business activities
+Publishing reports on Tyson Foods’s environmental, social and governance risks and current and planned sustainability initiatives (but such reports will not include information that would allow a third party to identify any individual from that information)
+To meet our legitimate interest to run our business effectively by understanding employee attrition, engagement, and supporting initiatives and programs
+
+For reasons of substantial public interest for Sensitive Data in accordance with relevant law
+Contributing to scientific, industry, or academic research or reporting when viewed as a public interest and/or where there is a clear attempt for contributions to generalizable knowledge (but such research and reports will not include information that would allow a third party to identify any individual from that information)
+
+To meet our own legitimate interests or those of a third party in creating the report, or where applicable, for reasons of public interest in accordance with relevant law
+
+Where the personal data is Sensitive Data, for reasons of substantial public interest in accordance with relevant law
+Providing third party service providers with statistical, aggregated, or anonymized information about Tyson Foods users
+
+To the extent any personal data is not anonymized, to meet the legitimate interests of the third-party service provider in improving their products and services provided to Tyson Foods
+Protecting the security and integrity of our business, processes, and systems, including preventing unauthorized access to our computer and electronic communications systems; preventing malicious software distribution and investigating any suspected security breaches
+To meet our legitimate business interest to run our business effectively by securing our information, network, applications, and systems
+
+Necessary for compliance with our legal obligations
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Images
+
+Inferences
+
+Necessary for compliance with our legal obligations to which we are subject and cooperate with regulators and law enforcement bodies
+
+To establish, exercise, or defend legal claims
+Protecting our property and assets
+
+Images
+
+Inferences
+
+Necessary for our own legitimate interests; for compliance with our legal obligations (including employment laws and regulations) and cooperate with regulators and law enforcement bodies
+
+With respect to Sensitive Data, to protect your vital interests or those of another person, or for reasons of substantial public interest in accordance with relevant law
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, internal operations, projections, analytics, auditing and monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Images
+
+Inferences
+
+Necessary for our own legitimate interests in effectively running our business and protecting our systems
+
+In compliance with applicable law, Tyson Foods may use artificial intelligence (AI) to assist in our processing of information for the purposes described above and may offer products, services and offerings through tools and platforms using AI.
+
+For additional information regarding our interest-based marketing, please see our COOKIES POLICY.
+
+Profiling
+
+As part of certain promotions located within the United States, we may collect personal data about you (i.e. location data, product interest, preferences and other information) that you provide us when you create an account on our platforms. This section only applies when we use automated processing on your personal information to evaluate, analyze, or predict your personal preferences. We centralize this data and analyze it to evaluate and predict your personal preferences and/or interests. Based on our analysis, we send communications and/or content (i.e. digital advertising) tailored to your preferences.
+
+When we send personalized communications or content, we may use some techniques qualified as “profiling” (i.e. any form of automated processing of personal data consisting of using those data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person’s personal preferences, interests, economic situation, behavior, location, health, reliability, or movements).
+
+You may have the right to access and obtain communication about the decision based on this profiling, including the logic involved and the consequences. You can update and delete your information through your platform account at any time. You also have the right to object to the use of your data for “profiling” in certain circumstances. Please see "HOW CAN YOU EXERCISE YOUR RIGHTS REGARDING YOUR PERSONAL DATA?" section below.
+
+Depending on your residency, these rights may not apply to pseudonymous data if the information necessary to identify the consumer is kept separately and is subject to controls that prevent access to the information. Pseudonymous data is personal information that can no longer be attributed to a specific individual without the use of additional information, if the additional information is kept separately and is subject measures to ensure that personal information is not attributed to the specific individual. section below.
+
+Data solely retained for data backup or archive purposes is principally excluded from these rights until it is restored to an active system or next accessed or used for a sale, disclosure, or commercial purpose.
+
+How do we collect your personal data?
+
+Generally, we collect any information you or a member of your household voluntarily share with us directly, through technology on Tyson Foods-owned property or administered on Tyson Foods’s behalf, but we may also collect data from other sources. For example, we may collect the following:
+
+- Information about your browsing or search history from cookies or other tracking technologies to collect and process information about you when you interact with us through our Sites or email
+
+- Location data when you contact us via a mobile device, where you have enabled the option to provide location data
+
+- Conversations with our customer service that may be recorded to improve the quality of our service
+
+- Information from publicly available sources (e.g. news sources and/or from social media platforms)
+
+- Information you provide if you sign up to receive marketing communications or offers from us, otherwise contact us, or participate in a promotion or request information
+
+- Information shared by a third party with whom we parent and you have contacted and authorized the sharing of your information with us for direct marketing or advertising purposes
+
+To find out more, please see our COOKIES POLICY.
+
+To comply with various privacy laws, including without limitation certain United States state privacy laws, we are providing the following additional details regarding the categories of personal data collected within the last twelve (12) months and/or that we reasonably anticipate collecting moving forward.
+#### Categories of Personal Information
+#### Categories of Collection Sources
+#### Processing Purpose
+Directly from you, such as individually provided contact information or in response to a contractual obligation
+
+From our affiliates
+
+Non-affiliated third parties, such as data analytics service providers
+
+Customers, in response to a contractual obligation or regulatory audit or investigation and under the cover of confidentiality
+
+Through our IT systems and other devices
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+
+Publicly available sources, as permitted by law, such as social media networks or news sources
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+Contributing to scientific, industry or academic research or reporting when viewed as a public interest and/or where there is a clear attempt for contributions to generalizable knowledge (but such research and reports will not include information that would allow a third party to identify any individual from that information)
+
+Providing third party service providers with statistical, aggregated or anonymized information about Tyson Foods users
+
+Defending, managing or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Directly from you, such as individually provided driver’s license information or in response to a contractual obligation
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, internal operations, projections, analytics, auditing, and monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality, and complying with our legal obligations
+Directly from you, such as individually provided date of birth or in response to a contractual obligation
+
+Non-affiliated third parties, such as data analytics service providers
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Publishing reports on Tyson Foods’s environmental, social and governance risks, and current and planned sustainability initiatives (but such reports will not include information that would allow a third party to identify any individual from that information)
+
+Contributing to scientific, industry, or academic research or reporting when viewed as a public interest and/or where there is a clear attempt for contributions to generalizable knowledge (but such research and reports will not include information that would allow a third party to identify any individual from that information)
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality, and complying with our legal obligations
+Directly from you, such as individually provided credit or debit card numbers
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality, and complying with our legal obligations
+Directly from you
+
+Service providers, such as IT security or monitoring providers or Site analytics providers
+
+Cookies and similar technologies
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Protecting the security and integrity of our business, processes, and systems, including preventing unauthorized access to our computer and electronic communications systems; preventing malicious software distribution and investigating any suspected security breaches
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality, and complying with our legal obligations
+Cookies and similar technologies
+
+Service providers, such as Site analytics providers
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Ensuring functionality of our Sites
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality, and complying with our legal obligations
+Directly from you, such as individually provided delivery address information or enabled sharing of location data from your mobile phone when using an application
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Directly from you, such as individually provided feedback or comment on our Sites or in your participation in a promotion
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Images
+Directly from you, such as a such as photograph or video footage
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing, and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Inferences
+Directly from you
+
+Non-affiliated third parties, such as data analytics service providers
+
+Service providers, such as IT security or monitoring providers or Site analytics providers
+
+Publicly available sources, as permitted by law, such as social media networks
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications); individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Directly from you, such as when you complete product reviews or file product complaints
+Providing products you have ordered online; processing orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your subscription, account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions; offering access to exclusive content, discounts and other opportunities; administering a sweepstakes, contest or other promotion or a loyalty program; sending information that we think will interest you, which is sometimes personalized based on the information associated with your account; and requesting your feedback, such as through a survey about a new product
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Notice of Financial Incentives/Bona Fide Loyalty Program Disclosure
+
+We may offer incentives, such as a coupon or discount on purchase in exchange for personal information (e.g. email sign-up). We may also offer a loyalty program that will provide certain perks, such as rewards and exclusive offers, as well as other programs like sweepstakes or contests. Each of those incentives or programs may be considered a ‘financial incentive’ or a ‘bona fide loyalty program’ under one or more U.S. state privacy laws. Through participating in these programs, you may provide us with any of the categories of information set forth in this Privacy Notice.
+
+We generally do not assign monetary or other value to personal information. If, however, we are required by law to assign such value, we have valued the personal information collected and used as based, in part, on the value of the estimated cost of providing the relevant financial incentive(s) for which the personal information was collected and of consumer trial of new products and sharing future offers tailored to your interest with competitive value. The value is a practical and good-faith effort often involving (i) the categories of personal information collected (e.g., names, email addresses), (ii) the transferability of such personal information for us, (iii) the discounted price offered, (iv) the volume of consumers enrolled in our programs, and (v) the product or service to which the programs, or price or service differences, applies. The disclosure of the value described herein is not intended to waive, nor should be interpreted as a waiver of, our proprietary or business confidential information, including trade secrets, and does not constitute any representation with regard to generally accepted accounting principles or financial accounting standards.
+
+Participation in any program is voluntary, and by signing up for one, you consent to the collection, use, and disclosure of personal information about you in connection with a program. If you later wish to withdraw your consent, you can do so by contacting us, or otherwise following the instructions set forth in a specific program’s terms and conditions, if applicable. The categories of personal information collected through our loyalty program that may be sold or processed for online targeted advertising through the use of cookies and similar technologies include identifiers (such as your email address), online activity information (such as IP address, browsing history and other information regarding your interactions with our Sites), and commercial information (such as details about your purchases).
+
+Please note that if you choose to opt-out of the sale or sharing of personal information about you, or the use of personal information about you for targeted advertising (where available under U.S. state privacy law), your participation in a program will not be affected and you will continue to receive all the benefits to which you are entitled. If you make a request to delete all personal information about you we maintain (where available under U.S. state privacy law), however, we will no longer be able to provide you any program benefits because we will have no way to tie you to the benefits offered or to contact you regarding them.
+
+The categories of third parties that may receive the personal information collected through our loyalty program include, third party service providers; data analytics providers; digital advertising providers; and operating system and/or platform providers. We do not provide the personal information collected through our loyalty program to Data Brokers, as defined by the Colorado Privacy Act.
+
+How do we share or disclose your personal data?
+
+We may disclose your personal data to the following for the purposes set out in this Privacy Notice:
+
+- Other members of our group of companies for legitimate business purposes such as to comply with our legal obligations, to prevent fraud, to improve our products and services or after obtaining your consent. We share within our companies and with certain third parties all categories of personal information, except for government identifiers.
+
+- Third parties who provide services to us. For example, some personal data will be made available to:
+
+- Third-party companies that are required to deliver a product to you e.g., postal/delivery services;
+
+- Third-party companies who provide digital and e-commerce services (such as web chat features, lead generation, loyalty programs) or deliver advertising, marketing and campaigns, including email and text messaging campaigns, or provide related support to analyze their effectiveness, and to manage your contact and questions and our relationships with your consent (such as through automated virtual agent or live person chat) See also COOKIES POLICY.
+
+- Third-party companies that assist us for customer care (including processing payments, fulfilling orders and providing Site functionality, hosting, analytics and customer support such as through automated virtual agent or live person chat);
+
+- Third-party companies who provide, support and maintain our IT and communications infrastructure (including for data storage purposes, hosting services or platform providers) and/or provide business continuity services;
+
+- Third-party companies that assist us in providing training, seminars, and events, such as training providers, travel agencies, and event management companies;
+
+- Third-party companies that provide us with consulting services in the field of market research and analytics, collect feedback and conduct market surveys on our products, services and otherwise for customer relationship management purposes. See also COOKIES POLICY; or
+
+- Third-party insurers, legal and professional advisers, investors, investor rating agencies or their representatives authorized on their behalf in connection with the advisory services they provide to us for legitimate business purposes and under a contractual prohibition of using the personal information for any other purpose.
+
+- Other organizations representing or acting on behalf of an individual who may request personal data to support a claim in relation to an incident or accident involving such individual (where permitted to do so by law).
+
+- Our customers, only where it is necessary to monitor contractual and legal compliance of the business relationship or to respond to regulatory inquiry, audit or investigation.
+
+We may also disclose personal data to third parties on other lawful grounds, including:
+
+- To comply with our legal obligations, including where necessary to abide by law, regulation or contract, or to respond to a court order, administrative or judicial process, including, but not limited to, a subpoena, government audit or search warrant;
+
+- In response to lawful requests by public authorities (including for tax, immigration, health and safety, national security or law enforcement purposes);
+
+- As necessary to establish, manage, exercise, process or defend against potential, threatened or actual litigation or asserting our legal rights;
+
+- Complying with our legal obligations;
+
+- Preventing, investigating and detecting crime or fraud (including working with law enforcement agencies);
+
+- Where necessary to protect the vital interests of another person;
+
+- In connection with the sale, assignment or other transfer of all or part of our business; or
+
+- With your consent.
+
+We do not knowingly sell the personal information of minors under 18 years of age.
+
+We may make available your personal data to third parties through our use of cookies and other similar technologies on our Sites. We may share or make available online personal information with third parties such as social media platforms or other marketing service companies to optimize our marketing campaigns or to serve you tailored advertisements on other websites and services and across other devices or to help us display ads for our goods and services on third-party sites, and to measure the effectiveness of those ads on such thirds party sites. These companies may use personal information to improve their own products and optimize their own ad targeting systems. For more information, please see Third-Party Links and Social Logins below and our COOKIES POLICY.
+
+We may share within our companies and with certain third parties all categories of personal information, except for government identifiers.
+
+We may share and transfer your personal data for specific and definite purposes pursuant to the principles of lawfulness, fairness, necessity, and good faith, and share and transfer the personal data to the extent necessary for the specific purposes you are informed of. If we share your personal data with recipients, where appropriate, we may use encryption, anonymization, and other means as necessary and appropriate to ensure your personal data security. Before sharing or transferring your personal data, we will follow and adopt the applicable process and obligations required by the applicable law in respect of the transfer of your personal data.
+
+If Tyson Foods is sold or disposed of as a going concern, whether by merger, reorganization, sale of assets, or otherwise, or in the event of insolvency, bankruptcy or receivership, any and all personally identifiable information, including your account information may be one of the assets sold or merged in connection with that transaction. Information about you may also need to be disclosed in connection with a commercial transaction where Tyson Foods is seeking financing, investment, support, or funding. In such transactions, personal data will be subject to the promises made in any pre-existing privacy policy in effect when the information was obtained.
+
+To comply with various privacy laws, including without limitation certain United States state and Filipino privacy laws, we are providing the following additional details regarding the categories of personal data collected within the last twelve (12) months and/or that we reasonably anticipate collecting moving forward. For residents of Washington and Nevada, this extends to receiving a list of third parties and affiliates (and contact information) with whom we shared or ‘sold’ consumer health data.
+#### Categories of Personal Information
+#### Categories of Third Parties to Whom a Disclosure Was Made
+#### Processing Purpose
+Other members of our group of companies
+
+Employees, officers, contractors
+
+Customers or partners, in response to a contractual obligation or regulatory audit or investigation and under the cover of confidentiality
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Strategic partners, such as with sports leagues and manufacturers and other providers of complementary offerings
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Contributing to scientific, industry or academic research or reporting when viewed as a public interest and/or where there is a clear attempt for contributions to generalizable knowledge (but such research and reports will not include information that would allow a third party to identify any individual from that information)
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party insurers, professional advisers, agents, third party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Customers or partners, in response to a contractual obligation or regulatory audit or investigation and under the cover of confidentiality
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and share information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and append information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing reports on Tyson Foods’s environmental, social and governance risks and current and planned sustainability initiatives (but such reports will not include information that would allow a third party to identify any individual from that information)
+
+Contributing to scientific, industry or academic research or reporting when viewed as a public interest and/or where there is a clear attempt for contributions to generalizable knowledge (but such research and reports will not include information that would allow a third party to identify any individual from that information)
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information
+
+Government agencies, authorities, regulators and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Protecting the security and integrity of our business, processes, and systems, including preventing unauthorized access to our computer and electronic communications systems; preventing malicious software distribution and investigating any suspected security breaches
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Ensuring functionality of our Sites
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and append information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, internal operations, projections, analytics, auditing, and monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing, and promotions
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Images
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing and promotions
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+Inferences
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing, and promotions
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-party service providers, suppliers, or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information, including cloud storage providers, carriers and messaging platforms and marketing vendors that help promote products, services and offerings (such as by email or SMS marketing) and from time-to-time supplement personal information we already have
+
+Government agencies, authorities, regulators, and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law
+Providing products you have ordered online; processing of orders; invoicing and ensuring delivery; creating, servicing and/or maintaining your account or loyalty program membership; identifying concerns and assisting with product recommendations; providing real time support via our automated virtual agent and live person chat feature on one of our Sites and maintaining a transcript of the chat
+
+Improving our services; communicating with you about products, offers, promotions, benefits, and events and sharing information that may interest you, including email and text messaging (SMS) communications; individualizing our online presence and advertising by taking into account your preferences; centralizing your personal information in a database managed by a third party on our behalf and appending information collected by third parties; enabling and monitoring online communities; administering promotions, loyalty programs and other features, including those that allow you to share personal information; learning more about our users to develop and recommend content that is relevant to their interests; understanding our consumers through data analytics, research, product development and activity trends to develop new features and content to meet consumers’ expectations
+
+Publishing materials for public relations, advertising, marketing, and promotions
+
+Defending, managing, or processing legal claims and complying with legal obligations; asserting our legal rights; preventing, investigating, and detecting crime or fraud (including working with law enforcement agencies)
+
+Supporting internal operational and/or business purposes, such as strategic decisions, research and development, projections, analytics, auditing, monitoring, detecting security incidents, improving our services, quality control, identifying areas for operational improvement, updating our operational and technical functionality and complying with our legal obligations
+
+Third-Party Links and Social Logins
+
+The Sites may contain links to third party websites that are not owned or operated by Tyson Foods. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend, or endorse, and are not responsible for these Sites or their content, products, services or privacy policies or practices. These other websites may send their own cookies or other tracking technologies to your device. These other websites may independently collect data or solicit personal information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site, which appears or claims that it is one of Tyson Foods’ Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
+
+We may also offer you the opportunity to use your social media login. If you do so, please be aware that you share your account profile information with us depending on your social media platform settings. Also, some of our websites allow users to submit their own content. Please remember that any content submitted to one of our social media platforms can be viewed by the public, so you should be cautious about providing certain personal data e.g. financial information or address details. We are not responsible for any actions taken by other individuals if you post personal data on one of our social media platforms and we recommend that you do not share such information. Please visit the relevant social media platform and review its privacy policy to understand how your personal information is shared and used in this context.
+
+Is your personal data transferred outside of your home country?
+
+As we are a global company, your personal data may be processed by Tyson Foods, its affiliates and other third parties described herein in countries other than the country of which you are a resident. Personal data may be sent to countries with different privacy laws than the country of your residence. Because the law in some of these countries does not provide the same level of protection, we implement appropriate safeguards and take measures to ensure adequate mechanisms are in place to protect your personal data in accordance with applicable data protection and privacy laws. We have data transfer agreements in place, which are considered appropriate safeguards implementing approved Standard Contractual Clauses to secure the transfer of your personal data to other jurisdictions. You can receive further information about the data transfer agreement by referencing the contact information below.
+
+How do we protect your personal data?
+
+We have implemented appropriate physical, technical, and organizational security measures designed to secure your personal data against accidental loss and unauthorized access, use, alteration, or disclosure. We also limit access to personal data to those employees, agents, contractors, and other third parties that have a legitimate business need for such access.
+
+How long do we keep your personal data?
+
+Except as required by applicable law or regulation or as needed in connection with legal action or an investigation, we will only keep your personal data for as long as necessary to fulfill the purposes we collected it for, as required to satisfy any legal, accounting, or reporting obligations, or as necessary to resolve disputes.
+
+To determine the appropriate retention period for personal data, we consider applicable legal requirements, the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes we process your personal data for, and whether we can achieve those purposes through other means. We specify the retention periods for your personal data in our data retention policy.
+
+Generally, this means your personal data will be retained for the duration of your relationship with us for the period necessary for the purposes for which it was collected. You may request the deletion of your personal data. The request will be evaluated, in accordance with the retention periods of personal data defined by us, for the fulfillment of any legal, regulatory obligation, or regular exercise of law where the maintenance of the data is authorized by applicable law or regulation. Personal data may also be kept for as long as necessary to comply with our legal obligations, to be used as a means of proof. We will retain and securely destroy your personal data in accordance with our data retention policy and applicable laws and regulations.
+
+How can you exercise your rights regarding your personal data?
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes. Subject to limitations in applicable law, you may exercise specific rights you have to the personal data that we hold about you. Except as otherwise permitted by law, requests made regarding your personal information are free of charge.
+
+Subject to the enforcement and limitations of applicable law, you generally may have a right to:
+
+- Access, correct, update, or request deletion of your personal data.
+
+- Understand the existence of, authorization, or basis for, and circumstances surrounding the processing of your personal data.
+
+- Object to processing of your personal data, ask us to restrict processing of your personal data, or request portability of your personal data.
+
+- Object to direct marketing, including profiling.
+
+- Request information on automated processes where the personal data will or is likely to be made as the sole basis for any decision significantly affecting or will affect you.
+
+- If we have collected and process your personal data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of the processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on lawful processing grounds other than consent.
+
+- Complain to a data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority.
+
+YOU MAY BE ENTITLED TO ADDITIONAL RIGHTS SPECIFIC TO THE LAWS OF YOUR JURISDICTION. YOU CAN FIND ADDITIONAL INFORMATION ABOUT YOUR PRIVACY RIGHTS FROM YOUR LOCAL CONSUMER OR PRIVACY PROTECTION GOVERNMENT AGENCY.
+
+Additional Rights and Disclosures for Residents of the United States
+
+Do Not Sell or Share
+
+Subject to certain limitations under certain United States state privacy laws and in addition to the disclosures and rights provided in this Privacy Notice, those state residents may request under applicable law:
+
+- A list of categories of personal data collected and used and whether that information is sold or shared. Any of the categories of personal information that we collect could be included in a sale to other companies, including those within our corporate family. If we have not sold your personal information, we will inform you of that fact.
+
+- Request that we stop selling or sharing your personal information.
+
+TO OPT-OUT OF THE SHARING OR SALE OF YOUR PERSONAL INFORMATION, PLEASE CLICK DO NOT SELL OR SHARE MY PERSONAL INFORMATION.
+
+Subject to certain limits under California law, California residents may request: (i) a list of certain categories of personal data that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year; and (ii) the identity of those third parties. California residents may make one request per calendar year.
+
+Limit the Use and Disclosure of Sensitive Personal Data
+
+Depending on your state of residence, you may have the right to ask that we limit our use and disclosure of sensitive personal data to certain purposes permitted by law and/or revoke consent to the processing of your sensitive personal data.
+
+TO LIMIT THE USE OR DISCLOSURE OF YOUR SENSITIVE PERSONAL INFORMATION, PLEASE CLICK DO NOT SELL OR SHARE MY PERSONAL INFORMATION.
+
+Depending on your state of residence, you may also have additional rights, such as the right to not receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights; and the right to request an appeal in the event we decline to take action on your request. If you would like to appeal any decisions regarding your privacy rights, please contact Tyson Foods at privacy@tyson.com.
+
+Please note that under applicable law, Tyson Foods may in good faith reject or deny requests that are duplicative, excessive, and/or repetitive. If we deny your request, we will explain the reasons in our response. We will not discriminate against you for exercising these rights.
+
+Consumer Health Data Privacy
+
+Residents of Washington and Nevada have certain rights related to ‘consumer health data’ collected in those respective states. This section uses certain terms that have the meaning given to them in Nevada S.B. 370 and/or the Washington My Health My Data Act.
+
+We may collect the following categories of consumer health data about you: reactions, allergies, conditions or diagnoses, medications, treatments or tests. We may collect consumer health data from you, such as when you complete product reviews. When required by applicable law, we will obtain your consent to collect and use your consumer health data.
+
+We may use consumer health data for the following purposes: recommending products to you; obtaining feedback from you; investigating your concerns; analyzing the cause of your concern; evaluating and improving the safety of our products; communicating with you about the use of our products (including through newsletters, emails and the use of our AI tools that assist our operations); understanding how users access and use our products and offerings and for other research and analytical purposes; tailoring the content that we may send you to personalize your experience; sending you any other information that you sign up to receive; improving our advertising campaigns to better reach individuals with relevant content; complying with legal obligations and internal and regulatory reporting or audit requirements; or securing and supporting our general business operations.
+
+In addition to the rights above, residents of Washington and Nevada have the right to withdraw consent in connection with the processing of ‘consumer health data’. Please see "HOW CAN YOU EXERCISE YOUR RIGHTS REGARDING PERSONAL DATA?" section above.
+
+We may share consumer health data described herein with other members of our group of companies; employees, officers and contractors; third party service providers, suppliers or subcontractors or their representatives authorized on their behalf whose services are directly related to the processing of such information; government agencies, authorities, regulators and law enforcement authorized to request personal data for lawful purposes or as otherwise required by law. Residents of Washington and Nevada also have a right to receive a list of third parties and affiliates (and contact information) with whom we shared or ‘sold’ consumer health data.
+
+Email Marketing Messages
+
+You may unsubscribe from email services by providing an email to privacy@tyson.com, included in our Privacy Notice, or by following the unsubscribe instructions in the communications you receive.
+
+SMS Marketing Text Messages
+
+We may send marketing text messages if you have agreed to receive them. To stop receiving messages, please text "STOP" to any text message you receive from this brand to unsubscribe. After the request to cancel or unsubscribe is processed, we may send you an additional text message to confirm that you have been unsubscribed. If at any time you have questions about the text messages, please text “HELP”. Message and data rates may apply. If you unsubscribe from one of our marketing text message programs, you may continue to receive text messages through any of our other programs you have joined until you separately unsubscribe from those programs (which may include non-marketing text messages).
+
+We will not share your opt-in to receive SMS marketing messages with any third party for purposes unrelated to providing you with the services of that messaging campaign. We may share your information, including your SMS opt-in or consent status, with service providers that assist us in delivering text messages, including messaging platform providers, telecommunications carriers and vendors who support the operation of our marketing text messaging programs. We do not sell SMS opt-in data to third parties.
+
+TO EXERCISE YOUR RIGHTS OR IF YOU HAVE ANY CONCERNS ABOUT TYSON FOODS' PROCESSING OF YOUR PERSONAL DATA:
+
+CONTACT US AT privacy@tyson.com OR AT
+Tyson Foods, Inc.
+
+Privacy c/o Law Department
+
+Mail Code CP004
+
+2200 W. Don Tyson Parkway
+
+Springdale, Arkansas 72762
+
+YOU MAY ALSO CALL OUR TOLL-FREE NUMBER +1-866-467-8688 AND ENTER SERVICE CODE 262# (This number is only for elections and concerns surrounding your privacy rights. Please return to our home page to find contact information for career, product or consumer relations concerns.)
+
+IF YOU ARE A RESIDENT OF THE KINGDOM OF THAILAND, YOU MAY ALSO CONTACT US AT
+
+Legal Department
+
+Tyson International APAC Limited
+
+89 AIA Capital Center, 22nd Floor, Ratchadaphisek Road, Dindaeng Sub-district, Dindaeng District, Bangkok. Thailand
+
+ANY SUCH COMMUNICATION MUST BE IN WRITING.
+
+Certain jurisdictions permit a consumer to designate an Authorized Agent to submit a disclosure or deletion request on behalf of the individual. To respond to a request from an Authorized Agent, we may:
+
+- Request a copy of the written permission, such as a power of attorney or registration with the applicable government agency, granting the Authorized Agent to make such a request on the individual's behalf; and
+
+- Verify the identity of the individual as described below.
+
+Authorized agents use the same links described above to submit requests. Tyson Foods may deny a request from an Authorized Agent that does not submit proof that they have been authorized by an individual to act on their behalf.
+
+We may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal data that we hold about you or make your requested changes. To verify your identity, we will generally match the identifying information provided in your request with the information we have on file about you. Depending on the sensitivity of the personal information requested, we may also utilize more stringent verification methods to verify your identity. We may ask you to provide other documentation to verify your identity. If this happens, we will reach out to you directly with this request. We may not be able to comply with your request if we are unable to confirm your identity or connect the information you submit in your request with personal information in our possession.
+
+Applicable law may allow or require us to refuse to provide you with access to some or all of the personal data that we hold about you, or we may have destroyed, erased or made your personal data anonymous in accordance with our data retention obligations and practices. If we cannot provide you with access to your personal data, we will inform you of the reasons why, subject to any legal or regulatory restrictions. If you choose to exercise your rights, we will respond as required by law.
+
+WHERE YOU ARE GIVEN THE OPTION TO SHARE YOUR PERSONAL DATA WITH US, YOU CAN ALWAYS CHOOSE NOT TO DO SO. IF YOU OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA, TYSON FOODS WILL RESPECT THAT CHOICE IN ACCORDANCE WITH ITS LEGAL OBLIGATIONS. THIS COULD MEAN THAT WE ARE UNABLE TO PERFORM THE ACTIONS NECESSARY TO ACHIEVE THE PURPOSES OF PROCESSING DESCRIBED ABOVE, INCLUDING CONTINUING AN EMPLOYMENT OR PURCHASE CONTRACT.
+
+How can you contact us?
+
+We have appointed a Data Protection Officer to oversee compliance with this Privacy Notice. If you have any questions about this Privacy Notice or how we handle your personal data, or would like to request access to your personal data, please contact the Data Protection Officer at privacy@tyson.com.

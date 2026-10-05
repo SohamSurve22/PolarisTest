@@ -1,0 +1,659 @@
+# Privacy Statement
+
+## Privacy Statement
+
+Select Language
+
+French
+
+English
+
+Spanish
+
+Last Updated July 15, 2026
+
+LKQ Corporation and its affiliates respect your concerns about privacy and your right to know how your personal data is collected and processed. References in this Privacy Notice to “Company”, “we”, “us”, and “our” are references to the entity responsible for the processing of your personal data, which generally is the entity that obtains your personal data.
+
+This Notice applies to the personal data we collect through our websites, mobile applications, social media pages, and offline collection methods that reference this Notice (collectively, the “Services”).
+
+This Notice describes how the Services collect personal data from you, what types of information we collect, how we may use the personal data, with whom we may share it, the measures we take to safeguard the personal data we obtain, how you may exercise your rights regarding our processing of your personal data, and how you can contact us regarding our privacy practices.
+
+The Services may provide links to other third-party websites and features, or contain third-party cookies, that are not owned or controlled by us. Please review the privacy notices of these third parties to familiarize yourself with their privacy practices. You may also exercise your choices regarding third-party cookies using our Cookie Consent Management Tool. Depending on the website you are visiting, you can access the tool by clicking on the Cookie icon, Cookie link or Privacy Choices link at the bottom of the page.
+
+By using the Services, you acknowledge you have read and understood the terms of this Notice. Please fully review this Notice before you use the Services or submit information to us.
+
+Content Overview
+
+- Personal data we collect
+
+- How we collect personal data
+
+- Cookies and similar technologies
+
+- How we use personal data
+
+- How we share information
+
+- Data transfers
+
+- How we protect personal data
+
+- Your privacy choices
+
+- Data retention
+
+- Additional information
+
+- How to contact us
+
+- Additional State Disclosures
+
+- Canada Disclosures
+
+1. PERSONAL DATA WE COLLECT
+
+We may collect certain personal data about you in order to provide and improve the Services. The categories of personal data we collect include:
+
+1.1. Contact information including name, job title, business name, phone and fax number, email and postal address for you or for others (e.g., principals in your business);
+
+1.2. Information used to create your online account (such as username, password, favorite store and security question and answer);
+
+1.3. We collect and store the information that you and other users provide when you and they use and interact with the Services (such as your favorite store locations, branch or your vehicle information);
+
+1.4. Purchase and customer service history;
+
+1.5. Financial and tax information, including name, billing address, payment card details (i.e., card number, expiration date and security code), tax related information (e.g., business tax ID and VAT ID), credit screening and bank account information;
+
+1.6. Location data (i.e., data derived from your IP address, country and zip code);
+
+1.7. Usage data including details on your browser (such as type, version, language); operating system and interface; website from which you are visiting us (referrer URL); webpage(s) you are visiting on our website; date and time of accessing our website and time zone difference; access status/HTTP status code; volume of data transferred; internet protocol (IP) address; and information gathered via cookies;
+
+1.8. Correspondence-related data such as emails, texts, letters, or responses to surveys and questionnaires; information you provide us by phone or live chat; or your feedback on your experience with the Services, or a Company facility;
+
+1.9. Other personal data (i.e., date of birth, place of birth, citizenship, age)
+
+Please note that providing personal data to us is voluntary on your part. However, some information, such as your name, address, and payment transaction information, may be necessary for the performance of our contractual obligations. If you choose not to provide us certain information, we may not be able to offer you certain products and services, and you may not be able to access certain features of the Services.
+
+2. HOW WE COLLECT PERSONAL DATA
+
+We collect personal data in a few ways:
+
+2.1. Information you give us. We collect information that you elect to share with us, for example, when you sign up for a newsletter, respond to a survey or fill out a form, register for a product warranty, sign up for a loyalty program, create an account to access the Services, visit our stores, attend one of our events, enter into a contest or sweepstakes, place an order, provide a review, contact customer service, or make a purchase.
+
+2.2. Information obtained when you use the Services. We collect certain information from you through your use of the Services, such as usage data and location data (i.e., such as data derived from your IP address, country and zip code). We may also collect generic network information and aggregated data in relation to how you use the Services in order to assess and improve functionality of the Services.
+
+2.3. Information provided by third parties. We may obtain data about you from third parties who help us provide the Services to you. For example, we may obtain information about your order or product return from our order fulfillment and delivery partners, and garages that service your vehicles may provide vehicle service and repair information. We may also obtain data about you from third party credit reference agencies if we conduct a credit check. In these instances, please refer to the relevant third party’s privacy notice to understand how they handle your personal data.
+
+We also use third-party web analytics services in connection with the Services, which use cookies and similar technologies to collect data (such as IP addresses) to evaluate use of and interaction with the Services. Depending on the website you are visiting, you can learn more about these analytic tools and how to opt-in/opt-out by either clicking on the Cookie icon, Cookie link, or Privacy Choices link at the bottom of the page.
+
+3. COOKIES AND SIMILAR TECHNOLOGIES
+
+Like most companies, we use cookies and similar technologies (“cookies”) in the Services to personalize and enhance your experience. We and third parties with whom we partner (including Google Analytics) may use cookies, web beacons, tracking pixels, web bugs, scripts, tags, and other similar technology (collectively, “Cookies”) to record information about your activities on our websites and on third-party websites that you visit.
+
+3.1. Cookies. A cookie is a small text file that is stored on a device for record-keeping purposes. Cookies record information about your activities while using a website and “remember” you when you return to the website. Some cookies remain on your device until you delete them. Others, like session ID cookies, expire when you close your browser. You may set your device settings to attempt to reject cookies but doing so may affect functionality of the Services. Information collected by cookies may include, but is not limited to: your IP address, browser type and language, device type, device identifiers, other device and software information (such as configuration information on your device and other applications), apps you access, search and browsing information, web usage information, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages and the date and time of each request you make.
+
+3.2. Pixels. Pixels (aka web beacons) are tiny graphics with a unique identifier that are used to track the online movements of web users. Unlike cookies, which are stored on a computer’s hard drive, pixels are small graphics that are about the size of the period at the end of the sentence that are embedded invisibly on web pages or in HTML-based emails. We do not control the use of pixels by third parties.
+
+3.3. Making cookie choices. Except for cookies that are essential to the operation of the website you are visiting, you can choose what cookies you will accept. You can view the cookies used on the Company website you are visiting and make choices about those cookies, through the Cookie Consent Management tool. Depending on the website, you can access the tool by either clicking on the Cookie icon or the Cookie link at the bottom of that site. By refusing to accept cookies, you may not be able to use some of the features and functionality available through the Services.
+
+3.4. Sharing tools. To enhance your experience when using the Services, we sometimes embed content and sharing tools from other third-party sites, such as “like” buttons from social networking sites; these third-party sites may also place and access cookies on your device. We do not control the placement or access of these third-party cookies. Please review the privacy notices of these third parties to familiarize yourself with their practices.
+
+3.5. Google Analytics. Google, an analytics provider, may collect information about our website usage and users of the Services to the extent the website uses Google Analytics. Google may use cookies and pixels to collect usage information from users that visit the Services, including information about the pages where users enter and exit the Services, what pages users view on the Services, time spent on each page, browser version, operating system, internet protocol address, and Geolocation Data. These technologies allow Google to recognize a user when a user visits the Services and when the user visits other websites. Google aggregates the information it collects from the Services and from other websites and shares the aggregated information with us and other website operators, including but not limited to age range, gender, geographic regions, general interests and details about devices used to visit websites and purchase items. For more information regarding Google’s collection methods and use of information, see the Google Privacy Policy by visiting the following link: https://www.google.com/intl/en/policies/privacy/. To manage your Google Analytics tracking choices, please visit the following link: https://tools.google.com/dlpage/gaoptout. You may also understand whether and how we use Google and exercise your choices by clicking on the Cookie icon, Cookie link or Privacy Choices link at the bottom of the page, depending on the website you are visiting. When you decline cookies, we may still receive limited, anonymized signals from Google to help us understand website usage and measure ad performance. These signals include functional information about your website visit (e.g., visit time, page interactions) but do not identify you or store data on your device.
+
+We may also utilize certain forms of display advertising and other advanced features through Google Analytics. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services. You may control your advertising preferences for certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences, or Google Analytics’ opt-outs for the web at https://tools.google.com/dlpage/gaoptout/, or by visiting NAI’s online resources at https://optout.networkadvertising.org/?c=1.
+
+3.6. Targeted Ads. As is common practice among companies that operate online, we allow certain third-party advertising networks, social media companies and other third-party businesses to collect information directly from your browser or device through cookies or similar tracking technology when you visit or interact with our website, use our apps or otherwise engage with us online. For example, they may collect Internet/Network information, browsing history and website usage, general Geolocation Data, and Inferences generated from your browsing history and interactions with our service as well as other sites and services. These third-party businesses may use such information for their own purposes in accordance with their own privacy statements, which may include reselling this information to additional third parties, including other advertising networks.
+
+We engage these third parties to help us facilitate targeted advertising designed to show you personalized ads based on predictions of your preferences and interests developed using personal data we maintain and personal data our third-party partners obtain from your activity over time and across nonaffiliated websites and other services. The data we and our third-party partners use for purposes of facilitating targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research, are primarily collected through the use of a variety of automatic data collection technologies, including cookies, web beacons, pixels, embedded scripts, mobile SDKs, location-identifying technologies and logging technologies. We may share a common account identifier (such as a hashed email address or user ID) with our third-party advertising partners to help link the personal data we and our third-party partners collect to the same person, or otherwise target advertising to an individual on a third-party website or platform.
+
+You may be able to exercise control over the advertisements that you see by leveraging one or more targeted advertising opt-out programs. To learn more about interest-based advertising and how you may be able to make choices about some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) and Digital Advertising Alliance of Canada’s (DAAC) online resources, at www.aboutads.info/choices or, if you are in the European Economic Area, United Kingdom or Switzerland: https://youronlinechoices.eu/. You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android). You may also be able to opt-out of some — but not all — interest-based advertising served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app.
+
+Additionally, certain devices provide individuals the option to turn off targeted advertising for the entire device (such as Apple devices through their App Tracking Transparency framework or Android devices through their opt out of ads personalization feature). Please refer to your device manufacturer’s user guides for additional information about implementing any available device-specific targeted advertising opt-outs. Certain third-party platforms may also provide individuals the option to turn off targeted advertising for the entire platform (such as certain social media platforms). Please refer to your platform provider’s user guides for additional information about implementing any available platform-specific targeted advertising opt-outs.
+
+Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our online services. It means that the online ads that you do see from program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third party’s opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other permitted purpose.
+
+3.7. Third party tools. You may be able to utilize third-party tools and features to restrict our use of automatic data collection technologies. For example, (i) most browsers allow you to change browser settings to limit automatic data collection technologies on websites, (ii) most email providers allow you to prevent the automatic downloading of images in emails that may contain automatic data collection technologies, and (iii) many devices allow you to change your device settings to limit automatic data collection technologies for device applications. Please note that blocking automatic data collection technologies through third-party tools and features may negatively impact your experience using our services, as some features and offerings may not work properly or at all. Depending on the third-party tool or feature you use, you may not be able to block all automatic data collection technologies or you may need to update your preferences on multiple devices or browsers. We do not have any control over these third-party tools and features and are not responsible if they do not function as intended.
+
+3.8. Microsoft Clarity. We partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products and services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products and services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the Microsoft Privacy Statement.
+
+4. HOW WE USE PERSONAL DATA
+
+We may use the personal data we obtain as follows:
+
+4.1. Provide and administer our products and services;
+
+4.2. Process and fulfill orders and keep you informed about the status of your order;
+
+4.3. Communicate about and administer our products, services, events, programs and promotions (such as by sending alerts, promotional materials, newsletters and other marketing communications);
+
+4.4. Conduct and facilitate surveys, sweepstakes, contests, focus groups and market research initiatives;
+
+4.5. Perform data analytics (such as market research, trend analysis, financial analysis and customer segmentation);
+
+4.6. Provide customer support;
+
+4.7. Process, evaluate and respond to requests, inquiries and applications;
+
+4.8. Create, administer and communicate with you about your account (including any purchases and payments);
+
+4.9. Provide investor services;
+
+4.10. Conduct marketing and sales activities (including generating leads, pursuing marketing prospects, performing market research, determining and managing the effectiveness of our advertising and marketing campaigns and managing our brand);
+
+4.11. Operate, evaluate and improve our business (such as by administering, enhancing, and improving our products and services; developing new products and services; managing our communications and customer relationships; and performing accounting, auditing, billing, reconciliation and collection activities);
+
+4.12. Verify your identity and protect against and prevent fraud and other unlawful activity, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality;
+
+4.13. Conduct investigations and comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies and terms; and
+
+4.14. Maintain and enhance the safety and security of our products, services, information resources and employees.
+
+We may at times receive, or process personal data to create, deidentified data that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified data, we will maintain and use the data in deidentified form and not attempt to reidentify the data except as required or permitted by law. Where required by applicable law, we will obtain your consent for the processing of your personal data for direct marketing purposes.
+
+The legal basis for our processing your personal data as described above will typically be one of the following: (1) your consent; (2) performance of a contract with you or a relevant party; (3) our legitimate business interest (e.g., managing our business and improving the services); or (4) compliance with our legal obligations.
+
+5. HOW WE SHARE INFORMATION
+
+We may share your personal data with (internal and external) recipients for the processing purposes described above.
+
+5.1. Within the Company: Depending on the categories of personal data and the purposes for which the personal data has been collected, different internal departments within the Company may receive it (for example, our IT department may have access to usage data; our sales departments may have access to account and order data). Moreover, other Company departments may have access to certain personal data about you on a need-to-know basis, such as the legal department, the finance department or internal auditing.
+
+5.2. Sharing with Other Users. The Services may allow users to connect and communicate with others, such as through a message board. If you use any communication features, other users of the Services may be able to view your profile information and your communications that you post to the Services.
+
+5.3. Service Providers. We use third parties to help us operate and improve the Services (e.g., hosting providers, e-commerce service providers and analytics service providers). We may provide these third parties with information we collect, and they may collect information from you and about your use of the Services. The processing by these third parties will, unless specifically noted otherwise in this Notice, be governed by a contractual agreement requiring them to process the personal data solely on behalf of the Company when performing the Services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the Company.
+
+5.4. Insolvency and Business Transitions. If we ever file for bankruptcy or engage in a business transition such as a merger or joint venture with another company, or if we purchase, sell, or reorganize all or a part of the Services or our business or assets or the business or assets of our affiliates, we may disclose your personal data, including to prospective or actual purchasers in connection with one of these transactions.
+
+5.5. Regulators, authorities and other third parties. We may also transfer your personal data to governmental agencies and regulators (e.g., tax authorities), courts, government authorities, and independent external advisors acting as controllers (e.g., lawyers, accountants, auditors etc.) all in accordance with applicable law.
+
+5.6. Garages. We may share your personal data with garages that service your vehicle and/or provide services to you, for example in order to fulfill your contract with that third party. Please refer to the relevant third party’s privacy notice to understand how they handle and process your personal data.
+
+5.7. Suppliers. We may share certain personal data with our suppliers, for example in relation to claims and complaint management and customer bonus or incentive programs where necessary.
+
+5.8. Third Party Social Media Platforms. We may share certain personal data with third parties such as social media platforms where necessary for the purposes of features or functions incorporated into our Services which are provided by such third parties. Please refer to the relevant third party’s privacy notice to understand how they handle and process your personal data.
+
+6. DATA TRANSFERS
+
+We may transfer the personal data we collect and may store such information outside the country in which the information was provided. These countries may have different data protection laws than the country in which the information was provided. If we do so, we will take necessary measures to ensure that such transfers are adequately protected as required by applicable data protection law, including but not limited to adequacy decisions, relevant government treaties and the Standard Contractual Clauses approved by the European Commission.
+
+7. HOW WE PROTECT PERSONAL DATA
+
+We implement physical, technological, and administrative measures to protect personal information and ensure its confidentiality, including safeguards such as secure facilities, security technologies (e.g., firewalls), and internal policies that limit access to personal information to those who require it to perform their duties. These administrative, technical, and physical safeguards are maintained in accordance with applicable legal requirements and are designed to protect against unlawful or unauthorized destruction, loss, alteration, use, disclosure of, or access to the personal information provided to us through the Services.
+
+8. YOUR PRIVACY CHOICES
+
+If you have an account with us and would like to update your personal data associated with your account, you may make changes in the “My Profile” or “Settings” portions of the Services. Aside from updates you make, at any time, you may challenge the accuracy or completeness of your personal data in our records. If you successfully demonstrate that your personal data in our records is inaccurate or incomplete, we will update the personal data as required. Where appropriate, we will transmit the updated information to third parties having access to your personal data.
+
+If you would like to cancel your Account, request access or a correction to your personal data (other than corrections you can make in the “My Profile” or “Settings” portions of the Services), please contact us using the “Contact Us” feature within the Services. If you do not want your information accessed or stored as described in this Notice, you should not access, use, or register an Account with the Services.
+
+For information about your options to control or restrict our (and third parties’) use of automatic data collection technologies, please see the Cookies and similar technologies section above.
+
+To the extent provided by the law of your jurisdiction, you may also have the following rights.
+
+8.1. Right to Withdraw Your Consent. If you have given your consent regarding certain types of processing activities (in particular regarding the receipt of certain direct marketing communications), you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal. You can withdraw your consent by clicking on the withdraw option in relevant communication or by contacting your relationship manager (for existing customers).
+
+8.2. Access & Portability. Where provided by applicable data protection law, you may have the right to obtain access to the personal data we have collected about you and, where required by law, the right to obtain a copy of the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+
+8.3. Correction. Where provided by applicable data protection law and taking into account the nature of the personal data and the purposes of processing of the personal data, you may have the right to obtain from us the rectification of inaccurate personal data concerning you. Depending on the purposes of the processing, you have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+8.4. Deletion. Where provided by applicable data protection law, you have the right to request deletion of personal data concerning you and we are obliged to delete such data, except where retention is required by contract, in the context of a legal dispute or other legal retention requirement, or as otherwise permitted by applicable law.
+
+8.5. Restriction. Where provided by applicable data protection law, you have the right to request the restriction of processing of your personal data (for example, where the accuracy of the personal data is contested). In this case, the respective personal data will be marked and may only be processed by us with your consent or for certain purposes.
+
+8.6. Opt-out of the Sales or Sharing of Personal Data. Where provided by applicable data protection law, you may have the right to direct us not to sell your personal data to third parties for monetary or other valuable consideration, or “share” your personal data to third parties for cross-context behavioral advertising purposes and targeted advertising purposes.
+
+8.7. Automated Decision-Making/Profiling. Where provided by applicable data protection law, you may have the right to direct us not to use automated decision-making or profiling for certain purposes.
+
+8.8. Appeal. Depending on your jurisdiction, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted through the information provided in the “How to contact us” section of this Notice.
+
+8.9. Objection. Where provided by applicable data protection law and under certain circumstances, you have the right to object, on grounds relating to your particular situation, at any time to the processing of your data by us and we are required to no longer process your data. Such right to object especially applies if we collect and process your data for direct marketing purposes. If you have a right to object and if you exercise this right, your data will no longer be processed for such purposes by us, except where required by law, where we demonstrate compelling legitimate grounds for the processing that overrides your interests or fundamental rights and freedoms or for the establishment, exercise or defense of legal claims.
+
+Additionally, to the extent the European Union General Data Protection Regulation (GDPR) applies, you also have the right to lodge a complaint with the competent data protection supervisory authority in the relevant Member State (e.g., the place where you reside, work, or where an alleged infringement of the GDPR took place).
+
+Submitting Privacy Rights Requests
+
+To submit a request to exercise one of the privacy rights identified above, please utilize the information provided in the “How to contact us” section of this Privacy Notice.
+
+Before processing your request, we may need to verify your identity and confirm you are a resident of a state that offers the requested right(s). In order to verify your identity, we will generally either require the successful authentication of your customer account, or the matching of sufficient information you provide us to the information we maintain about you in our systems. As a result, we may require requests to include email address, phone number, and/or date of last transaction on our Services. We may at times need to request additional personal data from you, taking into consideration our relationship with you and the sensitivity of your request.
+
+In certain circumstances, we may decline a privacy rights request, particularly where you are not a resident of one of the eligible states or where we are unable to verify your identity.
+
+Authorized Agents
+
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either (i) a valid power of attorney or (ii) a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request.
+
+9. DATA RETENTION
+
+We retain personal data only for as long as is reasonably necessary to fulfill the purpose for which it was collected. However, if necessary, we may retain personal data for longer periods of time, until set retention periods and deadlines expire, for instance where we are required to do so in accordance with legal, tax and accounting requirements set by a legislature, regulator or other government authority.
+
+To determine the appropriate duration of the retention of personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of personal data and if we can attain our objectives by other means, as well as our legal, regulatory, tax, accounting and other applicable obligations.
+
+Therefore, we retain personal data for as long as the individual continues to use our services for the purposes explained in this Privacy Notice. When an individual discontinues the use of our services, we will retain their personal data for as long as necessary to comply with our legal obligations, to resolve disputes and defend claims, as well as, for any additional purpose based on the choices they have made, such as to receive marketing communications. In particular, we will retain personal data supplied when joining our services, including complaints, claims and any other personal data supplied during the duration of an individual’s contract with us for the services until the statutory limitation periods have expired, when this is necessary for the establishment, exercise or defense of legal claims.
+
+Once retention of the personal data is no longer necessary for the purposes outlined above, we will either delete or deidentify the personal data or, if this is not possible (for example, because personal data has been stored in backup archives), then we will securely store the personal data and isolate it from further processing until deletion or deidentification is possible.
+
+10. ADDITIONAL INFORMATION
+
+10.1. Children. The Services are intended for users over the age of 18 and is not directed to children under 14. We do not sell the personal data of consumers we know to be less than 16 years of age, unless we receive affirmative authorization (the “Right to Opt In”) from either the minor who is between 13 and 16 years of age, or the parent or guardian of a minor less than 13 years of age.
+
+If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us by using the contact information at the end of this Privacy Notice. We may not be able to modify or delete your information in all circumstances.
+
+If you become aware that a child has provided us with personal data without parental consent, please contact us by using the contact information at the end of this Privacy Notice, and we will take steps to remove the information and terminate the child's account.
+
+10.2. Modification of this Notice. We will occasionally update this Notice, in our sole discretion. When we post changes to this Notice, we will revise the "Last updated date” at the top of this Notice in order to notify you of changes. We recommend that you check the Services from time to time to inform yourself of any changes in this Notice or any of our other policies. If we make material changes to this Privacy Notice, we will notify individuals by email to their registered email address, by prominent posting on our Services, or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided.
+
+11. HOW TO CONTACT US
+
+If you have questions, concerns or complaints regarding your existing account please contact us using the “Contact Us” feature within the Services.
+
+If you have questions, concerns or complaints about our privacy practices, please contact our Privacy Office at:
+
+[email protected]
+
+or
+LKQ Corporation
+
+5846 Crossings Blvd.
+
+Antioch, TN 37013
+
+Attn: Chief Privacy Officer
+
+12. ADDITIONAL STATE DISCLOSURES
+
+Depending on your state of residency, the following supplementary disclosures may apply to you:
+
+12.1. Personal data disclosures, sales and targeted advertising. We disclose all of the categories of personal data we collect to the categories of recipients set forth in the How we share information section of our Privacy Notice. Our disclosure of personal data to the following categories of third parties qualifies as the sale of personal data or the sharing or processing of personal data for the purpose of displaying advertisements that are selected based on personal data obtained or inferred over time from an individual’s activities across businesses or distinctly-branded websites, applications, or other services (otherwise known as “targeted advertising” or “cross-context behavioral advertising”) under certain privacy laws:
+
+Advertising and Marketing Service Providers: identifiers and network information, such as IP address and advertising ID.
+
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to limit or opt-out of the sale of personal data or the processing of personal data for purposes of targeted advertising (as described in the Your Privacy Choices section above).
+
+Please note we do not sell the personal data of individuals we know to be less than 16 years of age or share such information for targeted advertising purposes.
+
+We may at times receive, or process personal data to create, deidentified information that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified information, we will maintain and use the information in deidentified form and not attempt to reidentify the information except as required or permitted by law.
+
+12.2. Right to Know. Depending on your state of residency, you may have the right to confirm whether we are processing personal data about you and, under certain laws, to obtain certain personalized details about the personal data we have collected about you, including: the categories of personal data collected; the categories of sources of the personal data; the purposes for which the personal data were collected; the categories of personal data disclosed to third parties (if any), and the categories of recipients to whom this personal data were disclosed; the categories of personal data sold (if any), and the categories of third parties to whom the personal data were sold; and the categories of personal data shared for targeted advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for these purposes.
+
+12.3. Sensitive personal data. The following personal data elements we collect may be classified as “sensitive” under certain privacy laws:
+
+Government ID numbers, including social security numbers when necessary for tax purposes.
+
+Citizenship or immigration status.
+
+We do not use or disclose sensitive personal data for any purpose other than for what would reasonably be expected in connection with the Services, for detecting security incidents, fraud and other illegal actions, or for short term transient use. We only collect and process sensitive personal data without the purpose of inferring characteristics about the relevant individual, and we do not sell sensitive information or process or otherwise share sensitive information for the purpose of targeted advertising.
+
+12.4. Right to Opt Out of the Selling or Sharing of Personal Data for Targeted Advertising Purposes. To the extent provided by the law of your jurisdiction and subject to certain legal limitations and exceptions, you may be able to exercise some or all of the following rights with respect to your personal data:
+
+Unless you have exercised your Right to Opt Out, we may “sell” or “share” your personal data to third parties for targeted or cross-context behavioral advertising purposes. The third parties to whom we sell or share personal data may use such information for their own purposes in accordance with their own privacy statements, which may include reselling or sharing this information to additional third parties.
+
+To exercise your Right to Opt Out as it relates to the use of cookies and other tracking technologies for analytics and targeted ads, click on the Cookie icon, Cookie link or Privacy Choices link at the bottom of this page. Please see the Your Privacy Choices section above for more information about exercising other rights.
+
+If you are visiting our site with the Global Privacy Control enabled, any cookies that constitute sales or are used for targeted advertising should already be turned off automatically in our cookie preference manager. Please note this opt-out tool is website-, device-, and browser-specific, so you will need to change your preferences on each device and browser you use to interact with the specific website you are visiting. In addition, you can also opt out of cookie-based sales by businesses that participate in the Digital Advertising Alliance’s CCPA Opt-Out Tool by visiting https://www.privacyrights.info/.
+
+12.5. Notice of Financial Incentives. A part of our business involves the design and implementation of programs and other offerings intended to provide benefits to eligible participants. Most of the programs and other offerings we manage are provided on behalf of our clients. For these programs and other offerings, please refer to the terms and privacy notice of the client with which you have a relationship for information regarding any financial incentives they may offer through our services.
+
+Apart from the programs and other offerings we provide on behalf of our clients, we also provide our own programs and other offerings directly to interested individuals that may qualify as financial incentives. For example, the programs and other offerings we may make available to interested individuals include:
+
+Access to exclusive content, research, and insights; or
+
+Discounts, coupons, cash back, and other special offers for shopping with our partners.
+
+To obtain access to certain of these programs and other offerings, we may ask to collect or share an interested individual’s personal data, including name, contact information, professional information, account information, and shopping transaction information. We have determined that the value of these programs and other offerings are reasonably related to the value of the personal data we receive and otherwise process in connection with these programs and offerings, based on our reasonable but sole determination. We estimate the value of the personal data we receive and otherwise process in connection with these programs and offerings by considering the expense we incur in collecting and processing the personal data, as well as the expenses related to facilitating the program or offering.
+
+The terms applicable to each program and other offering are provided at the time an eligible individual is offered an opportunity to participate. Interested individuals can opt-in to these financial incentives by following the instructions presented at the time the offer is made. Participating individuals may withdraw from our programs and other offerings at any time by following the instructions provided in connection with each offering or through the information provided in the “How to contact us” section of our Privacy Notice.
+
+Depending on your state of residency, you may also have the right to not receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights. However, the exercise of the rights described above may result in a different price, rate or quality level of product or service where that difference is reasonably related to the impact the right has on our relationship or is otherwise permitted by law.
+
+12.6. Illinois Biometric Information Notice. Certain LKQ locations use facial-recognition technology to manage and secure access to Company facilities. Where used, LKQ may collect, store, and process facial geometry or information derived from facial geometry solely for identity verification, security, and facility access purposes. LKQ does not sell, lease, or otherwise profit from biometric information and retains and destroys such information in accordance with applicable law and its retention practices. For additional information, please see the LKQ Illinois Data Privacy Policy.
+
+12.7. Nevada Disclosures. If you are a resident of the state of Nevada in the United States, you have the right to opt out of the sale of your personal data. Although we do not currently sell personal data of Nevada residents (as defined under Nevada law), you may submit a request to opt out of the sale of your personal data by contacting us through the information provided in the “How to contact us” section of our Privacy Notice.
+
+12.8. California Disclosures. California law requires we provide disclosures to you about what personal data of California residents we collect by reference to the enumerated categories of personal data set forth within California law. To address this obligation, we have identified the relevant enumerated California personal data category for the personal data, sources and purposes described in the Personal Data We Collect section of our Privacy Notice that we have collected in the preceding 12 months below:
+
+Identifiers, including account identifiers, credit and identity information relating to data used to identify an individual, full name, IP address.
+
+Customer Records, including contact information, security/authentication information, account history relating to individual accounts, and payment information.
+
+Commercial Information, including account history relating to an individual’s purchases, service profile information relating to an individual’s purchases and interests, and feedback information.
+
+Internet/Network Information, including log data, analytics data and application data.
+
+Geolocation Data, including general geographic location (such as country, region, state/province, or postal code), but not precise geolocation information.
+
+Profession/Employment Information, including the business or organization an individual represents, their title with that business or organization and information relating to their role with the business or organization.
+
+Other Personal Data, including communication preferences, customer service and communication history, personal data an individual permits us to see when interacting with us through social media, and personal data an individual provides us in relation to a question, request, inquiry, survey, contest or promotion.
+
+Inferences, including our predictions about interests and preferences and related Service Profile Information.
+
+We collect this data from the following sources: directly from you, from our business partners and affiliates, from your browser or device when you visit our mobile app(s) or use our Services, or from third parties that you permit to share information with us. Please see the Personal Data We Collect section of our Privacy Notice for more information about the sources of personal data we collect. As described in the How We Share Information section of our Privacy Notice, we disclose personal data with a variety of third parties for business purposes or we may sell or share your personal data to third parties for targeted advertising purposes, subject to your right to opt out of selling or sharing as discussed above. In the previous 12 months, we have sold or shared for targeted advertising purposes all of the categories of personal data we collect, explained above, to third parties.
+
+The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. It is company policy that we do not disclose personal information to third parties for their direct marketing purposes if a consumer has exercised their right to opt out. To opt out of this type of sharing, please contact us using the information provided in the “How to contact us” section of this Notice.
+
+13. ADDITIONAL DISCLOSURES FOR CANADA
+
+This section only applies to individuals who reside in Canada and supplements the other sections of this Privacy Notice.
+
+LKQ Corporation’s headquarters are in the United States of America, and some of our affiliates and external third-party service providers are based outside of Quebec and/or Canada. Accordingly, if you are using our Services, your personal data will be processed outside of Quebec and/or Canada. Organizations based outside of Canada may not be subject to privacy laws that provide you with the same rights and protections as in Canada. As a result, when your personal data is used or stored in a jurisdiction other than where you are residing, it may be subject to the law of this foreign jurisdiction, including any law permitting or requiring disclosure of the information to the government, government agencies, courts and law enforcement in that jurisdiction.
+
+If you have questions regarding our use of service providers outside of Canada, please contact our Privacy Office using the information provided above in the How to Contact Us section.
+
+Last Updated December 20, 2022
+
+LKQ Corporation and its affiliates respect your concerns about privacy and your right to know how your personal data is collected and processed. References in this Privacy Notice to “Company”, “we”, “us”, and “our” are references to the entity responsible for the processing of your personal data, which generally is the entity that obtains your personal data.
+
+This Notice applies to the personal data we collect through our websites, mobile applications, social media pages, and offline collection methods that reference this Notice (collectively, the “Services”).
+
+This Notice describes how the Services collect personal data from you, what types of information we collect, how we may use the personal data, with whom we may share it, the measures we take to safeguard the personal data we obtain, how you may exercise your rights regarding our processing of your personal data, and how you can contact us regarding our privacy practices.
+
+The Services may provide links to other third-party websites and features, or contain third-party cookies, that are not owned or controlled by us. Please review the privacy notices of these third parties to familiarize yourself with their privacy practices. You may also exercise your choices regarding third-party cookies using our Cookie Consent Management Tool. Depending on the website you are visiting, you can access the tool by clicking on the Cookie icon, Cookie link or Privacy Choices link at the bottom of the page.
+
+By using the Services, you acknowledge you have read and understood the terms of this Notice. Please fully review this Notice before you use the Services or submit information to us.
+
+Content Overview
+
+- Personal data we collect
+
+- How we collect personal data
+
+- Cookies and similar technologies
+
+- How we use personal data
+
+- How we share information
+
+- Data transfers
+
+- How we protect personal data
+
+- Your privacy choices
+
+- Data retention
+
+- Additional information
+
+- How to contact us
+
+- Additional Disclosures for California Residents
+
+1. PERSONAL DATA WE COLLECT
+
+We may collect certain personal data about you in order to provide and improve the Services. The categories of personal data we collect include:
+
+1.1. Contact information including name, job title, business name, phone and fax number, email and postal address for you or for others (e.g., principals in your business);
+
+1.2. Information used to create your online account (such as username, password, favorite store and security question and answer);
+
+1.3. We collect and store the information that you and other users provide when you and they use and interact with the Services (such as your favorite store locations, branch or your vehicle information);
+
+1.4. Purchase and customer service history;
+
+1.5. Financial and tax information, including name, billing address, payment card details (i.e., card number, expiration date and security code), tax related information (e.g., business tax ID and VAT ID), credit screening and bank account information;
+
+1.6. Location data (i.e., data derived from your IP address, country and zip code);
+
+1.7. Usage data including details on your browser (such as type, version, language); operating system and interface; website from which you are visiting us (referrer URL); webpage(s) you are visiting on our website; date and time of accessing our website and time zone difference; access status/HTTP status code; volume of data transferred; internet protocol (IP) address; and information gathered via cookies;
+
+1.8. Correspondence-related data such as emails, texts, letters, or responses to surveys and questionnaires; information you provide us by phone or live chat; or your feedback on your experience with the Services, or a Company facility;
+
+1.9. Other personal data (i.e., date of birth, place of birth, citizenship, age)
+
+Please note that providing personal data to us is voluntary on your part. However, some information, such as your name, address, and payment transaction information, may be necessary for the performance of our contractual obligations. If you choose not to provide us certain information, we may not be able to offer you certain products and services, and you may not be able to access certain features of the Services.
+
+2. HOW WE COLLECT PERSONAL DATA
+
+We collect personal data in a few ways:
+
+2.1. Information you give us. We collect information that you elect to share with us, for example, when you sign up for a newsletter, respond to a survey or fill out a form, register for a product warranty, sign up for a loyalty program, create an account to access the Services, visit our stores, attend one of our events, enter into a contest or sweepstakes, place an order, provide a review, contact customer service, or make a purchase.
+
+2.2. Information obtained when you use the Services. We collect certain information from you through your use of the Services, such as usage data and location data (i.e., such as data derived from your IP address, country and zip code). We may also collect generic network information and aggregated data in relation to how you use the Services in order to assess and improve functionality of the Services.
+
+2.3. Information provided by third parties. We may obtain data about you from third parties who help us provide the Services to you. For example, we may obtain information about your order or product return from our order fulfillment and delivery partners, and garages that service your vehicles may provide vehicle service and repair information. We may also obtain data about you from third party credit reference agencies if we conduct a credit check. In these instances, please refer to the relevant third party’s privacy notice to understand how they handle your personal data.
+
+We also use third-party web analytics services in connection with the Services, which use cookies and similar technologies to collect data (such as IP addresses) to evaluate use of and interaction with the Services. Depending on the website you are visiting, you can learn more about these analytic tools and how to opt-in/opt-out by either clicking on the Cookie icon, Cookie link, or Privacy Choices link at the bottom of the page.
+
+3. COOKIES AND SIMILAR TECHNOLOGIES
+
+Like most companies, we use cookies and similar technologies (“cookies”) in the Service to personalize and enhance your experience with our Service. We and third parties with whom we partner (including Google Analytics) may use cookies, web beacons, tracking pixels, web bugs, scripts, tags, and other similar technology (collectively, “Cookies”) to record information about your activities on our websites and on third-party websites that you visit.
+
+3.1. Cookies. A cookie is a small text file that is stored on a device for record-keeping purposes. Cookies record information about your activities while using a website and “remember” you when you return to the website. Some cookies remain on your device until you delete them. Others, like session ID cookies, expire when you close your browser. You may set your device settings to attempt to reject cookies but doing so may affect functionality of the Services. Information collected by cookies may include, but is not limited to: your IP address, browser type and language, device type, device identifiers, other device and software information (such as configuration information on your device and other applications), apps you access, search and browsing information, web usage information, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages and the date and time of each request you make.
+
+3.2. Pixels. Pixels (aka web beacons) are tiny graphics with a unique identifier that are used to track the online movements of web users. Unlike cookies, which are stored on a computer’s hard drive, pixels are small graphics that are about the size of the period at the end of the sentence that are embedded invisibly on web pages or in HTML-based emails. We do not control the use of pixels by third parties.
+
+3.3. Making cookie choices. Except for cookies that are essential to the operation of the website you are visiting, you can choose what cookies you will accept. You can view the cookies used on the Company website you are visiting and make choices about those cookies, through the Cookie Consent Management tool. Depending on the website, you can access the tool by either clicking on the Cookie icon or the Cookie link at the bottom of that site. By refusing to accept cookies, you may not be able to use some of the features and functionality available through the Services.
+
+3.4. Sharing tools. To enhance your experience when using the Services, we sometimes embed content and sharing tools from other third-party sites, such as “like” buttons from social networking sites; these third-party sites may also place and access cookies on your device. We do not control the placement or access of these third-party cookies. Please review the privacy notices of these third parties to familiarize yourself with their practices.
+
+3.5. Google Analytics. Google, an analytics provider, may collect information about our website usage and users of the Services to the extent the website uses Google Analytics. Google may use cookies and pixels to collect usage information from users that visit the Services, including information about the pages where users enter and exit the Services, what pages users view on the Services, time spent on each page, browser version, operating system, internet protocol address, and geolocation information. These technologies allow Google to recognize a user when a user visits the Services and when the user visits other websites. Google aggregates the information it collects from the Services and from other websites and shares the aggregated information with us and other website operators, including but not limited to age range, gender, geographic regions, general interests and details about devices used to visit websites and purchase items. For more information regarding Google’s collection methods and use of information, see the Google Privacy Policy by visiting the following link: https://www.google.com/intl/en/policies/privacy/. To manage your Google Analytics tracking choices, please visit the following link: https://tools.google.com/dlpage/gaoptout. You may also understand whether and how we use Google and exercise your choices by clicking on the Cookie icon, Cookie link or Privacy Choices link at the bottom of the page, depending on the website you are visiting.
+
+We may also utilize certain forms of display advertising and other advanced features through Google Analytics. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services. You may control your advertising preferences for certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences, or by visiting NAI’s online resources at https://optout.networkadvertising.org/?c=1.
+
+3.6. Online Ads. To learn more about interest-based advertising and how you may be able to make choices about some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) resources and/or the Network Advertising Initiative’s (NAI) online resources, at www.aboutads.info/choices or http://www.networkadvertising.org/choices/, or if you are in the European Economic Area, United Kingdom or Switzerland: https://youronlinechoices.eu/. You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android). You may also be able to opt-out of some — but not all — interest-based advertising served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app.
+
+Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our online services. It means that the online ads that you do see from DAA program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s Principles.
+
+If you are located in the EEA, UK, or Switzerland, you may take advantage of Your Online Choices. This service allows you to select tracking preferences for most of the advertising tools. As such, it is recommended that you make use of this resource in addition to the information provided in this document.
+
+4. HOW WE USE PERSONAL DATA
+
+We may use personal data we obtain as follows:
+
+4.1. Provide and administer our products and services;
+
+4.2. Process and fulfill orders and keep you informed about the status of your order;
+
+4.3. Communicate about and administer our products, services, events, programs and promotions (such as by sending alerts, promotional materials, newsletters and other marketing communications);
+
+4.4. Conduct and facilitate surveys, sweepstakes, contests, focus groups and market research initiatives;
+
+4.5. Perform data analytics (such as market research, trend analysis, financial analysis and customer segmentation);
+
+4.6. Provide customer support;
+
+4.7. Process, evaluate and respond to requests, inquiries and applications;
+
+4.8. Create, administer and communicate with you about your account (including any purchases and payments);
+
+4.9. Provide investor services;
+
+4.10. Conduct marketing and sales activities (including generating leads, pursuing marketing prospects, performing market research, determining and managing the effectiveness of our advertising and marketing campaigns and managing our brand);
+
+4.11. Operate, evaluate and improve our business (such as by administering, enhancing, and improving our products and services; developing new products and services; managing our communications and customer relationships; and performing accounting, auditing, billing, reconciliation and collection activities);
+
+4.12. Verify your identity and protect against and prevent fraud and other unlawful activity, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality;
+
+4.13. Conduct investigations and comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies and terms; and
+
+4.14. Maintain and enhance the safety and security of our products, services, information resources and employees.
+
+We may at times receive, or process personal data to create, deidentified data that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified data, we will maintain and use the data in deidentified form and not attempt to reidentify the data except as required or permitted by law. Where required by applicable law, we will obtain your consent for the processing of your personal data for direct marketing purposes.
+
+The legal basis for our processing your personal data as described above will typically be one of the following: (1) your consent; (2) performance of a contract with you or a relevant party; (3) our legitimate business interest (e.g., managing our business and improving the services); or (4) compliance with our legal obligations.
+
+5. HOW WE SHARE INFORMATION
+
+We may share your personal data with (internal and external) recipients for the processing purposes described above:
+
+5.1. Within the Company: Depending on the categories of personal data and the purposes for which the personal data has been collected, different internal departments within the Company may receive it (for example, our IT department may have access to usage data; our sales departments may have access to account and order data). Moreover, other Company departments may have access to certain personal data about you on a need-to-know basis, such as the legal department, the finance department or internal auditing.
+
+5.2. Sharing with Other Users. The Services may allow users to connect and communicate with others, such as through a message board. If you use any communication features, other users of the Services may be able to view your profile information and your communications that you post to the Services.
+
+5.3. Service Providers. We use third parties to help us operate and improve the Services (e.g., hosting providers, e-commerce service providers and analytics service providers). We may provide these third parties with information we collect, and they may collect information from you and about your use of the Services. The processing by these third parties will, unless specifically noted otherwise in this Notice, be governed by a contractual agreement requiring them to process the personal data solely on behalf of the Company when performing the Services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the Company.
+
+5.4. Insolvency and Business Transitions. If we ever file for bankruptcy or engage in a business transition such as a merger or joint venture with another company, or if we purchase, sell, or reorganize all or a part of the Services or our business or assets or the business or assets of our affiliates, we may disclose your personal data, including to prospective or actual purchasers in connection with one of these transactions.
+
+5.5. Regulators, authorities and other third parties. We may also transfer your personal data to governmental agencies and regulators (e.g., tax authorities), courts, government authorities, and independent external advisors acting as controllers (e.g., lawyers, accountants, auditors etc.) all in accordance with applicable law.
+
+5.6. Garages. We may share your personal data with garages that service your vehicle and/or provide services to you, for example in order to fulfill your contract with that third party. Please refer to the relevant third party’s privacy notice to understand how they handle and process your personal data.
+
+5.7. Suppliers. We may share certain personal data with our suppliers, for example in relation to claims and complaint management and customer bonus or incentive programs where necessary.
+
+5.8. Third Party Social Media Platforms. We may share certain personal data with third parties such as social media platforms where necessary for the purposes of features or functions incorporated into our Services which are provided by such third parties. Please refer to the relevant third party’s privacy notice to understand how they handle and process your personal data.
+
+6. DATA TRANSFERS
+
+We may transfer the personal data we collect and may store such information outside the country in which the information was provided. These countries may have different data protection laws than the country in which the information was provided. If we do so, we will take necessary measures to ensure that such transfers are adequately protected as required by applicable data protection law, including but not limited to adequacy decisions, relevant government treaties and the Standard Contractual Clauses approved by the European Commission.
+
+7. HOW WE PROTECT PERSONAL DATA
+
+We maintain administrative, technical and physical safeguards, consistent with legal requirements where the personal data was obtained, designed to protect against unlawful or unauthorized destruction, loss, alteration, use or disclosure of, or access to, the personal data provided to us through the Services.
+
+8. YOUR PRIVACY CHOICES
+
+If you have an account with us and would like to update your personal data associated with your account, you may make changes in the “My Profile” or “Settings” portions of the Services. Aside from updates you make, at any time, you may challenge the accuracy or completeness of your personal data in our records. If you successfully demonstrate that your personal data in our records is inaccurate or incomplete, we will update the personal data as required. Where appropriate, we will transmit the updated information to third parties having access to your personal data.
+
+If you would like to cancel your Account, request access or a correction to your personal data (other than corrections you can make in the “My Profile” or “Settings” portions of the Services), please contact us using the “Contact Us” feature within the Services. If you do not want your information accessed or stored as described in this Notice, you should not access, use, or register an Account with the Services.
+
+To the extent provided by the law of your jurisdiction, you may also have the following rights:
+
+8.1. Right to withdraw your consent. If you have given your consent regarding certain types of processing activities (in particular regarding the receipt of certain direct marketing communications), you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal. You can withdraw your consent by clicking on the withdraw option in relevant communication or by contacting your relationship manager (for existing customers).
+
+8.2. Access. If provided by applicable data protection law, you have the right to obtain from us confirmation as to whether or not personal data concerning you is processed, and to request access to the personal data. Depending on your jurisdiction, the access information may include the purposes of the processing, the envisaged period for which the personal data will be stored, or if not possible, the criteria used to determine that period, the categories of personal data concerned, the categories of sources of the personal data, the categories of personal data disclosed to third parties (if any) and the recipients or categories of recipients to whom the personal data have been or will be disclosed. You may also have the right to obtain a copy of the personal data we hold about you.
+
+8.3. Correction. Where provided by applicable data protection law and taking into account the nature of the personal data and the purposes of processing of the personal data, you may have the right to obtain from us the rectification of inaccurate personal data concerning you. Depending on the purposes of the processing, you have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+8.4. Deletion. Where provided by applicable data protection law, you have the right to request deletion of personal data concerning you and we are obliged to delete such data, except where retention is required by contract, in the context of a legal dispute or other legal retention requirement, or as otherwise permitted by applicable law.
+
+8.5. Restriction. Where provided by applicable data protection law, you have the right to request the restriction of processing of your personal data (for example, where the accuracy of the personal data is contested). In this case, the respective personal data will be marked and may only be processed by us with your consent or for certain purposes.
+
+8.6. Portability. Where provided by applicable data protection law, you have the right to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format, and you have the right to transmit that personal data to another entity without hindrance from us, where the processing is carried out by automated means and is based on consent or contract.
+
+8.7. Opt out of the Sales or Sharing of Personal Data. You may have the right to direct us not to sell your personal data to third parties for monetary or other valuable consideration, or “share” your personal data to third parties for cross-context behavioral advertising purposes and targeted advertising purposes.
+
+8.8. Automated Decision-Making/Profiling. You may have the right to direct us not to use automated decision-making or profiling for certain purposes.
+
+8.9. Right to Appeal. Depending on your jurisdiction, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted through the information provided in the “How to contact us” section of this Notice.
+
+-
+- Colorado Residents: If your appeal is denied, you may contact the Colorado Attorney General to address your concerns here.
+
+- Connecticut Residents: If your appeal is denied, you may contact the Connecticut Attorney General to submit a complaint here.
+
+- Virginia Residents: If your appeal is denied, you may contact the Virginia Attorney General to submit a complaint here.
+
+Depending on your state of residency, you may also have the right to not receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights. However, the exercise of the rights described above may result in a different price, rate or quality level of product or service where that difference is reasonably related to the impact the right has on our relationship or is otherwise permitted by law.
+
+8.10. Objection. Where provided by applicable data protection law and under certain circumstances, you have the right to object, on grounds relating to your particular situation, at any time to the processing of your data by us and we are required to no longer process your data. Such right to object especially applies if we collect and process your data for direct marketing purposes. If you have a right to object and if you exercise this right, your data will no longer be processed for such purposes by us, except where required by law, where we demonstrate a compelling legitimate grounds for the processing that overrides your interests or fundamental rights and freedoms or for the establishment, exercise or defense of legal claims.
+
+Additionally, to the extent the European Union General Data Protection Regulation (GDPR) applies, you also have the right to lodge a complaint with the competent data protection supervisory authority in the relevant Member State (e.g., the place where you reside, work, or where an alleged infringement of the GDPR took place).
+
+Submitting Privacy Rights Requests
+
+To submit a request to exercise one of the privacy rights identified above, please utilize the information provided in the “How to contact us” section of this Privacy Notice.
+
+Before processing your request, we may need to verify your identity and confirm you are a resident of a state that offers the requested right(s). In order to verify your identity, we will generally either require the successful authentication of your customer account, or the matching of sufficient information you provide us to the information we maintain about you in our systems. As a result, we may require requests to include email address, phone number, and/or date of last transaction on our Services. We may at times need to request additional personal data from you, taking into consideration our relationship with you and the sensitivity of your request.
+
+In certain circumstances, we may decline a privacy rights request, particularly where you are not a resident of one of the eligible states or where we are unable to verify your identity.
+
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either (i) a valid power of attorney or (ii) a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request.
+
+9. DATA RETENTION
+
+We retain personal data only for as long as is reasonably necessary to fulfill the purpose for which it was collected. However, if necessary, we may retain personal data for longer periods of time, until set retention periods and deadlines expire, for instance where we are required to do so in accordance with legal, tax and accounting requirements set by a legislature, regulator or other government authority.
+
+To determine the appropriate duration of the retention of personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of personal data and if we can attain our objectives by other means, as well as our legal, regulatory, tax, accounting and other applicable obligations.
+
+Therefore, we retain personal data for as long as the individual continues to use our services for the purposes explained in this Privacy Notice. When an individual discontinues the use of our services, we will retain their personal data for as long as necessary to comply with our legal obligations, to resolve disputes and defend claims, as well as, for any additional purpose based on the choices they have made, such as to receive marketing communications. In particular, we will retain personal data supplied when joining our services, including complaints, claims and any other personal data supplied during the duration of an individual’s contract with us for the services until the statutory limitation periods have expired, when this is necessary for the establishment, exercise or defense of legal claims.
+
+Once retention of the personal data is no longer necessary for the purposes outlined above, we will either delete or deidentify the personal data or, if this is not possible (for example, because personal data has been stored in backup archives), then we will securely store the personal data and isolate it from further processing until deletion or deidentification is possible.
+
+10. ADDITIONAL INFORMATION
+
+10.1. Children. The Services is intended for users over the age of 18 and is not directed to children under 13. We do not sell the personal data of consumers we know to be less than 16 years of age, unless we receive affirmative authorization (the “Right to Opt In”) from either the minor who is between 13 and 16 years of age, or the parent or guardian of a minor less than 13 years of age.
+
+If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us by using the contact information at the end of this Privacy Notice. We may not be able to modify or delete your information in all circumstances.
+
+If you become aware that a child has provided us with personal data without parental consent, please contact us by using the contact information at the end of this Privacy Notice, and we will take steps to remove the information and terminate the child’s account.
+
+10.2. Additional Information.
+
+Nevada. If you are a resident of the State of Nevada, Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. Although we do not currently sell covered information under Chapter 603A, you can submit such a request through the information provided in the “How to contact us” section of this Privacy Notice.
+
+Modification of this Notice. We will occasionally update this Notice, in our sole discretion. When we post changes to this Notice, we will revise the “Last updated date” at the top of this Notice in order to notify you of changes. We recommend that you check the Services from time to time to inform yourself of any changes in this Notice or any of our other policies. If we make material changes to this Privacy Notice, we will notify individuals by email to their registered email address, by prominent posting on our Services, or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided.
+
+11. HOW TO CONTACT US
+
+If you have questions, concerns or complaints regarding your existing account please contact us using the “Contact Us” feature within the Services.
+
+If you have questions, concerns or complaints about our privacy practices, please contact our Privacy Office at:
+
+[email protected]
+
+or
+LKQ Corporation
+5846 Crossings Blvd.
+Antioch, TN 37013
+Attn: Chief Privacy Officer
+
+12. ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS
+
+The following disclosures apply only to California residents.
+
+12.1 California Data Categories
+
+California law requires we provide disclosures to you about what personal data we collect by reference to the enumerated categories of personal data set forth within California law. To address this obligation, we have identified the relevant enumerated California personal data category for the personal data, sources and purposes described in the Personal Data We Collect section of our Privacy Notice that we have collected in the preceding 12 months below:
+
+Identifiers, including account identifiers, credit and identity information relating to data used to identify an individual, full name, IP address.
+
+Customer Records, including contact information, security/authentication information, account history relating to individual accounts, and payment information.
+
+Commercial Information, including account history relating to an individual’s purchases, service profile information relating to an individual’s purchases and interests, and feedback information.
+
+Internet/Network Information, including log data, analytics data and application data.
+
+Geolocation Data, including general geographic location.
+
+Profession/Employment Information, including the business or organization an individual represents, their title with that business or organization and information relating to their role with the business or organization.
+
+Other Personal Data, including communication preferences, customer service and communication history, personal data an individual permits us to see when interacting with us through social media, and personal data an individual provides us in relation to a question, request, inquiry, survey, contest or promotion.
+
+Inferences, including our predictions about interests and preferences and related Service Profile Information.
+
+We collect this data from the following sources: directly from you, from our business partners and affiliates, from your browser or device when you visit our mobile app(s) or use our Services, or from third parties that you permit to share information with us. Please see the Personal Data We Collect section of our Privacy Notice for more information about the sources of personal data we collect. We disclose all of these categories of personal data for a business purpose to service providers or other third parties at the consumer’s direction, as outlined in the How We Share Information section of our Privacy Notice.
+
+12.2 Sales, Sharing or Targeted Advertising
+
+As further described in the How We Share Information section of the Privacy Notice, we may “sell” or “share” your personal data (as those terms are defined by the CPRA) to third parties, subject to your right to opt out of those sales or sharing.
+
+In the last 12 months, we may have sold or shared the following categories of personal data for the purposes described in our Privacy Notice, subject to your settings and preferences and your Right to Opt-Out: identifiers and network information, such as IP address and advertising ID.
+
+The categories of third parties to whom we may sell or share the personal data include Analytics Providers and Customer Data Management Platforms for advertising and marketing purposes.
+
+The Company honors the Global Privacy Control on your browser through our Cookie Management tool.
+
+To Exercise Your Right to Opt Out of Personal Data Sharing
+As is common practice among companies that operate online, we do allow certain third-party advertising networks, social media companies and other third-party businesses to collect information directly from your browser or device through cookies or similar tracking technology when you visit or interact with our website, use our apps or otherwise engage with us online. For example, they may collect Internet/Network information, such as a cookie or device ID, browsing history and website usage, Geolocation Data, and Inferences generated from your browsing history and interactions with our service as well as other sites and services. These third parties use this personal data to serve relevant ads on our site, on other websites or mobile apps, or on other devices you may use, or to personalize content and perform other advertising-related services such as reporting, attribution, analytics and market research. These third-party businesses may use such information for their own purposes in accordance with their own privacy statements, which may include reselling this information to additional third parties, including other advertising networks.
+
+By visiting here, you can opt out from sales of this type of personal data by businesses that participate in the opt-out tool. To make opt-out requests related to mobile apps on your device for businesses participating in the DAA’s CCPA App-based Opt-Out Tool, you can download the appropriate app at https://www.privacyrights.info/.
+
+To exercise the Right to Opt-Out of Personal Data Sales or Sharing, you may also submit a request by clicking on the following link:
+
+DO NOT SELL OR SHARE MY PERSONAL INFORMATION
+
+Submitting Authorized Agent Requests
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either (i) a valid power of attorney or (ii) a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request.
+
+12.3 Sensitive Information
+
+We do not use or disclose “sensitive personal information” of California residents (as that term is defined under the CPRA) for any purpose other than for what would reasonably be expected in connection with the Services, for detecting security incidents, fraud and other illegal actions, or for short term transient use. We do not sell sensitive information, and we do not process or otherwise share sensitive information for the purpose of targeted advertising.
+
+12.4 Additional Information
+
+“Shine the Light” Disclosures
+
+The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. To opt out of this type of sharing, please contact us using the information provided in the “How to contact us” section of this Notice.
+
+Notice of Financial Incentives
+
+A part of our business involves the design and implementation of programs and other offerings intended to provide benefits to eligible participants. Most of the programs and other offerings we manage are provided on behalf of our clients. For these programs and other offerings, please refer to the terms and privacy notice of the client with which you have a relationship for information regarding any financial incentives they may offer through our services.
+
+Apart from the programs and other offerings we provide on behalf of our clients, we also provide our own programs and other offerings directly to interested individuals that may qualify as financial incentives. For example, the programs and other offerings we may make available to interested individuals include:
+
+Access to exclusive content, research, and insights; or
+
+Discounts, coupons, cash back, and other special offers for shopping with our partners.
+
+To obtain access to certain of these programs and other offerings, we may ask to collect or share an interested individual’s personal data, including name, contact information, professional information, account information, and shopping transaction information. We have determined that the value of these programs and other offerings are reasonably related to the value of the personal data we receive and otherwise process in connection with these programs and offerings, based on our reasonable but sole determination. We estimate the value of the personal data we receive and otherwise process in connection with these programs and offerings by considering the expense we incur in collecting and processing the personal data, as well as the expenses related to facilitating the program or offering.
+
+The terms applicable to each program and other offering are provided at the time an eligible individual is offered an opportunity to participate. Interested individuals can opt-in to these financial incentives by following the instructions presented at the time the offer is made. Participating individuals may withdraw from our programs and other offerings at any time by following the instructions provided in connection with each offering or through the information provided in the “How to contact us” section of our Privacy Notice.

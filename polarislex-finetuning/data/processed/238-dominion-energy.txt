@@ -1,0 +1,303 @@
+Last updated on July 2, 2026
+
+## Dominion Energy's Privacy Notice
+
+At Dominion Energy, we value the trust you place in us when you provide us with your personal information. We take your privacy seriously and are committed to protecting it. This Privacy Notice describes the privacy practices of Dominion Energy, Inc., and its subsidiaries, divisions, and affiliates that link to this Privacy Notice (collectively, "Dominion Energy," "our," "us," or "we"). This Privacy Notice applies only to the websites, mobile applications, services, or other points of collection upon which it is posted or noticed.
+
+## Each State Is Different
+
+Dominion Energy operates in many states. Each state has different laws and regulations governing how we collect, use and share personal information. This Privacy Notice generally describes Dominion Energy's processes related to personal information. It also contains information or links to information specifically required by certain states, which may or may not be applicable to you depending upon your state of residency. Some examples provided below may or may not be applicable in your state.
+
+## What Personal Information Do We Collect?
+
+Dominion Energy collects information to provide better services to our customers, job applicants, and other visitors to or users of our websites and mobile applications. Some of this information identifies, relates to, or is capable of being associated with a particular individual or household ("personal information").
+
+The table below describes the personal information we may collect. Please note that some information is collected incidental and collateral to primary information collection. For example, to verify your identity, we may require a copy of your driver's license which contains personal information that is not used by Dominion Energy, for instance your race or sex.
+
+| Categories
+| Some Categories Include
+
+| Personal Identifiers
+| Information that can be used to identify you, such as your name, address, contact information, IP address, username, email address, phone number, or other unique personal identifiers such as cookies and beacons.
+
+| Other Types of Personal Information
+| Education information, employment information, and certain types of financial or health information.
+
+| Characteristics of Legally Protected Classes
+| Marital status, veteran or military status, and other demographic information.
+
+| Commercial Information
+| Records of personal property, products or services purchased or considered, and consuming tendencies such as energy usage information.
+
+| Biometric Information
+| Biological characteristics used to identify you, such as fingerprints.
+
+| Internet or Other Similar Network Activity
+| Information regarding your interaction with our websites or mobile applications.
+
+| Geolocation Data
+| Physical location. For example, to provide information regarding utility outages.
+
+| Sensory Data
+| Audio information, such as voicemails or calls recorded for quality assurance purposes.
+
+| Professional or Employment-Related Information
+| Current or past job history.
+
+| Non-Public Education Information
+| Education records directly related to a student maintained by an educational institution, such as a transcript.
+
+| Inferences Drawn from Other Personal Information
+| Profile reflecting a person's preferences or tendencies.
+
+| Sensitive Personal Information
+| Social Security number, driver's license number, state identification card, passport number, account log-in information, racial or ethnic origin, citizenship or immigration status, sex, mental or physical health diagnosis.
+
+Personal information does not include publicly available information or aggregated or de-identified information. De-identified information is information that cannot be reasonably linked to an identified or identifiable natural person. When de-identified information regarding multiple persons is groups together, the information may be referred to herein as “aggregated information.” If we utilize de-identified information, Dominion Energy will not attempt to re-identify that particular information.
+
+## From Whom Do We Collect Personal Information
+
+We obtain the categories of personal information listed above from the following categories of sources:
+
+- You or your agents, directly or indirectly. For example, from forms that you provide to us related to the goods and services we provide you, or from information we collect through your interactions with us (for instance when you call customer service)
+
+- Our websites and mobile applications that may track your activity. For example, our websites may collect IP addresses and cookies through automated means
+
+- Internet service providers and social media networks
+
+- Data analytics providers
+
+- Joint marketing partners who perform activities at the direction of Dominion Energy
+
+- Affiliates and vendors that interact with us in connection with the goods we offer and the services we perform
+
+- Government agencies from which public records are obtained
+
+## How Do We Use Personal Information
+
+We may collect, use and/or share the categories of personal information listed above, in accordance with applicable laws, regulations, and this Privacy Notice, for one or more of the following purposes:
+
+-
+Servicing Your Account such as:
+
+- Enrolling you as a customer and managing your account.
+
+- Determining your eligibility for particular products and services.
+
+- Providing access to your account electronically.
+
+- Verifying your identity and maintaining customer security.
+
+- Providing our products and services as requested by you.
+
+- Providing vendor products and services as requested by you.
+
+- Providing customer service and enhancing your customer experience.
+
+- Billing your account and processing payment.
+
+- Carrying out our obligations and enforcing our rights arising from any contracts entered into between you and us, including for billing and collections.
+
+-
+Communicating With You such as:
+
+- Responding to your requests and questions.
+
+- Presenting our website to you.
+
+- Notifying you about updates or changes that may affect your services or access to our website or applications.
+
+- Sharing important information or alerts with you (for example, during a major storm).
+
+- Sending our newsletters to which you subscribe.
+
+- Providing you with email notifications, event registrations, and other notices concerning our products or services that may be of interest to you.
+Operating Dominion Energy's Business such as:
+
+- Managing, maintaining, and developing plans for our services and our electric and gas systems.
+
+- Supporting our business functions.
+
+- Developing plans for renewable energy and energy conservation programs.
+
+- Improving our products and services.
+
+- Undertaking internal testing, research, and analysis for technological and product development.
+
+- Maintaining utility and systems security and detecting and prosecuting security incidents.
+
+- Detecting and/or repairing system performance issues.
+
+- Managing relationships with vendors.
+
+- Assessing candidates for employment.
+
+- Evaluating or conducting a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as an ongoing concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us is among the assets transferred.
+
+-
+Performing Marketing Activities such as:
+
+- Notifying you about available products and services.
+
+- Offering related products and services.
+
+- Administering promotional offers or contests that you participate in.
+
+- Providing personalized ads and web content.
+
+- Conducting market research and customer surveys.
+
+- Creating customer prospect lists.
+
+- Providing analytic services and/or enabling certain vendors to provide similar services on behalf of Dominion Energy.
+
+- Offering customer or service-related programs (for example, green power, weatherization, and energy assistance programs).
+
+- Providing Third Party Services such as enabling vendors, on our behalf, to provide you or your household products or services you request or may be interested in (for example, home energy audits, assessing applicability of green power programs, home/appliance repair plans).
+
+-
+Fulfilling Legal Duties such as:
+
+- Cooperating with governmental energy aggregators, regulatory authorities, and state tax collection authorities.
+
+- Responding to law enforcement requests.
+
+- Complying with an applicable law, court order, commission request, or request from other state or federal governmental agencies with legal authority to obtain such personal information.
+
+- Taking action when the company has formed a good-faith belief that disclosure of information is necessary to protect the rights and property of Dominion Energy, and/or its affiliates or its customers.
+
+- Assisting emergency responders in situations of immediate threat to life or property.
+
+- We also may collect, use or share your information for other reasons. In such an instance, the use or sharing of the information will be described to you upon the collection of the information.
+
+## With Whom Do We Share Personal Information?
+
+Dominion Energy respects the privacy of your information and aims to limit its disclosure; however, Dominion Energy may share personal information in certain circumstances and in accordance with applicable laws and restrictions. We may share your personal information with:
+
+- Our subsidiaries and affiliates.
+
+- Internet service providers and social media networks.
+
+- Data analytics providers.
+
+- Affiliates, agencies and/or vendors that interact with us in connection with the goods we offer and the services we perform, including Non-affiliated vendors or agencies, such as subcontractors providing requested goods and services, payment processors, customer survey administrators, and energy assistance agencies.
+
+- Third parties to whom you or your agents authorize us to disclose your personal information.
+
+- Regulators and governmental authorities.
+
+When we share personal information with others, Dominion Energy implements reasonable contractual protections to limit third party use of your personal information. Dominion Energy does not sell consumers' personal information for direct monetary consideration.
+
+## Protecting Children's Privacy Online
+
+Dominion Energy does not knowingly collect any information from any individual under 13 years of age. If you are under 13 years of age and using this website, please do not give us any personal information. If you need help, please ask a trusted adult.
+
+## Cookies & Online Advertising
+
+Some Dominion Energy websites and mobile applications use cookies, web beacons, and other similar tracking technologies to enable essential features or for data analytics and marketing purposes. For example, we use cookies and other tracking technologies to optimize the functionality of our website, to help us understand how our website is used, and to provide users with interest-based content or advertising based upon their browsing activities.
+
+We also allow some third parties to place cookies on our websites and mobile applications. When you visit our websites or mobile applications, third parties may collect personal information about your online activities over time and across different websites or online services, including cookies and beacons.
+
+You may opt-out of these technologies by modifying your cookie preferences via the pop-up banner presented to you when you first visit our website. If you wish to change your preferences later, you can do so from the “Privacy Preference Center” by clicking the “cookie” shaped icon on our website.
+
+Some Dominion Energy websites have been designed to recognize certain “Global Privacy Control (GPC)” signals sent from your browser (if enabled by you).
+
+## Security
+
+Protecting personal information is a top priority for Dominion Energy. We take reasonable and appropriate safeguards to secure and protect the privacy, accuracy, and reliability of your information and to protect it from loss, misuse, unauthorized access, disclosure, alteration and destruction. However, no information can be guaranteed to be 100 percent secure.
+
+## Communications
+
+This section of the Privacy Notice provides information about communications from Dominion Energy and certain options you may have. Please note, participation in certain Dominion Energy products or services require we communicate with you in certain ways that cannot be modified based on individual preference (for example, participation in certain outage notification programs requires acceptance in receiving automated phone alerts; participation in e-billing requires a valid email address).
+- Utility Service-Related Telephone Communications: Dominion Energy may call or text you regarding matters closely related to your utility service at the telephone number(s) you provide associated with your utility account. This may include, but is not limited to, the use of pre-recorded/artificial voice messages and/or automatic telephone dialing systems. You are responsible for updating the telephone number(s) associated with your account. To update your account, please contact Dominion Energy Customer Service under “Contact Us” on DominionEnergy.com.
+
+- Postal Mail: You may receive marketing solicitations via postal mail from Dominion Energy, or our joint marketing partners or other authorized third-parties. To opt-out of such communications, please contact us using the information in the “Contact Information” section.
+
+-
+Email:
+
+- You may receive email communications from us in connection with your use of our products and services, such as when you sign up for an account online or perform an online transaction (for example, paying your bill or requesting a new password). For specific information regarding changing email communication preferences associated with your account, please contact us using the information in the “Contact Information” section.
+
+- In some cases, we may contact you to let you know about new products or services that may be of interest to you. These marketing emails will include an “unsubscribe” instruction (usually found at the bottom of the email) that you may use to opt out of receiving future marketing-related emails.
+
+- Text Messaging: We may offer you the opportunity to enroll in text messaging services or programs. You may opt-out by sending STOP to any text message you receive or by following the opt-out instructions in the message. If you need additional assistance to “opt-out” of receiving such information, you may contact us using the information in the “Contact Information” section.
+
+- Mobile Applications: You may opt-out of receiving notifications through our mobile applications. Either select the option to “not allow” on the notification prompt the first time you open the app, or if notifications are already enabled, disable them for the app through Settings on your mobile device.
+- Targeted Communications on Social Media Sites: We use social media sites such as Facebook and X (formerly known as “Twitter”) to communicate with you about our programs and services. You can follow us on these social media sites to receive regular updates. These sites also allow us to present specific advertisements to you based on the personal information that both we and the social media sites maintain about you. We may share your personal information with social media sites for the purpose of providing you with customized ads. In some states, this may be considered a “sale” unless the social media site is acting as our “service provider” as that term is defined by law.
+
+## California Residents
+
+California law provides specific privacy rights to California residents. To review the section of our Privacy Notice for California residents, please visit here: www.dominionenergy.com/california-consumer-notice-of-privacy-rights.
+
+As described in more detail in this section, California residents have the right to opt-out of the sale of their personal information to third parties and certain sharing of their personal information with third parties. Please review the Notice of Right to Opt-Out of Sale or Sharing of Personal Information here: Do Not Sell or Share My Personal Info.
+
+## Nevada Residents
+
+If you are a Nevada resident, you have the right to request that Dominion Energy not sell your personal information. More information can be found here: Nevada Do Not Sell. However, please note that, as stated above, Dominion Energy does not sell personal information for monetary consideration.
+
+## South Carolina Residents
+
+Dominion Energy South Carolina residential customers may request a copy of their personal data held by DESC in its “customer information system” and request a correction of any inaccuracies of their information. To submit such request, please complete the following form: South Carolina Request to Know.
+
+## Virginia Residents
+
+This section provides information specific to Virginia Residents.
+
+#### Privacy Request
+
+If you are a Virginia resident, you may request the following:
+
+- Confirmation from Dominion Energy Virginia (“DEV”) that we hold personal information about you; and a copy of your personal information held by Dominion Energy Virginia. To submit such request, please complete the following form: Virginia Request to Know.
+
+- A correction of inaccuracies in your personal information held by DEV. To submit such request, please complete the following form: Virginia Request to Correct.
+
+- A deletion of your personal information held by DEV. To submit such request, please complete the following form: Virginia Request to Delete.
+
+Decisions made by DEV pursuant to any above request may be appealed to Dominion Energy's Privacy Office by submitting the following form: Virginia Appeal Request.
+
+If your appeal is denied and you are unsatisfied with the outcome, you may contact the Attorney General of Virginia to submit a complaint.
+
+#### Profiling
+
+Dominion Energy does not conduct “profiling” as defined by Virginia law.
+
+#### Sale of Personal Data
+
+Dominion Energy does not sell personal data as defined by Virginia law.
+
+#### Sensitive Data
+
+As described in this Privacy Notice, Dominion Energy may process certain personal information that is considered “Sensitive Data” as defined by Virginia law. Processing of sensitive data only occurs when you knowingly take affirmative action to provide such information to us for processing.
+
+#### Targeted Advertising
+
+As described under the “Communications Preferences” section of this Privacy Notice, we may share your personal information with social media sites for the purpose of providing you with customized ads. To opt-out of this sharing, please complete the following form: Virginia Social Media Sharing Opt-Out.
+
+As described under the “Cookies & Online Advertising” section of this Privacy Notice, some of Dominion Energy websites and mobile applications use cookies, web beacons and other similar tracking technologies to enable essential features, or for data analytics and marketing purposes. You may opt-out of these technologies by modifying your cookie preferences in our “Privacy Preference Center” located by clicking the “cookie” shaped icon on our website.
+
+## Links Other Websites
+
+Our websites and mobile applications link to other websites that are not operated or controlled by Dominion Energy. We do not monitor or control, and are therefore not responsible for, the privacy practices or the content of linked external websites. We recommend reviewing the privacy policies for any linked websites you visit.
+
+## Changes to Our Privacy Notice
+
+We may make changes to this Privacy Notice periodically and will provide at the top of this Notice the date it was most recently updated. Using our websites, mobile applications, or services where this Privacy Notice is posted or noticed constitutes your acceptance of our privacy practices.
+
+## Privacy Notice - Contact Information
+
+If you have any questions about this Privacy Notice or wish to contact us concerning personal information you provided to us, you may reach us by email, telephone or US Mail as follows –
+
+PLEASE NOTE these contacts are not for Utility Customer Service:
+
+- Email: Privacy@DominionEnergy.com
+
+-
+Postal Address:
+
+220 Operation Way
+
+Cayce, SC 29033-3701
+
+Attention: Corporate Privacy Office (OSC 1A)
+
+- Toll-Free Telephone: 855-211-2315

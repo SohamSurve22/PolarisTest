@@ -1,0 +1,280 @@
+Skip to Content
+
+# ITW Privacy Statement
+
+Last Revised: March 9, 2020
+
+Illinois Tool Works Inc. (“ITW,” “we,” “us,” or “our”) respects your privacy and is committed to following the data protection laws that apply to us. This Privacy Statement describes the information we collect, how we use and share it, and your rights with respect to it. This Privacy Statement applies to any information we collect or maintain about you, including (1) personal information that you provide to us on ITW.com (“Website”) and other websites, applications, communications, and online services that link to this Privacy Statement (collectively with the Website, the “Website and Online Services”), (2) information collected through your use of or interaction with the Website and Online Services, (3) information obtained from our approved partners and other reliable third-party sources, (4) information collected offline (e.g., if we collect you resume during a job fair), and (5) information collected through a call center. This Privacy Statement also explains the use of cookies and similar technologies on the Website and Online Services (see PASSIVE INFORMATION COLLECTION below).
+
+This Privacy Statement applies only to the Website and Online Services that link to this Privacy Statement – not to any third-party sites that may be accessible from the Website and Online Services.
+
+After reading this Privacy Statement, which is incorporated into and is a part of this Website's Terms and Conditions of Use, you will know:
+
+- What information we collect from or about you and how we use it
+
+- What choices you have about how we use your information
+
+- How we protect your information
+
+- What we do about children visiting the Website and Online Services
+
+- Additional information applicable to California residents
+
+- How you can contact us
+
+- Changes in the Privacy Statement
+
+CALIFORNIA RESIDENTS: Section 5 and the Supplemental Notice for California Residents, attached to and a part of this Privacy Statement, provide additional information about how we collect and share your personal information and your rights under California law with respect to your personal information.
+
+EUROPEAN ECONOMIC AREA RESIDENTS: If you are a visitor from the European Economic Area, the legal basis for collecting and using your personal information depends on the personal information concerned and the context in which we collect it. However, the applicable legal basis for our processing of your personal information normally includes one of the following:
+
+Based on your consent. In some cases, at the point at which you provide personal information, we may ask you for your consent to collect and process such information. You may later withdraw your consent (or opt-out) by contacting us using the contact details provided under the How You Can Contact ITW section below. Please note that if you withdraw your consent it will not affect any processing of your personal information that has already occurred.
+
+Performance of a contract. In certain circumstances, we may need to process your personal information to fulfill our obligations under a contract to which you are subject. In that case, you may not be able to object to such processing, or if you do choose to opt-out or object to such processing, it may impact our ability to perform a contractual obligation that you are owed.
+
+Compliance with applicable laws. In some circumstances, we may need to process your personal information to comply with an applicable law. In that case, you will likely not be permitted to object to such processing, but you will usually have the right to access or review the relevant personal information unless it would impede our legal obligations.
+
+ITW’s legitimate interests. We may process your personal information based on our legitimate interests (or those of any third party) to the extent such interests are not overridden by your data protection interests or fundamental rights and freedoms. In such cases, you have the right to object to the relevant processing of your personal information by contacting us as described under the How You Can Contact ITW section below.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact as described under the How you can contact ITW section below.
+
+## 1. Information We Collect From You and How We Use It
+
+YOUR CONSENT
+
+By using, visiting, or interacting with the Website and Online Services or providing personal information to us through your use of the Website and Online Services, you are consenting to the collection, use, and disclosure of your personal information described in this Privacy Statement.
+
+If you do not consent to the collection, use, and disclosure of your personal information as described in this Privacy Statement, do not use the Website or contact us as described in Section 6 below.
+
+ACTIVE INFORMATION COLLECTION
+
+Like many other websites, we actively collect information from our visitors by permitting you to communicate directly with us via Investor Relations “Email Notifications” forms, recruiting and employment forms, or other methods made available to you on our Website and Online Services. Some of the information that you submit may be personal information (that is, information that can be uniquely identified with you, such as your name, address, e-mail address, phone number, etc.). We use this information for the purposes for which you provide it and for any other purpose described at the time information is submitted by you, as otherwise set forth in this Privacy Statement, or as permitted or required by applicable law.
+We generally collect and use personal information provided to us on the Website and Online Services for the following purposes:
+
+- to respond to your inquiries;
+
+- to allow individuals to apply for employment with us;
+
+- to authenticate identity for privacy-related requests;
+
+- to ensure the efficiency, reliability, and security of our systems;
+
+- to meet legal and regulatory requirements and to allow us to meet contractual requirements relating to our products and services;
+
+- to understand and assess the interests, wants, and changing needs of Website visitors with a view to improving our products and services and developing new ones; and
+
+- to notify Website visitors about changes to the Website and Online Services.
+
+PASSIVE INFORMATION COLLECTION
+
+Some of the information we collect depends on the settings on your web browser or mobile device. Please check your web browser or mobile device if you want to learn what information your browser or mobile device sends or how to change your settings. In addition to the information sent by your web browser or mobile device, as you navigate through a website or mobile app, certain information can be passively collected (that is, gathered without you actively providing the information) using various technologies and means, such as navigational data collection.
+
+Like most website operators, we and our approved partners use cookies and similar technologies, local shared objects (or any other successor tracker technology), Software Development Kits, and pixel tags that automatically receive and track certain data about how you and other visitors interact with our Website and Online Services, preferences expressed, and settings chosen. For example, we may collect information about the technology you use (such as browser, type of computer, operating systems, mobile device and network used, and Internet service providers) and server log data (such as access dates and times, online features or pages viewed, system activity, and the third-party site or service you were using before interacting with our Website). These technologies are described in more detail below.
+
+“Cookies” are small text files that are stored on your browser or device by websites, mobile apps, online media, and advertisements. There are different types of cookies. Cookies served by the entity that operates the website or app you are visiting or using are called “first party cookies” (so cookies served by us while you are using our Website are first party cookies). Cookies served by companies that are not operating the website or app you are visiting or using are called “third party cookies” (so, a website analytics provider may set a cookie on your computer via our Website while you visit our Website). Cookies may also endure for different periods of time. “Session Cookies” last only as long as your browser or app is open. These are deleted automatically once you close your browser or app. Other cookies are “persistent cookies” meaning that they survive after your browser or app is closed (for example, they may recognize your computer when you re-open our online services).
+
+“Local shared objects” (also called Flash cookies or HTML5 cookies) and any other successor technology refers generally to the collection of cookie-like data stored on a browser or computer by web sites, ads, or third parties. “Pixel tags” (also called beacons or pixels) are small blocks of code installed on (or called by) a web page, app, or advertisement which can retrieve certain information about your device and browser, including device type, operating system, browser type and version, web site visited, time of visit, referring web site, IP address, and other similar information (including the small text file (the cookie) that uniquely identifies the device). Pixels provide the means by which third parties can set and read browser cookies from a domain that they do not themselves operate and collect information about visitors to that domain, typically with the permission of the domain owner. “Software Development Kits” (also called SDKs) function like pixels and cookies but operate in the mobile app context where pixels and cookies cannot always function. The primary app developer can install pieces of code (the SDK) from partners in the app, thereby allowing such partners to collect certain information about user interaction with the app, information about the user device, and network information.
+
+In this Privacy Statement, these and similar technologies are collectively referred to as “cookies and technologies.” The following table sets out the different categories of cookies and technologies that our Website and Online Services may use and why we use them:
+Cookie Types
+Purpose
+Analytics and Research
+
+These cookies and technologies are used to understand, improve, and research our Website and Online Services, and better understand the interests of people who interact with our Website and Online Services. For example, we and our approved partners may use these cookies and technologies to understand how you are using Website features, and segmenting audiences for feature testing. We and our partners may use these technologies and the information we receive to improve and understand how you use and interact with our Website and Online Services.
+
+For example, our Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to analyze use patterns and may collect information about your use of our Website. More information on Google Analytics can be found here: www.google.com/policies/privacy/partners/. If you would like to opt-out of having your data used by these cookies, please use the Google Analytics opt-out available here: https://tools.google.com/dlpage/gaoptout/.
+
+INFORMATION WE COLLECT FROM OTHER SOURCES
+
+We may also receive information from other sources and combine it with information we collect through our Website and Online Services. For example, we may obtain information about you from commercially available sources such as data aggregators and public databases (for example, job applicant information received from LinkedIn in connection with our hiring decisions). This information may include your name, demographic information, interests, and public data (such as social media and shopping behavior).
+
+RETENTION OF PERSONAL INFORMATION
+
+We retain the personal information collected on the Website and Online Services as long as necessary to provide the services, products, and information you request or as permitted by applicable law.
+
+Disclosure of Personal Information
+
+We will not sell or otherwise disclose personal information collected from the Website and Online Services to any third person, except as permitted by this Privacy Statement, as permitted or provided by applicable law, or with your consent.
+
+We may disclose personal information you provide to us via this Website and Online Services or that we collect through your use of the Website and Online Services as follows:
+
+- to affiliates, business partners, service providers, and contractors who support our business, in which case we will limit the amount of information disclosed to that which is necessary in order for them to provide the services or products we have engaged them to provide. We will strive to protect personal information rendered accessible by contractual agreements requiring confidentiality and security practices that help keep data inaccessible to others;
+
+- to respond to law enforcement requests, where required by applicable laws, court orders, or governmental regulations;
+
+- in the event of a sale, merger, liquidation, dissolution, reorganization, assignment, or other transfer of our business to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Statement and use it for the same purposes as we are entitled to do so under this Privacy Statement; and
+
+- to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful, and in situations involving threats of physical safety of any person or when we believe that disclosure is reasonably necessary to protect our rights and property.
+
+We are not liable for disclosure of information obtained due to errors in transmission or the unauthorized intervention of third parties.
+
+We may provide aggregate statistics about our customers, sales, online traffic patterns, and related information to reputable third parties, but these statistics will not include any personally identifying information.
+
+We may transfer the information described in this Privacy Statement to, and process and store it in, the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your information in accordance with this Privacy Statement. Nonetheless, your personal information may be subject to foreign laws and may be accessible by foreign government authorities, courts, law enforcement, and regulatory agencies.
+
+## 2. Choices You Have About How We Use Your Information
+
+We strive to provide you with as many choices and as much control as possible regarding the personal information we collect about you.
+
+You may send us an e-mail message at privacy@itw.com to request access to, correct, or delete any personal information that you have provided to us. To protect your privacy, we will only respond to e-mail messages sent from the e-mail account you used to set up your account.
+
+You have the right to opt-out of promotional communications we send you at any time. You can exercise this right by clicking on the 'unsubscribe' or 'opt-out' link in the promotional e-mails we send you.
+
+If you do not wish for us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Website may then be inaccessible or not function properly. Removing or rejecting browser cookies does not necessarily affect third-party Flash cookies (see “Local shared objects” above) which may be used by us or our partners in connection with our Website and Online Services. You may need to take additional steps to delete or disable Flash cookies.
+
+You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks that honor such requests by visiting: www.aboutads.info/choices (if you are in the United States), http://youradchoices.ca/choices/ (if you are in Canada), or http://youronlinechoices.eu/ (if you are in Europe).
+
+DO NOT TRACK: Some web browsers may transmit “do-not-track” signals to websites with which the browser communicates. Our Website and Online Services do not currently respond to these “do-not-track” signals.
+
+## 3. How We Protect Your Information
+
+We work hard to protect your personal information. All information collected through the Website and Online Services is stored within a secured database that is not accessible to the outside world. Resumes are stored on file systems that are not publicly accessible. Our servers are protected behind both hardware and software firewalls. Low-level access to information is restricted to authorized support personnel only.
+
+The safety and security of your information also depends on you. Never share passwords with anyone else and remember to log off this Website before you leave your computer.
+
+Our Website and Online Services contain links to other websites operated by third parties that may be of interest to you. We cannot control these third-party sites, which may collect personal information from you. When you follow a link and leave this Website or Online Service, you do so at your own risk. We encourage you to read that third party's privacy Statement or contact them directly regarding their privacy practices.
+
+## 4. What We Do About Children Visiting This Website
+
+This Website is not intended for children under the age of 13. We will not knowingly collect information from Website and Online Services visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose online. If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by writing us at the address in Section 6 below.
+
+## 5. CALIFORNIA RESIDENTS
+
+The California Consumer Privacy Act of 2018 (CCPA) gives California residents rights about the personal information we collect, use, or disclose about you (subject to certain exceptions):
+
+- Right to Notice. Before or at the time we collect personal information from you, you have the right to receive notice of the personal information to be collected and the purposes for which we use it. The Supplemental Notice for California Residents attached to this Privacy Statement is intended to satisfy this requirement.
+
+You also have the right to request that we disclose to you the categories of personal information we have collected about you in the preceding 12 months, along with the categories of sources from which the personal information was collected, the purpose for collecting or selling the personal information, the categories of third parties with whom we shared the personal information, and the categories of third parties with whom we sold the personal information.
+
+- Right of Access. You have the right to request that we disclose or provide you with access to the specific pieces of personal information we have collected about you in the preceding 12 months.
+
+- Right to Deletion. You have the right to request that we delete the personal information we collect from you. However, in certain situations we are not required to delete your personal information, such as when the information is necessary in order to complete the transaction for which the personal information was collected, to provide a good or service requested by you, to comply with a legal obligation, to engage in research, to secure our Website and Online Services, or to otherwise use your personal information internally in a lawful manner that is compatible with the context in which you provided the information.
+
+- Right to Opt-Out of the Sale of Personal Information. We do not sell your personal information. If we sold your personal information to third parties, you would have the right, at any time, to direct us not to sell your personal information.
+
+- Right Not to Be Subject to Discrimination. You have the right to be free from discrimination or retaliation for exercising any of your rights under the CCPA as described above.
+
+To exercise any of the rights described above, you can call us toll-free at 1-844-676-0349 or email us at privacy@itw.com. California residents who are unable to review or access this Privacy Statement, including the Supplemental Notice for California Residents, due to a disability may contact privacy@itw.com to access this Privacy Statement in an alternative format.
+
+We value the security and confidentiality of your personal information. Therefore, if you exercise your right to notice, access, or deletion, we must first verify your identify to make sure that you are the person about whom we have collected personal information. We verify every request carefully and ask that you provide a scanned copy of a government ID along with your request for verification purposes.
+
+## 6. How You Can Contact Us
+
+If you have any questions, comments, or concerns about this Privacy Statement, our information practices, our Website and Online Services, or our service providers, contractors, and business partners, please contact us at the information below and address your request to:
+
+Illinois Tool Works Inc.
+155 Harlem Avenue
+Glenview, IL 60025
+Toll-Free: 1-844-676-0349
+privacy@itw.com
+
+## 7. Changes In The Privacy Statement
+
+We reserve the right to update or modify this Privacy Statement, at any time and without prior notice, by posting the revised version of this Privacy Statement on this Website. If we modify this Privacy Statement, the modifications will only apply to personal information we collect after we have posted the revised Privacy Statement on this Website.
+Privacy Statement
+Supplemental Notice for California Residents
+Why?
+This Supplemental Notice for California Residents provides certain information required under the California Consumer Privacy Act of 2018 (CCPA) and applies to both our online and offline activities involving personal information about California residents. This Supplemental Notice is incorporated into and a part of our Privacy Statement. For more information about our collection, use, and disclosure of information, as well as your rights under the CCPA, please review our Privacy Statement.
+What?
+The personal information that we collect or disclose depends on your relationship and interaction with us. Please select the category that applies to your relationship or interaction with us: Applicants, Employees and Contractors, Website Visitors. If you interact with us in more than one way, please review each category that applies to you.
+
+In addition to the information described below, we collect and disclose any and all personal information (regardless of your relationship or interaction with us) as necessary or appropriate to: comply with laws and regulations; Investigate and enforce compliance with and potential breaches of our policies and legal and regulatory requirements; comply with civil, criminal, judicial, or regulatory inquiries, investigations, subpoenas, or summons; and exercise or defend our legal rights and those of our employees, affiliates, customers, contractors, and agents.
+Personal Information
+In this Supplemental Notice, “personal information” (or “PI”) means any information that identifies, relates to, describes, or is capable of being associated with you or your household, whether directly or indirectly. Here are the definitions of some of the categories of personal information we collect, use, and share about California consumers that are not otherwise defined in the charts below:
+Identifiers
+Identifiers, such as real name, alias, postal address, unique personal identifier, online identifier, internet protocol (IP) address, email address, account name, social security number, driver’s license number, passport number, photographs, or other similar identifiers.
+Network Activity Data
+Internet or other electronic network activity information, such as browsing or search history, and information regarding an individual’s interaction with an internet website, application, or advertisement.
+
+Applicants
+Categories of
+PI Collected
+Purposes for Collecting or Sharing PI
+Identifiers
+- Evaluate a potential employment or contractor relationship.
+
+- Perform background checks and verify past employment, educational history, and qualifications.
+
+- Determine potential compensation and benefits.
+
+- Assess your fitness and physical capacity for work.
+
+- Communicate with you about your application.
+Medical Information, including medical history, mental or physical condition, or treatment.
+- After an offer, to assess your fitness and physical capacity for work.
+Demographic Information protected under California or federal law, such as race, gender, disability, and religion.
+- Filing of state or federal government-mandated reports.
+
+- Evaluating diversity and inclusion initiatives.
+Job history, professional skills, and educational background.
+- Evaluate a potential employment or contractor relationship.
+
+Employees and Contractors
+Categories of
+PI Collected
+Purposes for Collecting or Sharing PI
+Identifiers
+
+- Compensation and benefits.
+
+- Management of your job performance.
+
+- Communication with you/your designated emergency contacts in the event of illness, absence, natural disaster, etc.
+
+- Authentication of your identity and access to Company systems, networks, databases, equipment, and facilities.
+
+- Workforce management, including personnel planning, productivity monitoring, and evaluation.
+
+- Tracking and administering training.
+
+- Monitoring and securing Company systems, networks, databases, confidential information, equipment, facilities.
+
+- Arranging work-related travel, events, and meetings.
+
+- Assessing your fitness for work, and other occupational medicine purposes (including work-related injury and illness).
+Health insurance information, including claims history.
+- Benefits planning and administration.
+Financial information, including bank account number.
+- Compensation and benefits administration.
+Medical Information, including medical history, mental or physical condition, or treatment.
+- Assessing your fitness for work, and other occupational medicine purposes (including work-related injury and illness).
+Demographic Information protected under California or federal law, such as race, gender, disability, and religion.
+- Filing of state or federal government-mandated reports.
+
+- Evaluating diversity and inclusion initiatives.
+Job history, professional skills, and educational background.
+- Management of your job performance.
+Internet activity on Company computers or Company phones, such as browsing history and search history.
+- Monitoring and securing Company systems, networks, databases, confidential information, equipment, facilities.
+
+- Management of your job performance.
+
+Website Visitors
+Categories of
+PI Collected
+Sources of PI
+Purposes for Collecting or Sharing PI
+Third Parties to Whom We Disclose PI
+Third Parties to Whom We Sell PI
+Identifiers
+- Website visitor
+- For our everyday business purposes such as to process your requests, inquiries, or other communications.
+
+- Ad impressions and determining unique visitors to our website.
+
+- To help maintain the security of our website and business, and to detect security incidents and other fraudulent activity.
+
+- To monitor and improve our website functionality and personalize your website experience.
+
+- For marketing purposes, to deliver content and product and service offerings, including targeted ads.
+N/A
+Network Activity Data
+- Website visitor
+- Ad impressions and determining unique visitors to our website.
+
+- To help maintain the security of our website and business, and to detect security incidents and other fraudulent activity.
+
+- To monitor and improve our website functionality and personalize your website experience.
+
+- For marketing purposes, to deliver content and product and service offerings, including targeted ads.
+N/A

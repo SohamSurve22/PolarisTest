@@ -1,0 +1,259 @@
+# Online Privacy Notice
+
+This Online Privacy Notice applies to Discover and details our privacy practices regarding our relationship with you. This notice does not apply to the practices of Capital One. Please visit the Capital One Privacy Protections page to learn more about Capital One’s privacy practices.
+
+Print
+
+## Discover Online Privacy Notice
+
+Last updated: January 1, 2026
+
+### Online Privacy Notice
+
+This Online Privacy Notice (“Notice”) describes how the Discover companies*, now part of Capital One Financial Corporation, (collectively, “Discover”, “our”, “us”, or “we”) collect, retain, use, process, share, and transfer your information on Discover.com and the other websites where this Notice appears (“Website”), within the Discover mobile apps ("Mobile Apps") (together with Website, "Online Services"), as well as when you interact with us on social media sites and apps, through emails, and advertisements displayed through online services operated by us or nonaffiliated third parties.
+
+This Notice applies when you interact with Discover or use a Discover website, mobile application, or other online services that reference this Notice. If you are a Capital One customer (including “Discover by Capital One” accounts), please note that this Notice does not apply to the practices of Capital One. For example, this Notice does not apply to Capitalone.com, the Capital One Mobile App, and similar services. Please visit www.capitalone.com/privacy to learn more about Capital One’s privacy practices. This Notice also does not apply to non-Discover companies, such as co-branded partners, companies that offer data aggregation or similar services to you, or any third-party websites that we link to online. Please review the privacy policies of other websites and services you use or visit to understand their privacy practices. Discover is not responsible for the practices of these companies and encourages you to learn more about their privacy and information security policies and practices.
+
+By using our Online Services or interacting with us online, you agree and consent to the terms and conditions of this Notice. For more information about privacy as it applies to your financial account, please see the Consumer Privacy Notice for the Discover product(s) you have. If you have a “Discover by Capital One” product or service, please visit Capitalone.com/privacy for more information.
+
+* Discover, a division of Capital One, N.A., DFS Services LLC, PULSE Network LLC, Diners Club International, Ltd., DFS Corporate Services LLC, DFS International Inc., Discover Products Inc., The Student Loan Corporation, Discover Ventures Inc., Discover Home Loans, Inc., Discover Services Corporation, and their affiliates and subsidiaries, including companies related by common ownership or control with a Discover or DFS name and financial companies.
+
+Hide All
+Show All
+
+### What Information Do We Collect Online
+
+Our Online Services collect information that identifies you, as well as online data about you. The types of information we collect may depend on which Discover product(s) or service(s) you use.
+
+We collect the following categories of information:
+
+- Contact Information, such as first and last name, home or physical address, email address, telephone number, and any other identifier that permits the physical or online contacting of a specific individual.
+
+- Sensitive Information and Other Personal Identifiers, such as social security number, date of birth, government identifiers, account access credentials, biometric information, demographic data, and other sensitive information collected on an application.
+
+- Account or Application Information, such as account number (including credit or debit card number and details), account history, account balances, loan details, credit and income information, or enrollment in offers or alerts.
+
+- Device Information, such as device ID, operating system, browser information, advertising ID, operating system, IP address, general location, geolocation data (including device location and certain device information using a cellular network location, Wi-Fi networks, browser services, mobile location services if turned on, or other information you provide).
+
+- Online Activity Data, such as browsing history, interaction with our sites, and usage information (including which pages on our Website that you access, what you click on, and how long you access the Website).
+
+- Documents or images, such as check images or documents submitted through our online portals.
+
+- Other Personal Information, such as third party bank information to complete a funds transfer, information you enter into a survey or chat, or any other information you may provide when using our Online Services.
+
+Hide All
+Show All
+
+### How We Collect Information Online
+
+Our Online Services collect information in different ways when you use your computer or mobile device as well as when you visit Discover’s Online Services.
+
+We collect information in the following ways:
+
+- Directly from you through use of our Online Services, such as applications to open an account, registering for a new product, requests to enroll in offers and alerts, what you provide when you complete an online survey, when you click a link, and when you engage with our interactive chat functionality, we may record the conversation and the information you provide (this chat functionality may be an automated program and not a real person, and the information relating to your communications may be shared with our service provider(s)) .
+
+- Passively using our Online Services. Our Online Services and some emails may use tracking tools like cookies and pixel tags. Our Online Services gather online data about you over time across multiple websites, other platforms, or other Mobile Apps. The information collected by our Online Services may be combined with other data that we obtain about you, including data from third parties and offline sources. Learn how you can control tracking tools.
+
+Additionally, we implement session replay technology that we use to better understand interactions with users of our Online Services. This session replay technology collects information about your interactions with our pages, including the duration of your visits to each page, the content you may have reviewed, the location of your clicks, and the way you navigate our Online Services.
+
+- From third parties. Our Business Partners and Service Providers may give us information about you. Additionally, we collect information about you from third parties, including social media sites and apps, and when you interact with the Discover brand on social media sites and apps or other third-party websites, including but not limited to Facebook, X (formerly known as Twitter), Pinterest, LinkedIn, Instagram and YouTube. Your use of such sites or apps and what information each social media site or app may share with us is subject to their privacy policies, terms of use, and privacy and advertising settings. Note: never disclose any personal financial information on any social media site or app.
+
+Hide All
+Show All
+
+### How We Use Information We Collect Online
+
+Information collected from and about you online as described in this Notice may be used for different purposes. We use information as identified below and as otherwise permitted by law and to comply with the law.
+
+We use the information we collect from you to:
+
+- Deliver products and services. We may use your information for processing an application or completing a transaction that you requested, for servicing and managing your accounts, redeeming your rewards, sending you an alert you signed up for, verifying your identity, providing customer service or support, and communicating with you about your account, products, or services.
+
+- Improve our products and services. We may use your information to make our Online Services better and to customize your experience with us, including with analytics tools. We may combine information we get from you with information we get from third parties and other offline sources about you. We use technology that allows us to recreate a browser session to resolve customer concerns or improve our Online Services. We may use information that we get online to help us manage your account. Please see the Consumer Privacy Notice(s) for the product(s) you have to learn more.
+
+- Security purposes. We may use your information to protect our company, our customers, and our Online Services from fraud, unauthorized transactions, claims and liabilities, and to manage risk. For example, if you have location services turned on while you are using the Mobile Apps, we may use that data to help identify potential fraudulent transactions.
+
+- Communicate with you about your account or our relationship. We may contact you about your account, the services we provide to you, or for feedback. We may also contact you about this Notice or our Terms of Use. We use the contact information you provide to communicate with you. It is your responsibility to keep your contact information current with us.
+
+- Market to you. We may use information we know about you from our Online Services, including your location information, to send you information about new products and special offers. These may come from us, our Business Partners, our Service Providers or third parties. We may tell you about new features or updates we think you will like. We may also use push notifications on our Mobile Apps. Learn how to manage your choices for marketing communications.
+When you visit our Websites or open up our Mobile Apps, we may use information that allows us (or our Business Partners, Service Providers or third parties on our behalf) to send your computer or mobile device targeted messages and offers or to evaluate or improve the effectiveness of our marketing efforts. We may use passive technologies such as cookies, location information, device-level advertising, user identifiers, and pixel tags to uniquely identify your computer or device and the pages you view within our Online Services as well as to provide information to us and third parties about sites and apps you visit after seeing Discover ads or offers. Learn how you can control tracking tools.
+
+- Create aggregated and deidentified information. We may use or modify information we collect about you in a manner that does not allow us to reasonably identify you. This information may be used to enable us to measure the number of visitors to our Online Services, track visitor activity, detect and prevent fraud, and to learn how to improve our Online Services. Once the information has been modified, we may use and share that information for our own business purposes where permissible under applicable laws and regulations.
+
+Hide All
+Show All
+
+### Information Sharing
+
+We may share information we collect:
+
+- Among the Discover family of companies, current and future Discover subsidiaries or affiliates, with our Service Providers and Third Parties. We may share information such as your phone number or email address with Service Providers who send texts or emails on our behalf; information regarding your use of our interactive chat functionality, including the contents of your communications, with our Service Providers who enable us to provide this service; information with companies that operate or analyze our Online Services; information with third parties who perform advertising services on our behalf.
+
+- With our Business Partners. We may share information with our Business Partners to fulfill offers you request or to use your rewards toward a purchase; and with social media sites or apps if you click on a social media widget within our Online Services (for example, if you "like" us from our Website).
+
+- With credit bureaus. We may share information with credit reporting agencies to report on or learn about your financial history and for other lawful purposes.
+
+- To comply with the law or to protect ourselves. We may share information to respond to a court order or subpoena. We may share it in response to a government agency or investigatory body request. We may share information when we are investigating potential fraud.
+
+- With any successor to all or part of our business. If all or part of our business is sold we may be required to give our customer information as part of that transaction.
+
+- With Third Parties at your request or with your authorization.
+
+- For other reasons as we describe to you. Please see the Consumer Privacy Notice for the product(s) you have to learn more.
+
+Hide All
+Show All
+
+### Managing Your Online Privacy Choices
+
+You can update your account profile online or by phone. If you have online access to your account, you can view and update your account profile, including your contact information, by logging in to your Discover account and updating your profile page. You can also call us to make changes to your account profile or marketing preferences. To stop receiving our promotional emails or texts, you can follow the instructions in promotional messages you receive from Discover. Even if you opt out of receiving marketing messages, we may still send you transactional messages, including responses to your questions or information about your account including alerts related to suspected account fraud.
+
+You can control preferences on your mobile devices. For example, you can turn off location services within your mobile device settings or Mobile Apps, decline to consent to location tracking when prompted by the Mobile Apps, or reject receiving push notifications on your device. If your operating system allows, you may choose to limit the Mobile Apps’ access to other information on your mobile device, including but not limited to the camera, contacts, or calendar. This may result in the loss of some of the Mobile Apps’ functionality.
+See About Our Ads to learn about your advertising privacy choices. For more information about privacy rights and choices available through Capital One with respect to personal information maintained by Capital One, please visit www.capitalone.com/privacy. If you have accounts at both Capital One (including “Discover by Capital One” accounts) and Discover, you will need to exercise your privacy rights and choices in both places. You can also exercise available rights for information maintained by PULSE, Diners Club International, and Discover Global Network by clicking the appropriate link to visit the website and following the instructions in applicable notices.
+
+Hide All
+Show All
+
+### About Our Ads, Tracking and Your Choices
+
+We use common tracking tools for a variety of reasons.
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies and other tracking tools. This information might be about you, your preferences, or your device. The information does not usually directly identify you, but it can give you a more personalized web experience. We use cookies and similar technologies to:
+
+- Recognize new or past customers;
+
+- Store your password if you are registered on our Website or Mobile Apps;
+
+- Improve our Website and Mobile Apps;
+
+- Serve you with interest-based or targeted advertising;
+
+- Observe your behaviors and browsing activities over time across multiple websites or other platforms; and
+
+- Better understand the interests of our customers and our Website and Mobile Apps visitors.
+
+Some of the tracking tools we use, including cookies, are essential for our services to work. Other tools are used to collect information regarding website usage (analytics and statistics) so that we can make the site improvements. Some cookies are temporary and will disappear when you close your browser, others are persistent and will stay on your device. We use various types of cookies as described in the chart below.
+
+Type of Cookie
+
+Description
+
+Examples
+
+Essential / Strictly necessary
+
+These cookies are always on (persistent) when you visit our Online Services. You cannot turn them off unless you change your browser settings. These types of cookies make sure our Online Services function properly and are meeting visitor’s needs. You can set your browser to block or alert you about these cookies, but some parts of our Online Services will not work, and this may affect your experience.
+
+Cookies supporting login functionality; persistent cookies that save a user’s preferences; security cookies; multimedia content player; cookies that save a user’s preferences regarding technical data; load-balancing cookies for the duration of the online session.
+
+Performance / Analytical
+
+These cookies allow us to count visits and traffic sources to improve the performance of our Online Services. They help us to know which pages are the most and least popular and see how visitors move around the site. These cookies generally collect aggregated information.
+
+Cookies that measure and/or examine site traffic (e.g., Google Analytics, Adobe Analytics).
+
+Functional (preference)
+
+These cookies, also known as preference cookies, enable our Online Services to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If these cookies are turned off, some or all these services may not function properly.
+
+Cookies that support web chat services and remember a user’s preferences for a more personalized browsing experience (e.g., language, font).
+
+Advertising
+
+These cookies and similar tracking tools, such as pixels and tags, may be set through our site by our advertising partners. They may be used by those companies to show you relevant advertisements on other sites. These are generally based on uniquely identifying your browser and/or device. By turning off these cookies, you will experience less targeted advertising.
+
+Cookies that remember you visited a site and social media cookies used to provide advertisements on social media platforms, such as third-party cookies.
+
+Software Development Kits (“SDKs”)
+
+SDKs are platform specific building tools used by developers. They can provide a developer with the ability to build a custom app that can be connected to another system. SDKs can be used to deliver technologies like cookies, within a mobile experience.
+
+Android NDK; iOS SDK; Java Development Kit; Java Web Services Development Pack; and Microsoft Windows SDK.
+
+We conduct interest-based/online behavioral advertising. You may see Discover advertisements on other websites you visit from time to time. Some of these ads are based on your internet browsing history over time and across different websites or platforms, including Discover.com. This is called interest-based or online behavioral advertising and we collect information this way and have Service Providers and third parties that collect information this way. Discover uses this to target its advertising more effectively. Interest-based advertising includes ads served to you after you leave our Website, encouraging you to return and ads we think are relevant based on your shopping habits or online activities. These ads may be about our products or other companies' products and served by us or third parties via websites, apps or in emails or direct mail.
+
+We work with third parties who help gather information about you for interest-based advertising.
+
+To decide what is relevant to you, we use information you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our Service Providers or Business Partners may look at your purchases or browsing behaviors. We may look at these activities on our platforms or the platforms of others. Additionally, third parties may link your name or email address, for example, to other information they collect including past purchases made offline or online, or online usage information.
+
+Opting out of Internet based/online behavioral advertising. There are several ways you can opt out of interest-based advertising:
+
+- You can generally opt out of receiving interest-based ads from Discover or its partners using this tool. *
+
+- You can opt out right from the ad itself. Ads served using interest-based advertising may have an Advertising Option icon in the ad. If you see that icon on Discover ads, you can click on it and you will then get an option to opt out. *
+
+- We participate in the Self-Regulatory Program for Online Behavioral Advertising, which provides consumers with the ability to opt out of having their online behavior recorded and used for advertising purposes generally. To learn more about AdChoices, or to opt out of interest-based advertising with nonaffiliated third party sites, visit the Digital Advertising Alliance Opt Out Page. *
+
+- On mobile devices you can control device-level advertising privacy settings.
+
+*Using this method, your choice will be stored as a cookie and will be specific to the browser or device which was used to make the selection. You will need to opt out separately on all your browsers and devices. If your browser or device blocks cookies, you remove or delete cookies, or access our Online Services using a different browser or device, you may need to renew your preferences.
+
+You can control tracking tools on our Online Services. Industry standards continue to evolve around browser-level "do not track" settings. Your browser may give you the ability to control tracking tools like cookies and pixel tags. You may enable a tool at the browser or device level that automatically communicates opt-out preferences, such as Global Privacy Control (“GPC”), as required by applicable law. We will process the GPC signal as a request to opt-out for the browser or device you are using at that time. Certain browsers can be set to clear past and reject future tracking tools. If you block tracking tools on your browser, certain features of our Online Services may not work. Additionally, if you block or delete tracking tools, not all the tracking activities we have described here will stop since choices you make are both browser and device specific.
+
+We also advertise in other ways. If you opt out of interest-based ads, you may still see Discover ads. These are ads that are not based on your Internet browsing history and may be generic while others may be targeted to you or an advertising segment you are in. The websites or services where targeted ads appear will have instructions about how to modify your advertising preferences within those sites. We encourage you to review those instructions and settings.
+
+California residents covered by the California Consumer Privacy Act may have additional rights. Please see the Discover California Privacy Notice for more information.
+
+Customer Service and Non-Solicitation
+
+For general customer service and non-solicitation requests (please contact Discover Customer Service at 1-800-DISCOVER (1-800-347-2683) or via chat message (if an existing customer) at https://www.discover.com/credit-cards/help-center/contact-us/ to submit your specific request.
+
+Hide All
+Show All
+
+### Additional Information
+
+### Information Retention
+
+We may keep Personal Information as long as necessary or relevant for the practices described in this Notice or as otherwise required by law. Actual retention periods vary depending on particular services and products. We use the following to determine retention periods:
+
+- Personal Information needed to provide our services and products as described in this Notice (for example, to provide access to Websites and Mobile Apps);
+
+- Personal Information needed for auditing purposes;
+
+- Personal Information needed to troubleshoot problems or to assist with investigations;
+
+- Personal Information needed to enforce our policies; and
+
+- Personal Information needed to comply with legal requirements.
+
+Regulations require all financial institutions to obtain, verify, and record information that identifies each person for whom we open or have established an account. It is the policy of Discover that our records reflect our customer’s name, physical address, date of birth, and identification number. With respect to records such as customer applications, account statements, and payments on the account, Discover generally retains those records for a minimum of seven years.
+
+If you use our Mobile Apps, you may contact us about deleting your account or by deleting your account through the application itself, if applicable. Please note that deleting the Mobile App will not delete your Discover account, and we will need to maintain information to service your account. Additionally, as a regulated financial institution, we have certain legal obligations to retain certain information for regulatory compliance purposes.
+
+### Third-party data sharing
+
+Linking to other sites. There are times we may provide you with a link to a website or application operated by a third-party, such as social media sites, for your convenience, or because we have a relationship with the third party. We do not provide the products or services on a third party website or app and cannot guarantee the security of your personal information, the accuracy of any financial tools that may be advertised or available on the website, or their applicability to your circumstances. We recommend reviewing the applicable privacy and security policies and terms and conditions of the website you are visiting.
+
+Data Aggregation. Companies may offer data aggregation software and services on their websites where you can share information from a variety of sources, such as your accounts with us, to consolidate data for analysis in one location. By participating in these services, you may be required to authorize access to your accounts with us by inputting Personal Information such as user ID, password, or account number. If you utilize these types of services, you should ensure that the service provider has appropriate privacy policies, practices, and security for the information you are providing. We are not responsible for those third-party practices including use or disclosure of any Personal Information. When you provide your Personal Information to a third party, we consider that you have authorized any actions through use of the information you have provided.
+
+Our Online Services may link to third-party services or apps that we do not control.
+
+This Notice does not apply to the privacy practices of any third-party websites or apps. Please carefully read the privacy practices of other websites or apps.
+
+### Children
+
+Our Online Services are not intended for children. Our Online Services are meant for adults and are not directed at children. We do not knowingly collect Personal Information from children under 13 without permission from a parent or legal guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at privacy@discover.com. You can also write to us at Discover, Attn: Privacy Compliance, P.O. Box 795, Deerfield, IL 60015 USA. Please mark your inquiries "COPPA Information Request."
+
+### Security
+
+We use standard security measures on our Online Services. To protect your Personal Information from unauthorized access, we use security measures that comply with federal law, including computer safeguards and controls. However, the Internet is not 100% secure. We cannot promise that your use of our Online Services will be completely safe. We encourage you to use caution when using the Internet. For example, do not use our Online Services on jailbroken or rooted devices and do not share your passwords.
+
+Social Security Number Protection. Discover protects your Social Security number through our policies and procedures which:
+
+- Protect the confidentiality of Social Security numbers;
+
+- Prohibit the unlawful disclosure of Social Security numbers; and
+
+- Limit access to Social Security numbers to employees or others with legitimate business purposes.
+
+These protections apply to all Social Security numbers collected or retained in any way by Discover in connection with customer, commercial, employee, or all other relationships. Individuals applying for or obtaining a product or service from us to be used primarily for personal, family, or household purposes may obtain more information by reviewing the applicable Consumer Privacy Notice.
+
+We store information in the United States of America. If you live outside of the United States of America (“U.S.”), you understand and agree that we may transfer your information to the U.S. Our Online Services and associated practices are subject to applicable U.S. laws.
+
+Notice Updates. We may change this Notice from time to time. We will notify you of any material changes as required by law, such as by posting the revised Notice on this page with a new "last updated" date. Please check the Website and Mobile App periodically for updates.
+
+Feel free to contact us if you have any questions.
+
+Hide All
+Show All

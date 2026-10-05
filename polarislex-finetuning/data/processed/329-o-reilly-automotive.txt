@@ -1,0 +1,801 @@
+Virginia
+
+# Privacy Policy
+
+Read the Privacy Policy in Spanish. (política de privacidad en español) .
+
+View the Privacy Policy in a printable format. View the Terms & Conditions
+
+Last Updated: December 31, 2025; Effective: January 1, 2026.
+
+O’Reilly Automotive Stores, Inc. and its affiliates, subsidiaries, and related entities (collectively referred to as O’Reilly) ('O’Reilly, ‘the 'Company, 'we, 'us', or 'our') respect your privacy and commit to protecting it through our compliance with the practices described in this online privacy notice ('Privacy Policy,' 'Policy,' or 'Notice'). Please read this policy carefully.
+
+About This Privacy Policy
+This notice describes our practices for collecting, using, maintaining, protecting, and disclosing ('processing') your personal information when you use our services. O'Reilly Automotive, Inc. is one of the largest specialty retailers of automotive aftermarket parts, tools, supplies, equipment, and accessories in the United States, serving both professional service providers and do-it-yourself customers.
+
+We do not knowingly collect information from minors. We do not sell your information
+
+Our 'Services' include interactions with us, such as when you:
+
+-
+Visit our website, www.OReillyAuto.com, or a website that links to this privacy notice
+
+-
+Engage in a transaction with us, for example, by making a purchase (online or in-store)
+
+-
+Subscribe to or engage with our newsletters or other electronic communications to receive updates on our products and services
+
+-
+Interact with our social media pages (Facebook, Instagram, Twitter, TikTok, YouTube, LinkedIn, etc.)
+
+-
+Click on our ads posted on third party sites
+
+-
+Engage with our affiliates or partners
+
+-
+Communicate with our customer service team or features (including via chat functions, email, text, or phone)
+
+-
+Visit one of our stores (where we may collect personal information related to your visit, including for example, video security footage)
+
+-
+Take one of our customer feedback surveys after visiting a store or our website, making a purchase or interacting with our Customer Service team
+
+- Attend an O’Reilly event (car show, race, Grand Opening, etc.)
+
+-
+Use our Services anywhere we collect information from you and refer to this Privacy Notice
+
+This Notice also applies to personal information we collect from third parties about you. This Policy does not apply to websites, apps, videos (embedded or direct links), or other content (each a 'Linked Site') to which we link that are not operated by us. Linked Sites have their own personal information collection and use practices, and we are not responsible those practices. We encourage you to read each Linked Site’s privacy disclosures to understand how your personal information is processed.
+
+## Information Collected
+
+What is Personal Information?
+
+'Personal information' (sometimes called 'personal data') is a broadly defined term whose legal definition varies across jurisdictions. When used in this Policy, 'personal information' includes information that is reasonably capable of identifying a particular individual (including through their device) either alone or when combined with information from other sources.
+
+What Information Do We Collect?
+
+The personal information we collect about you depends on the nature and context of your interaction with our Company and Services. It may also depend on various choices you make about how to use the Services we offer, the functionality and features you choose or enable, your location, the devices you use to interact with our services, and applicable law.
+
+The following describes the personal information we may collect about you and the way we collect it.
+
+Personal Information You Give to Us
+
+We may collect the following categories of personal information you provide to us, including the following:
+
+- Contact Information. For example, first and last name, email address, phone number, physical address, job titles, and other contact information you provide.
+
+- Account and Other Identifiers: For example, username, screen name, handle, account ID, assigned user ID, customer number, or similar identifier that can be used to identify a user or account.
+
+- Account Verification Information: Including account security questions and answers.
+
+- Purchase History: Purchases and purchase tendencies associated with you or your account.
+
+- Financial Information. For example, your salary, income, assets, debts, or other financial information.
+
+- Coarse Location Information. A general approximation of your location that is not based on global position system information.
+
+- Vehicle Information. For example, your license plate number, Vehicle ID Number, vehicle performance data, mileage, oil changes.
+
+- Audio Recordings. For example, voicemails, customer service recordings, audio surveillance recordings.
+
+- User Content: Including emails and text messages, photos, videos, audio recordings, customer support communications, comments/feedback, and any other user-generated content.
+
+- Social Media Content. If you interact with our social media pages, we may receive information related to those interactions.
+
+- Employment Candidate Information. Individuals applying for employment or other positions in our workforce may provide personal information in connection with the candidacy for employment. Personal information may include contact information, work history, education history, salary preferences, résumé information, C.V.
+
+- Other Personal Information You Provide. If you provide us personal information other than that described above, we will collect it and use it for the purposes for which you provide it or other consistent purposes.
+
+Sensitive Personal Information. Some jurisdictions have defined certain categories of personal information as 'sensitive.' We may collect the following categories of sensitive personal information when you provide it to us or allow us to collect it based on your interaction with us.
+
+From our customers:
+
+- Payment Processing Information. For example, the form of payment, payment card number and details, bank account number, payment service provider, and other payment information you provide.
+
+- Driver’s license number, Governmental ID card numbers, Tax identification number, Military identification number.
+
+- Highly Personal Information. We rarely collect highly personal information. However, occasionally our customer feedback surveys ask for this optional information in order to better personalize your experience with O’Reilly. For example, a survey might request information that reveals your racial or ethnic origin, or gender identity or sexual orientation.
+
+From our team members:
+
+- Social Security Number, Driver’s license number, Governmental ID card numbers, Tax identification number, Military identification number, Passport Number.
+
+- Airline mile account information provided when traveling on behalf of the company.
+
+- Payment Processing Information. For example, the form of payment, payment card number and details, bank account number, payment service provider, and other payment information you provide when making optional purchases through the Company Store.
+
+- Banking Information: For example, your bank account and routing number used for directly depositing payroll, expense reimbursements, or other payments.
+
+- Health Information. For example, information pertaining to your physical or mental health for insurance or insurance discount purposes, leaves of absence, reasonable accommodations, or fitness and exercise data when participating in a wellness challenge.
+
+- Health insurance information.
+
+- Account access credentials. For example, your username and password.
+
+- Communications Contents. For example, the contents of mail, email, or text messages (unless we are the sender or intended recipient).
+
+- Highly Personal Information. For example, information that reveals your racial or ethnic origin, religious or philosophical beliefs, union membership, or gender identity or sexual orientation.
+
+## Site Cookies
+
+Personal Information We Derive Through Your Use of Our Services
+
+We automatically collect certain information about your (and your device's) interaction with our Services using various data-gathering and tracking technologies.
+
+These technologies include:
+
+- Cookies or tracking pixels
+
+- Facebook tracking pixel
+
+- Remarketing tools and software
+
+- iFrames or embedded materials
+
+- Session recording scripts to monitor activity
+
+The information we collect using these technologies includes:
+
+- Browsing and Search History. Information about the content you view and searches you make on our Website.
+
+- Website Log and Usage Data. Data related to our pages you viewed, the services and features you used or interacted with, your browser type and details about any links or communications with which you interacted.
+
+- Advertising Metrics. Data about the advertisements you have viewed on our Website and/or Mobile App.
+
+- Diagnostic Data. Such as crash logs, launch time, hang rate, energy use, and other information collected for measuring technical diagnostics.
+
+- Device information. Data about the device used to access our Services. Device information includes device identification numbers, application identification numbers, advertising identifiers, device location information, mac address, hardware model, internet service provider, and mobile carrier).
+
+The 'Do Not Track' browser-based standard signal has yet to gain widespread acceptance; our Website currently does not respond to 'Do Not Track' signals.
+
+For more information about the tracking technologies we use or to change your settings, view your Cookie Settings or see your additional rights at privacy.oreillyauto.com.
+
+Who Provides Us with Personal Information?
+
+We mostly collect personal information directly from you or based on your interaction with our Website or App. However, we also may collect personal information from third-party sources, these include:
+
+- Identify Verification Service Providers
+
+- Information Databases
+
+- Social Media Platforms
+
+- Business Partners
+
+- Government Entities
+
+What Do We Do with Your Personal Information?
+
+We may use your personal information for a variety of reasons. Depending on how you interact with our Services, these include:
+
+- Fulfilling and communicating with you about your orders or requests.
+
+- Processing refunds, returns, and exchanges.
+
+- To validate your identity as necessary to perform our contract with you, maintain security, and comply with applicable law.
+
+- To register, service or manage your accounts such as information about your O’Rewards account and membership benefits, including expiration and renewal notices.
+
+- To send you marketing and promotional communications, as permitted by law, and to measure its effectiveness.
+
+- To administer contests, sweepstakes, promotions, and surveys.
+
+- To respond to your requests related to our Services.
+
+- To maintain and improve the security and performance of our Services.
+
+- To Improve your experience in our stores and on our websites.
+
+- To anonymize, aggregate, or de-identify your personal data (so it can no longer identify you) in furtherance of conducting research and analysis.
+
+- To make strategic decisions concerning our business operations.
+
+- To personalize our service offerings, websites, and advertisements and/or deliver targeted advertising and to measure its effectiveness.
+
+- To display third-party ads, including sharing information with entities who display third-party ads.
+
+- To enforce, and review compliance with, the legal terms that govern our offerings in furtherance of our legitimate interest in ensuring adherence to the relevant terms.
+
+- To comply with our legal obligations under applicable laws.
+
+- To protect the rights, safety, and property of the Company, our users, and third parties.
+
+- In any other way we may describe when you provide the information.
+
+- To Process Commercial Credit Account applications
+
+- For any other purpose with your consent.
+
+When we process personal data about you to comply with legal requirements or to perform our obligations under a contract with you or with our customer through whom you use our offerings, failure to provide such data may prevent or delay our fulfillment of these obligations.
+
+When and With Whom Do We Share Your Personal Information?
+
+We may share your personal information with the following:
+
+- Business Operations Providers. Including shipping carriers who help us fulfill your orders and mail packages to you, cloud computing service providers, internet service providers, data backup and security providers, functionality and infrastructure providers, and similar service providers.
+
+- Our Business Affiliates. With our affiliates, including our parent company, subsidiaries, joint ventures, or other companies that we control or that are under common control with us.
+
+- Payment and Billing Providers.
+
+- Marketing and Advertising Providers. Including advertising, direct marketing, and lead generation providers, affiliate marketing program providers, retargeting platforms, data brokers, ad networks, marketing consultants, and similar services providers.
+
+- Legally Required Parties. Persons to whom we are required by law to provide information, such as pursuant to a subpoena or a court order.
+
+- Professional Service Providers. Including lawyers, accountants, consultants, security professionals, and other similar parties when disclosure is reasonably necessary to comply with our legal and contractual obligations, prevent or respond to fraud or abuse, defend ourselves against attacks, or protect the rights, property, and safety of us, our customers, and the public.
+
+- Reorganization. Persons involved in the consideration, negotiation, completion of a business transaction, including the sale, merger, consolidation, acquisition, change in control, transfer of substantial assets, bankruptcy, or reorganization, and any subsequent integration.
+
+- Authorized Disclosures: To any party when you request or authorize us to share it.
+
+- Website Chat Feature: The website Chat feature is provided in conjunction with LivePerson,
+Inc. If Customer uses the Chat
+feature, any data input by the Customer shall be shared with LivePerson,
+Inc., as a down stream processor of that data. By using the Chat feature, you consent
+that any data you provide via the Chat feature may be shared with
+LivePerson for processing in order to provide the Services as defined in
+this Privacy Policy.
+
+We may also gather aggregated data about individuals and disclose the results of such aggregated (but not personally identifiable) information to our partners, service providers, advertisers, and/or other third parties for marketing or promotional purposes. We will not share data related to your opting into or out of SMS (text) messages with any third party.
+
+How Long Do We Keep Your Personal Information?
+
+We will retain your personal information only for so long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information; the potential risk of harm from unauthorized use or disclosure of your personal information; the purposes for which we process your personal information and whether we can achieve those purposes through other means; and the applicable legal requirements. In some circumstances, you may ask us to delete your data. Additionally, we may anonymize your personal information (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
+
+How Do We Protect Your Personal Information?
+
+We have implemented and maintain reasonable security procedures and practices, appropriate to the nature of the information, to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. However, no security measure is perfect, so we cannot guarantee the security of your personal information.
+
+Examples of our security measures include the following:
+
+- Restricting access to personal information to those workforce members who need to know it.
+
+- Training our workforce members about the importance of privacy and security of personal information.
+
+- Implementing internal policies and procedures governing the collection, use, retention, and disclosure of personal information.
+
+Do We Collect Information from Minors?
+
+Our Services are not intended for persons under 18+ years of age. We do not knowingly collect or process the personal information of individuals under the age of 18+. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us their Personal Information, please contact us at privacy@oreillyauto.com.
+
+## What Are Your Privacy Choices?
+
+You can control the collection and use of personal information for some of our processing activities. This includes:
+
+Adjusting Communication Preferences
+
+Email: You may unsubscribe from promotional and other types of communications by following the 'unsubscribe' instructions near the bottom of the email. You may also email us at privacy@oreillyauto.com. Please note, opting out of promotional emails will not stop you from receiving all emails from the company. For example, we may still send you emails pertaining to your purchases, registrations, consumer surveys and similar transactions.
+
+Text Messages: You may opt out of automated text notifications any time by replying 'STOP,' or any alternative keyword we have shared with you.
+Mail Promotions: You may ask us to unsubscribe from our mail promotions and solicitations. To opt out of physical mailings, a customer can visit any O'Reilly store, or call Customer Service at (888) 327-7153.
+
+Blocking Cookies
+
+Most web browsers automatically accept cookies by default, but you can alter how your browser responds to cookies by adjusting the settings. Information about managing cookies for popular web browsers can be found in the links below:
+
+Safari (Desktop) and Safari Mobile (iOS).
+
+Firefox
+
+Chrome
+
+Microsoft Edge
+
+Brave
+
+Additionally, you may use our cookie consent preference manager to customize your cookie preferences for our Website.
+
+Blocking Google Analytics
+
+Many websites, including ours, employ Google Analytics. To opt out of Google Analytics data collection, follow these instructions from Google.
+
+Mobile Device Privacy Settings
+
+Mobile devices can use device-level information to serve targeted ads. To learn about your privacy choices for your mobile devices, visit these informational pages from Google (Android) and Apple (iOS).
+
+International Data Transfers
+
+If you provide personal information through the Websites or Apps separate from a purchase, you understand that we may process, store, and transfer your personal information in and to a foreign country, including the United States. The laws that apply to the use and protection of personal information in the United States, or other countries or jurisdictions in which we transfer or process personal information, may be different from the laws and protections in your country. Whenever we engage a service provider, we require that its privacy and security standards adhere to this policy and applicable privacy laws.
+
+Do We Update Our Privacy Policy?
+
+We may update this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
+## Contact Information
+
+How Can You Contact Us?
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+O’Reilly Automotive Stores, Inc.
+
+Attention: Consumer Data Privacy c/o Customer Service
+
+233 South Patterson Avenue, Springfield, MO 65802
+
+privacy@oreillyauto.com | (888) 327-7153
+
+## California
+
+Supplemental Notice for Residents of California
+
+This section applies to residents of the State of California in addition to all other applicable rights and information contained in this Policy.
+
+California law requires that we describe the personal information we collect, disclose, and sale/share based on certain defined categories. To be clear, this chart overlaps with the description of our processing practices described above. This chart below describes our practices covering the past 12 months.
+
+Categories of Personal Information
+
+Unique Identifiers
+
+Examples: Name, signature, address, telephone email, account name, SSN, DL number, passport number, online identifier, IP address
+
+Types of Service Providers/Contractors to Whom this Category if Disclosed:
+
+- Consumer
+
+- Service Providers
+
+- Contractors
+
+- Advertising Networks
+
+- Data Analytics Providers
+
+Types of Third Parties with Whom this Category of Personal Information Is Shared/Sold:
+
+- Unique Identifiers Not Sold
+
+Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+
+Examples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+
+Some personal information included in this category may overlap with other categories.
+
+- Personal Information Not Disclosed
+
+- Personal Information Not Sold
+
+Protected Classifications
+
+Examples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+
+- Characteristics of Protected Classifications Not Disclosed
+
+- Characteristics of Protected Classifications Not Sold
+
+Commercial Information
+
+Examples: Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+- Consumer
+
+- Advertising Networks
+
+- Social Networks
+
+- Commercial Information Not Sold
+
+Internet Activity
+
+Examples: Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, or advertisement
+
+- Advertising Networks
+
+- Social Networks
+
+- Internet/Network Activity Not Sold
+
+Geolocation Data
+
+Examples: Physical location or movements.
+
+- Consumer
+
+- Geolocation Data Not Sold
+
+Sensory Data
+
+Examples: Audio, electronic, visual, thermal, olfactory, or similar information
+
+- Sensory Data Not Sold
+
+Professional or employment-related information.
+
+Examples: Current or past job history or performance evaluations.
+
+- Operating Systems and Platforms
+
+- Professional or employment&dash;related information Not Sold
+
+Inferences drawn from other personal information.
+
+Examples: Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+- Consumer
+
+- Inferences Not Disclosed
+
+- Inferences Not Sold
+
+Sensitive Personal Information
+
+Examples: Social security, driver’s license, state identification card, or passport number, account login, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account, precise geolocation; racial or ethnic origin, religious or philosophical beliefs, or union membership; contents of a consumer’s mail, email and text messages (unless we are the intended recipient); genetic data; biometric data for identification purposes; health data; and sex life or sexual orientation data.
+
+- Consumer
+
+- Sensitive Personal Information Not Sold
+
+We will not collect a category of Personal Information not listed above, or use any Personal Information collected in any of the above categories for a business purpose not listed above, without first providing you with notice.
+
+Your Rights Under the California Privacy Rights Act
+
+California Residents have certain rights under the CPRA, including the following:
+
+- Access. You have the right to know what personal information the business has collected about you. While our California Privacy Policy details the personal information we collect about all California consumers, you have the right to make a request to know and get access to information that is specific to you, should we have any.
+
+- Deletion. You have the right to request that we delete personal information we have collected from you, subject to certain exception. For example, we will not delete any personal information required to provide our services to you or that we must maintain to comply with our legal obligations. We will notify you following submission of your request if this is the case.
+
+- Correction. You may request that we correct inaccurate information we maintain about you, subject to some exceptions and, if necessary, independent verification.
+
+- Opt-Out of the Sale/Sharing of Your Personal Information. If we have sold or shared personal information about you, you have the right to opt out of the sale or sharing of that personal information.
+
+- Limitation. In some instances, you have the right to limit our use or disclosure of Sensitive Personal Information.
+
+- Non-Discrimination. You have the right not to be discriminated against if you exercise any of the rights conferred by the CPRA. Please note that a legitimate denial of a request for information, deletion, or to opt out is not discriminatory, nor is charging a fee for excessive or repetitive consumer requests as permitted by the CPRA.
+
+Exercising Your CPRA Rights
+
+Submitting Access, Deletion, and Correction Requests
+
+Consumer: To make an access, deletion, correction, or limitation request, please use our online request form/portal (privacy.oreillyauto.com), or email us at privacy@oreillyauto.com, or call us at (888) 327-7153.
+
+HR Individuals: To make an access, deletion, correction, or limitation request, please use our online request form/portal employmentprivacy.oreillyauto.com/employment/index
+
+After we receive your request, to ensure the security of the information we store and consumers’ privacy, we will verify that you are appropriately affiliated with the subject of the request, either as the consumer or as an authorized agent or guardian of the consumer. We may ask you to provide a few pieces of information to confirm your identity in our records.
+
+You may designate an authorized agent to exercise your rights under the CCPA on your behalf. You must provide the authorized agent written permission to exercise your rights under the CPRA on your behalf and we may deny a request from an agent on your behalf if we cannot verify that they have been authorized by you to act on your behalf. Even if you use an authorized agent to exercise your rights under the CCPA on your behalf, pursuant to the CCPA we may still require that you verify your own identity directly to us. This provision does not apply if you have provided a power of attorney under the California Probate Code.
+
+Opting Out of the Sale/Share of Your Personal Information
+
+As described in our privacy policy, we do not sell personal information to third parties or other business partners.
+
+However, as described in our privacy policy, we may share personal information with business partners, service providers, contractors, or third parties as described elsewhere in this policy.
+
+Opt-Out Preference Signals:
+
+This website responds to opt-out preference signals in a non-frictionless manner. That means upon receipt of the opt-out preference signal, we will not require you to provide additional information beyond what is necessary to process the signal. However, we may provide you the option to provide additional information to help facilitate your request. For example, we may ask you to provide an offline identifier, like a name or physical address, so that we can honor your opt-out request. In such cases, we will not use the additional personal information you provide except to process your opt-out request.
+
+Limiting the Use of Your Sensitive Personal Information
+
+To limit the use and disclosure of your Sensitive Personal Information, please click privacy.oreillyauto.com
+
+Personal Information of Minors
+
+Our Site, social media, and other business offerings, including our services, are not intended for children or minors under the age of 18+ years old without express consent or authorization from a parent or a legal guardian. Accordingly, we do not knowingly sell the personal information of minors under the age of 18+. If you believe that we have unintentionally received personal information about a minor under the age of 16 years old, please contact us at privacy@oreillyauto.com.
+
+Additional California Privacy Rights
+California Civil Code Section § 1798.83 permits users of our web site that are California residents to request certain information regarding our disclosure of personal information to other parties for their direct marketing purposes. To make such a request, please send an email to privacy@oreillyauto.com with the subject 'Shine the Light Request.'
+
+Changes to Our California Privacy Policy
+O’Reilly Automotive Stores, Inc. and its affiliates and related entities (collectively referred to as O’Reilly) reserves the right to amend this California Privacy Policy at our discretion and at any time. When we make changes to this California Privacy Policy, we will post an updated notice on our website with the effective date.
+
+Contact Us Regarding Your Privacy Rights
+If you would like additional information regarding our California Privacy Policy or your privacy rights generally, please email us at privacy@oreillyauto.com. Please submit your CPRA rights requests using the methods described above.
+
+California Transparency in Supply Chains Act of 2010
+
+California's Transparency in Supply Chains Act of 2010 requires retailers and manufacturers doing business in California to disclose efforts taken to eradicate slavery and human trafficking from their direct supply chains for tangible goods offered for sale, giving consumers additional criteria to make buying decisions.
+
+O'Reilly considers its reputation for integrity and fairness to be one of its most valuable assets. O’Reilly seeks to outperform its competition fairly and honestly and never through unethical or illegal business practices. O'Reilly expects its team members and supply chain vendors to comply in all respects with applicable laws and regulations in each governing jurisdiction that it does business. Supply chain vendors execute Master Supplier Agreements ("Agreements") with O'Reilly in which they take the following actions:
+
+- 1. Warrant that O’Reilly products do not violate any laws, ordinances, statutes, rules, or regulations, which include compliance with laws respecting the eradication of slavery and human trafficking
+
+- 2. Acknowledge that slavery and human trafficking is not involved in the manufacture or sale of O’Reilly products
+
+- 3. Acknowledge that O'Reilly supports the eradication of slavery and human trafficking from supply chains and seeks to partner with supplier partners who share the same policies and practices
+
+- 4. Conduct an annual or semi-annual audit on O’Reilly products in order to regularly confirm that slavery and human trafficking does not play a part in the manufacture or sale of these products
+
+These Agreements create an affirmative obligation on the part of O’Reilly supply chain vendors to promptly provide notice of violation of any such laws, ordinances, statutes, rules, or regulations. The Agreements also require O’Reilly supply chain vendors to be accountable for any violations of law by providing the company indemnification for violations relating to its products. Agreements and certifications are updated on a periodic basis.
+
+O'Reilly expects its supply chain vendors to conduct their relationship with the company consistent with the O'Reilly Code of Business Conduct and Ethics ("Code"), and company supply chain team members annually confirm their understanding of that Code. Team members may report violations of the Code through anonymous reporting to an independent third party. O'Reilly has communicated to its supply chain vendors that the company supports efforts to eradicate slavery and human trafficking from supply chains, and their acknowledgment that their products are not manufactured and supplied in a manner inconsistent with those efforts. Annual training has been implemented for internal employees with direct responsibility for supply chain management. O'Reilly reserves the right to make periodic, unannounced audits of its supply chain vendors' facilities for compliance with the requirements of these Agreements, including compliance with laws, ordinances, statutes, rules, and regulations. O’Reilly reserves the right to remove supply chain vendors from the supply chain for non-compliance with these Agreements. O'Reilly does not utilize a third party for verification or unannounced audits at this time, but reserves the right to do so in the future.
+
+O'Reilly does not manufacture any products sold in the company's retail locations. For more information about the slavery and human trafficking eradication policies of O’Reilly branded-label supply chains, please visit their respective websites.
+
+## Colorado
+
+Supplemental Notice for Residents of Colorado
+
+This section applies to residents of the State of Colorado in addition to all other applicable rights and information contained in this Policy. Colorado residents have following rights under the Colorado Privacy Act (CPA) and other applicable Colorado laws:
+
+- To confirm whether or not we are processing your personal information.
+
+- To access your personal information and obtain a copy of it.
+
+- To correct inaccuracies in your personal information.
+
+- To delete the personal information we have collected from or about you.
+
+- To opt out of the processing of your personal information for purposes of targeted advertising.
+
+- To opt out of the sale of your personal information.
+
+- To opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+Exercising Your Privacy Rights
+
+You may make a request at any time to exercise your privacy rights listed above by:
+
+- Submitting a request at privacy.oreillyauto.com
+
+- Logging into your account with us, or
+
+- Contacting us at:
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+Targeted Advertising
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Sale of Personal Information
+
+Colorado residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money or something else of value.
+
+Based on this definition, we Do NOT sell your personal information to third parties.
+
+## Connecticut
+
+Supplemental Notice for Residents of Connecticut
+
+This section applies to residents of the State of Connecticut in addition to all other applicable rights and information contained in this Policy. Connecticut residents have following rights under applicable Connecticut law:
+
+- To opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Sale of Personal Information.
+
+Connecticut residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money or something else of value.
+
+## Delaware
+
+Supplemental Notice for Residents of Delaware
+
+This section applies to residents of the State of Delaware in addition to all other applicable rights and information contained in this Policy. Delaware residents have following rights under the Delaware Personal Data Privacy Act (DPDPA) and other applicable Delaware laws:
+
+- To obtain a list of the categories of third parties with whom we have shared your personal information.
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+You may make a request at any time to exercise your privacy rights in any of the following ways:
+
+- Clicking on “Your Privacy Choices” in your account
+
+- Emailing us at: privacy@oreillyauto.com
+
+- Calling us at: (888) 327-7153
+
+- Contacting us by mail at:
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+We do not sell your personal information.
+
+## Indiana
+
+Supplemental Notice for Residents of Indiana
+
+This section applies to residents of the State of Indiana in addition to all other applicable rights and information contained in this Policy. Indiana residents have following privacy rights under the Indiana Consumer Data Protection Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Iowa
+
+Supplemental Notice for Residents of Iowa
+
+This section applies to residents of the State of Iowa in addition to all other applicable rights and information contained in this Policy. Iowa residents have following rights under the Iowa Consumer Data Protection Act (ICDPA) and other applicable Iowa laws:
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Kentucky
+
+Supplemental Notice for Residents of Kentucky
+
+This section applies to residents of the State of Kentucky in addition to all other applicable rights and information contained in this Policy. Kentucky residents have following privacy rights under the Kentucky Consumer Data Protection Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Maryland
+
+Supplemental Notice for Residents of Maryland
+
+This section applies to residents of the State of Maryland in addition to all other applicable rights and information contained in this Policy. Maryland residents have following privacy rights under the Maryland Online Data Privacy Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+- O’Reilly Automotive Stores, Inc.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Minnesota
+
+Supplemental Notice for Residents of Minnesota
+
+This section applies to residents of the State of Minnesota in addition to all other applicable rights and information contained in this Policy. Minnesota residents have following privacy rights under the Minnesota Consumer Data Privacy Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Montana
+
+Supplemental Notice for Residents of Montana
+
+This section applies to residents of the State of Montana in addition to all other applicable rights and information contained in this Policy. Montana residents have following rights under the Montana Consumer Data Privacy Act (MCDPA) and other applicable Montana laws:
+
+- To opt out of processing of your personal data for purposes of targeted advertising. You can submit an opt out request at privacy.oreillyauto.com.
+
+- Through your account with us, or
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Montana residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money.
+
+## Nebraska
+
+Supplemental Notice for Residents of Nebraska
+
+This section applies to residents of the State of Nebraska in addition to all other applicable rights and information contained in this Policy. Nebraska residents have following rights under the Nebraska Data Privacy Act (NDPA) and other applicable Nebraska laws:
+
+- To opt out of profiling in furtherance of solely automated user decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of Our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## New Hampshire
+
+Supplemental Notice for Residents of New Hampshire
+
+This section applies to residents of the State of New Hampshire in addition to all other applicable rights and information contained in this Policy. New Hampshire residents have following rights under applicable New Hampshire laws:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## New Jersey
+
+Supplemental Notice for Residents of New Jersey
+
+This section applies to residents of the State of New Jersey in addition to all other applicable rights and information contained in this Policy. New Jersey residents have following rights under applicable New Jersey laws:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision. You may also appeal our decision using the contact methods listed above.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Oregon
+
+Supplemental Notice for Residents of Oregon
+
+This section applies to residents of the State of Oregon in addition to all other applicable rights and information contained in this Policy. In Oregon, we operate stores through O’Reilly Auto Enterprises, LLC d/b/a O’Reilly Auto Parts. Oregon residents have following rights under the Oregon Consumer Privacy Act (OCPA) and other applicable Oregon laws:
+
+- To request that we disclose, at our discretion, the list of third parties to whom we have disclosed your personal information.
+
+- To opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. You can submit an opt out request at privacy.oreillyauto.com.
+
+- To revoke previously given consent to process your personal information, which must be honored within 15 days of receiving the request.
+
+- Through your account with us, or
+
+O’Reilly Auto Enterprises, LLC d/b/a O’Reilly Auto Parts
+
+We will respond to your request within 45 days of receipt (if properly submitted) (or 15 days in the case of revocation of consent). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Oregon residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money.
+
+## Rhode Island
+
+Supplemental Notice for Residents of Rhode Island
+
+This section applies to residents of the State of Rhode Island in addition to all other applicable rights and information contained in this Policy. Rhode Island residents have following privacy rights under the Rhode Island Transparency and Privacy Protection Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Tennessee
+
+Supplemental Notice for Residents of Tennessee
+
+This section applies to residents of the State of Tennessee in addition to all other applicable rights and information contained in this Policy. Tennessee residents have following privacy rights under the Tennessee Information Protection Act:
+
+- To opt out of profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning you.
+
+We will respond within 45 days of our receipt of your properly submitted request. If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, including instructions on how you may appeal our decision.
+
+We engage in targeted advertising to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. Opting out of targeted advertising does not mean that you will no longer receive ads from us. Instead, those ads will not be specifically tailored to you.
+
+## Texas
+
+Supplemental Notice for Residents of Texas
+
+This section applies to residents of the State of Texas in addition to all other applicable rights and information contained in this Policy. Texas residents have following rights under the Texas Data Privacy and Security Act (TDPSA) and other applicable Texas laws:
+
+- To opt out of processing of your personal data for purposes of targeted advertising. You can submit an opt out request at privacy.oreillyauto.com.
+
+- Through your account with us, or
+
+O’Reilly Auto Enterprises, LLC d/b/a O’Reilly Auto Parts
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Texas residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we share, disclose, or transfer your personal data for monetary or other valuable consideration to third parties.
+
+## Utah
+
+Supplemental Notice for Residents of Utah
+
+This section applies to residents of the State of Utah in addition to all other applicable rights and information contained in this Policy. Utah residents have following rights under the Utah Consumer Privacy Act (UCPA) and other applicable Utah laws:
+
+- To access your personal information, and obtain a copy of information you previously provided to us.
+
+- To opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Utah residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money
+
+## Virginia
+
+Supplemental Notice for Residents of Virginia
+
+This section applies to residents of the Commonwealth of Virginia in addition to all other applicable rights and information contained in this Policy. Virginia residents have following rights under the Virginia Consumer Data Protection Act (VCDPA) and other applicable Virginia laws:
+
+- To access your personal information and obtain a copy of it (where the processing is carried out by automated means).
+
+- To opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. You can submit an opt out request at privacy.oreillyauto.com.
+
+233 South Patterson Avenue, Springfield, MO 65802privacy@oreillyauto.com | (888) 327-7153
+
+We will respond to your request within 45 days of receipt (if properly submitted). If we need more time to process and respond to your request, we will notify you of that fact along with the reason for the delay. In all cases we will complete your request within 90 days from the date of our receipt of your properly submitted request. If we decline to act regarding your request, we will inform you of our decision and the reason for it, along with instructions on how you may appeal our decision.
+
+We engage in targeted advertising which means we display ads to our users based on personal information obtained from their activities over time and across nonaffiliated websites and apps. This allows us to serve you more relevant ads that align with your preferences and interests. We feel this creates a more pleasurable experience for our users. However, if you decide you want to opt out of sharing your personal information for targeted advertising purposes, you can opt out at privacy.oreillyauto.com. Please note, opting out of targeted advertising does not mean that you will no longer receive ads from us—it just means that such ads will not be specifically tailored to you.
+
+Virginia residents acting within their individual capacity may opt out of the sale of their personal information. 'Selling' means we exchange your personal information to third parties in exchange for money.

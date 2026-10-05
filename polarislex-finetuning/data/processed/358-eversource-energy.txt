@@ -1,0 +1,337 @@
+{{ town-name }}
+
+# Privacy Policy
+
+en español
+
+This Privacy Policy has been created by Eversource Energy and its affiliates (collectively "Eversource," "we" or "our") and sets forth our policies concerning the information we collect and use and the measures we take to protect and limit access to it.
+
+This policy also describes the options you have to access, change or correct your information. We take seriously the protection of your personal information, but you must also safeguard your accounts from unauthorized access and use of your information.
+
+This Privacy Policy may be updated from time to time and we encourage you to periodically check for updates and revisions to this Policy. This policy was last updated on September 1, 2026.
+
+## Privacy Policy Questions
+
+If you have questions or concerns about this Privacy Policy, or would like more information, please contact us at privacypolicy@eversource.com.
+
+- This non-secure email address is for general privacy policy questions only.
+
+- Do not use this email address to submit personal information or documentation to Eversource.
+
+- Proof of identification as requested by Eversource should only be sent through our secure document upload form or as otherwise instructed by an Eversource customer support representative.
+
+- Use our Data Privacy Request form to access and obtain a copy of your personal data processed by Eversource or to request deletion of said personal data.
+
+This Privacy Policy addresses these topics:
+
+- What information we collect and how we collect it
+
+- How we use information we collect
+
+- How do we share your information?
+
+- How we safeguard your information
+
+- How you can safeguard your information
+
+- How you can control your information and how we communicate with you
+
+- Using social media sites
+
+- How you can access, change or correct your information
+
+- Our linking policy
+
+- Protecting children’s privacy online and the Eversource school programs
+
+- Additional privacy terms for Connecticut residents
+
+- Additional privacy terms for New Hampshire residents
+
+- Additional terms for Youtube API Service
+
+- Disclaimer
+
+## What Information We Collect and How We Collect It
+
+We collect the following categories of information that you voluntarily provide to us when you communicate with Eversource or Eversource contractors or service providers. We collect only necessary
+information that we use to provide you with our services, maintain your account, operate our business, and to otherwise communicate with you. We may share this information to service providers and contractors, regulatory authorities, and financial services entities or to other third parties as required by law.
+
+Identifiers: Personal data such as your name, signature, certain Sensitive Personal Information elements, utility account number and service address, billing address, email address, account username, password, IP address, phone number(s), or other similar unique identifiers.
+
+Sensitive Personal Information: We or our service providers may collect information such as your immigration status if you provide us with such information, biometric data in the form of voice authentication, if you consent and use our Interactive Voice Response System (IVR), Social Security Number, passport number, driver's license or other government issued ID number, financial account information, financial account log-in information or credit card or debit card number that in combination with any required access or security code, password or credential would allow access to such accounts, as well as health information that we receive from you or your health care providers at your request.
+
+Account History and Payment Information: We or our service providers may collect your bank account, credit card or debit card information, and account history.
+
+Demographic Data: Such as date of birth, household composition information and income.
+
+Details About Your Home: Such as home ownership or renter status, dwelling age, size and type, homeowner information, and details about appliances and other energy-related equipment and systems used in the home.
+
+Energy Usage and Energy Efficiency Information: Such as energy usage and information about your participation in our renewable energy, energy efficiency, or energy conservation programs, personal property, products or services obtained or considered, or other information related to your utility account history.
+
+Geolocation Data: We collect precise geolocation information to provide you with our services and to better tailor our services to you depending on your geographical region.
+
+Professional Information: Including information relating to your role as a representative or agent of a company or business, such as your work title and contact information.
+
+Aggregated/De-Identified Information: We also collect information in an aggregated and de-identified form from various sources, including but not limited to accounts, transactions and usage. Such information does not identify individual customers but may be used for our business purposes – to identify new offerings, communications, research or analyze market trends, and other purposes consistent with applicable laws.
+
+Online Information: We and our contractors and service providers also collect information you provide through your online activity, access and use of our and their websites and applications using tracking technologies such as cookies, Adobe Analytics, Google Analytics, pixel tags, web beacons, and clear GIFs, and through HTML-formatted email messages to measure the effectiveness and
+success of our communications. Examples of the information that we collect through these tracking technologies include browsing history, search history, information about your interactions with our website, use of our mobile apps, or interactions with our digital advertisements, log data, including your Internet Provider (IP) address, a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP) is identified and logged automatically in our server log files whenever you visit our websites;  your Media Access Control (MAC) address, device type, screen resolution, operating system version and internet browser type
+and version, time spent on our websites, pages you visited, location and your relationship with us, and statistical  information about your usage of our websites and applications. This online information is used to improve your online experience and is kept for a limited time period. All such information is deleted within 24 months of collection.
+
+Third-Party Widgets:  We may allow certain widgets (e.g., social share buttons) on our sites and the sites of service providers and contractors that enable users to easily share information on another platform, such as a social media platform.  The third parties that own these widgets may have access to information about your browsing on the pages of our sites where these widgets are placed.  We recommend that you review the privacy and security policies and other terms and conditions of these third-party sites.
+
+## How Do We Use Information We Collect?
+
+Eversource may use your personal data for legitimate business purposes such as providing appropriate customer service, conducting business operations, complying with law, legal process or regulators, protecting the security of critical infrastructure and key resources, and ensuring information security. We do not use or disclose your personal data for any purpose other than as permitted by applicable law. We do not sell your personal data for monetary consideration. Eversource will also obtain your consent if it collects or processes your personal data for other purposes not contained in this Privacy Policy or otherwise disclosed to you.
+
+We or our service providers may use the information we obtain about you to:
+
+- Provide energy services or products to you.
+
+- Communicate with you regarding our services and other products or services that you have requested or may be of interest to you.
+
+- We may use household income and other information we collect to qualify you for low-income programs and reduced utility rates.
+
+- Promote energy efficiency and to better understand your use of our services and provide you with information to improve your energy efficiency.
+
+- Operate and maintain safe, secure and reliable gas and electric services and to serve you as a regulated public utility.
+
+- Improve the functionality, design, security and usability of our websites and mobile applications, by customizing the content and layout of our pages for your use, by analyzing the statistical information that we collect about your usage of our websites to enable us to improve the design and functionality, to monitor responses of our communications and content, and to assist us with resolving customer questions regarding our websites.
+
+- Improve our websites by customizing the content and layout of our pages for your use, by analyzing the statistical information that we collect about your usage of our websites to enable us to improve the design and functionality, to monitor responses
+of our communications and content, and to assist us with resolving customer questions regarding our websites.
+
+- Comply with a valid warrant, subpoena, or court order, or exercise or defend legal claims or otherwise comply with our legal obligations.
+
+- Comply with regulatory requests or orders, or requests or orders from other local, state or federal governmental agencies with legal authority to obtain the personal data from Eversource.
+
+- Develop and implement marketing, education and outreach plans to improve the services and products we provide to you and other consumers.
+
+- Protect against and prevent fraud and identity theft, unauthorized transactions, claims and other liabilities, including past-due accounts.
+
+- Enable service providers and contractors to provide energy-related services to you, products or equipment for Eversource business purposes consistent with Eversource's relationship with you and/or to comply with regulatory and legal obligations, subject to appropriate confidentiality and security requirements.
+
+- Notify credit reporting agencies and collection agencies if your account is assigned for collection.
+
+- Assist emergency responders in situations of threats to life or property.
+
+- Create aggregated or de-identified data for analytics purposes.
+
+- Provide Low or Zero Emission Project participants opportunities and information regarding energy efficiency services and programs that are synergistic with their projects.
+
+- Exchange personal information with government agencies to identify your eligibility for participation in our financial hardship programs, service protection, and discounted rates.
+
+- Collect and use personal data for the purpose of training large language models for internal purposes, for the benefit of customers.
+
+- Share your usage data with third-party service providers you authorize.
+
+- Share your personal information, including financial hardship status with electric suppliers to qualify you for reduced electric supply rates to comply with applicable laws.
+
+- For any other business or lawful purpose reasonably anticipated within the context of Eversource's relationship with you.
+
+- For any purpose for which we obtained your consent.
+
+We retain your personal data based on legal requirements or business needs. Generally, we only retain personal data for as long as is reasonably necessary for our business purpose or as required by law.
+
+## How Do We Share Your Information?
+
+If you have provided written authorization to Eversource to release your information to third parties, we will comply with your authorization and release such information to those parties as directed by you.
+
+Your personal data may be shared with third parties such as service providers and contractors providing equipment and services to the Company and to provide services to you, such as energy efficiency programs or payment processing services. Your personal data may also be shared with regulators and governmental authorities to comply with any applicable law, regulation, legal process, or enforceable governmental request, and to protect information and the security of critical infrastructure and key resources. Information may also be shared between the Company’s affiliates, but only if we reasonably believe it complies with legal and regulatory requirements.
+
+We may share personal data for appropriate business purposes and for those purposes, may provide such information to third parties such as financial services entities, credit reporting agencies, contractors, service providers, and analytics firms. Eversource does not sell customer personal data for any monetary value. Eversource may also provide customer data in an aggregated or de-identified form, if appropriate.
+
+At any time and for any lawful purpose, Eversource may monitor, intercept, record, and search any communications or data transiting or stored on our information systems. At Eversource’s sole discretion, we may disclose pertinent information to governmental authorities to protect the security of critical infrastructure and key resources, to ensure information security, or to comply with any applicable law, regulation, legal process, or enforceable governmental request. Eversource may disclose information it determines in good faith to be necessary to investigate, prevent or respond to suspected illegal activities or interference with the operation of our websites or our Terms and Conditions.
+
+If authorized by law or regulation or with affirmative customer consent, when Eversource is notified that life support equipment is operating at a service address, Eversource will provide municipal authorities with the service address where such equipment is operating for the limited purpose of emergency response during outage events.
+
+## How We Safeguard Your Information
+
+We have rigorous security measures in place to protect and prevent the loss, misuse and alteration of the information that you provide to Eversource that is under our control. These measures may include device safeguards, industry-standard encryption technologies, secured files and buildings.
+
+To protect your information, especially personal data, from unauthorized access and use, we use security measures that comply with applicable federal and state laws, as well as governmental and quasi-governmental agencies with regulatory authority over Eversource. We protect the confidentiality of the personal data we collect by maintaining physical, electronic, and procedural safeguards, with additional security measures and precautions for highly sensitive personal data such as Social Security Numbers and financial account numbers.
+
+The measures we use to safeguard your information, particularly personal data, include:
+
+- Information technology and physical security measures
+
+- Limiting access to personal data
+
+- Prohibiting unlawful disclosure of personal data
+
+- Training our employees in the proper handling of personal data
+
+- Requiring that third parties, such as service providers and contractors, that receive or have access to personal data, comply with all applicable laws and secure, have appropriate security controls and keep confidential and limit access to and use of your personal data
+
+- Reviewing our safeguards on a regular basis
+
+Please note that you will not be able to use an external virtual private network (VPN) to access account information for security reasons, as VPN prevents account verification.
+
+## How You Can Safeguard Your Information
+
+As an important security measure, you should never share your User ID or password with anyone else, and always be sure to log out and close your browser window when you have finished working to ensure that no one else can access your information. This is especially important if you share a computer with someone else or are using a computer in a library or other public place.
+
+Eversource will never ask you for your password in an unsolicited phone call or unsolicited email.
+
+It is important to note that email is not considered a secure medium and the transmission, receipt or security of information which you send via email cannot be guaranteed. Our email communications to you are available to anyone with access to your email account.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. Although we use the best available technology (i.e., encryption, firewalls, access control software, etc.) to protect your information, we cannot guarantee the security of any information you transmit to us through our online products or services. As such, you provide information at your own risk. Once we receive your transmission, we employ rigorous security measures to protect against the loss, misuse and alteration of information on our systems.
+
+## How You Can Control Your Information and How We Communicate with You
+
+Setting Up an Online Account and Preferences: As a customer, you may sign up for an online account profile at Eversource.com to get instant access to your bill, make payments, set your communication preferences and receive important alerts (your "Account"). You can view past bills and payments and energy usage history and update certain personal data and communication preferences through your online account.
+
+When you register to access your account on our website, you will set up an online profile and will be asked to provide your email address. This email address will also be used as your User ID each time you sign into eversource.com. Transactional emails will be sent to this email address to notify you of payments due and other account reminders, and to confirm your general activity as part of your online account management. You can adjust your notification settings at any time by signing into your online profile and visiting the alerts and notification page under your account settings. Changing your settings does not mean Eversource will not contact you about your account or your electric and gas service. For example, current customers will continue to receive emergency notifications from Eversource related to your service or as may be required by law, and you cannot opt out of these communications.
+Email Communications: Eversource may also send you marketing emails to inform you of energy savings tips and other optional services. You can opt out of these marketing emails using the unsubscribe link found at the bottom of the email or by signing into your online account and visiting the email subscriptions section. You can also contact an Eversource customer service representative by phone.
+
+You may opt out of providing certain types of information by not providing it or by discontinuing your use of the websites and applications; by setting preferences on your online account or by contacting us. Please note that even if you discontinue use of online account services, we will still store some personal data in our customer systems.
+
+Connecticut Residents: Additional rights under Connecticut law for Connecticut residents regarding your personal data, opt-out options, and consent may be found in the Additional Privacy Terms for Connecticut Residents section.
+
+New Hampshire Residents: Additional rights under New Hampshire law for New Hampshire residents regarding your personal data, opt-out options, and consent may be found in the Additional Privacy Terms for New Hampshire Residents section.
+
+## Using Social Media Sites
+
+Eversource provides experiences on social media platforms including Facebook, X, YouTube and LinkedIn that enable online sharing and collaboration among registered users.
+
+- When visiting any official Eversource social media page, you are subject to this Eversource Privacy Policy and the terms of use and the privacy policies of those respective platforms.
+
+- In addition, please note that any content you post on official Eversource managed social media pages, such as pictures, opinions, or any personal information that you make available to other participants on these social platforms, is subject to the
+Terms of Use and Privacy Policies of those respective platforms.
+
+- We recommend that you review their privacy and security policies and other terms and conditions to understand your rights and obligations.
+
+- If you wish to opt out of online targeted ads posted by those platforms, you can visit the applicable media platform or, alternatively, to exercise broader opt-out rights, visit the websites of online industry groups such as the National Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA) to learn more about your opt-out options for multiple media and advertising platforms. Please note that these online opt-outs are cookie-based and are controlled by these platforms, not Eversource.
+
+## How you Can Access, Change or Correct your Information
+
+- Changes you can make to your information: You can access your account and update or correct certain personal data, including your phone number, mailing address, password, user ID and banking information, online at any time at Eversource.com. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our sign in page. Please note that if you choose not to have an online account with us, we will still store some of your personal data in our billing system if you are a customer.
+
+- You can also access, update or correct certain account information, such as legal name change, by contacting us.
+
+- Additional information access options may be found in the Additional Privacy Terms for Connecticut Residents and the Additional Privacy Terms for New Hampshire Residents sections below, as applicable.
+
+## Linking Policy
+
+For your convenience and to provide additional information, our websites may link to other non-Eversource websites for your convenience and information.
+
+In providing these links, Eversource does not endorse, monitor or control the content, products, services, activities or viewpoints expressed by these unaffiliated party websites.
+
+When you leave Eversource websites and visit the website of an unaffiliated party, this Privacy Policy no longer applies and you will be subject to the unaffiliated party's policies regarding their website, which we recommend that you review.
+
+Eversource does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness, or reliability of their information. We are not responsible for the content of linked websites, or your use of these
+unaffiliated party websites.
+
+## Protecting Children’s Privacy Online and the Eversource School Programs
+
+Our services are not directed to persons under 18 years of age, and Eversource does not knowingly collect any personal information of persons under 18 years of age unless required by applicable law. If you believe a person under 18 years of age has provided us with personal information, please contact us with a brief description of your concern.
+
+### Special notice to young visitors of this Eversource site
+
+- For the sites that this Privacy Policy applies to, we do not knowingly collect information from persons under 18 years of age.
+
+- If you are under the age of 18, you must review this Privacy Policy with your parent or legal guardian and obtain services from us or use this website only with your parent or guardian’s express authorization and written consent.
+
+If you are under the age of 13, you may not provide us with your name, email address, phone number or any other personal data.
+
+- Visit the Federal Trade Commission website for more information about the Children's Online Privacy Protection Act.
+
+- NOTE: Eversource School Program sites that are directed to individuals that are under the age of 18 are covered by the privacy policy found at www.eversourceinschool.com/
+
+## Additional Privacy Terms for Connecticut Residents
+
+Public Act No. 22-15, also known as the Connecticut Consumer Data Protection Act (“CTDPA”) provides Connecticut residents with certain additional rights related to Eversource’s processing of your personal data. If you are a Connecticut resident, the sections above in this Privacy Policy, together with the following sections, describe those rights and how you can exercise them.
+
+Exercising Your Privacy Rights – Authentication:
+To respond to your requests to access, obtain a copy of, correct or delete your personal data, we will need to verify your identity and/or authority to make such requests and access, receive, modify or delete such personal data. When you submit a request, we will take steps to verify your identity. You are not required to create an account with us to submit a request. We may ask you to provide us with information about yourself in order to verify your identity. We will only use the personal information you provide in connection with identity verification to verify the requestor's identity or authority to make the request and whenever feasible, we will attempt to match the information you provide with information we may already have about you.
+
+You can use our Data Privacy Request form to exercise your rights.
+
+Sensitive Personal Data and Right to Revoke Consent:
+
+In addition to the personal data described above, with your consent, provided directly to Eversource or through third parties, we may receive some information that may include sensitive personal data, which is defined by the CTDPA to include: (A) data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, disability or treatment, sex life, sexual orientation or status as nonbinary or transgender or citizenship or immigration status, (B) consumer health data, (C) genetic or biometric data or information derived therefrom, for the purpose of uniquely identifying an individual, (D) personal data collected from a known child with parental or guardian authorization and consent, or (E) precise geolocation data (other than data generated by or connected to advanced utility metering infrastructure systems or equipment used by Eversource) (F) neural data, (G) a consumer's financial account number, financial account log-in information or credit card or debit card number that, in combination with any required access or security code, password or credential, would allow access to a consumer's financial account, or (H) government-issued identification number, including, but not limited to, Social Security number, passport number, state identification card number or driver's license number, that applicable law does not require to be publicly displayed. Please note that the type of sensitive personal data that we currently collect is limited and described above in What Information We Collect and How We Collect it – Sensitive Personal Information. You have the right to consent or revoke your consent to use of your sensitive personal data and to exercise your rights. You can use our Data Privacy Request form to exercise your rights.
+
+Opt-Out Rights Targeted Advertising for Marketing Purposes: You have the right to opt out of our use of your personal data to communicate with you by email about particular energy efficiency programs and opportunities that may be of interest to you. These communications are considered targeted advertising and you can always opt out of such emails using the unsubscribe link found at the bottom of the email or by signing into your online account and visiting the email preferences section.
+
+You may also receive online ads about Eversource on social media and other advertising platforms, (sometimes referred to as “interest-based” or “personalized” advertising) that are targeted and controlled by these platforms. If you wish to opt out of such online targeted ads, you can visit the applicable media platform or, alternatively, to exercise broader opt-out rights, visit the websites of online industry groups such as the National Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA) to learn more about your opt-out options for multiple media and advertising platforms. Please note that these online opt-outs are cookie-based and are controlled by these platforms, not Eversource.
+
+Opt-Out Rights for Profiling:
+Eversource is profiling your personal data in order to provide electric and/or gas utility-related services that you request but we do not profile your personal data to make a decision that produces any legal or similarly significant effect concerning you. Your opt out options are available in the privacy center.
+
+Sale of Personal Data: Eversource does not sell customer personal data for any monetary value.
+
+Right to Access and Obtain a Copy of Personal Data:
+You have the right to access and obtain a copy of your personal data processed by Eversource.
+
+- You can access your account information at any time. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our sign-in page.
+
+- You also have the right to request and obtain from us, once every twelve months and free of charge, a copy of the personal data that Eversource processes, and, to the extent technically feasible, we will provide you this information in a portable format.
+
+- Authentication will be required to process your request and if we are unable to authenticate the request, we will advise you accordingly. If we deny your request, once fully authenticated, we will advise you and how you may appeal the decision. If you are a Connecticut resident and would like to make such a request, please use our Data Privacy Request form to exercise your rights.
+
+Right to Request Deletion of Your Personal Data:
+You have the right to request that Eversource delete your personal data subject to certain limitations. For example, we do need to keep certain personal data to provide you with the services you request and to meet data retention and operation requirements. If we do not delete your personal data for reasons permitted under applicable law, we will advise you accordingly about how you may appeal the decision. You can request that we delete some or all of your personal data after you have requested and reviewed a copy of your data. If you are a Connecticut resident and would like to make such a request, please use our Data Privacy Request form to exercise your rights.
+
+Right to Change or Correct Personal Data:
+You can request that we change or correct certain personal data after you have requested and reviewed a copy of your data. You have the right to update or correct certain personal data, including your phone number, mailing address, password, username or banking information through your online account on eversource.com or change your legal name by contacting us by phone. You can access your account information at any time. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our sign-in page.
+
+Appeal: If Eversource declines to take action on your request, you may submit an appeal request. Within 60 days of your submission, we will inform you in writing of the appeal decision with an explanation of the reason for the decision. If you are dissatisfied with the appeal decision, you may contact the Connecticut Attorney General’s Office at https://portal.ct.gov/AG/Contact-the-Attorney-Generals-Office/Contact-the-Attorney-Generals-Office.
+
+## Additional Privacy Terms for New Hampshire Residents
+
+RSA 507-H, also known as the New Hampshire Expectation of Privacy Act, ("NHEPA") provides New Hampshire residents with certain additional rights related to Eversource’s processing of your personal data. If you are a New Hampshire resident, the sections above in this Privacy Policy, together with the following sections, describe those rights and how you can exercise them.
+
+Exercising Your Privacy Rights – Authentication:
+To respond to your requests to access, obtain a copy of, correct or delete your personal data, we will need to verify your identity and/or authority to make such requests and access, receive, modify or delete such personal data. When you submit a request, we will take steps to verify your identity. You are not required to create an account with us to submit a request. We may ask you to provide us with information about yourself in order to verify your identity. We will only use the personal information you provide in connection with identity verification to verify the requestor's identity or authority to make the request and whenever feasible, we will attempt to match the information you provide with information we may already have about you.
+
+You can use our Data Privacy Request form to exercise your rights.
+
+Sensitive Personal Data and Right to Revoke Consent:
+
+In addition to the personal data described above, with your consent, provided directly to Eversource or through third parties, we may receive some information that may include sensitive personal data, which is defined by the NHEPA to include: (A) data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life, sexual orientation or citizenship or immigration status, (B) the processing of genetic or biometric data for the purpose of uniquely identifying an individual, (C) personal data collected from a known child with parental or guardian authorization and consent, or (D) precise geolocation data (other than data generated by or connected to advanced utility metering infrastructure systems or equipment used by Eversource). Please note that the type of sensitive personal data that we currently collect is limited and described above in What Information We Collect and How We Collect it – Sensitive Personal Information. You have the right to consent or revoke your consent to use of your sensitive personal data and to exercise your rights. You can use our Data Privacy Request form to exercise your rights.
+
+Opt-Out Rights Targeted Advertising for Marketing Purposes: You have the right to opt out of our use of your personal data to communicate with you by email about particular energy efficiency programs and opportunities that may be of interest to you. These communications are considered targeted advertising and you can always opt out of such emails using the unsubscribe link found at the bottom of the email or by signing into your online account and visiting the email preferences section.
+
+You may also receive online ads about Eversource on social media and other advertising platforms, (sometimes referred to as “interest-based” or “personalized” advertising) that are targeted and controlled by these platforms. If you wish to opt out of such online targeted ads, you can visit the applicable media platform or, alternatively, to exercise broader opt-out rights, visit the websites of online industry groups such as the National Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA) to learn more about your opt-out options for multiple media and advertising platforms. Please note that these online opt-outs are cookie-based and are controlled by these platforms, not Eversource.
+
+Opt-Out Rights for Profiling:
+Eversource is profiling your personal data in order to provide electric and/or gas utility related services that you request but we do not profile your personal data to make a decision that produces any legal or similarly significant effect concerning you. Your opt out options are available in the privacy center.
+
+Sale of Personal Data: Eversource does not sell customer personal data for any monetary value.
+
+Right to Access and Obtain a Copy of Personal Data:
+You have the right to access and obtain a copy of your personal data processed by Eversource.
+
+- You can access your account information at any time. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our sign-in page.
+
+- You also have the right to request and obtain from us, once every twelve months and free of charge, a copy of the personal data that Eversource processes, and, to the extent technically feasible, we will provide you this information in a portable format.
+
+- Authentication will be required to process your request and if we are unable to authenticate the request, we will advise you accordingly. If we deny your request, once fully authenticated, we will advise you and how you may appeal the decision. If you are a New Hampshire resident and would like to make such a request, please use our Data Privacy Request form to exercise your rights.
+
+Right to Request Deletion of Your Personal Data:
+You have the right to request that Eversource delete your personal data subject to certain limitations. For example, we do need to keep certain personal data to provide you with the services you request and to meet data retention and operation requirements. If we do not delete your personal data for reasons permitted under applicable law, we will advise you accordingly about how you may appeal the decision. You can request that we delete some or all of your personal data after you have requested and reviewed a copy of your data. If you are a New Hampshire resident and would like to make such a request, please use our Data Privacy Request form to exercise your rights.
+
+Right to Change or Correct Personal Data:
+You can request that we change or correct certain personal data after you have requested and reviewed a copy of your data. You have the right to update or correct certain personal data, including your phone number, mailing address, password, username or banking information through your online account on eversource.com or change your legal name by contacting us by phone. You can access your account information at any time. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our sign-in page.
+
+Appeal: If Eversource declines to take action on your request, you may submit an appeal request. Within 60 days of your submission, we will inform you in writing of the appeal decision with an explanation of the reason for the decision. If you are dissatisfied with the appeal decision, you may contact the New Hampshire Attorney General’s Office at https://www.doj.nh.gov/contact-us.
+
+## Additional Terms for YouTube API Service
+
+Eversource utilizes YouTube API Services. When playing embedded YouTube videos your IP address is transferred to YouTube who obtains information that you have visited our website. When you play an embedded YouTube video, YouTube stores cookies on your device which do not contain any data that can identify you personally, unless you are currently logged on to a Google service. When engaging with YouTube content on Eversource websites you are agreeing to be bound by the Google Privacy Policy found at http://www.google.com/policies/privacy and the YouTube Terms of Service found at https://www.youtube.com/t/terms. If you have questions about your data as it relates to the YouTube API Services, please contact us at privacypolicy@eversource.com.
+
+## Disclaimer
+
+The purpose of this site is to provide you with information about Eversource. The information is not a representation, prospectus or circular in respect of any security of Eversource its affiliates.
+
+Although we make every effort to keep the information available through our web pages current and correct, we do not guarantee its accuracy or usefulness in any way. Your use of information on this site is at your own risk. We cannot be responsible for
+any damage you may incur through your accessing or use of this site, and we cannot guarantee that information you provide us through forms or email will be kept confidential.
+
+Links from pages on Eversource's website to non-Eversource websites do not constitute an endorsement by Eversource, its subsidiaries, operating units or partners, of any entities, advertisers, products or services therein, or of the activities of any entities therein. We are not
+responsible for and do not control or monitor the content of non-Eversource sites or the accuracy of information found therein.
+
+Certain materials on our websites are copyright protected. Use of any website material is prohibited without express written permission from Eversource. Any unauthorized use of these materials could be in violation of copyright, trademark, publicity
+or privacy laws.
+
+back to top

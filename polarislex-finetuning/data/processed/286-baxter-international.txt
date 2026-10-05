@@ -1,0 +1,342 @@
+# Global Privacy Policy
+
+- Introduction
+
+- Scope of this Privacy Policy
+
+- Personal Information
+
+- The types of Personal Information we collect about you
+
+- How we collect your Personal Information
+
+- How we use your Personal Information
+
+- Legal basis for processing your Personal Information
+
+- How we interact with third parties
+
+- International transfers of Personal Information
+
+- Your Personal Information rights
+
+- Minors
+
+- Security
+
+- Data retention
+
+- How to submit a complaint
+
+- Changes to this Privacy Policy
+
+- Contact Us
+
+Introduction
+
+Effective Date: 21 September 2026
+
+Baxter International, Inc. and Baxter Healthcare Corporation, along with its affiliates and subsidiaries, including any local Baxter company (collectively “Baxter,” “us,” “we,” or “our”) are committed to protecting your privacy. This Global Privacy Policy (“Privacy Policy”) describes how we may use and collect information about you (“you” or “user”).
+
+## Scope of this Privacy Policy
+
+This Privacy Policy applies to the following (collectively referred to as the “Services”):
+
+- when you use Baxter websites, mobile or web applications, and other digital or online services or offerings that link, post, or reference this Privacy Policy; or
+
+- when you interact with us in the ordinary course of business (e.g., communications by phone, e-mail, or in person as part of a business relationship; or when we interact with companies or organizations you work for).
+
+This Privacy Policy does not apply to the following:
+
+- Services that link, post, or reference a different privacy policy (e.g. adverse event reporting or request of medical information);
+
+- Certain components of the Baxter.com website that hyperlink to a different privacy policy; and
+
+- If our Services hyperlink to a third-party site or service that is not owned or controlled by Baxter. Baxter is not responsible for how these parties collect or process your Personal Information, so we recommend that you read the privacy policies and terms associated with these third-party properties carefully.
+
+Baxter has other privacy policies which may supplement or supersede this Privacy Policy, including but not limited to:
+
+- Our US Privacy Policy, for United States residents;
+
+- Our US Consumer Health Privacy Policy, for health information of specific United States residents such as Nevada and Washington; and
+
+- Our HIPAA Notice of Privacy Practices, for Protected Health Information for our applicable entities.
+
+## Personal Information
+
+For purposes of this Privacy Policy, “Personal Information” means information that may identify you that we collect or generate when you use or interact with our Services. Examples of Personal Information may include your name, your address, or an online identifier that could identify you (such as an IP address). Depending on where you live, Personal Information may have a different definition according to the local privacy laws in your area. This Privacy Policy applies to all types of Personal Information as defined by the local privacy laws that apply to you.  Please see below for more information on the types of Personal Information we collect about you.
+
+## The types of Personal Information we collect about you
+
+We collect and generate different types of Personal Information depending on how you use or interact with our Services, third parties with whom we collaborate, or external sources that provide us with your Personal Information. We have outlined below the main categories and sources of Personal Information we may collect about you:
+
+- Demographic and contact information
+
+Demographic and contact information that you provide us. For example, we may collect information such as your name, mailing address, e-mail address, telephone and fax number and your education status and occupation.
+
+- Business Interactions
+
+Information derived from your business-related requests, communications, and interactions that we have with you, or the company/organization you work(ed) for or are associated with. This may include your job title, business contact information (phone, email, fax, and address), information about products or services you’ve expressed an interest in or purchased from us or that we have purchased from you or your company/organization, and other information needed to verify your ability to conduct business with us.
+
+- Online or other account information
+
+Username or email address and corresponding passwords, security questions, and other information you submit to us in order access certain components of our Services which require registration and/or credentials.
+
+- Webforms and requests
+
+Information you submit to us through online or interactive forms available within our Services. For example, you may “contact us,” submit feedback, request additional information about a product or Service, sign up for a mailing or other type of newsletter, or reach out to us regarding a question or concern.
+
+- Online activity and device information
+
+Information about your device and your usage of our websites, apps and systems, including your IP address, hardware model, unique identifiers, preference information (such as marketing preferences), browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site, the address (or URL) where you came from before visiting us, operating system, date/time stamp, and clickstream data and other pieces of information as further described in the section “Tracking Technologies” below.
+
+- Financial Information
+
+If you use a credit card to purchase a product or service from us, we may also collect information necessary to process the credit card transaction, such as the credit card type, number and expiration date. Where you choose to pay by wire transfer, we may also collect your bank account details (such as IBAN or other account identifiers) for payment processing and reconciliation.
+
+- Health Information
+
+If you use certain types of our Services, we may collect information about your health or medical condition and your treatment (including the specific device or product that you are prescribed).
+
+- Audio visual
+
+Photos, videos and audio recordings displaying your image and/or your voice. This includes video recordings of you collected through our CCTV systems operating on our premises. Baxter uses cameras on some of its facilities to protect Baxter employees, visitors and its facilities and to ensure compliance with quality standards and processes.
+
+- Social Media
+
+Our Services may link to our pages or accounts on third party social media networks (“social media”), but our Services do not use social media plug-ins. If you choose to interact with us on social media, we may collect the information you publish or submit. Note that this information is also governed by the privacy policies of the respective companies offering social media services.
+
+- Forums and blogs
+
+Some Services may link to blogs or forums (“forums”) that may or may not be owned or operated by Baxter. If you choose to participate in forums, we may collect the information you submit to the forums. Note that such information may also be governed by the privacy policies of the respective companies offering the forums.
+
+## How we collect your Personal Information
+
+#### i. From you directly
+
+We primarily collect your Personal Information directly from you when you:
+
+- use our websites, apps and systems;
+
+- create an account and profile on one of our websites or apps;
+
+- use your social media accounts to contact Baxter;
+
+- sign up with Baxter to receive e-marketing communications;
+
+- engage with one of our sales representatives;
+
+- contact Baxter to request information about a product or Service or to provide feedback;
+
+- place an order with us as a customer;
+
+- attend online or offline events of Baxter such as webinars, advisory boards or conferences;
+
+- respond to any surveys to provide feedback on Baxter’s solutions and services, and;
+
+- visit our premises where you may be recorded for identification and security purposes.
+
+#### ii. From third-party sources
+
+Baxter obtains some of the aforementioned types of Personal Information about you from third parties. Please find below a list of third-party sources from which we commonly collect your Personal Information:
+
+- Publicly available sources, such as websites and directories from healthcare associations and hospitals;
+
+- Third-party service providers who share your Personal Information with us in the course of providing services to Baxter (e.g. HR agencies, data brokers and analytics healthcare providers); and
+
+- Social media platforms including, for example, when you mention Baxter online (e.g. commenting/posting about our products in social media or blogs), when you communicate with us through social media or when we conduct a search on social media for a potential collaboration with you.
+
+#### iii. Tracking Technologies
+
+Our Services may incorporate tracking technologies to provide you with certain functionalities available within our Services. These tracking technologies, including those described below, may collect or generate Personal Information about you when you interact with us, but only if you decide to allow them in your Cookie Settings, or in your individual browser’s settings.
+
+You may adjust these preferences at any time, and you may be prompted to make your selections again if you navigate to a new part of our Services where different tracking technologies are used. Please review the Cookie Policy that is displayed at the time you use our Services to learn more, and feel free to contact us with any questions.
+
+Our Services may incorporate the following tracking technologies:
+
+- Cookies: Small files that are transferred to your device’s hard drive for a period of time to store user preferences and other types of information to help us provide you with certain features. Read more about cookies in our Cookie Policy
+
+- Web Beacons: Electronic images placed in the code of a webpage, application, or email that allow us to monitor things such as user activity and site traffic.
+
+- Tags: Pieces of code, or tags, which gather information about users. For example, tags are used on our websites to better understand online usage patterns and trends. We may also use tags in our emails or newsletters to count how many of those messages are read.
+
+- Widgets: Small components embedded within our Services which enable you to use certain functionalities.
+
+- Google Analytics: Google Analytics uses cookies to collect data such as time of visit, website pages visited, time spent on each Baxter website page, IP address, URL, and type of operating system. To learn more about how Google Analytics collects and processes Personal Information, please visit www.google.com/policies/privacy/partners.
+
+## How we use your Personal Information
+
+Depending on what Services you use and how you interact with us, we may use your Personal Information in the following ways. If you live in certain jurisdictions (including but not limited to the European Union), we may not process your Personal Information for some of the below purposes unless you first provide us with your consent to do so.
+
+- To administer and provide you with the Services
+
+For example, if you access a section of our Services requiring a username and password, we will use your Personal Information to create and/or administer your account, authenticate your credentials, remember your preferences, and allow you to access and use the Services.
+
+- To manage business transactions
+
+During certain business interactions, we may use your Personal Information to manage business transactions with you or the company or organization you work(ed) for. This may include making or responding to requests related to the Services or obtaining or making payments for such Services.
+
+- To respond to your inquiries and provide information about the Services
+
+If you make an inquiry or a request, we may use your Personal Information to respond to you and address your request.
+
+- To send you marketing information
+
+We may use your Personal Information to provide you with information about our Services, to send you marketing communications, or to enable you to participate in surveys or questionnaires.
+
+- To serve advertisements you may be interested in
+
+We may use your Personal Information to tailor and deliver relevant advertisements to you when you are using our Services, or when you are accessing a third-party service. For example, you may receive online advertisements, emails, texts, or social media notifications from us for promotional purposes.
+- For treatment and/or quality control
+
+We may use your Personal Information to carry out your treatment, including treatment prescribed by a physician, and to provide you with general information about your treatment. We may also use your Personal Information to ensure high standards of quality and safety for our Services related to health care, medical products, and medical devices.
+
+- To improve the Services and user experience
+
+We may use your Personal Information to gather and create statistics regarding your usage of our Services. For example, we may monitor how many users visit our Services in a given time, which components or pages are most popular, which domains you come from, which browsers you use, and how you navigate our Services. We use this information to better understand our users, personalize users’ experiences and interactions with us, and improve the content and performance of our Services.
+
+- To ensure the safety of our employees and visitors and the security of our assets
+
+We may monitor our premises, for example through CCTV, to ensure the safety of employees and visitors and to protect our facilities. Additionally, we may collect Personal Information you provide online such as your username, email address, and password when you register for certain Services. This helps us maintain the security and integrity of Baxter’s information systems and assets.
+
+- To comply with applicable laws and our legal obligations
+
+We may use your Personal Information to comply with applicable laws, regulations, industry codes of conduct, and Baxter’s internal policies and procedures, including:
+
+- For compliance with applicable retention obligations;
+
+- For purposes of adverse event reporting, materiovigilance, pharmacovigilance, product safety, and other reporting obligations;
+
+- To respond to lawful requests by public authorities (e.g., to investigate fraud or respond to a government request);
+
+- To investigate potential breaches; and
+
+- To protect our rights, property, safety, and those of our users.
+
+- To develop, maintain and improve automated tools
+
+We may process your Personal Information through automated tools for any of the purposes described in this Privacy Policy, including developing, maintaining and improving artificial intelligence to enhance your experience or for company analytics.
+
+- Merger or Sale
+
+If we are involved in a merger, acquisition, or sale of our assets (or a portion thereof), it may impact how we process your Personal Information. In such an instance, we will comply with all applicable laws and treat your Personal Information accordingly.
+
+- Other uses
+
+Where permitted by law, we may also enhance or combine information about you, including your Personal Information, with information about you that we obtain from third parties for the same purposes described in this Privacy Policy
+
+## Legal basis for processing your Personal Information
+
+Baxter will only use or process your Personal Information if the use or processing is permitted by applicable privacy laws in your jurisdiction. This is sometimes referred to as having a “legal basis” to use or process your Personal Information. The legal bases Baxter may rely on to process your Personal Information may include:
+
+- Performance of a contract
+
+For example, to carry out our contractual obligations with you or your institution pursuant to consulting, professional services, or other types of contracts to supply goods or services.
+
+- Legal obligations
+
+For example, some countries have transparency requirements regarding interactions with healthcare professionals, or requirements to provide information to authorities in case of adverse events or medical incidents related to the use of our Services.
+
+- Vital interests
+
+For example, when processing your Personal Information is in your vital interest or required to protect your life.
+
+- Consent
+
+For example, if you opt-in to receive marketing communications from us or expressly provide your consent for us to process your Personal Information. In the event you provide your consent, you may also withdraw your consent when permitted by applicable law, if you contact us.
+
+- Legitimate interest
+
+This may include, for example, managing, operating, maintaining, and securing our websites, network systems, facilities and other assets; providing you with features and functionalities in the Services; and communicating with you to manage our business interactions.
+
+## How we interact with third parties
+
+- Baxter affiliates and subsidiaries
+
+Baxter is a global company, and it shares Personal Information with its affiliates and subsidiaries for the purposes described in this Privacy Policy. For more information about Baxter’s affiliates and subsidiaries, please contact us.
+
+- Service providers
+
+We may share your Personal Information with third-party service providers that we engage to support us administer and provide the Services to you. These third parties are required to treat your Personal Information in accordance with appropriate contractual and legal privacy and security requirements.
+
+- Advertising
+
+We may engage third-party service providers who utilize tracking technologies to serve you advertisements that you may be interested in. Some of these advertisements may be personalized to you, meaning that the advertisements are intended to be relevant to you based on what we, or the third-party service providers, know about you. Depending on where you live, we may be required to obtain your consent before we serve you with these types of advertisements. If you are unsure whether you have or have not provided your consent, you can always review and adjust your Cookie Settings or your individual browser’s settings.
+
+- Embedded videos
+
+We may provide embedded videos on our Services that are hosted by third party video providers, such as YouTube (Google). If you click “play” on a video embedded within the Services, the third-party video provider may place tracking technologies on our Service, for example to remember where you left off in the video. Depending on where you live, we may be required to obtain your consent before this type of tracking technology is used. If you are unsure whether you have or have not provided your consent to such tracking technology, you can always review and adjust your Cookie Settings or your individual browser’s settings.
+
+- Joint Services
+
+We may partner with other companies to provide you with Services that are jointly offered or “co-branded” or “co-promoted.” As such, you may see the logos of both Baxter and one or more of our partners. You should review the privacy policies of such partners before providing them with your Personal Information, as their privacy practices may differ from ours.
+
+## International transfers of Personal Information
+
+Baxter is a global company with global affiliates, and therefore we use global vendors, subcontractors, systems, and applications. As a result, and to the extent permitted by local law, the Personal Information that we collect and generate about you may be transferred, stored, or accessed in a destination outside of your country which may have less strict, or no, data protection laws, when compared to the laws in your country. Any transfers of Personal Information to Baxter affiliates or third parties outside your local country will be conducted in compliance with the international data transfer restrictions that apply under applicable data protection laws.
+
+We take legally required steps under applicable data protection law to ensure that adequate safeguards are in place (e.g., standard contractual clauses, and data transfer agreements along with supplementary measures to ensure that all data recipients will provide an adequate level of protection for the Personal Information, and that appropriate technical and organizational security measures are in place) to protect your Personal Information in accordance with this Privacy Policy. You may contact us, using the contact details provided below in section “Contact us”, for more information about the safeguards that we have put in place to protect your Personal Information and your privacy rights when we make cross-border transfers of your Personal Information.
+
+## Your Personal Information rights
+
+In certain circumstances, local privacy laws may give you rights with respect to your Personal Information, as described in more detail below. You may exercise your rights by accessing your user account or profile when using certain of our Services or by contacting us in the contact details provided in the “Contact us” section below. You may also use our online Personal Information Rights Request Form to enable your request to be processed more efficiently.
+
+We will handle any request to exercise your rights in accordance with applicable law, but please note that these rights may not be absolute. Baxter may refuse or deny a request in accordance with applicable privacy laws. Additionally, depending on the circumstances and where you are located, not all the rights below may be available to you.
+
+Your rights with respect to your Personal Information may include the following:
+
+- the right to access your Personal Information processed by us: you may request access to or copies of your Personal Information. You may also request what types of Personal Information we have, the purposes for which we process it, and who has received access to your Personal Information.
+
+- the right to rectify and delete your Personal Information: you may request that we correct your Personal Information if you think it is inaccurate or incomplete. You can also request that we erase or delete your Personal Information in certain circumstances.
+
+- the right to request restriction of processing: you may request that we restrict the processing of certain Personal Information.
+
+- the right to data portability: you may request that we provide you with your Personal Information that we obtained from you, and you can ask us to provide it to another entity.
+
+- the right to object: you may have the right to object to our processing of your Personal Information for certain purposes.
+
+- the right to withdraw your consent: if we use or share your Personal Information based on your consent, you may withdraw your consent at any time. Note that withdrawal of your consent will not affect the lawfulness of our uses or sharing of your Personal Information before you withdraw your consent.
+
+- the right to lodge a complaint: while we encourage you to contact us at privacy@baxter.com, if you believe we are using, disclosing, or otherwise processing your Personal Information in a way that is not in accordance with applicable law, you can lodge a complaint with the relevant data protection authority in your country. If you are based within EU, you can consult the European Data Protection Board’s website to identify your local data protection authority.
+
+## Minors
+
+Online components of our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information via online Services from children under the age of 13. If you think that we have collected Personal Information via an online Service from a child under the age of 13, please contact us.
+
+## Security
+
+We have reasonable and appropriate security measures in place to protect against the loss, misuse, and alteration of any Personal Information we receive about you. We maintain reasonable security standards to protect the Personal Information that we maintain. We evaluate these measures on a regular basis to ensure the security of the processing. If you have any questions about the security of your Personal Information, please contact us.
+
+## Data retention
+
+We will retain your Personal Information only for as long as we reasonably consider it necessary for achieving the purposes set out in this Privacy Policy, or for as long as we are legally required to retain it. If you have questions about applicable retention periods, please contact us.
+
+## How to submit a complaint
+
+Baxter respects your privacy and is committed to ensuring that complaints and disputes concerning Baxter's privacy practices are investigated and resolved. Baxter’s process for receiving and resolving complaints is as follows: If an individual submits a privacy-related concern to Baxter, it will be investigated by Baxter’s Global Privacy Office, which will take steps to resolve the concern.
+
+Privacy questions or complaints may be submitted to Baxter by contacting us by e-mail, telephone, or mail in the information you will find below in section “Contact us”.
+
+## Changes to this Privacy Policy
+
+We may periodically update this Privacy Policy to describe new Services and how such Services may affect our collection and use of Personal Information. If we make material changes to this Privacy Policy, we will post a notice of the material changes on our website. In the event that we use your Personal Information for other purposes not specified in this Privacy Policy, we will notify you. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices.
+
+## Contact Us
+
+If you have questions or concerns about this Privacy Policy, our information practices, or any other aspect of the privacy and security of your Personal Information, please contact us using the information below.
+
+Email:privacy@baxter.com
+
+Mail:
+
+Baxter International Inc. and/or Baxter Healthcare Corporation
+ATTN: Global Privacy Office
+1 Baxter Parkway, Deerfield, IL USA 60015
+
+Ethics and Compliance Hotline:
+
+For US residents: Please call 1-844-294-5418
+
+For non-US residents: Please visit Baxter’s Ethics & Compliance Helpline at https://baxter.ethicspoint.com/ and select “Report a Concern” to obtain the applicable telephone number for your country.
+
+v8.0
