@@ -10,6 +10,7 @@ import QueriesPanel from "./QueriesPanel.jsx";
 import ReportPage from "./ReportPage.jsx";
 import LandingPage from "./LandingPage.jsx";
 import { paintIdealFromAnalysis, paintPolicyFromAnalysis, paintPolicyFromJev } from "./paintAnalysis.js";
+import LoginPage from "./LoginPage.jsx";
 
 function counts(result) {
   const topics = result?.ideal?.nodes?.filter((node) => node.kind === "topic") || [];
@@ -256,9 +257,23 @@ export default function App() {
     .filter(Boolean)
     .join(" ");
 
+  if (view === "login") {
+    return (
+      <LoginPage
+        onBack={() => setView("landing")}
+        onSuccess={() => {
+          setView("app");
+          setLoadOpen(true);
+          window.location.hash = "app";
+        }}
+      />
+    );
+  }
+
   if (view === "landing") {
     return (
       <LandingPage
+        onLogin={() => setView("login")}
         onExplore={() => {
           setView("app");
           setLoadOpen(true);

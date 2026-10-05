@@ -26,6 +26,7 @@ from graph_builder.llm_graph_builder import LLMGraphBuilder
 from graph_builder.openie import OpenIEExtractor
 from graph_builder.policy_graph_builder import PolicyGraphBuilder
 from policy_compare.openie_view import graph_ir_to_view_graph
+from policy_compare.auth import router as auth_router
 from policy_compare.service import compare_document, default_law_paths
 from rag.models import RagError
 from rag.service import answer_question
@@ -39,6 +40,7 @@ _EXTENSIONS: dict[str, DocumentFormat] = {
 }
 
 app = FastAPI(title="PolarisLex policy compare")
+app.include_router(auth_router)
 app.add_middleware(
   CORSMiddleware,
   allow_origins=["*"],

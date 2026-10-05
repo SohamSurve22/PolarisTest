@@ -1,0 +1,230 @@
+/* Login page — matches the PolarisLex landing theme (light, blue/indigo, Hanken Grotesk) */
+
+/* Landing-page nav "Login" button */
+.pl-btn-secondary {
+  margin-right: 10px;
+  padding: 9px 18px;
+  border: 1px solid #bfdbfe;
+  border-radius: 8px;
+  background: #fff;
+  color: #1d4ed8;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.pl-btn-secondary:hover { background: #eff6ff; border-color: #93c5fd; }
+
+.lg-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Hanken Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #0f172a;
+  background-color: #fcfcfd;
+  background-image:
+    radial-gradient(ellipse at 85% 0%, rgba(99, 102, 241, 0.10), transparent 55%),
+    radial-gradient(ellipse at 0% 30%, rgba(37, 99, 235, 0.08), transparent 50%),
+    linear-gradient(rgba(15, 23, 42, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 23, 42, 0.035) 1px, transparent 1px);
+  background-size: auto, auto, 32px 32px, 32px 32px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Top bar */
+.lg-nav {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #e2e8f0;
+}
+.lg-nav-inner {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.lg-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+.lg-logo-icon {
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  background: #eff6ff;
+  color: #2563eb;
+  display: grid;
+  place-items: center;
+}
+.lg-logo-text { font-weight: 700; font-size: 18px; color: #0f172a; }
+.lg-pill {
+  font-size: 11px;
+  font-weight: 600;
+  color: #1d4ed8;
+  background: #eff6ff;
+  border: 1px solid #dbeafe;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+.lg-back {
+  background: none;
+  border: 0;
+  color: #475569;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.lg-back:hover { color: #2563eb; }
+
+/* Main */
+.lg-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 20px 40px;
+}
+.lg-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: #eff6ff;
+  border: 1px solid #dbeafe;
+  color: #1d4ed8;
+  font-size: 13px;
+  font-weight: 600;
+}
+.lg-dot { width: 8px; height: 8px; border-radius: 50%; background: #2563eb; }
+.lg-title {
+  margin: 18px 0 6px;
+  font-size: clamp(30px, 5vw, 44px);
+  line-height: 1.15;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+.lg-grad {
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 50%, #4f46e5 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.lg-sub { margin: 0 0 28px; color: #64748b; font-size: 16px; }
+
+/* Card */
+.lg-card {
+  width: 100%;
+  max-width: 460px;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 28px;
+  box-shadow: 0 20px 40px -15px rgba(15, 23, 42, 0.10);
+}
+.lg-roles { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 22px; }
+.lg-role {
+  text-align: left;
+  padding: 12px;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 12px;
+  background: #fff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-family: inherit;
+  transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+}
+.lg-role:hover { border-color: #93c5fd; }
+.lg-role.is-active {
+  border-color: #2563eb;
+  background: #eff6ff;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+.lg-role-title { font-weight: 700; font-size: 14px; color: #0f172a; }
+.lg-role-blurb { font-size: 12px; color: #64748b; line-height: 1.4; }
+
+.lg-form { display: flex; flex-direction: column; gap: 6px; }
+.lg-form label { font-size: 13px; font-weight: 600; margin-top: 8px; color: #334155; }
+.lg-form input {
+  padding: 11px 12px;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 10px;
+  font-family: inherit;
+  font-size: 15px;
+  color: #0f172a;
+  background: #fff;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.lg-form input::placeholder { color: #94a3b8; }
+.lg-form input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+.lg-error {
+  margin: 8px 0 0;
+  padding: 9px 12px;
+  border-radius: 10px;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #b91c1c;
+  font-size: 13px;
+}
+.lg-submit {
+  margin-top: 18px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #1d4ed8;
+  background: #2563eb;
+  color: #fff;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(37, 99, 235, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transition: background 0.15s, box-shadow 0.15s;
+}
+.lg-submit:hover:not(:disabled) { background: #1d4ed8; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35); }
+.lg-submit:disabled { opacity: 0.65; cursor: wait; }
+.lg-switch { margin: 18px 0 0; text-align: center; font-size: 13px; color: #64748b; }
+.lg-switch button {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: #2563eb;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.lg-switch button:hover { text-decoration: underline; }
+
+.lg-trust {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 24px;
+  margin: 28px 0 0;
+  padding: 0;
+  font-size: 12.5px;
+  color: #64748b;
+}
+.lg-trust li::before { content: "• "; color: #2563eb; }
+
+@media (max-width: 520px) {
+  .lg-roles { grid-template-columns: 1fr; }
+  .lg-card { padding: 20px; }
+  .lg-pill { display: none; }
+}
