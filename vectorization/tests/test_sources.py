@@ -1,9 +1,13 @@
 import json
 from pathlib import Path
 
+from document_pipeline.models.context import ContextualClause
+from document_pipeline.models.entity import Entity, EntityClause, EntityDocument, EntityType
+from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
+from document_pipeline.models.semantic import ClassifiedClause, StructuralRole
 from tests.conftest import make_clause
 from vectorization.chunking import sources_to_embeddable
-from vectorization.sources import load_embeddable_sources
+from vectorization.sources import entity_document_to_sources, load_embeddable_sources
 
 
 def _metadata() -> dict[str, str]:
@@ -72,6 +76,26 @@ def test_load_entity_clauses_unwraps_and_tags_entities(tmp_path: Path) -> None:
   assert records[0].clause_text == clause["clause_text"]
   assert "(entities: ORGANIZATION, DATE)" in records[0].retrieval_text
   assert "(role:" not in records[0].retrieval_text
+
+
+def test_in_memory_entity_document_becomes_embedding_sources() -> None:
+  clause = make_clause()
+  classified = ClassifiedClause(clause=clause, role=StructuralRole.STATEMENT)
+  document = EntityDocument(
+    metadata=DocumentMetadata(document_id="DOC_memory", filename="policy.txt", format=DocumentFormat.TXT),
+    entity_clauses=[
+      EntityClause(
+        contextual_clause=ContextualClause(classified_clause=classified),
+        entities=[Entity(entity_type=EntityType.ORGANIZATION)],
+      ),
+    ],
+  )
+
+  sources = entity_document_to_sources(document)
+
+  assert len(sources) == 1
+  assert sources[0].clause.clause_id == clause.clause_id
+  assert sources[0].entity_types == ["ORGANIZATION"]
 
 
 def test_load_contextual_heading_tags_role(tmp_path: Path) -> None:

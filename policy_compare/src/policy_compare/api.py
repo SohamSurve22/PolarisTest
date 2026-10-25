@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import os
+import json
+import re
 import tempfile
 from datetime import date, datetime
 from pathlib import Path
@@ -12,12 +14,15 @@ from pydantic import BaseModel, Field
 from document_pipeline.models.document import DocumentSource
 from document_pipeline.models.metadata import DocumentFormat, DocumentMetadata
 from document_pipeline.pipeline.orchestrator import PipelineOutputs, create_default_orchestrator
+from document_pipeline.serializers.pipeline_preview import build_pipeline_preview, save_pipeline_preview
 from document_pipeline.utils.document_ids import generate_document_id
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 
 from compliance.models import AnalysisResult, ComplianceReport
+from compliance.neo4j_scope import Neo4jScopeError, graph_ir_from_neo4j
+from compliance.jurisdictions import default_registry, law_paths_for
 from compliance.pdf import pdf_download_name, render_pdf
 from compliance.report import ReportError, generate_report
 from compliance.service import AnalyzeError, analyze_document
@@ -29,7 +34,7 @@ from policy_compare.openie_view import graph_ir_to_view_graph
 from policy_compare.auth import router as auth_router
 from policy_compare.service import compare_document, default_law_paths
 from rag.models import RagError
-from rag.service import answer_question
+from rag.service import answer_document_question, answer_question
 
 _EXTENSIONS: dict[str, DocumentFormat] = {
   ".txt": DocumentFormat.TXT,
@@ -53,9 +58,12 @@ def _repo_root() -> Path:
   return Path(__file__).resolve().parents[3]
 
 
-def _law_paths() -> list[Path]:
+def _law_paths(jurisdiction: str = "IN") -> list[Path]:
   configured = os.environ.get("POLARIS_LAW_DIR")
   root = Path(configured) if configured else _repo_root()
+  spec = default_registry(root).resolve(jurisdiction)
+  if spec.code != "IN":
+    return law_paths_for(spec)
   named = default_law_paths(root)
   if all(path.is_file() for path in named):
     return named
@@ -75,12 +83,36 @@ def _parse_upload(raw: bytes, filename: str, suffix: str, fmt: DocumentFormat) -
     ),
   )
   outputs = create_default_orchestrator().run(source)
+  _persist_document(outputs)
   return outputs, temp_path
+
+
+def _document_dir() -> Path:
+  configured = os.environ.get("POLARIS_DOCUMENT_DIR")
+  return Path(configured).expanduser() if configured else _repo_root() / "document_pipeline" / "output"
+
+
+def _persist_document(outputs: PipelineOutputs) -> Path:
+  return save_pipeline_preview(build_pipeline_preview(outputs), _document_dir())
 
 
 @app.get("/health")
 def health() -> dict[str, str]:
   return {"status": "ok"}
+
+
+@app.get("/documents/{document_id}")
+def document_by_id(document_id: str) -> dict:
+  """Return a stored pipeline artifact by its generated document id."""
+  if not re.fullmatch(r"DOC_[A-Za-z0-9_-]+", document_id):
+    raise HTTPException(status_code=400, detail="Invalid document id")
+  path = _document_dir() / f"{document_id}.json"
+  if not path.is_file():
+    raise HTTPException(status_code=404, detail="Document not found")
+  try:
+    return json.loads(path.read_text(encoding="utf-8"))
+  except (OSError, json.JSONDecodeError) as exc:
+    raise HTTPException(status_code=500, detail="Stored document is unreadable") from exc
 
 
 @app.post("/compare")
@@ -89,9 +121,16 @@ async def compare(file: UploadFile = File(...)) -> dict:
   temp_path: Path | None = None
   try:
     outputs, temp_path = _parse_upload(raw, file.filename or "policy.txt", suffix, fmt)
-    law_paths = _law_paths()
+    if os.environ.get("POLARIS_INGEST_ON_ANALYZE", "false").strip().lower() in {"1", "true", "yes", "on"}:
+      try:
+        from vectorization.pipeline import ingest_entity_document
+
+        ingest_entity_document(outputs.entity)
+      except Exception as exc:
+        raise HTTPException(status_code=503, detail="Document vector ingest unavailable (Qdrant or Ollama).") from exc
+    law_paths = _law_paths("IN")
     missing = [str(path) for path in law_paths if not path.is_file()]
-    if missing:
+    if missing or not law_paths:
       raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
     result = compare_document(outputs.entity, law_paths, outputs.sectioned)
     return result.model_dump()
@@ -111,13 +150,22 @@ async def analyze(
   analysis_date: str = Form(""),
   roles: str = Form(""),
 ) -> dict:
+  if not os.environ.get("OPENAI_API_KEY"):
+    raise HTTPException(
+      status_code=503,
+      detail="Analysis classifier unavailable (OPENAI_API_KEY is required for Jev).",
+    )
   suffix, fmt, raw = await _read_upload(file)
   temp_path: Path | None = None
   try:
     outputs, temp_path = _parse_upload(raw, file.filename or "policy.txt", suffix, fmt)
-    law_paths = _law_paths()
+    try:
+      jurisdiction_spec = default_registry(_repo_root()).resolve(jurisdiction)
+    except ValueError as exc:
+      raise HTTPException(status_code=400, detail=str(exc)) from exc
+    law_paths = law_paths_for(jurisdiction_spec)
     missing = [str(path) for path in law_paths if not path.is_file()]
-    if missing:
+    if missing or not law_paths:
       raise HTTPException(status_code=500, detail=f"Law graphs missing: {missing}")
     parsed_date = _parse_analysis_date(analysis_date)
     parsed_roles = [item.strip() for item in roles.split(",") if item.strip()] or None
@@ -147,6 +195,12 @@ async def analyze(
         mapping_failures = []
         policy_openie_view = None
 
+    graph_ir = None
+    if os.environ.get("POLARIS_ANALYZE_GRAPH_SOURCE", "in_process").strip().lower() == "neo4j":
+      try:
+        graph_ir = graph_ir_from_neo4j()
+      except Neo4jScopeError as exc:
+        raise HTTPException(status_code=503, detail="Analysis graph unavailable (Neo4j).") from exc
     result = analyze_document(
       outputs.entity,
       law_paths,
@@ -154,6 +208,9 @@ async def analyze(
       analysis_date=parsed_date,
       roles=parsed_roles,
       policy_builder=policy_builder if ollama_client is not None else None,
+      graph_ir=graph_ir,
+      duty_rules_path=jurisdiction_spec.duty_rules_path,
+      law_versions_path=jurisdiction_spec.law_versions_path,
     )
     result.policy_graph = policy_graph
     result.mapping_failures = mapping_failures
@@ -164,7 +221,7 @@ async def analyze(
   except AnalyzeError as exc:
     raise HTTPException(
       status_code=503,
-      detail="Analysis search backend unavailable (Qdrant or Ollama).",
+      detail="Analysis classifier unavailable (OpenAI Jev is required).",
     ) from exc
   except ValueError as exc:
     raise HTTPException(status_code=400, detail=str(exc)) from exc
@@ -212,6 +269,37 @@ def rag(body: RagRequest) -> dict:
     ) from exc
   except ValueError as exc:
     raise HTTPException(status_code=400, detail=str(exc)) from exc
+
+
+@app.post("/chat-with-pdf")
+async def chat_with_pdf(
+  file: UploadFile = File(...),
+  question: str = Form(...),
+) -> dict:
+  """Answer a question from the uploaded policy only; never the statute corpus."""
+  suffix, fmt, raw = await _read_upload(file)
+  temp_path: Path | None = None
+  try:
+    outputs, temp_path = _parse_upload(raw, file.filename or "policy.txt", suffix, fmt)
+    from vectorization.pipeline import ingest_entity_document
+
+    ingest_entity_document(outputs.entity)
+    result = answer_document_question(
+      question,
+      document_id=outputs.entity.metadata.document_id,
+    )
+    payload = result.model_dump()
+    payload["document_id"] = outputs.entity.metadata.document_id
+    return payload
+  except (RagError, OSError, ImportError) as exc:
+    raise HTTPException(status_code=503, detail="Document chat unavailable (Qdrant or Ollama).") from exc
+  except ValueError as exc:
+    raise HTTPException(status_code=400, detail=str(exc)) from exc
+  except Exception as exc:
+    raise HTTPException(status_code=503, detail="Document chat unavailable (Qdrant or Ollama).") from exc
+  finally:
+    if temp_path is not None:
+      temp_path.unlink(missing_ok=True)
 
 
 def _parse_analysis_date(raw: str) -> date | None:

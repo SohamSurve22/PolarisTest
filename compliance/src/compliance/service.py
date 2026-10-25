@@ -1,4 +1,4 @@
-"""India/DPDP analysis: GraphIR duties scored against policy clauses via Qdrant."""
+"""India/DPDP analysis: GraphIR duties classified by OpenAI Jev."""
 
 from __future__ import annotations
 
@@ -12,15 +12,18 @@ from document_pipeline.models.entity import EntityDocument
 from document_pipeline.models.semantic import StructuralRole
 from vectorization.models import SearchHit
 from vectorization.sources import clause_from_entity
+from graph_builder.graph_ir import GraphIR
 
 from compliance.applicability import EntityProfile, apply_duty, default_entity_profile
-from compliance.jev import JevClient, JevError
+from compliance.jev import JevError
 from compliance.jev_wire import AppliedDuty, jev
-from compliance.classify import classify_duty
-from compliance.duty_rules import load_duty_rules, load_equivalence_clusters, load_law_versions, resolve_duty_rule
+from compliance.qwen import QwenError
+from compliance.qwen_wire import qwen
+from compliance.duty_rules import load_duty_rules, load_law_versions, resolve_duty_rule
 from compliance.explain import explain_finding
 from compliance.graph_scope import ir_from_paths, obligation_nodes, penalties_for
-from compliance.matching import PARTIAL_SCORE, actor_filtered_text, best_sentence, collect_credits, gather_evidence
+from compliance.matching import EvidenceBundle, PARTIAL_SCORE, actor_filtered_text, best_sentence
+from compliance.jurisdictions import default_registry
 from compliance.models import (
   AnalysisResult,
   GapFinding,
@@ -35,7 +38,6 @@ from compliance.report import _weighted_pct
 if TYPE_CHECKING:
   from graph_builder.policy_graph_builder import PolicyGraphBuilder
 
-SUPPORTED_JURISDICTIONS = frozenset({"IN", "INDIA", "IN-DPDP"})
 _GAP_STATUSES = frozenset({"missing", "partial", "undetermined", "conflict", "violation"})
 _ADVERSE_RANK = {
   "violation": 5,
@@ -50,7 +52,7 @@ SearchFn = Callable[[str], list[SearchHit]]
 
 
 class AnalyzeError(Exception):
-  """Search backend (Qdrant / Ollama) is unavailable."""
+  """The authoritative Jev classifier is unavailable."""
 
 
 def default_search(query: str) -> list[SearchHit]:
@@ -70,23 +72,31 @@ def analyze_document(
   analysis_date: date | None = None,
   roles: Iterable[str] | None = None,
   policy_builder: PolicyGraphBuilder | None = None,
+  jev_client=None,
+  qwen_client=None,
+  graph_ir: GraphIR | None = None,
+  duty_rules_path: Path | None = None,
+  law_versions_path: Path | None = None,
 ) -> AnalysisResult:
   code = (jurisdiction or "IN").strip().upper()
-  if code not in SUPPORTED_JURISDICTIONS:
-    msg = f"Unsupported jurisdiction: {jurisdiction}"
-    raise ValueError(msg)
+  spec = default_registry().resolve(code)
+  code = spec.code
 
   entity_profile = profile or default_entity_profile(
     jurisdiction=code,
     analysis_date=analysis_date,
     roles=roles,
   )
-  ir = ir_from_paths(law_paths)
+  if graph_ir is not None:
+    ir = graph_ir
+  elif duty_rules_path is not None or spec.duty_rules_path is not None:
+    ir = ir_from_paths(law_paths, duty_rules_path=duty_rules_path or spec.duty_rules_path)
+  else:
+    ir = ir_from_paths(law_paths)
   duties = obligation_nodes(ir)
-  rules = load_duty_rules()
-  versions = load_law_versions()
+  rules = load_duty_rules(duty_rules_path or spec.duty_rules_path)
+  versions = load_law_versions(law_versions_path or spec.law_versions_path)
   decisions: dict[str, tuple[object, str, str, object]] = {}
-  scored: list[object] = []
   for node in duties:
     props = node.properties or {}
     act = str(props.get("act") or "")
@@ -97,19 +107,10 @@ def analyze_document(
     decision = apply_duty(rule, version, entity_profile)
     law_status = version.status if version is not None else ""
     decisions[node.id] = (decision, law_status, act, rule)
-    if decision.applicable:
-      scored.append(node)
-
-  search_fn = search or default_search
   clauses = _policy_clauses(document)
-  scored_ids = {node.id for node in scored}
-
-  try:
-    credited = collect_credits(clauses, search_fn, scored_ids)
-  except ValueError:
-    raise
-  except Exception as exc:
-    raise AnalyzeError(str(exc)) from exc
+  clause_by_id = {clause.clause_id: clause for clause in clauses}
+  authoritative_jev = jev if jev_client is None else jev_client
+  comparison_qwen = qwen if qwen_client is None else qwen_client
 
   obligations: list[ObligationFinding] = []
   policy_clauses: list[dict[str, object]] = [
@@ -142,13 +143,33 @@ def analyze_document(
       row.reason = explain_finding(row)
       obligations.append(row)
       continue
-    evidence = gather_evidence(node.id, title, rule, clauses, credited.get(node.id, []))
-    status, confidence, elements = classify_duty(
-      applicable=True,
-      evidence=evidence,
-      rule=rule,
+    try:
+      jev_block = _jev_block(
+        authoritative_jev, node, act, title, summary, rule, policy_clauses
+      )
+    except JevError as exc:
+      raise AnalyzeError(str(exc)) from exc
+    status = str(jev_block["status"])
+    confidence = float(jev_block.get("confidence") or 0.0)
+    jev_clause_ids = [str(item) for item in jev_block.get("clause_ids", [])]
+    matched = [
+      MatchedClause(
+        clause_id=cid,
+        section_title=clause_by_id[cid].section_title,
+        text=clause_by_id[cid].clause_text,
+      )
+      for cid in jev_clause_ids if cid in clause_by_id
+    ]
+    evidence = EvidenceBundle(
+      score=confidence,
+      matched_clauses=matched,
+      quality="HIGH" if matched else "NO_RELIABLE_MATCH",
+      has_credited_support=bool(matched),
     )
-    jev_block = _jev_block(node, act, title, summary, rule, policy_clauses)
+    elements = []
+    qwen_block = _qwen_block(
+      comparison_qwen, node, act, title, summary, rule, policy_clauses
+    )
     obligations.append(
       _obligation_finding(
         node_id=node.id,
@@ -163,13 +184,15 @@ def analyze_document(
         confidence=confidence,
         elements=elements,
         jev_status=str(jev_block.get("status") or ""),
-        jev_clause_ids=[str(item) for item in jev_block.get("clause_ids", [])],
+        jev_clause_ids=jev_clause_ids,
         jev_reason=str(jev_block.get("reason") or ""),
         jev_confidence=float(jev_block.get("confidence") or 0.0),
+        qwen_status=str(qwen_block.get("status") or ""),
+        qwen_clause_ids=[str(item) for item in qwen_block.get("clause_ids", [])],
+        qwen_reason=str(qwen_block.get("reason") or ""),
+        qwen_confidence=float(qwen_block.get("confidence") or 0.0),
       )
     )
-
-  _reconcile_equivalent_duties(obligations, decisions, clauses, credited)
 
   gaps = [
     GapFinding(
@@ -218,12 +241,9 @@ def analyze_document(
 
 
 
-def _jev_block(obligation, act, title, summary, rule, policy_clauses):
-    """Call Path B (Jev) for one applicable catalog duty; never overwrite status."""
-    from compliance.jev import JevError
-
-    try:
-        block = jev.classify_applicable_duty(
+def _jev_block(client, obligation, act, title, summary, rule, policy_clauses):
+    """Call Jev and normalize its fixed answer set."""
+    block = client.classify_applicable_duty(
             obligation_id=obligation.id,
             act=act,
             title=title,
@@ -231,17 +251,53 @@ def _jev_block(obligation, act, title, summary, rule, policy_clauses):
             requirement_elements=[{"id": e.id, "label": e.label} for e in rule.requirement_elements],
             policy_clauses=policy_clauses,
         )
-    except JevError:
-        return {}
     status = str(block.get("status") or "").strip().lower()
     if status not in ObligationStatus.__args__:
         status = "undetermined"
     return {
         "status": status,
-        "clause_ids": [str(c) for c in block.get("clause_ids", []) if c],
+      "clause_ids": _clause_ids(block),
         "reason": str(block.get("reason") or ""),
-        "confidence": float(block.get("confidence") or 0.0),
+      "confidence": _confidence(block),
     }
+
+
+def _qwen_block(client, obligation, act, title, summary, rule, policy_clauses):
+    """Return a normalized optional Qwen comparison answer."""
+    try:
+      block = client.classify_applicable_duty(
+        obligation_id=obligation.id,
+        act=act,
+        title=title,
+        summary=summary,
+        requirement_elements=[{"id": e.id, "label": e.label} for e in rule.requirement_elements],
+        policy_clauses=policy_clauses,
+      )
+    except QwenError:
+      return {}
+    status = str(block.get("status") or "").strip().lower()
+    if status not in ObligationStatus.__args__:
+      status = "undetermined"
+    return {
+      "status": status,
+      "clause_ids": _clause_ids(block),
+      "reason": str(block.get("reason") or ""),
+      "confidence": _confidence(block),
+    }
+
+
+def _clause_ids(block: dict[str, object]) -> list[str]:
+  raw = block.get("clause_ids", [])
+  if not isinstance(raw, (list, tuple)):
+    return []
+  return [str(item) for item in raw if item]
+
+
+def _confidence(block: dict[str, object]) -> float:
+  try:
+    return max(0.0, min(1.0, float(block.get("confidence") or 0.0)))
+  except (TypeError, ValueError):
+    return 0.0
 
 def _obligation_finding(
   *,
@@ -261,6 +317,10 @@ def _obligation_finding(
   jev_clause_ids: list[str] = None,
   jev_reason: str = "",
   jev_confidence: float = 0.0,
+  qwen_status: str = "",
+  qwen_clause_ids: list[str] = None,
+  qwen_reason: str = "",
+  qwen_confidence: float = 0.0,
 ) -> ObligationFinding:
   row = ObligationFinding(
     obligation_id=node_id,
@@ -293,89 +353,13 @@ def _obligation_finding(
     jev_clause_ids=jev_clause_ids or [],
     jev_reason=jev_reason,
     jev_confidence=jev_confidence,
+    qwen_status=qwen_status,
+    qwen_clause_ids=qwen_clause_ids or [],
+    qwen_reason=qwen_reason,
+    qwen_confidence=qwen_confidence,
   )
   row.reason = explain_finding(row, evidence)
   return row
-
-
-def _union_credited(
-  credited: dict[str, list[tuple[Clause, float]]],
-  obligation_ids: list[str],
-) -> list[tuple[Clause, float]]:
-  by_id: dict[str, tuple[Clause, float]] = {}
-  for oid in obligation_ids:
-    for clause, score in credited.get(oid, []):
-      prev = by_id.get(clause.clause_id)
-      if prev is None or score > prev[1]:
-        by_id[clause.clause_id] = (clause, score)
-  return list(by_id.values())
-
-
-def _reconcile_equivalent_duties(
-  obligations: list[ObligationFinding],
-  decisions: dict,
-  clauses: list[Clause],
-  credited: dict[str, list[tuple[Clause, float]]],
-) -> None:
-  index = {row.obligation_id: i for i, row in enumerate(obligations)}
-  for cluster in load_equivalence_clusters():
-    members = [
-      oid
-      for oid in cluster.obligation_ids
-      if oid in index and obligations[index[oid]].status != "not_applicable"
-    ]
-    if len(members) < 2:
-      continue
-    if len({obligations[index[oid]].status for oid in members}) <= 1:
-      continue
-    extra_cues: list[str] = []
-    for oid in members:
-      extra_cues.extend(decisions[oid][3].contradiction_cues)
-    union = _union_credited(credited, members)
-    rebuilt: list[ObligationFinding] = []
-    for oid in members:
-      row = obligations[index[oid]]
-      _decision, law_status, act, rule = decisions[oid]
-      evidence = gather_evidence(
-        oid,
-        row.title,
-        rule,
-        clauses,
-        union,
-        extra_cues=extra_cues,
-      )
-      status, confidence, elements = classify_duty(
-        applicable=True,
-        evidence=evidence,
-        rule=rule,
-      )
-      rebuilt.append(
-        _obligation_finding(
-          node_id=oid,
-          title=row.title,
-          summary=row.summary,
-          act=act,
-          law_status=law_status,
-          applicability_reason=row.applicability_reason,
-          rule=rule,
-          evidence=evidence,
-          status=status,
-          confidence=confidence,
-          elements=elements,
-          extra_cues=extra_cues,
-        )
-      )
-    if len({item.status for item in rebuilt}) > 1:
-      worst = max(rebuilt, key=lambda item: _ADVERSE_RANK.get(item.status, 0))
-      for item in rebuilt:
-        if item.status != worst.status:
-          item.status = worst.status
-          item.counter_evidence = worst.counter_evidence
-          item.matched_clauses = worst.matched_clauses
-          item.matched_clause_ids = worst.matched_clause_ids
-          item.reason = explain_finding(item)
-    for item in rebuilt:
-      obligations[index[item.obligation_id]] = item
 
 
 def _policy_clauses(document: EntityDocument) -> list[Clause]:

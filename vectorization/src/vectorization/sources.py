@@ -10,6 +10,7 @@ from pathlib import Path
 from pydantic import ValidationError
 
 from document_pipeline.models.clause import Clause, SegmentedDocument
+from document_pipeline.models.entity import EntityDocument
 
 logger = logging.getLogger(__name__)
 
@@ -24,6 +25,29 @@ class EmbeddableSource:
   clause: Clause
   role: str | None = None
   entity_types: list[str] = field(default_factory=list)
+
+
+def entity_document_to_sources(document: EntityDocument) -> list[EmbeddableSource]:
+  """Convert an in-memory pipeline result into embedding sources."""
+  return _sources_from_entity_items(document.entity_clauses)
+
+
+def _sources_from_entity_items(items: list[object]) -> list[EmbeddableSource]:
+  sources: list[EmbeddableSource] = []
+  for item in items:
+    clause = clause_from_entity(item)
+    if clause is None:
+      logger.warning("skipping malformed entity_clause item")
+      continue
+    classified = _attr(_attr(item, "contextual_clause"), "classified_clause")
+    sources.append(
+      EmbeddableSource(
+        clause=clause,
+        role=_role_value(_attr(classified, "role")),
+        entity_types=_entity_types_from_list(_attr(item, "entities")),
+      ),
+    )
+  return sources
 
 
 def clause_from_contextual(cc: object) -> Clause | None:
@@ -98,21 +122,7 @@ def _sources_from_payload(payload: dict[str, object]) -> list[EmbeddableSource]:
 
 
 def _from_entity_clauses(items: list[object]) -> list[EmbeddableSource]:
-  sources: list[EmbeddableSource] = []
-  for item in items:
-    clause = clause_from_entity(item)
-    if clause is None:
-      logger.warning("skipping malformed entity_clause item")
-      continue
-    classified = _attr(_attr(item, "contextual_clause"), "classified_clause")
-    sources.append(
-      EmbeddableSource(
-        clause=clause,
-        role=_role_value(_attr(classified, "role")),
-        entity_types=_entity_types_from_list(_attr(item, "entities")),
-      )
-    )
-  return sources
+  return _sources_from_entity_items(items)
 
 
 def _from_contextual_clauses(items: list[object]) -> list[EmbeddableSource]:

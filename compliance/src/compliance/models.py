@@ -64,11 +64,16 @@ class ObligationFinding(BaseModel):
   reason: str = ""
   elements: list[RequirementElementFinding] = Field(default_factory=list)
   severity: str = "medium"
-  # Path B: Jev second opinion (never overwrites .status).
+  # Jev is the authoritative classifier for the analysis strip.
   jev_status: str = ""
   jev_clause_ids: list[str] = Field(default_factory=list)
   jev_reason: str = ""
   jev_confidence: float = 0.0
+  # Qwen is an optional comparison column and never affects the strip.
+  qwen_status: str = ""
+  qwen_clause_ids: list[str] = Field(default_factory=list)
+  qwen_reason: str = ""
+  qwen_confidence: float = 0.0
 
 
 class GapFinding(BaseModel):

@@ -238,7 +238,8 @@ export default function Findings({
             <div className="findings-table-wrap">
               <div className="findings-grid" role="table">
                 <div className="findings-row findings-row--head" role="row">
-                  <div role="columnheader">Status</div>
+                  <div role="columnheader">Jev / Engine</div>
+                  <div role="columnheader">Qwen</div>
                   <div role="columnheader">Law</div>
                   <div role="columnheader">Duty</div>
                   <div role="columnheader">In this policy</div>
@@ -264,6 +265,18 @@ export default function Findings({
                     >
                       <div role="cell">
                         <span className={`mono-badge ${badge.className}`}>{badge.label}</span>
+                      </div>
+                      <div role="cell">
+                        {row.qwen_status ? (
+                          <>
+                            <span className={`mono-badge ${(BADGE[row.qwen_status] || BADGE.undetermined).className}`}>
+                              {(BADGE[row.qwen_status] || BADGE.undetermined).label}
+                            </span>
+                            {row.qwen_reason ? <div className="findings-qwen-reason">{row.qwen_reason}</div> : null}
+                          </>
+                        ) : (
+                          <span className="findings-qwen-empty">—</span>
+                        )}
                       </div>
                       <div className="findings-act" role="cell">
                         {row.act || "—"}

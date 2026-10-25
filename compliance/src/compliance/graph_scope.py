@@ -1,4 +1,4 @@
-"""In-process GraphIR scope for /analyze: Obligation nodes + PENALIZES walk."""
+"""GraphIR scope for /analyze: Obligation nodes + PENALIZES walk."""
 
 from __future__ import annotations
 
@@ -13,11 +13,11 @@ from graph_builder.catalog_ir import (
 from graph_builder.graph_ir import GraphIR, GraphNode, GraphRelationship
 
 from compliance.catalog import LawCatalog, load_catalog
-from compliance.duty_rules import resolve_duty_rule
+from compliance.duty_rules import load_duty_rules, resolve_duty_rule
 from compliance.models import ObligationFinding, PenaltyFinding
 
 
-def ir_from_catalog(catalog: LawCatalog) -> GraphIR:
+def ir_from_catalog(catalog: LawCatalog, *, rules: dict[str, object] | None = None) -> GraphIR:
   duties = [
     CatalogObligation(
       obligation_id=chunk.doc_id,
@@ -44,7 +44,7 @@ def ir_from_catalog(catalog: LawCatalog) -> GraphIR:
   ]
   requirements: list[CatalogRequirement] = []
   for chunk in catalog.obligations:
-    rule = resolve_duty_rule(chunk.doc_id, catalog_roles=tuple(chunk.entity_ids))
+    rule = resolve_duty_rule(chunk.doc_id, rules=rules, catalog_roles=tuple(chunk.entity_ids))
     for spec in rule.requirement_elements:
       requirements.append(
         CatalogRequirement(
@@ -56,8 +56,9 @@ def ir_from_catalog(catalog: LawCatalog) -> GraphIR:
   return catalog_to_graph_ir(duties, penalties, requirements)
 
 
-def ir_from_paths(paths: list[Path]) -> GraphIR:
-  return ir_from_catalog(load_catalog(paths))
+def ir_from_paths(paths: list[Path], *, duty_rules_path: Path | None = None) -> GraphIR:
+  rules = load_duty_rules(duty_rules_path)
+  return ir_from_catalog(load_catalog(paths), rules=rules)
 
 
 def obligation_nodes(ir: GraphIR) -> list[GraphNode]:

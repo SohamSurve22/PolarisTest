@@ -48,6 +48,17 @@ def retrieve_dense(question: str, *, search: SearchFn) -> list[RagCitation]:
   return citations_from_hits(hits, allowed_source_types=("rag_section",))
 
 
+def retrieve_document(question: str, *, search: SearchFn) -> list[RagCitation]:
+  """Retrieve only clauses belonging to an uploaded document."""
+  hits = search(
+    question,
+    source_type="document_clause",
+    top_k=DENSE_TOP_K,
+    min_score=RAG_MIN_SCORE,
+  )
+  return citations_from_hits(hits, allowed_source_types=("document_clause",))
+
+
 def retrieve_graph(
   question: str,
   *,

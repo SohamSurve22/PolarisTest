@@ -4,22 +4,22 @@ overview: "Stop using matching.py and classify.py for duty status. Score each ca
 todos:
   - id: comparison-model
     content: Store Jev status on obligations[].status and Qwen status beside it. Gaps, penalties, and the strip follow Jev.
-    status: pending
+    status: completed
   - id: luna-client
     content: Add an OpenAI gpt-6-luna decision client keyed from the environment, with a strict JSON fallback if the Decisions preview is closed
-    status: pending
+    status: completed
   - id: wire-analyze
     content: Remove collect_credits and classify_duty from analyze_document. Send each catalog duty plus the policy clauses to Jev.
-    status: pending
+    status: completed
   - id: qwen-dataset
     content: Build training pairs of one duty from the four acts plus policy clauses, labeled by a reviewed Jev decision. Keep the benchmark gold files as the held-out test.
-    status: pending
+    status: completed
   - id: qwen-train-serve
     content: Fine-tune Qwen 2.5 3B offline on those pairs and call that Ollama model as the second status
-    status: pending
+    status: in_progress
   - id: tests
     content: Fake Jev and Qwen clients. Prove the strip uses the Jev status, and an out-of-set answer becomes undetermined.
-    status: pending
+    status: completed
 isProject: false
 ---
 

@@ -15,6 +15,7 @@ from vectorization.kg import load_kg_records
 from vectorization.models import EmbeddableRecord, SearchHit
 from vectorization.rag_corpus import load_rag_records
 from vectorization.sources import load_embeddable_sources
+from vectorization.sources import entity_document_to_sources
 from vectorization.store import VectorStore
 
 logger = logging.getLogger(__name__)
@@ -59,6 +60,24 @@ def run(settings: VectorizationSettings | None = None) -> None:
   )
   _embed_and_upsert(records, settings, desc="embedding clauses")
   logger.info("done")
+
+
+def ingest_entity_document(document: object, settings: VectorizationSettings | None = None) -> int:
+  """Embed one in-memory ``EntityDocument`` and upsert its clause records.
+
+  This is used by the opt-in API ingest-on-analyze path. It returns the number
+  of records submitted and is idempotent because Qdrant point ids derive from
+  document and clause ids.
+  """
+  settings = settings or get_settings()
+  records = sources_to_embeddable(
+    entity_document_to_sources(document),
+    min_tokens=settings.min_clause_tokens,
+    max_tokens=settings.max_clause_tokens,
+    overlap_tokens=settings.chunk_overlap_tokens,
+  )
+  _embed_and_upsert(records, settings, desc="embedding analyzed document")
+  return len(records)
 
 
 def run_kg(settings: VectorizationSettings | None = None) -> None:

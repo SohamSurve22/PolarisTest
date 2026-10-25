@@ -40,6 +40,11 @@ services:
       VECTORIZATION_OLLAMA_URL: http://host.docker.internal:11434/api/embeddings
       POLARIS_OLLAMA_URL: http://host.docker.internal:11434
       POLARIS_CHAT_MODEL: qwen2.5:7b-instruct-q4_K_M
+      POLARIS_QWEN_MODEL: ${POLARIS_QWEN_MODEL:-}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_DECISIONS_PREVIEW_URL: ${OPENAI_DECISIONS_PREVIEW_URL:-}
+      OPENAI_DECISIONS_PREVIEW_BODY: ${OPENAI_DECISIONS_PREVIEW_BODY:-}
+      OPENAI_DECISIONS_PREVIEW_MODEL: ${OPENAI_DECISIONS_PREVIEW_MODEL:-gpt-6-luna}
       MONGODB_URI: mongodb://mongo:27017
       JWT_SECRET: ${JWT_SECRET:-dev-only-change-me}
     ports:

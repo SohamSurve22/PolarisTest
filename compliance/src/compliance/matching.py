@@ -149,7 +149,6 @@ def gather_evidence(
   credited: list[tuple[Clause, float]],
   extra_cues: list[str] | None = None,
 ) -> EvidenceBundle:
-  had_credits = bool(credited)
   credited = _filter_credited(credited, rule)
   by_id: dict[str, tuple[Clause, float, str]] = {}
   for clause, score in credited:
@@ -160,7 +159,7 @@ def gather_evidence(
     if prev is None or score > prev[1]:
       by_id[clause.clause_id] = (clause, score, text)
 
-  pool = _element_pool(clauses, credited, had_credits=had_credits)
+  pool = _element_pool(clauses, credited)
   element_hits: list[str] = []
   for clause in pool:
     filtered = actor_filtered_text(clause.clause_text, rule)
@@ -235,12 +234,10 @@ def gather_evidence(
 def _element_pool(
   clauses: list[Clause],
   credited: list[tuple[Clause, float]],
-  *,
-  had_credits: bool = False,
 ) -> list[Clause]:
-  """Keyword-score credited clauses only. Empty credits fall back for stub-search tests."""
+  """Keyword-score only clauses credited by retrieval."""
   if not credited:
-    return [] if had_credits else list(clauses)
+    return []
   pool: list[Clause] = []
   seen: set[str] = set()
   for clause, _score in credited:

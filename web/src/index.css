@@ -1168,7 +1168,7 @@ html[data-theme="light"] .tone-conflict {
 }
 
 .findings-grid {
-  --findings-cols: 7.5rem 6.75rem minmax(12rem, 1.15fr) minmax(14rem, 1.35fr) minmax(12rem, 1fr);
+  --findings-cols: 7.5rem 7.5rem 6.75rem minmax(12rem, 1.15fr) minmax(14rem, 1.35fr) minmax(12rem, 1fr);
   width: 100%;
   font-size: 13px;
 }
@@ -1215,6 +1215,17 @@ html[data-theme="light"] .tone-conflict {
   font-family: "JetBrains Mono", ui-monospace, monospace;
   font-size: 11px;
   white-space: nowrap;
+  color: var(--muted);
+}
+
+.findings-qwen-reason {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.findings-qwen-empty {
   color: var(--muted);
 }
 
@@ -1279,7 +1290,6 @@ html[data-theme="light"] .tone-conflict {
   margin-top: 6px;
   font-size: 11px;
   color: var(--error, #b42318);
-}
   line-height: 1.4;
 }
 
@@ -2583,7 +2593,7 @@ html[data-theme="light"] .nd-header {
   }
 
   .findings-grid {
-    --findings-cols: 6.5rem 5.5rem minmax(10rem, 1fr) minmax(12rem, 1.2fr) minmax(10rem, 1fr);
+    --findings-cols: 6.5rem 6.5rem 5.5rem minmax(10rem, 1fr) minmax(12rem, 1.2fr) minmax(10rem, 1fr);
   }
 
   .inspector {

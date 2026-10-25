@@ -1,10 +1,8 @@
-"""Iberian-style second-opinion classifier (Path B).
+"""OpenAI Jev classifier for catalog duties.
 
-Jev scores every applicable catalog duty a second time, using the same
-catalogue rows and policy clauses as Path A. It never overwrites .status,
-gaps, penalties, or the Path A paint. Status stays long-lived on
-ObligationFinding from collect_credits/classify_duty; Jev data lands in
-sidecar fields.
+Jev scores every applicable catalog duty using the catalog row and policy
+clauses. Its answer is normalized by the service and becomes the authoritative
+obligation status. A Qwen comparison model is intentionally separate.
 """
 
 from __future__ import annotations
@@ -14,49 +12,45 @@ import os
 import urllib.error
 import urllib.request
 
-DECISIONS_PREVIEW_URL = os.environ.get(
-    "OPENAI_DECISIONS_PREVIEW_URL", "https://decisions.preview.openai.com/v1/decisions"
-)
+DECISIONS_PREVIEW_URL = os.environ.get("OPENAI_DECISIONS_PREVIEW_URL", "").strip()
+DECISIONS_PREVIEW_BODY = os.environ.get("OPENAI_DECISIONS_PREVIEW_BODY", "").strip()
 DECISIONS_PREVIEW_MODEL = os.environ.get("OPENAI_DECISIONS_PREVIEW_MODEL", "gpt-6-luna")
-CHAT_MODEL = os.environ.get("JEV_CHAT_MODEL", "gpt-4o-mini")
+CHAT_MODEL = os.environ.get("JEV_CHAT_MODEL", "gpt-6-luna")
 DECISIONS_TRY_COUNT = int(os.environ.get("OPENAI_DECISIONS_TRY_COUNT", "2"))
 
 
 class JevError(Exception):
-    """Transport or JSON error from the Jev service. Missing key/outage means
-    the calling analyze_document keeps Path A and leaves jev fields empty."""
+    """Transport, configuration, or JSON error from the Jev service."""
 
 
 class JevClient:
     """Second-opinion classifier over catalog duties.
 
     Selection order:
-      1. Decisions preview (OPENAI_DECISIONS_PREVIEW_URL), if the base URL is set.
+      1. Decisions preview only when both its URL and an explicit body template
+         (OPENAI_DECISIONS_PREVIEW_BODY) are set.
       2. Chat completions with a strict JSON schema limited to the existing
          ObligationStatus values.
     """
 
     def __init__(self) -> None:
         self._client = None
-        # Decides how to build the callable. Missing packages / env keep the
-        # caller on Path A; the returned client always returns an empty block.
+        if not os.environ.get("OPENAI_API_KEY"):
+            self._client = self._unavailable_client
+            return
         try:
-            if os.environ.get("OPENAI_DECISIONS_PREVIEW_URL"):
-                self._client = self._decisions_client()
-            else:
-                self._client = self._chat_client()
-        except ImportError:
-            # No OpenAI packages installed -> caller keeps Path A (empty block).
-            self._client = self._noop_client
+            self._client = (
+                self._preview_then_chat_client()
+                if DECISIONS_PREVIEW_URL and DECISIONS_PREVIEW_BODY
+                else self._chat_client()
+            )
+        except ImportError as exc:
+            self._client = self._unavailable_client
+            self._init_error = str(exc)
 
-    def _noop_client(self, payload: dict[str, object]) -> dict[str, object]:
-        """Return the empty block Path A keeps when Jev cannot answer."""
-        return {
-            "status": "undetermined",
-            "clause_ids": [],
-            "reason": "Jev unavailable",
-            "confidence": 0.0,
-        }
+    @staticmethod
+    def _unavailable_client(_payload: dict[str, object]) -> dict[str, object]:
+        raise JevError("OPENAI_API_KEY and an OpenAI client are required for Jev")
 
     # ------------------------------------------------------------------
     # public API
@@ -87,16 +81,29 @@ class JevClient:
             "policy_clauses": policy_clauses,
             "fallback": fallback_,
         }
-        try:
+        if self._client is None:
+            raise JevError("Jev client is not configured")
+        if callable(self._client):
             return self._client(payload)
-        except JevError:
-            # Outage / missing key must never 503: caller keeps Path A.
-            return {
-                "status": "undetermined",
-                "clause_ids": [],
-                "reason": "Jev unavailable",
-                "confidence": 0.0,
-            }
+        method = getattr(self._client, "classify_applicable_duty", None)
+        if method is None:
+            raise JevError("Configured Jev client has no classification method")
+        payload["fallback_"] = payload.pop("fallback")
+        return method(**payload)
+
+    def _preview_then_chat_client(self) -> callable:
+        preview = self._decisions_client()
+        chat = self._chat_client()
+
+        def client(payload: dict[str, object]) -> dict[str, object]:
+            try:
+                return preview(payload)
+            except JevError as exc:
+                if "403" not in str(exc):
+                    raise
+                return chat(payload)
+
+        return client
 
     # ------------------------------------------------------------------
     # decisions-preview client
@@ -115,7 +122,7 @@ class JevClient:
         )
 
         def client(payload: dict[str, object]) -> dict[str, object]:
-            body = self._decisions_payload(payload)
+            body = self._decisions_body(payload)
             for _ in range(DECISIONS_TRY_COUNT):
                 try:
                     resp = session.post(
@@ -134,31 +141,45 @@ class JevClient:
         return client
 
     @staticmethod
-    def _decisions_payload(payload: dict[str, object]) -> dict[str, object]:
-        return {
-            "model": DECISIONS_PREVIEW_MODEL,
-            "reasoning": {
-                "effort": "low",
-                "summary": "auto",
-            },
-            "input": {
-                "obligation_id": payload["obligation_id"],
-                "act": payload["act"],
-                "title": payload["title"],
-                "summary": payload["summary"],
-                "requirement_elements": payload["requirement_elements"],
-                "policy_clauses": payload["policy_clauses"],
-                "fallback": payload.get("fallback", False),
-            },
-        }
+    def _decisions_body(payload: dict[str, object]) -> dict[str, object]:
+        """Expand a caller-supplied preview body; never assume its schema."""
+        try:
+            body = json.loads(DECISIONS_PREVIEW_BODY)
+        except json.JSONDecodeError as exc:
+            raise JevError("OPENAI_DECISIONS_PREVIEW_BODY must be valid JSON") from exc
+
+        def expand(value):
+            if isinstance(value, dict):
+                return {key: expand(item) for key, item in value.items()}
+            if isinstance(value, list):
+                return [expand(item) for item in value]
+            if isinstance(value, str) and value.startswith("{{") and value.endswith("}}"):
+                return payload.get(value[2:-2], value)
+            return value
+
+        result = expand(body)
+        if not isinstance(result, dict):
+            raise JevError("OPENAI_DECISIONS_PREVIEW_BODY must contain a JSON object")
+        return result
 
     @staticmethod
     def _decisions_parse(raw: str) -> dict[str, object]:
-        data = json.loads(raw)
+        try:
+            data = json.loads(raw)
+        except (TypeError, json.JSONDecodeError) as exc:
+            raise JevError("decisions preview returned invalid JSON") from exc
+        if not isinstance(data, dict):
+            raise JevError("decisions preview returned a non-object response")
         text = data.get("output", "")
         if not isinstance(text, str) or not text.strip():
             raise JevError("decisions preview returned empty output")
-        return json.loads(text.strip())
+        try:
+            result = json.loads(text.strip())
+        except json.JSONDecodeError as exc:
+            raise JevError("decisions preview returned invalid output JSON") from exc
+        if not isinstance(result, dict):
+            raise JevError("decisions preview returned a non-object output")
+        return result
 
     # ------------------------------------------------------------------
     # fallback chat-completions client
@@ -199,9 +220,18 @@ class JevClient:
                     temperature=0.0,
                     response_format={"type": "json_object"},
                 )
+                text = resp.choices[0].message.content or ""
+                if not text.strip():
+                    raise JevError("OpenAI Jev returned empty content")
+                result = json.loads(text.strip())
+                if not isinstance(result, dict):
+                    raise JevError("OpenAI Jev returned a non-object JSON response")
+                return result
+            except JevError:
+                raise
+            except (json.JSONDecodeError, AttributeError, IndexError, TypeError) as exc:
+                raise JevError("OpenAI Jev returned malformed JSON") from exc
             except Exception as exc:
                 raise JevError(str(exc)) from exc
-            text = resp.choices[0].message.content or ""
-            return json.loads(text.strip())
 
         return _call

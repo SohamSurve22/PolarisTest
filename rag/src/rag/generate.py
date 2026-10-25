@@ -14,6 +14,11 @@ SYSTEM_PROMPT = (
   "If the excerpts do not contain the answer, say you cannot tell from the provided text. "
   "List the cited ids at the end of the answer."
 )
+DOCUMENT_SYSTEM_PROMPT = (
+  "Answer the user's question using ONLY the uploaded policy excerpts provided. "
+  "If the excerpts do not contain the answer, say you cannot tell from this policy. "
+  "Do not infer legal compliance. List the cited clause ids at the end of the answer."
+)
 
 DEFAULT_MODEL = "qwen2.5:7b-instruct-q4_K_M"
 
@@ -31,9 +36,10 @@ def generate_answer(
   citations: list[RagCitation],
   *,
   chat: ChatFn | None = None,
+  system_prompt: str = SYSTEM_PROMPT,
 ) -> str:
   chat_fn = chat or default_chat
-  return chat_fn(SYSTEM_PROMPT, build_user_prompt(question, citations))
+  return chat_fn(system_prompt, build_user_prompt(question, citations))
 
 
 def default_chat(system_prompt: str, user_prompt: str) -> str:

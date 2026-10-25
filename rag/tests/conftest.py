@@ -13,7 +13,7 @@ def hit(
 ) -> SearchHit:
   payload = {
     "source_type": source_type,
-    "clause_id": cid if source_type == "rag_section" else None,
+    "clause_id": cid if source_type in {"rag_section", "document_clause"} else None,
     "obligation_id": obligation_id,
     "section_id": section_id,
     "title": title,
@@ -23,7 +23,7 @@ def hit(
   return SearchHit(
     score=score,
     source_type=source_type,
-    clause_id=cid if source_type == "rag_section" else None,
+    clause_id=cid if source_type in {"rag_section", "document_clause"} else None,
     section_id=section_id,
     clause_text=text,
     retrieval_text=text,

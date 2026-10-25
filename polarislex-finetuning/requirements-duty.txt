@@ -1,0 +1,10 @@
+# Install in a CUDA-enabled Python 3.12 environment before running
+# scripts/05_finetune_duty_classifier.py. Keep the benchmark files out of the
+# reviewed input; the trainer consumes only human-reviewed Jev proposals.
+torch
+datasets
+unsloth
+trl
+transformers
+peft
+bitsandbytes

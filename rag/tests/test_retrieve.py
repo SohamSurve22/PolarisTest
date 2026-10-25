@@ -1,4 +1,4 @@
-from rag.retrieve import citations_from_hits, retrieve_dense
+from rag.retrieve import citations_from_hits, retrieve_dense, retrieve_document
 
 from tests.conftest import hit
 
@@ -41,3 +41,18 @@ def test_citations_from_hits_never_use_kg_obligation_for_dense() -> None:
     allowed_source_types=("rag_section",),
   )
   assert [row.id for row in rows] == ["ITACT_SEC_43A"]
+
+
+def test_document_retrieve_uses_document_clause_source() -> None:
+  seen: dict[str, object] = {}
+
+  def fake_search(query: str, *, source_type: str, top_k: int, min_score: float | None = None, **_):
+    seen["source_type"] = source_type
+    seen["top_k"] = top_k
+    return [hit(source_type="document_clause", cid="S002_C001", text="retention")]
+
+  citations = retrieve_document("retention", search=fake_search)
+
+  assert seen["source_type"] == "document_clause"
+  assert seen["top_k"] == 5
+  assert [row.id for row in citations] == ["S002_C001"]

@@ -8,9 +8,9 @@ from typing import Literal
 
 from vectorization.models import SearchHit
 
-from rag.generate import ChatFn, generate_answer
+from rag.generate import DOCUMENT_SYSTEM_PROMPT, ChatFn, generate_answer
 from rag.models import RagAnswer, RagError
-from rag.retrieve import SearchFn, retrieve_dense, retrieve_graph
+from rag.retrieve import SearchFn, retrieve_dense, retrieve_document, retrieve_graph
 
 Mode = Literal["dense", "graph"]
 
@@ -73,4 +73,46 @@ def answer_question(
     citations=citations,
     retrieve_ms=retrieve_ms,
     generate_ms=generate_ms,
+  )
+
+
+def answer_document_question(
+  question: str,
+  *,
+  document_id: str,
+  search: SearchFn | None = None,
+  chat: ChatFn | None = None,
+) -> RagAnswer:
+  """Answer from one uploaded document's clause vectors only."""
+  text = (question or "").strip()
+  doc_id = (document_id or "").strip()
+  if not text:
+    raise ValueError("question is required")
+  if not doc_id:
+    raise ValueError("document_id is required")
+
+  if search is None:
+    from vectorization.pipeline import search_text
+
+    def search_fn(query: str, **kwargs):
+      return search_text(query, document_id=doc_id, **kwargs)
+  else:
+    search_fn = search
+
+  started = time.perf_counter()
+  citations = retrieve_document(text, search=search_fn)
+  retrieve_ms = (time.perf_counter() - started) * 1000.0
+  gen_started = time.perf_counter()
+  try:
+    answer = generate_answer(text, citations, chat=chat, system_prompt=DOCUMENT_SYSTEM_PROMPT)
+  except RagError:
+    raise
+  except Exception as exc:
+    raise RagError("Q&A chat backend unavailable (Ollama).") from exc
+  return RagAnswer(
+    mode="document",
+    answer=answer,
+    citations=citations,
+    retrieve_ms=retrieve_ms,
+    generate_ms=(time.perf_counter() - gen_started) * 1000.0,
   )

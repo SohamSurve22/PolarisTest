@@ -1,4 +1,4 @@
-"""Cypher strings from GraphIR + findings. Never executed against Neo4j at /analyze."""
+"""Export Cypher strings from GraphIR + findings for graph persistence."""
 
 from __future__ import annotations
 

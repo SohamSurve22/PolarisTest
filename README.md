@@ -2,7 +2,7 @@
 
 Legal-document intelligence for Indian website-privacy law. Upload a private-company privacy policy; the app **validates** it against DPDP, SPDI Rules, CERT-In, and the IT Act, and can **answer statute questions** from the Queries tab (no PDF required).
 
-The stack **parses** documents, **embeds** law text for search, can **export** a graph to Neo4j, **compares** a policy to those statutes, **analyzes** obligation gaps with linked penalties, and can **write a client memo + PDF** from those findings (India MVP). `/analyze` does **not** traverse Neo4j. Memo Themes and the first summary sentence come from the engine, not Qwen.
+The stack **parses** documents, **embeds** law text for search, can **export** a graph to Neo4j, **compares** a policy to those statutes, **analyzes** obligation gaps with linked penalties, and can **write a client memo + PDF** from those findings (India MVP). `/analyze` uses in-process GraphIR by default and can load the catalog through Neo4j with `POLARIS_ANALYZE_GRAPH_SOURCE=neo4j`. Memo Themes and the first summary sentence come from the engine, not Qwen.
 
 Two surfaces in the UI:
 
@@ -119,7 +119,7 @@ ollama pull qwen2.5:7b-instruct-q4_K_M
 
 ### 3. Index law vectors (first machine, once)
 
-`/analyze` and Queries need Qdrant points. Ollama must be running on the host (`nomic-embed-text`). From the repo root, with a venv:
+Queries need Qdrant points; `/analyze` builds its policy GraphIR in-process and requires OpenAI Jev. Ollama must be running on the host (`nomic-embed-text`) for vector ingestion and the Queries tab. From the repo root, with a venv:
 
 ```bash
 python3 -m venv .venv
@@ -134,7 +134,29 @@ vectorization ingest-rag --path ../dataset/IT_ACT_POLARISLEX_MERGED.json
 - `ingest-kg` loads `kg_export/*.json` as `kg_obligation` / `kg_section` (Validation + Graph Queries).
 - `ingest-rag` loads `dataset/IT_ACT_POLARISLEX_MERGED.json` as `rag_section` (Dense Queries). Do **not** ingest that file as `kg_obligation`.
 
-Re-run those two commands after law JSON or embed-model changes. Analyze does **not** upsert the uploaded policy into Qdrant.
+Re-run those two commands after law JSON or embed-model changes. Analyze does not upsert the uploaded policy into Qdrant unless `POLARIS_INGEST_ON_ANALYZE=true`.
+
+### Jev + Qwen duty comparison
+
+`/analyze` sends each applicable catalog duty and the parsed policy clauses to
+OpenAI Jev (`gpt-6-luna`). Jev owns `obligations[].status`, gaps, penalties,
+and the coverage strip. The optional fine-tuned Qwen 2.5 3B model is enabled
+only with `POLARIS_QWEN_MODEL`; its result is stored as `qwen_status` and never
+changes the strip.
+
+The Qwen training workflow requires human review:
+
+```bash
+qwen-dataset polarislex-finetuning/data/processed --law dataset/dpdp_graph.json --law dataset/spdi_graph.json --law dataset/certin_graph.json --law dataset/itact_graph.json --output polarislex-finetuning/data/jev_proposals.jsonl
+python polarislex-finetuning/scripts/review_qwen_proposals.py polarislex-finetuning/data/jev_proposals.jsonl polarislex-finetuning/data/review_decisions.jsonl polarislex-finetuning/data/reviewed_pairs.jsonl
+python polarislex-finetuning/scripts/05_finetune_duty_classifier.py --input polarislex-finetuning/data/reviewed_pairs.jsonl --preflight
+python polarislex-finetuning/scripts/05_finetune_duty_classifier.py --input polarislex-finetuning/data/reviewed_pairs.jsonl
+python polarislex-finetuning/scripts/06_ollama_modelfile.py --adapter polarislex-finetuning/adapters/polarislex-qwen2.5-3b-duty
+ollama create polarislex-qwen2.5-3b-duty -f Modelfile.polarislex-duty
+```
+
+Do not use the older generic policy-extraction dataset for duty-status
+training, and do not include benchmark gold files in training.
 
 ## Using the UI
 
@@ -154,18 +176,20 @@ Re-run those two commands after law JSON or embed-model changes. Analyze does **
 | Endpoint | Needs Qdrant / Ollama | What it does |
 |---|---|---|
 | `POST /compare` | No | Parse the file, draw both graphs. Topic **keywords** only group User Graph folders (Consent vs Extra). Not the coverage score or node colors. |
-| `POST /analyze` | Yes (`nomic-embed-text`) | Build GraphIR from the law JSON (Obligation nodes). Score policy clauses against `kg_obligation` (multi-credit + title/element gate). N/A duties skip scoring. Penalties walk GraphIR `PENALIZES`. Not statute Q&A. The HTTP handler leaves the optional policy-graph builder unset, so the response has `policy_graph: null`. |
+| `POST /analyze` | OpenAI Jev; Qwen comparison optional | Build GraphIR from the law JSON (Obligation nodes). Send each applicable duty plus policy clauses to Jev; Jev status drives gaps, penalties, and the strip. Optional Qwen 2.5 3B is stored and shown as a sidecar comparison column. Not statute Q&A. |
 | `POST /report` | Chat optional | Assemble the client memo from `AnalysisResult`. Themes and the first summary sentence are engine-owned. If Qwen is down: **200** with `narrative_available: false`. |
 | `POST /report.pdf` | No | Render the assembled report (no second chat call). |
 | `POST /rag` | Yes (embed + Qwen) | Statute Q&A. `mode=dense` retrieves `rag_section`; `mode=graph` seeds `kg_obligation` and expands GraphIR. The Queries tab calls this. Does not score a policy and does not feed the memo. |
+| `POST /chat-with-pdf` | Yes (embed + Qwen) | Upload a policy and ask a question against that document's `document_clause` vectors only. It does not query statutes or score compliance. |
+| `GET /documents/{document_id}` | No | Return the persisted document-pipeline JSON artifact for a previously uploaded `DOC_*` id. Stored files are controlled by `POLARIS_DOCUMENT_DIR`. |
 
-The Validation UI calls `/compare`, then `/analyze` on the same file, then `POST /report`. Findings show first; the memo narrative can take up to about a minute (local Qwen). If search is down, `/analyze` returns **503**; graphs still load. Queries returns **503** if Qdrant or Ollama is down.
+The Validation UI calls `/compare`, then `/analyze` on the same file, then `POST /report`. Findings show first; the memo narrative can take up to about a minute (local Qwen). If OpenAI Jev is unavailable, `/analyze` returns **503**; graphs still load. Queries returns **503** if Qdrant or Ollama is down.
 
 ### Policy graph (optional)
 
 `graph_builder` can turn a parsed policy into GraphIR with the existing label and relation vocabulary. `OpenIEExtractor` asks local Ollama (same `LLMClient` as the graph builder, Qwen) for subject–predicate–object JSON only. `PolicyGraphBuilder` maps those phrases through `entity_aliases.json` / `relation_aliases.json` and `ALLOWED_TRIPLES` in `ontology.py`. Phrases that do not map (`owns`, `sells`, unknown entities) stay on `MappingFailure` (`UNMAPPED_ENTITY`, `UNMAPPED_RELATION`, `AMBIGUOUS_*`, `INVALID_RELATION_COMBINATION`).
 
-Pass `policy_builder=` into `GraphBuilderPipeline` to use that path instead of one-shot `LLMGraphBuilder` GraphIR. Pass the same builder into `analyze_document` to fill `AnalysisResult.policy_graph` and `mapping_failures`. Covered, partial, missing, violation, and conflict still come from Qdrant credits and `classify`. The Validation strip does not read those fields.
+Pass `policy_builder=` into `GraphBuilderPipeline` to use that path instead of one-shot `LLMGraphBuilder` GraphIR. Pass the same builder into `analyze_document` to fill `AnalysisResult.policy_graph` and `mapping_failures`. Jev owns covered, partial, missing, violation, and conflict; the optional Qwen result is a sidecar. The Validation strip does not read policy-graph fields.
 
 The API in Docker reaches Ollama at `http://host.docker.internal:11434`.
 
@@ -198,7 +222,7 @@ Law sources (already tagged): `dataset/dpdp_graph.json`, `dataset/spdi_graph.jso
 | 7474 | Neo4j Browser (HTTP) |
 | 7687 | Neo4j Bolt (drivers) |
 
-Neo4j is **not** used by `/compare`, `/analyze`, or Queries. The UI never opens Neo4j Browser. 7474 is the web console; 7687 is what Python drivers use later.
+Neo4j is not used by `/compare` or Queries. `/analyze` uses the local catalog by default and can read Neo4j by setting `POLARIS_ANALYZE_GRAPH_SOURCE=neo4j`. Set `POLARIS_INGEST_ON_ANALYZE=true` to embed the uploaded clauses into Qdrant during analysis. The UI never opens Neo4j Browser. 7474 is the web console; 7687 is what Python drivers use.
 
 ## Requirements
 
@@ -261,16 +285,15 @@ Package READMEs have setup, env vars, and tests:
 
 How the pieces join: [`ARCHITECTURE.md`](ARCHITECTURE.md). Roadmap: [`plan.md`](plan.md).
 
-**Next:** Optional [cloud chat](plan.md#b--report-polish) is still later. Cypher at analyze time and `applies_if` are still later.
+**Next:** Optional [cloud chat](plan.md#b--report-polish) is still later. In-process GraphIR remains the default, with opt-in Neo4j graph loading.
 
 ## Not in this build
 
 - Overlay clustering stays topic **keywords** (Consent vs Extra) — skipped embeddings for folders
-- Chat-with-PDF RAG (Queries is statute Q&A only; Validation scores the upload)
-- Neo4j / Cypher at `/analyze` (engine uses in-process GraphIR + Qdrant; no Bolt)
+- Neo4j / Cypher is opt-in at `/analyze` via `POLARIS_ANALYZE_GRAPH_SOURCE=neo4j`; in-process GraphIR remains the default
 - `applies_if` / NOT_APPLICABLE (child-under-18, DPO, consent manager)
 - LLM rewrite of retrieval text
-- Pluggable jurisdictions beyond India website-privacy MVP
+- Additional jurisdiction catalogs are configured through `POLARIS_JURISDICTIONS_JSON`; India remains the built-in default
 - Durable reports store (optional `POLARIS_REPORT_DIR` JSON files only; no SQLite)
 - Cloud chat (local Ollama only; compact report JSON stays on the machine)
 

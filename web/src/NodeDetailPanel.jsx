@@ -117,6 +117,10 @@ export default function NodeDetailPanel({ selected, analysis, onClose }) {
                 {obligation.evidence_quality.replace(/_/g, " ")}
               </Field>
             ) : null}
+            <div className="nd-fields-grid nd-comparison-fields">
+              <Field label="Jev / Engine">{obligation.jev_status || obligation.status}</Field>
+              <Field label="Qwen comparison">{obligation.qwen_status || "Not configured"}</Field>
+            </div>
             {obligation.matched_clauses?.length ? (
               <div className="nd-matched-clauses">
                 <span className="nd-reason-label">

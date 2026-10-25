@@ -4,25 +4,25 @@ overview: "Remedy.md is mostly right about Fail_Policy (QuickBazaar): keyword el
 todos:
   - id: p0-element-polarity
     content: Restrict element hits to credited clauses; ignore denial-polarity keyword hits
-    status: in_progress
+    status: completed
   - id: p0-counter-evidence
     content: Scan all clauses for contradiction_cues; never COVERED if a material cue hits
-    status: pending
+    status: completed
   - id: p0-cues-json
     content: Add QuickBazaar contradiction_cues on withdrawal, erasure, grievance, children, waiver, sale, transfers
-    status: pending
+    status: completed
   - id: p0-arithmetic
     content: Reconcile applicable mix vs total and catalog 63; scoreboard includes violations + both denominators
-    status: pending
+    status: completed
   - id: p0-tests
     content: Classify/matching/report tests + keep PASS BharatPay gold
-    status: pending
+    status: completed
   - id: p1-evidence-ui
     content: Element supported/contradicted/absent; full evidence + counter-evidence in Findings; violation-first strip
-    status: pending
+    status: completed
   - id: p1-fail-gold
     content: Expand gold_fail / FAIL_TEXTS to QuickBazaar must-violation ids; optional live Fail_Policy.pdf
-    status: pending
+    status: completed
   - id: later-8plus
     content: "Later: source registry, entailment, F1 0.85 — out of this plan"
     status: pending
