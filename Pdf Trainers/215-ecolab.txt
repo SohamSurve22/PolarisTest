@@ -1,0 +1,179 @@
+# Privacy Policy
+
+## Last updated: December 2025
+
+Ecolab Inc. provides this Privacy Policy to help you understand how we collect, use, share, disclose and safeguard your personal information that we collect and process when you engage with us, including through on-site activities, our website and through the products and services we provide to our customers (collectively “Sites and Service(s)”). The Privacy Policy also tells you about your rights and choices with respect to your personal information and how you can reach us to get answers to questions that you may have about our privacy practices. This Privacy Policy applies to our Sites and Services that display or reference this Privacy Policy, but it does not apply to any Sites or Services that display or reference a different privacy policy.
+
+## What Personal Information Do We Collect About You?
+
+Personal information (also commonly known as personally identifiable information (PII) or personal data) is information that can be used to identify you, or any other individual to whom the information may relate.
+
+The personal information that we collect directly from those accessing the Sites and Services include the following categories:
+
+- Name and contact information (e.g. address; phone number; email, fax);
+
+- Account information (e.g. login credentials – username, password);
+
+- Order Information (e.g. current order/purchase information, purchase history, shipping details);
+
+- Certain cookies or tracking technologies that may be considered personal information or personal data under applicable law. More information is available in the Cookie Policy;
+
+- Audio and visual information (e.g. CCTV recordings when you visit one of Ecolab’s offices, or call recordings when you contact our customer support team);
+
+- Inferences we generate about you or derive from any of the information we collect that relate to your preferences.
+
+## How Does Ecolab Use Personal Information?
+
+Subject to the terms of this Privacy Policy, Ecolab uses the above-described categories of personal information in several ways. Unless otherwise stated specifically, the above information may be used for any of the following purposes:
+
+- to administer the Sites and Services provided or made available to you;
+
+- to process transactions with customers or vendors;
+
+- to respond to your requests or inquiries;
+
+- to distribute communications relevant to your use of the Sites or Services, such as system updates or information about your use of the Sites and Services;
+
+- as may be necessary to support the operation of the Sites and Services, such as for billing, account maintenance, and record-keeping purposes;
+
+- to send to you Ecolab solicitations, product announcements, and the like that we feel may be of interest to you (you may “opt out” of receiving these marketing materials);
+
+- to notify you about changes to this Privacy Policy;
+
+- to allow you to participate in surveys or provide testimonials;
+
+- to carry out Ecolab’s obligations and enforce rights arising from any contracts between you and Ecolab or arising from applicable laws and regulations;
+
+- for safety and security purposes, including to investigate, detect and deter activity that we, in our reasonable discretion, suspect or determine to be fraudulent, illegal or otherwise inappropriate; and
+
+- to provide interest-based advertising about products and services tailored to your interests. You can manage the use of cookies and similar technologies when you visit our website by clicking on the link at the footer of our home page.
+
+## What Are the Sources of Personal Information Collected by Ecolab?
+
+Ecolab collects personal information from you through our Sites and Services and as described in the Cookie Notice or below. Please note that, while this Privacy Policy applies across all websites, the applicability of cookies and the affiliated cookie notice may vary if you are on certain websites outside of www.ecolab.com.
+
+In certain limited circumstances, our service providers may collect information on behalf of Ecolab, though such collection will always be within the context of the Sites and Services. As described in the Cookie Policy, Ecolab may also automatically collect certain information that is considered personal information. In particular, we may collect personal information through the following additional channels: (i) Our own cookies on our website; (ii) Third party cookies on our website; (iii) Social media networks; (iv) Third party software applications; and (v) CCTV on our physical premises.
+
+## How Does Ecolab Disclose Your Personal Information?
+
+We may disclose any of the described categories of personal information to Ecolab employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on our behalf in order to provide the Sites or Services to you. In such circumstances, we require that these parties agree to protect the confidentiality of such information consistent with the terms of this Privacy Policy. Disclosures of personal information may include:
+
+- Our affiliates and related companies.
+
+- Service Providers who help us administer our website, assist or support our business operations, provide technical support and information technology and security programs, process payments, assist in the management and fulfillment of orders, assist with fraud prevention, detection and mitigations, and provide marketing and data analytics services.
+
+- Government agencies or other parties in response to legal process or other requests, where permitted by law.
+
+- With other persons or third parties with whom you have requested that we share information.
+
+- Third Party advertising vendors who support our advertising and marketing efforts including for purposes of behavioral advertising.
+
+- In the event of a potential business transaction, such as merger, sale of assets, financing or acquisition.
+
+- To an appropriate legal authority in connection with any legal process to comply with relevant laws, or to respond to requests from public and government authorities.
+
+- To law enforcement or other parties who assist us with investigating or defending a legal claim or take actions regarding possible illegal activities, suspected fraud, safety of person or property or violation of our policies or to protect our operations.
+
+## Third Party Service Providers
+
+Ecolab uses third-party service providers to assist in hosting or otherwise acting as data processors, to provide software and content for our sites and to provide other services. In particular, YouTube, a subsidiary of Google, enables certain interactive content on Ecolab’s website. When you engage with YouTube API-enabled interactive content on ecolab.com, you are agreeing to be bound by the YouTube Terms of Service and the Google Privacy & Terms.
+
+## How Long Does Ecolab Retain Your Personal Information?
+
+Ecolab will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use personal information to the extent necessary to comply with our legal obligations, resolve disputes and enforce our legal agreements and policies. To determine the appropriate retention period for your personal information, we will consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we use your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+## International Data Transfer
+
+If you are located outside the United States, in particular if you are located in Canada, Brazil, the European Union (“EU”), the European Economic Area (“EEA”), New Zealand, the Republic of South Africa, Switzerland, the United Kingdom, or other countries with similar data privacy laws, please note that we and our servers are located in the United States. Any information that you provide to us may be transferred to and processed in the United States or other countries around the world where we do business. By engaging with and providing personal information and other data that Ecolab may legitimately collect, process, use or transfer in connection with your relationship with Ecolab, you unambiguously consent to your information being collected, processed, used, and transferred as disclosed herein. See the links for Additional Information for residents of the EU, EEA, or UK, and Additional Jurisdiction Specific Information on this site.
+
+## Data Privacy Framework Program
+
+If you are located in Europe, Ecolab and its affiliates comply with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce (collectively, the “DPF Program”). Please see further below for a list of these affilliates.
+
+Ecolab has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) when processing personal information received from the EU and UK. Ecolab has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles,” together with “EU-U.S. DPF Principles” are referred to as “Principles”) when processing personal information received from Switzerland. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles (including the UK Extension) and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/. To view the complete list of participating organizations, please visit https://www.dataprivacyframework.gov/s/participant-search.
+
+Ecolab has committed itself to the Principles as reflected in this Privacy Policy. You can find information relevant to the DPF Program throughout this Privacy Policy, including, but not limited to: (i) the types of personal information collected by Ecolab; (ii) the purpose of processing personal information; (iii) the rights you may have with regard to your personal information based on the jurisdiction in which you live; (iv) a method of contacting Ecolab and exercising those rights; (v) the third parties to which your personal information may be disclosed; and (vi) your choices with regard to your personal information and how you can exercise those choices with Ecolab. Under certain circumstances, Ecolab may remain liable for the acts of certain third parties if those third parties process PI originating from the EU, the UK, Gibraltar and/or Switzerland that Ecolab discloses to them in a manner that is inconsistent with the Principles.
+
+If you are a European data subject, you have the right to access your European personal information subject to certain limitations, such as where the legitimate rights of other persons would be infringed or where the burden or the expense of providing access would be disproportionate. You also have the right to exercise choice (opt-out) from our use of your European personal information for direct marketing purposes, as well as limit the use and disclosure of such European personal information, including with respect to disclosures to third parties, and using European personal information for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. To exercise this right, please contact us using the information in the "Contact Us" section below.
+
+If you have any inquiries or complaints about our handling of your personal information under the DPF, please contact us using the information in the "Contact Us" section below. If you still have a specific privacy concern that has not been resolved after attempting to address your privacy question or concern with Ecolab directly, Ecolab has committed to working with the panel established by the EU Data Protection Authorities (DPAs), the UK Information Commissioner’s Office (ICO), the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal information received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. As described in the DPF Program, individuals may have the option to select binding arbitration for the resolution of your complaint with respect to personal information originating in the EU, the UK, Gibraltar or Switzerland. Please visit the DPF Program website linked above for the most up-to-date information.
+
+Ecolab is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission for purposes of enforcing compliance with the DPF. Additionally, under limited circumstances, public authorities in the U.S., including but not limited to, the U.S. Federal Government, may make lawful requests of Ecolab to obtain certain personal information with which Ecolab must comply.
+
+The following U.S. Ecolab affiliates also adhere to the DPF principles:
+
+- Abednego Environmental Services, LLC
+
+- Chemlink Laboratories, LLC
+
+- Ecolab (Guam) LLC
+
+- Ecolab Manufacturing Inc.
+
+- Ecolab Production LLC
+
+- Ecolab USA Inc.
+
+- Flottec, LLC
+
+- Nalco Company LLC
+
+- Nalco Contract Operations, LLC
+
+- Nalco Industrial Outsourcing Company
+
+- Nalco Production LLC
+
+- Nalco US 1 LLC
+
+- Nalco Wastewater Contract Operations LLC
+
+- Pest Management LLC
+
+- Purolite LLC
+
+- Quantum Technical Services, LLC
+
+- Wabasha Leasing LLC
+
+## Job Applicants, Residents of the EU, EEA and UK, and Residents of California
+
+- Job applicants please see the link on this site to our Global Job Applicant Privacy Policy
+
+- EU, EEA, and UK Residents, please see the link on this site to the Additional Information for EU, EEA, and UK Residents
+
+- California Residents please see the link on this site to the Additional Information for California Residents
+
+- EVD App users please see the link on site to the EVD App Notice
+
+## Opt-Out Preference Signals
+
+The Sites and Services associated with www.ecolab.com recognize the Global Privacy Control (“GPC”) signal. Please note that, while this Privacy Policy applies across all websites, the applicability of cookies and the affiliated cookie Policy may vary if you are on certain websites outside of www.ecolab.com.
+
+If you are using a browser setting or plug-in that sends an opt-out preference signal to each website you visit, we will treat that as a valid request to opt out. To download and use a browser supporting the GPC browser signal, click here: https://globalprivacycontrol.org. If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.
+
+Some internet browsers incorporate a “Do Not Track” feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the “Do Not Track” signal, the Site does not currently interpret, respond to or alter its practices when it receives “Do Not Track” signals.
+
+## Information Security and User Responsibility
+
+We employ industry-standard security measures designed to protect the security of all information submitted through the Sites and Services. However, the security of information transmitted through the internet or via a mobile device can never be guaranteed. We are not responsible for any interception or interruption of any communications through the internet or for changes or unauthorized access to or losses or unauthorized use of data.
+
+Users of the Sites and Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of the Sites and Services. In order to protect you and your information, we may suspend your use of any of the Sites and Services, without Policy, pending an investigation, if any breach of security is suspected.
+
+## External Links
+
+The Sites and Services may contain links to other websites maintained by third parties. Please be aware that we exercise no control over linked sites and Ecolab is not responsible for the privacy practices or the content of such sites. Each linked site maintains its own independent privacy and data collection policies and procedures, and you are encouraged to view the privacy policies of these other sites before providing any personal information.
+
+You hereby acknowledge and agree that Ecolab is not responsible for the privacy practices, data collection policies and procedures, or the content of such third-party sites, and you hereby release Ecolab from any and all claims arising out of or related to the privacy practices, data collection policies and procedures, and/or the content of such third-party sites.
+
+## Children's Privacy
+
+The Sites and Services are not intended for children under the age of 18, and Ecolab does not knowingly collect the personal information of children under the age of 18.
+
+## Changes to This Privacy Notice
+
+Ecolab reserves the right to modify this Privacy Notice from time to time in order that it accurately reflects the regulatory environment and our data collection principles. When material changes are made to this Privacy Notice, Ecolab will post the revised Privacy Notice on our website. This Privacy Notice was last modified as of December 2025.
+
+## Contact Us
+
+If you have any questions or comments about this Privacy Notice or the Sites and Services provided by Ecolab, please contact us at 844-880-8355 or dataprivacy@ecolab.com.

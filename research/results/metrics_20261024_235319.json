@@ -1,0 +1,86 @@
+{
+  "baseline": {
+    "confusion_matrix": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 1,
+      "fn": 1
+    },
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.5,
+    "element_precision": 0.0,
+    "element_recall": 0.0,
+    "element_f1": 0.0,
+    "macro_f1": 0.0,
+    "false_covered_count": 0,
+    "false_covered_rate": 0.0,
+    "false_negative_rate": 1.0,
+    "coverage_uncertainty_rate": 0.0,
+    "total_cases": 2
+  },
+  "element_decomp": {
+    "confusion_matrix": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 1,
+      "fn": 1
+    },
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.5,
+    "element_precision": 0.0,
+    "element_recall": 0.0,
+    "element_f1": 0.0,
+    "macro_f1": 0.0,
+    "false_covered_count": 0,
+    "false_covered_rate": 0.0,
+    "false_negative_rate": 1.0,
+    "coverage_uncertainty_rate": 0.0,
+    "total_cases": 2
+  },
+  "polarity_aware": {
+    "confusion_matrix": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 1,
+      "fn": 1
+    },
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.5,
+    "element_precision": 0.0,
+    "element_recall": 0.0,
+    "element_f1": 0.0,
+    "macro_f1": 0.0,
+    "false_covered_count": 0,
+    "false_covered_rate": 0.0,
+    "false_negative_rate": 1.0,
+    "coverage_uncertainty_rate": 0.0,
+    "total_cases": 2
+  },
+  "combined": {
+    "confusion_matrix": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 1,
+      "fn": 1
+    },
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.5,
+    "element_precision": 0.0,
+    "element_recall": 0.0,
+    "element_f1": 0.0,
+    "macro_f1": 0.0,
+    "false_covered_count": 0,
+    "false_covered_rate": 0.0,
+    "false_negative_rate": 1.0,
+    "coverage_uncertainty_rate": 0.0,
+    "total_cases": 2
+  }
+}

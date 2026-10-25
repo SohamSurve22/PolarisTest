@@ -1,0 +1,428 @@
+### Our Commitment to Privacy
+
+Your privacy is important to us and Union Pacific is committed to maintaining your confidence and trust. For that reason, we have established this Privacy Policy. To make our policy easy to find, we make it accessible from every page of our site.
+
+Any personal information provided by customers/visitors to the Union Pacific website is used for internal purposes only. Union Pacific does not plan to sell or lease any personal information, customer listings, or aggregate data gathered through the Union Pacific site to any outside party. Nor does Union Pacific plan to divulge personal information or customer information gathered through its website to anyone but Union Pacific, its affiliates, and suppliers/service providers assisting Union Pacific.
+
+### Information Collected and How We Use It
+
+In general, you can visit our website without telling us who you are, or revealing personal information about yourself. However, customers and other users can, if they choose, participate in additional secured applications. Additionally, Union Pacific may use cookies, tracking pixels, and IP addresses to collect information regarding use of Union Pacific websites.
+
+We collect the following information about visitors:
+
+Personal and company information, which you have voluntarily submitted to us (such as name, address, telephone number, email address, social security numbers, credit card numbers, or credit information) to register for secure applications such as MyUPRR, the Bidder's List registration, the up.jobs site, or through email or other communication with our offices. We may, from time to time, send information to registered users about system changes or new applications that we think may be of interest. Social Security Numbers submitted to us as part of an employment application are transmitted in an encrypted format. This information is not used outside of Union Pacific for any purpose other than that for which it was originally intended.
+
+Aggregate information, or automatically collected non-identifying statistics (such as information about how many visitors log on to our sites, the pages they access, etc.).
+
+Our web servers collect the IP addresses of visitors, but not the email addresses. Additionally, Union Pacific may use cookie and tracking pixels, as described below.
+
+Why Union Pacific Uses your Information
+
+We use your information to complete business transactions, to enhance our services, to better meet the needs and preferences of our customers and other visitors, and to enhance the security of our online and digital properties.
+
+Union Pacific stores your information for as long as necessary to provide our services to individuals, to manage our business operations, and in accordance with our records retention schedule. Once no longer required, your personal information will be anonymized or destroyed.
+
+### Cookies & Tracking Pixels
+
+A cookie is a very small text file that a Web page server sends to your hard drive, in response to your browser's request for a Web page. The purpose of the cookie is to help a website server recognize a user. Sites with secured information use cookies to help recognize User IDs, or on our site, to help users navigate between secured and unsecured information. Cookies also help website managers track which information on their site is most useful and most often accessed, and which pages are seldom visited. The cookie for our site, recognizable only to our server, simply helps to identify you and tell us which information you wish to read, and which you don't. To the extent permitted by your browser, you may opt out of cookie tracking.
+
+Union Pacific also collects information related to the effectiveness of our digital advertisements. Specifically, Union Pacific works with third-party companies that use tracking technologies (tracking pixels) on our website in order to serve interest-based ads on our behalf across the internet. These companies may collect information about your activity on our sites and your interaction with our advertising and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit http://www.aboutads.info.
+
+### Do Not Track Policy
+
+Do Not Track is a privacy preference that users may set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: www.allaboutdnt.org.
+
+### Registered User Access
+
+Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's Website Security Policy.
+
+### Links to Other Sites
+
+Union Pacific provides links to its parent company, the Union Pacific Corporation, as well as its subsidiaries. We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its website, or the products and services it promotes or sells. When you leave the Union Pacific site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UP.com (the "refer address").
+
+Union Pacific is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
+
+### Data Security
+
+Union Pacific is committed to online data security, and for that reason we take steps to make all information received from you as secure as reasonably possible from unauthorized access and use.
+
+We are committed to protecting your information, but you can do your part. You should create a strong password and protect against unauthorized access to your password and your computer. Union Pacific policy prohibits the sharing of User IDs or passwords. While we try, we cannot guarantee the security of any information you provide to us, and by using our digital properties you acknowledge that you do so at your own risk.
+
+If Union Pacific becomes aware of a compromised user account or email, we will use our best efforts to notify impacted users of the situation, so that the account holders can update their security.
+
+### Changing or Correcting Your Information
+
+Registered users of MyUPRR can access the personally identifiable information that we collect online and maintain, by clicking on the Customer link under "My Profile" at MyUPRR. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making changes.
+
+Inquiries submitted via "Feedback," sent via email, or sent using the Webmaster link, are processed and responded to as soon as possible. If there is a need to access or update a past email, please direct inquiries to the webmaster@up.com.
+
+Applicants who wish to amend information submitted with a job application, or Suppliers needing to change Bidder's Registration information, may direct inquiries to the webmaster@up.com.
+
+### Children's Privacy
+
+While we do not direct any of the information on our site specifically to children, we are very proud of our History pages and the information they provide for students and railfans alike. We believe that protecting the privacy of the very young is especially important, and for that reason it is our intention to never collect or maintain information from children on our website.
+
+### Nevada Residents
+
+For Nevada residents: Although we do not currently sell, as that term has been defined by the laws of the State of Nevada, your personal information, and may share with third parties who are facilitating the delivery of UP services and products or for other legitimate business purposes, if you would like to opt-out of any future sale of your information in the unlikely event we change our practices you can do so by contacting us at: opt-out@up.com.
+
+Your request must include your full name, street address, city, state, zip code, and an email address so that we can contact you if needed regarding this request.
+
+### Notice To California Residents
+
+This notice supplements Union Pacific’s privacy policy and applies only to California residents. This California privacy notice is intended to set forth the disclosures and rights for California consumers concerning their personal information, as required by the California Consumer Privacy Act (“CCPA”), as amended by the California Privacy Rights Act of 2020 (“CPRA”). Terms used in this notice have the same meanings provided in the CCPA, or by the California Attorney General, unless otherwise defined.
+
+##### What Personal Information We Collect:
+
+When you create an account, purchase services, transact business, submit a query, or engage in other interactions with us, we may collect a variety of information, including your name, mailing address, phone number, email address, preferences, IP address, the use of our systems and websites, location information, and profile information. The categories of personal information collected in the last 12 months are included in more detail in the chart below.
+
+##### How We Use Personal Information
+
+Union Pacific may process your personal information for the purposes described in this Privacy Policy (including in the chart below), with your consent, for compliance with a legal obligation, or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Union Pacific or a third party to whom it may be necessary to disclose information. Examples include:
+
+- Provide you access to our systems, which include updating, securing, and troubleshooting, as well as providing support. It also includes sharing personal information, when it is required to provide the service or carry out the transactions you request.
+
+- Improve and develop our systems.
+
+- Personalize our systems and make recommendations.
+
+- If you apply for a position at Union Pacific or we receive your information in connection with a potential employment relationship, we may use your information to evaluate your candidacy and to contact you.
+
+We also use the personal information we collect to operate our business, which includes analyzing our performance, meeting our obligations, developing our workforce, and doing research and development.
+
+We may use the Personal Information we collect to investigate or address claims or disputes relating to Union Pacific, or as otherwise allowed by applicable law, or as requested by regulators, government entities, and official inquiries. We retain personal information only for as long as is reasonably necessary (in accordance with applicable legal and internal retention schedules) for the purposes described herein.
+
+We will not use your personal information for purposes materially different than the purposes described in this Privacy Policy, or in ways we reasonably believe would be unexpected to you, without first informing you and obtaining your consent where necessary. We attempt to minimize the amount of data collected, as necessary.
+
+##### Disclosure to Third Parties
+
+We share data personal information with Union Pacific-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to maintain the security of our systems; and to protect the rights and property of Union Pacific and its customers. This may include sharing personal information with law enforcement officials, public health officials, other government authorities, or other third parties as necessary to enforce our agreements or other policies; to protect Union Pacific’s rights or property or the rights, safety, or property of others; or in the event of a claim or dispute relating to the use of our services. When we do disclose personal information to third parties, we require those third parties to handle such information in accordance with relevant laws and industry best practices.
+
+The table below reflects our personal information collection and sharing practices in the preceding 12 months.
+
+| Category of Personal Information Collected
+| Categories of Sources from which the Information was Collected
+| Business or Commercial Purpose(s) for which Information is Collected
+| Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose
+
+| Identifiers
+| We may collect this type of information from:
+
+- You,
+
+- Cookies and Tracking Technologies,
+
+- Third-party Service Providers,
+
+- Third-party social media companies,
+
+- Third-party business partners,
+
+- Third-party data resellers.
+- Allow you to participate in features we offer or to provide related customer service
+
+- Recognize you across the Union Pacific platforms and across devices.
+
+- Investigate and prevent fraudulent transactions and other illegal activities or activities that violate Union Pacific policies.
+
+- To comply with a legal obligation, such as respond to subpoenas or other legal processes.
+
+- Contact you with regard to a legal obligation.
+
+| We may disclose this type of information to:
+
+- Third-party service providers; or
+
+- Other third parties (including government agencies) as required by law (such as pursuant to subpoenas or court orders.
+
+| Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+
+- You.
+- Allow you to participate in features we offer or to provide related customer services.
+
+- Recognize you across the Union Pacific platforms and across devices.
+
+- Provide you with information, products, or services that you have requested.
+
+- Investigate and prevent fraudulent transactions and other illegal activities or activities that violate Union Pacific policies.
+
+- Contact you with regard to a legal obligation.
+
+- Service providers, such as those who deliver our communications.
+
+- Third-party analytics companies.
+
+- Other third parties (including government agencies) as required by law (such as pursuant to subpoenas or court orders.
+
+| Commercial Information
+
+- You,
+
+- Third-Party service providers,
+
+- Third-party social media companies,
+
+- Third-party business partners.
+- Allow you to participate in features Union Pacific offers or to provide related customer services.
+
+- Investigate and prevent fraudulent transactions and other illegal activities or activities that violate Union Pacific policies.
+
+- Improve the Union Pacific platforms or our services and for internal business purposes.
+
+- Service providers who provide services on our behalf (including as needed to complete your transactions, to assist with our information technology and security programs, to assist with loss and fraud prevention, and to provide professional services to Union Pacific),
+
+- Other third parties (including government agencies) as required by law.
+
+| Internet or other similar network activity
+
+- Cookies and Tracking Technologies,
+
+- Third Party Service Providers.
+
+- Recognize you across the Union Pacific platforms and across devices.
+
+- Investigate and prevent fraudulent transactions and other illegal activities or activities that violate Union Pacific policies.
+
+- Improve Union Pacific platforms or our services and for internal business purposes.
+
+- Service providers who assist with our information technology and security programs, who assist with loss and fraud prevention, and who provide professional services to Union Pacific.
+
+| Geolocation data
+
+- Cookies and Tracking Technologies,
+
+- Third Party service providers.
+
+- Investigate and prevent fraudulent transactions and/or other activities that may violate our policies.
+
+- For legal compliance
+
+- Safety purposes
+
+- Service providers who assist with our information technology and security programs and who provide professional services to Union Pacific,
+
+| Professional or employment-related information.
+
+- You
+
+- Third Party service providers.
+
+| We may collect this data for employment and legal obligations.
+
+| Inferences drawn from any of the information identified above to create a profile about You
+
+- You,
+
+- Cookies and tracking technologies,
+
+- Third-Party Service Providers,
+
+- Third-party social media companies,
+
+- Third-party business partners,
+
+- Third-party data resellers.
+
+- Service providers, such as analytics companies.
+
+| Sensitive Personal Information
+
+- You,
+
+- Cookies and tracking technologies,
+
+- Third-Party Service Providers,
+
+- Third-party social media companies
+
+- Third-party business partners
+
+| Allow you to participate in features Union Pacific offers or to provide related customer services,
+
+- Investigate and prevent fraudulent transactions and/or other activities that may violate our policies.
+
+- For legal compliance.
+
+- Safety purposes.
+
+- Service providers, such as analytics companies.
+
+##### Exercising Your California Access, Deletion, And Do Not Sell Rights
+
+As a California Resident you may request that we disclose what personal information Union Pacific collects, uses, and discloses about you (the “Right to Know”), you may have the right to ask us to delete the personal information we collect about you (“Right to Delete”), you may have the right to ask us to correct inaccurate personal information we have collected about you (“Right to Correct”), and you may request that we limit use and disclosure of your sensitive personal information to that necessary for limited business purposes specified in the CCPA (“Right to Limit Use and Disclosure of Sensitive Personal Information”). These rights may be subject to certain exceptions as set forth in the CCPA. For example, we may deny a Right to Delete request when Union Pacific is required to retain your personal information to comply with our own legal obligations. When exercising your CCPA rights, Union Pacific will notify you of any exceptions or other reasons that require us to deny all or part of your request, unless prohibited from doing so by law.
+
+Union Pacific does not sell your personal information. However, as a California resident you may still make an opt-out request that Union Pacific not sell or share your personal information with third parties using the process described below.
+
+If your verifiable Request to Know includes a request to receive a copy of the specific pieces of personal information that we have collected about you in the last 12 months (or a specific subset of your information), we will seek to organize the personal information associated with you in file formats and categories that are easy to understand. We will contact you when the information is available to you.
+
+##### How to Submit a Privacy Request
+
+To exercise your individual rights set forth in this Privacy Policy, you can email Union Pacific at Privacy-Requests@up.com, call this toll-free number: 1-866-251-9185, or complete this intake form.
+
+Right to Know requests may be made up to two (2) times in a 12-month period. We will not charge a fee to process or respond to a verifiable request. However, we have the right to charge for or decline any unfounded, excessive, or repetitive requests, in such cases we will inform you of our decision and, if applicable, provide you with a cost estimate before completing your request.
+
+##### Making a Request to Opt-Out of Sales or Sharing of Personal Information With Third Parties
+
+Although we do not currently sell, as that term has been defined by applicable law, your personal information, if you would like to opt-out of any potential sale of your personal information, or would like to opt-out of sharing your with third parties (which does not include our permissible service providers or contractors), you can do so by submitting a request at Privacy-Requests@up.com or calling our toll-free number 1-866-251-9185.
+
+We do not target users younger than age 18 and, therefore, do not knowingly collect or sell personal information of minors younger than 16 years of age without affirmative authorization.
+
+##### Verifying Requests
+
+After submitting a request, we will take steps to verify your identity in order for us to properly respond and/or confirm that it is not a fraudulent request. In order to verify your identity, we will request, at a minimum, that you provide your name, email address, phone number, address, and relationship to UP, so that we can seek to match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate. If we are unable to verify that the consumer submitting the request is the same individual about whom we have collected personal information, we may contact you for more information, or we may not be able to meet your request.
+
+Only you, or someone legally authorized to act on your behalf, may make a verifiable request related to your personal information. You may designate an authorized agent to request any of the above rights on your behalf. You may make such a designation by providing the agent with written permission, signed by you, to act on your behalf. Your agent may contact us as set forth in this Policy to make a request on your behalf. Even if you choose to use an agent, as permitted by law, we may require verification of the agent’s authorization to act on your behalf, require you to confirm you have authorized the agent to act on your behalf, or require you to verify your own identity.
+
+##### Response Timing
+
+When you make a request to exercise your rights, we will typically provide our response within 45 days. We will notify you within that time period and provide an explanation if we need additional time (up to 90 days) to process your request. When you opt-out from the sale or sharing of your personal information with third parties, we will honor your request as soon as feasible, but no later than 15 days from the date we receive your request.
+
+##### Automated License Plate Recognition (“ALPR”) Usage and Privacy Policy
+
+Where allowed by law, Union Pacific may operate and use ALPR systems at certain of its intermodal facilities.
+
+These ALPR systems use cameras to capture images of vehicles and their license plates, along with the date, time, and general location, and, with the assistance of computer algorithms that read and convert this information, create searchable computerized databases. We use these ALPR systems and collect, access, and use ALPR information for security/safety, asset protection, and fraud prevention purposes, as well as to protect the rights and property of Union Pacific and others (each, an “Authorized Purpose” and together, the “Authorized Purposes”).
+
+Only authorized employees, contractors, and authorized vendors are permitted to use and access ALPR systems and collect ALPR information (“Authorized Personnel”), and solely for Authorized Purposes. All Authorized Personnel are required to keep confidential and limit appropriate collection, access, and use of ALPR systems and information.
+
+In order to ensure the security of ALPR information and compliance with applicable privacy laws, Union Pacific monitors its ALPR systems. In addition, Union Pacific maintains records of access to ALPR information, which includes the date and time of access, the data elements used to query the ALPR system, the identity of the person who accessed the information, and the Authorized Purpose(s) for such access. Union Pacific also may conduct periodic system audits.
+
+Union Pacific takes reasonable measures to ensure the accuracy of ALPR information and to correct any data errors that may exist. If any errors are identified, they are promptly corrected or removed.
+
+In no event will Union Pacific sell ALPR information to outside third parties. However, there may be limited circumstances in which we share or transfer ALPR information, including with: (i) affiliates and suppliers/service providers that assist Union Pacific, consistent with the Authorized Purposes listed above; (ii) law enforcement officials, public health officials, and other government authorities in order to comply with Union Pacific’s legal duties (e.g., in response to a warrant or other legal process), and/or to protect the rights, safety, or property of Union Pacific, its customers, and others; and (iii) other third parties, including legal advisors, to enforce our agreements and policies and protect our rights and property and the rights and property of others. When we do disclose ALPR information to third parties, we require outside parties that receive ALPR information from Union Pacific to handle such information in accordance with our contract terms (including applicable confidentiality obligations), relevant laws, and industry best practices, and prohibit them from selling this information or using it for any commercial purpose.
+
+Union Pacific will retain ALPR information for as long as necessary for the Authorized Purposes, and destroy ALPR information when we determine its retention is no longer necessary, unless we are required to retain the ALPR information to comply with legal processes or to satisfy other legal requirements.
+
+Union Pacific’s Chief Privacy Officer is the official custodian responsible for overseeing Union Pacific’s ALPR systems, ensuring compliance with this policy and applicable law, and coordinating with our technology and legal teams for periodic reviews.
+
+If you have questions about this ALPR Usage and Privacy Policy, Union Pacific will attempt to answer any questions and you may contact us by email at Privacy-Requests@up.com or mail us at:
+
+Chief Privacy Officer
+
+Union Pacific Railroad
+
+1400 Douglas Street, MS 1580
+
+Omaha, Nebraska 68179
+
+##### Additional Notice for Consumers in Connecticut, Colorado, Utah, and Virginia
+
+This part of our Privacy Statement applies to consumers who reside in the states of Connecticut, Colorado, Utah and Virginia.
+
+- Privacy Rights. Under applicable law, you may have the following rights, in each case under the conditions and to the extent set out in applicable law:
+
+- Right of Access: A right to confirm whether UP is processing personal information about you, and to request to access such personal information (including, if applicable, in a portable and readily usable format).
+
+- Right of Correction: A right to correct inaccuracies in certain personal information UP may hold about you; and
+
+- Right of Deletion: A right to request that UP delete personal information concerning you. Please note that if you have requested a service that requires the use of your personal information, we may not be able to provide that service if you choose to delete your personal information.
+
+If any of the above rights are available to you under applicable law, you can submit a request to exercise your rights by emailing UP at Privacy-Requests@up.com.
+
+If your rights request is denied, applicable law may give you a right to lodge an appeal with us. The response to your rights request will inform you of any appeal rights you may have, and tell you how you can exercise them.
+
+##### Notice for Consumers of Texas.
+
+This Texas notice uses certain terms that have the meaning given to them in the Texas Data Privacy and Security Act Notice of 2023.
+
+##### What Are the Categories of Personal Information Collected?
+
+We may collect or receive (and may have collected or received during the 12-month period prior to the Last Updated date of this Texas Notice) the categories of personal information listed below. Not all categories will be collected or received for every individual.
+
+- Identifiers: Personal identifiers, such as name, telephone number, physical address, email address, national identification numbers, driver’s license numbers, and signatures.
+
+- Device Information and Online Activity: Device and online identifiers, keystroke patterns indicative of human or bot website/app usage, mobile and web network activity and related information (such as Mac address, IP address, cookie IDs, browser activity, and other information associated with your browsing history), and social media information.
+
+- Commercial Information: Purchase and transaction history information (such as products or services you have purchased, rented, or returned), health and safety-related information, product testimonials, travel and vacation information, and competition entries.
+
+- Communications: Communication details (such as the content of emails, text messages, or other communications), call logs, and calendar information where Walmart is a party to the exchange.
+
+- Demographic Information: Demographic information, such as age (including information about children under the age of 13 with respect to certain purchases and services [e.g., tobacco purchases]), gender, citizenship, ethnicity, date of birth, family or marital status, household income, education, professional and employment information, family health, number of children, number of cars owned, and software or virtual assets owned.
+
+- Financial Information: Financial information, such as credit or debit card numbers, financial account numbers, and claims information.
+
+- Biometric Information: Biometric information, such as voice prints, imagery of the iris or retina, face geometry, and palm prints or fingerprints.
+
+- Geolocation: Location information, such as geolocation information.
+
+- Sensory Information: Audio, visual information, and other sensory information such as photographs and audio and video recordings.
+
+- Background Information: Background and criminal information, such as background checks and criminal convictions.
+
+- Inferences: Individual preferences and characteristics, such as inferences related to shopping patterns and behaviors, intelligence, and aptitudes.
+
+- Sensitive Personal Information: Personal data that reveals an individual's racial or ethnic origin, religious beliefs, mental or physical health diagnosis, sexuality or citizenship or immigration status; genetic or biometric data that is processed for the purpose of uniquely identifying an individual; personal data collected from a known child; and precise geolocation.
+
+##### What Are the Purposes for Collecting Personal Information?
+
+We may use your personal information for the purposes described in the How We Use Personal Information section above and as provided below:
+
+- Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytics services, providing storage, or providing similar services.
+
+- Providing advertising and marketing services.
+
+- To conduct auditing and monitoring of transactions and engagement, including auditing related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance.
+
+- Short-term, transient use, such as non-personalized advertising shown as part of your current interaction with us.
+
+- Helping to ensure security and integrity and prevent fraud.
+
+- Undertaking activities to verify or maintain the quality or safety of our services or devices and to improve, upgrade, or enhance them.
+
+- Debugging to identify and repair errors.
+
+- To conduct business analysis, such as analytics, projections, identifying areas for operational improvement.
+
+- To conduct research and development, including undertaking internal research for technological development and demonstration.
+
+- To fulfill our legal function or obligations.
+
+We use sensitive personal information for each of the purposes described above and to make inferences about consumers, which we may use to promote certain products or services. Walmart does not process sensitive personal information without consent.
+
+To the extent we process deidentified information, we will maintain and use the information in deidentified form and will not attempt to reidentify the information unless permitted by applicable law.
+
+##### Sharing of Personal Information
+
+We may share personal information with third parties for various purposes as described above in the Disclosure to Third Parties section.
+
+##### How Can You Exercise Your Texas Privacy Rights?
+
+If you are a Texas resident, you can make certain requests regarding your personal information, and we will fulfill each request to the extent required by law. If we are unable to comply with your request in whole or in part, we will notify you with reasons for the denial.
+
+Texas residents can exercise the following rights by Privacy-Requests@up.com or calling our toll-free number 1-866-251-9185:
+
+- Request to Access My Personal Information
+
+- Correct My Personal Information
+
+- Delete My Personal Information
+
+- Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+
+- Opt Out of the Sale of My Personal Information
+
+##### Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+Union Pacific will not discriminate against you for exercising your Privacy rights, including in terms of the price or services that we offer.
+
+##### Questions
+
+If you have any questions or concerns about Union Pacific’s Privacy Policy that are not requests, Union Pacific will attempt to answer any questions and you may contact us by email at Privacy-Requests@up.com or mail us at:
+
+Chief Privacy Officer
+
+Union Pacific Railroad
+
+1400 Douglas Street, MS 1580
+
+Omaha, Nebraska 68179
+
+##### Disability Accessibility
+
+If you are a user with a disability, or an individual assisting a user with a disability, and have difficulty accessing or navigating our digital channels – including this Privacy Policy – please contact us at Privacy-Requests@up.com and we would be happy to assist.
+
+##### Updates to this Privacy Policy
+
+We may occasionally update this notice. We will temporarily post a notification to our customers and our public-facing websites when this privacy policy has material revisions. We also encourage users to periodically review this policy for the latest information on our privacy practices. After such notice, use of our services by users in countries outside the European Union will be understood as consent to the updates to the permitted by law.
+
+Last Updated: May 20, 2026

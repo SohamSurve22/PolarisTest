@@ -1,0 +1,15 @@
+{
+  "run_id": "20261025_173805",
+  "timestamp": "2026-10-25T17:38:05.646298",
+  "git_commit": "ceaf61030a0f5b8dfe57ab2f272f68d5dd902145",
+  "dataset_path": "research\\datasets\\cases.jsonl",
+  "split": "test",
+  "num_cases": 9,
+  "configs": [
+    "baseline",
+    "element_decomp",
+    "polarity_aware",
+    "combined"
+  ],
+  "pipeline_integration": "keyword-stub (no Qdrant)"
+}

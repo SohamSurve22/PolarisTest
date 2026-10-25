@@ -1,0 +1,203 @@
+Search
+
+# Privacy Policy
+
+This privacy policy describes the personal information that Halliburton Energy Services, Inc., and its affiliates (“Halliburton,” “we,” “our,” “us”) collect about you, why we collect it, how we use it, and when we let others use it. This privacy policy also describes the choices you can make about how we collect and use your personal information.
+
+Halliburton generally collects and uses personal information in a business-to-business context (for example, when you interact with us on behalf of your employer, customer, supplier, or other organization) and in connection with our own recruiting and hiring (job applicants). This privacy policy applies to all personal information we collect or process about you through this website and other websites we operate, through applications or other software we develop or use for business purposes, through any other means where a link or reference to this privacy policy is provided, and in other interactions we have with you, including offline. We may display links to websites and content not affiliated with Halliburton. When you follow those links or view such content, this privacy policy will not apply. We are not responsible for the privacy practices of linked websites or content providers that we do not control.
+
+## Personal Information We Collect
+
+We collect personal information when you engage with us. Personal information is any piece of information that can identify you. Some personal information may identify you directly, such as your full name or mobile phone number. Some information, such as your date of birth or first name, may only identify you when combined with other information about you. The exact type of personal information we collect will depend on how you interact with us.
+
+Below are examples of categories of information we may collect:
+
+- Basic personal information and contact information (e.g., name, phone number, e-mail address, mailing address)
+
+- Account information (e.g., username and password) and internet activity records related to authentication and security (e.g., login and access timestamps, device identifiers, and activity logs)
+
+- Commercial and financial information (e.g., records of products or services purchased, obtained, or considered, transaction history, payment card number)
+
+- Communications and marketing (e.g., when you submit questions or comments, select e-mail marketing communication preferences, indicate areas of interests, subscribe to newsletters, or participate in surveys, forums, or webinars)
+
+- Audio or visual information (e.g., photographs, video recordings of company events, CCTV for certain locations)
+
+- Internet activity records (e.g., browsing history, information about your interaction with our website or advertisements)
+
+- Professional or employment-related information or other background information (e.g., education, experience, qualifications, current employer, work location, job title, and primary job responsibilities)
+
+- Location information (e.g., when you use a company mobile application that uses location tracking for purposes of managing our business operations, operate a company vehicle equipped with an in-vehicle monitoring system, or attend an event we hold that utilizes attendance tracking technology)
+
+### Job Applicants
+
+If you apply for a job with us, we may collect and use additional applicant-related personal information about you, such as your resume/CV information, education and certifications, other qualifications, references (where provided), work authorization or eligibility information, and other information you give us during the recruiting process. We use this information to assess your application, communicate with you about opportunities, conduct interviews and related scheduling, perform background checks where permitted and appropriate, and comply with applicable legal requirements.
+
+### Sensitive Personal Information
+
+We may be required to collect sensitive personal information to comply with applicable laws and regulations (for example, nationality to conduct sanctions checks). Depending on your interaction with us (including as a job applicant) and where permitted by law, sensitive personal information may also include certain government-issued identification numbers, background-check related information, or other information subject to heightened protections. Processing of sensitive personal information will be limited to the purpose for which it was collected.
+
+### Information Collected Using Cookies and Tracking Technologies
+
+We use cookies and other tracking technologies to collect information from visitors to or users of our website or applications. Cookies and other tracking technologies may be used in both our public-facing websites and authenticated applications, including to support core functionality (such as maintaining sessions and security features) and to understand performance and usage. Cookie choices and controls may vary depending on the specific site or application and how it is configured. The personal information collected this way may include device identifiers, browser characteristics, operating system details, internet service provider details, language preferences, referring URLs, time and length of visits, and pages viewed. We or other parties may collect personal information about your online activities over time and across different devices when you use our website.
+
+Cookies are small data files stored by your web browser. Cookies may allow a website to recognize a user’s device, record user preferences, track the pages a user clicks on while visiting a website, and identify the referring website. Most web browsers accept cookies by default, but you may be able to adjust your browser settings to remove or reject cookies. Your web browser may have settings that allow you to transmit a Do Not Track signal when you visit various websites or use online services. Like many websites, our website does not recognize Do Not Track signals received from browsers. Please note that blocking cookies may affect the availability and functionality of our website.
+
+We use third-party web analytics services, primarily certain Adobe Analytics and Google Analytics services, to help us understand and analyze how visitors use our website. For example, these cookies help us measure the performance of our website and understand the interests of visitors to our website. Data collected by third-party cookies will often be transmitted to the relevant cookie provider for processing on our behalf. We cannot control how other parties manage their opt-out processes. Please contact such third parties directly for information with questions about their privacy practices and opting out of data collection. For example, you can opt out of Google Analytics tracking through the Google Analytics Opt-Out Browser Add-On.
+
+### Personal Information Collected from Other Parties
+
+We may collect information from other parties, such as our vendors, business partners and affiliates, your employer, or other third parties. For example, depending on how you interact with us, we may receive personal information from identity and single sign-on providers (such as your employer or organization), recruiters and references (where you or others provide them in connection with an application), background check providers (where permitted and appropriate), and analytics and advertising technology providers that support our websites and applications. When you submit personal information to our vendors, you may be subject to their terms of use and privacy policies.
+
+## Use of Personal Information
+
+Halliburton processes personal information where we have a legitimate interest, contractual obligation, legal obligation and/or consent. Where applicable law provides you with privacy or data protection rights, we will respond to verified requests within the timeframes required by law (and may extend response times where permitted). We may use personal information we collect for various business and commercial purposes including:
+
+- verifying and authenticating your identity
+
+- facilitating and personalizing your user experience
+
+- managing our business operations
+
+- communicating with you, including to market our products and services and to respond to your requests or inquiries
+
+- registering for and participating in our events
+
+- monitoring and analyzing trends, usage, and activities of website visitors or application users
+
+- providing and improving our products and services
+
+- improving our website, events, and other online and offline experiences
+
+- recruiting and hiring
+
+- preventing, investigating, identifying, or taking any other action related to any suspected or actual fraudulent or illegal activity or activity that violates our policies, including through maintaining access, authentications, and audit logs for our systems
+
+- exercising our legal rights, conducting due diligence, and complying with applicable laws, regulations, or legal process as well as industry standards and our company policies
+
+- promoting the safety of our facilities, employees, and on-site visitors
+
+- monitoring and maintaining the security of our websites, applications, and systems
+
+- any other purpose to which you have consented or that is otherwise permitted by applicable law
+
+When you consent, you may withdraw your consent at any time by contacting us by email at dataprivacy@halliburton.com.
+
+## Sharing Personal Information
+
+We may share your personal information with our subsidiaries, affiliates, business partners, and vendors that provide services on our behalf.
+
+In the event of a business transaction, such as if we sell or transfer all or a portion of our business or assets (e.g., as part of a merger, reorganization, liquidation, or any other business transaction, including negotiations of such transactions), we may disclose any personal information we obtain.
+
+Additionally, we may disclose personal information when reasonably required by subpoena, search warrant, or other legal processes; in response to activities that are unlawful or a violation of our policies; or to protect and defend our rights or property or that of others.
+
+## Your Privacy Rights and Choices and How to Exercise Them
+
+### Correcting Personal Information
+
+You can ask us to update your personal information by sending us an email at dataprivacy@halliburton.com.
+
+### Opting Out of Marketing Communications
+
+If you do not wish to receive marketing emails from us, you can opt out of future marketing emails by following the instructions provided in our marketing emails or by emailing us at dataprivacy@halliburton.com. Opting out of marketing emails will not affect our administrative communications to you (for example, emails about your account).
+
+### Other Privacy Rights and Requests
+
+The laws in some states, countries, and regions – such as those in the European Economic Area, the United Kingdom, and California – may give you specific additional rights related to your personal information. Many U.S. state consumer privacy laws apply only to individuals acting in an individual or household context (and do not apply to information collected in a business-to-business or employment context). Depending on your location or residency, you may have the right to ask that we do one or more of the following:
+
+- give you more information about our use of your personal information
+
+- let you access the specific personal information we have about you
+
+- transfer a copy of your personal information to you or someone else you select
+
+- delete all or some of your personal information
+
+- limit or restrict our use of your personal information
+
+- allow you to object to, opt out of, or withdraw your consent to our use of your personal information
+
+- give you information about and object to our reasons for processing personal information
+
+Your privacy and data protection rights generally apply to personal information about you. These rights do not provide access to general business records, internal assessments, legal advice, or privileged communications. In addition, they do not require disclosure of information that would adversely affect the rights or freedoms of others, unless disclosure is required by law.
+
+Privacy rights requests can be submitted by sending us an email at dataprivacy@halliburton.com. Halliburton will not discriminate against you for exercising your lawful privacy rights.
+
+Privacy rights requests are generally subject to an identity verification process. Halliburton verifies identity by matching information you provide in your request with data Halliburton has in its systems. We may ask you for specific information to help us confirm your identity prior to processing your request. Please follow any instructions provided and promptly respond to any follow-up inquiries so we may confirm your identity and respond to your request. If you ask that we give you specific pieces of personal information or that we delete or correct certain types of personal information, we may apply heightened verification standards, which require additional proof of your identity.
+
+Only you, or someone you authorize to act for you, may make a request related to your personal information. If you designate an authorized agent to make a request for you, you may still need to verify your identity directly with us before your request can be processed.
+
+Please note we are not required to comply with your privacy rights requests to the extent that doing so would violate our or any other person’s rights, or conflict with applicable law. Halliburton may be permitted to deny your privacy rights request for other reasons in accordance with applicable law. If we refuse your privacy rights request, we will tell you why, unless we are not legally permitted to do so.
+
+If you have questions about how we use personal information or want to submit a complaint, you may send us an email at dataprivacy@halliburton.com. We will do our best to address and resolve your questions or concerns. You also may submit a complaint to your local privacy or data protection regulator.
+
+## Children's Privacy
+
+We do not knowingly request or collect personal information from anyone under the age of 18. If we become aware that we have obtained personal information from someone under age 18 we will delete such information in accordance with applicable law.
+
+## Security and Your Personal Information
+
+We use industry-standard physical, technical, contractual, and operational safeguards to help protect the security and privacy of your personal information. We recognize that no data security measures can guarantee complete security. We encourage you to take appropriate steps to safeguard personal information you provide to us.
+
+## How Long Do We Keep Your Personal Information
+
+We keep your personal information for as long as necessary for the purposes described in this privacy policy or as otherwise authorized or required by law. This generally means keeping your personal information as long as it is reasonably necessary or required to:
+
+- manage our business operations or your relationship with us
+
+- achieve the purposes for which we collected the information
+
+- carry out activities that are compatible with a disclosed purpose for which the personal information was collected
+
+- protect or defend our rights or property or that of others
+
+- comply with our retention policies
+
+- comply with applicable laws or regulations
+
+Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. For more information about our retention policies, you may contact us at dataprivacy@halliburton.com.
+
+## International Data Transfers
+
+Halliburton operates and is based in the United States. If you are interacting with Halliburton from outside the United States, please be aware that information we obtain about you may be transferred to and processed in the United States or other jurisdictions outside your own. By continuing to use our services and providing your personal information, you acknowledge that your personal information may be transferred to and processed in jurisdictions other than your own. Please be aware that the data protection laws and regulations that may apply to your personal information in the United States or other countries may be different from the laws in your home country.
+
+We have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to provide adequate protections for your personal information. For more information on the appropriate safeguards in place and to obtain a copy of such safeguards, please contact us at dataprivacy@halliburton.com.
+
+## Information for California Residents
+
+This section provides supplemental information about Halliburton’s limited collection, use, and disclosure of California residents’ personal information and describes additional rights Halliburton provides to California residents under California privacy law, including the California Consumer Privacy Act (CCPA). Halliburton does not sell or share, as those terms are defined in the CCPA, California residents’ personal information. Halliburton does not use or disclose sensitive personal information for purposes that would trigger the right to limit such use or disclosure under the CCPA.
+
+In the last 12 months, we have collected, used, or disclosed for a business purpose the types of personal information provided in the “Personal Information We Collect” section above, directly from California residents, passively when California residents use our website, and from our business partners, vendors, and affiliates. We anticipate continuing to collect, process, and disclose the categories of personal information provided in the “Personal Information We Collect” section above, as described in “Use of Personal Information” and “Sharing Personal Information” sections above.
+
+In addition to the information provided in the “Other Privacy Rights and Requests” section above, California residents have the specific right to ask us for the following information about our use of your personal information:
+
+- categories of personal information we collect and our purposes for doing so
+
+- categories of sources from which we collect personal information and why
+
+- categories of recipients to whom we disclose personal information and why, including a list of categories of personal information disclosed for a business purpose and a list of categories of personal information (if any) sold or shared for targeted advertising purposes
+
+- the specific pieces of your personal information we have collected
+
+To submit a California rights request to us, contact us via email at dataprivacy@halliburton.com or calling 888-200-5218. Please include your name and contact information in any privacy rights request to us, so that we may communicate with you and to help us verify your identity before acting on your request.
+
+Please follow any instructions provided and promptly respond to any follow-up inquiries so that we may confirm your identity. If you request that we provide you with specific pieces of personal information about you, we may apply heightened verification standards.
+
+## Information for Other U.S. Residents
+
+Residents of certain U.S. states may have additional privacy rights under applicable state privacy laws. These laws generally apply to “consumers” (typically residents acting in an individual or household capacity), and many include exemptions for personal information collected in a business-to-business or employment context; as a result, they may not apply to many interactions with Halliburton. Where a state privacy law applies, rights may include the right to access, correct, delete, or obtain a copy of personal information, or to opt out of certain processing activities, subject to applicable limitations and exceptions. Halliburton responds to such requests in accordance with applicable law.
+
+## Policy Changes
+
+This privacy policy is subject to change at our discretion. We will indicate changes to the privacy policy by updating the Last Updated date of the privacy policy, unless a different process is required by applicable law. If you do not agree with our privacy practices now or following any future update, you may choose how to engage with Halliburton to minimize your concerns, including by limiting personal information you give to us.
+
+## Contact Information
+
+You may send comments or questions regarding this privacy policy or exercise your privacy rights via email to dataprivacy@halliburton.com or calling 888-200-5218.
+
+Last Updated: May 6, 2026
+
+ready to take the next step?
+
+### Talk with a Halliburton expert
+
+get in touch

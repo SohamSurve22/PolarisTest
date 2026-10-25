@@ -1,0 +1,14 @@
+{
+  "run_id": "20261024_235319",
+  "timestamp": "2026-10-24T23:53:19.473104",
+  "git_commit": "ceaf61030a0f5b8dfe57ab2f272f68d5dd902145",
+  "dataset_path": "research\\datasets\\cases.jsonl",
+  "split": "test",
+  "num_cases": 2,
+  "configs": [
+    "baseline",
+    "element_decomp",
+    "polarity_aware",
+    "combined"
+  ]
+}

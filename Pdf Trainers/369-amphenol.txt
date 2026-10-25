@@ -1,0 +1,211 @@
+# Amphenol Corporation Privacy Policy
+
+Effective Date: July 1, 2020
+Last updated: April 22, 2026
+
+The protection and security of your personal information are important to Amphenol Corporation (Amphenol). This Privacy Policy tells you how we collect, use, share, and protect your personal information, and together with the website Terms of Use, applies to (a) website visitors, whose personal information we obtain through your use of www.Amphenol.com (“Website”), (b) existing or prospective customers, business partners or service providers through the use of our products and services, and (c) job applicants.
+
+Amphenol is respectful of personal information and is committed to protecting it in line with applicable data protection laws, including but not limited to the European Union (EU) General Data Protection Regulation 2016/679, its UK equivalent and the UK Data Protection Act 2018 supplementing the UK GDPR (together the “GDPR”), and applicable U.S. state privacy laws. Please read this Privacy Policy to understand how Amphenol may process your personal information.
+
+## Personal Information Collection
+
+You are not required to provide any personal information as a condition of using our Website or our products and services. However, Amphenol will process your personal information as a Website visitor, customer or a business partner in the following ways:
+
+- Communications via our Website: We collect personal information when you provide it to us through communications via our Website. This includes where you contact us with an inquiry or request and similar situations in which you have chosen to provide the information to us, including for customer service support.
+
+- Products or Services you request: Where you request a product, service or information from us, we will collect your personal information in order to process your request and otherwise contact you following an inquiry.
+
+- Information About Your Device via cookies or similar technologies: When you use our Website, we will automatically receive technical information, including the name of your internet service provider, the website that you used to link to our Website, the websites that you visit from our Website, the type of device you use, your operating system and software version number, IP address, the type of browser you use, user IDs, system logs, the country, and language code and time zone setting. This information can lead to your identification, but we do not use it to do so.
+
+We also collect and process your personal information if you apply to work at Amphenol or at any of our Amphenol group of companies via our careers page at https://www.amphenol.com/careers.
+
+## Types of Personal Information and Purposes for Processing
+
+We process your personal information for the following purposes and rely on legal bases set out below under the GDPR:
+
+| Type of Personal Information
+| Purpose/Use
+| Legal Basis for Processing under the GDPR
+
+| Website visitors:
+Personal Identifiers and contact information including first and last name, mailing address, unique personal identifier, email address, telephone number, and user account name.
+
+Technical and Usage Data: Information generated in the course of using our products, services, or site, including pages visited, time spent on each page, IP address, device name, device characteristics, traffic data, location data, communication data, operating system, browser type/version, web session time stamps, and session number.
+- To continue to develop, test and improve our Website, including to offer new functionality and features;
+
+- To better understand how you interact with our Website, including its functionality and features, and ensure that content is presented in the most effective manner;
+
+- To ensure the security and integrity of our Website;
+
+- To enforce our Website Terms of Use and other legal terms and policies;
+
+- To protect our and others’ interests, rights, and property (such as to protect our copyrighted materials); and
+
+- To comply with applicable legal requirements, such as tax and other government regulations and industry standards, contracts, and law enforcement requests.
+- Legitimate business interest in promoting our products and services including operating and maintaining the Website
+
+- Legitimate business interest in maintaining the security of our systems and networks and our intellectual property
+
+- Perform our contractual obligations under the Website Terms of Use and other applicable terms
+
+- Legal obligation to comply with applicable laws and enforcement requests
+
+| Existing and prospective customers, business partners and service providers:
+Personal Identifiers and contact information including first and last name, mailing address, unique personal identifier, email address, telephone number, and user account name.
+
+Commercial Information: Details of the products or services purchased, obtained, or considered.
+- To process any request for a product or service you make;
+
+- Administration of an inquiry or other request you make when you contact us via our Website, including for customer service support; and
+
+- To manage our service provider and partner relationships.
+- Legitimate interest in promoting and providing our products and services to our customers including operating and maintaining the Website
+
+- Legitimate business interest in communicating and administering our relationship with existing and prospective customers, business partners and service providers
+
+- Perform our contractual obligations under our agreements with existing and prospective customers, business partners and service providers
+
+| Job applicants:
+Personal Identifiers and contact information including first and last name, mailing address, unique personal identifier, email address, telephone number, and user account name.
+
+Resume including career history and/or the content of completed job applications
+- To process applications (including reviewing and decision-making) and corresponding with our applicants.
+- Legitimate interest in attracting, engaging and retaining talent for our workforce.
+
+- Performance of our contract with successful job applicants.
+
+## Sharing your Personal Information
+
+Amphenol may share your information with:
+
+- Amphenol affiliated companies, the details of which are listed at: Businesses | Amphenol;
+
+- a prospective seller or buyer in the event of a sale, merger, or purchase of any Amphenol business or asset so that the buyer can continue to provide you with information and services;
+
+- data processors that we engage to provide services for us. Where we provide your personal information to data processors, they are required to keep your personal information confidential and secure, and must only use your personal information as instructed by us; and
+
+- our distributors, business partners, vendors, or service providers (e.g. insurers, legal and other professional advisers, company credit card providers, pension plan administrators), including for marketing purposes. We prohibit these third parties from using or disclosing your personal information except as necessary to perform services or to comply with legal requirements.
+
+We may also disclose your personal information where required to respond to authorized requests from government authorities or where required by law, including for national security. We may also disclose your personal information where it is necessary to enforce or apply our Website Terms of Use, this Privacy Policy or other agreements, to investigate or protect the rights, property or safety of Amphenol and our group companies, our products and services and our customers, distributors or business partners, to seek advice from external counsel or in connection with litigation with a third party or to prevent or take action regarding illegal activities or fraud, situations involving potential threats to the safety of any person or as evidence in litigation. Your personal information may be subject to foreign laws and may be accessible by foreign governments, courts, law enforcement and regulatory agencies.
+
+## Storing and Retention of your Personal Information
+
+Your personal information will be stored on servers located in the United States. It may also be processed by Amphenol staff or by one of our service providers operating in any of Amphenol’s or our affiliates’ locations. This includes individuals engaged in, among other things, administration of an inquiry or request you make via our Website or the provision of support services.
+
+Amphenol will retain your personal information for as long as it is required for the legitimate purposes for which it was collected, to perform our contractual obligations, or as required or permitted by law or regulatory obligations. Amphenol will retain your information in line with our retention policies and, in any event, for no longer than is necessary given the purpose for which it was collected, after which it will be deleted or anonymized.
+
+## Keeping your Personal Information Secure
+
+Amphenol implements appropriate administrative, technical and physical safeguards to protect the confidentiality, integrity and availability of your personal information. We will use procedures and security features, including cryptographic techniques, and take commercially reasonable steps to ensure your personal information is processed securely and in accordance with this Privacy Policy.
+
+Please note that the transmission of information via the internet is not completely secure. Although Amphenol takes steps to protect your personal information, we cannot guarantee the security of your information transmitted via our Website or otherwise and any transmission is at your own risk.
+
+## Use of Cookies and Similar Technologies
+
+We use cookies and similar technologies on our Website. Unless you disable such technologies, by using our Website, you agree that we can place these types of cookies and related technologies on your device. We explain below how you can manage your choices and opt-out of the collection of such aggregate information.
+
+We use the following cookies on our Website:
+
+- Essential Cookies: Some cookies serve an essential function and websites cannot work properly without them. Where such essential cookies are used, they cannot be disabled, without also disabling the related functionality of the Website.
+
+- Functional Cookies: Other cookies serve a functional purpose and improve the user experience of the Website. We use browser cookies to tell us, for example, whether you’ve visited us before, and to help us identify site features in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site so that you do not need to reset them each time you visit the website. You can decline any Browser cookie through your browser; however, without Browser cookies you may not be able to take full advantage of all our Website features.
+
+- Performance Cookies: Some types of cookies collect aggregate information which help us to improve our Websites by providing information, for example, on loading errors and the most visited webpages.
+
+- Targeting Cookies: These cookies record your visit to our Website, the pages you have visited and the links you have followed. We will use this information to make our Website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+We use cookies and similar technologies for the following purposes:
+
+- to improve our Website security;
+
+- to identify you when you sign-in to our Website and remember your preferences;
+
+- to analyze how you use our Website by tracking specific actions on our Website, such as visits to the various pages of our Website; and
+
+- to collect statistical information on how visitors use our Website so that we can make improvements to its usability and to improve content delivery value.
+
+We also use cookies and similar technologies provided by other companies to collect web traffic information such as time, date, IP address, and browser, so that we can store your preferences and other information on your device and save you time on subsequent visits by eliminating the need to repeatedly enter the same information.
+
+### Google Analytics
+
+We use Google Analytics cookies to collect information and compile reports about how visitors use our Website, and we use this information to help us improve our Website. Google Analytics mainly uses first-party cookies which are not shared across different websites that you visit. The information that the cookies collect includes the number of visitors to the Website, where those visitors originate from and how many times they have visited the Website. You can find more information about Google privacy practices under the following link: http://www.google.com/intl/en/privacypolicy.html.
+
+Google Analytics will collect your IP address, which is a unique code assigned to every computer and device connected to the Internet. IP addresses are usually assigned in geographic blocks and may allow website operators to identify the country, state and city in which the computer or device is based. We may collect either the full or a portion of an IP addresses to help us identify the location of our Website visitors. You can opt-out from being tracked by Google Analytics in the future by downloading and installing ‘Google Analytics Opt-out Browser Add-on’ for your current web browser: https://tools.google.com/dlpage/gaoptout. An opt-out cookie will be stored on your device, which means that you will have to click this link again if you delete your cookies.
+
+### Opting out of cookies
+
+With the exception of strictly necessary cookies, you may refuse to accept cookies by altering the settings on your internet browser (for example Internet Explorer, Chrome and Firefox). Please note that if you choose not to permit cookies some areas of our Website may not function properly or fully or be accessible.
+
+In general, by consulting the help menu item in your internet browser, instructions on how to disable or delete cookies are available. Most browsers are set-up to accept these cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the cookie is stored on your computer. You may also use self-regulation programs available in your jurisdiction to manage the way that companies other than Google advertise to you, such as the EU-based Your Online Choices.
+
+## Links to Other Web Sites
+
+Our Website may contain links to other third-party websites that are not governed by this Privacy Policy. This Privacy Policy will no longer apply once you leave our Website.
+
+Links to other websites are provided for information purposes only and do not constitute endorsements of those other websites. Amphenol and/or its affiliated companies are not responsible for the content of links or third-party websites and do not make any representation regarding their content or accuracy. Your use of third-party websites is at your own risk.
+
+## Changes to this Privacy Policy
+
+Any changes we make to our Privacy Policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy.
+
+## Your Rights Under Applicable Laws
+
+Depending on your jurisdiction, you may have certain rights to your personal information processed by Amphenol. You can find more information about these rights, and how to exercise them, by contacting us. Please note that we may request additional information to respond to or fulfill any requests regarding your rights under applicable laws or regulations.
+
+### EEA and UK residents:
+
+GDPR requires Amphenol to provide additional information about how Amphenol processes the personal information of individuals resident within the EEA and the UK. The GDPR governs the use of personal information, which is any information that identifies or from which an individual could be identified, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or one or more factors specific to an individual’s identity. Amphenol processes personal information in reliance on the legal bases set out in section 2 (Types of Personal Information and Purposes for Processing):
+
+- for performance of a contract with an individual or to take steps prior to entering into a contract with an individual;
+
+- where required by the law of the EEA or its member states or the UK; and
+
+- where Amphenol has legitimate business interest in doing so.
+
+The GDPR provides EEA and the UK residents with certain rights in relation to the processing of their personal information, including the right to request access, to have personal information rectified or erased, to object to its processing in certain circumstances, and to have access to personal information restricted. Amphenol respects individuals’ rights under the GDPR, and we may ask you for additional information to confirm your identity for security purposes, before providing individuals with access to their personal information. There may also be circumstances where Amphenol is permitted by law to deny access. Please contact us by email LegalDepartment@amphenol.com to exercise your rights or if you have any queries or concerns. You have the right to lodge a complaint with a supervisory authority if your concern or query is not addressed in line with the GDPR. Should you have cause to complain, we would appreciate it if you would let us know so that we may have an opportunity to address your complaint. This does not affect your statutory rights.
+
+We have implemented appropriate safeguards, to protect your personal information when it is transferred outside of the EEA or the UK, including the execution of data transfer agreements with recipients of the information.
+
+### California residents:
+
+If you are a California resident, you have the right to:
+
+- request to access certain information to you about their collection, use, and disclosure of your personal information and to request access to such information;
+
+- request to delete any of your personal information collected from you and retained;
+
+- request to obtain a copy of the personal information it has collected about you in portable and, to the extent technically feasible, readily useable format;
+
+- request to correct inaccurate personal information that it has about you;
+
+- request to opt-out of the use of your personal information for targeted or cross-context behavioral advertising purposes;
+
+- request to only use your sensitive personal information for limited purposes; and
+
+- request to opt-out of the sale or share of your personal information.
+
+You have the right to request certain information regarding our disclosure of your personal information with third parties for their direct marketing purposes pursuant to Section 1798.83 of California Civil Code. We do not share personal information with third parties for their direct marketing purposes.
+
+You also have the right not to receive discriminatory treatment if you exercise the rights listed above.
+
+When you make a request, we may require that you provide information and follow procedures so that we can verify the request and your jurisdiction before responding to it. The verification steps we take may differ depending on the request you make. We will match the information that you provide in your request to information we already have on file to verify your identity. If we are able to verify your request, we will process it. If we cannot verify your request, we may ask you for additional information to help us verify your request. Please provide as much of the requested information as possible to help us verify the request. We will only use the information received in a request for the purposes of responding to the request.
+
+You may use an authorized agent to make privacy rights requests. We may require the authorized agent to provide us with proof that shows the authorized agent has the authority to submit a request on your behalf. An authorized agent must follow the process described above to make a request. The authorized agent must also verify his/her own identity. We do not share personal information with other people or non-affiliated businesses for targeted or cross-context behavioral advertising purposes. We do not sell your personal information.
+
+If we deny your rights request, you have the right to appeal that decision. We will provide you with the necessary information to submit an appeal at that time.
+
+You can review our California Employee Notice or California Job Applicant policy here.
+
+### Nevada residents:
+
+Although Amphenol does not sell “personal information” as defined by Nevada law, Nevada residents have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. If you are a Nevada resident, and would like to submit such a request, please send your request through any of the methods noted below.
+
+To exercise any of the rights described above, you can reach us by e-mail at LegalDepartment@amphenol.com or by submitting an opt-out request through the form available at Your Privacy Choices.
+
+## Children
+
+Amphenol does not knowingly or specifically collect personal information from individuals under the age of 13 and no one under age 13 is authorized to submit any information, including personal information to us, via our Website or otherwise. If we determine that such information has been inadvertently collected on anyone under the age of 13, we will take the necessary steps to ensure that such information is deleted from our systems.
+
+## Contact Us
+
+If you have any questions or concerns as to the processing of your personal information, please contact us at LegalDepartment@amphenol.com.

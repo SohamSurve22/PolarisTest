@@ -1,0 +1,245 @@
+# Privacy Policy
+
+### Privacy Policy
+
+This Privacy Policy describes how Lear Corporation (“Lear”) collects, uses, and discloses personal information received about you during visits to our website. Personal information is sometimes also referred to as personal data, personally identifiable information or other like terms to mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. This Privacy Policy applies to personal information we collect when you use our website. The amount and type of information received depends on how you use our website.
+
+The data controller for processing your personal information within the meaning of data protection laws, such as the General Data Protection Regulation, is Lear Corporation, 21557 Telegraph Road, Southfield, MI 48033, USA/Phone: 1-248-447-1500 and E-Mail: DataPrivacy@lear.com. If you have any questions about this Privacy Policy or the information we hold about you, please contact us by post, email, telephone or at Contact Us | Lear Corporation.
+
+## 1. Collection and Use of Personal Information through the Website
+
+Under data protection laws, we can only use your personal information if we have a proper reason for doing so, e.g.: to comply with our legal and regulatory obligations, for the performance of our contract with you or to take steps at your request before entering into a contract, for our legitimate interests or those of a third party, and where you have given consent. There are several instances where Lear processes personal information through this website.
+
+You understand and agree that Lear and its authorized business partners, affiliates, subsidiaries, agents, or service providers may collect, maintain, and process information provided by you, on and through the website, including through the use of artificial intelligence.
+
+### 1.1 E-mail / Contact Form
+
+You may send Lear personal information, for example, in a message containing information about your Lear product or service or by contacting Lear using the contact form provided on the website. Lear will only use this information to identify the user as a customer and to determine how to respond to the email or request via the contact form. We will not use this information other than to resolve the matter identified in the e-mail. We will delete the data stored in connection with your contact request as soon as it is no longer necessary for processing your request, unless statutory retention periods require otherwise. We will process your personal information for the purpose of managing your enquiry.
+
+### 1.2 Focus-on-the-Drive Pledge
+
+Lear offers you a chance to take a pledge against distracted driving. To take a pledge, you must submit your first name, last name, location and reasons why you are taking the pledge via the pledge form. The processing of personal data in relation to the pledge of is based on your consent, which you can revoke at any time with effect for the future. We use the pledge date only to calculate the number of pledges taken, We delete the pledge information immediately once it has been evaluated.
+
+### 1.3 APPLICATION AND HIRING PROCESS
+
+You may send Lear personal information, for example, as part of the job application or hiring process. This information may include basic personal details such as your full legal name; contact information, such as email address, postal address, telephone number; employment details such as your current employer, job title, area of interest/role with Lear, work schedule preference, legal authorization to work in the country, whether any visa sponsorship is required; and location data. You may also have the option to add attachments or further information (e.g. a CV or Resume, a cover letter or message, certifications or skills, language capabilities or a letter of recommendation) which might contain additional personal information, self report military or veteran status, your ability to perform expected physical requirements for the position for which you are applying, physical limitations, or other medical or health related workplace accommodations, and we may also collect certain additional information that is not part of your application, such as how you heard about the position, if you are related to anyone at Lear (and, if so, who), willingness to travel, ability to work overtime if needed, openness to relocation, prior experience in manufacturing and/or the automotive industry, annual base salary expectations, and whether you are over the age of 18.
+
+We use this information to (a) communicate with job candidates, applicants, and employees about recruitment and employment related inquiries, (b) to assess your qualifications for employment during the application and recruitment stage, this includes contacting you after you have applied, contacting references that you have provided, and potentially carrying out background checks, and (c) to contact you about other jobs we think may be of interest to you. We may also use this information for internal benchmarking, analyzing, and reporting on the diversity of candidate pools, individualized reporting and analytics of statistical information, and informing and developing our recruitment and other diversity, equity, and inclusion strategies. We will not use this information for any other purpose. We will delete the data stored in connection with the job application and hiring process in accordance with our data retention policy, unless statutory retention periods require otherwise.
+
+Additionally, we provide AI-enabled chatbots to help you apply for a job at Lear. If you engage with our chatbots, your conversations may be retained by us and our service providers for quality control purposes. This can include interactions between you and our chatbots, information you input into the chatbot (including job applications) and the conversations you have with the chatbots. Our chatbots are provided as a convenience to you but are not a substitute for direct communication with Lear. Because the chatbot uses artificial intelligence to communicate with you, the chatbot may provide information that is an inaccurate response to your requests in its interactions with you. Please be aware that no automated hiring decisions are made based on your interactions with Lear chatbots. Additionally, any personal information you provide will not be used for training AI systems.
+
+Some of the cookies we use are essential for our website's operation and cannot be turned off in our systems. For example, some cookies are set up to provide enhanced functionality and make our website easier to use (e.g. by remembering your login details, accelerating display of our website through load balancing). The legal basis for the processing of data related to technically necessary and functional cookies is our legitimate interest to enable users to visit our website and to promote our business.
+
+## 2. Advertising and Analytics
+
+### 2.1 Use of Cookies
+
+Lear uses cookies on its website. Cookies are small text files that are placed on your computer or mobile device by the websites that you visit. They allow our website to access or store information from your browser about you, your settings or your device. Cookies are mainly used to ensure our website’s expected functionality. If you prefer, you can usually adjust your browser settings to remove or reject browser cookies or remove cookies by deleting them from your cache when you leave the site.
+
+We distinguish the following categories of cookies:
+
+- Necessary and Functionality cookies
+
+- Analytics cookies
+
+The following information will help you make an informed decision whether to agree to the use of cookies and related data processing, namely category (2) above, which are not strictly required for the technical functionality of the website.
+
+You can adjust your cookie preferences any time in our Cookie Preference Manager.
+
+### 2.2 Necessary and Functionality Cookies
+
+Some of the cookies we use are essential for our website's operation and cannot be turned off in our systems. For example, some cookies are set up to provide enhanced functionality and make our website easier to use (e.g. by remembering your login details, accelerating display of our website through load balancing). The legal basis for the processing of data related to technically necessary and functional cookies is our legitimate interest to enable users to visit our website and to promote our business.
+
+We use the following necessary and functionality cookies:
+
+| Cookie Name
+| Purpose
+| Expiry After
+
+| __hs_opt_out
+| This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again.
+| It expires in 6 months.
+
+| __hs_do_not_track
+| This cookie can be set to prevent the tracking code from sending any information to our website provider.
+
+| __hs_initial_opt_in
+| This cookie is used to prevent the cookie banner from always displaying when visitors are browsing in strict mode.
+| It expires in seven days.
+
+| __hs_cookie_cat_pref
+| This cookie is used to record the categories a visitor consented to.
+
+| __hs_ab_test
+| This cookie is used to consistently serve visitors the same version of an A/B test page they’ve seen before.
+| It expires at the end of the session.
+
+| <id>_key
+| When visiting a password-protected page, this cookie is set so future visits to the page from the same browser do not require login again.
+| It expires in 14 days.
+
+| hs_langswitcher_choice
+| This cookie is used to save a visitor’s selected language choice when viewing pages in multiple languages.
+| It expires in two years.
+
+| __cfruid
+| This cookie is set by our website provider’s CDN provider (Cloudflare) to support its Rate Limiting products.
+| It expires at the end of the session.
+
+| __cf_bm
+| This cookie is used set by our website provider's CDN provider (Cloudflare) to read and filter requests from bots.
+| It expires in 30 minutes.
+
+### 2.3 Analytics Cookies
+
+We use web analytics cookies to create anonymized user statistics (e.g. number of website visitors, surfing behaviour) which help us regularly improve the use of our website.
+
+The processing of personal information in relation to analytics cookies is based on your consent which can be withdrawn at any time with effect for the future. In addition to our internal departments, analytics data is processed by our cookie suppliers as data processors on your behalf.
+
+We use the following analytics cookies:
+
+| Cookie Name
+| Purpose
+| Expiry After
+
+| __hstc
+| The main cookie for tracking visitors.
+It contains the domain, utk, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+
+| hubspotutk
+| This cookie keeps track of a visitor's identity. It is passed to our website provider on form submission and used when deduplicating contacts.
+It contains an opaque GUID to represent the current visitor.
+
+| __hssc
+| This cookie keeps track of sessions. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp.
+| It expires in 30 minutes.
+
+| __hssrc
+| Whenever our website provider changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser.
+| It expires at the end of the session.
+
+### 2. 4 Newsletter Service
+
+If you have subscribed to our newsletter, we will process your contact data (e.g. name, email) for the purposes of sending our newsletter to you. We may process information on your specified preferences to customize the information sent to you. The processing of your contact data is based on your explicit consent to receiving our newsletter. You can revoke your consent at any time by i.a. sending an email to DataPrivacy@lear.com, or by using the unsubscribe form in the footer of the newsletter email.
+
+### 2. 5 EMPLOYMENT COMMUNICATION
+
+Our website may contain features that allow you to sign up to receive communications about future job openings with Lear, as well as communications about our organization. If you sign up for these communications, you can opt out of these communications at any time.
+
+### 2. 6 DO NOT TRACK
+
+We do not track users across the web and therefore do not respond to web browser “do not track” signals.
+
+### 2.7 Other Websites and Social Media Networks
+
+This website may contain links to other third-party websites which are outside our control and are not covered by this policy. If you access other third-party websites using the links provided, the operators of those third-party websites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours. We cannot control what information you may provide to that party or on that third party website, and we are not responsible for how that party may use or disclose any information you may provide to them. This is not as an endorsement by us of any third-party website, content that may be offered on such third-party website, or of any products or services provided by such third party. As such, we urge that you exercise caution before providing them with your personal information and to review the third party’s privacy policy for information on its data processing practice. You should contact the site administrator for such third-party website if you have any complaints, claims, concerns or questions regarding such third-party website or its privacy practices.
+
+Lear operates social media pages on Facebook, LinkedIn, Twitter, Instagram, YouTube.
+
+We use social media plug-ins to direct you to our social media channels and to allow you to interact with our content. If you click on a social media plug-in, you will be redirected to the websites of the respective social media provider. The provider may collect your personal information and may link this information to your existing profile on the respective platform.
+
+The operation of social media pages and any related processing of personal information are carried out for the purpose of providing additional information on our business (for example, through posts and their comments). The legal basis for the processing in connection with our social media pages is our legitimate interest in informing you about our company as well as our products and services in social media. Any additional data processing for which the social network providers are solely responsible (in particular in connection with data analysis services) may have different legal bases. You should always carefully read the privacy policy of any website or social network you visit or use to share information to understand their privacy practices. Lear has no influence upon the nature and extent of the data that is then gathered by the social network providers. Any data processing is determined solely by the network service provider. Insofar as Lear and a social media provider are joint controllers, the corresponding joint controller agreement shall apply:
+
+## 3. International Transfers
+
+Lear is headquartered in Southfield, Michigan, and we have operations in the United States and other countries. As a global company, we transfer certain personal information within Lear to jurisdictions that may not provide levels of data protection that are equivalent to those of your home jurisdiction. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. All data transfers are adequately safeguarded through Standard Contractual Clauses as approved by the European Commission or other means compliant with applicable data protection legislation. Additionally, within Lear, we have in place binding firm-wide data protection policies which govern our internal data processing activities. Where the laws of your country allow you to do so, by using our website, you consent and authorize Lear to transfer, store, and use all such information in the United States of America and any other country where we operate which may not offer an equivalent level of protection to that required in the country where you reside and to the processing of that information by us on its servers located in the United States of America and any other country where we operate as described in this Privacy Policy. If you do not want your personal information transferred to the United States of America and any other country where we operate, please do not submit any information to us.
+
+## 4. Retention of Your Data and Deletion
+
+Generally, we retain personal information only for as long as necessary to fulfil the purposes for which it was collected and for other legitimate business purposes, including to meet our legal, regulatory, or other statutory compliance obligations. When there is no longer a legal basis for data to be retained, we will erase personal information securely, or in some cases anonymize it. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of the personal information, the purposes for which we process your personal information, and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+## 5. Your Rights and How to Exercise Them
+
+### 5.1 Individuals in the EU
+
+Under the GDPR, consumers residing in the EU have certain rights with respect to their personal information, subject to certain exceptions:
+
+- Right of Access: You can ask for confirmation as to whether or not personal information concerning you is being processed, and, where that is the case, access to the personal information.
+
+- Right to Rectification: You have the right to obtain from us the rectification of inaccurate personal information concerning you.
+
+- Right to Erasure: Under certain circumstances, you have the right to obtain from us the erasure of personal information concerning you.
+
+- Right to Restriction of Processing: Under certain circumstances, you can contact us to restrict the processing of your personal information.
+
+- Right to Data Portability: Under certain circumstances, you have the right to receive personal information concerning you in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller.
+
+- Right to Object: Under certain circumstances, you have the right to object to the processing of personal information concerning you.
+
+If you believe that the processing of your personal information violates the GDPR and/or other data protection laws, you may also lodge a complaint to the competent supervisory authority without prejudice to other legal remedies.
+
+To exercise your rights under the GDPR, please contact us at DataPrivacy@lear.com.
+
+### 5.2 Individuals in the United States
+
+Data privacy laws afford consumers residing in the United States certain rights with respect to their personal information, subject to certain exceptions. If you reside in the United States, this section applies to you. Subject to certain limitations you have the following rights in the United States:
+
+- Right to Delete: You have the right to request us to delete the personal information we have collected about you.
+
+- Right to Correct: You have the right to request us to correct inaccurate personal information we maintain about you.
+
+- Right to Confirm Processing: You have the right to confirm whether we are processing your personal information.
+
+- Right to Know and Access: You have the right to know and access the personal information we have collected about you, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
+
+- Right to Data Portability: You have the right to receive the information under right 5.2.4 in a format, to the extent technically feasible, that is portable, usable, and allows you to transmit the personal information to a person without impediment, where the processing is carried out by automated means.
+
+- Right to Opt-Out of Profiling: You have the right to opt out of the processing of your personal information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer.
+
+- Rights Related to Sharing for Targeted Advertising or Sale: We do not share your personal information for targeted advertising or sell your personal information.
+
+- Rights Related to Sensitive Personal Information or Data: Data privacy laws may provide additional protection for sensitive personal information or data. Please see the Sensitive Personal Information section for more information.
+
+- Right to No Discrimination: You have the right not to be discriminated against for exercising any of your privacy rights. This includes us not: (a) denying you goods or services; (b) charging you different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; (c) providing you a different level or quality of goods or services; (d) suggesting to you that you will receive a different price or rate for goods or services or a different level or quality of goods or services; and (e) retaliating against applicants for employment for exercising your privacy rights.
+
+- Right to Appeal: If we decline to take action in response to your exercise of a privacy right, we will inform you of the reason for denying your request and provide you instructions on how to appeal the decision.
+
+Instructions on How to Exercise Your Privacy Rights
+
+You may exercise your privacy rights by calling our toll-free phone number at 1-248-447-1500 or emailing us at DataPrivacy@lear.com. In some instances, we will need to verify your identity before honoring your privacy right request. We will verify your identity by asking you to provide personal information related to your recent interactions with us. We will honor your privacy rights request within 45 calendar days of receipt, unless we request an extension as permitted by data privacy laws. However, we will honor opt-out of sale and sharing and limit use and disclosure of sensitive personal information requests within 15 business days.
+
+Appealing a Denial of a Privacy Right Request
+
+You may appeal a denial of your privacy right requests by calling us at our toll-free phone number at 1-248-447-1500 or emailing us at DataPrivacy@lear.com. Within 45 days of receipt of an appeal, we will inform you in writing of any action taken in response to the appeal, including a written explanation of the reasons for the decisions. If we deny your appeal, you may submit a complaint to the Attorney General of your state.
+
+Authorized Agents
+
+You may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request, please contact us at our toll-free phone number at 1-248-447-1500 or emailing us at DataPrivacy@lear.com.
+
+Additional Disclosure for California Residents
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at our toll-free phone number at 1-248-447-1500 or emailing us at DataPrivacy@lear.com.
+
+## 6. Disclosure of Personal Information
+
+### 6.1 Disclosures for Individuals in the United States
+
+We may disclose personal information to service providers we use to help deliver our products and services and to third parties we use to help us run our business, such as marketing agencies or website hosts. Your information may also be shared with third parties that assist us during our recruitment and hiring process. For example, we use third party service providers to collect your information as well as for other services, such as carrying out background checks, work-related assessments or pre-employment screenings. These third parties have agreed to protect the information and to process it as directed by us (if acting on our behalf) or as required by applicable data protection laws.
+
+In order to carry out the application and recruiting process, your information may be shared with Lear employees (such as your potential manager, members of the human resources team, and other members within the Lear organization).
+
+We may also share information with third parties when we believe in good faith that the disclosure is required to comply with our legal obligations and in response to lawful requests by public authorities, including to comply with national security or law enforcement requests (e.g. a court order, subpoena, warrant, or other legal process).
+
+We may share your information in the event of a merger, acquisition, sale, assignment, or other related transaction or transfer of the business to which the information relates, or when we believe in good faith that the disclosure is required by applicable law or to protect the safety of our employees, the public, or Lear property.
+
+Summary of Prior 12-Month Personal Information Handling Practices
+
+For the 12-month period prior to the date of this Privacy Policy, we have not sold or shared personal information about our users; nor do we have any plans to do so in the future. Other than as described in this Privacy Policy, for the 12-month period prior to the date of this Privacy Policy, we have not disclosed personal information about our users.
+
+### 6.2 Selling or Sharing of Personal Information
+
+We do not sell or share your personal information with third parties. We also do not knowingly sell, share, use for targeted advertising or disclose the personal information of children under the age of 16.
+
+## 7. Security
+
+We use reasonable and appropriate physical, technical, and administrative safeguards to protect your information from unauthorized use, access, loss, misuse, alteration, or destruction. We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+
+However, while we strive to protect your privacy, due to many reasons, including the inherent security flaws in the internet, we cannot guarantee the security of any information you disclose to us and, as such, you agree that your disclosure of such information is at your own risk.
+
+## 8. Children
+
+Our website is not directed to children, and you may not use our website if you are under the age of 18. If you are under 18, do not use our services, access the website, or provide any information about yourself including, without limitation, your name, address, email address or any screen name or username you may use. If we learn that we have collected or received personal information from a child under 13 without verification of parental consent, in compliance with the Children’s Online Privacy Protection Act, we will purge such information from our database and cancel the corresponding accounts. If you believe we may have any information from or about a child under 13, please see our contact information above. Please visit the FTC's website at www.ftc.gov for tips on protecting children's privacy online.
+
+## 9. Amendments to the Privacy Policy
+
+We may change this Privacy Policy from time to time. A revised Privacy Policy will only apply to data collected subsequent to its effective date. Any revisions will be posted at least 10 days prior to its effective date. If we make changes, we will notify you by revising the date at the top of this policy. We may also provide you with an additional notice (such as by adding a statement to the Services or sending you a notification), in connection with making material changes to this Privacy Policy. We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.

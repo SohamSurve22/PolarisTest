@@ -1,0 +1,13 @@
+graph TD
+    A[Policy Text] --> B[Polarity Detection]
+    B --> C{Polarity}
+    C -->|Positive| D[Consider for Coverage]
+    C -->|Negative/Denial| E[Check if Blocking]
+    C -->|Mixed/Uncertain| F[Mark Uncertain]
+    E --> G{Applies to Publisher?}
+    G -->|Yes| H[May Reduce Coverage/Violate]
+    G -->|No/Third-party| I[Lower Confidence]
+    
+    style D fill:#ccffcc
+    style H fill:#ffcccc
+    style F fill:#fff4e1

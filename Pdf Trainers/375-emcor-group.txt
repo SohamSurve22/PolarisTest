@@ -1,0 +1,201 @@
+# Privacy Notice
+
+Last Updated: May 20, 2025
+
+This Privacy Notice informs you of important information about how EMCOR Group, Inc. (collectively with our affiliates in the United States, “EMCOR,” "our," "us" or "we"), process the personal information that we collect both online through the Site and offline in providing our services. Certain individuals from whom we collect Personal Information such as employees, applicants, and contractors may receive an additional privacy notice specific to their relationship with EMCOR. Such notices supplement this Privacy Notice and, in the event of any conflict with this Privacy Notice, the terms of such supplementary notices will control. As used herein, “Personal Information” means information that reasonably can be used to identify a living person, or that reasonably relates to a living person or household. When we use the term “Site” we mean to refer collectively to the websites and mobile applications owned and controlled by us that link to this Privacy Notice.
+
+This Privacy Notice is subject to change at any time, effective immediately upon posting on the Site. It is your obligation to review the Privacy Notice from time to time. By using this Site, you represent that you have read, understand, and accept this Privacy Notice. Your continued use of the Site following posting of changes to terms contained in this Privacy Notice will mean you understand and accept those changes. If you do not agree with any of the terms of the Privacy Notice, you must discontinue use of the Site.
+
+## Information We Collect
+
+We collect and use Personal Information in a number of ways, depending on how you interact with us. These include when you interact with us on our Site, when you contact us by email, telephone or by other means, or when you visit one of our offices or job sites. We also receive certain Personal Information from our partners, which we may use to market our services.
+
+Information We Collect Online: We collect Personal Information from you online when you use our Site or correspond with us by email. Additional information about our online collection is available in the section below labeled State Privacy Notice at Collection for Online Sources.
+
+We collect the following categories of Personal Information about you when you use our Site or email with us, including Personal Information provided by you and Personal Information we automatically collect:
+
+- We collect Personal Information that you enter on our Site or give to us in another way. For example, when you use our Information Request Form on the Site to contact us, we collect identifiers, including your name, physical and email address, telephone and fax number, job title, and company name. We also collect Personal Information to the extent you communicate with us via email or web-based forms. Certain information we collect may constitute Personal Information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) such as name, address, telephone number, education, employment, employment history.
+
+- We also automatically collect certain internet or other electronic network activity information automatically related to your use of the Site. For each User, our web server automatically recognizes and places in log files information such as the visitor domain name, IP address, web browser, operating system, internet service provider, the pages visited, clickstream data, and time and date of visit. Please see the Cookies Disclosures below for more detail. Information such as IP address can be used to provide location information and may, accordingly, constitute location data.
+
+Information We Collect When You Visit Our Offices or a Job Site: When you visit a physical location we manage, we may receive Personal Information about you. This may include identifiers, such as your name, email, and address, for example, when you sign in at the front desk, use our Guest Network, as well as visual information that we collect via security cameras deployed at our offices and job sites. Certain information we collect may constitute Personal Information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) such as name, address, telephone number, and employment.
+
+Information We Collect From Third Parties: We may in some situations receive business contact information comprised of identifiers that we may use to market our services. We may receive this information from our affiliates or third parties. Certain information we collect may constitute Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) such as name, address, telephone number, education, employment, employment history.
+
+## How We Use the Information We Collect for Business or Commercial Purposes
+
+We use Personal Information to provide and improve the content and functionality of the Site, provide and improve our products and services, send announcements and communications about our products and services, facilitate marketing efforts, process your requests, protect the rights, property or safety of EMCOR and its employees and contractors or others, to comply with applicable laws and regulations (such as to comply with valid legal processes including a search warrant, subpoena, or court order) and otherwise operate our business. If you do not want your Personal Information to be used for our marketing purposes, please contact emcor_info@emcor.net. If you do not want your Personal Information that we collect online used as otherwise detailed in this Privacy Notice, then you must not use the Site.
+
+## How We Share the Information
+
+We may share your information, including each of the categories of Personal Information identified under “Information We Collect,” among our affiliated companies. We may also share your information with third parties that provide services to us or on our behalf, including marketing and other services that help us operate our business.
+
+Third Parties We utilize third parties to process online transactions through www.payemcor.com. Elavon, a hosted payment solutions provider and a third-party payment gateway provider, hosts the payment acceptance services and processes the online transaction. This third party is responsible for data security with respect to these transactions. We do not store, transmit, process, or distribute any sensitive customer credit card information on www.payemcor.com. We use Personal Information provided to us by this third party, which does not include credit card numbers, in order to properly manage your account and provide services through our affiliated companies.
+
+Legal Process: We may also disclose certain Personal Information as required by law or in connection with a legal claim, dispute, or proceeding or in response to requests by governmental regulatory authorities, or as we may reasonably determine to be necessary or appropriate to protect our rights or the rights of others or to avert loss or harm to persons or property.
+
+Business Transfers: We may disclose or transfer Personal Information to a third party in connection with a corporate business transaction, such as a merger, acquisition, joint venture, reorganization, financing or sale of company assets, or a similar transaction involving all or part of our affiliated companies; this may include transfer of Personal Information to a third party as one of the business assets in such a transaction. Personal Information may also be disclosed in the event of insolvency, bankruptcy, or receivership.
+
+In the preceding 12 months, we have not sold or shared (for purposes of cross-context behavioral advertising) any Personal Information to third parties.
+
+## Cookie Disclosures
+
+We automatically collect certain information to help us understand how you use our Site. For example, each time you visit our Site, we may automatically collect your IP address, browser and computer type, access time, the webpage from which you came, and the webpage(s) that you access during your visit.
+
+How we use Cookies: How we use Cookies: We use cookies and related technologies (“Cookies”) on our Site to gather information when users navigate through the Site, to enhance and personalize the experience, to understand usage patterns, and to improve our Site, products, and services.
+
+Cookies on our Site are generally divided into the following categories:
+
+- Essential Cookies: These cookies are strictly necessary to provide you with services available through our Site and to use some of their features, such as access to secure areas. Because these cookies are strictly necessary to deliver the Services, you cannot refuse them without impacting how our Site functions.
+
+- Performance and Functionality Cookies: These cookies are used to enhance the performance and functionality of our Site but are non-essential to its use. However, without these cookies, certain functionality may become unavailable.
+
+- Analytics and Customization Cookies: These cookies collect information that is used to help us understand how our Site is being used or how effective our marketing campaigns are, or to help us customize our Site for you in order to enhance your experience.
+
+How to control Cookies: You can review your Internet browser settings, typically under the sections "Help" or "Internet Options," to exercise choices you have for certain Cookies. If you disable or delete certain Cookies in your settings, you may not be able to use features of the Site.
+
+This site uses Google Analytics. To learn more about the use of Cookies by Google for analytics and to exercise choice regarding those Cookies, please visit the Google Analytics Opt-out Browser Add-on.
+
+To learn more about how Google Analytics collects and processes data, please visit the “How Google uses data when you use our partners’ sites or apps”.
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not currently recognize or respond to browser-initiated DNT signals.
+
+The opt-outs described above are device- and browser-specific and may not work on all devices. If you choose to opt-out through any of these opt-out tools, this does not mean you will cease to see advertising. Rather, the ads you see will just not be based on your interest
+
+## Children’s Privacy
+
+We do not solicit or knowingly collect, sell, or share Personal Information from children under the age of 18. If we nevertheless receive Personal Information from an individual who indicates that he or she is, or whom we otherwise have reason to believe is, under the age of 18, we will delete such information from our systems.
+
+If you are under the age of 18, do not provide us with any Personal Information either directly, on any website bulletin boards, or by other means. If a child under 18 has provided Personal Information to us, we encourage the child’s parent or guardian to contact us to request that we remove the information from our systems.
+
+## User Generated Content
+
+Our Site may enable users to submit their own content for videos, photos, and other functions. Please remember that any information you submit or post as user-generated content to our Site may become public information. You should exercise caution in such submissions or posts. We cannot prevent others from using such data in a manner that may violate this Privacy Notice, the law, or your personal privacy and safety. We are not responsible for the results of such postings.
+
+## Your Choices Regarding the Information
+
+If you supply us with your email address, and you do not want to receive emails from us in the future, please let us know by sending us an email at emcor_info@emcor.net or use the opt-out mechanism provided in the email.
+
+## How We Protect the Information
+
+We seek to use organizational, technical, and administrative measures to protect Personal Information within our firm. Unfortunately, no data transmission or storage system can be guaranteed to be secure at all times. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact Us” section below.
+
+## Third Party Websites
+
+This Privacy Notice applies only to the Site and does not apply to websites or digital services that are linked to the Site and not operated by or on behalf of us. Links to third-party web sites are provided solely as a convenience to you. All content accessed via links to outside websites or digital services belongs to the respective owners of those websites and content and services available via such websites or digital services are governed by the terms and conditions or privacy policies of those websites.
+
+Our Site also includes features such as buttons and widgets hosted by other companies (for example, the Twitter “Tweet” button). Some of these features collect Personal Information or other information such as IP address and your actions on our Site. This Privacy Notice does not apply to the practices of these third parties. We encourage you to review the privacy notices of those third parties to learn about their use of Personal Information and privacy practices.
+
+## Notice to Residents in Certain Jurisdictions
+
+This section of our Privacy Policy may apply to you. This section is intended to describe our practices and your rights under the California Consumer Privacy Act of 2018 (“CCPA”), and similar laws in other U.S. states which have passed comprehensive privacy laws. This section applies to our processing of Personal Information of residents in those states.
+
+## State Privacy Notice at Collection for Online Sources
+
+The CCPA and other state privacy laws require us to provide certain disclosures before our collection of personal information from residents, as summarized below. We do not currently collect “sensitive personal information,” as that term is defined under the CCPA, online.
+
+| Category of Personal Information
+| Purpose for Collection and Use
+| Is the personal
+
+information sold
+
+or shared?
+| How long is the
+
+personal information
+
+retained?
+A. Identifiers: a real name, email address, physical address, telephone number, fax number, unique personal identifier, online identifier, Internet Protocol address,
+
+or other similar identifiers
+Provide and improve the content and functionality of the Site
+
+Provide and improve our products and services
+
+Send announcements and communications about our products and services
+
+Facilitate marketing efforts
+
+Process your requests
+
+Protect the rights, property or safety of EMCOR and its employees and contractors or others
+
+Comply with applicable laws and regulations
+
+Otherwise operate our business
+No
+1 Year
+B. Personal information
+
+categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)): a name, address, telephone number, education, employment, employment history
+
+Send announcements and communications about our products and services
+
+Facilitate marketing efforts
+
+Process your requests
+
+No
+1 Year
+D. Internet or other similar
+
+network activity: Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement (e.g., visitor domain name, IP address, web browser, operating system, internet service provider, the pages visited, clickstream data, and time and date of visit)
+
+Send announcements and communications about our products and services
+
+Facilitate marketing efforts
+
+Process your requests
+
+No
+1 Year
+E. Geolocation date: Geographic location information about a particular individual or device
+IP address, which we collect, can reveal information about your location. We collect such information to:
+
+No
+1 Year
+
+## Sensitive Personal Information
+
+Unless provided to us by you in a free text form, we do not knowingly collect Sensitive Personal Information, as defined by the CCPA or similar state laws, through online sources.
+
+## State Privacy Consumer Rights
+
+Individuals in certain states may have certain consumer rights according to state laws. These rights may include:
+
+- The right to know what Personal Information we collect, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we collect about you;
+
+- The right to request that we delete Personal Information that we collect from you, subject to certain exceptions;
+
+- The right to request that we correct inaccurate Personal Information that we maintain about you;
+
+- The right to opt-out of the sale or sharing of Personal Information;
+
+- The right to opt-out of certain uses of Sensitive Personal Information.
+
+We will not discriminate against you for exercising any of these rights, for example, by charging a different price or denying goods or services. However, we may charge a different price or rate or provide a different level or quality of goods or services when that difference is reasonably related to the value provided to us by the data.
+
+## How to Exercise Consumer Rights
+
+If you wish to exercise any of these rights please email [emcor_info@emcor.net] with the phrase "Privacy Consumer Rights" in the subject line. You may also call 866.890.7794 or complete this web form. We will review your requests and respond accordingly. The rights described herein are not absolute and we reserve all of our rights available to us at law in this regard. Additionally, if we retain your Personal information only in de-identified form, we will not attempt to re-identify your data in response to a Consumer Rights request.
+
+If you make a request related to Personal information about you, you will be required to supply a valid means of identification as a security precaution. If you have an online account with us, you may satisfy this identification requirement by first logging into that account. For others, we will request verification of data elements we have stored. Depending on the sensitivity of the information in question, we may require additional proof of identification.
+
+If you make a Consumer Rights request through an authorized agent, we will require written proof that the agent is authorized to act on your behalf.
+
+We will process your request within the time provided by applicable law.
+
+## Other California Privacy Rights-Shine the Light
+
+California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of Personal Information we share with third parties or among our affiliated companies for their direct marketing purposes. Upon request, we will identify the categories of information shared and will include a list of the names and addresses of third parties and affiliates with which it has been shared. If you are a California resident and would like a copy of this notice, please submit a written request to the contact information set forth below. Please allow 30 days for a response.
+
+## Contact Us
+
+If you have any questions or concerns, you may contact us at:
+
+Address: 301 Merritt Seven, Norwalk, CT 06851
+
+Email: emcor_info@emcor.net
+
+Telephone (toll free): 866.890.7794

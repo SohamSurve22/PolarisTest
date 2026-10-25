@@ -42,6 +42,8 @@ services:
       POLARIS_CHAT_MODEL: qwen2.5:7b-instruct-q4_K_M
       MONGODB_URI: mongodb://mongo:27017
       JWT_SECRET: ${JWT_SECRET:-dev-only-change-me}
+      BYPASS_OPENAI: ${BYPASS_OPENAI:-true}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
     ports:
       - "8000:8000"
     depends_on:

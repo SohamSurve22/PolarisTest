@@ -1,0 +1,347 @@
+## Privacy Policy
+
+Lam Research
+
+This Privacy Policy (“Privacy Policy”) describes the procedures by Lam Research Corporation, as well as its corporate subsidiaries and affiliates (“Lam” or “Company”), regarding the collection, use, disclosure, transfer across borders and other processing of information we collect from you when you visit any of our affiliated websites (“Websites”) globally, including lamresearch.com and lamcapital.com, or otherwise interact with us online, such as sending us a message with an inquiry. This Privacy Policy may be supplemented by additional information provided when the Company collects your personal information, such as when you apply for a job, when you use our helpline, or while you are working for us as an employee or any other type of worker. If you do not want us to handle your personal information as described in this Privacy Policy, please do not use the Websites. By using the Websites, you consent to the terms of this Privacy Policy and any Company policies referenced herein or otherwise applicable to your use of our Websites.
+
+### Types of information collected
+
+We collect the following information:
+
+- identification, including name and user identification, Internet Protocol (IP) address, other metadata contained in communications you send to us;
+
+- contact information, including email address, physical address, telephone number, fax number;
+
+- information about a product, such as product name, product key, order number, operating system, for example in a request for technical support;
+
+- messages you send to us, for example, a product inquiry;
+
+- information necessary to verify eligibility to use a Website service or to facilitate dealings or transactions, such as your company information, job title, investor type;
+
+- information necessary to apply for a job, such as work history and education history;
+
+- any other information you voluntarily provide to the Company or Company personnel through one of our Websites; and
+
+- cookies, which may contain information about your device and browsing actions, such as your device’s Internet Protocol (IP) address, operating system, device identifier, location and language, internet service provider, browser type, and web pages viewed immediately before and after visiting our Websites, information you search for on our Websites, and other technical data. You can find more information about the Company’s use of cookies at lamresearch.com/cookies-statement.
+
+### Sources for collecting the information
+
+We collect such information from the following categories of sources:
+
+- Directly from you. For example, when you contact or request information from the Company including via our Websites, when you create a user account, or when you apply for a job.
+
+- Third Parties, including Service Providers. For example, your internet service provider, service providers that you authorize to provide information about you; and/or service providers that the Company uses and other third parties that the Company chooses to collaborate or work with.
+
+- Using cookies and automatic collection methods. The Company and its service providers may collect information from the computer, tablet, phone, or other device that you use to access our Websites, or that you use to open an email from the Company. The Company does not respond to “do not track signals.”
+
+### Purposes for collecting the information
+
+We collect, use, retain, and disclose your personal information for the purposes described below. We reserve the right to update or amend this Policy at any time, without notice, to update, add, or remove the purposes for which the Company uses personal information:
+
+- To provide you with our services, such as to: use the Websites; process, maintain and service your account(s);
+
+- Register an account, manage user relationship, and communicate with you;
+
+- Measure user engagement with the Websites;
+
+- Handle and record consumer rights requests, including opt-ins and opt-outs;
+
+- Monitor, protect and improve the Company’s security assets and resources, including devices, systems, customer data, intellectual property, infrastructure, and network, conduct investigations and respond to or pursue legal actions or complaints;
+
+- Administer our employment, contracting, business, or other relationship with you or on your behalf; and
+
+- Comply with laws, regulatory requirements and to respond to lawful requests, court orders and legal processes.
+
+### Sharing of the information
+
+We disclose the above categories of personal information to the following categories of third parties for a business purpose, in some cases as directed by you. For example, in the preceding 12 months, the Company has disclosed your information to:
+
+- Corporate Affiliates. For example, our corporate affiliates may share business processes and common data systems.
+
+- Third parties and service providers that provide products or services to us. For example, companies that help us support our Websites, or that provide services to you. The Company may use third parties or service providers to help with auditing interactions and transactions with you, addressing security, fixing errors, helping us with advertising or marketing, maintaining accounts and providing customer service, helping with our internal research, and verifying service quality or safety.
+
+- Government authorities. For example, tax authorities, safety and health authorities, law enforcement, and the like in accordance with applicable local laws and regulations.
+
+### Location of data
+
+The personal information collected through the Websites may be downloaded to servers located in the United States and other countries maintained by service providers under contract with the Company.
+
+### Minors
+
+Our Websites are not intended for children, and we do not knowingly collect personal information from anyone we know to be under 16.
+
+### Contact
+
+If you have any questions or requests regarding the Company’s collection, use, and sharing of your data, please contact [email protected].
+
+This privacy policy was last updated on February 23, 2022.
+
+## Region-specific supplemental notices
+
+While the above disclosure applies to all users, each of the following sections is ONLY applicable to users in a specific geographic region. As such, they may or may not be applicable to you. To the extent that any region-specific section is applicable to you, please read the relevant section as a supplement to the privacy disclosures above.
+
+These disclosures are provided by Lam Research Corporation (“Company”) and applies solely to residents of the State of California (“consumers” or “you”) with respect to personal information the Company processes as a business. Any terms defined in the California Consumer Privacy Act of 2018, as amended from time to time, including by the California Privacy Rights Act of 2020 and its implementing regulations (“CCPA”) have the same meaning when used in these disclosures. These disclosures do not reflect our collection, use, or disclosure of California residents’ personal information, or data subject rights, where an exception or exemption under the CCPA applies.
+
+Last Updated: June 29, 2023
+
+### I. Notice at Collection Online
+
+The tables below provide the categories of personal information about California residents we collect online from website visitors, including individual representatives of our customers, vendors, investors, and partners, and job applicants. Note that job applicants may be provided with additional notice when submitting an online application. We do not sell or share for cross context behavioral advertising any personal information of California residents.
+
+| Category of Non-Sensitive Information
+| Personal Information Collected
+
+| Identifiers.
+| First and last name, address, telephone number, e-mail address, username, order information, IP address.
+
+| Personal information categories listed in the California Customer Records Act (Cal. Civ. Code § 1798.80(e)).
+| First and last name, address, telephone number, work and education history from job applicants.
+
+| Characteristics of protected classifications under California or federal law.
+| Job applicants only – citizenship or immigration status for compliance with immigration or export control law; you may also have options to provide racial, ethnic origin, gender disability, veteran status for the Company’s compliance with law and diversity monitoring
+
+| Commercial information.
+| Viewing history of the Company’s Websites
+
+| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet Web website, application, or advertisement.
+| Times of visit, time spent on website, network location and IP address, operating system, date and time stamps of actions
+
+| Geolocation data.
+| Region or country
+
+| Audio, electronic, visual, thermal, olfactory, or similar information.
+| Communications such as messages you send us through our websites, voicemail you leave us, recording of customer or technical support calls, video conference
+
+| Professional or Employment related information.
+| Job applicants only – work history
+
+| Education information.
+| Job applicants only – education history
+
+| Category of Sensitive Information
+| Personal Information Collected
+
+| A consumer’s racial or ethnic origin, religious or philosophical beliefs, or union membership
+| Job applicants only – ethnicity (optional)
+
+| Personal information collected and analyzed concerning a consumer’s health.
+| Job applicants only – disability status (optional)
+
+We collect personal information for the following purposes:
+
+- To perform the services or provide the goods reasonably expected by our website visitors and job applicants, including those services and goods that are reasonably necessary for us to administer the applicable relationship and for our employees to perform their duties, such as recruiting, marketing, responding to your requests, providing you with information, verifying your identity, operating our websites;
+
+- To prevent, detect, and investigate security incidents that compromise the availability, authenticity, integrity, or confidentiality of stored or transmitted personal information, including in or via our premises, computers, software, networks, communications devices, and other similar system;
+
+- To resist malicious, deceptive, fraudulent or illegal actions directed at us and to prosecute those responsible for those actions;
+
+- For short-term, transient use;
+
+- To perform services on behalf of us;
+
+- To verify or maintain the quality or safety of our services and products;
+
+- To improve, upgrade, or enhance our services and products; and
+
+- To collect or process it where such collection or processing is not for the purpose of inferring characteristics about a consumer including to perform functions that are required under laws that apply to us, such as export control screenings and to support any claim or defense that we could face before any jurisdictional and/or administrative authority, arbitration, or mediation panel, and cooperating with – or informing – law enforcement or regulatory authorities to the extent required by law.
+
+#### Retention Time
+
+In general, we retain each of the categories of personal information and sensitive personal information described in this notice for the longer of (i) your relationship with us as a current or prospective customer, vendor, investor, or partner; (ii) any duration necessary for compliance with laws; or (iii) for as long as necessary for the exercise or defense of legal rights and archiving, back-up, and deletion processes.
+
+### II. California Consumer Privacy Act Privacy Policy
+
+Our California Consumer Privacy Act Privacy Policy, which applies to information we collect both through the website and other avenues, including offline, from individual representative of prospective, current, and past suppliers and customers and prospective, current, and past employees and other personnel.
+
+#### Our Personal Information Handling Practices in 2022
+
+We have set out below categories of personal information about California residents we have collected, and as applicable disclosed, for a business purpose in the preceding 12 months. The table is followed by a description of the purposes for which we collected personal information. In the preceding 12 months we did not sell or share for cross context behavioural advertising, the personal information of California residents. If we process de-identified information, we will maintain the information in a deidentified form and not attempt to reidentify the information, except that we may attempt to reidentify the information solely for the purpose of determining whether deidentification processes used satisfy legal requirements.
+
+| Category of Non-Sensitive Information from the CCPA
+| From what source did we collect?
+| Did we disclose for a business purpose?
+
+| Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers.
+| Directly from our employees and job applicants.
+
+Directly from website and on-premises corporate representative visitors.
+
+Service providers such as an internet service provider.
+
+| Yes.
+
+| Any information that identifies, relates to, describes, or is capable of being associated with, a particular individual, including, but not limited to, his or her name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information, but excluding publicly available information that is lawfully made available to the general public from federal, state, or local government records.
+
+(The categories of personal information described in the California Customer Records Act (Cal. Civ. Code § 1798.80(e))
+
+Directly from website and on-premises corporate representative visitors.
+
+Service providers such as an internet service provider.
+
+| Yes.
+
+| Characteristics of protected classifications under California or federal law.
+| Directly from our employees and job applicants (e.g., legal compliance or diversity).
+| Yes.
+
+| Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+| Directly from website corporate representative visitors.
+| Yes.
+
+| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
+| From activities of our employees on company systems.
+
+From activities of website corporate representative visitors.
+
+| Yes.
+
+| Geolocation data.
+| From activities of our employees (e.g., badging).
+
+From activities of website and on-premises corporate representative visitors (e.g., IP address).
+
+| Yes.
+
+| Audio, electronic, visual, thermal, olfactory, or similar information.
+| From activities of our employees and job applicants.
+
+From website and on-premises corporate representative visitors (e.g., audio or video conference).
+
+| Yes.
+
+| Professional or Employment related information.
+| Directly from our employees and job applicants, and in some cases from their references.
+
+Directly from website and on-premises corporate representative visitors (e.g., company and position).
+
+| Yes.
+
+| Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99).
+| Yes.
+
+| Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+| Based on information directly from our employees and job applicants, and in some cases from their references.
+
+Based on information directly from website corporate representative visitors.
+
+| Yes.
+
+| Category of Sensitive Personal Information
+| From what source did we collect?
+| Did we disclose for a business purpose?
+
+| A consumer’s social security, driver’s license, state identification card, or passport number
+
+Directly from on-premises corporate representative visitors (e.g., physical inspection of ID).
+
+| Yes.
+
+| A consumer’s precise geolocation.
+| Based on activities of our employees (e.g., badging).
+| Yes.
+
+| A consumer’s racial or ethnic origin, religious or philosophical beliefs, or union membership.
+| Directly from our employees or job applicants (e.g., compliance or diversity).
+| Yes.
+
+| The contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication.
+| Based on activities of our employees on company systems.
+| Yes.
+
+| Personal information collected and analyzed concerning a consumer’s health.
+| Directly from our employees or job applicants (e.g., medical/parental leave, disability).
+| Yes.
+
+#### Business or Commercial Purpose for Collecting Personal Information
+
+We collect above categories of personal information for the following purposes:
+
+- To perform the services or provide the goods reasonably expected by our employees, job applicants, website and on-premises visitors including those services and goods that are reasonably necessary for us to administer the applicable relationship and our employees to perform their duties, such as to host a visitor, to fulfill an individual’s terms of employment, to manage our relationship with our employees, our job applicants, our website and on-premises visitors including marketing, and to ensure the safety of visitors and our employees;
+
+- To prevent, detect, and investigate security incidents that compromise the availability, authenticity, integrity, or confidentiality of stored or transmitted personal information, including in or via our premises, computers, software, networks, communications devices, and other similar system;
+
+- To resist malicious, deceptive, fraudulent or illegal actions directed at us and to prosecute those responsible for those actions;
+
+- For short-term, transient use;
+
+- To perform services on behalf of us;
+
+- To verify or maintain the quality or safety of our services and products;
+
+- To improve, upgrade, or enhance our services and products; and
+
+- To collect or process it where such collection or processing is not for the purpose of inferring characteristics about a consumer, including to perform functions that are required under laws that apply to us, such as export control screenings and to support any claim or defense that we could face before any jurisdictional and/or administrative authority, arbitration, or mediation panel, and cooperating with – or informing – law enforcement or regulatory authorities to the extent required by law.
+
+We do not have actual knowledge that we sell or share for cross context behavioral advertising, the personal information of California residents under 16 years of age.
+
+#### Disclosures of Personal Information
+
+Over the last 12 months, we may have disclosed for a business purpose all of the above categories of personal information to our affiliates and employees, service provides, to customers and prospective customers, to government authorities where necessary. We disclose this information to receive services, to facilitate corporate transactions, and to comply with the law or to protect consumers or others.
+
+#### CCPA Rights
+
+As a California resident, you have the following rights under the CCPA:
+
+- The right to know what personal information we have collected about you, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you. You may only exercise your right to know twice within a 12-month period.
+
+- The right to delete personal information that we have collected from you, subject to certain exceptions.
+
+- The right to correct inaccurate personal information that we maintain about you.
+
+- The right to opt-out of the sale or sharing of your personal information by us. We do not sell or share for cross-context behavioral advertising any of the categories of personal information that we collect about California residents.
+
+- The right to limit our use and disclosure of sensitive personal information to purposes specified in Cal. Civil Code 1798.121(a). We do not use or disclose sensitive personal information for purposes other than those specified in Cal. Civil Code 1798.121(a).
+
+- The right not to receive discriminatory treatment by the business for the exercise of privacy rights conferred by the CCPA, in violation of California Civil Code § 1798.125, including an employee’s, applicant’s, or independent contractor’s right not to be retaliated against for the exercise of their CCPA rights.
+
+#### How to Exercise CCPA Rights
+
+Methods of Submission and Instructions: To submit a request to exercise your rights to know, delete or correct, please email [email protected].
+
+Verification: Only you, or someone legally authorized to act on your behalf, may make a request related to your personal information. You may designate an authorized agent by taking the steps outlined under “Authorized Agent” further below. In your request or in response to us seeking additional information, you, or your authorized agent, must provide sufficient information to allow us to reasonably verify that you are, in fact, the person whose personal information was collected which will depend on your prior interactions with us and the sensitivity of the personal information being requested. We may ask you for information to verify your identity and, if you do not provide enough information for us to reasonably verify your identity, we will not be able to fulfil your request. We will only use the personal information you provide to us in a request for the purposes of verifying your identity and to fulfill your request.
+
+Authorized Agents: You can designate an authorized agent to make a request under the CCPA on your behalf if (1) the authorized agent is a natural person or a business entity and the agent provide proof that you gave the agent signed permission to submit the request; and (2) you directly confirm with the Company that you provided the authorized agent with permission to submit the request. If you provide an authorized agent with power of attorney pursuant to Probate Code sections 4121 to 4130, it may not be necessary to perform these steps and we will respond to any request from such authorized agent in accordance with the CCPA.
+
+#### Contact Us
+
+If you have any questions or comments about these disclosures or our practices, please contact us at:
+
+Email address: [email protected]
+
+Postal address: 4650 Cushing Parkway, Fremont, CA 94538
+
+This section applies solely to residents of the European Economic Area, the United Kingdom and Switzerland (EEA+). If you are accessing our websites from within the EEA+, this Supplemental European Online Privacy Statement applies to you in addition to the main body of the Privacy Policy shown above.
+
+Identity of Controller
+
+Lam Research Corporation, 4650 Cushing Parkway, Fremont CA 94538 U.S.A., is the data controller. Lam Research Corporation’s EEA representative for GDPR purposes is Lam Research AG, located at SEZ-Strasse 1, 9500 Villach, Austria. Please submit requests by email to [email protected].
+
+Legal Basis for Processing and Consequences of not Providing Personal Data
+
+We process your personal data on several different legal bases, as follows:
+
+- Based on necessity to perform contracts with you – we need to process your personal data to answer questions and requests from you including when you complete forms requesting information or signing up for emails.
+
+- Based on legitimate interests – where our legitimate interests are security and safety; to detect and prevent fraud; to protect and defend the rights or property of others, or our own rights and interests.
+
+- Based on compliance with legal obligations – we may need to process your personal data to comply with relevant laws, regulatory requirements and to respond to lawful requests, court orders, and legal process.
+
+- Based on your consent if you opt in to our mailing or call lists and if you accept the placement of not strictly necessary cookies. You may withdraw consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
+
+- If you provide your personal data when using our online employment application service, the legal basis for our processing of your personal data is your consent. You are not obliged to provide personal data in this context, but we will not be able to evaluate your candidacy unless we receive sufficient personal data to fully consider your application. If you rescind your application or if we decide to no longer consider your application, we will delete the personal data in your application within one year of such time.
+
+- If you provide your personal data in connection with a request to receive investor information, the legal basis for our processing of your personal data is your consent. You are not obliged to provide personal data in this context, but we will not be able to provide you with investor information unless we receive your personal data.
+
+Recipients in Third Countries
+
+Lam Research Corporation and some of our affiliates and service providers are based in the United States, a country with respect to which the European Commission has not issued an adequacy decision. The transfer of your personal data to the United States is necessary for us to provide our Websites because Lam Research Corporation is located in the United States. If you do not wish to have your personal data transferred to the United States, do not initiate such transfers by using or submitting information through our Websites.
+
+Period of Data Storage
+
+The Company will process your personal data only for as long as necessary for the purposes for which it was collected, to provide you the Websites, for legitimate purposes, in accordance with contract, and where required or allowed under law. We retain online account related personal data as long as your account is active and if you have opted in to receive marketing communications as long as your opt in is active. When we no longer need to retain your personal data, we will remove it from our systems and records and/or take steps to properly anonymize it so that you can no longer be identified from it, unless we need to keep your personal data to comply with legal or regulatory obligations, or to preserve evidence within the statutes of limitation.
+
+Data Subject Rights
+
+You may have a right to request from the Company access to, rectification, or erasure of personal data, or restriction of processing concerning the data subject, or to object to processing, as well as the right to data portability; you can exercise such rights by emailing [email protected]. Please note that these rights might be limited under applicable data protection law.
+
+If you have provided your consent for our data processing, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If you withdraw consent, we may no longer be able to provide certain services to you. You may also have the right to lodge a complaint with a supervisory authority.

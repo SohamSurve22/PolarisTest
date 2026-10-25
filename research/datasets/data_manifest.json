@@ -1,0 +1,35 @@
+{
+  "version": "0.1.1",
+  "created": "2026-10-25T00:00:00Z",
+  "description": "PolarisLex research evaluation dataset",
+  "source_file": "cases.jsonl",
+  "record_count": 42,
+  "splits": {
+    "train": {
+      "count": 33,
+      "case_ids": [
+        "SYN_001", "SYN_002", "SYN_003", "SYN_004", "SYN_005", "SYN_006", "SYN_007", "SYN_008",
+        "SYN_011", "SYN_012", "SYN_013", "SYN_014", "SYN_015", "SYN_016", "SYN_017", "SYN_018", "SYN_019", "SYN_020",
+        "SYN_028", "SYN_029", "SYN_030", "SYN_031", "SYN_032", "SYN_033", "SYN_034", "SYN_035", "SYN_036", "SYN_037", "SYN_038", "SYN_039", "SYN_040", "SYN_041", "SYN_042"
+      ]
+    },
+    "test": {
+      "count": 9,
+      "case_ids": ["SYN_009", "SYN_010", "SYN_021", "SYN_022", "SYN_023", "SYN_024", "SYN_025", "SYN_026", "SYN_027"]
+    },
+    "dev": {"count": 0, "case_ids": []},
+    "val": {"count": 0, "case_ids": []}
+  },
+  "annotation": {
+    "types": ["synthetic"],
+    "annotators": ["R001"],
+    "adjudication": "single",
+    "legal_obligations": ["DPDP_SEC_6_SUB_1", "DPDP_SEC_6_SUB_5", "DPDP_SEC_8_SUB_5"],
+    "element_id_issues": [
+      {"case_ids": ["SYN_007", "SYN_020", "SYN_032"], "value": "organisational_measures", "rule_value": "organisational"}
+    ]
+  },
+  "checksums": {
+    "cases.jsonl.sha256": "04ea2a127be98d938f751b174defc9e5a71b83754a7ed9a27608cbb56d8b935b"
+  }
+}

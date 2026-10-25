@@ -1,0 +1,18 @@
+graph TD
+    A[Policy Input] --> B[Document Pipeline]
+    B --> C[Clause Extraction]
+    C --> D[Compliance Service]
+    D --> E[Vector Retrieval - Qdrant]
+    E --> F[Candidate Matching]
+    F --> G[Evidence Gathering]
+    G --> H[Element Assessment]
+    G --> I[Polarity Detection]
+    H --> J[Classification]
+    I --> J
+    J --> K[Report]
+    
+    style B fill:#e1f5ff
+    style E fill:#e1f5ff
+    style J fill:#e1f5ff
+    style H fill:#fff4e1
+    style I fill:#fff4e1

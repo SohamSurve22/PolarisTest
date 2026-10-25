@@ -1,0 +1,95 @@
+Press release
+
+# Online Privacy and Security Policy
+
+settings=”eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC13YmEubXkub25ldHJ1c3QuY29tL3JlcXVlc3QvdjEvcHJpdmFjeU5vdGljZXMvc3RhdHMvdmlld3MifQ==” OneTrust.NoticeApi.Initialized.then(function() { OneTrust.NoticeApi.LoadNotices([“https://privacyportal-wba-cdn.my.onetrust.com/38794dc0-4a98-47dd-87ef-88f3880e23e3/privacy-notices/20d38eca-f619-4c92-a052-a69254ffd32f.json”]); });
+
+## Stay in the know
+
+Stay connected with the latest updates and the latest news from Walgreens delivered straight to your inbox.
+
+## Continue to explore
+
+### Walgreens Expands Vaccine Access Through Seniors Day In-Store Clinics
+
+Read more
+
+### Updated COVID-19 Vaccines Now Available at Walgreens
+
+Read more
+
+### Flu Shots Now Available at Walgreens with Convenient Walk-In and Scheduling Options
+
+Read more
+
+## Data Preferences
+
+Opt-Out Preference Signal Honored
+
+#### Overview
+
+### Consumer Rights
+
+You trust us with your health and wellness needs, and we take that responsibility seriously. That includes making sure your data is safe and secure, and that you have control. Recent updates to state privacy laws provide consumers with more transparency and options related to their data. California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia, and Washington consumers can, among other things, request a report of their data and how it has been used or request data deletion by clicking on “Submit data request” below and following the prompts. To opt out of the sale or sharing of your data, select the “Sale and Sharing” tab. To limit the use and disclosure of your sensitive data, select the “Sensitive Information” tab.
+
+Submit data request
+
+For more information on the type of data we collect and how we use it, as well as your rights as a consumer, visit our Online Privacy & Security Policy.
+
+Washington Consumers: For more information on the type of "Consumer Health Data" we collect and how we use it, as well as your rights as a consumer, visit our Washington Consumer Health Privacy Policy.
+
+#### Sale and Sharing
+
+Sale and Sharing Opt-Out Disabled
+
+Browser Level Opt-out
+To disable advertising cookies and opt-out of the sale or sharing of your data at a browser level, update your browser settings or select "Opt-out Enabled" in the toggle above and click "Save preferences" below. Note, if you have an opt-out preference signal enabled on your browser or device, Walgreens will seek to honor that signal as a request to opt-out of the sale and sharing of your data at a browser level and the toggle above should display "Opt-out Enabled" without further action and a banner displaying "Opt-Out Preference Signal Honored" should also appear.
+
+"Opt-out Disabled" means you are allowing advertising cookies at a browser level. Advertising cookies are used by Walgreens, in collaboration with our advertising partners, to identify your preferences and interests and provide you with a personalized experience. Data collected through advertising cookies are based on uniquely identifying your browser and device.
+
+"Opt-out Enabled" means you are blocking advertising cookies and opting-out of the sale of your data at a browser level.
+
+Clearing your cookies at any time or moving the toggle back to "Opt-out Disabled" will undo preferences saved here and reenable advertising cookies. To re-save preferences, please return to this screen after clearing your cookies. Also, your preferences may not be saved if you are using a private mode in your web browser.
+
+Please note: Required cookies are used when saving your settings and preferences, when you log in and out of your account, and for other basic site functions. Required cookies are necessary for the website to function and cannot be disabled.
+
+Offline Opt-out
+To opt-out of offline sales or sharing of your data, click on "Submit data request" below and follow the prompts.
+
+Please note: Opting-out of the sale and sharing of your data means that if you are a myWalgreens™ member, you will no longer receive personalized offers.
+
+Submit data request
+
+#### Sensitive Information
+
+Sensitive Information Opt-Out Disabled
+
+Browser Level Limiting
+To limit the use and disclosure of your sensitive data at a browser level, update your browser settings or select "Opt-out Enabled" in the toggle above and click "Save preferences" below.
+
+"Opt-out Disabled" means you are allowing the use and disclosure of your sensitive data at a browser level.
+
+"Opt-out Enabled" means you are blocking the use and disclosure of your sensitive data at a browser level.
+
+Please note: Clearing your cookies at any time or moving the toggle back to "Opt-out Disabled" will undo preferences saved here. To re-save preferences, please return to this screen after clearing your cookies. Also, your preferences may not be saved if you are using a private mode in your web browser.
+
+Offline Limiting
+To submit a request to limit the offline use and disclosure of your sensitive data, click on "Submit data request" below and follow the prompts.
+
+Submit data request
+
+Consumer rights related to sensitive data vary by state. Visit our Privacy Policy for more information.
+
+Online Privacy & Security
+
+#### Privacy Policy
+
+Always Active
+
+For more information on the type of data we collect and how we use it, as well as your rights as a consumer, visit our Online Privacy & Security Policy.
+
+Washington Consumers: For more information on the type of "Consumer Health Data" we collect and how we use it, as well as your rights as a consumer, visit our Washington Consumer Health Privacy Policy.
+
+### Cookie List
+
+checkbox label label

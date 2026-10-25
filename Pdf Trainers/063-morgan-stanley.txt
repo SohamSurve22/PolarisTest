@@ -1,0 +1,121 @@
+## Overview
+
+Morgan Stanley (“us”, “our” or “we”) appreciates that you have provided us with your personal information and protecting that information is an important part of how we conduct our business. We believe it is important for you to know how we treat information about you that we may receive through this site (“Site” or “online services”). Please read this Privacy Policy carefully before using this Site. This Online Privacy Policy currently is applicable only to United States consumers and only when they access and use this Site, and may not be applicable to transactions performed and information collected in other channels.
+
+This Online Privacy Policy describes how we collect information when you access or use our online services and how you can update and control the use of information provided through our online services, how we use, share and protect that information, and how you can update that information. This Online Privacy Policy does not apply to other information we collect, including information collected on other websites, such as separate websites operated by our affiliates or business partners that do not post this Online Privacy Policy, or other information you may provide to us through other means.
+
+## Information Collected
+
+We, and our affiliates, collect personal information you provide via forms, applications, surveys, documents or images you attach or upload, and other online fields. Examples of personal information we may collect include your name, postal or email addresses, telephone, and fax or mobile numbers. There are portions of our online services where we may collect personal information about you to fulfill your online requests (e.g. topics of interest). We may obtain information about you directly from you, through your use of our products and services and from third parties (such as credit bureaus and demographic firms).
+
+When you visit our online services, we and companies we work with may track and collect information from the computer or mobile device you used to access our online services, including the following:
+
+- Information about your device, such as your device model and manufacturer and Internet Protocol (IP) address of your device;
+
+- Information about your browser, such as browser type and platform, operating system, and screen resolution; and
+
+- Information about your browsing behavior, such as the link that brought you to our online services, any links clicked within our online services, the pages on our online services you visited, average time spent on these pages, and when they were visited.
+
+Please see “Information about Cookies and Other Tracking Technologies” below to understand how we collect some of the data described above. We, along with our service providers and business partners, use this data to calculate usage levels for our online services, diagnose problems, ensure that our online services function properly, and for the purposes described below under “Use of Collected Information.”
+
+## Use of Collected Information
+
+We may use information you provide us through our online services to:
+
+- respond to your questions and requests;
+
+- provide service support;
+
+- manage institutional risk;
+
+- assess your satisfaction with our services;
+
+- contact you about updates to our online services;
+
+- conduct research and analytics (for example, regarding the use of our online services), and provide you customized content and communications that we believe may be of interest to you;
+
+- maintain measures aimed at detecting and preventing fraud and protecting the security of personal information and our online services;
+
+- provide specified services to you;
+
+- allow you to utilize features within our Site by granting us access to information from your device, such as contact lists, when you request certain services;
+
+- monitor the performance of our online services, diagnose problems and ensure that our online services function properly, make our online services easier and more convenient to use, and otherwise administer our online services;
+
+- investigate suspected fraud, harassment, or other violations of any law, rule, or regulation, the terms, rules or policies of our online services, or the rights of third parties, or to investigate any suspected conduct which we deem improper;
+
+- comply with laws, regulations, legal processes and law enforcement requirements; and
+
+- otherwise operate our business, or any other purpose that complies with applicable laws and regulations.
+
+## How We Share Personal Information
+
+Any information we collect through your use of our online services may be shared with our service providers, financial institutions with whom we jointly offer financial products, our affiliates, or as permitted or required by law (such as credit bureau agencies, business we buy or sell assets from, and law enforcement or government agencies).
+
+If we have information from you or information that is available from other sources, including from third parties from both offline and online sources, we may use it in combination with the information that we have collected through our online services. We can use this information to better tailor and personalize our services and communications to you, both online and offline, and for any other purpose that complies with applicable law and regulation.
+
+We may also use and share data that we collect on an aggregate or anonymous basis (such that it does not identify any individual consumers) for various business purposes, where permissible under applicable laws and regulations.
+
+## Information about Cookies and Other Tracking Technologies
+
+We, our affiliates and/or other persons acting on our or their behalf use cookies and similar technology, such as web beacons (also known as clear GIFs or pixel tags), or similar technologies as they may develop over time. We use cookies and similar technologies to collect, use, and share information when you visit our online services or interact with us online, e.g., via email or other electronic means. To view our and our affiliates’ Global Cookies Policy, click here.
+
+## Cookies, Web Beacons, and Other Technologies
+
+Cookies are small pieces of data sent from a website and stored on a device. Cookies may enable us to capture and compile statistical information about how you use our online services, including information relating to your device’s IP address, the frequency of your visits, readership data (such as the average length of visits, which pages are viewed or shared during a visit or other interactions with our content, such as time spent viewing videos, PDFs read and links clicked), authentication information, acceptance or rejection of website terms, and periods of inactivity. To learn more about cookies, including information on what cookies have been set on your device and how cookies can be managed and deleted, visit https://www.allaboutcookies.org/
+
+Our online services also use web beacons. Web beacons are invisible tags and may be placed on a webpage, in advertisements, or in an email or other message. They usually work in conjunction with cookies, registering when a particular device visits a particular page. For example, web beacons may count the number of individuals who visit our Site from a particular advertisement or who enroll in a service after viewing a particular advertisement.
+
+## How We Use These Technologies
+
+We, our services providers, and third party business partners use information collected from cookies, web beacons, and similar technologies for the following purposes:
+
+- to allow our online services to operate as you have requested;
+
+- to understand how our online services are accessed and used;
+
+- to recognize you when you return to our Site;
+
+- to assess the effectiveness of advertising and readership content;
+
+- to deliver marketing communications that may be of interest to you, including ads or offers tailored to you; and
+
+- for other purposes described above under “Use of Collected Information.”
+
+We may combine the information that we collect through cookies, web beacons and similar technologies with other personal information we have collected from you from both online and offline sources.
+
+Morgan Stanley works with service providers to promote its products and services both on this Site and other websites. For example, if you visit a page on this Site or third party websites that provides information about a Morgan Stanley product, a cookie may be placed on your browser or device that identifies the product you viewed. This information allows us, our service providers, and our third party business partners to deliver more relevant and tailored content, such as ads for that particular product.
+
+Other than service providers, Morgan Stanley does not allow unaffiliated third parties to collect personal information about your activities on this Site. Nor does Morgan Stanley serve ads promoting unaffiliated third party products or services on this Site.
+
+## Managing Your Preferences
+
+Many web browsers allow you to manage your preferences. You can set your browser to refuse cookies or delete certain cookies. Unless you have adjusted your browser setting so that it will reject cookies, our system will issue cookies when you access or use our online services. In the event you refuse to accept cookies by adjusting your browser setting, some or all areas of our online services may not function properly or may not be accessible.
+
+You can also opt out of receiving targeted ads served by us by clicking here. If you elect to opt out, you will still see ads, but they may not be as relevant to you. Please note that if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. You can also opt out of online targeted advertising by companies participating in the Digital Advertising Alliance by visiting https://www.aboutads.info/choices.
+
+## Do Not Track Policy
+
+Most browsers can be set to send signals to third party websites requesting them not to track the user’s activities. At this time, we do not respond to “do not track” signals. Consequently, our third party service providers may indeed track and collect information about your online activities over time while navigating to, from and on our online services, notwithstanding any “do not track” signals we may receive.
+
+## Our Security Procedures
+
+At Morgan Stanley, our goal is to protect your personal information submitted to us through our online services. We maintain reasonable physical, electronic, and procedural safeguards that comply with applicable law to guard nonpublic personal information about you against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you have provided to us through our online services. We have internal policies governing the proper handling of consumer information by personnel and requiring third parties that provide support or marketing services on our behalf to adhere to appropriate security standards with respect to such information.
+
+## Links to Other Websites
+
+This Online Privacy Policy only applies to the use and disclosure of information we collect through our online services. Our online services may contain links to other websites such as other Morgan Stanley websites and sites belonging to third parties that are not affiliated with us. The inclusion of a link on our online services does not imply endorsement of the linked website or service by us. While we try to link only to websites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other websites, or links posted on our online services. Information you disclose to other parties or through such sites is subject to the privacy and security practices and policies of those parties or websites. We disclaim all liability, to the extent permissible, with regard to your access to such linked websites. Access to any other websites is at your own discretion and we encourage our users to read the privacy statements of each and every website or online services visited in order to learn how such third parties may treat your information.
+
+## International Users
+
+Our online services are United States-based and are controlled, operated and administered by Morgan Stanley from its offices within the United States of America, and are made available to you on an unsolicited basis, without any marketing or promotion regarding these online services to you from Morgan Stanley or its personnel. This Online Privacy Policy is provided in accordance with and subject to applicable U.S. law. If you decide to continue to access our online services from your location outside the United States, you hereby agree that your use of those services is subject to this Online Privacy Policy and your personal information will be transferred or processed in the United States.
+
+## Protecting Children’s Privacy Online
+
+Our online services are not directed to or intended for individuals under 18 years of age.
+
+## Changes to this Online Privacy Policy
+
+We reserve the right to modify or supplement this Online Privacy Policy at any time. Therefore, we recommend that you review this Online Privacy Policy, updated and posted on this Site, regularly for changes. The Effective Date of this Online Privacy Policy, as stated above, indicates the last time this Online Privacy Policy was revised.
+
+Your continued use of our online services after we have changed the Online Privacy Policy signifies your acceptance of the revised terms. Under certain circumstances (i.e., with respect to material changes to this Online Privacy Policy), we may also elect to notify you through additional means, such as by posting a notice on the Site or sending you an email.

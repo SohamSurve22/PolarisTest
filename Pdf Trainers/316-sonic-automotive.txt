@@ -1,0 +1,740 @@
+# Privacy Statement
+
+### Contact
+
+Sonic Automotive
+
+4401 Colwick Road
+
+Directions
+Charlotte, NC 28211
+
+-
+Phone: (704)-566-2400
+
+Privacy Policy
+
+Last updated: August 11, 2025
+
+1. Introduction
+
+This Privacy Policy ("Privacy Policy" or "Policy")
+describes how Sonic Automotive, Inc., EchoPark Automotive, Inc., Sonic
+Powersports, and any affiliates or subsidiary dealership entities and vehicle
+buying centers (collectively "Sonic," "Sonic Automotive," "we," "us," and
+"our ") collect, use, maintain, disclose, and protect certain information
+when you visit www.sonicautomotive.com,
+www.echopark.com, www.sonicpowersports.com, our
+respective dealerships' websites, all related websites
+owned or operated by us that link to this Privacy Policy, any mobile app, and
+any physical location (collectively "Website" or "Site").
+
+Please read this entire Privacy Policy carefully to
+understand our policies and practices regarding your information and how we
+will treat it. By accessing or using this Website for any purpose and by
+submitting any of your personal information to us, you are consenting to the
+terms and conditions of this Policy and to our Terms of Use posted at ("Terms of Use"). If you disagree with any part of this Privacy Policy or the Terms
+of Use, please do not use this Website or any of our other services and do not
+share any personal information with us.
+
+This Website may include links to third-party websites,
+plug-ins, services, social networks, or applications. Clicking on those links
+or enabling those connections may allow the third party to collect or share
+data about you. If you follow a link to a third-party website or engage a
+third-party plugin, please note that these third parties have their own privacy
+policies and we do not accept any responsibility or liability for these
+policies. We do not control these third-party websites, and we encourage you to
+read the privacy policy of every website you visit.
+
+We may periodically make changes to this Policy. We
+encourage you to visit this page often, as it is your responsibility to review
+this Policy and remain informed about any changes.
+
+2. Definitions
+
+As used in this Privacy Policy, the following terms will
+have the following meanings:
+
+"Consent" is the voluntary, written or verbal affirmative
+approval of, or agreement to, a right, authority, or permission requested by us
+regarding our collection, use, or processing of information in any form. Consent includes for example, a Customer's
+electronic execution of a document, affirmative action signifying agreement
+(such as a Customer's clicking on an electronic button or asking us to take his
+or her picture on vehicle delivery), or physical signature of a document.
+
+"Customers" are former, current, or prospective
+purchasers of one or more vehicles or Dealership Services from us and any other
+person or business that visits our Website or our Dealerships or otherwise
+undertakes to do business with us in any manner, including business partners,
+vendors, suppliers, and service providers.
+
+"Customer Data" means a Customer's personal
+information that a Customer submits, emails, transmits, or otherwise makes
+available to us through the use of this Website or otherwise from
+communications or transactions with us, or that we collect from a Customer
+through the Customer's interaction with our Website; provided that
+Customer Data does not include any Dealership Data.
+
+"Dealership Data" means all data and information
+that is created, developed, licensed, stored, or used in or by us or our
+Dealerships or in any of our products, services, or activities, including
+information about a Customer we obtain from third party sources.
+
+"Dealership Services" or "Services" mean
+all products and services other than vehicles that we may offer, sell, lease,
+or provide at any time, including parts, repair services, maintenance services,
+customer support services, finance services, leasing services, and other
+tangible and intangible materials and benefits.
+
+"Vehicle Data" means the digital information
+collected, stored, or used in a vehicle's on-board diagnostics or other
+electronic systems that may include vehicle user names, contact information,
+phone numbers, emails, texts, GPS location data, vehicle service history, and
+other information.
+
+"You," "your," or "user" means
+any and all of our Website visitors and Customers regardless of how such
+persons may interact, communicate, or do business with us.
+
+3. Our Website
+
+Our Website describes a wide range of vehicles and Services
+that we offer, sell, lease, and provide to a broad range of Customers. Our Website
+is for general commercial and informational purposes and is designed to
+facilitate and enhance communications and transactions with Customers for the
+purchase of our vehicles and Services. While any person may review the
+information on our Website, it is not intended for communications or
+transactions with persons under the age of 18.
+
+4. How we collect personal information
+
+4.1 Overview. This section explains generally
+the sources from which, and the means by which, we collect and process personal
+information and the purposes for which we do so.
+
+4.2 Customer registration. A Customer who
+subscribes to or accesses any of our newsletters, email reminder services, or
+other product or Service or who desires to purchase or lease a vehicle from us
+will need to create an account, complete an online registration form, and indicate
+the matters of interest to him or her. Your account data may include your name,
+physical address, phone number, email address, and other information that will
+enable us to respond efficiently to your request or interest. If you desire
+more information about our vehicles and Services, or desire to schedule a call
+with one of our representatives, you may do so online as well.
+
+4.3 Consent to transactional activities. If you
+take steps to do business with us, we will request that you affirmatively
+Consent to our processing of certain transactions like credit checks,
+processing vehicle loans, and warranty applications. We will also ask for your
+Consent to our ability to communicate with you by phone calls, text messages,
+and emails, which will require you to provide us with your phone number and
+email address. If you transfer a picture to us or permit us to take your
+picture upon vehicle delivery, you are deemed to impliedly Consent to our use
+of your picture for marketing purposes (unless and until you advise us
+otherwise in writing). Any form by which we request your Consent will include
+your agreement to this Privacy Policy and our Terms of Use. You agree that we
+can rely upon your Consent for all purposes referenced in the applicable
+Consent document you approve and this Policy.
+
+4.4 Other means of collection. We collect
+personal information by a variety of means and methods, including the
+following:
+
+- When
+you submit personal information to us voluntarily, including when you
+register an account, communicate with us, or search for or order,
+purchase, lease, or acquire any of our vehicles or Services;
+
+- When
+you visit our Website, we may collect location and other information from
+the internet browser you are using;
+
+- When
+you engage in purchase, lease, financing, or other vehicle-related
+transactions with us or with any of our business partners, including
+completion of credit, insurance, warranty, or vehicle protection
+applications or submission of information for vehicle registrations,
+licenses, or calculation and processing of vehicle taxes, permits, or
+services;
+
+- When
+we purchase or accept a vehicle from you as a trade-in, your vehicle may
+include digital systems that may store Vehicle Data and other personal
+data. You agree to delete that information from your vehicle before
+delivering it to us;
+
+- When
+you submit information to us in pursuit of third-party products and
+services, including insurance, maintenance services, and vehicle security
+services;
+
+- When
+your communications with us provide us with certain technical formation,
+such as internet protocol (IP) address, browser type, time zone setting
+and location, device operating system, and other technologies you may use
+to access our Website or otherwise communicate with us;
+
+- Through
+Cookies and navigational data like Uniform Resource Locators (URLs) that
+we, third-party vehicle listing sites, or other digital advertisers may
+use to gather information about the date and time online visits or other
+uses of our Website or the websites of third parties, including business
+partners on whose sites we post vehicle information;
+
+- Through
+third party services we use to track and analyze certain information from
+users of our Website, the websites of business partners, or the websites
+of digital advertising networks with which we work that involve the
+exchange of statistical or demographic data on each site's visitors and
+users;
+
+- From
+third parties and public sources, including from data analytics providers
+for our own social media pages, including Facebook, Twitter, Instagram,
+and LinkedIn;
+
+- From
+vehicle displays, shows, or marketing presentations we may make to you or
+to any group or gathering at which you are present; and
+
+- From
+receiving or responding to any vehicle warranty, service, delivery,
+support, or other Customer inquiry or support request.
+
+5. Description of personal information we collect
+
+5.1 Personal information collected. The personal
+information we collect varies by user, transaction, and purpose, but our
+primary purpose is the efficient and satisfactory conduct of our business and
+for related legal purposes. The types of personal information that we collect
+do not apply at all times or to all Customers, and most types are based on a
+Customer's voluntary submission of data or other voluntary interaction with us
+or our business partners.
+
+Listed below are the categories of personal information that
+we may collect and use in our business for commercial purposes.
+Category
+Examples
+A. Identifiers
+A real name, alias, postal address, telephone number, unique
+personal identifier, online identifier, username/password, Internet Protocol
+address, email address, account name, social security number, driver's
+license number, insurance policy number, passport number or other similar
+identifiers.
+B. Commercial information
+Records of vehicles or Services purchased, obtained or
+considered, contractual relationships entered into with vendors, suppliers,
+Service Providers, or distributors or other purchasing or consumption
+histories, preferences, or tendencies.
+C. Internet or other network activity
+Online browsing history, search history or other
+information relating to a Consumer's interaction with websites, applications,
+or advertisements.
+D. Geolocation data
+Information relating to physical location or movements.
+E. Employment-related information.
+Current job and salary or other income information for
+credit and vehicle financing purposes, excluding information about our own
+employees in their roles as such.
+F. Inferences drawn from other personal information
+Consumer profile data reflecting a person's preferences,
+characteristics or predispositions toward the purchase, sale, lease, or
+servicing of a vehicle.
+
+5.2 Exclusions from coverage. The term personal
+information does not include:
+
+- Publicly
+available information, which is information that is lawfully made
+available from Federal, State, or local government records and information
+that we or a business partner reasonably believes the Customer has
+publicly released or made available without restriction;
+
+- De-identified,
+pseudonymized, or aggregated data;
+
+- Personal
+information covered by certain sector-specific privacy laws that is
+protected in accordance with those laws, including the Fair Credit
+Reporting Act (15 U.S.C. §1681 et seq.) ("FCRA"), the
+Gramm-Leach-Bliley Act (15 U.S.C. §6801 et seq.) ("GLBA"), and the
+Driver's Privacy Protection Act of 1994 (18 U.S. Code §2721 et. seq.) ("DPPA").
+We separately comply with those requirements by means other than through
+application of this Policy; and
+
+- Vehicle
+Data, which we do not voluntarily collect, do not desire to receive, and
+which we request that our Customers purge or delete from any vehicle sold
+to us or traded in for one of our vehicles, before delivery of the vehicle
+to us.
+
+5.3 Sources of collection. We may obtain personal
+information from the following sources:
+
+- Directly
+from Customers from forms or applications the Customers complete or with
+respect to vehicles or Services our Customers purchase or request from us;
+
+- Directly
+from our Customers who visit our social media pages through links from our
+Website (though such social media platforms are subject to their own
+privacy policies and not this Policy);
+
+- Directly
+from a Customers when they pick up a vehicle and request or permit one of
+our sales representatives to take their picture with the new vehicle and
+authorize us to post the picture in our dealership or on our Website or
+use it in marketing materials;
+
+- Indirectly
+from our Customers from observing their actions on our Website or from
+communications with our Customers in any form (i.e., text messages, phone
+calls, or emails), including from in-person visits to our Dealerships;
+
+- From
+our business partners for Services associated with Customers' transactions
+with us (e.g., vehicle searches, credit applications, vehicle protection
+services, Service requests, etc.).
+
+5.4 Personal information
+
+- Customer
+data. You hereby grant us an irrevocable, non-exclusive and perpetual
+license to use all Customer Data that you convey, disclose, or make
+available to us to receive, hold, and use such Customer Data in connection
+with our business and for other purposes allowed by law.
+
+- Dealership
+data. We own and retain all right, title and interest in and to all
+Dealership Data.
+
+- Vehicle
+data. We disclaim any interest in, and any duty or obligation with respect
+to, any Vehicle Data in any form that is present or stored in (in computer
+memory or otherwise) any vehicle that a Customer sells to us or delivers
+to us for trade-in.
+
+5.5 Children.
+It is our policy that we do not intend to collect, and we will not
+knowingly collect, personal information from children under the age of 18. If we learn we have collected or received
+personal information from a child under 18 without verification of parental
+consent, we will delete that information. If you believe we might have any
+information from or about a child under 18, please contact us using the methods
+described below under "Our Contact Information."
+
+6. How we use your personal information
+
+6.1 Purposes. We use the personal information
+that we collect or receive from our Customers for the purposes described in
+this Policy and for other business purposes allowed by law, including the
+development, delivery, and performance of our products and services, sharing
+with our affiliates for related business purposes, and as follows:
+
+- To
+fulfill or meet the reason a Customer provided us with the information.
+For example, if you share your contact information to request a price
+quote or ask a question about our vehicles or Services, we will use that
+information to respond to your inquiry. If you provide your personal
+information to purchase a vehicle or a Service, we will use that
+information to process your payment and facilitate delivery;
+
+- To
+facilitate new orders or to process returns or requests for Customer
+support, including through administering your account;
+
+- To
+market our vehicles to you, including through your subscriptions to any of
+our email notifications or newsletters. You may opt out of receiving communication by clicking the
+"unsubscribe" link at the bottom of each email, by following the
+unsubscribe options in the communication (e.g. texting "stop"), or by
+emailing us separately at privacy@sonicautomotive.com;
+
+- To
+respond to your requests and questions, resolve disputes, investigate and
+address your concerns, and monitor and improve our responses;
+
+- To
+help maintain the safety, security, and integrity of our Website,
+databases, and technology assets and to detect and prevent transactional
+fraud;
+
+- For
+testing, research, analysis, and new product and service development,
+including to improve our Website, products, and services;
+
+- For
+facilitating and processing your transactions with us and with our third
+party affiliates and business partners, including for vehicle purchase,
+leasing, financing, registration, and tax payments and for the performance
+of strategic partnerships;
+
+- To
+respond to law enforcement requests and as required by applicable laws,
+court orders, or governmental regulations;
+
+- To
+process information so as to create de-identified, pseudonymized, or
+aggregated information by removing data that can readily identify or lead
+to the identification of a data subject; and
+
+- To
+evaluate or consummate a sale, merger, divestiture, restructuring,
+reorganization, dissolution, or other transfer of some or all of our
+assets in which personal information held by us is among the assets so
+transferred.
+
+6.2 Exercise of legal rights. We may also
+process your personal information where necessary for the establishment,
+exercise or defense of tax, audit, or other legal rights or to exercise our
+rights, duties or obligations under applicable laws.
+
+6.3 Activities with customer consent. When you
+do business with us, whether online or in person, and Consent to certain
+actions or activities by us, we will undertake, perform, and process such
+activities as you authorize. This may include credit checks, loan processing,
+vehicle warranty applications, license and title registration, and other
+actions. If you Consent to communications with us by phone calls, text messages
+and emails, we will communicate with you at the phone number or email address
+you provide, unless and until you withdraw your Consent in writing. You agree
+that we may rely upon your Consent for all purposes referenced in the
+applicable Consent document and this Policy.
+
+6.4 Participation in
+advertising networks. We do participate in digital advertising
+activities through third party data analytics providers such as Google
+Analytics, which provides us with information collected on third-party websites
+on which we advertise our vehicles, including the identity of users of those
+websites. Our use of digital advertisers and participants helps us identify
+persons who are shopping for vehicles and enables us (i) to measure whether and
+how our ads were delivered to and interacted with by Consumers; (ii) provides
+us reporting about the effectiveness and performance of our ads; (iii) provides
+us reporting about users who interacted with our ads; and (iv) informs us about
+the percentage of our ads that had the opportunity to be seen.
+
+7. Disclosing personal information
+
+7.1 We disclose certain personal information to
+affiliates, including Sonic Automotive, Inc., EchoPark Automotive, Inc., Sonic
+Powersports, and to third parties for purposes related to the conduct of our
+business. We also disclose user data with certain data analytics firms who
+assist in our analysis and improvement of our Website and in the generation of
+Customer leads for our business (e.g., Google Analytics; Twilio Sendgrid, CDK
+eLead, etc.).
+
+7.2 We disclose your personal information to Dealership
+and call center personnel and business partners as necessary to process your
+requests for vehicles and Services. All authorized personnel are subject to
+duties of confidentiality with regard to such information.
+
+7.3 We may disclose your personal information to our
+authorized subcontractors, vendors, service providers, and processors we use to
+support our business and who are subject to confidentiality obligations with
+regard to the processing of such personal information pursuant to a written
+contract. The categories of service providers to whom we may disclose your
+personal information include:
+
+- Business
+partners who assist us in conducting transactions with our Consumers like
+submitting credit applications, financing, vehicle warranties, trade-ins,
+and scheduling vehicle service or delivery;
+
+- Customer
+relationship management ("CRM") software providers with which we
+have entered into licensing agreements for marketing and communications
+activities with current and prospective Customers;
+
+- Data
+analytics and cloud data providers other than Google Analytics with which
+we have entered into licensing agreements for data collection, use,
+analysis, transfer, and storage in support of our business;
+
+- Payment
+processing and human resource information system ("HRIS") providers
+for vendor, supplier, contractor, employee and Service Provider payment
+processing activities; and
+
+- Other
+Service Providers directly involved in our business transactions with
+Customers.
+
+7.4 Financial transactions relating to our vehicles and
+Services are generally paid by check, ACH transaction, wire transfer, or
+through payment services providers (e.g., banks, credit card companies, etc.).
+We disclose transaction data to our vehicle lenders, lessors, and payment
+services providers to process payments and refunds and to resolve issues
+relating to Customer transactions.
+
+7.5 We may also disclose your personal information when
+necessary for compliance with a legal obligation to which we are subject, in
+response to law enforcement requests, in order to secure our networks, to avoid
+fraud or malicious network behavior, to protect your vital interests or the
+vital interests of another natural person, to establish or defend legal claims,
+or to comply with applicable laws.
+
+7.6 We may also disclose your personal information to a
+buyer or other successor in the event of a merger, divestiture, restructuring,
+reorganization, dissolution, or other sale or transfer of some or all of our
+assets.
+
+7.7 We may also disclose your personal information as
+allowed by applicable law or with your consent.
+
+- All
+the above categories exclude text messaging originator opt-in data and
+consent; this information will not be shared with any third parties.
+
+7.8 Sale or Sharing of Personal Information. Our disclosure of certain information (including Customer
+Data, Vehicle Data, and Internet or other Network Activity Data) to the categories of parties described above (including certain
+advertisers and marketing partners, data analytics providers, and social media
+networks), and in other circumstances as described in this
+Privacy Policy, may be considered a "sale" or "sharing" of your information as
+those terms are defined under applicable U.S. privacy laws. You may
+exercise your right to opt out of the "sale" or "sharing" of your personal
+information by clicking here.
+
+8. Cookies that we use
+
+8.1 We use a browser feature known as a "Cookie," web
+beacons (also known as pixels), and other technologies primarily to collect
+information from users of our Website. A Cookie is a file containing an
+identifier (a string of letters and numbers) that is sent by a web server to a
+web browser and is stored by the browser. The identifier is then sent back to
+the server each time the browser requests a page from the server.
+
+8.2 Cookies may be either "persistent" Cookies or "session"
+Cookies. A persistent Cookie will be stored by a web browser and will remain
+valid until its set expiry date, unless deleted by the user before the expiry
+date. A session Cookie, on the other hand, will expire at the end of the user
+session when the web browser is closed.
+
+8.3 Personal information we hold may be linked to the
+information obtained from Cookies.
+
+8.4 We primarily use Cookies for the following
+purposes:
+
+- Authentication: To
+identify you when you visit our Website and as you navigate our Website;
+
+- Status: To
+help us to determine if you are logged into our Website;
+
+- Personalization: To
+store information about your preferences and to personalize the Website
+for you;
+
+- Security: As
+an element of the security measures used to protect Customer accounts,
+including preventing fraudulent use of login credentials and to protect
+our Website and online transactions generally; and
+
+- Analytics: To
+help us analyze the use and performance of our Website and to process
+transactions.
+
+8.5 Our third party vendors may use Cookies that are
+stored on your computer when you visit our Website. Most browsers allow you to
+refuse to accept Cookies and to delete Cookies. The methods for doing so vary
+from browser to browser and from version to version. Blocking all Cookies will
+have a negative impact on the usability of many websites. If you block Cookies
+associated with our Website, you will not be able to use all of the features on
+our website.
+
+8.6 We use Google Analytics, MetaPixel, AUTOID, Google
+Tag Manager, Content Square, and Optimizely to analyze the use of our Website.
+These providers gather information about website use by means of Cookies. The
+information gathered relating to our Website is used to create reports about
+the use of our Website. Visit our Website to manage your Cookie
+preferences.
+
+8.7 Most web
+browsers include a Do-Not-Track ("DNT") feature or setting you can activate to
+signal your privacy preference not to have data about your online browsing
+activities monitored and collected. No uniform technology standard for
+recognizing and implementing DNT signals has been finalized. We currently do
+response to DNT browser signals that automatically communicate your choice not
+to be tracked online.
+
+9. Security of personal information
+
+We implement and maintain reasonable administrative,
+technical, physical, and organizational measures designed to help safeguard
+your personal information against unlawful or unauthorized access, use, or
+disclosure.
+
+Unfortunately, the transmission of information via the
+internet is not completely secure. Although we follow reasonable measures to
+protect your personal information, we cannot guarantee the security of your
+personal information transmitted online. Any transmission of personal
+information is at your own risk. We urge you to be careful when accessing and
+sharing information online.
+
+If you are visiting our Website from a location outside of
+the United States, please be aware that your connection will be through and to
+servers located in the United States. Any information you provide during your
+visit will be processed, stored, and transferred in and to the United States or
+other jurisdictions, which may have different privacy laws that may or may not
+be as protective as your local law. By
+engaging with our Website, you agree to such processing, storage, and
+transfer.
+
+10. Data retention policies
+
+10.1 Our data retention policies are designed to comply
+with our legal obligations in relation to the retention and deletion of
+personal information, whether held by us or by any of our data processors or
+vendors.
+
+10.2 Personal information that we process will be kept
+for as long as necessary to fully perform the purpose for which it is collected
+and for such additional periods of time as we deem necessary or appropriate to
+the sound operation of our business. Our legal rights, obligations, and
+interests require that we retain personal information after the completion of
+specific transactions with our Customers.
+
+10.3 We may retain your personal information for the
+longer of: (i) the period of your consent to our collection and use of such
+information; (ii) the period necessary for us to fulfill the purposes of our
+tax, audit, or other legal rights, duties, and interests with regard to
+Customer Data; (iii) the period necessary for us to protect your vital
+interests or the vital interests of another person, and (iv) such longer period
+as permitted under applicable laws. Customer Data which has been de-identified,
+pseudonymized or aggregated is no longer personal information.
+
+11. Changes to this policy
+
+We may modify this Privacy Policy from time to time by
+publishing a new version on our Website. You should check this Website
+periodically to ensure that you agree with and approve any changes to this
+Policy. Your continued use of our Website or the continued conduct of business
+with us after an update of this Policy constitutes your consent to the then
+current version of this Privacy Policy.
+
+12. Our contact information
+
+If you have any questions or comments about this Privacy
+Policy, please contact us at:
+
+- Email: privacy@sonicautomotive.com
+
+- Toll
+Free Phone: (800) 810-1827
+
+- Mail:
+Consumer Privacy Request, Sonic Automotive, Inc., 4401 Colwick Road,
+Charlotte, NC 28211.
+
+13. Your Rights
+
+Consistent with applicable U.S. state privacy law, you may
+exercise the rights described in this section. Please note that consumer rights
+vary from state-to-state and some states do not provide consumers all of the
+rights detailed below.
+
+Right to Opt Out of Sale/Sharing/Targeted Advertising
+
+As described in
+this Privacy Policy, certain use and disclosure of your personal information
+may be considered "selling" or "sharing" under applicable U.S. privacy laws. You
+may exercise your right to opt out of the "sale" or "sharing" of your personal
+information by clicking here.
+
+Residents of certain states may opt out by broadcasting an
+Opt-Out Preference Signal, such as the Global Privacy Control (GPC) (on the
+browsers and/or browser extensions that support such a signal). If you choose
+to use the GPC signal, you will need to turn it on for each supported browser
+or browser extension you use.
+
+Further, you have
+the right to object, restrict, or limit the ways in which we use or process
+your personal information, including the right to opt-out of marketing communication,
+promotional offers, or advertising from us.
+Where we collect personal information based on your Consent, you can
+withdraw your Consent to our collecting, using, and sharing your personal
+information by contacting us in one of the ways described below.
+
+Right to Access, Know, and Correct
+
+You have the right to know what personal information was
+collected and the right to know the business and commercial purpose with which
+Sonic processed the personal information over the past 12 months. You also have
+the right to correct any personal information maintained by Sonic that may be
+incorrect. Once we receive your request and confirm your identity, we will
+disclose to you:
+
+- The
+categories of personal information collected about you.
+
+- The
+categories of sources for the personal information we collected about you.
+
+- Our
+business or commercial purpose for collecting or selling that personal
+information.
+
+- The
+categories of third parties with whom we share that personal information.
+
+- If we
+sold or disclosed your personal information for a business purpose, two
+separate lists disclosing:
+
+- Sales,
+identifying the personal information categories that each category of
+recipient purchased; and
+
+- Disclosures
+for a business purpose, identifying the personal information categories
+that each category of recipient obtained.
+
+- The
+specific pieces of personal information we collected about you.
+
+You may request a full copy of the information maintained
+about you in a transferable format ("Right to Portability").
+
+Right to Delete
+
+You have the right to request that Sonic delete any of
+personal information collected and retained, subject to certain. Once we
+receive your request and confirm your identity, we will review your request to
+see if an exception applies such that the information should be retained. We
+may deny your deletion request if retaining the information is necessary for us
+or our service provider(s) and as permitted by applicable law. We will delete
+or deidentify personal information not subject to an exception from our records
+and will direct our service providers to take similar action.
+
+"Shine the Light"
+
+California's "Shine the Light" law (Civil
+Code Section § 1798.83) permits users of our Website who are California
+residents to request certain information regarding our disclosure of personal
+information to third parties for their direct marketing purposes in the past
+year, including the categories of personal information disclosed and the identity
+of such third parties. To make such a request, please send an email or write to
+us at the address set forth in Section 12 above.
+
+Exercising Your Rights
+
+To exercise your rights described above, please submit a
+request by either:
+
+· ·Calling
+us at (800)810-1827
+
+· ·Completing
+the data subject request form below:
+
+https://privacyportal.onetrust.com/webform/e552cf47-e4f7-47c2-9b69-3bc1dbebc89a/3faa1473-a2a5-40e6-b7a8-cca2f5af541
+
+We will respond to
+your request within a reasonable time and in accordance with any deadline
+imposed by law and assist anyone who needs assistance preparing a request for
+access.
+
+We will not
+discriminate against you for exercising these rights, including by (a) denying
+you goods or services, (b) charge you different prices or rates for goods or
+services, including through the use of discounts, benefits, or other penalties,
+(c) provide a different level or quality of goods or services, (d) suggest that
+you will receive a different price or quality of goods or services.

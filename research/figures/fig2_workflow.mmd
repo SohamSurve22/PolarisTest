@@ -1,0 +1,13 @@
+graph TD
+    A[Dataset Creation] --> B[Annotation]
+    B --> C[Dev/Val/Test Split]
+    C --> D[Hold-out Test Set - Frozen]
+    C --> E[Dev/Val for Tuning]
+    E --> F[Config Selection]
+    F --> G[Run A,B,C,D on Test]
+    G --> H[Metrics Calculation]
+    H --> I[Error Analysis]
+    I --> J[Report]
+    
+    style D fill:#ffcccc
+    style E fill:#ccffcc

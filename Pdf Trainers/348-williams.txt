@@ -1,0 +1,113 @@
+Williams Companies, Inc. and its subsidiaries, affiliates and divisions (collectively, “Williams,” “we,” “us,” or “our”) are committed to respecting and protecting privacy, and this Privacy Policy explains what personal information we collect, how we use it, with whom we share it, and the rights and choices available to individuals who interact with our websites and services (the “Services”). This Policy applies to visitors to www.williams.com and to websites, pages, and portals we host or control, including the Careers site and applicant portals powered by service providers such as Workday (collectively, the “Sites”). By using our Sites or providing personal information to us, individuals acknowledge this Policy and, where required, provide consent as described below.
+
+##### 1. Our services and scope
+
+Williams provides Services that include submission of employment applications and resumes through our Careers Site, participation in investor relations communications, and general inquiries submitted through Contact Us, and this Policy addresses personal information collected and processed in connection with those Services. This Policy specifically includes additional disclosures for job applicants and candidates who apply for roles via our Careers Site, including the Workday careers module used to manage applications, interviews, communications, and talent community features.
+
+##### 2. Information we collect
+
+We collect information that identifies, relates to, describes, or could reasonably be linked to an individual or household, including the following categories for applicants and site visitors.
+
+- Identifiers and contact information (e.g., name, email address, postal address, telephone and mobile numbers, and unique identifiers).
+
+- Professional or employment-related information (e.g., resume/CV, job history, education, skills, licenses/certifications, references, cover letters, eligibility to work).
+
+- Government identifiers and background information where permitted and relevant to a role (e.g., driver’s license, work authorization documentation, background check results), and only to the extent allowed by applicable law and with required notices or consents.
+
+- Demographic information provided voluntarily for regulatory or other business reporting (e.g., gender, ethnicity, veteran or disability status), collected and used consistent with applicable law and, where required, with consent and limited access.
+
+- Internet or network activity and device data related to use of our Sites and applicant portals (e.g., IP address, device identifiers, pages viewed, session cookies, and similar technologies), as described in the Cookies and Tracking Technologies section.
+
+- Audio, visual, or similar information where interviews are recorded or video tools are used, with notice to candidates and subject to applicable law.
+
+- Sensitive personal information where required for background screening, identity verification, compliance, or benefits eligibility in later stages, processed with enhanced safeguards and limited purposes, and consistent with applicable law.
+
+##### 3. Sources of information
+
+We collect information directly from individuals when they submit forms, create profiles, upload resumes, participate in interviews, communicate with us, or otherwise use the Sites, including through the Workday careers module. We also obtain information from service providers and partners that support recruiting and hiring (e.g., Workday and background screening vendors), references provided by applicants, publicly available sources such as professional networking sites, and from third parties as permitted by law.
+
+##### 4. How we use information
+
+We use personal information to operate, evaluate, and improve our recruiting and hiring processes, including to receive and process applications, assess qualifications, schedule and conduct interviews, communicate about application status, and make hiring decisions. We also use information to comply with legal obligations, maintain the security of our Sites and facilities, prevent fraud, maintain records, conduct reporting and analytics, and, where permitted, to manage talent communities and notify candidates of future opportunities. Where required, we obtain consent for specific uses such as SMS text messaging and optional demographic data, and individuals may withdraw consent at any time as described in the Your Rights section.
+
+##### 5. SMS text messaging
+
+With a candidate’s consent, Williams and its service providers may send text messages regarding application updates, interview scheduling, and other recruiting communications, and consent is not a condition of applying or being considered for employment. Message frequency may vary, message and data rates may apply, individuals may opt out at any time by replying STOP. Where permitted and with separate consent, we may also send job alerts about other roles that may be relevant, and individuals can unsubscribe at any time as described below.
+
+##### 6. Talent community and job alerts
+
+Individuals may choose to join our talent community or receive job alerts regarding roles that match expressed interests or qualifications, which is optional and separate from the application process. Participation may require consent to receive communications by email or text message and[BC1] [KK2] individuals can update preferences or unsubscribe at any time, and declining or withdrawing consent will not affect consideration for specific roles already applied to[BC3] [KK4] or future applications.
+
+##### 7. Cookies and tracking technologies
+
+We and our service providers use cookies, pixels, SDKs, and similar technologies to operate the Sites, maintain security, measure Site performance, and understand how the Sites are used, including session cookies and technologies implemented by providers such as Workday on applicant portals. Individuals can control certain cookies through browser settings and, where required, through consent tools or preference centers, and disabling cookies may impact Site functionality, particularly in secure applicant portals.
+
+##### 8. Sharing personal information
+
+We do not disclose, sell, share, trade, or give away personal information except as described here or with consent. We share information with service providers that perform services on our behalf under written agreements, including hosting, applicant tracking (e.g., Workday), background screening, communications, scheduling, and security, and such providers are required to use the information only to provide services to Williams and to protect it appropriately. We may disclose information when required by law, in connection with legal processes, to protect the rights and safety of Williams or others, or in the context of corporate transactions, and we may provide aggregated or de-identified information that does not identify individuals.
+
+##### 9. International data transfers
+
+Williams is headquartered in the United States and may transfer personal information to the U.S. and other countries where we and our service providers operate, which may have privacy laws that differ from those where an individual resides. When we transfer personal information internationally, we implement appropriate safeguards such as contractual protections and other lawful transfer mechanisms, and we handle personal information as described in this Policy regardless of location.
+
+##### 10. Data retention
+
+We retain personal information for as long as necessary to fulfill the purposes outlined in this Policy, including to consider an application, maintain records in accordance with legal and regulatory obligations, resolve disputes, and enforce agreements, after which we take steps to delete or de-identify information consistent with our retention schedules and applicable law. If an individual joins our talent community, certain profile information may be retained to manage preferences and send job alerts until the individual opts out or the information is no longer needed for that purpose.
+
+Retention by category. We retain each category of personal information described in Section 2 for the period reasonably necessary to achieve the purposes described in Section 4, or as required by law. In general, we may retain pre‑employment and applicant records, including employment applications, resumes/CVs, transcripts, interview notes, assessment results, background check information, and related recruiting files for up to five (5) years, unless a longer period is required due to legal holds or regulatory obligations. After this period, records are securely deleted or de‑identified in accordance with our retention schedule and applicable law.
+
+##### 11. Security
+
+We implement physical, technical, and organizational measures designed to protect personal information against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access, and we educate and train personnel and require confidentiality obligations consistent with our security program. No system can be guaranteed to be completely secure, and we cannot warrant the absolute security of information transmitted to or stored by us or our service providers.
+
+##### 12. Your privacy rights
+
+Depending on location, individuals may have rights regarding their personal information, including rights to access, correct, delete, object or restrict processing, withdraw consent, and receive a copy of information in a portable format, subject to legal limitations and verification of identity. Requests can be submitted using the methods described in the Contact Us and Region-Specific Disclosures sections, and we will respond within timeframes required by applicable law.
+
+##### 13. GDPR/UK data protection disclosures
+
+For individuals in the European Economic Area and the United Kingdom, we process personal information where one or more legal bases apply, including where processing is necessary to consider an application and take steps prior to entering into an employment contract, to comply with legal obligations, for our legitimate interests in recruiting and workforce planning, or with consent for specific purposes such as SMS messaging and optional demographic information.
+
+##### 14. California applicant disclosures (Notice at Collection)
+
+For California residents, we collect the categories of personal information described in Section 2 for the purposes described in Section 4, and we retain information as described in Section 10. We do not sell or share applicant personal information as “sell” or “share” are defined under California law, nor do we use applicant information for cross-context behavioral advertising, and we only use sensitive personal information as reasonably necessary for permitted purposes such as recruiting, background screening, and compliance. California applicants have rights to know, access, correct, delete, and to be free from discrimination for exercising rights, and may limit certain uses of sensitive personal information where applicable by contacting us as described below.
+
+##### 15. Other U.S. state disclosures
+
+Residents of certain U.S. states may have similar rights to access, correct, delete, and opt out of targeted advertising or certain profiling, which can be exercised using the methods in the Contact Us section and our preference tools where applicable, and we will honor legally recognized universal opt-out mechanisms for Sites where such mechanisms apply. We do not engage in targeted advertising or profiling in furtherance of decisions that produce legal or similarly significant effects in the applicant context, and any changes to these practices will be reflected in an updated Policy and preference tools.
+
+##### 16. Automated decision-making
+
+We do not make hiring decisions based solely on automated processing that produce legal or similarly significant effects without meaningful human involvement, and where automated tools are used to assist recruiting (e.g., screening for qualifications), human review is part of our process. If this changes, we will provide additional notices and choices as required by law.
+
+##### 17. Children
+
+Our Sites and Services are not directed to children under the age of 18, and we do not knowingly solicit or collect personal information from minors, and if we learn that we have collected information from a minor, we will take appropriate steps to delete it. Please contact us if a minor’s information may have been submitted to us in error.
+
+##### 18. Linked websites
+
+Our Sites may contain links to third-party websites or services not controlled by Williams, and those third parties may collect and handle information in ways that differ from this Policy, so reviewing their privacy policies is encouraged. Williams is not responsible for the privacy practices of such third parties.
+
+##### 19. Workday and other service providers
+
+We use Workday, Inc. and other service providers to host and operate our Careers Site and applicant tracking systems, and these providers process personal information on our behalf under written agreements that limit their use of the information to providing services to Williams and require appropriate protections. These providers may engage subprocessors to support their services, and we take steps to ensure appropriate safeguards and contractual commitments are in place across our service provider ecosystem.
+
+##### 20. International frameworks and transfers
+
+Where applicable, Williams relies on appropriate transfer mechanisms and safeguards for international data transfers and applies the protections described in this Policy to personal information regardless of where it is processed. Additional region-specific disclosures may apply where required by local law and will be provided through supplemental notices or updates to this Policy.
+
+##### 21. Your choices
+
+Individuals may update contact preferences, withdraw consent to text messages or job alerts, or opt out of non-essential cookies and similar technologies using available tools and by contacting us as described below. Opting out of text messages will not impact application consideration, and other communications necessary for recruiting may continue via email or within applicant portals as permitted by law.
+
+##### 22. How to exercise your rights
+
+To submit a privacy request, please contact us at williamscontact@williams.com and provide sufficient information to verify identity and locate records, and authorized agents may submit requests where permitted by law with appropriate proof of authorization. We will respond consistent with applicable laws and may request additional information solely to verify and process the request.
+
+##### 23. Changes to this policy
+
+We may update this Policy from time to time, and when we do we will post the updated version on the Sites and indicate the effective date, and material changes will be highlighted or otherwise communicated as appropriate. Continued use of the Sites or Services after an update constitutes acknowledgement of the revised Policy to the extent permitted by law.
+
+##### 24. Contact us
+
+For questions or concerns about this Policy or our privacy practices, contact us at williamscontact@williams.com. We will cooperate with applicable authorities to resolve complaints and disputes consistent with our commitments and legal obligations.

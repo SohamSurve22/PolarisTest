@@ -1,0 +1,495 @@
+{
+  "positive_class": "covered",
+  "negative_class": "not_covered",
+  "split": "test",
+  "total_cases": 9,
+  "configs": {
+    "baseline": {
+      "status_distribution": {
+        "partial": 6,
+        "missing": 3
+      },
+      "confusion_matrix": {
+        "tp": 0,
+        "fp": 0,
+        "tn": 7,
+        "fn": 2
+      },
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "specificity": 1.0,
+      "false_covered_rate": 0.0,
+      "element_precision": 0.75,
+      "element_recall": 0.8571428571428571,
+      "element_f1": 0.7999999999999999,
+      "integration_failures": 0,
+      "per_class": {
+        "covered": {
+          "support": 2,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "missing": {
+          "support": 1,
+          "predicted": 3,
+          "precision": 0.3333333333333333,
+          "recall": 1.0,
+          "f1": 0.5
+        },
+        "partial": {
+          "support": 5,
+          "predicted": 6,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1": 0.7272727272727272
+        },
+        "violation": {
+          "support": 1,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    },
+    "element_decomp": {
+      "status_distribution": {
+        "partial": 6,
+        "missing": 3
+      },
+      "confusion_matrix": {
+        "tp": 0,
+        "fp": 0,
+        "tn": 7,
+        "fn": 2
+      },
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "specificity": 1.0,
+      "false_covered_rate": 0.0,
+      "element_precision": 0.75,
+      "element_recall": 0.8571428571428571,
+      "element_f1": 0.7999999999999999,
+      "integration_failures": 0,
+      "per_class": {
+        "covered": {
+          "support": 2,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "missing": {
+          "support": 1,
+          "predicted": 3,
+          "precision": 0.3333333333333333,
+          "recall": 1.0,
+          "f1": 0.5
+        },
+        "partial": {
+          "support": 5,
+          "predicted": 6,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1": 0.7272727272727272
+        },
+        "violation": {
+          "support": 1,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    },
+    "polarity_aware": {
+      "status_distribution": {
+        "partial": 5,
+        "violation": 2,
+        "missing": 2
+      },
+      "confusion_matrix": {
+        "tp": 0,
+        "fp": 0,
+        "tn": 7,
+        "fn": 2
+      },
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "specificity": 1.0,
+      "false_covered_rate": 0.0,
+      "element_precision": 0.75,
+      "element_recall": 0.8571428571428571,
+      "element_f1": 0.7999999999999999,
+      "integration_failures": 0,
+      "per_class": {
+        "covered": {
+          "support": 2,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "missing": {
+          "support": 1,
+          "predicted": 2,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.6666666666666666
+        },
+        "partial": {
+          "support": 5,
+          "predicted": 5,
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1": 0.6
+        },
+        "violation": {
+          "support": 1,
+          "predicted": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    },
+    "combined": {
+      "status_distribution": {
+        "partial": 5,
+        "violation": 2,
+        "missing": 2
+      },
+      "confusion_matrix": {
+        "tp": 0,
+        "fp": 0,
+        "tn": 7,
+        "fn": 2
+      },
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "specificity": 1.0,
+      "false_covered_rate": 0.0,
+      "element_precision": 0.75,
+      "element_recall": 0.8571428571428571,
+      "element_f1": 0.7999999999999999,
+      "integration_failures": 0,
+      "per_class": {
+        "covered": {
+          "support": 2,
+          "predicted": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "missing": {
+          "support": 1,
+          "predicted": 2,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.6666666666666666
+        },
+        "partial": {
+          "support": 5,
+          "predicted": 5,
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1": 0.6
+        },
+        "violation": {
+          "support": 1,
+          "predicted": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "case_comparisons": {
+    "SYN_009": {
+      "gold": "covered",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "partial",
+        "combined": "partial"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "informed_consent",
+            "purpose"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [
+            "informed_consent",
+            "purpose"
+          ],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_010": {
+      "gold": "partial",
+      "predictions": {
+        "baseline": "missing",
+        "element_decomp": "missing",
+        "polarity_aware": "violation",
+        "combined": "violation"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": [
+            "S001_C001"
+          ]
+        },
+        "combined": {
+          "element_hits": [],
+          "polarity_contradictions": [
+            "S001_C001"
+          ]
+        }
+      }
+    },
+    "SYN_021": {
+      "gold": "partial",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "partial",
+        "combined": "partial"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "informed_consent"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [
+            "informed_consent"
+          ],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_022": {
+      "gold": "violation",
+      "predictions": {
+        "baseline": "missing",
+        "element_decomp": "missing",
+        "polarity_aware": "missing",
+        "combined": "missing"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_023": {
+      "gold": "partial",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "partial",
+        "combined": "partial"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "organisational"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [
+            "organisational"
+          ],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_024": {
+      "gold": "missing",
+      "predictions": {
+        "baseline": "missing",
+        "element_decomp": "missing",
+        "polarity_aware": "missing",
+        "combined": "missing"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_025": {
+      "gold": "partial",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "partial",
+        "combined": "partial"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "withdraw"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [
+            "withdraw"
+          ],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_026": {
+      "gold": "covered",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "partial",
+        "combined": "partial"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "informed_consent",
+            "purpose"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "combined": {
+          "element_hits": [
+            "informed_consent",
+            "purpose"
+          ],
+          "polarity_contradictions": []
+        }
+      }
+    },
+    "SYN_027": {
+      "gold": "partial",
+      "predictions": {
+        "baseline": "partial",
+        "element_decomp": "partial",
+        "polarity_aware": "violation",
+        "combined": "violation"
+      },
+      "feature_diagnostics": {
+        "baseline": {
+          "element_hits": [],
+          "polarity_contradictions": []
+        },
+        "element_decomp": {
+          "element_hits": [
+            "appropriate_safeguards"
+          ],
+          "polarity_contradictions": []
+        },
+        "polarity_aware": {
+          "element_hits": [],
+          "polarity_contradictions": [
+            "S001_C001"
+          ]
+        },
+        "combined": {
+          "element_hits": [
+            "appropriate_safeguards"
+          ],
+          "polarity_contradictions": [
+            "S001_C001"
+          ]
+        }
+      }
+    }
+  }
+}

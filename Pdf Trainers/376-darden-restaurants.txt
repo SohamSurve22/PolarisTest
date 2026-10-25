@@ -1,0 +1,375 @@
+# Privacy Notice
+
+Effective Date: January 2025
+Updated: July 2026
+
+- For our California Notice at Collection, please click here.
+
+This Privacy Notice describes the privacy practices of Darden Corporation, our affiliates and brands, including:
+
+- Olive Garden®
+
+- LongHorn Steakhouse®
+
+- Cheddar’s Scratch Kitchen®
+
+- Yard House®
+
+- The Capital Grille®
+
+- The Capital Burger®
+
+- Seasons 52®
+
+- Bahama Breeze®
+
+- Eddie V’s®
+
+- Ruth’s Chris Steak House®
+
+- Chuy’s®
+
+This Notice applies to personal information we collect from or about you during your visits to our websites, mobile applications, social media pages, or other digital channels, via your in-restaurant interactions with us or in-restaurant devices owned or controlled by us, or when you otherwise interact with us (collectively, the “Services”). It also describes how we use and disclose personal information, how we protect it, and your choices relating to your personal information.
+
+The terms “we,” “our,” and “us” in this Notice refer to Darden, as the controller of personal information, together with its family of companies. It’s important to know that our websites or mobile apps may link to content or sites operated by third parties not controlled by Darden or covered by this Notice. We recommend that you check the privacy statements of other sites you visit before providing any personal information. Please note as well that this Notice may not encompass the privacy practices of a Franchised Operator or Licensee of a Darden restaurant, Domestic or International, which are independently operated businesses. Lastly, additional notices and policies may apply to other relationships you may have with us. For example, we have a separate notice for Darden team members and job applicants, as well as a separate privacy notice for current and prospective franchisees.
+
+By using our Services or otherwise providing personal information to us, you agree to our Terms of Use | Darden and our privacy practices as described in this Notice.
+
+## Click on one of the links below to jump to the listed section:
+
+- How We Collect, Use, and Disclose Personal Information
+
+- Cookies and Other Tracking Technologies
+
+- Online Chat Features
+
+- Our Retention of Personal Information
+
+- How We Disclose Personal Information
+
+- Your Choices
+
+- State-Specific Privacy Rights
+
+- Disclosures Relating to Rewards and Offers
+
+- Social Features and Public Forums
+
+- How We Safeguard Personal Information
+
+- How We Protect Children’s Privacy Online
+
+- International Visitors
+
+- Changes to This Notice
+
+- How to Contact Us
+
+## How We Collect, Use, and Disclose Personal Information
+
+“Personal Information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you. Personal Information does not include information that is publicly available, de-identified, or aggregated.
+
+We may collect Personal Information about you in a variety of ways depending on how you interact with our restaurants, websites, mobile applications, or other Services. For example, we may collect Personal Information directly from you, from devices you use to access our Services, and from other sources, such as our affiliates, service providers, and other parties. The following chart provides more detail on the categories of Personal Information we collected within the past 12 months, the purposes for which we collected this information, and the categories of sources from which we collected it:
+
+| Category of Personal Information | Categories of Sources | Purposes for Collection
+
+| Identifiers and Personal Records
+Including name, address, phone number, email address, unique personal identifier, online identifier, IP address, account name, date of birth, drivers license, state identification and other identifiers; credit card number, debit card number, or other financial information.
+This category includes information described in Cal. Civ. Code § 1798.80(e). Username and password combinations may be classified as Sensitive Personal Information under some state privacy laws.
+
+Commercial Information
+Including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Directly from you
+Our business partners and affiliates
+Technologies in use on our Services (such as cookies, pixels, tracking technologies)
+Created by us (for example if we create records pertaining to you, provide you with a login or user ID, or otherwise generate information linked to you)
+From your friends and family
+Service providers that help us to run our business
+Third Parties such as analytics providers, social networks, advertising networks, data brokers, and internet service providers | To provide our Services to you (e.g., processing your orders, establishing a guest record of you, setting up rewards and other accounts, or creating log in credentials for you)
+To process and collect payments for goods and services
+To communicate to you (e.g., about purchases, transactions, special events, programs, rewards, surveys, contests, sweepstakes, and other offers or promotions)
+For research, analysis, and development, including to maintain and improve our products and Services for auditing and for other related business purposes
+To better serve you, including creating and delivering personalized content and experiences
+For marketing, advertising, and promotions
+To provide customer service, including responding to your requests, feedback, questions, and comments
+
+| Demographic Information
+Including date of birth, marital status, family structures, educational levels, employment status, household income and dwelling, characteristics of protected classifications under state or federal law, such as gender and military status. | Directly from you
+Our business partners and affiliates
+Third Parties such as analytics providers, social networks, advertising networks, data brokers, and internet service providers |
+We may collect this information to facilitate targeted communications about products and services to you and to judge the effectiveness of our marketing campaigns.
+
+| Internet or Other Electronic Network Activity Information
+Including browsing history, search history, and information regarding your interactions with our websites, applications, or advertisements. | Technologies in use on our Services (such as cookies, pixels, tracking technologies)
+Third Parties such as analytics providers, social networks, advertising networks, data brokers, and internet service providers | To provide our electronic Services
+For research, analysis, and development, including to maintain and improve our products and Services for auditing, and for other related business purposes
+To better serve you, including creating and delivering personalized content and experiences
+
+| Geolocation Data
+Inferred from your IP address or mobile device location, which may include precise geolocation information (radius < 1,850 ft.), a category of Sensitive Personal Information under some state privacy laws. |
+Technologies in use on our Services (for example, when you enable geolocation sharing with our mobile applications) | To assist in locating a restaurant near you, facilitating mobile ordering and curbside to-go orders, or supporting other similar features or functionality
+For research, analysis, and development, including to maintain and improve products and Services, for auditing, and for other related business purposes
+To better serve you including creating and delivering personalized content and experiences
+
+| Audio/Video Information
+Including closed-circuit audio/video and audio/video collected when you interact with us by phone or videoconferencing. |
+Directly from you | To provide customer service, including responding to your requests, feedback, questions, and comments
+To provide safe and secure facilities and ensure quality
+For research, analysis, and development including to maintain and improve our products and Services for auditing and for other related business purposes
+
+| Professional or Employment-Related Information |
+Directly from you | To facilitate your interactions with us as a vendor or other business contact
+For our Privacy Notice for Team Members and Applicants, please click here.
+For our Privacy Notice for Franchisees, please click here.
+
+| Biometrics Information
+(in some states), including facial images and voice recordings. |
+Directly from you |
+To help verify identity for security purposes, protect against unauthorized activity, comply with applicable legal obligations, and establish, exercise, or defend legal claims.
+
+| Inferences
+Reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | Derived from other categories of Personal Information we collect
+Third Parties such as analytics providers, social networks, advertising networks, data brokers, and internet service providers | We may collect information regarding what products or services may interest you, your predicted attachment to your purchased products, and your likelihood of dining with multiple restaurant Brands.
+To better serve you including creating and delivering personalized content and experiences
+For research, analysis, and development including to maintain and improve our products and Services, for auditing, and for other related business purposes
+
+We may also collect, use, and disclose Personal Information as required by law, regulation or court order; to respond to governmental and/or law enforcement requests; to identify, investigate, contact or bring legal action against someone who may be causing injury to or interfering with our (or others’) rights or property; to support any actual or threatened claim, defense or declaration in a case or before any jurisdictional and/or administrative authority, arbitration or mediation panel; or for other purposes described in any other privacy notice or with your consent. Additionally, we may use and disclose Personal Information to third parties in connection with a sale, assignment, merger, reorganization, or other corporate transaction relating to all or part of our business. Where required by applicable law, consumers may request additional information regarding the specific third parties to whom we have disclosed their personal information.
+
+We may convert, or permit others to convert, Personal Information into deidentified, anonymized, or aggregated data, as permitted by law. When we do so, we commit to maintaining the information in deidentified form, and will not attempt to reidentify the information.
+
+## Use of Sensitive Personal Information
+
+Certain categories of Personal Information we collect may be considered “Sensitive Personal Information” or “Sensitive Data” under applicable state privacy laws. Depending on how you interact with us, this may include account log-in credentials, driver’s license or state identification information, precise geolocation information, payment account information, audio, video, or similar information that may reveal sensitive details or be used to identify you.
+
+We do not use or disclose Sensitive Personal Information or Sensitive Data for purposes other than those permitted by applicable law, such as providing requested services, maintaining security, preventing fraud, complying with legal obligations, or as otherwise authorized by your consent when required.
+
+## Cookies and Other Tracking Technologies
+
+We may collect your Personal Information using cookies, pixels, software development kits, and other similar technologies (collectively, “Tracking Technologies”) to collect and store information about your interactions with our websites and mobile apps, including information about your browsing behavior. In general, we use Tracking Technologies as follows:
+
+- When necessary to operate our Services (for example, for security purposes or to keep items in your bag)
+
+- To enhance the user experience, including by personalizing content for you, greeting you by name, pre-filling forms for you, or remembering your preferences (e.g., your choice of language or location)
+
+- For analytical purposes. For example, to help us understand how our website is used, to see what products most interest you, and to determine how best to market our products to you
+
+- For advertising and marketing. These Tracking Technologies collect information about your use of our Services to show you relevant advertisements when you visit other websites or use social media
+
+Our Services use first-party Tracking Technologies as well as Tracking Technologies supported by our service providers and third parties, such as advertising partners. Here are more details on some of the main Tracking Technologies we use:
+
+- Cookies: Cookies are small text files that a website server stores on your computer or device. The length of time a cookie will stay on your device depends on whether it is a “session” or “persistent” cookie. Session cookies generally stay on your device until you stop browsing. Persistent cookies stay on your device until they expire or are deleted. We use both session cookies and persistent cookies on our websites. Many browsers allow you to adjust your settings to refuse cookies before accessing our website. Different browsers have different cookie-blocking features, so please review your browser’s Help Menu for instructions. You can find more information about how to change your browser cookie settings at allaboutcookies.org and cookiepedia.co.uk.
+
+- Pixels/Beacons: Tracking pixels (also known as web beacons) are tiny graphics embedded invisibly on a webpage that may be used to deliver or communicate with cookies, to count users who have visited certain pages, and to understand usage patterns. We use pixels on our websites or mobile apps to count how many users visit certain pages or take certain actions to collect or receive information from our websites, mobile apps and elsewhere on the Internet. We may use this information to improve our marketing programs and content, and target advertisements on our Services and/or other sites.
+
+- Mobile Device Information: When you use or access our Services from a mobile device, we may collect information such as your unique device ID and your location. If you download and use our mobile apps, we and our service providers may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the app based on your device number, as well as any other Personal Information described in this Notice or specified by the app in its terms or notices.
+
+- Guest Wireless Access: When you connect to guest wireless internet service provided at our locations, we automatically log your activity on that connection, including the time, date, and duration of your connections and information that identifies your device. We use this information to protect our networks and detect potential unauthorized activities.
+
+- Analytics: We use analytics tools provided by Adobe, as well as other vendors. These analytics services may use cookies and other Tracking Technologies to help us analyze how you use our Services. Information collected or generated by these analytics services (e.g., your IP address and other usage information) may be transmitted to and used by these service providers for purposes such as evaluating your use of the Services and compiling statistics about activity on the Services, among other uses. This helps us understand how you use our Services so that we can improve the user experience and better tailor our marketing and promotions. You may exercise choices regarding the use of cookies from Adobe Analytics by going to http://www.adobe.com/privacy/opt-out.html under the section labeled “Tell our customers not to measure your use of their web sites or tailor their online ads for you.”
+
+- Session Monitoring: Some of the technologies used on our website allow us and our service providers to monitor and analyze how visitors use our website in order to better understand user behavior and improve our Services. When you interact with us online, information related to your browsing behavior may be collected by us and our service providers.
+
+- Online Behavioral Advertising (OBA): There are ways we use OBA on third-party websites and mobile apps that are not affiliated with Darden. We may also use device information, particularly in mobile advertising, to help deliver our ads and measure ad campaign effectiveness. Darden and the companies we work with may collect certain information when you visit one of our sites or see our ads. Compiling and comparing this information creates a unique ID for individual devices and can be “matched” to the same information on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.
+
+- Interest-Based Advertising: The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see. This information may be combined and linked with data from other sources. We may also use aggregate data to display ads or content that may interest you. You can personalize the ads you receive or opt out of ads from Google by visiting the Google Ads Settings page. Additional options for opting out of interest-based advertising can be found here.
+
+- Do Not Track and Opt-Out Preference Signals: Our websites do not respond to “Do Not Track” signals at this time. Where required by applicable law, we honor recognized browser-based opt-out preference signals, such as Global Privacy Control (GPC), as a request to opt out of targeted advertising, sales and sharing through Tracking Technologies for that browser or device. Because these signals are browser and device specific, you may need to enable the signal on each browser or device you use.
+
+## Online Chat Features
+
+Our Services may include online chat features to assist with answering questions and providing you with relevant information. When you participate in an interactive chat, either with a virtual or live agent, the contents of the chat may be captured and kept as a transcript. By using an online chat feature, you understand that our vendors may process the information obtained through the chat feature in order to provide services on our behalf.
+
+## Our Retention of Personal Information
+
+We will retain your Personal Information for the purposes for which the information was collected, as outlined in this Notice, and to the extent necessary to manage your relationship with us, personalize and improve your overall customer experience, and to comply with our legal obligations, resolve disputes, and enforce our agreements or rights. The length of retention may vary depending upon factors such as:
+
+- The existence of an ongoing relationship between you and us;
+
+- Recordkeeping or legal compliance requirements;
+
+- Supporting the operation and improvement of our business; and
+
+- The need to resolve inquiries or complaints.
+
+- Darden’s Retention Practices listed above.
+
+## How We Disclose Personal Information
+
+- Disclosures for Business Purposes: Generally, we may disclose any of the categories of Personal Information we collect from our service providers and contractors for the following business purposes:
+
+- Performing services (including processing, maintaining, or collecting Personal Information) on our behalf related to the operation of our business and/or the Services (e.g., fulfilling and delivering orders, processing payments, supporting our marketing, promotions, contests, gift cards or rewards programs, and providing communications, technical, analytical, web hosting, cloud hosting, or other services that help us further the purposes for which we collect each category of Personal Information)
+
+- Auditing related to ad impressions
+
+- Ensuring security and integrity of Personal Information
+
+- Debugging to identify and repair errors that impair existing intended functionality
+
+- Short-term, transient use, including, but not limited to, non-personalized advertising
+
+- Providing advertising or marketing services on our behalf (except for cross-context behavioral advertising)
+
+- Undertaking internal research for technological development and demonstration
+
+- Undertaking activities to verify or maintain the quality or safety of our Services
+
+- To comply with applicable laws and regulations
+
+- For safety and security
+
+- Detecting, protecting against, or addressing malicious, deceptive, fraudulent, or illegal activity
+
+- Transfers of Personal Information Within the Darden Family: We may disclose your Personal Information within the Darden family of restaurants. The Darden Family currently includes Darden, Olive Garden, LongHorn Steakhouse, Cheddar’s Scratch Kitchen, Yard House, The Capital Grille, The Capital Burger, Seasons 52, Bahama Breeze, Ruth’s Chris, Eddie V’s, and Chuy’s as well as our affiliates and subsidiaries. Members of the Darden family who receive this information from us are not authorized to use or disclose the information except as set out in this Privacy Notice.
+
+- Targeted Advertising, Sales, and Sharing of Personal Information: Although we do not sell Personal Information in exchange for money, some of the ways in which we share Personal Information for targeted advertising may be considered “sales” or “sharing” under some US state privacy laws. Listed below are the categories of Personal Information we share for purposes of targeted/cross-context behavioral advertising or otherwise “sell” for non-monetary consideration:
+
+- Identifiers
+
+- Personal records
+
+- Commercial information
+
+- Internet or other electronic network activity information
+
+- Geolocation data (non-precise)
+
+- Inferences
+
+The types of third parties to which Personal Information is sold or shared are third-party advertisers and some analytics vendors. The purposes for which we sell/share this information include showing you relevant ads while you browse the internet or use social media; marketing, advertising, certain types of analytics, or similar purposes. We do not have actual knowledge that we sell or share the Personal Information of consumers under 16 years of age. We do not sell or share Personal Information we obtain for text messaging programs (including opt-in consent data) with any third parties for those third parties’ own marketing purposes. If you would like to opt out of targeted advertising, sales or sharing of Personal Information, please see Your Choices, below.
+
+- Other Disclosures of Personal Information: We may disclose your Personal Information to third parties, including governmental authorities, to comply with any applicable law, regulation, legal process, or enforceable governmental request or if we believe in good faith that such disclosure is necessary to protect against harm to the rights, property or safety of Darden, our customers, or the public as required or permitted by law (especially in emergency situations). We may also disclose Personal Information to evaluate or conduct a merger, sale, or other disposition of some or all of our assets.
+
+## Your Choices
+
+- Opting Out of Targeted Advertising, Sales, and Sharing of Personal Information: In accordance with applicable state privacy laws, we provide the right to opt out of targeted advertising, sales, and sharing of your Personal Information. If you would like to opt out of targeted advertising, sales, and sharing via Tracking Technologies, please scroll down to the bottom of the Darden website you are visiting and click on the “Your Privacy Choices” link.
+Consumers in certain states may also use an opt-out preference signal, such as Global Privacy Control (GPC), to opt out of targeted advertising, sales, and sharing through Tracking Technologies. Where required by applicable law, we treat a recognized opt-out preference signal as a valid request to opt out for that browser or device. If you choose to use a browser-based opt-out signal, you will need to enable it on each browser and device you use. Because we are unable to recognize you across different websites, visiting one of our sites with the signal enabled will have the effect of opting you out of sales and sharing with respect to that specific site, but will not impact other websites or brands. To submit a request to opt out of offline sales and sharing, please use our webform Do Not Sell or Share My Personal Information.
+
+- Changing or Updating Your Personal Information: You may request that any inaccurate or incomplete Personal Information held by us or on our behalf is corrected by contacting privacy2@darden.com.
+
+- Changes to Your Email Preferences: If you wish to opt out from receiving future promotional email communications, you can:
+
+- Use the unsubscribe link in the email you received from us
+
+- Log into your account and update your preferences
+
+- Contact us at privacy2@darden.com
+
+Please note that if you opt-out of our promotional emails, we may still send you email messages related to your account or any Services you request from us. Unsubscribing from our promotional emails will not affect the level or quality of service we provide to you.
+
+- Text Messaging Preferences: You have the choice to opt in to receiving text messages and alerts on the mobile phone number(s) you share with us. You do not have to opt in to text messages and alerts to use and enjoy our Services. If you opt in, standard text messaging charges may apply. You may choose to opt out from our text messages and alerts at any time. To directly opt out, reply to the last text message you received from us on your mobile phone with the word STOP, STOP ALL, END, QUIT, CANCEL or UNSUBSCRIBE, and we will unsubscribe you from applicable text communications.
+
+- Mobile Device Location: If you use our mobile applications that collect precise location, you can change preferences on your mobile device to prevent the apps from collecting that information using your device settings.
+
+## State-Specific Privacy Rights
+
+You may have additional privacy rights under the law of the state in which you live. This section describes the rights of consumers in Alabama.California,Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Louisiana Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oklahoma, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia (collectively “Covered States”), as well as California vendors, franchisees, prospective franchisees and other business contacts. We maintain separate notices for California employees and job applicants.
+
+To exercise any of these rights, please submit a request through our Consumer Privacy Rights webform or call us at 1-888-467-4123. Please note that we may need to authenticate your identity before your request can be processed. For authentication, you will be asked to log into your account or to provide 2-3 pieces of Personal Information that we will match against our records. In some states and for some types of requests, you may designate an authorized agent to make a request on your behalf; however, you will still need to verify your identity directly with us before your request can be processed. An authorized agent may submit a request on your behalf using the webform or toll-free number listed above. We will not retaliate against you if you choose to exercise any of your privacy rights under the Covered State privacy laws.
+
+### California
+
+Right to Know: You have the right to know what Personal Information we have collected about you, which includes:
+
+- The categories of Personal Information we have collected about you, including
+
+- The categories of sources from which the Personal Information was collected
+
+- Our business or commercial purposes for collecting, selling, or sharing Personal Information
+
+- The categories of recipients to which we disclose Personal Information
+
+- The categories of Personal Information that we sold, and for each category identified, the categories of third parties to which we sold that particular category of Personal Information
+
+- The categories of Personal Information that we disclosed for a business purpose, and for each category identified, the categories of service providers and contractors to which we disclosed that particular category of Personal Information
+
+- The specific pieces of Personal Information we have collected about you
+
+Right to Delete Your Personal Information: You have the right to request that we delete Personal Information we collected from you, subject to certain exceptions.
+
+Right to Correct Inaccurate Information: If you believe that Personal Information, we maintain about you is inaccurate, you have the right to request that we correct that information.
+
+Right to Opt Out of Sales and Sharing of Personal Information: You have the right to opt out of the sale of your Personal Information, and to request that we do not share your Personal Information for cross-context behavioral advertising.For more information on how to use this right, please click here.
+
+Right to Limit Use and Disclosure of Sensitive Personal Information: We do not use Sensitive Personal Information for purposes to which the right to limit use and disclosure applies under the CCPA.
+
+### Alabama. Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Louisiana Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oklahoma, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia
+
+Right to Access and Data Portability: You have the right to confirm whether we are processing your Personal Information, to access your Personal Information, and to obtain a copy of certain Personal Information in a portable format. Depending on your state of residence, you may have the right to obtain a list of the categories of third parties, or in some states the specific third parties, to whom we have disclosed your Personal Information.
+
+Right to Delete: You have the right to request that we delete your Personal Information, subject to certain exceptions. Where we use deidentification to satisfy a deletion request, we commit to maintaining and using the information in deidentified form and will not attempt to reidentify the information.
+
+Right to Correct: You have the right to request that we correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and our purposes for processing it.
+
+Right to Opt Out: You have the right to opt out of the following uses of your Personal Information: (a) targeted advertising; (b) the sale of Personal Information; and (c) profiling in furtherance of decisions that produce legal or similarly significant effects concerning your economic situation, health, personal preferences, interests, reliability, behavior, location, or movements. We do not sell Personal Information for money and do not profile individuals in furtherance of decisions that produce legal or similarly significant effects under applicable state privacy laws. For information on how to opt out of targeted advertising and/or non-monetary “sales” of Personal Information, please click here.
+
+Right to Appeal: Sometimes we are unable to process requests relating to your Personal Information, in which case, your request will be denied. If we previously denied your privacy rights request and you believe we denied it in error, you may appeal for reconsideration of your request here Consumer Privacy Rights.
+
+### Nevada
+
+Our uses of Personal Information are not sales under Nevada law. If you have any questions or if you would like to receive notice by email in the event we should engage in “sales” of Personal Information under Nevada law in the future, please submit your Do Not Sell or Share My Personal Information request here or call 1-888-467-4123.
+
+### Disclosures Relating to Rewards and Offers
+
+California Notice of Financial Incentive
+
+Summary: We offer rewards and benefits to those who choose to sign up for certain types of promotions, including our eClub. Participation in our eClub requires you to provide some Personal Information to us, such as Identifiers, Personal Records, Commercial Information, Demographic Information (e.g., date of birth), Internet or Other Electronic Network Activity Information, and Inferences. The eClub is designed to keep you up to date on offers, promotions, and news relating to your favorite Darden brands. From time to time, we may offer free food or drinks, coupons, special offers, or other discounts to consumers who sign up for our eClub or other promotions.
+
+Material Terms: Participation in our eClub requires you to create an account and agree to our Terms of Use, which are linked on the eClub sign-up page and within the footer of each brand’s website.
+
+How to Sign Up: You can sign up for the eClub on the participating brand’s websites.
+
+- For Olive Garden, please click here
+
+- For LongHorn Steakhouse, please click here
+
+- For Cheddar’s Scratch Kitchen, please click here
+
+- For Yard House, please click here
+
+- For the Capital Grille, please click here
+
+- For the Capital Burger, please click here
+
+- For Seasons 52, please click here
+
+- For Bahama Breeze, please click here
+
+- For Eddie V’s, please click here
+
+- For Ruth’s Chris, please click here
+
+- For Chuy’s, please click here
+
+Right to Withdraw: You have the right to withdraw from our eClub and other financial incentives at any time. You may withdraw by calling us at 1-888-467-4123. If you would like to stop receiving our marketing communications, please see the instructions provided here.
+
+Value of Financial Incentive: The value of the benefits provided varies as individuals take advantage of our financial incentive offerings to different degrees. For example, some of our brands provide a free appetizer when you sign up for the eClub, special offers on your birthday, and other special rewards. We estimate that the value of consumers’ Personal Information provided in connection with our eClub and other financial incentives is equivalent to the relevant expenses related to the collection and storage of that Personal Information. Any difference in price or benefits provided to customers who participate in our eClub or other financial incentives is reasonably related to the value of the Personal Information provided, taking account of the fact that the primary purpose of our promotions is to offer discounts and other benefits to our loyal customers.
+
+### Social Features and Public Forums
+
+Certain features on the Services permit interactions between our Services and certain third-party services, such as third-party social networks (“Social Features”). Examples of Social Features include enabling you to share content between our Services and a third-party service; “liking” or “sharing” our content; logging into the Services using your third-party service account; and otherwise connecting the Services to a third-party service (e.g., to pull or push information to or from the Services). If you use Social Features, information you post or provide access to may be publicly displayed on our Services or by the third-party service that you use. Similarly, if you post information on a third-party service that references our Services or brands (e.g., by using a hashtag associated with us), your post may be used on or in connection with the Services or otherwise by us and/or our affiliates. Also, both Darden and the third party may have access to certain information about you and your use of the Services and any third-party service.
+
+From time to time, we may also offer public forums or similar features supporting content you submit, including text, photographs and videos or other file formats that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become publicly available.
+
+### How We Safeguard Personal Information
+
+At no cost to you, we take commercially reasonable steps to protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. Unfortunately, no security system is 100% secure, thus, we cannot guarantee the security of the information you provide to us via the Services.
+
+### How We Protect Children’s Privacy Online
+
+Our online Services are not directed toward children under the age of 16, and we do not knowingly collect, sell, or share Personal Information from children under the age of 16.
+
+### International Visitors
+
+Darden is based in the United States, and its collection and use of Personal Information is processed subject to US Data Protection laws. If you access our Services outside the United States, please be aware that Personal Information we obtain about you may be transferred to and processed in the United States or other jurisdictions outside your own, and may be accessed by the courts, law enforcement and national security authorities in those jurisdictions. By using our Services or otherwise providing your Personal Information to us, you acknowledge and consent to the international transfer and processing of your Personal Information as described in this Notice. Please be aware that the data protection laws and regulations that apply to your Personal Information transferred to the United States or other countries may be different from the laws in your country. If you do not want your Personal Information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use the Services.
+
+### Changes to This Notice
+
+We reserve the right to modify this Notice at any time for any reason at our discretion. We will notify you of changes by posting the revised Notice on this page, and may also notify you in other ways or obtain your consent when required by applicable law. Any change to this Notice will be posted on our Services and your continued use of our Services shall be deemed your acceptance of any modified terms.
+
+### How to Contact Us
+
+If you have any questions or comments about our privacy practices, would like to exercise a privacy right, or need access to this Notice in a different format due to a disability, please send an email to our Privacy team at privacy@darden.com or send a letter to address listed below.
+
+Darden Restaurants
+Attn: Privacy Team
+1000 Darden Center Drive
+Orlando, Florida 32837

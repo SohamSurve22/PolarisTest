@@ -1,0 +1,12 @@
+{
+  \"version\": \"0.1.0\",
+  \"created\": \"2026-10-24T00:00:00Z\",
+  \"description\": \"PolarisLex research evaluation dataset\",
+  \"splits\": {
+    \"dev\": [],
+    \"val\": [],
+    \"test\": []
+  },
+  \"cases\": [],
+  \"checksums\": {}
+}

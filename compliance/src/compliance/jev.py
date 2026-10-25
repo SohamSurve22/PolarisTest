@@ -38,15 +38,25 @@ class JevClient:
 
     def __init__(self) -> None:
         self._client = None
-        # Decides how to build the callable. Missing packages / env keep the
+        # Decides how to build the callable. Missing packages / env / bypass flags keep the
         # caller on Path A; the returned client always returns an empty block.
+        api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+        bypass_openai = (
+            os.environ.get("BYPASS_OPENAI", "").strip().lower() in ("1", "true", "yes")
+            or os.environ.get("DISABLE_JEV", "").strip().lower() in ("1", "true", "yes")
+        )
+
+        if not api_key or bypass_openai:
+            self._client = self._noop_client
+            return
+
         try:
             if os.environ.get("OPENAI_DECISIONS_PREVIEW_URL"):
                 self._client = self._decisions_client()
             else:
                 self._client = self._chat_client()
-        except ImportError:
-            # No OpenAI packages installed -> caller keeps Path A (empty block).
+        except Exception:
+            # Client initialization failed (e.g. OpenAIError, missing packages) -> caller keeps Path A.
             self._client = self._noop_client
 
     def _noop_client(self, payload: dict[str, object]) -> dict[str, object]:
@@ -89,8 +99,8 @@ class JevClient:
         }
         try:
             return self._client(payload)
-        except JevError:
-            # Outage / missing key must never 503: caller keeps Path A.
+        except Exception:
+            # Outage / missing key / runtime errors must never 503: caller keeps Path A.
             return {
                 "status": "undetermined",
                 "clause_ids": [],
@@ -123,12 +133,12 @@ class JevClient:
                         json=body,
                         timeout=30.0,
                     )
+                    if resp.status_code == 403:
+                        raise JevError("decisions preview 403")
+                    resp.raise_for_status()
+                    return self._decisions_parse(resp.text)
                 except requests.RequestException as exc:
                     raise JevError(str(exc)) from exc
-                if resp.status_code == 403:
-                    raise JevError("decisions preview 403")
-                resp.raise_for_status()
-                return self._decisions_parse(resp.text)
             raise JevError("decisions preview exhausted retries")
 
         return client
@@ -165,10 +175,17 @@ class JevClient:
     # ------------------------------------------------------------------
 
     def _chat_client(self) -> callable:
-        import openai  # noqa: F401 – ensures package is present before binding
-        from openai import OpenAI
+        api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+        if not api_key:
+            return self._noop_client
 
-        openai_client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        try:
+            import openai  # noqa: F401 – ensures package is present before binding
+            from openai import OpenAI
+
+            openai_client = OpenAI(api_key=api_key)
+        except Exception:
+            return self._noop_client
 
         def _call(payload: dict[str, object]) -> dict[str, object]:
             model = CHAT_MODEL  # use the chat model, not the decisions-preview one

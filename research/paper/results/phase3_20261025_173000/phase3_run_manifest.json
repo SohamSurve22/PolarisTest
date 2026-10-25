@@ -1,0 +1,33 @@
+{
+  "run_id": "phase3_20261025_173805",
+  "timestamp": "2026-10-25T17:38:05+05:30",
+  "git_commit": "ceaf61030a0f5b8dfe57ab2f272f68d5dd902145",
+  "working_tree_note": "Repository had pre-existing modifications and untracked research files; no reset or cleanup was performed.",
+  "dataset": {
+    "path": "research/datasets/cases.jsonl",
+    "sha256": "04ea2a127be98d938f751b174defc9e5a71b83754a7ed9a27608cbb56d8b935b",
+    "split": "test",
+    "case_count": 9,
+    "full_dataset_case_count": 42,
+    "full_dataset_annotation_issue": "SYN_007, SYN_020, and SYN_032 use organisational_measures while the current rule schema uses organisational; no gold annotation was changed.",
+    "gold_status_mapping": {
+      "positive": "covered",
+      "negative": ["partial", "missing", "violation", "conflict", "undetermined", "not_applicable"]
+    }
+  },
+  "retrieval": {
+    "mode": "keyword-stub",
+    "qdrant": false,
+    "query_used": false,
+    "threshold": 0.30,
+    "note": "Each policy clause is scored against duty-rule keywords and contradiction cues; no Qdrant service or vector similarity was used."
+  },
+  "configurations": {
+    "baseline": {"label": "A", "use_element_decomposition": false, "use_denial_polarity": false},
+    "element_decomp": {"label": "B", "use_element_decomposition": true, "use_denial_polarity": false},
+    "polarity_aware": {"label": "C", "use_element_decomposition": false, "use_denial_polarity": true},
+    "combined": {"label": "D", "use_element_decomposition": true, "use_denial_polarity": true}
+  },
+  "historical_results_preserved": true,
+  "external_services": {"qdrant_tcp_6333": false, "docker_daemon": false}
+}

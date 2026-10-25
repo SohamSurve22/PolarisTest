@@ -1,0 +1,389 @@
+CLOSE
+
+# PRIVACY AND SECURITY POLICY
+
+Last Updated January 1, 2023
+
+## WELCOME!
+
+US Foods, Inc. and its affiliates, including CHEF’STORE (together, “US Foods,” “we,” “us,” or “our”) recognize the importance of privacy and the need to protect the Personal Information provided to us. This Privacy Policy (the “Privacy Policy”) explains our data collection practices and use of your Personal Information. This Policy applies to our websites (including www.usfoods.com, www.chefstore.com, and sub-domains such as ir.usfoods.com), our mobile applications (including the US Foods App, the US Foods Events, and US Foods My Account, Mobile Ordering, Dine with US Foods mobile apps), and to information we collect offline (together, our “Service”).
+
+Please read this Privacy Policy and our Terms of Use carefully before using the Service. We want you to be fully aware and confident of how your information is collected and used because we appreciate the trust you have placed in us. By using the Service or otherwise providing Personal Information to us, you agree to the Service’s Terms of Use and consent to US Foods’ data collection, use, and disclosure practices, and other activities as described in this Privacy Policy, and any additional privacy statements that may be posted on an applicable part of the Service. If you do not agree and consent, please discontinue use of the Service, and uninstall Service downloads and applications.
+
+## WHAT PERSONAL INFORMATION DO WE COLLECT & Why do we collect it?
+
+“Personal Information” is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you. Personal Information does not include information that is publicly available, de-identified, or aggregated.
+
+The chart below summarizes the types of Personal Information we may collect from you and why we collect it:
+CATEGORY OF PERSONAL INFORMATION
+EXAMPLES
+PURPOSE(S) FOR COLLECTION, USE, AND DISCLOSURE
+Contact Information
+Name, title, alias, postal address, phone number, fax number, email address, driver’s license or state ID card number
+- To fulfill and deliver your orders
+
+- To maintain your account with us
+
+- To communicate with you, including about our products and your orders, updates to our terms and policies, and to obtain your feedback
+
+- Processing returns and refunds
+
+- For product warranties
+
+- To send you marketing materials and advertisements
+
+- To allow you to participate in promotions, sweepstakes, and contests
+
+- To detect and prevent fraud against you and/or us
+Other Identifiers
+Username and password for our Services, security question/answer combinations, IP address, mobile device identifiers, signature, social security number, social media usernames
+- To maintain your account with us
+
+- To recognize you when you use our Services
+
+- To show you relevant ads while you browse the internet or use social media
+
+Payment Information
+Credit card number, financial account number, or other payment information used to purchase our products
+- To process your orders and any returns/refunds, including allowing you to purchase on credit
+
+Commercial Information
+Products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, information from surveys, promotions and product reviews
+- To fulfill and deliver your orders
+
+- Processing returns and refunds
+
+- To provide you with appropriate products and recommendations
+
+- To help you find relevant products more quickly
+
+- To provide customer service and support
+
+- To improve our websites, apps, products, marketing and advertising
+Demographic Information
+Age, birth date, gender, languages spoken, professional/employment information (employer name, your position title, etc.)
+- To send you relevant marketing materials and advertisements
+
+- To improve our websites, apps, products, marketing and advertising
+Internet or Other Electronic Network Activity Information
+Browser type and language, operating system, internet or mobile network provider, website or app access time, duration of visit, referring website address, browsing and search history, webpages viewed immediately before and after our websites, information related to your interactions with our Service, social media pages, emails, online chat, text message communications, and advertisements
+- To provide you with a better website or app experience
+
+- To provide you with appropriate products and recommendations
+
+- To show you relevant ads while you browse the internet or use social media
+
+- To improve our websites, apps, marketing, and advertising
+
+Geolocation Data
+Your physical location based on information you provide directly or inferred from your IP address or mobile device location
+- To fulfill and deliver your orders
+
+- Processing returns
+
+- To help you find one of our retail stores
+
+- To tailor content, marketing, or advertising
+Audiovisual Information
+Security camera recordings in our stores, audio data collected when you call our customer service numbers
+- To protect the security of our stores
+
+- To provide you with customer service
+
+- To improve our products and the Service
+Communications with Us
+The contents of your communications with us via phone, email, text message, chat, or other means (such as survey responses, product reviews, and comments on our blog and social media pages)
+- To communicate with you, including about our products and your orders, to provide answers to your questions, and to obtain your feedback
+
+- To provide customer service and support
+
+- Processing returns and refunds
+
+- To improve our websites, apps, products, and marketing
+
+Inferences About You from Any Other Category of Information We Collect
+- Information reflecting your preferences, characteristics, trends, or attitudes
+- To provide you with appropriate products and recommendations
+
+- To improve our websites, apps, products, and marketing
+
+- To provide you with a better website or app experience
+
+We may use and share information for any purpose if it is publicly available, de-identified, or aggregated with other information so that it can no longer identify you.
+
+## HOW DO WE COLLECT PERSONAL INFORMATION?
+
+We collect your Personal Information through various means, including when you directly provide it to us and automatically through your use of our websites or apps. We may also collect Personal Information about you from our Service Providers and from third parties. In some instances, you may be able to choose what information to provide, but sometimes we require certain information from you to use features of our Service.
+
+## Information that You Provide
+
+We collect Personal Information about you directly when you:
+
+- Register or maintain an account with us
+
+- Purchase products or services from us
+
+- Apply to purchase products on credit
+
+- Enter search terms or other information through our websites or apps
+
+- Visit one of our stores
+
+- Exchange communications with us by mail, email, phone, text, etc.
+
+- Post comments to our online communities
+
+- Obtain customer service or technical support
+
+- Participate in a survey, marketing promotion, sweepstakes or contest
+
+- Post reviews or other information about our products or Service
+
+- Connect with us via social media
+
+## Information Collected Automatically
+
+US Foods, our Service Providers, and/or third-party services also automatically collect certain information about you when you access or use the Service (“Usage Information”). Usage Information may include IP address, device identifier, browser type, operating system, information about your use of the Service, and data regarding network connected hardware (e.g., computer or mobile device).
+
+The methods used to collect Usage Information include:
+
+- Log Information. Log information is data about your use of the Service, such as IP address, browser type, mobile app usage data, Internet service provider, referring/exit pages, operating system, date/time stamps, and related data, and may be stored in log files.
+
+- Cookies. We use cookies and other tracking technologies (such as web beacons) to collect and store information about your interactions with our websites, including information about your browsing behavior. Our websites also support third-party cookies placed by our Service Providers, affiliates, and advertising partners.
+
+Cookies are small files that a website transfers to your device through a web browser that enable the site’s or a third party’s systems to recognize your device and to capture and remember certain information. Web beacons (also known as tracking pixels) are tiny graphics embedded invisibly on a webpage or in an email that may be used to deliver or communicate with cookies, to count users who have visited certain pages, and to understand usage patterns. In general, our websites use cookies and other tracking technologies as follows:
+
+- Where necessary to run our websites, for example by allowing you to log in and add items to your cart
+
+- To optimize the functionality of our websites, including by personalizing content for you, greeting you by name and remembering your preferences (e.g., your choice of language or region)
+
+- For analytics purposes—for example, to help us understand how our websites are used, to see what products most interest you, and determine how best to market our products to you. More information on website analytics is provided below.
+
+- For purposes of ad targeting and marketing. These cookies collect information about your browsing behavior on our websites in order to show you interest-based advertising when you visit other websites or use social media.
+
+- To determine if you open or act upon our email messages. Information on unsubscribing from our commercial email communications is provided below.
+
+- To obtain information about your interactions with our online advertisements, such as whether you clicked on an ad and the website where you may have seen the ad
+
+Cookies vary in how long they last. “Session cookies” terminate shortly after you terminate your internet session. “Persistent cookies” are stored on your device until a set expiration date. We use both session cookies and persistent cookies on our websites.
+
+More information on how the CHEF’STORE website uses cookies can be found here.
+
+- Web Beacons (“Tracking Pixels”). Web beacons are small graphic images, also known as “Internet tags” or “clear gifs,” embedded in web pages and e-mail messages. Web beacons may be used, without limitation, to count the number of visitors to the Service, to place cookies, to monitor how users navigate the Service, and to count content and advertising views.
+
+- Embedded Scripts. An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your computer from US Foods’ web server, or from a third party with which US Foods works and is active only while you are connected to the Service and deleted or deactivated thereafter.
+
+- Location-identifying Technologies. GPS (global positioning systems) software, geo-filtering and other location-aware technologies locate you (sometimes precisely), or make assumptions about your location, for purposes such as verifying your location and delivering or restricting content based on your location. If you have enabled GPS or use other location-based features on the Service, your device location may be tracked by us and third parties. Our store finder feature may access and use information about your device location (such as based on IP address or GPS, as applicable), or your account information, to suggest appropriate store locations. Our Service content may be personalized based on various information we may have about you to try to provide you with more location-relevant content.
+
+- In-App Tracking Methods. There are a variety of Tracking Technologies that may be included in mobile applications. These are not browser-based like cookies and cannot be controlled by browser settings. Some use device identifiers, or other identifiers such as “Ad IDs,” or may use “SDKs,” to associate app user activity to a particular app and to track user activity across apps and/or devices. SDKs are blocks of code that may be installed in our mobile application by third party companies with which we work. SDKs help us understand how you interact with our mobile application and collect certain information about the device and network you use to access our application, such as the advertising identifier associated with your device and information about how you interact with our application.
+
+- Device and Activity Monitoring. Technologies that monitor, and may record, certain of your interactions with the Service, and/or collect and analyze information from your device, such as, without limitation, your operating system, plug-ins, system fonts, and other data, for purposes such as identification, security, fraud prevention, troubleshooting, tracking and/or improving the Service and customizing or optimizing your experience on the Service.
+
+## Information US Foods Collects from Other Sources
+
+Our Service Providers may collect Personal Information on our behalf in the course of providing their services to us. For example, when you place an order through one of our delivery partners, the delivery service may provide us with information about you and your order. We also may obtain your Personal Information from our parent, subsidiary, and sister companies. In some circumstances, we obtain Personal Information about you from business partners, resellers and data brokers, some of which may sell the information to us. To understand your rights and choices regarding Personal Information collected by other companies, please consult the privacy policies of the businesses that you interact with.
+
+## WHEN WILL WE SHARE YOUR INFORMATION?
+
+We may disclose your Personal Information for any purposes not inconsistent with this Privacy Policy, our written statements at the point of collection, or applicable law. In general, we share Personal Information as follows:
+
+- Within our group of companies including with our affiliates, subsidiaries, locations, brands, etc.
+
+- With our agents, vendors, consultants, and other service providers (collectively, “Service Providers”) in order for them to provide their services to us. For example, we may share your Personal Information to process or deliver your orders (including with delivery service partners such as Instacart and Shipt), provide customer service, operate and improve our business, websites and apps, improve our products and customer service, help run our Promotions, perform marketing and advertising services on our behalf, process payments or assess creditworthiness, perform auditing and quality control, to communicate with you, and to otherwise operate our business.
+
+- With third parties for marketing purposes, to improve our products and services, or to provide you with other products and services that may interest you
+
+- With our advertising partners for the purposes of ad targeting, remarketing, and customized advertising content
+
+- As necessary, for the following purposes: (a) to comply with any legal process; (b) to respond to requests from public and government authorities; (c) to enforce our terms and conditions; (d) to protect our operations and protect our rights, privacy, safety or property, and/or that of you or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain
+
+- With our insurers and professional advisers for the purposes of managing risks, obtaining professional advice, exercising or defending against legal claims, etc.
+
+- With third parties in connection with or during negotiations of any reorganization, acquisition, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceeding)
+
+Social Features on Our Service
+
+Certain functionalities on the Service permit interactions that you initiate between the Service and certain third-party services, such as third-party social networks (“Social Features”). Examples of Social Features include: enabling you to send content such as contacts and photos between the Service and a third-party service; “liking” or “sharing” US Foods’ content; logging into the Service using your third-party service account (e.g., using Facebook Connect to sign-in to the Service); and to otherwise connect the Service to a third-party service (e.g., to pull or push information to or from the Service). If you use Social Features, information you post or provide access to may be publicly displayed on the Service or by the third-party service that you use. Similarly, if you post information on a third-party service that references the Service (e.g., by using a hashtag associated with US Foods, CHEF’STORE, or other US Foods affiliates in a tweet or status update), your post may be used on or in connection with the Service or otherwise by us and/or our affiliates. Also, both US Foods and the third party may have access to certain information about you and your use of the Service and any third-party service.
+
+Analytics
+
+US Foods may use Google Analytics, Adobe Analytics, or other Service Providers for analytics services. These analytics services may use cookies and other Tracking Technologies to help US Foods analyze Service users and how they use the Service. Information generated by these analytics services (e.g., your IP address and other Usage Information) may be transmitted to and stored by these Service Providers on servers in the U.S. (or elsewhere) and these Service Providers may use this information for purposes such as evaluating your use of the Service, compiling statistics on the Service’s activity, and providing other services relating to Service activity and other Internet usage. See below for more information on your choices regarding these services.
+
+## YOUR CHOICES ABOUT TRACKING AND COMMUNICATIONS FROM US
+
+Cookies and Tracking Technologies
+
+Cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. Browsers offer different functionalities and options, so you may need to set them separately. Please review your browser’s Help menu for instructions, or visit www.allaboutcookies.org for more information. Additional options for opting-out of interest-based advertising can be found at https://optout.networkadvertising.org/?c=1. Please note that, if you disable all cookies, some features of our websites may not function properly.
+
+Do Not Track Signals
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. We do, however, respond to the Global Privacy Control (“GPC”) signal for California residents wishing to opt-out of the “sale” of their Personal Information. For more information, please see the California-specific section of this Policy, below.
+
+Analytics and Advertising Technologies
+
+You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout or downloading the Google Analytics Opt-out Browser Add-on. You may exercise choices regarding the use of cookies from Adobe Analytics by going to http://www.adobe.com/privacy/opt-out.html under the section labeled “Tell our customers not to measure your use of their web sites or tailor their online ads for you.” To exercise choices regarding the use of cookies from Yahoo, please visit https://policies.yahoo.com/ie/en/yahoo/privacy/topics/webanalytics/index.htm. To opt-out of Hotjar’s collection and use of your Personal Information for analytics, please visit https://www.hotjar.com/legal/policies/do-not-track/.
+
+You may choose not to receive some interest-based advertising by submitting opt-outs. Some of the advertisers and Service Providers that perform advertising-related services for us may participate in the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding interest-based advertising, including use of cross-device data for serving ads, visit http://www.aboutads.info/choices/, and http://www.aboutads.info/appchoices for information on the DAA’s opt-out program specifically for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see http://www.networkadvertising.org/choices/. Please be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain interest-based advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use a different device or web browser or use a non-browser-based method of access (e.g., mobile app), your NAI / DAA browser-based opt-out may not be effective.
+
+We also use advertising services provided by Google Ad Services and Microsoft Advertising Services. To learn more about the data Google collects and how your data is used by it and to opt out of certain Google browser Interest-Based Advertising, please visit here. To learn about the data Microsoft collects and how your data is used by it and to opt out of certain Microsoft browser interest-based advertising, please visit here.
+
+In addition, we may serve ads on other online services that are targeted to reach people on those services who are also identified on one of more of our databases (“Matched List Ads”). This is done by using tracking technologies or by matching common factors between our databases and the databases of the other online services such as Facebook or Twitter. We are not responsible for these third-party services, including without limitation their security of the data they hold about you. If we use Facebook to serve Matched List Ads on Facebook services, you should be able to hover over the box in the right corner of such a Facebook ad, or go to your account settings, and find out what options Facebook offers you to control such ads. If we use Twitter Matched List Ads, you should be able to review your ad options in account settings on Twitter.
+
+US Foods is not responsible for effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+
+Mobile Apps
+
+With respect to US Foods’ mobile apps (“apps”), you can stop all collection of data generated by use of the app by uninstalling the app. To uninstall our apps, please follow the instructions from your operating system or device manufacturer. You may also be able to exercise specific privacy choices, such as enabling or disabling certain features (e.g., tracking across apps and websites owned by other online services, location-based services, push notifications, accessing calendar/contacts/photos, etc.) by adjusting the permissions in your mobile device and/or the app’s settings.
+
+Email Communications
+
+You may unsubscribe from our marketing email communications by clicking the “unsubscribe” link found in every commercial email we send, or by sending a request to unsubscribe to LegalNotices.Shared@usfoods.com. If you opt-out of our marketing email communications, we may still send you email messages related to your account or purchases with us. Unsubscribing from our marketing communications will not affect the level or quality of service we provide to you.
+
+Text/SMS Messages
+
+You have the choice to opt-in to receiving text messages and alerts on the mobile phone number(s) you share with us. Once you opt-in, we may send you text messages (i) regarding your account and your orders; (ii) about our products and promotions (including advertisements, sales, and special offers); (iii) to investigate or prevent fraud; and (iv) to alert you in the event of an issue with any of your purchases. You do not have to opt-in to text messages and alerts to use and enjoy our websites or products. If you opt-in, standard text messaging charges may apply. You may choose to opt-out from our text messages and alerts at any time. To directly opt-out, send us a text message from your mobile phone with the word STOP, STOP ALL, END, QUIT, CANCEL or UNSUBSCRIBE, and we will unsubscribe you from text communications. If you opt-out, you will not receive any additional text messages via your mobile phone. For more information regarding our text messaging and alerts, please contact us at LegalNotices.Shared@usfoods.com or 1-847-720-8000.
+
+## SECURITY AND PASSWORDS
+
+We work hard to protect US Foods and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular, we implement commercially reasonable measures to protect Personal Information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. Nevertheless, transmission via the Internet and online digital storage are not completely secure and US Foods does not guarantee the security of your information collected through the Service. You are responsible for maintaining the confidentiality of your passwords and the security of your devices. If you suspect any unauthorized activity associated with your account, please report that activity to us immediately.
+
+## INTERNATIONAL VISITORS
+
+Our Service is directed solely to residents of the United States. If you access the Service from outside of the U.S., please be aware that Personal Information collected through the Service may be transferred to, processed, stored, and used in the U.S. Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any Personal Information constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of your information in the U.S. as set forth in this Privacy Policy.
+
+## CHILDREN’S PRIVACY
+
+The Service is intended for a general audience and not directed to children less than 16 years of age. We do not knowingly collect or sell the Personal Information of children under the age of 16. If we learn that we possess information from a child under the age of 16, we will delete such information in accordance with the Children’s Online Privacy Protection Act (“COPPA”) or other applicable laws (such as the California Consumer Privacy Act). If you are a parent or guardian and you believe that your child under the age of 16 has provided us with Personal Information, please contact us.
+
+## NEVADA PRIVACY NOTICE
+
+Nevada residents may opt-out of the sale of “covered information” to third parties, including but not limited to name, address, social security number, telephone number, email address, and other information through which a person may be contacted. Our uses of your Personal Information are not sales under Nevada law. If you have any questions or if you would like to receive notice by email in the event we should engage in sales of Personal Information under Nevada law in the future, please email us at LegalNotices.Shared@usfoods.com.
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+This section supplements the other parts of our Privacy Policy, and provides additional information for California residents pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act (“CCPA”), and other applicable California laws and regulations.
+
+If you a US Foods employee, please see our California Employee Privacy Notice for additional disclosures. If you are a job applicant, additional disclosures can be found here.
+
+California Notice of Personal Information Collected.
+
+The Personal Information we collect about you, the sources from which we collect it, and how we use and disclose it are described elsewhere in this Privacy Policy. Here is how the types of Personal Information we collected within the past 12 months fit within the categories defined by the CCPA:
+
+- Identifiers—including your name, alias, title, user ID, email address, email communication preferences, postal address, phone number, fax number, signature, social security number driver’s license or state ID card number, login information for our Service, IP addresses
+
+- Sensitive Personal Information within this category includes social security number, and driver’s license or state ID card number
+
+- Personal Information described in Cal. Civ. Code § 1798.80(e)—overlaps with the identifiers we collect, and also includes payment information
+
+- Characteristics of protected classifications under California or federal law—we collect your birthdate, age, gender, and languages spoken
+
+- Commercial information—including purchase history, products or services purchased, obtained or considered, and other purchasing or consuming histories or tendencies
+
+- Internet or other electronic network activity information—including device and usage information, browsing history, search history, and information regarding your interactions with our websites, apps and advertisements, email engagement activity, information from cookies and other tracking technologies, and website analytics information
+
+- Geolocation data—geolocation data inferred from your IP address or mobile device location
+
+- Sensitive Personal Information within this category includes precise geolocation, which is collected based on your mobile device location when you use our mobile apps
+
+- Audio, electronic, visual, thermal, olfactory, or similar information—audio data collected when you call our customer service numbers; security camera footage in our stores
+
+- Professional or employment related information—such as your employer and position if you choose to provide that information to us
+
+- Inferences drawn from other Personal Information—preferences, characteristics, predispositions, behavior, or attitudes based on other Personal Information collected about you
+
+- We also collect the contents of your communications with us, which may include Personal Information that does not necessarily fit within one of the specific categories defined by the CCPA
+
+Retention of Personal Information
+
+We keep the categories of Personal Information described above for as long as is necessary for the purposes described in this Notice or otherwise authorized by law. This generally means holding the information for as long as one of the following apply:
+
+- Your Personal Information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information;
+
+- Your Personal Information is reasonably necessary to carry out a disclosed purpose that is reasonably compatible with the context in which the Personal Information was collected;
+
+- The information is reasonably required to protect or defend our rights or property (which will generally relate to applicable laws that limit actions in a particular case); or
+
+- We are otherwise required or permitted to keep your information by applicable laws or regulations.
+
+Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. For more information about our retention policies, please contact us using the contact details below.
+
+Disclosures, Sharing, and Sales of Personal Information
+
+We may disclose to our Service Providers and Contractors any category of Personal Information we collect in order to further the business purposes described in this Privacy Policy, which include:
+
+- Auditing related to ad impressions
+
+- Ensuring security and integrity of Personal Information
+
+- Debugging to identify and repair errors that impair existing intended functionality
+
+- Short-term, transient use, including, but not limited to, non-personalized advertising
+
+- Performing services on our behalf
+
+- Providing advertising and marketing services (except for cross-context behavioral advertising)
+
+- Undertaking internal research for technological development and demonstration
+
+- Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us
+
+- Processing, maintaining, or collecting Personal Information on our behalf
+
+- Detecting or protecting against malicious, deceptive, fraudulent or illegal activity
+
+- Internal use by the service provider
+
+The categories of Service Providers and Contractors to which Personal Information is disclosed include order processing and delivery vendors, customer service providers, analytics and website support vendors, credit bureaus, marketing service providers, auditors, and service providers that help support our website, mobile apps, and business operations. For more information, please see the section of this Policy titled When Will We Share Your Information?
+
+Except for payment information, social security number, and driver’s license/state ID card number, we may also sell or share with third parties any of the categories of Personal Information we collect. Under California law, a “sale” of Personal Information does not necessarily involve an exchange of money. Instead, the term also includes disclosures of Personal Information to third parties under circumstances where the third parties may use the information for their own purposes. The third parties to which this information may be sold or shared include advertising and marketing companies, social media platforms, other businesses interested in marketing their products and services to you, data cooperatives and exchanges, and data brokers. Our purposes for selling and sharing Personal Information relate to certain types of marketing and advertising, as further described above. We do not have actual knowledge that we sell or share the Personal Information of consumers under 16 years of age.
+
+How to Use Your Rights Under the CCPA
+
+If you are a California resident, you have the right to submit certain requests relating to your Personal Information. To exercise any of these rights, please submit a request via our webform or by calling us at 1-800-292-5197.
+
+Please note that, if you submit a request to know, request to delete, or request to correct, we will need to take reasonable steps to confirm that the person submitting the request is the person to whom the information relates (or his or her authorized agent). We generally ask you to provide 2-3 pieces of Personal Information about you in order to verify your identity. The specific steps taken to verify the identity of the requesting person may vary based on the nature of the request, including the type, sensitivity and value of the information involved, the risk of harm posed by unauthorized access, deletion or correction, the likelihood of fraud, the robustness of Personal Information provided to verify your identity, the nature of our business relationship with you, and available technology for verification.
+
+You may designate an authorized agent to make the requests below on your behalf. An authorized agent must submit proof to us that he or she has been authorized by you to act on your behalf, and you will still need to verify your identity directly with us. An authorized agent may submit a request on your behalf using the webform or toll-free number listed above
+
+Right to Opt Out of Sale and Sharing of Personal Information. Although we do not sell your Personal Information in exchange for money, some of the ways in which we share your Personal Information for advertising or marketing may be considered a “sale” or “sharing” under California law. To opt out of the sale of your Personal Information or sharing for cross-context behavioral advertising, please click here. If you choose to use the Global Privacy Control (GPC) browser signal, you will be opted out of cookie-based sales or sharing of Personal Information, and will need to turn it on for each browser you use. To submit a request to opt out of offline sales and sharing, please use our webform.
+
+Right to Know. If you are a California resident, you have the right to request more information regarding the following:
+
+- The categories of Personal Information we have collected about you, including
+
+- The categories of sources from which the Personal Information was collected
+
+- Our business or commercial purposes for collecting, selling, or sharing your Personal Information
+
+- The categories of recipients to which we disclose Personal Information
+
+- The categories of Personal Information that we sold, and for each category identified, the categories of third parties to which we sold that particular category of Personal Information
+
+- The categories of Personal Information that we disclosed for a business purpose, and for each category identified, the categories of recipients to which we disclosed that particular category of Personal Information
+
+- The specific pieces of Personal Information we have collected about you
+
+- A list of the third parties to which we have disclosed Personal Information, as defined under California Civil Code Section 1798.83(e) (a/k/a the “Shine the Light Law”), during the preceding calendar year for third-party direct marketing purposes
+
+Please note that due to the different requirements of the applicable laws, our response times may vary depending on the specific type(s) of information sought. We respond to all verifiable requests for information as soon as we reasonably can and no later than legally required.
+
+Right to Request Deletion of Your Personal Information. California residents have the right to request that we delete Personal Information we collected from you, subject to certain exceptions.
+
+Right to Correct Inaccurate Information. If you believe that Personal Information we maintain about you is inaccurate, you have the right to request that we correct that information.
+
+Right to Limit Use and Disclosure of Sensitive Personal Information. You may direct us to limit the use and disclosure of your Sensitive Personal Information to uses/disclosures that are reasonably necessary to provide our goods and services, or as needed: to ensure security and integrity; to prevent fraud or illegal activity; for physical safety; for short-term, transient use, including for non-personalized advertising; to perform services on behalf of the business; and to verify or maintain the quality or safety of a service or device owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance such services or devices. To limit our use of your Sensitive Personal Information, please click here.
+
+Right to Non-Discrimination. If you choose to exercise any of the privacy rights conferred by the CCPA, you also have the right not to receive discriminatory treatment by us. This means that, consistent with California law, we will not deny providing our products or services to you, charge you different prices or provide a different level or quality of products or services to you unless those differences are related to the value of your Personal Information.
+
+## CHANGES TO THIS POLICY
+
+By using our Service, you consent to the terms of this Privacy Policy and our Terms of Use. We may change our Privacy Policy from time to time. Your use of our Service indicates your consent to the privacy policy posted at the time of use.
+
+On January 1, 2023, we changed our Privacy Policy to clarify the types of information we collect about you, the ways we collect your information, and how we use and share your information. We updated our Privacy Policy to use the same standards across all of our brands, websites, and apps. And we updated the parts of our Privacy Policy that explain the rights of California and Nevada residents.
+
+## HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy, please contact US Foods at LegalNotices.Shared@usfoods.com or by mail to US Foods, 9399 West Higgins Road, Suite 100, Rosemont, IL 60018 (Attention: Legal Department).
+
+Terms of Use |
+Privacy Policy

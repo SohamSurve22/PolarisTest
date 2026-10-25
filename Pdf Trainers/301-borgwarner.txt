@@ -1,0 +1,350 @@
+- Consent
+
+- Details
+
+- [#IABV2SETTINGS#]
+
+- About
+
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+
+Consent Selection
+
+Necessary
+
+Preferences
+
+Statistics
+
+Marketing
+
+Show details
+
+Details
+
+-
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+- LinkedIn
+1
+Learn more about this provider
+
+bcookieUsed in order to detect spam and improve the website's security.
+Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Youku.com
+1
+
+XSRF-TOKENEnsures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.
+Maximum Storage Duration: SessionType: HTTP Cookie
+
+-
+apps.borgwarner.com
+consent.cookiebot.com
+
+2
+
+CookieConsent [x2]Stores the user's cookie consent state for the current domain
+
+-
+borgwarner.com
+linkedin.com
+
+2
+
+__cf_bm [x2]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration: 1 dayType: HTTP Cookie
+
+- global.frcapi.com
+1
+
+frc_icg_#Pending
+Maximum Storage Duration: PersistentType: IndexedDB
+
+- www.borgwarner.com
+3
+
+ASP.NET_SessionIdPreserves the visitor's session state across page requests.
+
+frc_scSession cookie from Friendly Captcha: the number of loads of the protection software modules
+Maximum Storage Duration: SessionType: HTML Local Storage
+
+frc_sidSession cookie from Friendly Captcha: a random session ID
+Maximum Storage Duration: SessionType: HTML Local Storage
+
+-
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+- Quotemedia
+8
+
+JSESSIONIDPreserves users states across page requests.
+
+app_91363_CompanyProfileCookie used by external online stock quote provider.
+Maximum Storage Duration: PersistentType: HTML Local Storage
+
+app_91363_DetailedQuoteTabChartCookie used by external online stock quote provider.
+
+app_91363_InteractiveChartCookie used by external online stock quote provider.
+
+app_91363_KeyRatiosCookie used by external online stock quote provider.
+
+app_91363_PriceHistoryCookie used by external online stock quote provider.
+
+app_91363_QuoteHeadCookie used by external online stock quote provider.
+
+app_91363_ShareInfoPerformanceCookie used by external online stock quote provider.
+
+- www.borgwarner.com
+1
+
+ProductTransmissionCartCookie used to save products in the cart.
+Maximum Storage Duration: 30 daysType: HTTP Cookie
+
+-
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+- Alibaba.com
+1
+
+APLUS_LS_KEYRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+
+- Google
+2
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+
+_gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.
+Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+- Taobao.com
+1
+
+xlly_sCollects data on visitor interaction with the website's video-content. This data is used to make the website's video-content more relevant towards the visitor.
+Maximum Storage Duration: 3 daysType: HTTP Cookie
+
+- Youku.com
+1
+
+APLUS_CNARegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+
+-
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+- Meta Platforms, Inc.
+2
+
+lastExternalReferrerDetects how the user reached the website by registering their last URL-address.
+
+lastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.
+
+- Alibaba.com
+11
+
+APLUS_S_CORE_1.0.20_20260108171550_168069f1Cookie used by external online video sharing and social media platform provider.
+
+auystCookie used by external online video sharing and social media platform provider.
+
+ETLCDCookie used by external online video sharing and social media platform provider.
+
+syfhsCookie used by external online video sharing and social media platform provider.
+
+yt/youkuplayer.fdl.h5sendRequired for the embedded media player to operate.
+Maximum Storage Duration: SessionType: Pixel Tracker
+
+yt/youkuplayer.fdl.playerckeyCookie used by external online video sharing and social media platform provider.
+
+yt/youkuplayer.fdl.ykplayer_processCookie used by external online video sharing and social media platform provider.
+
+atpsidaRegisters a unique ID that identifies the user's device during return visits. Used for conversion tracking and to measure the efficacy of online ads.
+
+scaCookie used by external online video sharing and social media platform provider.
+
+isgSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+Maximum Storage Duration: 180 daysType: HTTP Cookie
+
+tfstkNecessary for the implementation of video-content on the website.
+Maximum Storage Duration: 180 daysType: HTTP Cookie
+
+- Google
+6
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+
+_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+IDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+Maximum Storage Duration: 400 daysType: HTTP Cookie
+
+test_cookieUsed to check if the user's browser supports cookies.
+
+pagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+
+ccm/conversion/11061121011/Pending
+
+_gcl_lsCookie used to help tags measure click data so that conversions are measured effectively.
+
+- LinkedIn
+2
+
+li_gcStores the user's cookie consent state for the current domain
+Maximum Storage Duration: 180 daysType: HTTP Cookie
+
+lidcRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+
+- YouTube
+5
+
+LAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.
+
+TESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.
+
+yt-icons-last-purgedNecessary for the implementation and functionality of YouTube video-content on the website.
+
+ytidb::LAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.
+
+YtIdbMeta#databasesUsed to track user’s interaction with embedded content.
+Maximum Storage Duration: PersistentType: IndexedDB
+
+- Youku.com
+22
+
+__arpvid [x2]Cookie used by external online video sharing and social media platform provider.
+
+__ayft [x2]Cookie used by external online video sharing and social media platform provider.
+
+__aypstp [x2]Cookie used by external online video sharing and social media platform provider.
+
+__ayscnt [x2]Cookie used by external online video sharing and social media platform provider.
+
+__aysid [x2]Cookie used by external online video sharing and social media platform provider.
+Maximum Storage Duration: 2 daysType: HTTP Cookie
+
+__ayspstp [x2]Cookie used by external online video sharing and social media platform provider.
+Maximum Storage Duration: 2 daysType: HTTP Cookie
+
+__aysvstp [x2]Cookie used by external online video sharing and social media platform provider.
+Maximum Storage Duration: 2 daysType: HTTP Cookie
+
+__ayvstp [x2]Cookie used by external online video sharing and social media platform provider.
+
+__ysuid [x2]Cookie used by external online video sharing and social media platform provider.
+
+isg__Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+
+tfstk__Necessary for the implementation of video-content on the website.
+
+YK_PSL_RECORDSNecessary for the implementation of video-content on the website.
+
+YK_PSL_SETTINGSCookie used by external online video sharing and social media platform provider.
+
+-
+connect.facebook.net
+facebook.com
+
+2
+
+_fbp [x2]Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+-
+fourier.alibaba.com
+fourier.taobao.com
+
+2
+
+ts [x2]Cookie used by external online video sharing and social media platform provider.
+
+-
+mmstat.com
+youku.com
+
+2
+
+cna [x2]Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+
+-
+
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+
+- Alibaba.com
+2
+
+APLUS_S_CORE_1.0.22_20260728193427_1a88cdb3Pending
+
+yt/vp.vdoviewPending
+
+- global.frcapi.com
+1
+
+frcv2_agent_wPending
+Maximum Storage Duration: SessionType: HTML Local Storage
+
+Cookie declaration last updated on 9/14/26 by Cookiebot
+
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+
+Please state your consent ID and date when you contact us regarding your consent.
+
+Do not sell or share my personal information
+
+Skip to main content
+
+go back to BorgWarner home page
+
+# Privacy Policies
+
+## United States Privacy Policy
+
+Website Privacy Policy - United States
+
+## Non-U.S. Privacy Policy
+
+Website Privacy Policy - Non-U.S.
+
+Company
+
+Careers
+
+Mobility Technologies
+
+### Overlay Title

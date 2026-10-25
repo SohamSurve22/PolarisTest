@@ -1,0 +1,216 @@
+{
+  "file_count": 332,
+  "txt_count": 332,
+  "pdf_count": 0,
+  "other_count": 0,
+  "exact_duplicate_groups": [
+    [
+      "046-united-technologies.txt",
+      "350-rockwell-collins.txt"
+    ],
+    [
+      "079-tiaa.txt",
+      "407-raymond-james-financial.txt"
+    ],
+    [
+      "217-cbs.txt",
+      "248-viacom.txt"
+    ]
+  ],
+  "same_title_groups": [
+    [
+      "001-walmart.txt",
+      "016-cardinal-health.txt",
+      "027-home-depot.txt",
+      "116-mondelez-international.txt",
+      "129-amgen.txt",
+      "170-freeport-mcmoran.txt",
+      "195-becton-dickinson.txt",
+      "269-sempra-energy.txt",
+      "362-yum-china-holdings.txt",
+      "425-avery-dennison.txt"
+    ],
+    [
+      "002-exxon-mobil.txt",
+      "008-cvs-health.txt",
+      "032-comcast.txt",
+      "040-freddie-mac.txt",
+      "045-procter-and-gamble.txt",
+      "051-centene.txt",
+      "052-albertsons.txt",
+      "053-walt-disney.txt",
+      "059-energy-transfer.txt",
+      "066-aig.txt",
+      "068-american-airlines-group.txt",
+      "092-general-dynamics.txt",
+      "093-exelon.txt",
+      "094-plains-gp-holdings.txt",
+      "104-twenty-first-century-fox.txt",
+      "117-u-s-bancorp.txt",
+      "119-dollar-general.txt",
+      "120-nucor.txt",
+      "127-halliburton.txt",
+      "135-dollar-tree.txt",
+      "147-lear.txt",
+      "150-broadcom.txt",
+      "154-lennar.txt",
+      "156-kohl-s.txt",
+      "157-aecom.txt",
+      "164-fluor.txt",
+      "172-tenet-healthcare.txt",
+      "176-performance-food-group.txt",
+      "179-ngl-energy-partners.txt",
+      "182-applied-materials.txt",
+      "199-texas-instruments.txt",
+      "209-ross-stores.txt",
+      "213-waste-management.txt",
+      "215-ecolab.txt",
+      "230-las-vegas-sands.txt",
+      "244-guardian-life-ins-co-of-america.txt",
+      "266-mgm-resorts-international.txt",
+      "284-crown-holdings.txt",
+      "287-lam-research.txt",
+      "296-aes.txt",
+      "309-chesapeake-energy.txt",
+      "315-mohawk-industries.txt",
+      "328-hormel-foods.txt",
+      "337-vistra-energy.txt",
+      "347-veritiv.txt",
+      "353-univar.txt",
+      "354-j-b-hunt-transport-services.txt",
+      "358-eversource-energy.txt",
+      "366-masco.txt",
+      "367-thor-industries.txt",
+      "398-wec-energy-group.txt",
+      "408-casey-s-general-stores.txt",
+      "412-dover.txt",
+      "414-j-m-smucker.txt",
+      "417-magellan-health.txt",
+      "420-spirit-aerosystems-holdings.txt",
+      "421-western-and-southern-financial-group.txt",
+      "426-celanese.txt",
+      "428-toll-brothers.txt",
+      "430-insight-enterprises.txt",
+      "433-travelcenters-of-america.txt"
+    ],
+    [
+      "010-amerisourcebergen.txt",
+      "035-dupont-de-nemours.txt",
+      "130-paccar.txt",
+      "131-southern.txt",
+      "152-western-digital.txt",
+      "167-occidental-petroleum.txt",
+      "197-netflix.txt",
+      "233-stryker.txt",
+      "262-lkq.txt",
+      "311-leidos-holdings.txt",
+      "316-sonic-automotive.txt",
+      "330-calpine.txt",
+      "385-foot-locker.txt",
+      "416-motorola-solutions.txt"
+    ],
+    [
+      "012-ford-motor.txt",
+      "048-pepsico.txt",
+      "085-tjx.txt",
+      "098-capital-one-financial.txt",
+      "144-tesla.txt",
+      "162-altria-group.txt",
+      "238-dominion-energy.txt",
+      "279-corning.txt",
+      "303-ally-financial.txt",
+      "397-w-r-berkley.txt",
+      "402-fidelity-national-financial.txt",
+      "436-mastec.txt"
+    ],
+    [
+      "028-boeing.txt",
+      "071-new-york-life-insurance.txt"
+    ],
+    [
+      "041-united-parcel-service.txt",
+      "133-international-paper.txt",
+      "178-emerson-electric.txt",
+      "206-omnicom-group.txt",
+      "212-land-o-lakes.txt",
+      "227-arconic.txt",
+      "255-edison-international.txt",
+      "292-live-nation-entertainment.txt",
+      "375-emcor-group.txt",
+      "376-darden-restaurants.txt",
+      "379-united-rentals.txt",
+      "403-constellation-brands.txt",
+      "404-quest-diagnostics.txt"
+    ],
+    [
+      "046-united-technologies.txt",
+      "350-rockwell-collins.txt"
+    ],
+    [
+      "050-prudential-financial.txt",
+      "342-brighthouse-financial.txt"
+    ],
+    [
+      "058-caterpillar.txt",
+      "231-estee-lauder.txt",
+      "419-newmont-goldcorp.txt"
+    ],
+    [
+      "067-hca-healthcare.txt",
+      "184-nextera-energy.txt",
+      "357-national-oilwell-varco.txt"
+    ],
+    [
+      "069-delta-air-lines.txt",
+      "171-kimberly-clark.txt",
+      "286-baxter-international.txt"
+    ],
+    [
+      "076-merck.txt",
+      "134-union-pacific.txt"
+    ],
+    [
+      "079-tiaa.txt",
+      "407-raymond-james-financial.txt"
+    ],
+    [
+      "084-massachusetts-mutual-life-insurance.txt",
+      "253-discover-financial-services.txt",
+      "361-fidelity-national-information-services.txt",
+      "447-regions-financial.txt"
+    ],
+    [
+      "109-arrow-electronics.txt",
+      "235-biogen.txt"
+    ],
+    [
+      "173-synchrony-financial.txt",
+      "360-genworth-financial.txt",
+      "415-citizens-financial-group.txt"
+    ],
+    [
+      "217-cbs.txt",
+      "248-viacom.txt"
+    ],
+    [
+      "223-community-health-systems.txt",
+      "435-arthur-j-gallagher.txt"
+    ],
+    [
+      "365-caesars-entertainment.txt",
+      "445-r-r-donnelley-and-sons.txt"
+    ]
+  ],
+  "empty_count": 0,
+  "encoding_replacement_count": 0,
+  "very_short_count": 26,
+  "navigation_noise_count": 47,
+  "jsonish_count": 1,
+  "explicit_date_count": 276,
+  "word_min": 126,
+  "word_median": 4065,
+  "word_max": 198879,
+  "size_min": 864,
+  "size_median": 26553,
+  "size_max": 1713951
+}

@@ -1,0 +1,611 @@
+# CHS Global Privacy Notice
+
+Last updated: October 08, 2025
+
+This Privacy Notice covers both CHS online and offline data collection activities, including personal information that we collect through various channels such as websites, applications, contracts, points of sale, and events. As used in this Privacy Notice, CHS includes CHS Inc., CHS Hedging, LLC., CHS Market Advisors, LLC., as well as subsidiaries and affiliates.
+
+Personal information means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked with you.
+
+This Privacy Notice is incorporated as part of the terms of any agreement that you have with CHS. When you use CHS services or otherwise interact with CHS, you acknowledge this Privacy Notice and associated privacy practices, including the use and disclosure of your personal information.
+
+If you do not agree with the terms of this Privacy Notice, please do not use CHS services or provide any personal information. If you decline to provide certain information when requested, CHS may not be able to provide the services for which you have contracted or requested.
+
+## Table of Contents
+
+- What’s Covered by this Privacy Notice
+
+- What Personal Information CHS Collects
+
+- How CHS collects Personal Information
+
+- Web services
+
+- Deliver services
+
+- Marketing
+
+- Security
+
+- Comply with legal requirements
+
+- How CHS uses Personal Information
+
+- How CHS uses Cookies
+
+- How CHS Shares Personal Information with Third Parties
+
+- Specific Jurisdictions
+
+- Brazil
+
+- California
+
+- China
+
+- Colorado
+
+- Europe
+
+- How to Contact CHS Concerning Your Personal Information
+
+- Shanghai data privacy contact
+
+- Brazil data privacy contact
+
+- How Long CHS Keeps Personal Information
+
+- How You Will be Notified of Changes to this Privacy Notice
+
+- How CHS Secures Your Personal Information
+
+- How CHS Handles International Transfers of Personal Information
+
+- How CHS Manages Children’s Privacy
+
+## What’s Covered by this Privacy Notice
+
+This Privacy Notice covers any CHS-affiliated website, product, service, or communication that links to it and any collection, storage, transfer, sharing, disclosure or handling of your personal information when you engage with CHS.
+
+This Privacy Notice does not cover, and CHS is not responsible for, third-party websites or applications that may be linked from CHS affiliated websites; linking to them does not imply an endorsement. CHS is not responsible for these websites or applications or any information they may collect. You should always review the privacy notice of any third-party website or application.
+
+## What Personal Information CHS Collects
+
+The following sensitive and non-sensitive personal information may be collected by CHS, depending on the services you requested:
+
+- Identifiers which may include your real name, alias, contact information, video and image, IP address, online identifier, information sent to us by your web browser, email address, account name, website password and username, account registration information, usage data or other similar identifiers
+
+- Background information which may include your professional associations, certifications, work history, and education history
+
+- Financial Information which may include your credit card number, debit card number, corporate card numbers, income, transactions, credit information, taxation information, and other similar financial information
+
+- Demographic information which may include your age, date of birth, race, color, ancestry, national origin, citizenship, religion or creed, marital status, sex, veteran or military status
+
+- Health related information which may include medical conditions, physical or mental disability, genetic information (including familial genetic information), pregnancy or childbirth and related medical conditions
+
+- Commercial information which may include voice recordings and data related to your purchasing, ownership percentage in business, consumer history, personal property and assets utilized for the consideration of a request to purchase products or services
+
+- Information collected from or in connection with credit, know-your-client and other background verifications, including types and amounts of credit, payment history, negative banking items, collection actions, legal proceedings, previous bankruptcy and other credit-related information
+
+- Information collected from or in connection with product/service orders, including proof of income (such as pay stubs or notices of assessment), bank account information, employment details (such as occupation and current or former employers)
+
+- Information provided from or in connection with complaints, inquiries, surveys and customer research
+
+- Information provided to or in connection with your interaction(s) or communication(s) with CHS employees
+
+## How CHS collects Personal Information
+
+CHS collects information directly from you or those acting on your behalf when you populate and submit forms, request information, obtain services or products as well as information that is automatically collected from internet or other network activity regarding your interaction with our websites. In addition, CHS may also collect information from external data sources such as service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytics providers.
+
+## How CHS uses Personal Information
+
+CHS may retrieve, aggregate, alter or otherwise process your personal information with or without automated means when one or more of the following conditions exist:
+
+- The personal information is provided voluntarily by you or with your consent to its processing. Should you wish to withdraw your consent at any time, contact the CHS Privacy Office.
+
+- The processing is necessary for the performance of a contract with you or in order to take steps at your request prior to entering into a contract.
+
+- The processing is necessary for credit services, including but not limited to, credit protection.
+
+- The processing is necessary for our legitimate business interests which may include to:
+
+- Maintain books and records
+
+- Maintain the security and integrity of affiliated websites and systems
+
+- Enforce the terms and conditions of the Privacy Notice associated with affiliated websites and systems
+
+- Monitor the use and performance of affiliated websites and systems
+
+- Provide quality assurance of customer service operations
+
+- Make product improvements
+
+- Make product developments
+
+- Maintain health and safety
+
+- Continue providing the same or similar products and services during internal or external organizational changes.
+
+- The processing is necessary for compliance with a legal obligation.
+
+- The processing is necessary in order to protect your vital interest or the vital interests of others.
+
+- The processing is necessary for the performance of a task carried out in the public interest.
+
+CHS uses your personal information for the following purposes:
+
+#### Web services
+
+When we collect information through affiliated websites, CHS uses personal information to:
+
+- Process feedback forms
+
+- Respond to requests for information, questions, or comments
+
+- Provide quality customer service
+
+- Register for industry events
+
+- Fulfill subscription requests
+
+- Fulfill or process orders and invoices
+
+#### Deliver services
+
+When we deliver services, CHS uses personal information to:
+
+- Process transactions, fulfilling subscriptions, and processing credit applications
+
+- Administer and perform services, including to carry out obligations arising from any agreements entered between you and CHS
+
+- Provide and deliver the information you request, process contributions and send confirmations, technical notices, updates, security alerts, support and administrative messages
+
+- Enter in or perform a contract with you or your company
+
+- Provide communication to customers, consultants, and third parties
+
+- Analyze with the intent to improve performance, services, and fix errors
+
+#### Marketing
+
+When we tailor advertisements, CHS uses personal information to:
+
+- Provide details about new services or products
+
+- Target marketing and advertising offers to your preferences
+
+- Share and/or disclose information to prospective business partners
+
+- Assist in the development of products, services, and offerings that meet current and future business needs
+
+- Request information or otherwise contact you regarding the business, products, services we offer through our affiliated websites
+
+#### Security
+
+When we provide necessary security controls, CHS uses personal information to:
+
+- Verify your identity
+
+- Provide physical protection of personnel, hardware, software, networks, and data from unauthorized physical access with video surveillance
+
+- Detect and prevent fraud, security vulnerabilities, or technical issues
+
+- Protect your rights, the rights of CHS, and the rights of others
+
+#### Comply with legal requirements
+
+While we comply with legal requirements, CHS uses personal information to:
+
+- Enable CHS to process applications for employment to assess your suitability for any position for which you may apply
+
+- Track and report on workplace illnesses and injuries
+
+- Maintain crisis management plans
+
+- Fulfill legal and regulatory or risk management obligations to protect your rights, the rights of CHS, and the rights of others
+
+- To comply with the law and legal processes in which a formal request has been made (e.g., a request from an administrative oversight agency, civil suit, subpoena, court order or judicial or administrative proceeding)
+
+- Defend your rights and property, the rights and property of CHS, and the rights and property of others
+
+- Enforce published Terms of Use and this Privacy Notice
+
+- Respond to claims that the content of a communication violates the rights of another
+
+## How CHS uses Cookies
+
+To understand CHS use of Cookies on affiliated websites. See the CHS Cookie Notice.
+
+## How CHS Shares Personal Information with Third Parties
+
+CHS may transfer your personal information to worldwide CHS subsidiaries and affiliates, service providers, non-affiliated partners, and joint-venture companies.
+
+CHS shares your personal information with non-affiliated third parties only as disclosed in this Privacy Notice. CHS may share your personal data for the following business purposes to:
+
+- Support internal audit functions with tools for analysis and coordinate with external auditors
+
+- Include in meeting materials and managing reports of violations against CHS code of conduct standards provided to the Board of Directors
+
+- Integrate data from multiple sources for analytics and reporting
+
+- Track products in storage and product delivery via trucks, trains and barges
+
+- Support general accounting purposes (accounts receivable, accounts payable, general ledger) as well as to invoice and process payments for transactions with third parties and required government reporting
+
+- Track and report on workplace illnesses and injuries, for the protection of life, health, and the safety of property, and maintain crisis management plans
+
+- Trade on the financial markets and provide market commentary to subscribers
+
+- Provide remote IT support and workflow management between CHS systems
+
+- Support enterprise-wide business activities and operations specifically as they relate to problem resolution, enterprise change management, ongoing hardware and software inventory, and to provide analytics related to customer service/satisfaction
+
+- Provide office automation tools and other functions that aid and support the global CHS staff to optimized work activities
+
+- Provide secure access to systems and networks
+
+- Monitor network activity and system usage activity to maintain the confidentiality, integrity and availability (“CIA”) of personal data
+
+- Document, track and respond to company legal and compliance investigations, lawsuits, and compliance requirements
+
+- Provide relevant information about CHS products and services based on individuals signing up to receive such information
+
+- Provide physical protection of personnel, hardware, software, networks and data from unauthorized physical access and video surveillance
+
+- Procure indirect goods and services for CHS
+
+- Perform due diligence on third parties that CHS may do business with and to conduct business continuity planning
+
+- Fulfill legal obligations as required by government and regulatory agencies
+
+- Support the proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession, or sale at bankruptcy), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of its business or of any assets or shares of CHS or a division
+
+- Support messaging services and assist with the delivery of text messages where you do business with CHS electronically. CHS will not transfer or share your SMS campaign opt-in with any third party for purposes unrelated to providing you with the services of that campaign. CHS may share your SMS campaign opt-in with CHS affiliates in order to provide the services of the campaign.
+
+See section on How CHS Secures Your Personal Information to understand how CHS third parties are required to safeguard personal data.
+
+## Specific Jurisdictions
+
+In specific situations, you may be entitled to request the removal of your Personal Information or limit how it is used. You may also have the option to object to its use, receive a copy in a portable format, or request that it be transferred to another organization. If you’d like to explore any of these options, please contact us at [email protected].
+
+Below is additional information concerning the processing of personal information of prospective and current customers located in specific jurisdictions.
+
+Under certain circumstances, as required by law, and if you are a resident of Brazil, you may have the following rights:
+
+- Know if we process any of your personal data
+
+- Request access to your personal information
+
+- Request correction of any incomplete or inaccurate personal information that CHS holds about you
+
+- Request the anonymization, blocking or deletion of unnecessary, excessive data or that, by chance, has been treated in breach of the law
+
+- Request data portability to another service or product provider
+
+- Right to object to processing of your personal information or withdraw your consent to processing
+
+- Request the restriction of processing of your personal information to suspend the processing, for example if you want CHS to verify its accuracy or the reason for processing it
+
+- Request the transfer of your personal information to another party
+
+- Request a review of decisions made solely on the basis of automated processing of personal data that affect your interests
+
+You have a right not to receive discriminatory treatment by CHS for the exercise of the privacy rights contained in this Privacy Notice and as required by law.
+
+When the processing activity requires your consent, you can refuse consent. In this case, we will inform you of the consequences of not carrying out such activity. If you consent, you can revoke it at any time.
+
+If you want to exercise any of these rights, please contact the CHS Privacy Office and our Data Protection Officer Personnel in Brazil, OPICE BLUM, BRUNO E VAINZOF ADVOGADOS ASSOCIADOS in writing per the ‘How to Contact CHS Concerning Your Personal Information’ section of this Privacy Notice. Valid requests will be honored within a reasonable deadline.
+
+As it pertains to users of our services who are located in Brazil, the controller of your personal information is CHS Agronegócio – Indústria e Comércio LTDA., Avenida das Nações Unidas, n 12.901, São Paulo.
+
+Under certain circumstances, as required by law, and if you are a resident of California, you may have the following rights:
+
+- Correct Inaccurate Personal Information: You have the right to request CHS maintains inaccurate personal information about you to correct that inaccurate personal information, considering the nature of the personal information and the purposes of the processing of the personal information
+
+- Delete Personal Information: You have the right to request that CHS delete any personal information about you which CHS has collected from you
+
+- Know What Personal Information is Sold or Shared and to Whom: You have the right to request that if CHS sells or shares your personal information, or that discloses it for a business purpose, disclose to you
+
+- Opt Out of Sale or Sharing of Personal Information: You have the right, at any time, to direct CHS if it sells or shares personal information about you to third parties not to sell or share your personal information. This right may be referred to as the right to opt out of sale or sharing
+
+- Limit Use and Disclosure of Sensitive Personal Information: You have the right, at any time, to direct CHS that if it collects sensitive personal information about you to limit its use of your sensitive personal information to use(s) reasonably necessary to perform the services or provide the goods you requested
+
+- Non-Discrimination Following Opt Out or Exercise of Other Rights: CHS will not discriminate against you because you exercised any of the consumer’s rights under the California Consumer Protection Act (CCPA) and California Privacy Rights Act (CPRA)
+
+- Know the categories and specific pieces of personal information we collect, use, disclose, and sell about you; the categories of sources from which we collected personal information about you; our purposes for collecting or selling personal information about you; the categories of personal information about you that we have either sold or disclosed for a business purpose; and the categories of third parties with which we have shared personal information
+
+Personal Information Collected
+
+Business or Commercial Purpose for Collection, Use, Sale, and Sharing
+
+Sources of Collection
+
+Disclosed for a Business Purposes to the Following Categories of Recipients
+
+Sold or Shared with the Following Categories of Recipients
+
+Identifiers
+
+Real name, alias, contact information, unique personal identifier, online identifier, Internet Protocol address, email address, account name, website password and username, account registration information, usage data, social security number, driver’s license number, passport number, or other similar identifiers.
+
+Audit, Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, finance and payroll, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing, mergers and acquisitions, payroll, physical security, procurement and sourcing, workforce background checks, workforce management, workforce recruiting, workforce training
+
+Consumer and other third party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Service providers, hosting providers
+
+Commercial Information
+
+Voice recordings and records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+Audit, Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, finance and payroll, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, marketing, mergers and acquisitions, procurement and sourcing, workforce background checks, workforce recruiting
+
+Consumer and other third party sources including: service providers, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Biometric Information
+
+Health and safety, IT development and integration, IT network and client services, IT productivity, IT security access, IT security monitoring, physical security, workforce background checks, workforce management
+
+Consumer and other third party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Internet or other electronic network activity information
+
+Including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
+
+Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, marketing, workforce training
+
+Consumer and other third-party sources including: service Consumer and other third-party sources including: social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Service providers, hosting providers, data analytic providers
+
+Geolocation data
+
+Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, IT development and integration, IT network and client services, IT productivity, IT security access, IT security monitoring, legal, marketing, mergers and acquisitions, payroll, workforce management, workforce recruiting, workforce training
+
+Consumer and other third-party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Audio, electronic, visual, or similar information
+
+Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, health and safety, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing, physical security, workforce management, workforce training
+
+Consumer and other third-party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Professional or employment-related information
+
+Audit, Corporate Compliance, distribution and logistics, finance, finance and payroll, health and safety, hedging, IT development and integration, IT network and client services, IT productivity, IT security access, IT security monitoring, marketing, mergers and acquisitions, payroll, procurement and sourcing, workforce background checks, Workforce management, workforce recruiting, workforce training
+
+Consumer and other third party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+Other Information
+
+Personal information identified in the “What Personal Information CHS Collects” section of this Privacy Notice.
+
+Audit, Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, finance and payroll, hedging, health and safety, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing, procurement and sourcing, workforce management, workforce recruiting, workforce training
+
+Consumer and other third-party sources including: service providers, social media, joint ventures, government sources, operating systems and platforms, advertising networks, and data analytic providers
+
+If you want to exercise any of these rights, please contact the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ with requests concerning your personal information section of this Privacy Notice.
+
+If you want to designate an authorized agent to make a CCPA/CPRA request on your behalf, please contact the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ with a Power of Attorney indicating your designation of an authorized agent. If you are an authorized agent requesting on behalf of a consumer; you may be asked to provide a Power of Attorney.
+
+Requests with respect to these rights will be honored within 45 calendar days of the request, but (where permissible) the time period may be extended for another 45 days for complex requests. You will be notified of the reasons required for any extension within 1 month.
+
+Please read this section carefully to understand our additional policies and practices regarding the processing of your personal information collected in China.
+
+Your sensitive personal information will only be collected for lawful purposes and will only be processed when necessary to fulfill the purposes as described in this Privacy Notice, and CHS does and will continue to adopt strict protection measures to protect your sensitive personal information. The processing of your sensitive personal information by CHS will not adversely impact your personal rights and interests.
+
+Additional Information of How CHS Uses Personal Information
+
+In addition to the information provided in the Privacy Notice, CHS may process your personal information collected in China when one or more of the following conditions exist:
+
+- It is necessary for dealing with urgent public health incidents, or for the protection of life and health of natural persons or the safety of properties in an emergency event;
+
+- The personal information is processed within reasonable scope to conduct news reports or media supervision for the public interests;
+
+- Your personal information has already been made publicly available by you or through other legitimate means; or,
+
+- Other circumstances permitted by laws and administrative regulations.
+
+You have a right not to receive discriminatory treatment by CHS for the exercise of the privacy rights contained in this Privacy Notice and as required by law.
+
+Additional Information of How CHS Collects Personal Information from Third Parties
+
+Prior to collecting your personal information from a third party in China, CHS will require the third party to confirm in writing that it has already received consent from you to collect, process and provide us with your personal information, and specify the scope/purposes/means of personal information processing as authorized by you. If the intended processing of your personal information exceeds the scope/purposes/means authorized by you, CHS will contact you either directly or through the third party to secure additional consent.
+
+Additional Information of How CHS Uses Personal Information
+
+CHS only use your personal information in accordance with the terms of this Privacy Notice and in compliance with relevant laws and regulations. You have authorized CHS to use your personal information collected by us during the period that we provide products and services to you, unless you have deleted such personal information, rejected our collection at the system setting of the website or your account, or withdrawn your consent by closing your account with CHS or sending a written withdrawal notice to CHS.
+
+CHS may aggregate or anonymize your personal information in such a way that you may not be re-identified by CHS or any other organization. CHS may use such aggregated or anonymized personal information for any purpose without your consent. However, if CHS combines or connects aggregated or anonymized data with your personal information so that it can directly or indirectly identify you, CHS treats the combined information as personal information which will be used in accordance with this Privacy Notice.
+
+Additional Information of How CHS Shares Personal Information with Third Parties
+
+CHS may share your personal information with a third party to whom such sharing is necessary to fulfill our contractual obligations to you without your consent, such as providing your order information to our third party suppliers and logistic service vendors. While your personal information will be stored in China, as an integrated part of a global company, CHS utilizes our global resources to manage and support our business and operations throughout the world and to perform our contracts with you. Our products and services may be provided by other members of CHS entities and our business partners, some of which are located outside of China.
+
+Your Rights of Managing Your Personal information
+
+CHS respects your rights to your personal information, which includes:
+
+- Access your personal information;
+
+- Correct or update any of your personal information;
+
+- Restrict or limit the ways in which we use your personal information;
+
+- Object to the processing of your personal information;
+
+- Request the deletion of your personal information; and
+
+- Obtain a copy of your personal information in an easily accessible format.
+
+If you have any questions, comments, or concerns about this Privacy Notice, or to exercise your rights pertaining to your personal information, please contact the CHS Privacy Office per the ‘How to Contact CHS Concerning Your Personal Information.’
+
+Or by contacting the CHS Trading Co., Ltd
+CHS (Shanghai) Trading Co., Ltd.
+Room 3902, Jin Mao Tower
+No. 88 Century Avenue
+Pudong New Area
+Shanghai 200120
+China
+
+Effective: 07/01/2023,
+
+Under certain circumstances, as required by law, and if you are a resident of Colorado, you may have the following rights:
+
+- Opt-out from the sale of your personal data, or use of personal data for targeted advertising and certain types of profiling;
+
+- Know whether CHS is collecting personal data;
+
+- Access personal data that CHS has collected about you;
+
+- Correct personal data;
+
+- Delete personal data; and
+
+- Download and remove personal data from a platform in a format that allows the transfer to another platform
+
+Personal Information Collected or Processed
+
+Purpose for Processing
+
+Shared with the Following Categories of Third Parties
+
+Sold to the Following Categories of Recipients
+
+Identifiers
+
+Real name, alias, contact information, unique personal identifier, online identifier, Internet Protocol address, email address, account name, website password and username, account registration information, usage data, social security number, driver’s license number, passport number, or other similar identifiers.
+
+Audit, Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, health and safety, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing, mergers and acquisitions, physical security, procurement and sourcing
+
+N/A
+
+Commercial Information
+
+Voice recordings and records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+Audit, Corporate Compliance, data warehouse and analytics, data distribution and logistics, finance, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, marketing, mergers and acquisitions, procurement, and sourcing
+
+N/A
+
+Internet or other electronic network activity information
+
+Including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
+
+Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, marketing
+
+Data analytic providers
+
+Geolocation data
+
+Corporate Compliance, data warehouse and analytics, data distribution and logistics, IT development and integration, IT network and client services, IT productivity, IT security access, IT security monitoring, legal, marketing, mergers and acquisitions
+
+Data analytic providers
+
+Audio, electronic, visual, or similar information
+
+Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, health and safety, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing, physical security
+
+N/A
+
+Other Information
+
+Personal information identified in the “What Personal Information CHS Collects” section of this Privacy Notice.
+
+Audit, Corporate Compliance, data warehouse and analytics, distribution and logistics, finance, health and safety, hedging, IT development and integration, IT network and client service, IT productivity, IT security access, IT security monitoring, legal, marketing
+
+N/A
+
+In some circumstances, CHS may sell certain personal data about you to third parties or process personal data for targeted advertising. You can opt out of the sale of this personal data or opt out of targeted advertising by contacting the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ section of this Privacy notice.
+
+Additionally, if you want to exercise any other privacy rights, please contact the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ section of this Privacy Notice with requests concerning your personal information.
+
+If you want to designate an authorized agent to make a request to opt-out on your behalf, please contact the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ with a Power of Attorney indicating your designation of an authorized agent. If you are an authorized agent requesting on behalf of a consumer; you may be asked to provide a Power of Attorney.
+
+Requests with respect to these rights will be honored within 45 calendar days of the request, but (where permissible) the time period may be extended for another 45 days for complex requests. You will be notified of the reasons required for any extension within 1 month.
+
+European Economic Area, Switzerland, or the United Kingdom
+
+Under certain circumstances, as required by law, and if you are a resident of European Economic Area, Switzerland, or the United Kingdom, you may have the following rights:
+
+- Request access to your Personal Data
+
+- Request correction of any incomplete or inaccurate Personal Data that CHS holds about you
+
+- Request erasure of your Personal Data when there is no need to continue processing it or you have exercised your right to object to processing (see below)
+
+- Object to processing of your Personal Data or withdraw your consent to processing
+
+- Request the restriction of processing of your Personal Data to suspend the processing, for example if you want CHS to verify its accuracy or the reason for processing it
+
+- Request the transfer of your Personal Data to another party
+
+You have a right not to receive discriminatory treatment by CHS for the exercise of the privacy rights contained in this Privacy Notice and as required by law.
+
+If you want to exercise any of these rights, please contact the CHS Privacy Office in writing per the ‘How to Contact CHS Concerning Your Personal Information’ with requests concerning your personal information section of this Privacy Notice.
+
+Requests with respect to these rights will be addressed within 30 calendar days of the request, but (where permissible) the time period may be extended for another 2 months for complex requests. You will be notified of the reasons for any extension within 1 month.
+
+CHS uses EU Standard Contractual Clauses to safeguard your personal information if transferred outside of the EU.
+
+## How to Contact CHS Concerning Your Personal Information
+
+If you have any questions, comments, or concerns about this Privacy Notice, or to exercise your rights pertaining to your personal information, please contact the CHS Privacy Office by postal mail, email, telephone or via our online submission form at:
+
+CHS Inc.
+Attn: Privacy Office
+5500 Cenex Drive
+Inver Grove Heights, MN 55077 USA
+
+[email protected]
+
+Privacy Hotline: 1-800-725-7258
+
+Online Submission Form
+
+Shanghai data privacy contact
+CHS (Shanghai) Trading Co., Ltd.
+Room 3902, Jin Mao Tower
+No. 88 Century Avenue
+Pudong New Area
+Shanghai 200120
+China
+
+Brazil data privacy contact
+Opice Blum, Bruno Advogados Associados, representado por Henrique Fabretti Moraes
+CHS Agronegócio – Rua Fidêncio Ramos, nº 308 – 4º Andar | Conjuntos 41 e 43 – Edíficio Vila Olímpia Corporate,
+Vila Olímpia | São Paulo | SP | Brasil | CEP 04.551-902
+
+You may be asked to provide such information as name, relationship to CHS, contact information, and nature of the request. This information will only be used for the purpose of verifying your identity and responding to your request. This information will be deleted once your request is completed.
+
+If you wish to appeal a previous refusal to act on a request under any of the data access rights provided, email [email protected].
+
+## How Long CHS Keeps Personal Information
+
+CHS determines the appropriate retention period for personal information before CHS securely destroys it. CHS considers the applicable legal requirements related to the amount, nature, and sensitivity of the information, the necessary purposes previously listed in this Privacy Notice, and the potential risk of harm from unauthorized use or disclosure of your personal information.
+
+In some circumstances CHS may anonymize your personal information so it can no longer be associated with you, in which case CHS may use and share the information without further notice to you.
+
+## How You will be Notified of Changes to this Privacy Notice
+
+CHS may change this Privacy Notice from time to time. The updated notice will be posted with the last revised date. You should periodically return to this Privacy Notice to understand current CHS privacy practices. You acknowledge your continued use of CHS services after the updated notice is published and the collection, use, and sharing of your personal information is subject to the updated Privacy Notice.
+
+## How CHS Secures Your Personal Information
+
+CHS implements and maintains an information security program which includes technical and organizational measures based on international standards and generally accepted practices.
+
+All CHS vendors who process personal information are required to safeguard data in accordance with the sensitivity of the data the vendor processes.
+
+In the unfortunate event of a security breach involving your personal information, CHS will promptly take remedial actions to minimize any negative impacts to you. Where required by law we will notify you about the incident, potential impacts on you, remedial actions taken by CHS, and report such security breach to the competent government authorities.
+
+CHS follows the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
+
+## How CHS Handles International Transfers of Personal Information
+
+Please be aware CHS processes and stores personal information in the United States which may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location.
+
+## How CHS Manages Children’s Privacy
+
+CHS may collect personal information from children under the age of 18 through affiliated websites, applications, contacts, or point of sale events for the purposes of employment, youth and scholarship programs, customer accounts, credit applications, and other requested services. This information may include name, contact information, family member names, education history, date of birth, demographic information, biometric, photo/video, or social security number depending on the requested services.
+
+If you are a parent or guardian of a child under the age of 18 and would like to exercise their data subject rights on their behalf, please contact the CHS Privacy Office as identified earlier in this Privacy Notice. CHS will work in good faith to honor your request but may be required by law to retain some or all of a child’s personal information.

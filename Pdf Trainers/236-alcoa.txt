@@ -1,0 +1,231 @@
+# Alcoa Corporation Privacy Notice
+
+Consistent with our Care for People value, we at Alcoa Corporation (“Alcoa”) respect your concerns about privacy and are committed to conducting business in accordance with all applicable data privacy laws and regulations and in line with the highest standards of ethical conduct. Protecting people and their Personal Data is of utmost importance.
+
+This Privacy Notice applies to Alcoa, Alcoa.com, and other external Alcoa websites that link to this Notice (the "Sites"). This Privacy Policy applies to all personal data We collect or process about you, including that in relation to the use of Alcoa.com and other Sites.
+
+'Personal Data' for purposes of this Notice means any information relating to an identified or identifiable natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+What Does this Notice Include:
+
+- What Personal Data We collect
+
+- How we use your personal data and on what legal basis and on the basis of our legitimate interest
+
+- What Rights you have over your personal data
+
+- How we share your personal data and with whom
+
+- How we protect your personal data
+
+- How long we store your personal data
+
+- International data transfer
+
+- WHAT PERSONAL DATA DO WE COLLECT
+
+We will collect personal data about you from a variety of sources, including information we collect from you directly when you contact us on our Sites.
+
+The categories of personal data that We may collect directly from you include:
+
+- contact information (such as name, postal address, telephone number and email address);
+
+- employment information (such as title, division and employer);
+
+- login credentials for the Sites;
+
+- other personal information submitted by current or prospective suppliers and subcontractors, such as Social Security number, diversity-related information (such as ethnicity), federal tax ID number, disability status, and civil and criminal court history;
+
+- other personal information submitted by job applicants determined by the requirements of the country in which the role is located, and not the country in which the candidate resides unless the role is being remotely performed in the same country in which the candidate resides, such as a résumé or C.V., name, address, contact information, photographs and videos, work and educational history, achievements, identity documents, and test results. Additional information on the types of data requested by Alcoa and the way in which this data is processed during the recruiting process can be found in the Alcoa Corporation Recruitment Privacy Notice provided upon applying for employment with Alcoa.
+
+- other personal information found in content that users provide; and
+
+- Information We collect automatically from you [describe, e.g. data collected using cookies and other device identifying technologies]. When you use our Sites, we may collect certain information by automated means, using technologies such as cookies, web server logs, web beacons and JavaScript.
+
+Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Sites may use cookies (such as HTTP and HTML5 cookies), as well as other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies.
+
+In conjunction with gathering information through cookies, our web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. We also may record information such as the address of the web page that referred you to our Sites and the IP address of the device you use to connect to our Sites. We also may log information about your interaction with the Sites, such as which pages you visit. We may place tags on our web pages called "web beacons," which are small files that link web pages to particular web servers and their cookies.
+
+We may use third-party web analytics services on our Sites, such as those of Google Analytics, Adobe Omniture, ScorecardResearch and DocAve Analytics. These service providers help us analyze how users use the Sites. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn more about how to opt out of these third-party web analytic service providers' activities, click the relevant link below:
+
+Google Analytics
+
+Adobe Omniture
+
+ScorecardResearch
+
+DocAve Analytics
+
+Both we and others (such as our service providers and advertising networks) may collect personal information about our visitors' online activities, over time and across third-party websites. Our Sites are not designed to respond to "do not track" signals from browsers.
+
+The providers of other third-party plug-ins on our Sites, such as embedded videos and social sharing tools, may use automated means to collect information regarding your use of the Sites and your interactions with the plug-ins. This information is subject to the privacy policies or notices of the third-party plug-in providers and is not subject to Alcoa's Online Privacy Notice.
+
+For more information, please refer to our Cookie Policy.
+
+- HOW WE USE YOUR PERSONAL DATA AND ON WHAT LEGAL BASIS
+
+We use and subsequently process personal data We collect about you on the following legal basis, and for the purposes identified below:
+
+- We will process your personal data on the basis of our legitimate interest, for the following purposes:
+
+- In the context of employment;
+
+- For the performance of a contract;
+
+- Recruitment;
+
+- Provide and personalize our Services;
+
+- To manage our Website;
+
+- To deal with your enquiries and requests;
+
+- To protect the security and/or integrity of our Website and IT infrastructure;
+
+- To understand how you use our services and to enable Us to improve and further develop the features, performance and support available on our Website, which may entail the provision of anonymous statistical information about our visitors (however, without it being used to identify any individual user);
+
+- As mentioned in Section 4 of this Privacy Policy, among other, for disclosures to any of our employees, officers, agents, business partners, affiliates of the Alcoa Group, who process the personal data for the purposes set forth in this Privacy Policy;
+
+- To allow third party service providers and vendors engaged by Alcoa to access the personal data in order to provide Us with the services required to fulfill the purposes set forth in this Privacy Policy;
+
+- For any disclosures to third parties required as part of due diligence processes in the context of corporate restructuring operations in which We may participate, in line with Section 4 of this Privacy Policy; and
+
+Where Alcoa processes personal data in fulfillment of its own legitimate interests, it shall always balance such interests against the data subjects´ fundamental rights and freedoms and implement robust safeguards in view of ensuring that their privacy is protected accordingly. You may obtain information on such balancing test upon your request.
+
+If we ask for your consent to process your personal data, you may withdraw your consent at any time by completing the Data Subject Access Rights Form. Select a language from the drop-down menu in the Data Subject Access Rights Form section on the Notice landing page to navigate to and complete the form.
+
+We will also process your personal data in order to ensure an optimum level of compliance with the applicable legal obligations to which Alcoa is subject, and cooperate with regulators and law enforcement bodies where necessary, in line with Section 4 of this Privacy Policy:
+
+- To disclose your personal data and other complementary information subject to requests received from authorities and/or bodies with compelling power, as required by the applicable laws or by law enforcement officers invested with such powers.
+
+Compliance with the aforementioned legal obligations to which Alcoa is subject is required by various types of legislation, laws, regulations and rules.
+
+- WHAT RIGHTS DO YOU HAVE OVER YOUR PERSONAL DATA
+
+You have certain rights regarding your personal data, subject to local law. These include the following rights:
+
+- To know how we are processing your personal data and to access your personal data held by Alcoa and its affiliates, where applicable;
+
+- To request the rectification of inaccurate or incomplete personal data;
+
+- To request the erasure of your personal data when such data is no longer necessary for the initial purposes for which it has been initially collected, in accordance with applicable law;
+
+- To restrict our processing of your personal data, under certain circumstances (in which case We will only retain the personal data for the exercise and/or defense of Alcoa’s rights);
+
+- To object to our processing of your personal data, having regard to the given circumstances and for reasons related to their particular situation (in which case We will only retain the personal data for imperative legitimate reasons or the exercise and/or defense of Alcoa’s rights);
+
+This includes the right to object, at any time, for reasons related to your particular situation, to our processing of your personal data based on our legitimate interests or those of a third party, in which case We will cease in processing your personal data unless We are able to rely on legitimate reasons to do so.
+
+- To request the portability of your personal data, which will allow you to obtain and reuse the personal data in a usable electronic format for your own purposes and across different services without hindrance to usability, including its transmission to another third party; and
+
+- To withdraw the consent you may have granted to a specific processing, at any time.
+
+We encourage you to contact us to update or correct your information if it changes or if the personal data We hold about you is inaccurate.
+
+We will contact you if we need additional information from you in order to honor your requests.
+
+Alcoa is committed to protecting your personal data as described in this policy, and as required by applicable laws. Should you have any queries or intention of requesting additional information on how to exercise your rights or to effectively submit such a request, complete the Data Subject Access Rights Form. Select a language from the drop-down menu in the Data Subject Access Rights Form section on the Notice landing page to navigate to and complete the form.
+
+- HOW DO WE SHARE YOUR PERSONAL DATA AND WITH WHOM
+
+Alcoa will be able to share your personal data with third parties under the following circumstances:
+
+- Service providers and business partners.We will allow our service providers and business partners that perform certain services and other business operations for us to access to your personal data. For example, We may partner with other companies to process secure payments, fulfill orders, optimize our services, send newsletters and marketing emails, support email and messaging services and analyze information. Before any access is granted to such third parties, We enter into a written agreement which requires them to refrain from making any further unauthorized disclosures of the personal data, to use the personal data only for the purposes of providing the specific services and according to the instructions received from Alcoa, to only retain the personal data as required to fulfill such purposes of protect our interests, and to have in place adequate and appropriate security measures.
+
+- Alcoa Group companies.Alcoa works closely with other businesses and companies that fall under the Alcoa group family. We will share certain information about you (e.g. your buying and browsing history on our website) with other Alcoa Group companies for marketing purposes and internal reporting.
+
+- Law enforcement agency, court, regulator, government authority or other third party with compelling authority. We will be able to share your personal data with these parties where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party.
+
+- Asset purchasers. We will share your personal data with any third party that purchases, or to which We transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, We will use reasonable efforts to ensure that the entity to which we transfer your personal data uses it in a manner that is consistent with this Privacy Policy.
+
+Because We operate as part of a global business, the recipients referred to above can be located outside the jurisdiction in which you are located (or in which we provide the services), including countries that are not regarded as providing an adequate level of protection of the personal data. Please refer to the "International Data Transfer" section below for more information.
+
+- HOW DO WE PROTECT YOUR PERSONAL DATA
+
+We implement technical and organizational measures to ensure a level of security appropriate to the risk to the personal data we process. These measures are aimed at ensuring the on-going integrity and confidentiality of personal data. We evaluate these measures on a regular basis to ensure the security of the processing.
+
+- FOR HOW LONG DO WE STORE YOUR PERSONAL DATA
+
+We will keep your personal data for the length of time set out in our records retention policy.
+
+- INTERNATIONAL DATA TRANSFERS
+
+Your personal data may be transferred to, stored, and processed in a country that is not regarded as ensuring an adequate level of protection for personal data under privacy laws in some jurisdictions.
+
+We have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to ensure that your data is adequately protected. For more information on the appropriate safeguards in place, please contact us at the details below.
+
+- CONTACT US
+
+Alcoa is the data controller with respect to the personal data We collect and process.
+
+If you have questions or concerns regarding the way in which your personal data has been used, complete and submit the Data Subject Access Rights Form. Select a language from the drop-down menu in the Data Subject Access Rights Form section on the Notice landing page to navigate to and complete the form.
+
+You may also contact us by mail at:
+
+Alcoa Corporation
+
+Attn: Corporate Communications/Privacy
+
+201 Isabella Street
+
+Suite 500
+
+Pittsburgh, PA 15212
+
++1 412-315-2900
+
+Our Data Privacy Office can be contacted at: AlcoaDPO@alcoa.com.
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that We have not been able to assist with your complaint or concern, you have the right to make a complaint to the data protection authority of the applicable country where you reside using their website.
+
+- CHANGES TO THIS PRIVACY POLICY
+
+You are entitled to request a copy of this Privacy Policy from us using the contact details set out above. This Privacy Policy will be subject to changes, as deemed necessary from time to time.
+
+If We change this Privacy Policy, We will notify you of the changes by posting an updated Privacy Notice on our Sites. Where changes to the Privacy Policy will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, We will give you sufficient advance notice so that you have the opportunity to exercise your rights (e.g. among other, to object to the processing). Moreover, and to the extent that Alcoa relies on consent for the performance of any of its processing activities, We will make sure to request your consent where the aforementioned changes may have a substantial impact on the relevant processing before these changes are made effective.
+
+LAST UPDATED ON OCTOBER 13, 2023
+
+## Download Notice
+
+-
+ALCOA CORPORATION PRIVACY NOTICE
+
+-
+AVISO DE CONFIDENCIALIDAD DE ALCOA CORPORATION
+
+-
+ÉNONCÉ DE CONFIDENTIALITÉ D’ALCOA CORPORATION
+
+-
+AZ ALCOA CORPORATION ADATVÉDELMI NYILATKOZATA
+
+-
+PERSÓNUVERNDARYFIRLÝSING ALCOA CORPORATION
+
+-
+PERSONVERNMERKNAD FOR ALCOA CORPORATION
+
+-
+AVISO DE PRIVACIDADE DA ALCOA CORPORATION
+
+-
+ALCOA 公司隐私声明
+
+## Data Subject Access Rights Form
+
+- English
+
+- Chinese (Mandarin)
+
+- Español (EU)
+
+- Français (CA)
+
+- Íslenska
+
+- Magyar
+
+- Norsk
+
+- Português

@@ -1,0 +1,566 @@
+CareersContact Us
+
+# Privacy Policy
+
+Celanese recognizes and supports the privacy interests of all persons and respects these interests when Celanese collects and processes Personal Information. In particular, Celanese respects the privacy of its customers, suppliers and employees.
+
+1.Controller
+
+Controller in the meaning of Art. 4 No. 7 EU General Data Protection Regulation (GDPR) is:
+
+Celanese Corporation
+
+222 W. Las Colinas Blvd., Suite 900N
+
+Irving, Texas 75039
+
+United States
+
+(Hereinafter “Celanese”)
+
+You may contact our Data Protection Officer at dataprivacy@celanese.com
+
+2. Background and purpose
+
+Celanese values encourage a corporate culture based on integrity and accountability. At the heart of this is respect for the people we do business with and the personal information they entrust to us. Therefore, the security of such personal information (“personal data”) provided by visitors to our websites (the “Site”) is a priority for us.
+
+The following statement gives you an overview about which type of personal data are collected for which purpose and on which legal basis. It also informs you about your rights with regard to us as the controller.
+Celanese Corporation and its subsidiaries (“Celanese”) comply with the provisions of all applicable data protection laws, which regulate the processing of personal data.
+
+3. Data processing on this internet page
+
+Just by merely using this website for information purposes, Celanese automatically collects and stores information in the server log files which your browser transmits to us.These data are technically necessary in order for us to display this website to you and assure the stability and security of the site:
+
+- IP address
+
+- Region of origin request
+
+- Date and time of the inquiry
+
+- Content of the request (specific page)
+
+- The respectively transmitted data volume
+
+- Website from which the request comes
+
+- Browser, operating system and its graphic user interface
+
+- Language and version of the browser software
+
+Legal basis for the processing of these data is Art. 6 No. 1 sentence 1 lit. f GDPR.
+Celanese will not attribute these data to any specific persons, and these data will not be combined with other data sources. After use for the above purposes, the data are erased by Celanese after 14 months.
+
+4. Contact
+
+When you provide us with personal data while requesting certain services, e.g. as part of a registration (i.e., when you order a publication), through completion of forms or e-mails, as part of an order for products and/or services or other inquiries, we will process your personal data only to perform the requested and rendered services.
+The legal basis for this processing is Art. 6 No. 1 sentence 1 lit. b and f GDPR.
+
+5. Transfer of personal data
+
+Celanese may share your personal data for the purpose stated above with other Celanese companies or, in some instances, with its agents or vendors that provide services for Celanese. If required, Celanese has entered a data processing agreement in the meaning of Art. 28 GDPR. Such agents and vendors are contractually prohibited from disclosing confidential information, including any personal data Celanese shares with them.
+
+Celanese does not share, sell or lease your personal data to any third parties for their marketing use. We will release information about you only if (i) we have obtained your consent, (ii) are otherwise compelled by law and/or the public authorities to disclose and/or transfer such data, (iii) such transfer is necessary to protect and defend the rights or property of Celanese or (iv) urgent circumstances warrant such transfer to protect the personal safety of Celanese employees or the public.
+
+6. Transfer outside the EU/EEA
+
+Since Celanese is a globally operating company, it is possible that personal data may be processed in third countries outside the EU/EEA. If data is transferred from the EU/EEA to a third country, Celanese will ensure that the necessary data protection measures are applied, in particular that the requirements of Art. 44 et seq. GDPR are met. In the event that no adequacy decision has been made by the Commission for a third country, Celanese has provided appropriate safeguards in accordance with Art. 46 No. 2 lit. c GDPR.
+
+Please find further information on the transfer of personal data outside the EU/EEA, in the context of the use of cookies on this website, in section 7, 8, 9 and 10.
+
+7. Cookies
+
+7.1 General information
+
+When you use our website, cookies are also stored on your computer. Cookies are small text data files, which are stored on your hard drive and attributed to the browser you are using. The place which sets the cookie (in this case, us) receives certain information. Cookies cannot execute any programs or transfer viruses to your computer. They serve the purpose of making the internet offering in general more user friendly and effective.
+
+We use so-called technically necessary cookies on our website. "Technically necessary cookies" are cookies that are necessary for our website to function correctly. They help to make our website usable by enabling basic functions, such as page navigation and access to secure areas of the website.
+
+You can also prevent the storage of cookies with a corresponding setting in your browser software. If you prevent the storage of cookies, we wish to point out that you may not be able to fully use this website.
+
+Alternatively to the browser add-on, especially for browsers on mobile devices, you can prevent the collection of your data by clicking on the following link: Opt-Out Cookie. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you will have to set the opt-out cookie again. To prevent Google Analytics from collecting data across multiple devices, you must opt-out on all devices.
+
+If you agree, technically not necessary cookies will be used in context with the use of Google Analytics and YouTube. You will find more detailed information on this in sections 8 and 9.
+
+7.2 Detailed information on the cookies used on this website
+
+Necessary Cookies:
+Name
+Expiration
+Recipient
+Description
+ASP.NET_SessionId
+1 Year
+Celanese
+General purpose platform session cookie, used by sites written with Microsoft .NET based technologies. Usually used to maintain an anonymized user session by the server.
+PHPSESSID
+1 Year
+Celanese
+Cookie generated by applications based on the PHP language. This is a general-purpose identifier used to maintain user session variables.
+i18n
+Session
+iCIMS
+Our Career pages use this cookie in the following capacities:
+
+Page Rendering: The i18n cookie powers page rendering and allows each webpage to load images and words on a page. Without this cookie, the webpage will not render and will error in most cases.
+
+Job Search: This i18n cookie is core to the search and matching functionalities. Without this cookie, the search and matching will not work in global search.
+
+Job Applications: This i18n cookie is used to determine the locale of the job application. Without this cookie, users cannot submit a job application.
+
+Templates and Syndication: This i18n cookie is used to retrieve cached templates. Without i18n cookie, we will not be able to retrieve syndicated content.
+
+Language Switching: This i18n cookie is core for language switching. Without this cookie, the user will not be able to change the language they are browsing in.
+jasession
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to store a webpage visitor’s authenticated session to anonymously track the visitor’s behavior on our Career webpages.
+redirectUrl
+Session
+iCIMS
+Our Career pages use this cookie for Single-Sign-On (SSO) and login purposes to determine which webpage to redirect the user to after they authenticate into their user profile.
+referredBy
+Session
+iCIMS
+Our Career pages use this cookie for authentication purposes in the user profile.
+restrictPortalLoginOff
+Session
+iCIMS
+Our Career pages use this cookie in demo versions of products and in limited production environments when a shared password is requested by the customer.
+
+If this cookie is disabled, then the users will not be able to log in to the products using this shard password functionality. This feature is rarely used and doesn't apply to the majority of iCIMS customers.
+searchSource
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to identify the applicable job search engine to use within our Career page platform.
+_zlcmid
+Session
+iCIMS
+This is a Zendesk cookie Our Career pages use to maintain session information when the users contacts the iCIMS helpdesk via chat support.
+
+Zendesk is a tool Our Career pages use to receive help tickets and provide support. For more information about Zendesk, please visit: https://www.zendesk.com/company/agreements-and-terms/privacy-policy/
+JSESSIONID
+Session
+iCIMS
+Our Career pages use this cookie to store a session identifier to identify a user across multiple pages and provide multi-page functionality, such as staying logged in or redirecting to desired pages (e.g., job applications).
+
+Disabling this cookie will prevent any type of data from persisting across multiple pages, for example, remembering the job post to which a candidate is applying.
+__atrfs
+Session
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts.
+
+AddThis is a tool Our Career pages use to help visitors share job postings. All or some job sharing functionality will be disabled if these cookies are disabled. For more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+__atuvc
+1 Year
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts.
+
+AddThis is a tool Our Career pages use to help visitors share job postings. All or some job sharing functionality will be disabled if these cookies are disabled. For more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+__atuvs
+6 hours
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts.
+
+AddThis is a tool Our Career pages use to help visitors share job postings. All or some job sharing functionality will be disabled if these cookies are disabled. For more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+banner-dismiss
+30 days
+iCIMS
+Our Career pages use this cookie when an internal candidate dismisses the banner in the job matching User Interface (UI), which asks them to update their skills. The cookie prevents users from seeing the banner again right after they dismiss it, allowing them to use the job matching interface without a constant reminder to update their skills.
+gvc
+5 years
+iCIMS
+This is a Dropbox cookie Our Career pages use to enable users to upload a resume via Dropbox.
+
+Dropbox is a tool Our Career pages use to offer alternative methods for uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+__Host-js_csrf
+3 years
+iCIMS
+
+Dropbox is a tool Our Career pages use to offer alternative methods for uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+__Host-ss
+3 years
+iCIMS
+
+Dropbox is a tool Our Career pages use to offer alternative methods for uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+_icims_kiosk_source_person
+Session
+iCIMS
+Our Career pages use this cookie for the “Kiosk Mode” functionality and to control job sourcing based on the user who is running the event.
+
+If disabled, Connect Kiosk mode events will no longer report sourcing and assignment correctly.
+icims_JibeSessionId
+Session
+iCIMS
+Our Career pages use this cookie to store the session ID of a Career Site visitor to link the Session ID to a job application within Applicant Tracking.
+icims_JibeUserId
+Session
+iCIMS
+Our Career pages use this cookie to store the domain User ID of a Career Site and link the domain User ID to an application within Applicant Tracking
+Jar
+2 years
+iCIMS
+
+Dropbox is a tool Our Career pages use to offer users alternative methods of uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+jsEnabled
+Session
+iCIMS
+Our Career pages use this cookie to determine how to render searchable dropdown lists in the browser when users complete forms and when editing or creating profiles within Our Career pages.
+
+If disabled, users may not be able to complete forms that use dropdown lists accurately. This may limit the use of forms that have required dropdown lists.
+last_active_role
+4 Years
+iCIMS
+This is a Dropbox cookie iCIMS use to enable users to upload a resume via Dropbox.
+
+Dropbox is a tool Our Career pages use to offer users alternative methods of uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+lid
+2 years
+iCIMS
+This is a Dropbox cookie iCIMS use to enable users to upload a resume via Dropbox.
+
+Dropbox is a tool Our Career pages use to offer users alternative methods of uploading resumes. For more information about Dropbox, please visit: https://www.dropbox.com/privacy
+loc
+Persistent
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts. This cookie captures the visitors approximate geolocation for analytics purposes.
+
+AddThis is a tool Our Career pages use to help visitors share job postings. For more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+xtc
+1 Year
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts.
+
+AddThis is a tool Our Career pages use to help visitors share job postings. All or some job sharing functionality will be disabled if these cookies are disabled. For more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+uvc
+1 Year
+iCIMS
+This is a AddThis cookie Our Career pages use to enable website visitors to share content on their social media accounts. It tracks how often a visitor interacts with AddThis.
+
+AddThis is a tool used by Our Career pages to help visitors share jobs. for more information about AddThis, please visit: https://www.oracle.com/legal/privacy/addthis-privacy-policy.html
+
+Analytical Cookies:
+Name
+Expiration
+Recipient
+Description
+_ga
+2 years
+Google
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+_gid
+24 hours
+Google
+This cookie is used to group the user behavior together for each user. ... _gid cookie is responsible for tracking user behavior.
+_gat
+10 Minutes
+Google
+This cookie is used to group the user behavior together for each user. ... _gat cookie is responsible for tracking user behavior.
+__utma
+2 Years
+Google
+This is one of the five main cookies set by the Google Analytics service which enables website owners to track visitor behavior and measure site performance.
+__utmb
+10 Minutes
+Google
+This is one of the five main cookies set by the Google Analytics service which enables website owners to track visitor behavior and measure site performance.
+__utmc
+1 Year
+Google
+This is one of the five main cookies set by the Google Analytics service which enables website owners to track visitor behavior and measure site performance.
+__utmt
+10 Minutes
+Google
+This is one of the five main cookies set by the Google Analytics service which enables website owners to track visitor behavior and measure site performance.
+__utmz
+12 Hours
+Google
+This is one of the five main cookies set by the Google Analytics service which enables website owners to track visitor behavior and measure site performance.
+ajs_anonymous_id
+1 year
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to provide system analytic data in Atlassian Jira ServiceDesk for system health and uptime purposes.
+
+New Relic is a tool Our Career pages use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/cookie-policy/cookie-table
+
+Atlassian Jira ServiceDesk is a tool the iCIMS development team uses to manage development-related work. For more information about Atlassian, please visit: https://www.atlassian.com/legal/privacy-policy
+ajs_group_id
+1 year
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to provide system analytic data in Atlassian Jira ServiceDesk for system health and uptime purposes.
+
+New Relic is a tool Our Career pages use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/cookie-policy/cookie-table
+
+Atlassian Jira ServiceDesk is a tool the iCIMS development team uses to manage development-related work. For more information about Atlassian, please visit: https://www.atlassian.com/legal/privacy-policy
+ajs_user_id
+1 year
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to provide system analytic data in Atlassian Jira ServiceDesk for system health and uptime purposes.
+
+New Relic is a tool Our Career pages use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/cookie-policy/cookie-table
+
+Atlassian Jira ServiceDesk is a tool the iCIMS development team uses to manage development-related work. For more information about Atlassian, please visit: https://www.atlassian.com/legal/privacy-policy
+_boomr_akamaiXhrRetry
+Persistent
+iCIMS
+This is an anonymous Akamai Boomerang cookie Our Career pages use to measure the page load time users experience.
+
+Akamai Boomerang is a tool Our Career pages use to measures the performance characteristics of real-world page loads and interactions. For more information about Boomerang, please visit: https://www.akamai.com/legal/compliance/privacy-trust-center
+ei_client_id
+2 years
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to monitor performance metrics/analytics.
+
+New Relic is a tool Our Career pages use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/privacy
+login_idle_session_timeout
+1 year
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to report page load performance and helps in debugging iCIMS products.
+
+New Relic is a tool iCIMS use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/privacy
+login_service_login
+Session
+iCIMS
+This is an anonymous New Relic cookie Our Career pages use to report page load performance and helps in debugging iCIMS products.
+
+New Relic is a tool Our Career pages use to monitor customer application health and uptime. For more information about New Relic, please visit: https://newrelic.com/termsandconditions/cookie-policy/cookie-table; Segment: https://segment.com/legal/privacy/
+_janalytics_id.xxxx
+2 years
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to collect metrics on webpage visitors’ behavior within Our Career page platform.
+_janalytics_ses.xxxx
+6 hours
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to collect metrics on webpage visitors’ behavior within Our Career page platform.
+_jibe_sticky_params
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to collect metrics on webpage visitors’ behavior within Our Career page platform.
+jrasession
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to collect metrics on webpage visitors’ behavior within Our Career page platform.
+session_id
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to store a webpage visitor’s authenticated session to anonymously track the visitor’s behavior on Our Career pages.
+sp
+Session
+iCIMS
+Our Career pages use this anonymous web User Interface (UI) session cookie to collect metrics on webpage visitors’ behavior within Our Career page platform.
+icims_GAClientID
+2 Years
+iCIMS
+This is a Google Analytics cookie Our Career pages use to pseudonymously identify a browser instance and correlate a browser's usage of Applicant Tracking across all of the iCIMS Talent Cloud.
+
+Google Analytics is a tool Our Career pages use to analyze application usage. Some of these metrics also inform in-platform metrics. For more information about Google Analytics, please visit: https://policies.google.com/privacy?hl=en-US
+snowplowOutQueue__jibe_sp
+Persistent
+iCIMS
+This is Snowplow a cookie Our Career pages use and is a local storage variable which caches events such as page views and link clicks.
+
+Snowplow is an analytics tool Our Career pages use to analyze application usage. For more information about Snowplow, please visit: https://snowplowanalytics.com/privacy-policy
+
+Marketing Cookies:
+Name
+Expiration
+Recipient
+Description
+_mkto_trk
+2 Years
+Marketo
+This cookie is associated with an email marketing service provided by Marketo. This tracking cookie allows a website to link visitor behavior to the recipient of an email marketing campaign, to measure campaign effectiveness.
+
+7.3 Legal basis
+
+The legal basis for the use of technically necessary cookies is Art. 6 No. 1 lit. f GDPR.
+
+If you have given your consent to the use of technically not necessary cookies (e.g. for the use of Google Analytics, Marketo or YouTube), the legal basis for the use of these cookies is Art. 6 No. 1 lit. a GDPR. Your consent can be revoked at any time with effect for the future by changing your cookie settings.
+
+7.4 Additional information for the transfer of personal data outside the EU/EEA
+
+Please note, that your consent to the use of technically not necessary cookies also includes that your personal data may be processed in the USA. For this reason, we would like to inform you in accordance with Art. 49 No. 1 lit. a GDPR, that the USA is considered by the European Court of Justice to be a country with no adequate level of data protection according to EU standards. In particular, there is a risk that your data may be processed by US authorities for surveillance and investigation purposes, possibly without the opportunity for legal remedies.
+
+Further information on the transfer of personal data outside the EU/EEA, in the context of the use of cookies on this website can be found in the following sections to Google Analytics, Marketo and YouTube.
+
+8. Google Analytics
+
+If you have given your consent, Celanese uses Google Analytics to analyze and optimize the use of the website. We use the obtained statistics to improve our offering and design it so that it is more interesting for you as the user. Google Analytics employs so-called “cookies,” text files that are stored in your computer in order to facilitate an analysis of your use of the site. The information about your use of this website produced by the cookie is normally transmitted to and stored on a server of Google in the USA. Recipient of the collected data is Google. In the case of activation of IP anonymization on this website, however, your IP address is first abbreviated within the Member States of the European Union or in other member countries to the Convention on the European Economic Area. The full IP address is only transmitted to and stored on a server of Google in the USA in exceptional situations. At the instruction of the Operator of this website, Google will use this information to analyze your use of the website and compile reports about website activity.
+
+The legal basis for the use of Google Analytics is Art. 6 No. 1 sentence 1 lit. a GDPR.
+
+You can revoke your consent at any time with effect for the future by preventing the storage of cookies with a corresponding setting in your browser software; however, we would like to point out that in this case, you may not be able to use all functions of this website to their full extent.
+
+You can also prevent the collection of the data produced by the cookie that relates to your use of the website (incl. your IP address) with regard to Google, as well as the processing of these data by Google by downloading and installing the browser-Add-on available at the following link: https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en.
+
+Alternatively to the browser add-on, especially for browsers on mobile devices, you can prevent the collection of your data by clicking on the following link: Opt-Out Cookie. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you will have to set the opt-out cookie again. To prevent Google Analytics from collecting data across multiple devices, you must opt-out on all devices(in 8.1 in general information)
+
+We use Google Analytics with the expanded "_anonymizeIp()". This results in IP addresses being further processed in abbreviated form so that a connection to an individual can accordingly be precluded.
+
+In exceptional situations in which personal data are transmitted to the USA, Google has submitted to the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework. Since the EU-US Privacy Shield has been declared invalid by the European Court of Justice, Google bases the processing of your personal data in the USA on EU Standard Contractual Clauses as appropriate safeguards for the protection of your personal data within the meaning of Art. 46 (2) lit. c GDPR.
+
+Information on the third-party provider: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, telefax: +353 (1) 436 1001. Terms and Conditions for Use: https://policies.google.com/terms?hl=en, overview of data privacy: https://policies.google.com/?hl=en&gl=de, as well as the data privacy statement: https://policies.google.com/privacy?hl=en&gl=de.
+
+9. Marketo
+
+We use the services of the company Marketo EMEA Limited, Cairn House South Country Business Park, Leopardstown, Dublin 18 Ireland ("Marketo") in order to optimise our e-mail marketing.
+
+The use of the Marketo service enables us to evaluate your user behaviour. The e-mails sent by us contain a so-called web beacon, also called tracking pixel. This tracking pixel enables us to record your behavior in relation to our e-mail. We record user behavior, i.e. when you read our e-mails or whether and which links you click on in our e-mails. From this we can draw conclusions about your personal interests. Marketo stores this data on its servers within the European Economic Area.
+
+Tracking is not possible if you have deactivated the display of images by default in your e-mail program. If you display the images manually, the above-mentioned tracking will take place.
+
+By observing your user behavior, we aim to adapt and optimize our offer to your needs and interests.
+
+Legal basis for the processing of your personal data is your consent according to Art. 6 No. 1 sentence 1 lit. a GDPR and the national laws of the member states of the EU, in which they implemented the requirements of Art. 5 Para. 3 ePrivacy Directive.
+
+The cookie on your system expires after 24 months. You can prevent the storage of the cookie by adjusting your browser software accordingly.
+
+For more information about Marketo's privacy and cookie policies, please see:
+
+https://documents.marketo.com/legal/privacy/
+
+https://documents.marketo.com/legal/cookies/
+
+10. Inclusion of YouTube videos
+
+We have embedded YouTube videos on our website that are stored at http://www.YouTube.com and may be played directly from our website. No data about you as a user will be transferred to YouTube if you do not play the videos. Only when you play the videos will the data referred to in paragraph three be transmitted. We have no influence on this data transmission.
+
+The legal basis for the embedding of YouTube videos is Art. 6 No. 1 sentence 1 lit. a GDPR and the national laws of the member states of the EU, in which they implemented the requirements of Art. 5 Para. 3 ePrivacy Directive.
+
+By visiting the website, YouTube receives the information that you have accessed the corresponding subpage of our website. In addition, the data specified in Section three of this data privacy statement will be transmitted (regardless of whether YouTube provides a user account that you are logged into or whether there is no user account). If you are logged into Google, your data will be assigned directly to your account. If you do not want your profile to be associated with YouTube, you must log out before activating the button. YouTube stores your data as user profiles and uses them for advertising, market research and/or the design of its website to meet your needs. Such evaluation is carried out in particular (even for users who are not logged in) to provide demand-oriented advertising and to inform other users about your activities on our website. You have the right to object to the creation of these user profiles, whereby you must contact YouTube to exercise this right. Further information on the purpose and scope of data collection and processing by YouTube can be found in the YouTube (Google) Privacy Policy. There, you will also find further information on your rights and setting options to protect your privacy: https://policies.google.com/privacy?hl=en&gl=de.
+
+11. Retention period
+
+Celanese will delete all personal data, if the processing purpose no longer persist and no statutory periods for safekeeping oppose exist.
+
+12. Data Security
+
+Celanese takes reasonable technical and organizational precautions to keep all information obtained from our online visitors secure against unauthorized access and use, and we periodically review our security measures.
+
+This Site may contain “links” to other websites of affiliated companies and/or third parties. Although we attempt to only link to websites that share our high standards and respect for privacy, we do not monitor or control the information collected when you elect to access a third-party link. The treatment of personal data by the operators of third-party websites may be different from ours. Accordingly, we are not responsible for the content or the data privacy practices employed by other websites.
+
+13. Your Rights
+
+According to the GDPR, you are entitled to the following rights against Celanese as a data subject:
+
+- Right of access by the data subject (Art. 15 GDPR)
+In principle, you have the right to receive information on the points mentioned in Art. 15 GDPR. You also have the right to request a copy of your personal data in accordance with Art. 15 No. 3 GDPR.
+
+- Right to rectification (Art. 16 and 17 GDPR)
+
+You have the right to have incorrect personal data corrected. In addition, you have the right to demand that your personal data is deleted if further processing is no longer necessary, if processing is unlawful or if you have withdrawn your consent.
+
+- Each Celanese web page that is designed for the entry of personal data contains instructions explaining how you can update the personal data you provide or cancel any subscriptions you have with Celanese. You may send an e-mail to the Webmaster of the website through which you entered your personal data.
+
+- Right to restriction of processing (Art. 18 GDPR)If the conditions in Art. 18 GDPR are met, you have the right to have the processing of your personal data restricted, i.e. to prevent further processing for the time being.
+
+- Right to data portability (Art. 20 GDPR)
+
+Within the limits of Art. 20 GDPR, you have the right to receive your personal data in a machine-readable format in order to forward it or have it forwarded to another controller.
+
+- Right to object (Art. 21 GDPR)
+
+If the processing of your personal data is based on Art. 6 No. 1 sentence 1 lit. e or f GDPR, you have the right to object to the processing if the further requirements of Art. 21 GDPR are met.
+
+You can require this by sending us an email at: dataprivacy@celanese.com.
+
+The exercise of these rights is in general free of charge.
+
+In addition, you are entitled to lodge a complaint regarding the handling of your personal data with a supervisory authority.
+
+Should you have any questions regarding data protection or this Privacy Policy, please contact:
+
+Lindsey Beran
+
+Chief Compliance Officer
+
+Celanese Corporation
+
+222 W. Las Colinas Blvd.
+
+Irving, TX 75039
+
+USA
+
+COMPANY
+
+Celanese {NYSE: CE} is a global chemical and specialty materials company that engineers and manufactures a wide variety of products essential to everyday living.
+
+Acetyl Chain
+
+Cellulose Acetate
+
+Engineered Materials
+
+News & Media
+
+Investor Relations
+
+Our Acquisitions
+
+Celanese Foundation
+
+Find us on Social Media
+
+PRODUCT SUPPORT
+
+SDS Search
+
+Certificates Search
+
+EM TDS Center
+
+Grade Tools TOW PLUS
+
+AskChemille.com (Material Selection Tool)
+
+Distributor Locator
+
+RESOURCES
+
+Events & Tradeshows
+
+Webinars
+
+Self Declaration for Customers
+
+Supplier Center
+
+LEGAL & COMPLIANCE
+
+ACC Responsible Care Initiative
+
+Compliance & Ethics
+
+Compliance Law
+
+Conflict Minerals Policy & Disclosures
+
+CTPAT Statement of Support
+
+Cyber & Information Security Statement
+
+Disclaimer
+
+Cautionary Statements
+
+Modern Slavery Statement
+
+Sustainable Procurement Policy
+
+Privacy Policy
+
+Political Engagement Policy
+
+Political Contributions
+
+Report a Concern
+
+California Transparency Act and AB1305 Voluntary Carbon Disclosures
+
+UK Tax Strategy
+
+Spain Tax Reporting
+
+Water Policy
+
+Copyright 2026 Celanese Corporation

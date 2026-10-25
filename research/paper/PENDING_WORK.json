@@ -1,0 +1,228 @@
+{
+  "project": "PolarisLex",
+  "audit_date": "2026-10-25",
+  "git_commit": "ceaf61030a0f5b8dfe57ab2f272f68d5dd902145",
+  "total_tasks": 16,
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "task": "Fix research pipeline adapter scoring to allow compliant policies to achieve 'HIGH' evidence quality and 'covered' status",
+      "category": "Critical blockers",
+      "priority": "P0",
+      "status": "pending",
+      "evidence": "In research/src/research/pipeline_adapter.py, _stub_search_fn normalises keyword hits over the entire union of all element keywords and contradiction cues, resulting in scores < 0.30 (below PARTIAL_SCORE). The engine falls back to RELIABLE_SCORE (0.40), making evidence.quality permanently 'MEDIUM'. In compliance/src/compliance/classify.py, 'covered' strictly requires quality == 'HIGH'. Thus TP=0 and Recall=0 across all configs.",
+      "files_affected": [
+        "research/src/research/pipeline_adapter.py",
+        "compliance/src/compliance/matching.py",
+        "compliance/src/compliance/classify.py"
+      ],
+      "completion_criteria": "Fully compliant test cases (e.g. SYN_009, SYN_026) produce evidence.quality == 'HIGH' and status == 'covered' under baseline retrieval; Precision and Recall > 0.0.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-002",
+      "task": "Wire ElementDecomposer outputs into classification status decision in research adapter",
+      "category": "Critical blockers",
+      "priority": "P0",
+      "status": "pending",
+      "evidence": "In research/src/research/pipeline_adapter.py lines 359-373, ElementDecomposer.assess_elements is executed after classify_duty() has already returned status. It only modifies satisfied_elements on PredictionResult and does not affect the predicted status.",
+      "files_affected": [
+        "research/src/research/pipeline_adapter.py"
+      ],
+      "completion_criteria": "When use_element_decomposition=True, satisfied elements discovered by ElementDecomposer contribute to the element satisfaction ratio and directly influence whether status is 'covered', 'partial', or 'missing'.",
+      "dependencies": ["TASK-001"]
+    },
+    {
+      "id": "TASK-003",
+      "task": "Wire DenialPolarityDetector to trigger contradiction/violation or disqualify coverage in classification",
+      "category": "Critical blockers",
+      "priority": "P0",
+      "status": "pending",
+      "evidence": "In research/src/research/pipeline_adapter.py, DenialPolarityDetector only filters SearchHits in stub search, but clauses are still passed to gather_evidence. The detected polarity findings are recorded only in diagnostics and do not override or inform classify_duty.",
+      "files_affected": [
+        "research/src/research/pipeline_adapter.py"
+      ],
+      "completion_criteria": "Cases containing direct denials (e.g. SYN_022, SYN_027) transition from 'partial' to 'violation' or 'missing' when use_denial_polarity=True, differentiating Config C/D from Config A/B.",
+      "dependencies": ["TASK-001"]
+    },
+    {
+      "id": "TASK-004",
+      "task": "Fix test_jev.py failures in compliance test suite",
+      "category": "Critical blockers",
+      "priority": "P0",
+      "status": "pending",
+      "evidence": "pytest compliance/tests yields 4 failures in test_jev.py (StopIteration and AssertionError) because analyze_document() returns empty obligations when called with empty search and no matching laws.",
+      "files_affected": [
+        "compliance/tests/test_jev.py",
+        "compliance/src/compliance/jev.py",
+        "compliance/src/compliance/service.py"
+      ],
+      "completion_criteria": "All 104 tests in compliance/tests pass without errors (101 passed, 3 skipped for live Qdrant).",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-005",
+      "task": "Fix semantic_graph test failure in test_export_cli.py",
+      "category": "Critical blockers",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "semantic_graph/tests/test_export_cli.py fails with AssertionError: extra item 'RequirementElement' in GraphIR node labels.",
+      "files_affected": [
+        "semantic_graph/tests/test_export_cli.py"
+      ],
+      "completion_criteria": "pytest semantic_graph/tests passes with 0 failures.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-006",
+      "task": "Expand evaluation dataset beyond 42 synthetic cases to include real privacy policies",
+      "category": "Required before submitting the paper",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "All 42 cases in cases.jsonl are synthetic (SYN_001-042). The test split contains only 9 cases. All annotations are by single author R001 with zero real-world policies and zero legal expert validation.",
+      "files_affected": [
+        "research/datasets/cases.jsonl",
+        "research/datasets/data_manifest.json",
+        "research/datasets/dataset_card.md"
+      ],
+      "completion_criteria": "Dataset contains at least 100+ annotated clauses including real privacy policies (e.g. from test_policy/ or Indian consumer platforms), stratified across DPDP obligations with frozen train/val/test splits.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-007",
+      "task": "Conduct multi-annotator agreement study (Inter-Annotator Agreement / Cohen's Kappa)",
+      "category": "Required before submitting the paper",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "All cases currently list annotator='R001' and adjudication='single'. Reviewers in legal NLP / compliance venues reject single-annotator subjective datasets without reported kappa or legal expert verification.",
+      "files_affected": [
+        "research/datasets/annotation_guidelines.md",
+        "research/datasets/cases.jsonl"
+      ],
+      "completion_criteria": "A subset (>= 30%) of cases double-annotated by a second annotator, with reported Cohen's Kappa (target kappa >= 0.70) and documented adjudication protocol.",
+      "dependencies": ["TASK-006"]
+    },
+    {
+      "id": "TASK-008",
+      "task": "Run evaluation over full dataset across Configurations A, B, C, D and verify statistical divergence",
+      "category": "Required before submitting the paper",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "Run 20261025_005459 has identical predictions across all four configs (F1=0.0, FCR=0.0). No experimental variance or statistical differentiation exists in recorded artifacts.",
+      "files_affected": [
+        "research/evaluate.py",
+        "research/results/"
+      ],
+      "completion_criteria": "Evaluation report demonstrates non-trivial precision/recall/F1, with Config B showing higher element F1, Config C reducing false-covered count/rate on denial cases, and Config D achieving optimal balanced F1.",
+      "dependencies": ["TASK-001", "TASK-002", "TASK-003", "TASK-006"]
+    },
+    {
+      "id": "TASK-009",
+      "task": "Benchmark against live Qdrant dense vector retrieval in addition to keyword stub",
+      "category": "Required before submitting the paper",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "Current evaluation run strictly uses keyword-stub search. The core paper narrative claims dense vector retrieval conflates negative rights waivers with compliance, but vector retrieval was never actually run in the benchmark.",
+      "files_affected": [
+        "research/evaluate.py",
+        "research/src/research/pipeline_adapter.py"
+      ],
+      "completion_criteria": "An experimental comparison comparing pure dense vector retrieval (Qdrant + nomic-embed-text) vs vector + element decomposition + polarity filtering, demonstrating the concrete failure mode of dense embeddings.",
+      "dependencies": ["TASK-001", "TASK-008"]
+    },
+    {
+      "id": "TASK-010",
+      "task": "Compile formal bibliography (.bib) and verify all cited references",
+      "category": "Required before submitting the paper",
+      "priority": "P1",
+      "status": "pending",
+      "evidence": "No .bib file exists. Citations in RESEARCH_TOPIC_SELECTION.md include unverified or preprint arXiv citations (e.g. Tang et al. 2026, Vazquez et al. 2025) that require formal verification.",
+      "files_affected": [
+        "research/paper/references.bib"
+      ],
+      "completion_criteria": "A validated references.bib file containing peer-reviewed citations for PolicyLint, PoliCheck, Polisis, Claudette, OPP-115, GraphRAG, and official Indian statutory gazettes.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-011",
+      "task": "Draft academic manuscript following target venue template",
+      "category": "Required before submitting the paper",
+      "priority": "P2",
+      "status": "pending",
+      "evidence": "No LaTeX manuscript or draft text exists anywhere in the repository. Only high-level markdown proposals and topic selection documents exist.",
+      "files_affected": [
+        "research/paper/main.tex",
+        "research/paper/sections/"
+      ],
+      "completion_criteria": "Complete 10-page or workshop draft covering Sections 1-20 with empirical tables, figures, and formal error analysis.",
+      "dependencies": ["TASK-008", "TASK-010"]
+    },
+    {
+      "id": "TASK-012",
+      "task": "Update Graphify knowledge graph snapshot",
+      "category": "Important improvements",
+      "priority": "P2",
+      "status": "pending",
+      "evidence": "graphify-out snapshot was generated on 2026-10-24 21:05 and does not contain the research/ directory or recent modifications.",
+      "files_affected": [
+        "graphify-out/"
+      ],
+      "completion_criteria": "Graphify re-indexed with research package included in graph.json and manifest.json.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-013",
+      "task": "Populate data_manifest.json with case checksums and split IDs",
+      "category": "Important improvements",
+      "priority": "P2",
+      "status": "pending",
+      "evidence": "research/datasets/data_manifest.json is currently an empty JSON skeleton with empty splits and empty cases list.",
+      "files_affected": [
+        "research/datasets/data_manifest.json"
+      ],
+      "completion_criteria": "data_manifest.json contains hashes, record counts, and split allocations matching cases.jsonl.",
+      "dependencies": ["TASK-006"]
+    },
+    {
+      "id": "TASK-014",
+      "task": "Install missing environment dependencies (FastAPI, Docker)",
+      "category": "Important improvements",
+      "priority": "P2",
+      "status": "pending",
+      "evidence": "pytest policy_compare/tests/test_api.py fails due to missing fastapi. Docker daemon is not running.",
+      "files_affected": [
+        "requirements.txt",
+        "policy_compare/pyproject.toml"
+      ],
+      "completion_criteria": "FastAPI and dependencies installed in virtual environment, allowing test_api.py to execute cleanly.",
+      "dependencies": []
+    },
+    {
+      "id": "TASK-015",
+      "task": "Extend duty rules and evaluation to SPDI Rules, CERT-In, and IT Act",
+      "category": "Optional future work",
+      "priority": "P3",
+      "status": "pending",
+      "evidence": "Existing research evaluation cases strictly test 3 DPDP obligations (Sec 6(1), Sec 6(5), Sec 8(5)). Although IT Act, SPDI, and CERT-In graphs exist in dataset/, no duty rules or evaluation cases exist for them.",
+      "files_affected": [
+        "compliance/src/compliance/data/duty_rules.json",
+        "research/datasets/cases.jsonl"
+      ],
+      "completion_criteria": "Duty rules and evaluation cases defined for SPDI Section 43A rules, CERT-In directions, and IT Act sections.",
+      "dependencies": ["TASK-006", "TASK-008"]
+    },
+    {
+      "id": "TASK-016",
+      "task": "Train and evaluate domain-specific SLM adapters",
+      "category": "Optional future work",
+      "priority": "P3",
+      "status": "pending",
+      "evidence": "polarislex-finetuning/ contains dataset and fine-tuning scripts, but no trained LoRA weights or evaluation of SLM vs deterministic engine exist.",
+      "files_affected": [
+        "polarislex-finetuning/scripts/04_finetune.py"
+      ],
+      "completion_criteria": "Trained QLoRA adapter evaluated on provision classification test set.",
+      "dependencies": []
+    }
+  ]
+}

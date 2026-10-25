@@ -1,0 +1,499 @@
+## Privacy Notice
+
+OMNICOM GROUP
+
+Last Updated: February 2025
+
+#### 1. PURPOSE OF THIS PRIVACY NOTICE
+
+This Privacy Notice explains our approach to any personal data that we might collect from you (i) when you use our Site or Services (ii) during any other interactions with us, or (iii) which we might otherwise process when providing Services to our clients (including the personal data we collect, why we collected it and your rights in respect of our processing of your personal data).
+
+This Privacy Notice is intended to assist you in making informed decisions when using the Site and our Services. Please take a moment to read and understand this Privacy Notice. It is intended to be read in conjunction with our Website Terms of Use | Omnicom Group and Cookie Notice.
+
+Finally, this Privacy Notice is intended to meet the requirements of:
+
+- Regulation (EU) 2016/79 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (“EU GDPR”).
+
+- Equivalent data protection laws in the United Kingdom (the “UK GDPR”) and Switzerland (“Swiss Data Protection Law”).
+
+- Other data protection laws that are applicable to the processing activities set out in this Privacy Notice.
+
+For ease of reference, in this Privacy Notice we use the term “GDPR” to collectively refer to the EU GDPR, UK GDPR and Swiss Data Protection Laws.
+
+#### 2. SCOPE OF THIS PRIVACY NOTICE
+
+This Privacy Notice only applies to the use of your personal data obtained by us, whether from you directly or from a third party. It does not apply to personal data collected by third parties during your communications with those third parties or your use of their products or services (for example, where you follow links on our Site to third party websites over which we have no control).
+
+Further, this Privacy Notice is not intended to cover the processing of workplace personal data. Accordingly, if you are engaged as a worker for us, please see our Workplace Privacy Notice which sets out further information about how we may process your personal data in connection with your employment and/or engagement.
+
+#### 3. CHANGES TO THIS PRIVACY NOTICE
+
+We will update this Privacy Notice from time to time to reflect any changes or proposed changes to our use of your personal data, or to comply with changes in applicable law or regulatory requirements. We may notify you by email of any significant changes to this Privacy Notice, but we encourage you to review this Privacy Notice periodically to keep up to date on how we use your personal data. If we update this Privacy Notice, we will update the effective date at the top of the page.
+
+#### 4. ABOUT US
+
+The Site and Services are made available by Omnicom Group Inc. Omnicom Group Inc is a New York (USA) corporation (No: 55569) with its registered office at 280 Park Avenue, New York, United States, NY 10017.
+
+For the purpose of this Privacy Notice and the GDPR, unless we state otherwise, we shall be considered a data controller of your personal data in connection with use cases identified in this Privacy Notice. Please note that in many cases where we process data in relation to Services that we provide, we may carry out the activities referred to in this Privacy Notice in our capacity as a data processor acting on behalf of our clients. We have made this distinction clear in the Privacy Notice.
+
+#### 5. HOW TO CONTACT US
+
+If you have any questions about this Privacy Notice or want to exercise your rights as a data subject set out in this Privacy Notice, you can contact us using the following methods:
+
+| Email | Send us an email at: [email protected]
+
+| Post | Write to us at Omnicom Group Inc.
+Attn: General Counsel
+280 Park Avenue
+New York, NY 10017
+
+| Telephone | 1-833-587-0104
+
+#### 6. TYPE OF PERSONAL DATA WE COLLECT/PROCESS
+
+When we talk about personal data, we mean any information which relates to an identified or identifiable living individual. Individuals might be identified by reference to a name, an identification number, location data, an online identifier (such as an IP address) or to other factors that are specific to them, such as their physical appearance. Categories of personal data we may collect and process about you include:
+
+| Identity Data | First name; last name.
+
+| Contact Data | Delivery address; billing address; email address; telephone number; social media handle.
+
+| Applicant Data | Date of birth; gender; country; nationality; CVs, work experience; dietary requirements any other personal data that you may provide in advance of/during your supply of services to us.
+
+| Image Data | Photos; video recordings.
+
+| Financial Data | Bank account details; partial payment card details.
+
+| Transaction Data | Details about payments made between you and us; details of services purchased from us.
+
+| Profile Data | Interests and preferences; contact/marketing preferences; feedback and survey responses.
+
+| Behavioral Data | Data relating to your browsing activity, obtained through the use of cookies, pixel tags and other similar technologies; information about when your current or previous sessions started; details about any services you viewed or purchased through the Site.
+
+| Technical Data | IP address; browser type and operating system; geolocation, to ensure we’re showing you the correct notices and information; any other unique numbers assigned to a device.
+
+| Publicly Available Data | Information about articles (or similar) that you may have published; information about your interests or affiliations or publicly stated positions on political matter, corporate matters and similar.
+
+For more information about the personal data we collect please refer to section How we use Personal Data below.
+
+#### 7. HOW WE COLLECT PERSONAL DATA
+
+We may collect and receive your personal data using different methods:
+
+| Personal data you provide to us | You may give us your personal data directly, for example, when you obtain services via our Site, contact us with enquiries, complete forms on our Site, subscribe to receive our marketing communications or provide feedback to us.
+
+| Personal data we collect using cookies and other similar technologies | When you access and use our Site, we will collect certain Behavioral Data and Technical Data. We collect this personal data by using cookies and other similar technologies (see the Website insight and analysis section below).
+
+| Personal data received from third parties | We may receive personal data about you from third parties. Such third parties may include analytics providers, data brokers, third party directories and third parties that provide technical services to us so that we can provide our Site and our Services.
+
+| Publicly available personal data | From time to time, we may collect personal data about you (Identity Data, Contact Data, or Publicly Available Data) that is contained in publicly available sources (including open source data sets or media reports) or that you or a third party may otherwise make publicly available (for example through speeches at events or publishing articles or other news stories or posts on social media platforms).
+
+#### 8. WHO WE COLLECT PERSONAL DATA ABOUT
+
+We collect and process personal data from the following people:
+
+| Site visitors | We will collect and process your personal data in connection with your interaction with us and our Site.
+
+| People who contact us with enquiries | If you contact us with an enquiry through our Site, submit a complaint or provide any feedback to us in our surveys and feedback forms, we will collect and process your personal data in connection with your interaction with us and our Site.
+
+| Client personnel | We may collect and process your personal data in connection with the supply of services to you and/or your organization.
+
+| Talent | If you supply services and/or content to us and/or work with us to provide services to our client (including featuring in content we produce), we may collect or process your personal data, such as your Identity Data, Contact Data, Financial Data, CVs in connection with such supply of services and/or content to us and our clients.
+
+| Partner/supplier personnel | If you (or your organization) supply products or services to us or otherwise partner with us, we may collect and process your personal data in connection with our receipt of those products and services and/or partnership. This may include personal data included in any email or telephone communications or recorded on any document relating to an order for the products or services, such as your Contact Data.
+
+| Visitors to our offices or other locations | If you attend one of our physical offices or other locations, we may process personal data that you volunteer in connection with your visit and any enquiries you make. For example, you may volunteer personal data when signing in as a guest, or when you register for and access our guest Wi-Fi network at our premises. CCTV footage may also be collected for security purposes.
+
+| Event attendees | If you attend one of our events, we will process personal data about you in connection with your attendance at the event. For example, we may ask you to complete a registration or feedback form, or other documents relating to the event.
+
+| Job applicants | If you apply for a job with us, whether through the Site or otherwise, we will collect and process your personal data in connection with your application.
+
+| Members of the public | We may process your data in connection with the provision of the Services to our clients.
+
+#### 9. HOW WE USE PERSONAL DATA
+
+A: OPERATION OF SITE, PROVISION OF SERVICES AND MARKETING
+
+I. Operation of the Site
+
+If you browse our Site
+
+When you browse our Site, we collect and process Behavioral Data and Technical Data to help us understand how you are using and navigating our Site. We do this so that we can better understand which parts of our Site are more or less popular and improve the structure and navigation of our Site.
+
+Our legal basis for processing
+
+It is necessary for us to use your personal data to perform our obligations in accordance with any contract that we may have with you for the Services or it is in our legitimate interest to use personal data in such a way to ensure that we provide access to our Site in a secure and effective way and so that we can make improvements to our Site.
+
+If you link to social media sites and interact with our social media pages
+
+If you click on one of the social media links on our Site or otherwise interact with our social media pages such as on Facebook or Instagram (including interacting with any ‘like’ or similar embedded features on our Site), we and the relevant social media platform may receive information relating to such interaction and may share your personal data in connection with this purpose. Where that data is collected through your use of our Site, the data may include certain Behavioral Data and Technical Data. For more information about how we use this personal data, please see the Website insight and analysis section below.
+
+The relevant social media platform may also be a controller in respect of the personal data that is collected via your use of our social media pages and may use that personal data for additional purposes. For details of how the relevant social media platform uses your personal data, please see the privacy notice of the relevant social media platform.
+
+Website insight and analysis
+
+We and our third-party partners use cookies, web beacons, pixel tags and other similar technologies (which we generically refer to as “Cookies”) to collect data from the devices that you use to access our Site. The data that is collected includes Behavioral Data and Technical Data, and certain Profile Data. Please see our Cookie Notice for further information, including details of our third-party partners.
+
+We and our third-party partners use this data to analyze how you use our Site and our Services and the effectiveness of our Site and Services, including:
+
+- to analyze how you use, and the effectiveness of, our Site and Services;
+
+- to count users who have visited our Site and collect other types of information, including insights about visitor browsing habits, which helps us to improve our Site and Services;
+
+- to measure the effectiveness of our content;
+
+- to learn what parts of our Site are most attractive to our users, which parts of our Site are the most interesting and what kind of features and functionalities our visitors like to see;
+
+- to help us understand the type of marketing content that is most likely to appeal to our visitors and customers.
+
+Where your data is collected through the use of cookies that are not strictly necessary, we rely on consent to collect your personal data and for the onward processing purpose. Please see our Cookie Notice for further details.
+
+In certain circumstances, we may rely on another lawful basis when we use your personal data collected via the use of cookies. For example, where we use personal data collected through the use of performance cookies to analyze how you use our Site, it is in our legitimate interest to use your personal data in such a way to improve our Site and Services.
+
+II. Provision of our Services
+
+Provision of client facing services
+
+We may, acting on our own behalf and on behalf of our clients, collect personal data about you (including the types of personal data we set out in Section 6 in the Types of personal data we collect/process in connection with the provision of our Services.
+
+To the extent the above involves personal data, it is in our legitimate interests (or those of our clients) to process personal data in this way to enable us to provide our services. Where we do this on behalf of our clients as a data processor, we do not require a legal basis for such processing.
+
+Where your data is collected through the use of cookies that are not strictly necessary, we rely on consent to collect your personal data and for the onward processing purpose. Please see our Cookie Notice for further details.
+
+III. Marketing and Media Enquires
+
+Marketing
+
+We may use your Identity Data, Contact Data and Profile Data to send you (or the organization you represent) marketing communications by email or via phone. Our marketing will include press releases and information about us.
+
+It is in our legitimate interest to use your personal data in this way to ensure the promotion of our services is tailored and/or appealing to you and/or the organization you work for although sometimes we may also obtain your consent.
+
+Media and informational inquiries
+
+We may collect personal data (including Identity Data, Contact Data and Publicly Available Data) about journalists, client contacts or industry contacts for interviews requests, for media questions, or requests for information about Omnicom. We may also provide individuals with the opportunity to sign up for newsletters or to receive copies of blogs and other information that we make available. Where an individual signs up to receive such information, Contact Data may be requested in each case, together with details of other personal data that is relevant to these inquiries. This information is used in order to enable us to respond to individual requests or media requests.
+
+It is in our legitimate interests (and those of our clients) to process personal data in this way to ensure we provide the services requested by our clients in an effective and efficient way and that we provide the right information to those who request it.
+
+B: BUSINESS ADMINISTRATION, FINANCIAL AND LEGAL
+
+Receipt of services
+
+If we have engaged an organization to provide us or our client with services (for example, IT support or financial advice), we will collect and process your personal data (including Contact and Identity Data) if you are a contact within the relevant organization in order to manage our relationship or our clients with the organization, to receive services from the organization and, where relevant, to provide our services to others including our clients.
+
+It is necessary for us to use personal data in this way to perform our obligations in accordance with any contract that we may have with the organization, or it is in our legitimate interest to use personal data in such a way to ensure that we have an effective working relationship with the organization and are able to provide our services to others in an effective way. Where we do this on behalf of our clients as a data processor, we do not require a legal basis for such processing.
+
+Recruitment
+
+If individuals apply for a job with us or otherwise express an interest in working for us, we will collect contact details and CV or resume information from the individual. We use such personal data for the following purposes: a) to assess the individual’s suitability for any position for which they applied (or future positions for which we think the individual may be suitable) including employment or freelancer positions, summer placements or internships and also any business support or services role whether such application has been received by us online, via email or by hard copy or in person application; b) to take any steps necessary to enter into any contract of employment (or otherwise) with the individual; c) to comply with any regulatory or legal obligations in relation to any such application; and d) to review our equal opportunity profile in accordance with applicable legislation. We do not discriminate on the grounds of gender, race, ethnic origin, age, religion, sexual orientation, disability or any other basis covered by local legislation.
+
+What is our legal basis?
+
+Where we use personal data in connection with recruitment and talent management it will be in connection with us entering into a legal contract with them or it is in our legitimate interest to use personal data in such a way to ensure that we can make the best recruitment and talent management decisions for Omnicom, or it is our legal obligation to use such personal data to comply with any legal obligations imposed upon us. We will not process any special data except where we are able to do so under applicable legislation or with the individual’s explicit consent.
+
+Visiting our premises, studios or production sites
+
+If an individual visits any of our premises, studios and/or production sites we may collect personal data including Identity or Contact Data as part of our sign in process. We may also capture their image on our surveillance camera or CCTV.
+
+If an individual registers as a guest user for free Wi-Fi access at any of our premises, we may collect personal data including Identity and Contact Data as part of the registration process. We may also process Behavioral and Technical Data in connection with any use of this free Wi-Fi service for monitoring and record-keeping purposes, including to identify the source of service requests, optimize and maintain performance of the Wi-Fi service, and investigate and prevent system abuse.
+
+It is in our legitimate interests to process personal data in this way for security reasons:
+
+Where we process personal data in connection with providing access to our free Wi-Fi service, it is in our legitimate interests to process personal data in this way to provide the service.
+
+Where we monitor use of our free Wi-Fi service to ensure proper use of the system, we process personal data for monitoring and record-keeping purposes based on guest user consent.
+
+Business administration, finance, and legal compliance
+
+We may use an individual’s personal data (including Identity Data, Contact Data, Financial Data, Transaction Data, Publicly Available Data) for the following business administration and legal compliance purposes:
+
+- to facilitate the operation or effective management of our group of businesses;
+
+- for financial, accounting and tax purposes;
+
+- to comply with our legal obligations;
+
+- to enforce or protect our legal rights;
+
+- to deal with complaints;
+
+- to protect the rights of third parties (including where health or security of an individual is endangered (e.g. a fire); and
+
+- in connection with a business transition or sale such as a merger, re-organization, acquisition by another company, or sale of all or a portion of our assets.
+
+Where we use personal data in connection with a business transition, to enforce our legal rights or to protect the rights of third parties, it is in our legitimate interest to do so. For all other purposes described in this section, we will rely on our obligation to comply with law (including any court order) to process such personal data.
+
+We will not process any special (or sensitive) categories of personal data or personal data relating to criminal convictions or offences except where we are able to do so under applicable legislation or with the individual’s explicit consent.
+
+#### 10. IF YOU FAIL TO PROVIDE YOUR PERSONAL DATA
+
+Where we are required by law to collect your personal data, or we need to collect your personal data under the terms of a contract we have with you, and you fail to provide that personal data when we request it, we may not be able to perform the contract we have or are trying to enter into with you. This may apply where you do not provide the personal data that we need in order to provide the Services you have requested from us or to process an application for employment with us. In this case, we may have to cancel your application or the provision of the relevant Services to you, in which case we will notify you.
+
+#### 11. SHARING YOUR PERSONAL DATA
+
+We only share personal data with others when we are legally permitted to do so. When we share personal data with others, we put contractual arrangements and security mechanisms in place to protect the personal data shared and to comply with our data protection, confidentiality and security standards and obligations.
+
+We may share data (subject to the above) with Omnicom Group companies, Omnicom Networks or with our partner agencies. For more information about the Omnicom Group, please see here: Advertising and Marketing Agencies | Omnicom Group
+
+Further (again subject to the above) we may share your personal data with third parties as set out in the table below. This list is non-exhaustive and there may be circumstances where we need to share personal data with other third parties.
+
+| Our clients | We may share personal data with our clients for the purposes of providing them with Services.
+
+| Third-party IT suppliers | We may share personal data with third parties who support us in providing our Site and help provide, run, and manage our internal IT systems. Such third parties may also include, for example, providers of information technology, cloud-based software-as-a-service providers, identity management, website design, hosting and management, data analysis, data back-up, security, and storage services. The servers powering and facilitating that cloud infrastructure are located in secure data centers around the world, and personal data may be stored in any one of them. We may also share your personal data with third-party service providers to assist us with insight analytics. These providers are described in our Cookie Notice.
+
+| Payment providers and banks | We may share personal data with third parties who assist us with our invoicing and/or making/receiving payments.
+
+| Third-party post/email marketing and CRM specialists | We may share personal data with specialist suppliers who assist us in managing our marketing database and sending out email marketing communications.
+
+| Recruitment agencies and related organizations | We may share personal data with external recruiters, third-party providers that undertake background checks on our behalf and other entities within our group of companies for recruitment purposes.
+
+| Auditors, lawyers, accountants and other professional advisers | We may share personal data with professional services firms who advise and assist us in relation to the lawful and effective management of our organization and in relation to any disputes we may become involved in.
+
+| Law enforcement or other government and regulatory agencies and bodies | We may share personal data with law enforcement or other government and regulatory agencies or other third parties as required by, and in accordance with, applicable law or regulation.
+
+| Other third parties | Occasionally, we may receive requests from third parties with authority to obtain disclosure of personal data, such as to check that we are complying with applicable law and regulation, to investigate an alleged crime, or to establish, exercise or defend legal rights. We will only fulfil requests for personal data where we are permitted to do so in accordance with applicable law or regulation.
+
+#### 12. DATA TRANSFERS OUTSIDE THE UK AND THE EEA
+
+As we are based in New York, United States of America (“US”), you acknowledge and agree that any data that is provided directly to us will be stored in the US. We may also transmit your personal data to other third parties outside the UK and the EEA to certain categories of third parties (as listed above in Sharing your personal data and more specifically to: (1) our different global offices; and (2) the offices of other global Omnicom Group entities, networks or partners agencies.
+
+Non-EEA countries do not have the same data protection laws as the UK and the EEA. In particular, non-EEA countries may not provide the same degree of protection for your personal data, may not give you the same rights in relation to your personal data and may not have a data protection supervisory authority to help you if you have any concerns about the processing of your personal data.
+
+To the extent our processing of your personal data is caught by the requirements of the UK GDPR and/or GDPR, when transferring your personal data to territories outside the UK or the EEA, we will ensure that, where required by applicable law, at least one of the following safeguards is implemented: (1) we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the UK Government or the European Commission; or (2) where we use certain service providers, we may use specific contracts approved by the UK Government or the European Commission referred to as the “Standard Contractual Clauses” or “SSCs” which give personal data the same protection it has in the UK and EU.
+
+To find out more about the SCCs we use, please see: Standard contractual clauses for international transfers | European Commission (europa.eu) or please email us at [email protected] or call us at 1-833-587-0104.
+
+In addition, where we disclose personal data that we process in connection with our participation in the EU-U.S. Data Privacy Framework, the UK Extension to that framework, and/or the Swiss-U.S. Data Privacy Framework, we remain liable under those frameworks in relation to our onward transfer of personal data to these countries, unless we can show that we are not responsible for the event giving rise to the damage.
+
+Transfers to us – where we receive personal data
+
+As we are headquartered in New York, USA, any data that you provide directly to us, or that we receive from third parties, may be stored in the USA. In addition, it may be transferred by us to other countries (as described above). Please review the Omnicom Data Privacy Framework Privacy Policy for details on our DPF policy.
+
+If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov. Omnicom Group complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Omnicom Group has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Omnicom Group has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+
+#### 13. OBTAINING YOUR CONSENT
+
+Where our use of your personal data requires your consent, you can provide such consent:
+
+- at the time that we collect your personal data following the instructions provided; or
+
+- by informing us by e-mail, post or phone using the contact details set out in this Privacy Notice.
+
+Please note that if you specifically consent to additional uses of your personal data, we may use your personal data in a manner consistent with that consent.
+
+#### 14. CONFIDENTIALITY AND SECURITY OF YOUR PERSONAL DATA
+
+We are committed to keeping the personal data you provide to us secure and we have implemented information security policies, rules and technical measures to protect the personal data under our control from unauthorized access, improper use or disclosure, unauthorized modification and unlawful destruction or accidental loss. In addition, all our employees and data processors (i.e. those who process your personal data on our behalf) are obliged to respect the confidentiality of the personal data of all users of our Site and those who purchase our Services.
+
+#### 15. YOUR DATA PROTECTION RIGHTS
+
+You have the following rights in relation to the personal data we hold about you under certain circumstances:
+
+- To obtain the confirmation that we process personal data about you, to access and obtain copies of the information, as well as information relating to the processing we carry out.
+
+- To request your personal data be corrected where appropriate.
+
+- If personal data we hold about you is inaccurate or incomplete, you may request that data be amended. However, please be aware that it is every person’s responsibility to provide us with accurate personal data and to inform us of any changes (e.g. new home address or change of name).
+
+- To request your personal data be deleted, where appropriate.
+
+- If you demonstrate that the purpose for which the personal data is being processed is no longer legal or appropriate, the data will be deleted, unless we can demonstrate that we are required to retain the personal data by applicable law or otherwise.
+
+- If we have shared your personal data with others, we will let them know about the deletion where possible. If you ask us, where it is possible and lawful for us to do so, we will also tell you who we have shared your personal information with so that you can contact them directly.
+
+- To request that we restrict the processing of your personal data in some circumstances, such as where you contest the accuracy of the personal data, while we investigate your concern.
+
+- It will not prevent us from storing your personal information.
+
+- We will tell you before we lift any restriction.
+
+- If we have shared your personal information with others, we will let them know about the restriction where it is possible for us to do so.
+
+- If you ask us, where it is possible and lawful for us to do so, we will also tell you who we have shared your personal information with so that you can contact them directly
+
+- Where processing is based on your consent, to receive your personal data in a commonly used electronic format or ask that we move your personal data in that format to another provider, where your request relates to the personal data that you gave us directly and where technically possible.
+
+- To object to your personal data being processed where we are relying on ours or a third party’s legitimate interest to do so or for the purpose of direct marketing.
+
+- To withdraw your consent at any time when processing relies upon consent.
+
+Data subjects may exercise these rights verbally or in writing using our contact information provided in the section below entitled how to contact us . We will endeavor to promptly respond to your requests. Where you ask us to provide a copy of your personal data, we are legally obliged to respond within one month of such request. If your request is denied, we will inform you about the reasons for denial.
+
+Please note that in order for you to assert these rights, we may need to verify your identity to confirm your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In order to verify your identity, we may need to gather more personal data from you than we currently have.
+
+Lodging Complaints
+
+In addition, you may have the right to lodge certain complaints in relation to our processing of your personal data with regulators in your jurisdiction.
+
+If you have a concern about any aspect of our privacy practices, including the way we have handled your personal data, we encourage you to first contact us using our contact information provided in the how to contact us section. If you want to initiate a data subject access request, click on this link and fill out the form.
+
+If the GDPR applies, you can report your concerns to the following organizations:
+
+| European Economic Area | You can find a list of supervisory authorities and their contact details for the EEA at http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+
+| United Kingdom | The Information Commissioner’s Office (“ICO”) is the supervisory authority in the United Kingdom. Contact details for the ICO can be found at https://ico.org.uk.
+
+| Switzerland | The Federal Data Protection and Information Commissioner (“FDPIC”) is the supervisory authority in Switzerland. Contact details for the FDPIC can be found at https://www.edoeb.admin.ch/.
+
+| United States of America | In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Omnicom Group commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/eu-us-data-privacy-framework for more information or to file a complaint. The services of JAMS are provided at no cost to you. Following the dispute resolution process, JAMS or you may refer the matter to the U.S. Federal Trade Commission, which has investigatory and enforcement powers over us. Under certain circumstances, you also may be able to invoke binding arbitration to address complaints about our compliance with DPF Principles.
+
+#### 16. OPT OUT AND UNWANTED COMMUNICATIONS
+
+To opt-out of any future promotional or marketing communications or any other commercial communications from us, you should send a request to us at the contact information in the section entitled how to contact us above.
+
+#### 17. THIRD PARTY LINKS AND SERVICES
+
+This Site contains links to third party websites and services. Please remember that when you use a link to go from our Site to another website or you request a service from a third party, this Privacy Notice no longer applies to these third-party websites and third-party service providers unless we are acting as joint controllers in respect of your personal data with such third party.
+
+Your browsing and interaction on any other websites, or your dealings with any other third-party service provider, is subject to that website’s or third-party service provider’s own rules and policies. We do not monitor, control, or endorse the privacy practices of any third parties.
+
+This Site may integrate with social networking services. You understand that we do not control such services and are not liable for the way they operate. While we may provide you with the ability to use such services in connection with our Site, we are doing so merely as an accommodation and, like you, are relying upon those third-party services to operate properly and fairly.
+
+#### 18. HOW LONG DO WE KEEP YOUR PERSONAL DATA?
+
+We retain personal data only for as long as is necessary for the purposes described in this Privacy Notice, after which it is deleted from our systems.
+
+If any personal data is only useful for a short period (e.g.; for a specific event or marketing campaign or in relation to recruitment), we will delete it at the end of that period. Please note that if you are an unsuccessful candidate, we may keep your information for a short period.
+
+If you have opted out of receiving marketing communications from us, we will need to retain certain personal data on a suppression list so that we know not to send you further marketing communications in the future.
+
+#### 19. PERSONAL DATA OF MINORS
+
+Our Site is not intended for use by, or targeted at, minors (individuals under the age of 18) and we do not knowingly collect personal data of minors. However, due to the nature of our organization and the Services we provide, we may from time-to-time collect and process personal data relating to minors. If we do collect personal data of minors, we will comply with all applicable laws and regulations relating to the processing of personal data of minors.
+
+#### 20. COUNTRY SPECIFIC PROVISIONS
+
+UNITED STATES
+
+California Consumer Privacy Statement
+
+Last Updated: July 31, 2020
+
+This California Consumer Privacy Statement (“Statement”) supplements the Omnicom Group Inc. Online Privacy Notice. It applies solely to California consumers and addresses personal information we collect online and offline. This Statement does not apply to Omnicom personnel. Sections 2-5 of this Statement do not apply to job applicants.
+
+This Statement uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 and its implementing regulations (the “CCPA”).
+
+- Notice of Collection and Use of Personal Information
+
+We may collect (and may have collected during the 12-month period prior to the effective date of this Statement) the following categories of personal information about you:
+
+- Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, account name, Social Security number, driver’s license number, passport number, and other similar identifiers
+
+- Additional Data Subject to Cal. Civ. Code § 1798.80: signature, physical characteristics or description, state identification card number, insurance policy number, education, bank account number, credit card number, debit card number, and other financial information, medical information, and health insurance information
+
+- Protected Classifications: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, genetic information, disability, citizenship status, and military and veteran status
+
+- Commercial Information: commercial information, including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+
+- Online Activity: Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements
+
+- Sensory Information: audio, electronic, visual, and similar information
+
+- Employment Information: professional or employment-related information
+
+- Education Information: education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)
+
+- Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+We may use (and may have used during the 12-month period prior to the effective date of this Statement) your personal information for the purposes described in our Online Privacy Notice and for the following business purposes specified in the CCPA:
+
+- Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+
+- Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+
+- Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+
+- Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+
+- Debugging to identify and repair errors that impair existing intended functionality
+
+- Undertaking internal research for technological development and demonstration
+
+- Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us.
+
+- Managing career opportunities with Omnicom.
+
+- Sources of Personal Information
+
+During the 12-month period prior to the effective date of this Statement, we may have obtained personal information about you from the following categories of sources:
+
+- Directly from you, such as when you contact us with a question or comment
+
+- From your devices, such as when you visit our Site
+
+- Vendors who provide services on our behalf
+
+- Social networks
+
+- Government entities
+
+- Data brokers
+
+- Sale of Personal Information
+
+We do not and will not sell your personal information.
+
+- Sharing of Personal Information
+
+During the 12-month period prior to the effective date of this Statement, we may have shared your personal information with certain categories of third parties, as described below.
+
+We may have disclosed the following categories of personal information about you for a business purpose to the following categories of third parties:
+
+| Category of Personal Information | Category of Third Party
+
+| Identifiers | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Additional | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Protected Classifications | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Commercial | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Online Activity | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Employment Information | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Education Information | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+| Inferences | Our affiliates and subsidiaries; Vendors who provide services on our behalf; Professional services organizations, such as auditors and law firms; Our business partners; Advertising networks; Internet service providers; Data analytics providers; Operating systems and platforms; Social networks
+
+In addition to the categories of third parties identified above, during the 12-month period prior to the effective date of this Statement, we may have shared personal information about you with the following additional categories of third parties: Government entities.
+
+- California Consumer Privacy Rights
+
+You have certain choices regarding our use and disclosure of your personal information, as described below.
+
+Access: You may have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed and sold about you during the past 12 months.
+
+Deletion: You have the right to request that we delete certain personal information we have collected from you.
+
+How to Submit a Request: To submit an access or deletion request (or to submit a request as an authorized agent on behalf of a consumer), email us at [email protected] or call us at 1-833-587-0104. For questions or concerns about our privacy policies and practices, please contact us as described in how to contact us section above.
+
+Verifying Requests: To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. If you request access to or deletion of your personal information, we may require you to provide any of the following information: your email address, the name of the Omnicom representative with whom you typically interact, and the date of your last interaction with an Omnicom representative. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+
+Additional Information: If you choose to exercise any of your rights under the CCPA, you have the right to not receive discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.
+
+## Stay connected
+
+### Contact
+
+Press Inquiries
+
+[email protected]
+
+New Business Inquiries
+
+[email protected]
+
+### Follow Us
+
+Instagram
+LinkedIn
+
+Facebook
+X
+
+© Omnicom. All rights reserved.
+
+Privacy Notice
+Terms of Use
+
+Cookie Preferences
